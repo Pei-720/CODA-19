@@ -1,0 +1,121 @@
+{
+  "paper_id": "284541395ddc07d44ccd2d3da2ba060505a01407",
+  "metadata": {
+    "title": "Ehrlichia secretes Etf-1 to induce autophagy and capture nutrients for its growth through RAB5 and class III phosphatidylinositol 3-kinase",
+    "coda_data_split": "train",
+    "coda_paper_id": 8118,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Ehrlichia chaffeensis is an obligatory intracellular bacterium that causes a potentially fatal emerging zoonosis, human monocytic ehrlichiosis. E. chaffeensis has a limited capacity for biosynthesis and metabolism and thus depends mostly on host-synthesized nutrients for growth. Although the host cell cytoplasm is rich with these nutrients, as E. chaffeensis is confined within the early endosome-like membrane-bound compartment, only host nutrients that enter the compartment can be used by this bacterium. How this occurs is unknown. We found that ehrlichial replication depended on autophagy induction involving class III phosphatidylinositol 3-kinase (PtdIns3K) activity, BECN1 (Beclin 1), and ATG5 (autophagy-related 5). Ehrlichia acquired host cell preincorporated amino acids in a class III PtdIns3Kdependent manner and ehrlichial growth was enhanced by treatment with rapamycin, an autophagy inducer. Moreover, ATG5 and RAB5A/B/C were routed to ehrlichial inclusions. RAB5A/B/C siRNA knockdown, or overexpression of a RAB5-specific GTPase-activating protein or dominant-negative RAB5A inhibited ehrlichial infection, indicating the critical role of GTP-bound RAB5 during infection. Both native and ectopically expressed ehrlichial type IV secretion effector protein, Etf-1, bound RAB5 and the autophagy-initiating class III PtdIns3K complex, PIK3C3/VPS34, and BECN1, and homed to ehrlichial inclusions. Ectopically expressed Etf-1 activated class III PtdIns3K as in E. chaffeensis infection and induced autophagosome formation, cleared an aggregation-prone mutant huntingtin protein in a class III PtdIns3K-dependent manner, and enhanced ehrlichial proliferation. These data support the notion that E. chaffeensis secretes Etf-1 to induce autophagy to repurpose the host cytoplasm and capture nutrients for its growth through RAB5 and class III PtdIns3K, while avoiding autolysosomal killing.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Ehrlichia chaffeensis is an obligatory intracellular bacterium that causes a potentially fatal emerging zoonosis , human monocytic ehrlichiosis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "E. chaffeensis has a limited capacity for biosynthesis and metabolism and thus depends mostly on host-synthesized nutrients for growth .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although the host cell cytoplasm is rich with these nutrients ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as E. chaffeensis is confined within the early endosome-like membrane-bound compartment ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "only host nutrients that enter the compartment can be used by this bacterium .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "How this occurs is unknown .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We found that ehrlichial replication depended on autophagy induction involving class III phosphatidylinositol 3-kinase ( PtdIns3K ) activity ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "BECN1 ( Beclin 1 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and ATG5 ( autophagy-related 5 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Ehrlichia acquired host cell preincorporated amino acids in a class III PtdIns3Kdependent manner and ehrlichial growth was enhanced by treatment with rapamycin , an autophagy inducer .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , ATG5 and RAB5A/B/C were routed to ehrlichial inclusions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "RAB5A/B/C siRNA knockdown , or overexpression of a RAB5-specific GTPase-activating protein or dominant-negative RAB5A inhibited ehrlichial infection ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "indicating the critical role of GTP-bound RAB5 during infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Both native and ectopically expressed ehrlichial type IV secretion effector protein ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Etf-1 , bound RAB5 and the autophagy-initiating class III PtdIns3K complex ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "PIK3C3/VPS34 , and BECN1 , and homed to ehrlichial inclusions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Ectopically expressed Etf-1 activated class III PtdIns3K as in E. chaffeensis infection and induced autophagosome formation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "cleared an aggregation-prone mutant huntingtin protein in a class III PtdIns3K-dependent manner , and enhanced ehrlichial proliferation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These data support the notion that E. chaffeensis secretes Etf-1 to induce autophagy to repurpose the host cytoplasm and capture nutrients for its growth through RAB5 and class III PtdIns3K , while avoiding autolysosomal killing .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "11",
+    "segment_num": "19",
+    "token_num": "286"
+  }
+}

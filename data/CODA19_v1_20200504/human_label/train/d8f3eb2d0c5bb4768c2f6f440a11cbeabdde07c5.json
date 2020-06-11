@@ -1,0 +1,63 @@
+{
+  "paper_id": "d8f3eb2d0c5bb4768c2f6f440a11cbeabdde07c5",
+  "metadata": {
+    "title": "Using network science to propose strategies for effectively dealing with pandemics: The COVID-19 example",
+    "coda_data_split": "train",
+    "coda_paper_id": 4325,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The global spread of Coronavirus Disease 2019 (COVID-19) is overwhelming many health-care systems. As a result, epidemiological models are being used to inform policy on how to effectively deal with this pandemic. We note that the majority of existing models do not take into account differences in the amount of interactions between individuals (i.e. the underlying human interaction network). Using network science we demonstrate how this network of interactions can be used to predict the spread of the virus and to inform policy on the most successful mitigation and suppression strategies. Although applicable to disease modelling in general, our results emphasize how network science can improve the predictive power of current COVID-19 epidemiological models. We provide commented source code for all our analyses so that they can easily be integrated into current and future epidemiological models.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The global spread of Coronavirus Disease 2019 ( COVID-19 ) is overwhelming many health-care systems .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As a result , epidemiological models are being used to inform policy on how to effectively deal with this pandemic .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We note that the majority of existing models do not take into account differences in the amount of interactions between individuals ( i.e. the underlying human interaction network ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using network science we demonstrate how this network of interactions can be used to predict the spread of the virus and to inform policy on the most successful mitigation and suppression strategies .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although applicable to disease modelling in general ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "our results emphasize how network science can improve the predictive power of current COVID-19 epidemiological models .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We provide commented source code for all our analyses so that they can easily be integrated into current and future epidemiological models .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "7",
+    "token_num": "148"
+  }
+}

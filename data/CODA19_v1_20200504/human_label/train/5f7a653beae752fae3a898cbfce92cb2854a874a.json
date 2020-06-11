@@ -1,0 +1,72 @@
+{
+  "paper_id": "5f7a653beae752fae3a898cbfce92cb2854a874a",
+  "metadata": {
+    "title": "Cxcl16 Interact With SARS-CoV N Protein In and Out Cell",
+    "coda_data_split": "train",
+    "coda_paper_id": 2626,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Our study investigated the host cell protein which can interact with SARS-CoV N protein, and explored the functional connections. The eukaryotic expression vectors pEGFP-N1/SARS-CoVN and pdsRed2-N1/ CXCL16 were constructed and used to co-transfect HEK293FT cells by the calcium phosphate method. The HIS-tagged fusion protein SARS-CoVN-GFP was then built and purified for the binding assay in vitro. The co-localization of SARS-CoVN and CXCL16 in the cytoplasm of HEK293FT cells was also shown using confocal laser scanning microscopy. It is suggested that their interaction might be through direct combination.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Our study investigated the host cell protein which can interact with SARS-CoV N protein ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and explored the functional connections .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The eukaryotic expression vectors pEGFP-N1 / SARS-CoVN and pdsRed2-N1 / CXCL16 were constructed and used to co-transfect HEK293FT cells by the calcium phosphate method .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The HIS-tagged fusion protein SARS-CoVN-GFP was then built and purified for the binding assay in vitro .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The co-localization of SARS-CoVN and CXCL16 in the cytoplasm of HEK293FT cells was also shown using confocal laser scanning microscopy .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is suggested that their interaction might be through direct combination .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Under a fluorescence microscope, it was observed that the purified fusion protein SARS-CoVN-GFP was attached to the cell membrane of CXCL16-transfected cells, indicating that SARS-CoVN and CXCL16 can be mutually combined.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Under a fluorescence microscope , it was observed that the purified fusion protein SARS-CoVN-GFP was attached to the cell membrane of CXCL16-transfected cells ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "indicating that SARS-CoVN and CXCL16 can be mutually combined .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "6",
+    "segment_num": "8",
+    "token_num": "130"
+  }
+}

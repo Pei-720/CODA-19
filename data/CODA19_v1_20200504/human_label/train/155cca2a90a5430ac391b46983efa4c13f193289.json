@@ -1,0 +1,101 @@
+{
+  "paper_id": "155cca2a90a5430ac391b46983efa4c13f193289",
+  "metadata": {
+    "title": "BMC Molecular Biology Phi29 polymerase based random amplification of viral RNA as an alternative to random RT-PCR",
+    "coda_data_split": "train",
+    "coda_paper_id": 7806,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Phi29 polymerase based amplification methods provides amplified DNA with minimal changes in sequence and relative abundance for many biomedical applications. RNA virus detection using microarrays, however, can present a challenge because phi29 DNA polymerase cannot amplify RNA nor small cDNA fragments (\u003c2000 bases) obtained by reverse transcription of certain viral RNA genomes. Therefore, ligation of cDNA fragments is necessary prior phi29 polymerase based amplification. We adapted the QuantiTect Whole Transcriptome Kit (Qiagen) to our purposes and designated the method as Whole Transcriptome Amplification (WTA).",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Phi29 polymerase based amplification methods provides amplified DNA with minimal changes in sequence and relative abundance for many biomedical applications .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "RNA virus detection using microarrays ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "however , can present a challenge because phi29 DNA polymerase can not amplify RNA nor small cDNA fragments ( \u003c 2000 bases ) obtained by reverse transcription of certain viral RNA genomes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , ligation of cDNA fragments is necessary prior phi29 polymerase based amplification .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We adapted the QuantiTect Whole Transcriptome Kit ( Qiagen ) to our purposes and designated the method as Whole Transcriptome Amplification ( WTA ) .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results: WTA successfully amplified cDNA from a panel of RNA viruses representing the diversity of ribovirus genome sizes. We amplified a range of genome copy numbers from 15 to 4 × 10 7 using WTA, which yielded quantities of amplified DNA as high as 1.2 μg/μl or 10 10 target copies. The amplification factor varied between 10 9 and 10 6 . We also demonstrated that co-amplification occurred when viral RNA was mixed with bacterial DNA.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results : WTA successfully amplified cDNA from a panel of RNA viruses representing the diversity of ribovirus genome sizes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We amplified a range of genome copy numbers from 15 to 4 × 10 7 using WTA ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which yielded quantities of amplified DNA as high as 1.2 μg/μl or 10 10 target copies .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The amplification factor varied between 10 9 and 10 6 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also demonstrated that co-amplification occurred when viral RNA was mixed with bacterial DNA .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Conclusion: This is the first report in the scientific literature showing that a modified WGA (WTA) approach can be successfully applied to viral genomic RNA of all sizes. Amplifying viral RNA by WTA provides considerably better sensitivity and accuracy of detection compared to random RT-PCR.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Conclusion : This is the first report in the scientific literature showing that a modified WGA ( WTA ) approach can be successfully applied to viral genomic RNA of all sizes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Amplifying viral RNA by WTA provides considerably better sensitivity and accuracy of detection compared to random RT-PCR .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "10",
+    "segment_num": "12",
+    "token_num": "232"
+  }
+}

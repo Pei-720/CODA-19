@@ -1,0 +1,51 @@
+{
+  "paper_id": "342be6290ba0cd9fd3be17d1a1c3bb0d069185ce",
+  "metadata": {
+    "title": "Potential targets for anti-SARS drugs in the structural proteins from SARS related coronavirus",
+    "coda_data_split": "train",
+    "coda_paper_id": 3330,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "This is a further study on the severe acute respiratory syndrome (SARS) using the probabilistic models. The purpose was to define the potential targets for anti-SARS drugs in the structural proteins from human SARS related coronavirus (SARS-CoV) while knowing little about the functional sites and possible mutations in these proteins. From a probabilistic viewpoint, we can theoretically select the amino acid pairs as potential candidates for anti-SARS drugs. These candidates have a greater chance of colliding with anti-SARS drugs, are more likely to link with the protein functions and are less vulnerable to mutations.",
+      "sentences": [
+        [
+          {
+            "segment_text": "This is a further study on the severe acute respiratory syndrome ( SARS ) using the probabilistic models .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The purpose was to define the potential targets for anti-SARS drugs in the structural proteins from human SARS related coronavirus ( SARS-CoV ) while knowing little about the functional sites and possible mutations in these proteins .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "From a probabilistic viewpoint , we can theoretically select the amino acid pairs as potential candidates for anti-SARS drugs .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These candidates have a greater chance of colliding with anti-SARS drugs ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "are more likely to link with the protein functions and are less vulnerable to mutations .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "4",
+    "segment_num": "5",
+    "token_num": "104"
+  }
+}

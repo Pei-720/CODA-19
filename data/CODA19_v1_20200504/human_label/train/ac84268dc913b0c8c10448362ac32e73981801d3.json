@@ -1,0 +1,107 @@
+{
+  "paper_id": "ac84268dc913b0c8c10448362ac32e73981801d3",
+  "metadata": {
+    "title": "The outbreak pattern of the SARS cases in Asia",
+    "coda_data_split": "train",
+    "coda_paper_id": 4972,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The severe acute respiratory syndrome (SARS) caused tremendous damage to many Asia countries, especially China. The transmission process and outbreak pattern of SARS is still not well understood. This study aims to find a simple model to describe the outbreak pattern of SARS cases by using SARS case data commonly released by governments. The outbreak pattern of cumulative SARS cases is expected to be a logistic type because the infection will be slowed down due to the increasing control effort by people and/or due to depletion of susceptible individuals. The increase rate of SARS cases is expected to decrease with the cumulative SARS cases, as described by the traditional logistical model, which is widely used in population dynamic studies. The instantaneous rate of increases were significantly and negatively correlated with the cumulative SARS cases in mainland of China (including Beijing, Hebei, Tianjin, Shanxi, the Autonomous Region of Inner Mongolia) and Singapore. The basic reproduction number R o in Asia ranged from 2.0 to 5.6 (except for Taiwan, China). The R o of Hebei and Tianjin were much higher than that of Singapore, Hongkong, Beijing, Shanxi, Inner Mongolia, indicating SARS virus might have originated differently or new mutations occurred during transmission. We demonstrated that the outbreaks of SARS in many regions of Asia were well described by the logistic model, and the control measures implemented by governments are effective. The maximum instantaneous rate of increase, basic reproductive number, and maximum cumulative SARS cases were also calculated by using the logistic model.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The severe acute respiratory syndrome ( SARS ) caused tremendous damage to many Asia countries , especially China .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The transmission process and outbreak pattern of SARS is still not well understood .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study aims to find a simple model to describe the outbreak pattern of SARS cases by using SARS case data commonly released by governments .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The outbreak pattern of cumulative SARS cases is expected to be a logistic type because the infection will be slowed down due to the increasing control effort by people and/or due to depletion of susceptible individuals .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The increase rate of SARS cases is expected to decrease with the cumulative SARS cases ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as described by the traditional logistical model ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which is widely used in population dynamic studies .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The instantaneous rate of increases were significantly and negatively correlated with the cumulative SARS cases in mainland of China ( including Beijing , Hebei , Tianjin , Shanxi , the Autonomous Region of Inner Mongolia ) and Singapore .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The basic reproduction number R o in Asia ranged from 2.0 to 5.6 ( except for Taiwan , China ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The R o of Hebei and Tianjin were much higher than that of Singapore ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Hongkong , Beijing , Shanxi ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Inner Mongolia , indicating SARS virus might have originated differently or new mutations occurred during transmission .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We demonstrated that the outbreaks of SARS in many regions of Asia were well described by the logistic model ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the control measures implemented by governments are effective .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The maximum instantaneous rate of increase ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "basic reproductive number , and maximum cumulative SARS cases were also calculated by using the logistic model .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "10",
+    "segment_num": "16",
+    "token_num": "282"
+  }
+}

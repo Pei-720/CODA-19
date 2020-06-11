@@ -1,0 +1,124 @@
+{
+  "paper_id": "1f9487659694f7d08248d3e25296889075e542c8",
+  "metadata": {
+    "title": "A PREVIOUSLY UNRECOGNIZED UNR STEM-LOOP STRUCTURE IN THE CORONAVIRUS 5\u0027 UNTRANSLATED REGION PLAYS A FUNCTIONAL ROLE IN REPLICATION",
+    "coda_data_split": "train",
+    "coda_paper_id": 7131,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "required for defective interfering RNA replication, subgenomic RNA synthesis, and presumably also for virus genome replication. 1-3 For the BCoV 5\u0027 UTR, the minimum free energy structure is predicted to contain three stem-loops. 3 We have analyzed the entire 5\u0027 UTR sequences of nine group 1 and group 2 coronaviruses, including the newly discovered SARS and HKU1 coronaviruses, using consensus, covariation secondary structure predictions. Our analysis shows that the predicted secondary structures of all coronavirus 5\u0027 UTRs are strikingly similar and contain three or four stem-loops, including a previously unrecognized highly conserved UNR stem-loop.",
+      "sentences": [
+        [
+          {
+            "segment_text": "required for defective interfering RNA replication ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "subgenomic RNA synthesis , and presumably also for virus genome replication .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "1-3 For the BCoV 5 \u0027 UTR ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the minimum free energy structure is predicted to contain three stem-loops .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "3 We have analyzed the entire 5 \u0027 UTR sequences of nine group 1 and group 2 coronaviruses ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "including the newly discovered SARS and HKU1 coronaviruses ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "using consensus , covariation secondary structure predictions .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our analysis shows that the predicted secondary structures of all coronavirus 5 \u0027 UTRs are strikingly similar and contain three or four stem-loops ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including a previously unrecognized highly conserved UNR stem-loop .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Computer-assisted modeling predicts an invariant and previously unrecognized UNR stem-loop among nine coronavirus UTR sequences, denoted SL2. This predicted conserved structure encompasses nucleotides 42-56 for both MHV and the SARScoronavirus. NMR spectroscopy of the 16-nt RNA SL2 sars reveals spectral features consistent with a UNR hairpin loop. Reverse genetics studies revealed that SL2 is required for MHV replication; MHV genomes containing a substitution of the required U48 with C in the UNR loop (U48C) were not viable. RT-PCR analysis of the U48C mutant indicated that negative sense genome sized RNAs were present in cells electroporated with this mutant; however, neither positive nor negative sense subgenomic RNAs were detected. Mutations that destabilized the stem of SL2 were viable but had moderately to severely impaired replication phenotypes. Mutants that maintained the stem-loop structure replicated similarly to wild-type MHV. These genetic data strongly support the existence of the predicted UNR stem loop and its functional importance in viral replication.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Computer-assisted modeling predicts an invariant and previously unrecognized UNR stem-loop among nine coronavirus UTR sequences , denoted SL2 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This predicted conserved structure encompasses nucleotides 42-56 for both MHV and the SARScoronavirus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "NMR spectroscopy of the 16-nt RNA SL2 sars reveals spectral features consistent with a UNR hairpin loop .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Reverse genetics studies revealed that SL2 is required for MHV replication ; MHV genomes containing a substitution of the required U48 with C in the UNR loop ( U48C ) were not viable .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "RT-PCR analysis of the U48C mutant indicated that negative sense genome sized RNAs were present in cells electroporated with this mutant ; however ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "neither positive nor negative sense subgenomic RNAs were detected .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Mutations that destabilized the stem of SL2 were viable but had moderately to severely impaired replication phenotypes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Mutants that maintained the stem-loop structure replicated similarly to wild-type MHV .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These genetic data strongly support the existence of the predicted UNR stem loop and its functional importance in viral replication .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "12",
+    "segment_num": "18",
+    "token_num": "278"
+  }
+}

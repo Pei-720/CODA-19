@@ -1,0 +1,236 @@
+{
+  "paper_id": "c747c5b5cdebe39ac26640ddfb010724d938d649",
+  "metadata": {
+    "title": "A data-driven tool for tracking and predicting the course of COVID-19 1 epidemic as it evolves 2 3 4",
+    "coda_data_split": "train",
+    "coda_paper_id": 3276,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Data-driven approach; prediction of turning point; Existing 16",
+      "sentences": [
+        [
+          {
+            "segment_text": "Data-driven approach ; prediction of turning point ; Existing 16",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Infected Cases; peak EIC number; duration of hospital stay; end of epidemic; local-17",
+      "sentences": [
+        [
+          {
+            "segment_text": "Infected Cases ; peak EIC number ; duration of hospital stay ; end of epidemic ; local-17",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "in-time metric.",
+      "sentences": [
+        [
+          {
+            "segment_text": "in-time metric .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "ABSTRACT",
+      "sentences": [
+        [
+          {
+            "segment_text": "ABSTRACT",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "For an emergent disease, such as Covid-19, with no past epidemiological data 23 to guide models, modelers struggle to make predictions of the course of the 24 epidemic (1), and when predictions were made the results would vary widely.",
+      "sentences": [
+        [
+          {
+            "segment_text": "For an emergent disease , such as Covid-19 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with no past epidemiological data 23 to guide models ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "modelers struggle to make predictions of the course of the 24 epidemic ( 1 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and when predictions were made the results would vary widely .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Yet much empirical information is already contained in the data of evolving 26 epidemiological profiles. We show, for epidemics of low fatality rate, both 27 empirically with data, and theoretically, how the ratio of daily infected and 28 recovered cases can be used to track and predict the course of the epidemic. 29",
+      "sentences": [
+        [
+          {
+            "segment_text": "Yet much empirical information is already contained in the data of evolving 26 epidemiological profiles .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We show , for epidemics of low fatality rate ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "both 27 empirically with data ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and theoretically , how the ratio of daily infected and 28 recovered cases can be used to track and predict the course of the epidemic .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "29",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Ability to predict the turning points and the epidemic\u0027s end is of crucial 30 importance for fighting the epidemic and planning for a return to normalcy. 31",
+      "sentences": [
+        [
+          {
+            "segment_text": "Ability to predict the turning points and the epidemic \u0027s end is of crucial 30 importance for fighting the epidemic and planning for a return to normalcy .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "31",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The accuracy of the prediction of the peaks of the epidemic is validated using 32 data in different regions in China showing the effects of different levels of 33 quarantine. The validated tool can be applied to other countries where Covid-34 19 has spread, and generally to future epidemics. A preliminary prediction for 35",
+      "sentences": [
+        [
+          {
+            "segment_text": "The accuracy of the prediction of the peaks of the epidemic is validated using 32 data in different regions in China showing the effects of different levels of 33 quarantine .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The validated tool can be applied to other countries where Covid-34 19 has spread ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and generally to future epidemics .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A preliminary prediction for 35",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "South Korea is made with limited data, with end of the epidemic as early as the 36 second week of April, surprisingly. 37 38 SIGNIFICANCE: We offer a practical tool, as an alternative to traditional models, for 39",
+      "sentences": [
+        [
+          {
+            "segment_text": "South Korea is made with limited data ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with end of the epidemic as early as the 36 second week of April , surprisingly .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "37 38 SIGNIFICANCE : We offer a practical tool ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as an alternative to traditional models , for 39",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "tracking and predicting the course of an epidemic using the daily data on the 40 infection and recovery. This data-driven tool can predict the turning points two 41 weeks in advance, with an accuracy of 2-3 days, validated using data from various 42 regions in China selected to show the effects of quarantine. It also gives information 43 on how rapid the rise and fall of the case numbers are. Although empirical, this 44 approach has a sound theoretical foundation; the main components of the results 45 are validated after the epidemic is near an end, as is the case for China, and 46 therefore generally applicable to future epidemics of low fatality rate. 47 48 49",
+      "sentences": [
+        [
+          {
+            "segment_text": "tracking and predicting the course of an epidemic using the daily data on the 40 infection and recovery .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This data-driven tool can predict the turning points two 41 weeks in advance ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with an accuracy of 2-3 days ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "validated using data from various 42 regions in China selected to show the effects of quarantine .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It also gives information 43 on how rapid the rise and fall of the case numbers are .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although empirical , this 44 approach has a sound theoretical foundation ; the main components of the results 45 are validated after the epidemic is near an end ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as is the case for China ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and 46 therefore generally applicable to future epidemics of low fatality rate .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "47 48 49",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "10",
+    "sentence_num": "20",
+    "segment_num": "32",
+    "token_num": "393"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "paper_id": "05774f9508a8c3399ffb20e758f933ffadc40fbd",
+  "metadata": {
+    "title": "iLIR@viral: A web resource for LIR motif-containing proteins in viruses",
+    "coda_data_split": "train",
+    "coda_paper_id": 6338,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Macroautophagy/autophagy has been shown to mediate the selective lysosomal degradation of pathogenic bacteria and viruses (xenophagy), and to contribute to the activation of innate and adaptative immune responses. Autophagy can serve as an antiviral defense mechanism but also as a proviral process during infection. Atg8-family proteins play a central role in the autophagy process due to their ability to interact with components of the autophagy machinery as well as selective autophagy receptors and adaptor proteins. Such interactions are usually mediated through LC3-interacting region (LIR) motifs. So far, only one viral protein has been experimentally shown to have a functional LIR motif, leaving open a vast field for investigation. Here, we have developed the iLIR@viral database (http://ilir.uk/virus/) as a freely accessible web resource listing all the putative canonical LIR motifs identified in viral proteins. Additionally, we used a curated text-mining analysis of the literature to identify novel putative LIR motif-containing proteins (LIRCPs) in viruses. We anticipate that iLIR@viral will assist with elucidating the full complement of LIRCPs in viruses.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Macroautophagy/autophagy has been shown to mediate the selective lysosomal degradation of pathogenic bacteria and viruses ( xenophagy ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and to contribute to the activation of innate and adaptative immune responses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Autophagy can serve as an antiviral defense mechanism but also as a proviral process during infection .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Atg8-family proteins play a central role in the autophagy process due to their ability to interact with components of the autophagy machinery as well as selective autophagy receptors and adaptor proteins .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Such interactions are usually mediated through LC3-interacting region ( LIR ) motifs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "So far , only one viral protein has been experimentally shown to have a functional LIR motif ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "leaving open a vast field for investigation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we have developed the iLIR@viral database ( http://ilir.uk/virus/ ) as a freely accessible web resource listing all the putative canonical LIR motifs identified in viral proteins .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Additionally , we used a curated text-mining analysis of the literature to identify novel putative LIR motif-containing proteins ( LIRCPs ) in viruses .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We anticipate that iLIR@viral will assist with elucidating the full complement of LIRCPs in viruses .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "10",
+    "token_num": "189"
+  }
+}

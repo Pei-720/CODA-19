@@ -1,0 +1,89 @@
+{
+  "paper_id": "836ec77a81730c540b750253cc4ee9f8fed0fb49",
+  "metadata": {
+    "title": "Conformational B-Cell Epitope Prediction Method Based on Antigen Preprocessing and Mimotopes Analysis",
+    "coda_data_split": "train",
+    "coda_paper_id": 6778,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Identification of epitopes which invokes strong humoral responses is an essential issue in the field of immunology. Various computational methods that have been developed based on the antigen structures and the mimotopes these years narrow the search for experimental validation. These methods can be divided into two categories: antigen structure-based methods and mimotopebased methods. Though new methods of the two kinds have been proposed in these years, they cannot maintain a high degree of satisfaction in various circumstances. In this paper, we proposed a new conformational B-cell epitope prediction method based on antigen preprocessing and mimotopes analysis. The method classifies the antigen surface residues into \"epitopes\" and \"nonepitopes\" by six epitope propensity scales, removing the \"nonepitopes\" and using the preprocessed antigen for epitope prediction based on mimotope sequences. The proposed method gives out the mean F score of 0.42 on the testing dataset. When compared with other publicly available servers by using the testing dataset, the new method yields better performance. The results demonstrate the proposed method is competent for the conformational B-cell epitope prediction.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Identification of epitopes which invokes strong humoral responses is an essential issue in the field of immunology .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Various computational methods that have been developed based on the antigen structures and the mimotopes these years narrow the search for experimental validation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These methods can be divided into two categories : antigen structure-based methods and mimotopebased methods .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Though new methods of the two kinds have been proposed in these years ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "they can not maintain a high degree of satisfaction in various circumstances .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this paper , we proposed a new conformational B-cell epitope prediction method based on antigen preprocessing and mimotopes analysis .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The method classifies the antigen surface residues into `` epitopes \u0027\u0027 and `` nonepitopes \u0027\u0027 by six epitope propensity scales ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "removing the `` nonepitopes \u0027\u0027 and using the preprocessed antigen for epitope prediction based on mimotope sequences .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The proposed method gives out the mean F score of 0.42 on the testing dataset .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "When compared with other publicly available servers by using the testing dataset ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the new method yields better performance .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results demonstrate the proposed method is competent for the conformational B-cell epitope prediction .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "9",
+    "segment_num": "12",
+    "token_num": "196"
+  }
+}

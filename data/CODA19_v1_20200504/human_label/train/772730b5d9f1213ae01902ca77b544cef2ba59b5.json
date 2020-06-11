@@ -1,0 +1,87 @@
+{
+  "paper_id": "772730b5d9f1213ae01902ca77b544cef2ba59b5",
+  "metadata": {
+    "title": "The pro-tumor effect of CD200 expression is not mimicked by agonistic CD200R antibodies",
+    "coda_data_split": "train",
+    "coda_paper_id": 7279,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Tumor-infiltrating immune cells can impact tumor growth and progression. The inhibitory CD200 receptor (CD200R) suppresses the activation of myeloid cells and lack of this pathway results in a reduction of tumor growth, conversely a tumorigenic effect of CD200R triggering was also described. Here we investigated the role of CD200R activation in syngeneic mouse tumor models. We showed that agonistic CD200R antibody reached tumors, but had no significant impact on tumor growth and minor effect on infiltration of immune myeloid cells. These effects were reproduced using two different anti-CD200R clones. In contrast, we showed that CD200-deficiency did decrease melanoma tumor burden. The presence of either endogenous or tumor-expressed CD200 restored the growth of metastatic melanoma foci. On the basis of these findings, we conclude that blockade of the endogenous ligand CD200 prevented the tumorigenic effect of CD200R-expressing myeloid cells in the tumor microenvironment, whereas agonistic anti-CD200R has no effect on tumor development.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Tumor-infiltrating immune cells can impact tumor growth and progression .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The inhibitory CD200 receptor ( CD200R ) suppresses the activation of myeloid cells and lack of this pathway results in a reduction of tumor growth ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "conversely a tumorigenic effect of CD200R triggering was also described .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we investigated the role of CD200R activation in syngeneic mouse tumor models .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We showed that agonistic CD200R antibody reached tumors ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but had no significant impact on tumor growth and minor effect on infiltration of immune myeloid cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These effects were reproduced using two different anti-CD200R clones .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In contrast , we showed that CD200-deficiency did decrease melanoma tumor burden .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The presence of either endogenous or tumor-expressed CD200 restored the growth of metastatic melanoma foci .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "On the basis of these findings ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we conclude that blockade of the endogenous ligand CD200 prevented the tumorigenic effect of CD200R-expressing myeloid cells in the tumor microenvironment ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "whereas agonistic anti-CD200R has no effect on tumor development .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "12",
+    "token_num": "166"
+  }
+}

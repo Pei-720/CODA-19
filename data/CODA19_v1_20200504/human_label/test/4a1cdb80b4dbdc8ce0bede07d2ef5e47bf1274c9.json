@@ -1,0 +1,136 @@
+{
+  "paper_id": "4a1cdb80b4dbdc8ce0bede07d2ef5e47bf1274c9",
+  "metadata": {
+    "title": "Estimating the size of COVID-19 epidemic outbreak",
+    "coda_data_split": "test",
+    "coda_paper_id": 205,
+    "coda_has_expert_labels": true,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "In this work, we analyze the epidemic data of cumulative infected cases collected from many countries as reported by WHO starting from January 21 st 2020 and up till March 21 st 2020. Our inspection is motivated by the renormalization group (RG) framework. Here we propose the RGinspired logistic function of the form αE(t) \u003d a 1 + e −c(t−t 0 ) −n as an epidemic strength function with n being asymmetry in the modified logistic function. We perform the non-linear least-squares analysis with data from various countries. The uncertainty for model parameters is computed using the squared root of the corresponding diagonal components of the covariance matrix. We carefully divide countries under consideration into 2 categories based on the estimation of the inflection point: the maturing phase and the growth-dominated phase. We observe that long-term estimations of cumulative infected cases of countries in the maturing phase for both n \u003d 1 and n \u003d 1 are close to each other. We find from the value of root mean squared error (RMSE) that the RG-inspired logistic model with n \u003d 1 is slightly preferable in this category. We also argue that n determines the characteristic of the epidemic at an early stage. However, in the second category, the estimated asymptotic number of cumulative infected cases contain rather large uncertainty. Therefore, in the growth-dominated phase, we focus on using n \u003d 1 for countries in this phase. Some of them are in an early stage of an epidemic with an insufficient amount of data leading to a large uncertainty on parameter fits. In terms of the accuracy of the size estimation, the results do strongly depend on limitations on data collection and the epidemic phase for each country.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this work , we analyze the epidemic data of cumulative infected cases collected from many countries as reported by WHO starting from January 21 st 2020 and up till March 21 st 2020 .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our inspection is motivated by the renormalization group ( RG ) framework .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we propose the RGinspired logistic function of the form αE ( t ) \u003d a 1 + e − c ( t − t 0 ) − n as an epidemic strength function with n being asymmetry in the modified logistic function .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We perform the non-linear least-squares analysis with data from various countries .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The uncertainty for model parameters is computed using the squared root of the corresponding diagonal components of the covariance matrix .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We carefully divide countries under consideration into 2 categories based on the estimation of the inflection point : the maturing phase and the growth-dominated phase .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We observe that long-term estimations of cumulative infected cases of countries in the maturing phase for both n \u003d 1 and n \u003d 1 are close to each other .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We find from the value of root mean squared error ( RMSE ) that the RG-inspired logistic model with n \u003d 1 is slightly preferable in this category .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also argue that n determines the characteristic of the epidemic at an early stage .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , in the second category ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the estimated asymptotic number of cumulative infected cases contain rather large uncertainty .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , in the growth-dominated phase ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we focus on using n \u003d 1 for countries in this phase .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Some of them are in an early stage of an epidemic with an insufficient amount of data leading to a large uncertainty on parameter fits .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In terms of the accuracy of the size estimation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the results do strongly depend on limitations on data collection and the epidemic phase for each country .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "All rights reserved. No reuse allowed without permission. the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "All rights reserved .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "No reuse allowed without permission .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "the author/funder , who has granted medRxiv a license to display the preprint in perpetuity .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "16",
+    "segment_num": "19",
+    "token_num": "346"
+  }
+}

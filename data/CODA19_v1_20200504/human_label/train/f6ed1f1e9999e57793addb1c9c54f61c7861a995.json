@@ -1,0 +1,119 @@
+{
+  "paper_id": "f6ed1f1e9999e57793addb1c9c54f61c7861a995",
+  "metadata": {
+    "title": "BMC Immunology A novel anti-mycobacterial function of mitogen-activated protein kinase phosphatase-1",
+    "coda_data_split": "train",
+    "coda_paper_id": 3663,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Mycobacterium tuberculosis (MTB) is a major cause of morbidity and mortality in the world. To combat against this pathogen, immune cells release cytokines including tumor necrosis factor-α (TNF-α), which is pivotal in the development of protective granulomas. Our previous results showed that Bacillus Calmette Guerin (BCG), a mycobacterium used as a model to investigate the immune response against MTB, stimulates the induction of TNF-α via mitogenactivated protein kinase (MAPK) in human blood monocytes. Since MAPK phosphatase-1 (MKP-1) is known to regulate MAPK activities, we examined whether MKP-1 plays a role in BCG-induced MAPK activation and cytokine expression.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Mycobacterium tuberculosis ( MTB ) is a major cause of morbidity and mortality in the world .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To combat against this pathogen ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "immune cells release cytokines including tumor necrosis factor-α ( TNF-α ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which is pivotal in the development of protective granulomas .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our previous results showed that Bacillus Calmette Guerin ( BCG ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a mycobacterium used as a model to investigate the immune response against MTB ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "stimulates the induction of TNF-α via mitogenactivated protein kinase ( MAPK ) in human blood monocytes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Since MAPK phosphatase-1 ( MKP-1 ) is known to regulate MAPK activities ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we examined whether MKP-1 plays a role in BCG-induced MAPK activation and cytokine expression .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results: Primary human blood monocytes were treated with BCG and assayed for MKP-1 expression. Our results demonstrated that following exposure to BCG, there was an increase in the expression of MKP-1. Additionally, the induction of MKP-1 was regulated by p38 MAPK and extracellular signal-regulated kinase 1 and 2 (ERK1/2). Surprisingly, when MKP-1 expression was blocked by its specific siRNA, there was a significant decrease in the levels of phospho-MAPK (p38 MAPK and ERK1/2) and TNF-α inducible by BCG.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results : Primary human blood monocytes were treated with BCG and assayed for MKP-1 expression .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our results demonstrated that following exposure to BCG ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "there was an increase in the expression of MKP-1 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Additionally , the induction of MKP-1 was regulated by p38 MAPK and extracellular signal-regulated kinase 1 and 2 ( ERK1/2 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Surprisingly , when MKP-1 expression was blocked by its specific siRNA ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "there was a significant decrease in the levels of phospho-MAPK ( p38 MAPK and ERK1/2 ) and TNF-α inducible by BCG .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Since TNF-α is pivotal in granuloma formation, the results indicated an unexpected positive function of MKP-1 against mycobacterial infection as opposed to its usual phosphatase activity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Since TNF-α is pivotal in granuloma formation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the results indicated an unexpected positive function of MKP-1 against mycobacterial infection as opposed to its usual phosphatase activity .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "9",
+    "segment_num": "17",
+    "token_num": "237"
+  }
+}

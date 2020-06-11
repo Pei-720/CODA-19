@@ -1,0 +1,94 @@
+{
+  "paper_id": "5303b7430b20a5e665f7cadd07ae77baa5687e73",
+  "metadata": {
+    "title": "Statistical learning techniques applied to epidemiology: a simulated case-control comparison study with logistic regression",
+    "coda_data_split": "train",
+    "coda_paper_id": 3592,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: When investigating covariate interactions and group associations with standard regression analyses, the relationship between the response variable and exposure may be difficult to characterize. When the relationship is nonlinear, linear modeling techniques do not capture the nonlinear information content. Statistical learning (SL) techniques with kernels are capable of addressing nonlinear problems without making parametric assumptions. However, these techniques do not produce findings relevant for epidemiologic interpretations. A simulated case-control study was used to contrast the information embedding characteristics and separation boundaries produced by a specific SL technique with logistic regression (LR) modeling representing a parametric approach. The SL technique was comprised of a kernel mapping in combination with a perceptron neural network. Because the LR model has an important epidemiologic interpretation, the SL method was modified to produce the analogous interpretation and generate odds ratios for comparison.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : When investigating covariate interactions and group associations with standard regression analyses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the relationship between the response variable and exposure may be difficult to characterize .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "When the relationship is nonlinear ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "linear modeling techniques do not capture the nonlinear information content .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Statistical learning ( SL ) techniques with kernels are capable of addressing nonlinear problems without making parametric assumptions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , these techniques do not produce findings relevant for epidemiologic interpretations .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A simulated case-control study was used to contrast the information embedding characteristics and separation boundaries produced by a specific SL technique with logistic regression ( LR ) modeling representing a parametric approach .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The SL technique was comprised of a kernel mapping in combination with a perceptron neural network .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Because the LR model has an important epidemiologic interpretation ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the SL method was modified to produce the analogous interpretation and generate odds ratios for comparison .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The SL approach is capable of generating odds ratios for main effects and risk factor interactions that better capture nonlinear relationships between exposure variables and outcome in comparison with LR. Conclusions: The integration of SL methods in epidemiology may improve both the understanding and interpretation of complex exposure/disease relationships.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The SL approach is capable of generating odds ratios for main effects and risk factor interactions that better capture nonlinear relationships between exposure variables and outcome in comparison with LR .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Conclusions : The integration of SL methods in epidemiology may improve both the understanding and interpretation of complex exposure/disease relationships .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "9",
+    "segment_num": "12",
+    "token_num": "206"
+  }
+}

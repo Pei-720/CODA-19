@@ -1,0 +1,178 @@
+{
+  "paper_id": "e901cf35efbad09a224f2c500f7aef1f6d2d3b6a",
+  "metadata": {
+    "title": "How to make more from exposure data? An integrated machine Author Contributions Data Accessibility Statement Running Title Machine learning and pathogen exposure risk",
+    "coda_data_split": "train",
+    "coda_paper_id": 10088,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "1. Predicting infectious disease dynamics is a central challenge in disease ecology. Models 36 that can assess which individuals are most at risk of being exposed to a pathogen not only 37 provide valuable insights into disease transmission and dynamics but can also guide 38 management interventions. Constructing such models for wild animal populations, 39 however, is particularly challenging; often only serological data is available on a subset 40 of individuals and non-linear relationships between variables are common. 41 42 2. Here we take advantage of the latest advances in statistical machine learning to construct 43 pathogen-risk models that automatically incorporate complex non-linear relationships 44 with minimal statistical assumptions from ecological data with missing values. Our 45 approach compares multiple machine learning algorithms in a unified environment to 46 find the model with the best predictive performance and uses game theory to better 47 interpret results. We apply this framework on two major pathogens that infect African 48 lions: canine distemper virus (CDV) and feline parvovirus.",
+      "sentences": [
+        [
+          {
+            "segment_text": "1 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Predicting infectious disease dynamics is a central challenge in disease ecology .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Models 36 that can assess which individuals are most at risk of being exposed to a pathogen not only 37 provide valuable insights into disease transmission and dynamics but can also guide 38 management interventions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Constructing such models for wild animal populations ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "39 however , is particularly challenging ; often only serological data is available on a subset 40 of individuals and non-linear relationships between variables are common .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "41 42 2 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we take advantage of the latest advances in statistical machine learning to construct 43 pathogen-risk models that automatically incorporate complex non-linear relationships 44 with minimal statistical assumptions from ecological data with missing values .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our 45 approach compares multiple machine learning algorithms in a unified environment to 46 find the model with the best predictive performance and uses game theory to better 47 interpret results .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We apply this framework on two major pathogens that infect African 48 lions : canine distemper virus ( CDV ) and feline parvovirus .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "49 50",
+      "sentences": [
+        [
+          {
+            "segment_text": "49 50",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "3. Our modelling approach provided enhanced predictive performance compared to more 51 traditional approaches, as well as new insights into disease risks in a wild population. We 52 were able to efficiently capture and visualise strong non-linear patterns, as well as model 53 complex interactions between variables in shaping exposure risk from CDV and feline 54 parvovirus. For example, we found that lions were more likely to be exposed to CDV at a 55 young age but only in low rainfall years. 56 57 . CC-BY-NC-ND 4.0 International license is made available under a",
+      "sentences": [
+        [
+          {
+            "segment_text": "3 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our modelling approach provided enhanced predictive performance compared to more 51 traditional approaches ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as well as new insights into disease risks in a wild population .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We 52 were able to efficiently capture and visualise strong non-linear patterns ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as well as model 53 complex interactions between variables in shaping exposure risk from CDV and feline 54 parvovirus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "For example , we found that lions were more likely to be exposed to CDV at a 55 young age but only in low rainfall years .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "56 57 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "CC-BY-NC-ND 4.0 International license is made available under a",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The copyright holder for this preprint (which was not peer-reviewed) is the author/funder. It . https://doi.org/10.1101/569012 doi: bioRxiv preprint 3 4. When combined with our data calibration approach, our framework helped us to answer 58 questions about risk of pathogen exposure which are difficult to address with previous 59 methods. Our framework not only has the potential to aid in predicting disease risk in 60 animal populations, but also can be used to build robust predictive models suitable for 61 other ecological applications such as modelling species distribution or diversity patterns.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The copyright holder for this preprint ( which was not peer-reviewed ) is the author/funder .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "It .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "https://doi.org/10.1101/569012 doi : bioRxiv preprint 3 4 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "When combined with our data calibration approach ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "our framework helped us to answer 58 questions about risk of pathogen exposure which are difficult to address with previous 59 methods .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our framework not only has the potential to aid in predicting disease risk in 60 animal populations ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but also can be used to build robust predictive models suitable for 61 other ecological applications such as modelling species distribution or diversity patterns .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "20",
+    "segment_num": "25",
+    "token_num": "383"
+  }
+}

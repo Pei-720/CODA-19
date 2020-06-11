@@ -1,0 +1,94 @@
+{
+  "paper_id": "bbd9d63dc2c733c763770f62205ef9adeceb0127",
+  "metadata": {
+    "title": "Effects of temperature variation and humidity on the mortality of COVID-19 in Wuhan",
+    "coda_data_split": "train",
+    "coda_paper_id": 7210,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Object Meteorological parameters are the important factors influencing the infectious diseases like severe acute respiratory syndrome (SARS). in Wuhan, China. Then, the generalized additive model was applied to explore the impact of temperature, humidity and diurnal temperature range on daily mortality of COVID-19.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Object Meteorological parameters are the important factors influencing the infectious diseases like severe acute respiratory syndrome ( SARS ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "in Wuhan , China .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Then , the generalized additive model was applied to explore the impact of temperature ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "humidity and diurnal temperature range on daily mortality of COVID-19 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "There were in total 2299 COVID-19 mortality counts in Wuhan. A positive association with COVID-19 mortality was observed for diurnal temperature range (r \u003d 0.44), but negative association for relative humidity (r \u003d −0.32). In addition, each 1 unit increase in diurnal temperature range was only associated with a 2.92% (95% CI: 0.61%, 5.28%) increase in COVID-19 mortality at lag 3.",
+      "sentences": [
+        [
+          {
+            "segment_text": "There were in total 2299 COVID-19 mortality counts in Wuhan .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A positive association with COVID-19 mortality was observed for diurnal temperature range ( r \u003d 0.44 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but negative association for relative humidity ( r \u003d − 0.32 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , each 1 unit increase in diurnal temperature range was only associated with a 2.92 % ( 95 % CI : 0.61 % , 5.28 % ) increase in COVID-19 mortality at lag 3 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "However, both per 1 unit increase of temperature and absolute humidity were related to the decreased COVID-19 mortality at lag 3 and lag 5, respectively.",
+      "sentences": [
+        [
+          {
+            "segment_text": "However , both per 1 unit increase of temperature and absolute humidity were related to the decreased COVID-19 mortality at lag 3 and lag 5 , respectively .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In summary, this study suggests the temperature variation and humidity may be important factors affecting the COVID-19 mortality.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In summary , this study suggests the temperature variation and humidity may be important factors affecting the COVID-19 mortality .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "8",
+    "segment_num": "10",
+    "token_num": "178"
+  }
+}

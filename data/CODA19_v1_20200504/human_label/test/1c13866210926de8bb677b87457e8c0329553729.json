@@ -1,0 +1,194 @@
+{
+  "paper_id": "1c13866210926de8bb677b87457e8c0329553729",
+  "metadata": {
+    "title": "",
+    "coda_data_split": "test",
+    "coda_paper_id": 203,
+    "coda_has_expert_labels": true,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "By applying engineering principles to biology, synthetic biology has become the science of reassembling catalogued and standardized biological components in a systematic and rational manner to create and engineer functional biological designer devices, systems and organisms with predictable, useful and novel functions. Synthetic biology is able to use an inventory of biomolecular parts compiled over 50 years of molecular biological and functional genomic research 1-4 , as well as technology that has made it possible to analyse 5,6 , synthesize 7-9 , assemble 10 , modify 11 and transfer 12,13 genetic components into living organisms.",
+      "sentences": [
+        [
+          {
+            "segment_text": "By applying engineering principles to biology ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "synthetic biology has become the science of reassembling catalogued and standardized biological components in a systematic and rational manner to create and engineer functional biological designer devices ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "systems and organisms with predictable , useful and novel functions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Synthetic biology is able to use an inventory of biomolecular parts compiled over 50 years of molecular biological and functional genomic research 1-4 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as well as technology that has made it possible to analyse 5,6 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "synthesize 7-9 , assemble 10 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "modify 11 and transfer 12,13 genetic components into living organisms .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Although it has recently become possible to reconstruct a living organism after transfer of a synthetic genome that has been assembled from chemically synthesized nucleic acid pieces 13,14 , the rational design of state-of-the-art biological circuits with predicable functions remains challenging and is apparently limited to a handful genes 15-31 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Although it has recently become possible to reconstruct a living organism after transfer of a synthetic genome that has been assembled from chemically synthesized nucleic acid pieces 13,14 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the rational design of state-of-the-art biological circuits with predicable functions remains challenging and is apparently limited to a handful genes 15-31 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Synthetic circuitry is composed of basic heterologous control components that fine-tune transgene expression in response to specific exogenous cues or endogenous metabolites 32 . These gene switches include triggerinducible protein-DNA 33-36 or aptamer-transcript interactions 37-39 , which control transcription and translation in response to heterologous and endogenous input signals (FIG. 1) . The standardized design of gene switches has improved functional compatibility 40,41 and has enabled the construction of higher-order networks -including multi-trigger inputs and sequential control 42,43 , mutual control 20,23,44,45 and feedback control 16, 19, 28, 46 of circuit components -that are able to provide complex protein expression dynamics with high precision and predictable logic in response to external cues or physiological pathways. Because most control components function in different bacterial and eukaryotic species after minor refinements 36,47-49 , gene switches and network blueprints that were pioneered in bacteria or yeast are often fully functional in mammalian cells. Examples of synthetic networks with similar components and circuit topology in bacterial and mammalian cells include: regulatory cascades 42,43 , epigenetic toggle switches 15,20,23,45 , hysteretic circuits 22,50,51 , molecular timing devices 30,52 , synthetic eco-sensing systems, synthetic quorumsensing systems, synthetic hormone systems 46,53,54 , bandpass filters 21,30,55 and different types of oscillators that program rhythmic transgene expression with a tunable frequency and amplitude 16, [26] [27] [28] [29] 56, 57 . Most of these first-generation synthetic circuits operated in isolation without any interface with the metabolism of the host cell, and they were used to program specific cellular functions using heterologous external input signals [58] [59] [60] [61] [62] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Synthetic circuitry is composed of basic heterologous control components that fine-tune transgene expression in response to specific exogenous cues or endogenous metabolites 32 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These gene switches include triggerinducible protein-DNA 33-36 or aptamer-transcript interactions 37-39 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which control transcription and translation in response to heterologous and endogenous input signals ( FIG. 1 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The standardized design of gene switches has improved functional compatibility 40,41 and has enabled the construction of higher-order networks - including multi-trigger inputs and sequential control 42,43 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "mutual control 20,23,44,45 and feedback control 16 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "19 , 28 , 46 of circuit components - that are able to provide complex protein expression dynamics with high precision and predictable logic in response to external cues or physiological pathways .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Because most control components function in different bacterial and eukaryotic species after minor refinements 36,47-49 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "gene switches and network blueprints that were pioneered in bacteria or yeast are often fully functional in mammalian cells .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Examples of synthetic networks with similar components and circuit topology in bacterial and mammalian cells include : regulatory cascades 42,43 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "epigenetic toggle switches 15,20,23,45 , hysteretic circuits 22,50,51 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "molecular timing devices 30,52 , synthetic eco-sensing systems ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "synthetic quorumsensing systems , synthetic hormone systems 46,53,54 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "bandpass filters 21,30,55 and different types of oscillators that program rhythmic transgene expression with a tunable frequency and amplitude 16 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "( 26 ) ( 27 ) ( 28 ) ( 29 ) 56 , 57 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Most of these first-generation synthetic circuits operated in isolation without any interface with the metabolism of the host cell ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and they were used to program specific cellular functions using heterologous external input signals ( 58 ) ( 59 ) ( 60 ) ( 61 ) ( 62 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Key challenges that often occur in the biomedical setting are the need for drug-target specificity, precise drug-dosing regimes, minimizing side effects, shortening the diagnosis-to-treatment timelines and avoiding drug-resistance of pathogens. As synthetic biology enables the engineering of complex, high-precision control devices that couple sensing and delivery mechanisms, this emerging science may be able to offer tools that are suited to meeting current biomedical challenges in new ways. A decade after the pioneering synthetic networks were reported 18,20 , the first successful therapeutic applications in animal models of prominent human diseases",
+      "sentences": [
+        [
+          {
+            "segment_text": "Key challenges that often occur in the biomedical setting are the need for drug-target specificity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "precise drug-dosing regimes , minimizing side effects ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "shortening the diagnosis-to-treatment timelines and avoiding drug-resistance of pathogens .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "As synthetic biology enables the engineering of complex ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "high-precision control devices that couple sensing and delivery mechanisms ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "this emerging science may be able to offer tools that are suited to meeting current biomedical challenges in new ways .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A decade after the pioneering synthetic networks were reported 18,20 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the first successful therapeutic applications in animal models of prominent human diseases",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "12",
+    "segment_num": "33",
+    "token_num": "542"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "paper_id": "e12c485164c72582c9ce504d26931efaedf3f419",
+  "metadata": {
+    "title": "Beyond SumBasic: Task-focused summarization with sentence simplification and lexical expansion",
+    "coda_data_split": "test",
+    "coda_paper_id": 493,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "In recent years, there has been increased interest in topic-focused multi-document summarization. In this task, automatic summaries are produced in response to a specific information request, or topic, stated by the user. The system we have designed to accomplish this task comprises four main components: a generic extractive summarization system, a topic-focusing component, sentence simplification, and lexical expansion of topic words. This paper details each of these components, together with experiments designed to quantify their individual contributions. We include an analysis of our results on two large datasets commonly used to evaluate task-focused summarization, the DUC2005 and DUC2006 datasets, using automatic metrics. Additionally, we include an analysis of our results on the DUC2006 task according to human evaluation metrics. In the human evaluation of system summaries compared to human summaries, i.e., the Pyramid method, our system ranked first out of 22 systems in terms of overall mean Pyramid score; and in the human evaluation of summary responsiveness to the topic, our system ranked third out of 35 systems.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In recent years , there has been increased interest in topic-focused multi-document summarization .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this task , automatic summaries are produced in response to a specific information request ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "or topic , stated by the user .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The system we have designed to accomplish this task comprises four main components : a generic extractive summarization system ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "a topic-focusing component , sentence simplification ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and lexical expansion of topic words .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This paper details each of these components ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "together with experiments designed to quantify their individual contributions .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We include an analysis of our results on two large datasets commonly used to evaluate task-focused summarization ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the DUC2005 and DUC2006 datasets , using automatic metrics .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Additionally , we include an analysis of our results on the DUC2006 task according to human evaluation metrics .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the human evaluation of system summaries compared to human summaries ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "i.e. , the Pyramid method ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "our system ranked first out of 22 systems in terms of overall mean Pyramid score ; and in the human evaluation of summary responsiveness to the topic ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "our system ranked third out of 35 systems .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "15",
+    "token_num": "192"
+  }
+}

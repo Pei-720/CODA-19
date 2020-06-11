@@ -1,0 +1,152 @@
+{
+  "paper_id": "606233835c3d6d195b7d230745ccb0fded626aa7",
+  "metadata": {
+    "title": "Distribution of the COVID-19 Epidemic and Correlation with Population Emigration from Wuhan, China",
+    "coda_data_split": "train",
+    "coda_paper_id": 3795,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "The ongoing new coronavirus pneumonia (Corona Virus Disease 2019, COVID-19) outbreak is spreading in China, but it has not yet reached its peak. Five million people emigrated from Wuhan before lockdown, potentially representing a source of virus infection. Determining case distribution and its correlation with population emigration from Wuhan in the early stage of the epidemic is of great importance for early warning and for the prevention of future outbreaks.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The ongoing new coronavirus pneumonia ( Corona Virus Disease 2019 , COVID-19 ) outbreak is spreading in China ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but it has not yet reached its peak .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Five million people emigrated from Wuhan before lockdown ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "potentially representing a source of virus infection .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Determining case distribution and its correlation with population emigration from Wuhan in the early stage of the epidemic is of great importance for early warning and for the prevention of future outbreaks .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The official case report on the COVID-19 epidemic was collected as of January 30, 2020. Time and location information on COVID-19 cases was extracted and analyzed using ArcGIS and WinBUGS software. Data on population migration from Wuhan city and Hubei province were extracted from Baidu Qianxi, and their correlation with the number of cases was analyzed.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The official case report on the COVID-19 epidemic was collected as of January 30 , 2020 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Time and location information on COVID-19 cases was extracted and analyzed using ArcGIS and WinBUGS software .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Data on population migration from Wuhan city and Hubei province were extracted from Baidu Qianxi ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and their correlation with the number of cases was analyzed .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The COVID-19 confirmed and death cases in Hubei province accounted for 59.91% (5806/9692) and 95.77% (204/213) of the total cases in China respectively. Hot spot provinces included Sichuan and Yunnan, which are adjacent to Hubei. The time risk of Hubei province on the following day was 1.960 times that on the previous day. The number of cases in some cities was relatively low, but the time risk appeared to be continuously rising. The correlation coefficient between the provincial number of cases and emigration from Wuhan was up to 0.943. The lockdown of 17 cities in Hubei province and the implementation of nationwide control measures efficiently prevented an exponential growth in the number of cases.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The COVID-19 confirmed and death cases in Hubei province accounted for 59.91 % ( 5806/9692 ) and 95.77 % ( 204/213 ) of the total cases in China respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hot spot provinces included Sichuan and Yunnan ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which are adjacent to Hubei .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The time risk of Hubei province on the following day was 1.960 times that on the previous day .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The number of cases in some cities was relatively low ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but the time risk appeared to be continuously rising .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The correlation coefficient between the provincial number of cases and emigration from Wuhan was up to 0.943 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The lockdown of 17 cities in Hubei province and the implementation of nationwide control measures efficiently prevented an exponential growth in the number of cases .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The population that emigrated from Wuhan was the main infection source in other cities and provinces. Some cities with a low number of cases showed a rapid increase in case load. Owing to the upcoming Spring Festival return wave, understanding the risk trends in different regions is crucial to ensure preparedness at both the individual and organization levels and to prevent new outbreaks.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The population that emigrated from Wuhan was the main infection source in other cities and provinces .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Some cities with a low number of cases showed a rapid increase in case load .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Owing to the upcoming Spring Festival return wave ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "understanding the risk trends in different regions is crucial to ensure preparedness at both the individual and organization levels and to prevent new outbreaks .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "15",
+    "segment_num": "21",
+    "token_num": "334"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "paper_id": "d11dc77715bd96f9b5e3c100cd0643bc204e3145",
+  "metadata": {
+    "title": "A probabilistic approach to incorporating domain knowledge for closed-room people monitoring",
+    "coda_data_split": "test",
+    "coda_paper_id": 921,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "We propose a novel probabilistic approach to recognizing people entering and leaving a closed room in human work place or living environment. Specifically, people in the view of a monitoring camera are first tracked and represented using low-level color features. Based on a new color similarity measure, optimal recognition of people leaving and entering the room is carried out by probabilistic reasoning under the constraints imposed by the domain knowledge, e.g., a person currently inside a room cannot enter again without first leaving it, and vice versa. The novelty of our work mainly lies in the development of a systematic way to incorporate the correlation and constraint among a sequence of people observations, and the optimality of recognition is achieved by maximizing a joint posterior probability of the observations. Experimental results of real and synthetic data are presented to show the efficacy of the proposed approach. r",
+      "sentences": [
+        [
+          {
+            "segment_text": "We propose a novel probabilistic approach to recognizing people entering and leaving a closed room in human work place or living environment .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Specifically , people in the view of a monitoring camera are first tracked and represented using low-level color features .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Based on a new color similarity measure ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "optimal recognition of people leaving and entering the room is carried out by probabilistic reasoning under the constraints imposed by the domain knowledge ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "e.g. , a person currently inside a room can not enter again without first leaving it , and vice versa .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The novelty of our work mainly lies in the development of a systematic way to incorporate the correlation and constraint among a sequence of people observations ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and the optimality of recognition is achieved by maximizing a joint posterior probability of the observations .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Experimental results of real and synthetic data are presented to show the efficacy of the proposed approach .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "r",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "9",
+    "token_num": "159"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "paper_id": "5a843f4299b04090ff76451decfe9f0b025cfe48",
+  "metadata": {
+    "title": "Capturing diverse microbial sequence with comprehensive and scalable probe design",
+    "coda_data_split": "train",
+    "coda_paper_id": 2390,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Metagenomic sequencing has the potential to transform microbial detection and characterization, but new tools are needed to improve its sensitivity. We developed CATCH (Compact Aggregation of Targets for Comprehensive Hybridization), a computational method to enhance nucleic acid capture for enrichment of diverse microbial taxa. CATCH designs compact probe sets that achieve full coverage of known sequence diversity and that scale well with this diversity. To illustrate applications of CATCH, we focused on capturing viral genomes. We designed, synthesized, and validated multiple probe sets, including one that targets whole genomes of the 356 viral species known to infect humans. Capture with these probe sets enriched unique viral content on average 18× and allowed us to assemble genomes that we could not otherwise recover, while accurately preserving within-sample diversity. We used this approach to recover genomes from the 2018 Lassa fever outbreak in Nigeria and to improve detection of viral infections in samples with unknown content. Together, this work demonstrates a path toward more sensitive, cost-effective metagenomic sequencing.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Metagenomic sequencing has the potential to transform microbial detection and characterization ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but new tools are needed to improve its sensitivity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We developed CATCH ( Compact Aggregation of Targets for Comprehensive Hybridization ) ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "a computational method to enhance nucleic acid capture for enrichment of diverse microbial taxa .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "CATCH designs compact probe sets that achieve full coverage of known sequence diversity and that scale well with this diversity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To illustrate applications of CATCH ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we focused on capturing viral genomes .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We designed , synthesized , and validated multiple probe sets ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "including one that targets whole genomes of the 356 viral species known to infect humans .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Capture with these probe sets enriched unique viral content on average 18 × and allowed us to assemble genomes that we could not otherwise recover ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "while accurately preserving within-sample diversity .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We used this approach to recover genomes from the 2018 Lassa fever outbreak in Nigeria and to improve detection of viral infections in samples with unknown content .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Together , this work demonstrates a path toward more sensitive , cost-effective metagenomic sequencing .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "13",
+    "token_num": "186"
+  }
+}

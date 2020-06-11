@@ -1,0 +1,288 @@
+{
+  "paper_id": "8125e22d2dc5ad5fe51394fc08dc89212c833d2c",
+  "metadata": {
+    "title": "Molecular Basis for the Evolution of Species-Specific Hemoglobin Capture by Staphylococcus aureus",
+    "coda_data_split": "test",
+    "coda_paper_id": 335,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Metals are a limiting resource for pathogenic bacteria and must be scavenged from host proteins. Hemoglobin provides the most abundant source of iron in the human body and is required by several pathogens to cause invasive disease. However, the consequences of hemoglobin evolution for bacterial nutrient acquisition remain unclear. Here we show that the ␣and ␤-globin genes exhibit strikingly parallel signatures of adaptive evolution across simian primates. Rapidly evolving sites in hemoglobin correspond to binding interfaces of IsdB, a bacterial hemoglobin receptor harbored by pathogenic Staphylococcus aureus. Using an evolution-guided experimental approach, we demonstrate that the divergence between primates and staphylococcal isolates governs hemoglobin recognition and bacterial growth. The reintroduction of putative adaptive mutations in ␣or ␤-globin proteins was sufficient to impair S. aureus binding, providing a mechanism for the evolution of disease resistance. These findings suggest that bacterial hemoprotein capture has driven repeated evolutionary conflicts with hemoglobin during primate descent. IMPORTANCE During infection, bacteria must steal metals, including iron, from the host tissue. Therefore, pathogenic bacteria have evolved metal acquisition systems to overcome the elaborate processes mammals use to withhold metal from pathogens. Staphylococcus aureus uses IsdB, a hemoglobin receptor, to thieve iron-containing heme from hemoglobin within human blood. We find evidence that primate hemoglobin has undergone rapid evolution at protein surfaces contacted by IsdB. Additionally, variation in the hemoglobin sequences among primates, or variation in IsdB of related staphylococci, reduces bacterial hemoglobin capture. Together, these data suggest that S. aureus has evolved to recognize human hemoglobin in the face of rapid evolution at the IsdB binding interface, consistent with repeated evolutionary conflicts in the battle for iron during host-pathogen interactions.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Metals are a limiting resource for pathogenic bacteria and must be scavenged from host proteins .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hemoglobin provides the most abundant source of iron in the human body and is required by several pathogens to cause invasive disease .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the consequences of hemoglobin evolution for bacterial nutrient acquisition remain unclear .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we show that the ␣ and ␤ - globin genes exhibit strikingly parallel signatures of adaptive evolution across simian primates .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Rapidly evolving sites in hemoglobin correspond to binding interfaces of IsdB ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a bacterial hemoglobin receptor harbored by pathogenic Staphylococcus aureus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using an evolution-guided experimental approach ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we demonstrate that the divergence between primates and staphylococcal isolates governs hemoglobin recognition and bacterial growth .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The reintroduction of putative adaptive mutations in ␣ or ␤ - globin proteins was sufficient to impair S. aureus binding ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "providing a mechanism for the evolution of disease resistance .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These findings suggest that bacterial hemoprotein capture has driven repeated evolutionary conflicts with hemoglobin during primate descent .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "IMPORTANCE During infection , bacteria must steal metals ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including iron , from the host tissue .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , pathogenic bacteria have evolved metal acquisition systems to overcome the elaborate processes mammals use to withhold metal from pathogens .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Staphylococcus aureus uses IsdB , a hemoglobin receptor ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "to thieve iron-containing heme from hemoglobin within human blood .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We find evidence that primate hemoglobin has undergone rapid evolution at protein surfaces contacted by IsdB .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Additionally , variation in the hemoglobin sequences among primates ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "or variation in IsdB of related staphylococci , reduces bacterial hemoglobin capture .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Together , these data suggest that S. aureus has evolved to recognize human hemoglobin in the face of rapid evolution at the IsdB binding interface ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "consistent with repeated evolutionary conflicts in the battle for iron during host-pathogen interactions .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "A nimals possess a variety of molecular factors that effectively sequester essential metals from invasive microbes, contributing to an innate immune function termed nutritional immunity (1, 2). Iron, as a critical cofactor for many host and bacterial enzymes, has provided the paradigm for our current understanding of nutritional immunity. Since the discovery of iron limitation by egg white ovotransferrin in the 1940s (3), the mechanisms underlying nutritional immunity and bacterial iron scaveng-",
+      "sentences": [
+        [
+          {
+            "segment_text": "A nimals possess a variety of molecular factors that effectively sequester essential metals from invasive microbes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "contributing to an innate immune function termed nutritional immunity ( 1 , 2 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Iron , as a critical cofactor for many host and bacterial enzymes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "has provided the paradigm for our current understanding of nutritional immunity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Since the discovery of iron limitation by egg white ovotransferrin in the 1940s ( 3 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the mechanisms underlying nutritional immunity and bacterial iron scaveng -",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Parallel signatures of positive selection in primate hemoglobins at the IsdB binding interface. To investigate how natural selection has shaped hemoglobin diversity in simian primates, orthologs of the ␣and ␤-globin genes were cloned and sequenced from primate cell lines as well as compiled from publicly available databases. In total, 27 ␣-globin and 30 ␤-globin orthologs were assembled for phylogenetic analyses using the PAML and HyPhy software packages ( Fig. 1A ; see also Materials and Methods), which use nonsynonymous and synonymous substitution rates to infer signatures of positive selection. Because globin genes have been shown to undergo gene conversion, which can distort inferred phylogenetic relationships (39, 40), all analyses were performed using both a well-supported species tree as well as gene trees FIG 1 Parallel signatures of positive selection among primate hemoglobins at the bacterial IsdB binding interface. (A) Species phylogenies for the 27 ␣-globin and 30 ␤-globin orthologs analyzed (left)",
+      "sentences": [
+        [
+          {
+            "segment_text": "Parallel signatures of positive selection in primate hemoglobins at the IsdB binding interface .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To investigate how natural selection has shaped hemoglobin diversity in simian primates ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "orthologs of the ␣ and ␤ - globin genes were cloned and sequenced from primate cell lines as well as compiled from publicly available databases .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In total , 27 ␣ - globin and 30 ␤ - globin orthologs were assembled for phylogenetic analyses using the PAML and HyPhy software packages ( Fig. 1A ; see also Materials and Methods ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which use nonsynonymous and synonymous substitution rates to infer signatures of positive selection .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Because globin genes have been shown to undergo gene conversion ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which can distort inferred phylogenetic relationships ( 39 , 40 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "all analyses were performed using both a well-supported species tree as well as gene trees FIG 1 Parallel signatures of positive selection among primate hemoglobins at the bacterial IsdB binding interface .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "( A ) Species phylogenies for the 27 ␣ - globin and 30 ␤ - globin orthologs analyzed ( left )",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": ". Alignments from representative species across hominoid (orange), Old World monkey (purple), and New World monkeys (brown) are shown, the full phylogenetic trees are displayed in Fig. 3 and 4. Amino acid sites under positive selection were identified in ␣-globin and ␤-globin (blue arrows) using PAML with both species and gene trees (posterior probabilities, Ͼ0.95). (B) Amino acid alignment of human ␣-globin and ␤-globin proteins. The position of conserved helices A to H are shown, and identity between globins is noted as conserved (*), highly similar (:), and similar (.). (C) The residues of ␣-globin (red) and ␤-globin (salmon) under positive selection (blue spheres) at the interface of hemoglobin capture by Staphylococcus aureus IsdB (gray) (PDB 5VMM).",
+      "sentences": [
+        [
+          {
+            "segment_text": ".",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Alignments from representative species across hominoid ( orange ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Old World monkey ( purple ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and New World monkeys ( brown ) are shown ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the full phylogenetic trees are displayed in Fig. 3 and 4 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Amino acid sites under positive selection were identified in ␣ - globin and ␤ - globin ( blue arrows ) using PAML with both species and gene trees ( posterior probabilities , Ͼ0 .95 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( B ) Amino acid alignment of human ␣ - globin and ␤ - globin proteins .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The position of conserved helices A to H are shown ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and identity between globins is noted as conserved ( * ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "highly similar ( :-RRB- , and similar ( . )",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": ".",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "( C ) The residues of ␣ - globin ( red ) and ␤ - globin ( salmon ) under positive selection ( blue spheres ) at the interface of hemoglobin capture by Staphylococcus aureus IsdB ( gray ) ( PDB 5VMM ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "29",
+    "segment_num": "48",
+    "token_num": "741"
+  }
+}

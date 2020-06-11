@@ -1,0 +1,160 @@
+{
+  "paper_id": "7b587847c5e7e62be04ccfb42e60f506a30962e6",
+  "metadata": {
+    "title": "Inhibition of DD-Peptidases by a Specific Trifluoroketone: Crystal Structure of a Complex with the Actinomadura R39 DD- Peptidase † NIH Public Access Author Manuscript",
+    "coda_data_split": "train",
+    "coda_paper_id": 8376,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Inhibitors of bacterial DD-peptidases represent potential antibiotics. In the search for alternatives to β-lactams, we have investigated a series of compounds designed to generate transition state analogue structures on reaction with DD-peptidases. The compounds contain a combination of a peptidoglycan-mimetic specificity handle and a warhead capable of delivering a tetrahedral anion to the enzyme active site. The latter include a boronic acid, two alcohols, an aldehyde and a trifluoroketone. The compounds were tested against two low molecular mass class C DDpeptidases. As expected from previous observations, the boronic acid was a potent inhibitor, but, rather unexpectedly from precedent, the trifluoroketone [D-α-aminopimelyl-(1,1,1-trifluoro-3amino)butan-2-one] was also very effective. Taking into account competing hydration, the trifluoroketone was the strongest inhibitor of the Actinomadura R39 DD-peptidase, with a subnanomolar (free ketone) inhibition constant. A crystal structure of the complex between the trifluoroketone and the R39 enzyme showed that a tetrahedral adduct had indeed formed with the active site serine nucleophile. The trifluoroketone moiety, therefore, should be considered along with boronic acids and phosphonates, as a warhead that can be incorporated into new and effective DD-peptidase inhibitors and therefore, perhaps, antibiotics.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Inhibitors of bacterial DD-peptidases represent potential antibiotics .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the search for alternatives to β-lactams ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we have investigated a series of compounds designed to generate transition state analogue structures on reaction with DD-peptidases .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The compounds contain a combination of a peptidoglycan-mimetic specificity handle and a warhead capable of delivering a tetrahedral anion to the enzyme active site .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The latter include a boronic acid ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "two alcohols , an aldehyde and a trifluoroketone .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The compounds were tested against two low molecular mass class C DDpeptidases .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "As expected from previous observations ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the boronic acid was a potent inhibitor ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but , rather unexpectedly from precedent ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the trifluoroketone ( D-α-aminopimelyl - ( 1,1,1-trifluoro-3amino ) butan-2-one ) was also very effective .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Taking into account competing hydration ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the trifluoroketone was the strongest inhibitor of the Actinomadura R39 DD-peptidase ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with a subnanomolar ( free ketone ) inhibition constant .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A crystal structure of the complex between the trifluoroketone and the R39 enzyme showed that a tetrahedral adduct had indeed formed with the active site serine nucleophile .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The trifluoroketone moiety , therefore ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "should be considered along with boronic acids and phosphonates ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as a warhead that can be incorporated into new and effective DD-peptidase inhibitors and therefore , perhaps , antibiotics .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The bacterial DD-peptidases are of considerable importance in medical practice since they are the targets of β-lactam antibiotics. (1) These enzymes catalyze the final transpeptidation reaction in the biosynthesis of bacterial cell walls and are essential to bacterial survival. The β-lactams, acting as mechanism-based/transition state analogue inhibitors (2-4), are precisely structured to inactivate DD-peptidases in a manner that these enzymes have been unable to escape through evolution of a hydrolytic pathway. Bacteria have, however, been able to achieve resistance to β-lactams in a number of ways unrelated to DD-peptidase active site structure, and, in particular through evolution of β-lactamases from DD-peptidases (2,4). The β-lactamases, unlike DD-peptidases, are able to catalyze rapid β-lactam hydrolysis and thus destruction of their antibiotic activity (5).",
+      "sentences": [
+        [
+          {
+            "segment_text": "The bacterial DD-peptidases are of considerable importance in medical practice since they are the targets of β-lactam antibiotics .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( 1 ) These enzymes catalyze the final transpeptidation reaction in the biosynthesis of bacterial cell walls and are essential to bacterial survival .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The β-lactams , acting as mechanism-based/transition state analogue inhibitors ( 2-4 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "are precisely structured to inactivate DD-peptidases in a manner that these enzymes have been unable to escape through evolution of a hydrolytic pathway .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Bacteria have , however , been able to achieve resistance to β-lactams in a number of ways unrelated to DD-peptidase active site structure ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and , in particular through evolution of β-lactamases from DD-peptidases ( 2,4 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The β-lactamases , unlike DD-peptidases ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "are able to catalyze rapid β-lactam hydrolysis and thus destruction of their antibiotic activity ( 5 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "14",
+    "segment_num": "26",
+    "token_num": "359"
+  }
+}

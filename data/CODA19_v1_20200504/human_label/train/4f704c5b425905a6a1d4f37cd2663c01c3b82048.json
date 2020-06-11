@@ -1,0 +1,136 @@
+{
+  "paper_id": "4f704c5b425905a6a1d4f37cd2663c01c3b82048",
+  "metadata": {
+    "title": "A methodology for optimal placement of sensors in enclosed environments: A dynamical systems approach",
+    "coda_data_split": "train",
+    "coda_paper_id": 4272,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Sensor placement Markov matrix Set cover problem Indoor air quality Transmission of infectious diseases Chemical and biological warfare a b s t r a c t Air quality has been an important issue in public health for many years. Sensing the level and distributions of impurities help in the control of building systems and mitigate long term health risks. Rapid detection of infectious diseases in large public areas like airports and train stations may help limit exposure and aid in reducing the spread of the disease. Complete coverage by sensors to account for any release scenario of chemical or biological warfare agents may provide the opportunity to develop isolation and evacuation plans that mitigate the impact of the attack. All these scenarios involve strategic placement of sensors to promptly detect and rapidly respond.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Sensor placement Markov matrix Set cover problem Indoor air quality Transmission of infectious diseases Chemical and biological warfare a b s t r a c t Air quality has been an important issue in public health for many years .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Sensing the level and distributions of impurities help in the control of building systems and mitigate long term health risks .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Rapid detection of infectious diseases in large public areas like airports and train stations may help limit exposure and aid in reducing the spread of the disease .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Complete coverage by sensors to account for any release scenario of chemical or biological warfare agents may provide the opportunity to develop isolation and evacuation plans that mitigate the impact of the attack .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "All these scenarios involve strategic placement of sensors to promptly detect and rapidly respond .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "This paper presents a data driven sensor placement algorithm based on a dynamical systems approach. The approach utilizes the finite dimensional Perron-Frobenius (PF) concept. The PF operator (or the Markov matrix) is used to construct an observability gramian that naturally incorporates sensor accuracy, location constraints, and sensing constraints. The algorithm determines the response times, sensor coverage maps, and the number of sensors needed. The utility of the procedure is illustrated using four examples: a literature example of the flow field inside an aircraft cabin and three air flow fields in different geometries. The effect of the constraints on the response times for different sensor placement scenarios is investigated. Knowledge of the response time and coverage of the multiple sensors aides in the design of mechanical systems and response mechanisms. The methodology provides a simple process for place sensors in a building, analyze the sensor coverage maps and response time necessary during extreme events, as well as evaluate indoor air quality. The theory established in this paper also allows for future work in topics related to construction of classical estimator problems for the sensors, real-time contaminant transport, and development of agent dispersion, contaminant isolation/removal, and evacuation strategies.",
+      "sentences": [
+        [
+          {
+            "segment_text": "This paper presents a data driven sensor placement algorithm based on a dynamical systems approach .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The approach utilizes the finite dimensional Perron-Frobenius ( PF ) concept .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The PF operator ( or the Markov matrix ) is used to construct an observability gramian that naturally incorporates sensor accuracy ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "location constraints , and sensing constraints .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The algorithm determines the response times ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "sensor coverage maps , and the number of sensors needed .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The utility of the procedure is illustrated using four examples : a literature example of the flow field inside an aircraft cabin and three air flow fields in different geometries .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The effect of the constraints on the response times for different sensor placement scenarios is investigated .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Knowledge of the response time and coverage of the multiple sensors aides in the design of mechanical systems and response mechanisms .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The methodology provides a simple process for place sensors in a building ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "analyze the sensor coverage maps and response time necessary during extreme events ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "as well as evaluate indoor air quality .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The theory established in this paper also allows for future work in topics related to construction of classical estimator problems for the sensors ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "real-time contaminant transport , and development of agent dispersion ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "contaminant isolation/removal , and evacuation strategies .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "14",
+    "segment_num": "20",
+    "token_num": "358"
+  }
+}

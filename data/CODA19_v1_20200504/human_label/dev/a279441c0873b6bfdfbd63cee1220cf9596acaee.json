@@ -1,0 +1,95 @@
+{
+  "paper_id": "a279441c0873b6bfdfbd63cee1220cf9596acaee",
+  "metadata": {
+    "title": "A dose and time response Markov model for the in-host dynamics of infection with intracellular bacteria following inhalation: with application to Francisella tularensis",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1371,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "In a novel approach, the standard birth-death process is extended to incorporate a fundamental mechanism undergone by intracellular bacteria, phagocytosis. The model accounts for stochastic interaction between bacteria and cells of the immune system and heterogeneity in susceptibility to infection of individual hosts within a population. Model output is the dose-response relation and the dose-dependent distribution of time until response, where response is the onset of symptoms. The model is thereafter parametrized with respect to the highly virulent Schu S4 strain of Francisella tularensis, in the first such study to consider a biologically plausible mathematical model for early human infection with this bacterium. Results indicate a median infectious dose of about 23 organisms, which is higher than previously thought, and an average incubation period of between 3 and 7 days depending on dose. The distribution of incubation periods is right-skewed up to about 100 organisms and symmetric for larger doses. Moreover, there are some interesting parallels to the hypotheses of some of the classical dose-response models, such as independent action (single-hit model) and individual effective dose ( probit model). The findings of this study support experimental evidence and postulations from other investigations that response is, in fact, influenced by both in-host and between-host variability.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In a novel approach , the standard birth-death process is extended to incorporate a fundamental mechanism undergone by intracellular bacteria , phagocytosis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The model accounts for stochastic interaction between bacteria and cells of the immune system and heterogeneity in susceptibility to infection of individual hosts within a population .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Model output is the dose-response relation and the dose-dependent distribution of time until response ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "where response is the onset of symptoms .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The model is thereafter parametrized with respect to the highly virulent Schu S4 strain of Francisella tularensis ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "in the first such study to consider a biologically plausible mathematical model for early human infection with this bacterium .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results indicate a median infectious dose of about 23 organisms ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which is higher than previously thought ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and an average incubation period of between 3 and 7 days depending on dose .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The distribution of incubation periods is right-skewed up to about 100 organisms and symmetric for larger doses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , there are some interesting parallels to the hypotheses of some of the classical dose-response models ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "such as independent action ( single-hit model ) and individual effective dose ( probit model ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The findings of this study support experimental evidence and postulations from other investigations that response is ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "in fact , influenced by both in-host and between-host variability .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "14",
+    "token_num": "225"
+  }
+}

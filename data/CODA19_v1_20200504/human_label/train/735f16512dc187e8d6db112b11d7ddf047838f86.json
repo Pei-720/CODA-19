@@ -1,0 +1,115 @@
+{
+  "paper_id": "735f16512dc187e8d6db112b11d7ddf047838f86",
+  "metadata": {
+    "title": "",
+    "coda_data_split": "train",
+    "coda_paper_id": 5928,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Modelling of infectious diseases is difficult, if not impossible. No epidemic has ever been truly predicted, rather than being merely noticed when it was already ongoing. Modelling the future course of an epidemic is similarly tenuous, as exemplified by ominous predictions during the last influenza pandemic leading to exaggerated national responses. The continuous evolution of microorganisms, the introduction of new pathogens into the human population and the interactions of a specific pathogen with the environment, vectors, intermediate hosts, reservoir animals and other microorganisms are far too complex to be predictable. Our environment is changing at an unprecedented rate, and human-related factors, which are essential components of any epidemic prediction model, are difficult to foresee in our increasingly dynamic societies. Any epidemiological model is, by definition, an abstraction of the real world, and fundamental assumptions and simplifications are therefore required. Indicator-based surveillance methods and, more recently, Internet biosurveillance systems can detect and monitor outbreaks of infections more rapidly and accurately than ever before. As the interactions between microorganisms, humans and the environment are too numerous and unexpected to be accurately represented in a mathematical model, we argue that prediction and model-based management of epidemics in their early phase are quite unlikely to become the norm.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Modelling of infectious diseases is difficult , if not impossible .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "No epidemic has ever been truly predicted ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "rather than being merely noticed when it was already ongoing .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Modelling the future course of an epidemic is similarly tenuous ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as exemplified by ominous predictions during the last influenza pandemic leading to exaggerated national responses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The continuous evolution of microorganisms ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the introduction of new pathogens into the human population and the interactions of a specific pathogen with the environment ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "vectors , intermediate hosts , reservoir animals and other microorganisms are far too complex to be predictable .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our environment is changing at an unprecedented rate ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and human-related factors , which are essential components of any epidemic prediction model ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "are difficult to foresee in our increasingly dynamic societies .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Any epidemiological model is , by definition ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "an abstraction of the real world ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and fundamental assumptions and simplifications are therefore required .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Indicator-based surveillance methods and , more recently ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Internet biosurveillance systems can detect and monitor outbreaks of infections more rapidly and accurately than ever before .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As the interactions between microorganisms ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "humans and the environment are too numerous and unexpected to be accurately represented in a mathematical model ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we argue that prediction and model-based management of epidemics in their early phase are quite unlikely to become the norm .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "19",
+    "token_num": "229"
+  }
+}

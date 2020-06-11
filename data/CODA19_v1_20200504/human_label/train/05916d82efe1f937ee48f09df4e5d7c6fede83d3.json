@@ -1,0 +1,242 @@
+{
+  "paper_id": "05916d82efe1f937ee48f09df4e5d7c6fede83d3",
+  "metadata": {
+    "title": "Pattern formation in multiplex networks OPEN",
+    "coda_data_split": "train",
+    "coda_paper_id": 8281,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "The advances in understanding complex networks have generated increasing interest in dynamical processes occurring on them. Pattern formation in activator-inhibitor systems has been studied in networks, revealing differences from the classical continuous media. Here we study pattern formation in a new framework, namely multiplex networks. These are systems where activator and inhibitor species occupy separate nodes in different layers. Species react across layers but diffuse only within their own layer of distinct network topology. This multiplicity generates heterogeneous patterns with significant differences from those observed in single-layer networks. Remarkably, diffusion-induced instability can occur even if the two species have the same mobility rates; condition which can never destabilize single-layer networks. The instability condition is revealed using perturbation theory and expressed by a combination of degrees in the different layers. Our theory demonstrates that the existence of such topology-driven instabilities is generic in multiplex networks, providing a new mechanism of pattern formation.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The advances in understanding complex networks have generated increasing interest in dynamical processes occurring on them .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Pattern formation in activator-inhibitor systems has been studied in networks ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "revealing differences from the classical continuous media .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we study pattern formation in a new framework , namely multiplex networks .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "These are systems where activator and inhibitor species occupy separate nodes in different layers .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Species react across layers but diffuse only within their own layer of distinct network topology .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This multiplicity generates heterogeneous patterns with significant differences from those observed in single-layer networks .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Remarkably , diffusion-induced instability can occur even if the two species have the same mobility rates ; condition which can never destabilize single-layer networks .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The instability condition is revealed using perturbation theory and expressed by a combination of degrees in the different layers .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our theory demonstrates that the existence of such topology-driven instabilities is generic in multiplex networks ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "providing a new mechanism of pattern formation .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Distributed active media support a variety of self-organized patterns, such as stationary and oscillatory structures, spiral waves, and turbulence 1-3 . Such media are often described by reaction-diffusion systems and consist of elements obeying an activator-inhibitor dynamics with local coupling. In his pioneering paper 1 , Turing showed that a uniform steady state can be spontaneously destabilized, leading to a spontaneous formation of a periodic spatial pattern, when reacting species diffuse with different mobilities. It was later proposed by Gierer and Meinhardt 4 that an activator-inhibitor chemical reaction is a typical example achieving Turing\u0027s scenario. Turing instability is a classical mechanism of self-organization far from equilibrium, and plays an important role in biological morphogenesis. It has been extensively studied in biological 4-6 and chemical 7 systems, as well as real ecosystems 8, 9 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Distributed active media support a variety of self-organized patterns ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as stationary and oscillatory structures ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "spiral waves , and turbulence 1-3 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Such media are often described by reaction-diffusion systems and consist of elements obeying an activator-inhibitor dynamics with local coupling .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In his pioneering paper 1 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Turing showed that a uniform steady state can be spontaneously destabilized ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "leading to a spontaneous formation of a periodic spatial pattern ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "when reacting species diffuse with different mobilities .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It was later proposed by Gierer and Meinhardt 4 that an activator-inhibitor chemical reaction is a typical example achieving Turing \u0027s scenario .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Turing instability is a classical mechanism of self-organization far from equilibrium ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and plays an important role in biological morphogenesis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It has been extensively studied in biological 4-6 and chemical 7 systems ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as well as real ecosystems 8 , 9 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The active elements can also be coupled in more complicated ways, forming complex networks 10,11 . Complex networks are ubiquitous in nature 12 ; two typical examples are epidemics spreading over transportation systems 13 and ecological systems where distinct habitats communicate through dispersal connections [14] [15] [16] [17] . Theoretical studies of reaction-diffusion processes on complex networks have recently attracted much attention 12,18-21 . Othmer and Scriven 22,23 developed the general mathematical framework to describe Turing instability in networks, and provided several examples of small regular lattices. Afterwards, Turing patterns were explored in small networks of chemical reactors 24,25 . More recent work in this area includes detailed studies of Turing bifurcation and related hysteresis phenomena in large complex networks 26, 27 , and oscillatory Turing patterns in multi-species ecological networks 28 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "The active elements can also be coupled in more complicated ways , forming complex networks 10,11 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Complex networks are ubiquitous in nature 12 ; two typical examples are epidemics spreading over transportation systems 13 and ecological systems where distinct habitats communicate through dispersal connections ( 14 ) ( 15 ) ( 16 ) ( 17 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Theoretical studies of reaction-diffusion processes on complex networks have recently attracted much attention 12,18-21 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Othmer and Scriven 22,23 developed the general mathematical framework to describe Turing instability in networks ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and provided several examples of small regular lattices .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Afterwards , Turing patterns were explored in small networks of chemical reactors 24,25 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "More recent work in this area includes detailed studies of Turing bifurcation and related hysteresis phenomena in large complex networks 26 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "27 , and oscillatory Turing patterns in multi-species ecological networks 28 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In nature, the active elements of a system can communicate through different types of pathways with different architecture. Such a system with multiple types of links can be represented as a special type of complex network called a multiplex network 29 . Recent theoretical studies have shown that the spectral properties of multiplex networks are significantly different from those of single-layer networks 29-33 , and that these differences affect the diffusion processes occurring on the network 30,31 . Consequently, the emergent dynamics can exhibit new kinds of patterns. Examples include the breathing synchronization of cross-connected phase oscillators 34 and the emergence of a metacritical point in epidemic",
+      "sentences": [
+        [
+          {
+            "segment_text": "In nature , the active elements of a system can communicate through different types of pathways with different architecture .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Such a system with multiple types of links can be represented as a special type of complex network called a multiplex network 29 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recent theoretical studies have shown that the spectral properties of multiplex networks are significantly different from those of single-layer networks 29-33 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and that these differences affect the diffusion processes occurring on the network 30,31 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Consequently , the emergent dynamics can exhibit new kinds of patterns .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Examples include the breathing synchronization of cross-connected phase oscillators 34 and the emergence of a metacritical point in epidemic",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "26",
+    "segment_num": "38",
+    "token_num": "569"
+  }
+}

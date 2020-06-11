@@ -1,0 +1,127 @@
+{
+  "paper_id": "31b6292728805572de28133c6eb02ed1d44ef211",
+  "metadata": {
+    "title": "Bioinformatics and Biology Insights o r I g I n A L r e s e A r C h Automated Detection of conformational epitopes Using phage Display peptide sequences",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1211,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Precise determination of conformational epitopes of neutralizing antibodies represents a key step in the rational design of novel vaccines. A powerful experimental method to gain insights on the physical chemical nature of conformational epitopes is the selection of linear peptides that bind with high affinities to a monoclonal antibody of interest by phage display technology. However, the structural characterization of conformational epitopes from these mimotopes is not straightforward, and in the past the interpretation of peptide sequences from phage display experiments focused on linear sequence analysis to find a consensus sequence or common sequence motifs.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Precise determination of conformational epitopes of neutralizing antibodies represents a key step in the rational design of novel vaccines .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A powerful experimental method to gain insights on the physical chemical nature of conformational epitopes is the selection of linear peptides that bind with high affinities to a monoclonal antibody of interest by phage display technology .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the structural characterization of conformational epitopes from these mimotopes is not straightforward ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and in the past the interpretation of peptide sequences from phage display experiments focused on linear sequence analysis to find a consensus sequence or common sequence motifs .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We present a fully automated search method, EpiSearch that predicts the possible location of conformational epitopes on the surface of an antigen. The algorithm uses peptide sequences from phage display experiments as input, and ranks all surface exposed patches according to the frequency distribution of similar residues in the peptides and in the patch. We have tested the performance of the EpiSearch algorithm for six experimental data sets of phage display experiments, the human epidermal growth factor receptor-2 (HER-2/neu), the antibody mAb Bo2C11 targeting the C 2 domain of FVIII, antibodies mAb 17b and mAb b12 of the HIV envelope protein gp120, mAb 13b5 targeting HIV-1 capsid protein and 80R of the SARS coronavirus spike protein. In all these examples the conformational epitopes as determined by the X-ray crystal structures of the antibody-antigen complexes, were found within the highest scoring patches of EpiSearch, covering in most cases more than 50% residues of experimental observed conformational epitopes. Input options of the program include mapping of a single peptide or a set of peptides on the antigen structure, and the results of the calculation can be visualized on our interactive web server.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We present a fully automated search method ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "EpiSearch that predicts the possible location of conformational epitopes on the surface of an antigen .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The algorithm uses peptide sequences from phage display experiments as input ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and ranks all surface exposed patches according to the frequency distribution of similar residues in the peptides and in the patch .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We have tested the performance of the EpiSearch algorithm for six experimental data sets of phage display experiments ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the human epidermal growth factor receptor-2 ( HER-2 / neu ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the antibody mAb Bo2C11 targeting the C 2 domain of FVIII ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "antibodies mAb 17b and mAb b12 of the HIV envelope protein gp120 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "mAb 13b5 targeting HIV-1 capsid protein and 80R of the SARS coronavirus spike protein .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In all these examples the conformational epitopes as determined by the X-ray crystal structures of the antibody-antigen complexes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "were found within the highest scoring patches of EpiSearch ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "covering in most cases more than 50 % residues of experimental observed conformational epitopes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Input options of the program include mapping of a single peptide or a set of peptides on the antigen structure ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the results of the calculation can be visualized on our interactive web server .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Availability: Users can access the EpiSearch from our web server",
+      "sentences": [
+        [
+          {
+            "segment_text": "Availability : Users can access the EpiSearch from our web server",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "9",
+    "segment_num": "19",
+    "token_num": "322"
+  }
+}

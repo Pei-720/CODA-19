@@ -1,0 +1,94 @@
+{
+  "paper_id": "ffbe34e6cdad2e0807c420ddee33b842e38e219d",
+  "metadata": {
+    "title": "A novel hierarchical clustering algorithm for gene sequences",
+    "coda_data_split": "train",
+    "coda_paper_id": 2502,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Clustering DNA sequences into functional groups is an important problem in bioinformatics. We propose a new alignment-free algorithm, mBKM, based on a new distance measure, DMk, for clustering gene sequences. This method transforms DNA sequences into the feature vectors which contain the occurrence, location and order relation of k-tuples in DNA sequence. Afterwards, a hierarchical procedure is applied to clustering DNA sequences based on the feature vectors.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Clustering DNA sequences into functional groups is an important problem in bioinformatics .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We propose a new alignment-free algorithm ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "mBKM , based on a new distance measure ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "DMk , for clustering gene sequences .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This method transforms DNA sequences into the feature vectors which contain the occurrence ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "location and order relation of k-tuples in DNA sequence .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Afterwards , a hierarchical procedure is applied to clustering DNA sequences based on the feature vectors .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results: The proposed distance measure and clustering method are evaluated by clustering functionally related genes and by phylogenetic analysis. This method is also compared with BlastClust, CD-HIT-EST and some others. The experimental results show our method is effective in classifying DNA sequences with similar biological characteristics and in discovering the underlying relationship among the sequences. Conclusions: We introduced a novel clustering algorithm which is based on a new sequence similarity measure. It is effective in classifying DNA sequences with similar biological characteristics and in discovering the relationship among the sequences.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results : The proposed distance measure and clustering method are evaluated by clustering functionally related genes and by phylogenetic analysis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This method is also compared with BlastClust , CD-HIT-EST and some others .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The experimental results show our method is effective in classifying DNA sequences with similar biological characteristics and in discovering the underlying relationship among the sequences .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Conclusions : We introduced a novel clustering algorithm which is based on a new sequence similarity measure .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is effective in classifying DNA sequences with similar biological characteristics and in discovering the relationship among the sequences .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "9",
+    "segment_num": "12",
+    "token_num": "177"
+  }
+}

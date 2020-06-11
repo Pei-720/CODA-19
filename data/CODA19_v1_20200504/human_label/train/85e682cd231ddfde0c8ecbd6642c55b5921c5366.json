@@ -1,0 +1,105 @@
+{
+  "paper_id": "85e682cd231ddfde0c8ecbd6642c55b5921c5366",
+  "metadata": {
+    "title": "Analysis of household data on influenza epidemic with Bayesian hierarchical model",
+    "coda_data_split": "train",
+    "coda_paper_id": 7918,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Data used for modelling the household transmission of infectious diseases, such as influenza, have inherent multilevel structures and correlated property, which make the widely used conventional infectious disease transmission models (including the Greenwood model and the Reed-Frost model) not directly applicable within the context of a household (due to the crowded domestic condition or socioeconomic status of the household). Thus, at the household level, the effects resulting from individual-level factors, such as vaccination, may be confounded or modified in some way. We proposed the Bayesian hierarchical randomeffects (random intercepts and random slopes) model under the context of generalised linear model to capture heterogeneity and variation on the individual, generation, and household levels. It was applied to empirical surveillance data on the influenza epidemic in Taiwan. The parameters of interest were estimated by using the Markov chain Monte Carlo method in conjunction with the Bayesian directed acyclic graphical models. Comparisons between models were made using the deviance information criterion. Based on the result of the random-slope Bayesian hierarchical method under the context of the Reed-Frost transmission model, the regression coefficient regarding the protective effect of vaccination varied statistically significantly from household to household. The result of such a heterogeneity was robust to the use of different prior distributions (including non-informative, sceptical, and enthusiastic ones). By integrating out the uncertainty of the parameters of the posterior distribution, the predictive distribution was computed to forecast the number of influenza cases allowing for random-household effect.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Data used for modelling the household transmission of infectious diseases ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as influenza , have inherent multilevel structures and correlated property ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which make the widely used conventional infectious disease transmission models ( including the Greenwood model and the Reed-Frost model ) not directly applicable within the context of a household ( due to the crowded domestic condition or socioeconomic status of the household ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , at the household level ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the effects resulting from individual-level factors ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as vaccination , may be confounded or modified in some way .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We proposed the Bayesian hierarchical randomeffects ( random intercepts and random slopes ) model under the context of generalised linear model to capture heterogeneity and variation on the individual ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "generation , and household levels .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "It was applied to empirical surveillance data on the influenza epidemic in Taiwan .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The parameters of interest were estimated by using the Markov chain Monte Carlo method in conjunction with the Bayesian directed acyclic graphical models .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Comparisons between models were made using the deviance information criterion .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Based on the result of the random-slope Bayesian hierarchical method under the context of the Reed-Frost transmission model ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the regression coefficient regarding the protective effect of vaccination varied statistically significantly from household to household .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The result of such a heterogeneity was robust to the use of different prior distributions ( including non-informative , sceptical , and enthusiastic ones ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "By integrating out the uncertainty of the parameters of the posterior distribution ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the predictive distribution was computed to forecast the number of influenza cases allowing for random-household effect .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "9",
+    "segment_num": "16",
+    "token_num": "271"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "paper_id": "4589d4013cf69c396e0fdb67131022fc11119654",
+  "metadata": {
+    "title": "Association between the Severity of Influenza A(H7N9) Virus Infections and Length of the Incubation Period",
+    "coda_data_split": "test",
+    "coda_paper_id": 755,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "In early 2013, a novel avian-origin influenza A(H7N9) virus emerged in China, and has caused sporadic human infections. The incubation period is the delay from infection until onset of symptoms, and varies from person to person. Few previous studies have examined whether the duration of the incubation period correlates with subsequent disease severity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In early 2013 , a novel avian-origin influenza A ( H7N9 ) virus emerged in China ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and has caused sporadic human infections .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The incubation period is the delay from infection until onset of symptoms ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and varies from person to person .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Few previous studies have examined whether the duration of the incubation period correlates with subsequent disease severity .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We analyzed data of period of exposure on 395 human cases of laboratory-confirmed influenza A(H7N9) virus infection in China in a Bayesian framework using a Weibull distribution. We found a longer incubation period for the 173 fatal cases with a mean of 3.7 days (95% credibility interval, CrI: 3.4-4.1), compared to a mean of 3.3 days (95% CrI: 2.9-3.6) for the 222 non-fatal cases, and the difference in means was marginally significant at 0.47 days (95% CrI: -0.04, 0.99). There was a statistically significant correlation between a longer incubation period and an increased risk of death after adjustment for age, sex, geographical location and underlying medical conditions (adjusted odds ratio 1.70 per day increase in incubation period; 95% credibility interval 1.47-1.97).",
+      "sentences": [
+        [
+          {
+            "segment_text": "We analyzed data of period of exposure on 395 human cases of laboratory-confirmed influenza A ( H7N9 ) virus infection in China in a Bayesian framework using a Weibull distribution .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We found a longer incubation period for the 173 fatal cases with a mean of 3.7 days ( 95 % credibility interval , CrI : 3.4-4.1 ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "compared to a mean of 3.3 days ( 95 % CrI : 2.9-3.6 ) for the 222 non-fatal cases ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and the difference in means was marginally significant at 0.47 days ( 95 % CrI : -0.04 , 0.99 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "There was a statistically significant correlation between a longer incubation period and an increased risk of death after adjustment for age ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "sex , geographical location and underlying medical conditions ( adjusted odds ratio 1.70 per day increase in incubation period ; 95 % credibility interval 1.47-1.97 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We found a significant association between a longer incubation period and a greater risk of death among human H7N9 cases. The underlying biological mechanisms leading to this association deserve further exploration.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We found a significant association between a longer incubation period and a greater risk of death among human H7N9 cases .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The underlying biological mechanisms leading to this association deserve further exploration .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "8",
+    "segment_num": "13",
+    "token_num": "244"
+  }
+}

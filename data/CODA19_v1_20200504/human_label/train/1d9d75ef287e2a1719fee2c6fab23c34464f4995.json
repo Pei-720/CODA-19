@@ -1,0 +1,112 @@
+{
+  "paper_id": "1d9d75ef287e2a1719fee2c6fab23c34464f4995",
+  "metadata": {
+    "title": "Virus Databases",
+    "coda_data_split": "train",
+    "coda_paper_id": 4125,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Annotation The process of adding descriptive information to a data set and the individual data elements that comprise that data set. May include both computational analyses and manual curation. Curation The process of manually adding descriptive information or explanatory material to a data set usually based on a review of the existing literature. Database A collection of information, usually stored electronically on a computer. Database, hierarchical (XML) Extensible markup language. A formally defined hierarchical organization of data.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Annotation The process of adding descriptive information to a data set and the individual data elements that comprise that data set .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "May include both computational analyses and manual curation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Curation The process of manually adding descriptive information or explanatory material to a data set usually based on a review of the existing literature .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Database A collection of information ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "usually stored electronically on a computer .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Database , hierarchical ( XML ) Extensible markup language .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A formally defined hierarchical organization of data .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "A database software package designed to operate on a particular computer platform and operating system. Database schema A map of the database structure, including all of the fields, tables, and relationships that comprise the framework for storage of information within that database. Database, relational A database structure that provides the ability to define formal relationships between all data elements stored within the database. Ontology A controlled vocabulary used to formally describe (for our purposes) a biological process or entity. SQL Structured Query Language. A computer language used to query relational databases for information.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A database software package designed to operate on a particular computer platform and operating system .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Database schema A map of the database structure ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including all of the fields ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "tables , and relationships that comprise the framework for storage of information within that database .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Database , relational A database structure that provides the ability to define formal relationships between all data elements stored within the database .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Ontology A controlled vocabulary used to formally describe ( for our purposes ) a biological process or entity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "SQL Structured Query Language .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A computer language used to query relational databases for information .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "12",
+    "segment_num": "15",
+    "token_num": "192"
+  }
+}

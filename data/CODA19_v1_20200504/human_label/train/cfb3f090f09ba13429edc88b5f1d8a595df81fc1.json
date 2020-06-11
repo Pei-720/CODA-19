@@ -1,0 +1,195 @@
+{
+  "paper_id": "cfb3f090f09ba13429edc88b5f1d8a595df81fc1",
+  "metadata": {
+    "title": "Novel insights into endogenous RNA viral elements in Ixodes scapularis and other arbovirus vector genomes",
+    "coda_data_split": "train",
+    "coda_paper_id": 7341,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Many emerging arboviruses are not transmitted by traditional mosquito vectors, but by lesser-studied arthropods such as ticks, midges, and sand flies. Small RNA (sRNA) silencing pathways are the main antiviral defence mechanism for arthropods, which lack adaptive immunity. Non-retroviral integrated RNA virus sequences (NIRVS) are one potential source of sRNAs which comprise these pathways. NIRVS are remnants of past germline RNA viral infections, where viral cDNA integrates into the host genome and is vertically transmitted. In Aedes mosquitoes, NIRVS are widespread and produce PIWI-interacting RNAs (piRNAs). These are hypothesised to target incoming viral transcripts to modulate viral titre, perhaps rendering the organism a more efficient arbovirus vector. To explore the NIRVS landscape in alternative arbovirus vectors, we validated the NIRVS landscape in Aedes spp. and then identified novel NIRVS in six medically relevant arthropods and also in Drosophila melanogaster. We identified novel NIRVS in Phlebotomus papatasi, Culicoides sonorensis, Rhipicephalus microplus, Anopheles gambiae, Culex quinquefasciatus, and Ixodes scapularis. Due to their unexpected abundance, we further characterised NIRVS in the blacklegged tick I. scapularis (n \u003d 143). Interestingly, NIRVS are not enriched in R. microplus, another hard tick, suggesting this is an Ixodes-specific adaptation. I. scapularis NIRVS are enriched in bunya-and orthomyxo-like sequences, reflecting that ticks are a dominant host for these virus groups. Unlike in mosquitoes, I. scapularis NIRVS are more commonly derived from the nonstructural region (replicase) of negative-sense viruses, as opposed to structural regions (e.g. glycoprotein). Like other arthropods, I. scapularis NIRVS preferentially integrate into genomic piRNA clusters, and serve as a template for primary piRNA production in the commonly used embryonic I. scapularis ISE6 cell line. Interestingly, we identified a two-fold enrichment of nonlong terminal repeat (non-LTR) retrotransposons, in genomic proximity to NIRVS, contrasting with studeis in Ae. aegypti, where LTR retrotransposons are instead associated with NIRVS formation. We characterised NIRVS phylogeny and integration patterns in the important vector, I. scapularis, revealing they are distinct from those in Aedes spp. Future studies will explore the possible antiviral mechanism conferred by NIRVS to I. scapularis,which may help the transmission of pathogenic arboviruses. Finally, this study explored NIRVS as an untapped wealth of viral diversity in arthropods.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Many emerging arboviruses are not transmitted by traditional mosquito vectors ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but by lesser-studied arthropods such as ticks ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "midges , and sand flies .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Small RNA ( sRNA ) silencing pathways are the main antiviral defence mechanism for arthropods , which lack adaptive immunity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Non-retroviral integrated RNA virus sequences ( NIRVS ) are one potential source of sRNAs which comprise these pathways .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "NIRVS are remnants of past germline RNA viral infections ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "where viral cDNA integrates into the host genome and is vertically transmitted .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In Aedes mosquitoes , NIRVS are widespread and produce PIWI-interacting RNAs ( piRNAs ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These are hypothesised to target incoming viral transcripts to modulate viral titre ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "perhaps rendering the organism a more efficient arbovirus vector .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To explore the NIRVS landscape in alternative arbovirus vectors ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "we validated the NIRVS landscape in Aedes spp. and then identified novel NIRVS in six medically relevant arthropods and also in Drosophila melanogaster .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We identified novel NIRVS in Phlebotomus papatasi ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "Culicoides sonorensis , Rhipicephalus microplus ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "Anopheles gambiae , Culex quinquefasciatus , and Ixodes scapularis .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Due to their unexpected abundance ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we further characterised NIRVS in the blacklegged tick I. scapularis ( n \u003d 143 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Interestingly , NIRVS are not enriched in R. microplus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "another hard tick , suggesting this is an Ixodes-specific adaptation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "I. scapularis NIRVS are enriched in bunya-and orthomyxo-like sequences ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "reflecting that ticks are a dominant host for these virus groups .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Unlike in mosquitoes , I. scapularis NIRVS are more commonly derived from the nonstructural region ( replicase ) of negative-sense viruses ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as opposed to structural regions ( e.g. glycoprotein ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Like other arthropods , I. scapularis NIRVS preferentially integrate into genomic piRNA clusters ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and serve as a template for primary piRNA production in the commonly used embryonic I. scapularis ISE6 cell line .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Interestingly , we identified a two-fold enrichment of nonlong terminal repeat ( non-LTR ) retrotransposons ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "in genomic proximity to NIRVS ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "contrasting with studeis in Ae .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "aegypti , where LTR retrotransposons are instead associated with NIRVS formation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We characterised NIRVS phylogeny and integration patterns in the important vector ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "I. scapularis , revealing they are distinct from those in Aedes spp. .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Future studies will explore the possible antiviral mechanism conferred by NIRVS to I. scapularis ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which may help the transmission of pathogenic arboviruses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , this study explored NIRVS as an untapped wealth of viral diversity in arthropods .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "18",
+    "segment_num": "34",
+    "token_num": "420"
+  }
+}

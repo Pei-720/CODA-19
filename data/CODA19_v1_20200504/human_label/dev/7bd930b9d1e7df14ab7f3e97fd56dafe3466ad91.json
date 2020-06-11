@@ -1,0 +1,89 @@
+{
+  "paper_id": "7bd930b9d1e7df14ab7f3e97fd56dafe3466ad91",
+  "metadata": {
+    "title": "A Multicompartment SIS Stochastic Model with Zonal Ventilation for the Spread of Nosocomial Infections: Detection, Outbreak Management, and Infection Control",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1825,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "In this work, we study the environmental and operational factors that influence airborne transmission of nosocomial infections. We link a deterministic zonal ventilation model for the airborne distribution of infectious material in a hospital ward, with a Markovian multicompartment SIS model for the infection of individuals within this ward, in order to conduct a parametric study on ventilation rates and their effect on the epidemic dynamics. Our stochastic model includes arrival and discharge of patients, as well as the detection of the outbreak by screening events or due to symptoms being shown by infective patients. For each ventilation setting, we measure the infectious potential of a nosocomial outbreak in the hospital ward by means of a summary statistic: the number of infections occurred within the hospital ward until end or declaration of the outbreak. We analytically compute the distribution of this summary statistic, and carry out local and global sensitivity analysis in order to identify the particular characteristics of each ventilation regime with the largest impact on the epidemic spread. Our results show that ward ventilation can have a significant impact on the infection spread, especially under slow detection scenarios or in overoccupied wards, and that decreasing the infection risk for the whole hospital ward might increase the risk in specific areas of the health-care facility. Moreover, the location of the initial infective individual and the protocol in place for outbreak declaration both form an interplay with ventilation of the ward.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this work , we study the environmental and operational factors that influence airborne transmission of nosocomial infections .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We link a deterministic zonal ventilation model for the airborne distribution of infectious material in a hospital ward ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "with a Markovian multicompartment SIS model for the infection of individuals within this ward ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "in order to conduct a parametric study on ventilation rates and their effect on the epidemic dynamics .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our stochastic model includes arrival and discharge of patients ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "as well as the detection of the outbreak by screening events or due to symptoms being shown by infective patients .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "For each ventilation setting , we measure the infectious potential of a nosocomial outbreak in the hospital ward by means of a summary statistic : the number of infections occurred within the hospital ward until end or declaration of the outbreak .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We analytically compute the distribution of this summary statistic ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and carry out local and global sensitivity analysis in order to identify the particular characteristics of each ventilation regime with the largest impact on the epidemic spread .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our results show that ward ventilation can have a significant impact on the infection spread ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "especially under slow detection scenarios or in overoccupied wards ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and that decreasing the infection risk for the whole hospital ward might increase the risk in specific areas of the health-care facility .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , the location of the initial infective individual and the protocol in place for outbreak declaration both form an interplay with ventilation of the ward .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "13",
+    "token_num": "258"
+  }
+}

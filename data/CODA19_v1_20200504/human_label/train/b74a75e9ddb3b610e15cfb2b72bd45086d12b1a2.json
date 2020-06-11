@@ -1,0 +1,75 @@
+{
+  "paper_id": "b74a75e9ddb3b610e15cfb2b72bd45086d12b1a2",
+  "metadata": {
+    "title": "HexaPrime: A novel method for detection of coronaviruses",
+    "coda_data_split": "train",
+    "coda_paper_id": 8172,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Despite intense efforts to develop novel and better tools to identify known viruses and to discover new viruses, establishing etiological roles for viruses in human disease is challenging. In large part, this may be attributed to the high variability of viral species and the difficulties in developing broad-spectrum, yet specific, diagnostic assays. To overcome this problem, a novel method for the detection of viruses is described in the current manuscript. The technique relies on the addition of synthetic oligonucleotides to both termini of RNA fragments in a sequence-dependent manner during first-and second-strand DNA synthesis; these oligonucleotides are used subsequently for amplification of the viral nucleic acids of interest. The recognition of the target sequence by the oligonucleotides is mediated by short (6-8 nt) conserved regions, which facilitates development of broad-spectrum assays. The method has been tested for coronaviruses, although it may be also adopted for other RNA viruses.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Despite intense efforts to develop novel and better tools to identify known viruses and to discover new viruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "establishing etiological roles for viruses in human disease is challenging .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In large part , this may be attributed to the high variability of viral species and the difficulties in developing broad-spectrum ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "yet specific , diagnostic assays .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To overcome this problem , a novel method for the detection of viruses is described in the current manuscript .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The technique relies on the addition of synthetic oligonucleotides to both termini of RNA fragments in a sequence-dependent manner during first-and second-strand DNA synthesis ; these oligonucleotides are used subsequently for amplification of the viral nucleic acids of interest .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The recognition of the target sequence by the oligonucleotides is mediated by short ( 6-8 nt ) conserved regions ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which facilitates development of broad-spectrum assays .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The method has been tested for coronaviruses ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "although it may be also adopted for other RNA viruses .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "10",
+    "token_num": "164"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "paper_id": "e495386f9bd3befaa8d8917cd96e078604307e01",
+  "metadata": {
+    "title": "Reducing agents affect inhibitory activities of compounds: Results from Multiple Drug Targets",
+    "coda_data_split": "train",
+    "coda_paper_id": 6808,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "High-throughput screening (HTS) of large compound libraries has become a commonly used method for the identification of drug leads, and non-physiological reducing agents have been widely used for HTS. However, a comparison of the difference in the HTS results based on the choice of reducing agent used and potency comparisons of selected inhibitors has not been done with the physiological reducing agent, reduced glutathione (GSH). Here, we compared the effects of three reducing agents: dithiothreitol (DTT), β-mercaptoethanol (β-MCE), and tris-(2carboxyethyl)-phosphine (TCEP), in addition to GSH, against three drug target proteins. Approximately 100,000 compounds were computationally screened for each target protein, and experimental testing of high scoring compounds (~560 compounds) with the four reducing agents surprisingly produced many non-overlapping hits. More importantly, we find that various reducing agents alter inhibitor potency (IC 50 ) from ~10 µM with one reducing agent to complete loss (IC 50 \u003e 200 µM) of inhibitory activity with another reducing agent. Therefore, the choice of reducing agent in a HTS is critical as this may lead to the pursuit of falsely identified active compounds or failure to identify the true active compounds. We demonstrate the feasibility of using GSH for in vitro HTS assays with these three target enzymes.",
+      "sentences": [
+        [
+          {
+            "segment_text": "High-throughput screening ( HTS ) of large compound libraries has become a commonly used method for the identification of drug leads ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and non-physiological reducing agents have been widely used for HTS .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , a comparison of the difference in the HTS results based on the choice of reducing agent used and potency comparisons of selected inhibitors has not been done with the physiological reducing agent ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "reduced glutathione ( GSH ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we compared the effects of three reducing agents : dithiothreitol ( DTT ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "β-mercaptoethanol ( β-MCE ) , and tris - ( 2carboxyethyl ) - phosphine ( TCEP ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "in addition to GSH , against three drug target proteins .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Approximately 100,000 compounds were computationally screened for each target protein ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and experimental testing of high scoring compounds ( ~ 560 compounds ) with the four reducing agents surprisingly produced many non-overlapping hits .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "More importantly , we find that various reducing agents alter inhibitor potency ( IC 50 ) from ~ 10 µM with one reducing agent to complete loss ( IC 50 \u003e 200 µM ) of inhibitory activity with another reducing agent .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , the choice of reducing agent in a HTS is critical as this may lead to the pursuit of falsely identified active compounds or failure to identify the true active compounds .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We demonstrate the feasibility of using GSH for in vitro HTS assays with these three target enzymes .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Publisher\u0027s Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain. Contributions H.L. performed all experiments with assistance of J.T. and L.T., R.C. performed computational selection of inhibitors for PLpro and NS3/4A, A.M. performed computational selection of inhibitors for 3CLpro, and H.L. and M.E.J. designed the experiments and wrote the manuscript.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Publisher \u0027s Disclaimer : This is a PDF file of an unedited manuscript that has been accepted for publication .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "As a service to our customers we are providing this early version of the manuscript .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "The manuscript will undergo copyediting ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "typesetting , and review of the resulting proof before it is published in its final citable form .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Please note that during the production process errors may be discovered which could affect the content ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "and all legal disclaimers that apply to the journal pertain .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Contributions H.L. performed all experiments with assistance of J.T. and L.T. ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "R.C. performed computational selection of inhibitors for PLpro and NS3/4A ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "A.M. performed computational selection of inhibitors for 3CLpro ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "and H.L. and M.E.J. designed the experiments and wrote the manuscript .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "12",
+    "segment_num": "22",
+    "token_num": "377"
+  }
+}

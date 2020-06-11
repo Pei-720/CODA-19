@@ -1,0 +1,85 @@
+{
+  "paper_id": "a341fd0daf2609052aedbd102b7a04a6e601a6a6",
+  "metadata": {
+    "title": "Critical Dynamics in Host-Pathogen Systems",
+    "coda_data_split": "train",
+    "coda_paper_id": 10608,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Host-pathogen interactions provide a fascinating example of two or more active genomes directly exerting mutual influence upon each other. These encounters can lead to multiple outcomes from symbiotic homeostasis to mutual annihilation, undergo multiple cycles of latency and lysogeny, and lead to coevolution of the interacting genomes. Such systems pose numerous challenges but also some advantages to modeling, especially in terms of functional, mathematical genome representations. The main challenges for the modeling process start with the conceptual definition of a genome for instance in the case of hostintegrated viral genomes. Furthermore, hardly understood influences of the activity of either genome on the other(s) via direct and indirect mechanisms amplify the needs for a coherent description of genome activity. Finally, genetic and local environmental heterogeneities in both the host\u0027s cellular and the pathogen populations need to be considered in multiscale modeling efforts. We will review here two prominent examples of host-pathogen interactions at the genome level, discuss the current modeling efforts and their shortcomings, and explore novel ideas of representing active genomes which promise being particularly adapted to dealing with the modeling challenges posed by host-pathogen interactions.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Host-pathogen interactions provide a fascinating example of two or more active genomes directly exerting mutual influence upon each other .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These encounters can lead to multiple outcomes from symbiotic homeostasis to mutual annihilation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "undergo multiple cycles of latency and lysogeny ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and lead to coevolution of the interacting genomes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Such systems pose numerous challenges but also some advantages to modeling ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "especially in terms of functional , mathematical genome representations .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The main challenges for the modeling process start with the conceptual definition of a genome for instance in the case of hostintegrated viral genomes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , hardly understood influences of the activity of either genome on the other ( s ) via direct and indirect mechanisms amplify the needs for a coherent description of genome activity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , genetic and local environmental heterogeneities in both the host \u0027s cellular and the pathogen populations need to be considered in multiscale modeling efforts .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We will review here two prominent examples of host-pathogen interactions at the genome level ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "discuss the current modeling efforts and their shortcomings ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and explore novel ideas of representing active genomes which promise being particularly adapted to dealing with the modeling challenges posed by host-pathogen interactions .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "12",
+    "token_num": "205"
+  }
+}

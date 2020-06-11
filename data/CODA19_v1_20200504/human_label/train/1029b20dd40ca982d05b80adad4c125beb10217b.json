@@ -1,0 +1,121 @@
+{
+  "paper_id": "1029b20dd40ca982d05b80adad4c125beb10217b",
+  "metadata": {
+    "title": "Integrative QTL analysis of gene expression and chromatin accessibility identifies multi- tissue patterns of genetic regulation",
+    "coda_data_split": "train",
+    "coda_paper_id": 2766,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Gene transcription profiles across tissues are largely defined by the activity of regulatory elements, most of which correspond to regions of accessible chromatin. Regulatory element activity is in turn modulated by genetic variation, resulting in variable transcription rates across individuals. The interplay of these factors, however, is poorly understood. Here we characterize expression and chromatin state dynamics across three tissues-liver, lung, and kidney-in 47 strains of the Collaborative Cross (CC) mouse population, examining the regulation of these dynamics by expression quantitative trait loci (eQTL) and chromatin QTL (cQTL). QTL whose allelic effects were consistent across tissues were detected for 1,101 genes and 133 chromatin regions. Also detected were eQTL and cQTL whose allelic effects differed across tissues, including local-eQTL for Pik3c2g detected in all three tissues but with distinct allelic effects. Leveraging overlapping measurements of gene expression and chromatin accessibility on the same mice from multiple tissues, we used mediation analysis to identify chromatin and gene expression intermediates of eQTL effects. Based on QTL and mediation analyses over multiple tissues, we propose a causal model for the distal genetic regulation of Akr1e1, a gene involved in glycogen metabolism, through the zinc finger transcription factor Zfp985 and chromatin intermediates. This analysis demonstrates the complexity of transcriptional and chromatin dynamics and their regulation over multiple tissues, as well as the value of the CC and related genetic resource populations for identifying specific regulatory mechanisms within cells and tissues.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Gene transcription profiles across tissues are largely defined by the activity of regulatory elements ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "most of which correspond to regions of accessible chromatin .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Regulatory element activity is in turn modulated by genetic variation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "resulting in variable transcription rates across individuals .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The interplay of these factors ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "however , is poorly understood .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we characterize expression and chromatin state dynamics across three tissues-liver ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "lung , and kidney-in 47 strains of the Collaborative Cross ( CC ) mouse population ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "examining the regulation of these dynamics by expression quantitative trait loci ( eQTL ) and chromatin QTL ( cQTL ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "QTL whose allelic effects were consistent across tissues were detected for 1,101 genes and 133 chromatin regions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Also detected were eQTL and cQTL whose allelic effects differed across tissues ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including local-eQTL for Pik3c2g detected in all three tissues but with distinct allelic effects .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Leveraging overlapping measurements of gene expression and chromatin accessibility on the same mice from multiple tissues ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we used mediation analysis to identify chromatin and gene expression intermediates of eQTL effects .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Based on QTL and mediation analyses over multiple tissues ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we propose a causal model for the distal genetic regulation of Akr1e1 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a gene involved in glycogen metabolism ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "through the zinc finger transcription factor Zfp985 and chromatin intermediates .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This analysis demonstrates the complexity of transcriptional and chromatin dynamics and their regulation over multiple tissues ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as well as the value of the CC and related genetic resource populations for identifying specific regulatory mechanisms within cells and tissues .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "9",
+    "segment_num": "20",
+    "token_num": "264"
+  }
+}

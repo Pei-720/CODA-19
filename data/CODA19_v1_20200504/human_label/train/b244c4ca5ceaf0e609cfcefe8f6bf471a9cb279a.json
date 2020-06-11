@@ -1,0 +1,139 @@
+{
+  "paper_id": "b244c4ca5ceaf0e609cfcefe8f6bf471a9cb279a",
+  "metadata": {
+    "title": "Title: Spatial variability in the risk of death from COVID-19 in Italy, 2020",
+    "coda_data_split": "train",
+    "coda_paper_id": 4399,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Italy is bearing the brunt of the COVID-19 pandemic, as the death toll there has already surpassed that in Wuhan, the city in China where the coronavirus emerged in December 2019. Here we employ statistical methods to assess the severity of COVID-19 pandemic across different regions of Italy.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Italy is bearing the brunt of the COVID-19 pandemic ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as the death toll there has already surpassed that in Wuhan ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the city in China where the coronavirus emerged in December 2019 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we employ statistical methods to assess the severity of COVID-19 pandemic across different regions of Italy .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We manually retrieved the daily cumulative numbers of laboratory-confirmed cases and deaths attributed to COVID-19 stratified by region in Italy from March 2, 2020 to March 28, 2020. We estimated both the crude and time-delay adjusted case fatality ratio across five geographic regions of Italy: Northwest, Northeast, Center, South and Island.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We manually retrieved the daily cumulative numbers of laboratory-confirmed cases and deaths attributed to COVID-19 stratified by region in Italy from March 2 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "2020 to March 28 , 2020 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We estimated both the crude and time-delay adjusted case fatality ratio across five geographic regions of Italy : Northwest ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "Northeast , Center , South and Island .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": ": The Northwest that includes Lombardy exhibited the highest time-delay-adjusted CFR at 31.4%% [95% credible interval: 30.8, 32.1%] followed by the Northeast (20.3%) [95% CrI: 19.4, 21.1], the Center region (16.5%) [95% CrI: 15.4, 17.7] and the South region (16.8%) [95% CrI: 15.0, 18.7]. The Island region has exhibited the lowest CFR (11.8%) [95% CrI: 9.0, 14.8].",
+      "sentences": [
+        [
+          {
+            "segment_text": ": The Northwest that includes Lombardy exhibited the highest time-delay-adjusted CFR at 31.4 % % ( 95 % credible interval : 30.8 , 32.1 % ) followed by the Northeast ( 20.3 % ) ( 95 % CrI : 19.4 , 21.1 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the Center region ( 16.5 % ) ( 95 % CrI : 15.4 , 17.7 ) and the South region ( 16.8 % ) ( 95 % CrI : 15.0 , 18.7 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The Island region has exhibited the lowest CFR ( 11.8 % ) ( 95 % CrI : 9.0 , 14.8 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Conclusion: Italy is experiencing one of the highest CFR from the COVID-19 pandemic in the world. Time delay adjusted CFR in all the regions in Italy except the Island region were higher than that estimated for Wuhan, China. The CFR in Northwest Italy is 2.5-fold higher than that in Wuhan. Our finding reflects the need of urgent medical support in the Northwest region and the appropriate planning and supplies procurement in other regions of Italy with . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Conclusion : Italy is experiencing one of the highest CFR from the COVID-19 pandemic in the world .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Time delay adjusted CFR in all the regions in Italy except the Island region were higher than that estimated for Wuhan , China .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The CFR in Northwest Italy is 2.5-fold higher than that in Wuhan .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our finding reflects the need of urgent medical support in the Northwest region and the appropriate planning and supplies procurement in other regions of Italy with .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "CC-BY-NC-ND 4.0 International license It is made available under a author/funder ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "who has granted medRxiv a license to display the preprint in perpetuity .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "is the (which was not peer-reviewed) The copyright holder for this preprint .",
+      "sentences": [
+        [
+          {
+            "segment_text": "is the ( which was not peer-reviewed ) The copyright holder for this preprint .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "12",
+    "segment_num": "18",
+    "token_num": "335"
+  }
+}

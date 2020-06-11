@@ -1,0 +1,87 @@
+{
+  "paper_id": "8bebe89ae7eb2ad70096f06e7aa5140cad8acbf5",
+  "metadata": {
+    "title": "Improving the wind environment in high-density cities by understanding urban morphology and surface roughness: A study in Hong Kong",
+    "coda_data_split": "train",
+    "coda_paper_id": 5307,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "In this study, a high-resolution frontal area density (FAD) map that depicts the surface roughness of urban Hong Kong is produced using a mapping method that takes into account the dense urban morphology and the site wind availability of the territory. Using the MM5/CALMET model simulated wind data of Hong Kong, the FAD map of three urban zones are calculated: podium (0-15 m), building (15-60 m), and urban canopy (0-60 m). The wind tunnel test data is used to correlate the FAD understanding of the three zones. The grid sensitivity test indicates that 200 m × 200 m is the reasonable resolution for the FAD map; the test also establishes that the lower urban podium zone yields the best correlation with the experimental data. The study further establishes that the simpler two-dimensional ground coverage ratio (GCR), which is readily available in the planning circle, can be used to predict the area\u0027s average pedestrian level urban ventilation performance of the city. Working with their inhouse GIS team using available data, it allows the planners a way to understand the urban ventilation of the city for decisions related to air paths, urban permeability and site porosity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this study , a high-resolution frontal area density ( FAD ) map that depicts the surface roughness of urban Hong Kong is produced using a mapping method that takes into account the dense urban morphology and the site wind availability of the territory .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using the MM5/CALMET model simulated wind data of Hong Kong ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the FAD map of three urban zones are calculated : podium ( 0-15 m ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "building ( 15-60 m ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and urban canopy ( 0-60 m ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The wind tunnel test data is used to correlate the FAD understanding of the three zones .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The grid sensitivity test indicates that 200 m × 200 m is the reasonable resolution for the FAD map ; the test also establishes that the lower urban podium zone yields the best correlation with the experimental data .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The study further establishes that the simpler two-dimensional ground coverage ratio ( GCR ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which is readily available in the planning circle ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "can be used to predict the area \u0027s average pedestrian level urban ventilation performance of the city .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Working with their inhouse GIS team using available data ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "it allows the planners a way to understand the urban ventilation of the city for decisions related to air paths ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "urban permeability and site porosity .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "13",
+    "token_num": "221"
+  }
+}

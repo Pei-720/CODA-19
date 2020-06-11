@@ -1,0 +1,90 @@
+{
+  "paper_id": "fd6163a04c4ac0100a7c9be19def78d2171eac47",
+  "metadata": {
+    "title": "Prediction of the COVID-19 outbreak based on a realistic stochastic model",
+    "coda_data_split": "train",
+    "coda_paper_id": 8875,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The current outbreak of coronavirus disease 2019 (COVID-19) has become a global crisis due to its quick and wide spread over the world. A good understanding of the dynamic of the disease would greatly enhance the control and prevention of COVID-19. However, to the best of our knowledge, the unique features of the outbreak have limited the applications of all existing models. In this paper, a novel stochastic model is proposed which aims to account for the unique transmission dynamics of COVID-19 and capture the effects of intervention measures implemented in Mainland China. We find that, (1) instead of aberration, there is a remarkable amount of asymptomatic individuals, (2) an individual with symptoms is approximately twice more likely to pass the disease to others than that of an asymptomatic patient, (3) the transmission rate has reduced significantly since the implementation of control 1 . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The current outbreak of coronavirus disease 2019 ( COVID-19 ) has become a global crisis due to its quick and wide spread over the world .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A good understanding of the dynamic of the disease would greatly enhance the control and prevention of COVID-19 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , to the best of our knowledge ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the unique features of the outbreak have limited the applications of all existing models .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this paper , a novel stochastic model is proposed which aims to account for the unique transmission dynamics of COVID-19 and capture the effects of intervention measures implemented in Mainland China .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We find that , ( 1 ) instead of aberration ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "there is a remarkable amount of asymptomatic individuals ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "( 2 ) an individual with symptoms is approximately twice more likely to pass the disease to others than that of an asymptomatic patient ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "( 3 ) the transmission rate has reduced significantly since the implementation of control 1 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "CC-BY-NC-ND 4.0 International license It is made available under a author/funder ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "who has granted medRxiv a license to display the preprint in perpetuity .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "is the (which was not peer-reviewed) The copyright holder for this preprint .",
+      "sentences": [
+        [
+          {
+            "segment_text": "is the ( which was not peer-reviewed ) The copyright holder for this preprint .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "7",
+    "segment_num": "12",
+    "token_num": "203"
+  }
+}

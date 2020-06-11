@@ -1,0 +1,51 @@
+{
+  "paper_id": "9c617039978d1b0a00443deb4b2423778ab407f4",
+  "metadata": {
+    "title": "VIRAL POLYMERASES",
+    "coda_data_split": "train",
+    "coda_paper_id": 4048,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Virus replicate inside prokaryotic and eukaryotic cells. Outside cells, they exist as independent particles (i.e. virions) generally composed of a protein shell (sometimes covered with a lipid bilayer) that contains their genetic material made of RNA or DNA. Virus genome replication and transcription are catalyzed by virally encoded polymerases. Although all these enzymes show some homology and share structural features and their catalytic mechanism, they also have important differences that reflect diverse virus replication strategies.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Virus replicate inside prokaryotic and eukaryotic cells .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Outside cells , they exist as independent particles ( i.e. virions ) generally composed of a protein shell ( sometimes covered with a lipid bilayer ) that contains their genetic material made of RNA or DNA .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Virus genome replication and transcription are catalyzed by virally encoded polymerases .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although all these enzymes show some homology and share structural features and their catalytic mechanism ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "they also have important differences that reflect diverse virus replication strategies .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "4",
+    "segment_num": "5",
+    "token_num": "85"
+  }
+}

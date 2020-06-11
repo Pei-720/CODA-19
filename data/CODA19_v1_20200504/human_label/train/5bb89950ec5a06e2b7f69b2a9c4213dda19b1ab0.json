@@ -1,0 +1,222 @@
+{
+  "paper_id": "5bb89950ec5a06e2b7f69b2a9c4213dda19b1ab0",
+  "metadata": {
+    "title": "Prediction of New Coronavirus Infection Based on a Modified SEIR Model",
+    "coda_data_split": "train",
+    "coda_paper_id": 5363,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "BACKGROUND The outbreak of the new coronavirus infection in Wuhan City, Hubei Province in December 2019, poses a huge threat to China and even global public health security. Respiratory droplets and contact transmission are the main routes of transmission of new coronaviruses. Compared with SARS and Ebola viruses, new coronavirus infections are infectious during the incubation period. Traditional SEIR (susceptibility-exposure-infection-Removal) There are some differences in conditions for the prediction of the epidemic trend of new coronavirus infection. The outbreak of the new coronavirus infection coincided with the Spring Festival before and after the Chinese Spring Festival.It is necessary to make appropriate optimization and amendments to the traditional model to meet the actual evolution of the epidemic situation.",
+      "sentences": [
+        [
+          {
+            "segment_text": "BACKGROUND The outbreak of the new coronavirus infection in Wuhan City ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Hubei Province in December 2019 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "poses a huge threat to China and even global public health security .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Respiratory droplets and contact transmission are the main routes of transmission of new coronaviruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Compared with SARS and Ebola viruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "new coronavirus infections are infectious during the incubation period .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Traditional SEIR ( susceptibility-exposure-infection-Removal ) There are some differences in conditions for the prediction of the epidemic trend of new coronavirus infection .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The outbreak of the new coronavirus infection coincided with the Spring Festival before and after the Chinese Spring Festival.It is necessary to make appropriate optimization and amendments to the traditional model to meet the actual evolution of the epidemic situation .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The traditional SEIR model assumes that the virus-infected person is not infectious during the incubation period and that the infected person did not take isolation measures during the illness. The transmission of the new coronavirus no longer meets the basic assumptions of the classical kinetic system. Therefore, this article first establishes a modified SEIR model. Predict and analyze the changing trend of the epidemic situation, then estimate the parameters involved in the infection dynamics model, and then use Matlab to simulate the established dynamic equations based on public data and analyze the results. Recommendations for universal prevention and control of infectious diseases.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The traditional SEIR model assumes that the virus-infected person is not infectious during the incubation period and that the infected person did not take isolation measures during the illness .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The transmission of the new coronavirus no longer meets the basic assumptions of the classical kinetic system .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , this article first establishes a modified SEIR model .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Predict and analyze the changing trend of the epidemic situation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "then estimate the parameters involved in the infection dynamics model ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and then use Matlab to simulate the established dynamic equations based on public data and analyze the results .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recommendations for universal prevention and control of infectious diseases .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": ". CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+      "sentences": [
+        [
+          {
+            "segment_text": ".",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "CC-BY-NC-ND 4.0 International license It is made available under a author/funder ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "who has granted medRxiv a license to display the preprint in perpetuity .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "is the (which was not peer-reviewed) The copyright holder for this preprint . : medRxiv preprint 2",
+      "sentences": [
+        [
+          {
+            "segment_text": "is the ( which was not peer-reviewed ) The copyright holder for this preprint .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": ": medRxiv preprint 2",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Wuhan City took no action, assuming the average daily number of contacts per infected person k \u003d 5, the number of infected persons will reach about 2,384,803 people; If wuhan adopts the measures of sealing the city on January 22, 2020, under the premise of k\u003d2, the number of infected people decreases by 19,773 compared with that on January 23, and there is no significant change in the time when the number of infected people reaches the peak. Under the premise of k \u003d 1, the number of infected persons was reduced by 14,330 compared with the closure on January 23, and the time to reach the peak of the number of infected persons was reduced by 2 days. If Wuhan City is closed for one day, the number of infected persons will increase from 106,145 to 130,626 under the premise of k \u003d 2; the number of infected persons will increase from 74,369 to 92,010 under the premise of k \u003d 1.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Wuhan City took no action ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "assuming the average daily number of contacts per infected person k \u003d 5 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the number of infected persons will reach about 2,384,803 people ; If wuhan adopts the measures of sealing the city on January 22 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "2020 , under the premise of k \u003d 2 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the number of infected people decreases by 19,773 compared with that on January 23 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and there is no significant change in the time when the number of infected people reaches the peak .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Under the premise of k \u003d 1 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the number of infected persons was reduced by 14,330 compared with the closure on January 23 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the time to reach the peak of the number of infected persons was reduced by 2 days .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "If Wuhan City is closed for one day ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the number of infected persons will increase from 106,145 to 130,626 under the premise of k \u003d 2 ; the number of infected persons will increase from 74,369 to 92,010 under the premise of k \u003d 1 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Comparing the number of confirmed diagnoses actually notified by the department with the number of infected people obtained from the simulation of the model, it can be seen that the city closure measures adopted by the Wuhan Municipal Government on January 23 and the first-level response measures adopted by the country are effective for the epidemic Prevention and control play a vital role. Wearing a mask when going out and avoiding close contact with people can effectively reduce the infection rate.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Comparing the number of confirmed diagnoses actually notified by the department with the number of infected people obtained from the simulation of the model ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "it can be seen that the city closure measures adopted by the Wuhan Municipal Government on January 23 and the first-level response measures adopted by the country are effective for the epidemic Prevention and control play a vital role .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Wearing a mask when going out and avoiding close contact with people can effectively reduce the infection rate .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "6",
+    "sentence_num": "19",
+    "segment_num": "34",
+    "token_num": "545"
+  }
+}

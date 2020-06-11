@@ -1,0 +1,111 @@
+{
+  "paper_id": "164b0678afc42f1923aa100b624ca969a53fb3b2",
+  "metadata": {
+    "title": "Forecasting the Wuhan coronavirus (2019-nCoV) epidemics using a simple (simplistic) model",
+    "coda_data_split": "train",
+    "coda_paper_id": 8883,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Confirmed infection cases in mainland China were analyzed using the data up to January 28, 2020 (first 13 days of reliable confirmed cases). For the first period the cumulative number of cases followed an exponential function. However, from January 28, we discerned a downward deviation from the exponential growth. This slower-than-exponential growth was also confirmed by a steady decline of the effective reproduction number. A backtrend analysis suggested the original basic reproduction number R0 to be about 2.4 to 2.5. As data become available, we subsequently analyzed them during three consecutive periods obtaining a sequence of model predictions. All available data up were processed the same way. We used a simple logistic growth model that fitted very well with all data. Using this model and the three sets of data, we estimated maximum cases as about 21,000, 28,000 and 35,000 cases refining these predictions in near-real time. With slightly different approach (linearization in time) the estimate of maximum cases was even higher (about 65,000). Although the estimates of maximum cases increase as more data were reported all models show reaching a peak in mid-February in contrast to the unconfined exponential growth. These predictions do not account for any possible other secondary sources of infection.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Confirmed infection cases in mainland China were analyzed using the data up to January 28 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "2020 ( first 13 days of reliable confirmed cases ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "For the first period the cumulative number of cases followed an exponential function .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , from January 28 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we discerned a downward deviation from the exponential growth .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This slower-than-exponential growth was also confirmed by a steady decline of the effective reproduction number .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A backtrend analysis suggested the original basic reproduction number R0 to be about 2.4 to 2.5 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "As data become available , we subsequently analyzed them during three consecutive periods obtaining a sequence of model predictions .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "All available data up were processed the same way .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We used a simple logistic growth model that fitted very well with all data .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using this model and the three sets of data ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we estimated maximum cases as about 21,000 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "28,000 and 35,000 cases refining these predictions in near-real time .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "With slightly different approach ( linearization in time ) the estimate of maximum cases was even higher ( about 65,000 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although the estimates of maximum cases increase as more data were reported all models show reaching a peak in mid-February in contrast to the unconfined exponential growth .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These predictions do not account for any possible other secondary sources of infection .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "12",
+    "segment_num": "16",
+    "token_num": "228"
+  }
+}

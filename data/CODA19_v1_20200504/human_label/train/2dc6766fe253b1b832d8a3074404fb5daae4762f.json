@@ -1,0 +1,149 @@
+{
+  "paper_id": "2dc6766fe253b1b832d8a3074404fb5daae4762f",
+  "metadata": {
+    "title": "Transferrin binding protein B and Transferrin binding protein A 2 expand the transferrin 1 recognition range of Histophilus somni 2 3 Running title: TbpB and TbpA2 broaden specificity of",
+    "coda_data_split": "train",
+    "coda_paper_id": 10680,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The bacterial bipartite transferrin receptor is an iron acquisition system that is required for 12 survival by several key human and animal pathogens. It consists of the TonB-dependent 13 transporter Transferrin binding protein A (TbpA) and the surface lipoprotein Transferrin binding 14 protein B (TbpB). Curiously, the Tbps are only found in host specific pathogens, and are 15 themselves host specific, meaning that they will bind to the transferrin of their host species, but 16 not to those of other animal species. While this phenomenon has long been established, neither 17 the steps in the evolutionary process that led to this exquisite adaptation for the host, nor the 18 steps that could alter it, are known. We sought to gain insight into these processes by studying 19",
+      "sentences": [
+        [
+          {
+            "segment_text": "The bacterial bipartite transferrin receptor is an iron acquisition system that is required for 12 survival by several key human and animal pathogens .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It consists of the TonB-dependent 13 transporter Transferrin binding protein A ( TbpA ) and the surface lipoprotein Transferrin binding 14 protein B ( TbpB ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Curiously , the Tbps are only found in host specific pathogens ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and are 15 themselves host specific ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "meaning that they will bind to the transferrin of their host species ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but 16 not to those of other animal species .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "While this phenomenon has long been established ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "neither 17 the steps in the evolutionary process that led to this exquisite adaptation for the host ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "nor the 18 steps that could alter it , are known .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We sought to gain insight into these processes by studying 19",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Tbp specificity in Histophilus somni, a major pathogen of cattle. A past study showed that whole 20 cells of H. somni specifically bind bovine transferrin, but not transferrin from sheep and goats, 21 two bovids whose transferrins share 93% amino acid sequence identity with bovine transferrin. 22",
+      "sentences": [
+        [
+          {
+            "segment_text": "Tbp specificity in Histophilus somni ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a major pathogen of cattle .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A past study showed that whole 20 cells of H. somni specifically bind bovine transferrin ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but not transferrin from sheep and goats ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "21 two bovids whose transferrins share 93 % amino acid sequence identity with bovine transferrin .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "22",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "To our surprise, we found that H. somni can use sheep and goat transferrins as iron sources for 23 growth, and that HsTbpB, but not HsTbpA, has detectable affinity for sheep and goat 24 transferrins. Furthermore, a third transferrin binding protein, HsTbpA2, also showed affinity for 25 sheep and goat transferrins. Our results show that H. somni TbpB and TbpA2 act to broaden the 26 host transferrin recognition range of H. somni. 27",
+      "sentences": [
+        [
+          {
+            "segment_text": "To our surprise , we found that H. somni can use sheep and goat transferrins as iron sources for 23 growth ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and that HsTbpB , but not HsTbpA ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "has detectable affinity for sheep and goat 24 transferrins .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , a third transferrin binding protein ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "HsTbpA2 , also showed affinity for 25 sheep and goat transferrins .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our results show that H. somni TbpB and TbpA2 act to broaden the 26 host transferrin recognition range of H. somni .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "27",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "12",
+    "segment_num": "23",
+    "token_num": "278"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "paper_id": "4be615300186538769e91a07310377d2dc004130",
+  "metadata": {
+    "title": "A ribosomal frameshifting error during translation of the argl mRNA of Escherichia coil",
+    "coda_data_split": "train",
+    "coda_paper_id": 5011,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Using fusions between the Escherichia coli genes argI and lacZ, it has been demonstrated that ribosomal frameshifting occurs at a frequency of between 3% and 16% within the argI mRNA, soon after the initiation codon. The frameshift involves a phenylalanyl-tRNA shifting into the + 1 frame at the sequence UUU-U/C. The shift does not occur if the in-frame phenylalanine codon UUU is replaced by UUC. The level of frameshifting is higher in dense cultures and is not dependent on phenylalanine starvation. In the wild-type argI gene this frameshifting event would be an error, leading to a truncated, non-functional protein. Therefore, it is unlike the numerous examples of required frameshifting events that have been described in other genes.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Using fusions between the Escherichia coli genes argI and lacZ ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "it has been demonstrated that ribosomal frameshifting occurs at a frequency of between 3 % and 16 % within the argI mRNA ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "soon after the initiation codon .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The frameshift involves a phenylalanyl-tRNA shifting into the + 1 frame at the sequence UUU-U/C .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The shift does not occur if the in-frame phenylalanine codon UUU is replaced by UUC .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The level of frameshifting is higher in dense cultures and is not dependent on phenylalanine starvation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the wild-type argI gene this frameshifting event would be an error ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "leading to a truncated , non-functional protein .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , it is unlike the numerous examples of required frameshifting events that have been described in other genes .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "9",
+    "token_num": "130"
+  }
+}

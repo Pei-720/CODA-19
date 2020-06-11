@@ -1,0 +1,371 @@
+{
+  "paper_id": "d010cc0209bc5a0eee6259f72c42590c448da1cf",
+  "metadata": {
+    "title": "Gut microbiota structure differs between honey",
+    "coda_data_split": "train",
+    "coda_paper_id": 6241,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Adult honey bees harbor a specialized gut microbiota of relatively low complexity. While 25 seasonal differences in community composition have been reported, previous studies have 26 focused on compositional changes rather than differences in absolute bacterial loads. 27 Moreover, little is known about the gut microbiota of winter bees, which live much longer 28 than bees during the foraging season, and which are critical for colony survival. We 29 quantified seven core members of the bee gut microbiota in a single colony over two years 30 and characterized the community composition in 14 colonies during summer and winter.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Adult honey bees harbor a specialized gut microbiota of relatively low complexity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "While 25 seasonal differences in community composition have been reported ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "previous studies have 26 focused on compositional changes rather than differences in absolute bacterial loads .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "27 Moreover , little is known about the gut microbiota of winter bees ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which live much longer 28 than bees during the foraging season ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and which are critical for colony survival .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We 29 quantified seven core members of the bee gut microbiota in a single colony over two years 30 and characterized the community composition in 14 colonies during summer and winter .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Our data shows that total bacterial loads substantially differ between foragers, nurses, and 32 winter bees. Long-lived winter bees had the highest bacterial loads and the lowest 33 community α-diversity, with a characteristic shift towards high levels of Bartonella and 34 Commensalibacter, and a reduction of opportunistic colonizers. Using gnotobiotic bee 35 experiments, we show that diet is a major contributor to the observed differences in 36 bacterial loads. Overall, our study reveals that the gut microbiota of winter bees is 37 remarkably different from foragers and nurses. Considering the importance of winter bees 38 for colony survival, future work should focus on the role of the gut microbiota in winter 39 bee health and disease. 40 41 . CC-BY-NC-ND 4.0 International license author/funder. It is made available under a The copyright holder for this preprint (which was not peer-reviewed) is the . https://doi.org/10.1101/703512 doi: bioRxiv preprint 42 The European honey bee, Apis mellifera, is an important pollinator species for natural 43 ecosystems and agricultural production [1]. Its health status is threatened by numerous 44 factors including habitat loss, pesticide exposure, and high parasite and pathogen loads [2-45 4]. Accumulating evidence suggests that the gut microbiota of adult honey bees plays a 46 critical role for bee health [5]. The bee microbiota converts dietary compounds [6, 7] and 47 produces short chain fatty acids [8] in the gut, enhances sucrose responsiveness of the host 48 [8], and stimulates the immune system [9, 10]. Moreover, disruption of the gut microbiota 49 composition by antibiotic treatment, pesticide exposure, or dietary manipulations has 50 been associated with increased pathogen loads resulting in increased host mortality [11-51 14]. 52 A striking feature of the honey bee gut microbiota is its low taxonomic complexity. In 53 worker bees, the community is dominated by less than ten phylotypes (i.e. clusters of 54 strains sharing ≥97% sequence identity in the 16S rRNA gene), which typically make up 55 \u003e95% of the bacterial cells in the gut [5, 15-18]. These phylotypes have been consistently 56 detected in honey bees, regardless of geographic location, life stage, or season [16, 19, 20], 57 and are acquired horizontally through contact with nest mates and hive components [21]. 58 They include five core phylotypes (Gilliamella, Snodgrassella, Lactobacillus Firm-4 and 59 Firm-5, and Bifidobacterium), which are typically present in every adult worker bee, and a 60 number of non-core phylotypes, e.g. Frischella, Bartonella, Commensalibacter, or 61 Bombella, which are prevalent across colonies, but not necessarily present in every bee 62 [22]. Additional phylotypes have been detected, including Lactobacillus kunkeii, Serratia Page 4 of 44 marcescens and other Enterobacteriaceae, or Apibacter, but they typically account for a 64 relatively small proportion of the bee gut microbiota [23]. 65 While many of these phylotypes are consistently present in adult worker bees, their 66 abundance can vary across bees, and may differentially impact the host physiology. 67 Particularly, the type and amount of nutrients (i.e. pollen and nectar) available during the 68 foraging season can have profound effects on the composition of the gut microbiota and 69 may alter its metabolic activity [24]. Likewise, distinct dietary habits or variation in lifespan 70 of worker bees during summer and winter may influence gut microbiota composition. From 71 spring to autumn, young worker bees (nurses) stay inside the hive to take care of larvae, 72 and feed on nutrient-rich pollen, whereas older worker bees become foragers that feed on 73 nectar and honey to fuel their energy-expensive flights [25]. In late autumn, newly emerged 74 adult worker bees become winter bees (also called \u0027diutinus\u0027) that have an extended 75 lifespan (~6 months) and that ensure the colony survival during the cold winter season in 76 the absence of brood [26]. These bees form a tight cluster for thermoregulation inside the 77 hive, feed strictly on food stores (pollen, beebread, and honey) and retain their feces all 78 winter [27], which is likely to impact the ecology of their gut microbiota. 79 A number of studies have looked at the gut microbiota composition of different worker bee 80 types or throughout seasons, with the overall conclusion that the community composition 81 is relatively stable [19, 28-31]. However, previous studies were mostly based on 82 comparative analyses of relative community member abundance using 16S rRNA amplicon 83 sequencing. Such analysis cannot provide insights about the extent or directionality of 84 changes in taxa abundance, especially if microbial loads vary substantially between 85 samples [32]. In fact, a change in the total abundance of the microbiota could by itself be 86 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Our data shows that total bacterial loads substantially differ between foragers ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "nurses , and 32 winter bees .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Long-lived winter bees had the highest bacterial loads and the lowest 33 community α-diversity ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with a characteristic shift towards high levels of Bartonella and 34 Commensalibacter ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and a reduction of opportunistic colonizers .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using gnotobiotic bee 35 experiments ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we show that diet is a major contributor to the observed differences in 36 bacterial loads .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Overall , our study reveals that the gut microbiota of winter bees is 37 remarkably different from foragers and nurses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Considering the importance of winter bees 38 for colony survival ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "future work should focus on the role of the gut microbiota in winter 39 bee health and disease .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "40 41 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "CC-BY-NC-ND 4.0 International license author/funder .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is made available under a The copyright holder for this preprint ( which was not peer-reviewed ) is the .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "https://doi.org/10.1101/703512 doi : bioRxiv preprint 42 The European honey bee ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Apis mellifera , is an important pollinator species for natural 43 ecosystems and agricultural production ( 1 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Its health status is threatened by numerous 44 factors including habitat loss ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "pesticide exposure , and high parasite and pathogen loads ( 2-45 4 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Accumulating evidence suggests that the gut microbiota of adult honey bees plays a 46 critical role for bee health ( 5 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The bee microbiota converts dietary compounds ( 6 , 7 ) and 47 produces short chain fatty acids ( 8 ) in the gut ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "enhances sucrose responsiveness of the host 48 ( 8 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and stimulates the immune system ( 9 , 10 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , disruption of the gut microbiota 49 composition by antibiotic treatment ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "pesticide exposure , or dietary manipulations has 50 been associated with increased pathogen loads resulting in increased host mortality ( 11-51 14 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "52 A striking feature of the honey bee gut microbiota is its low taxonomic complexity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In 53 worker bees , the community is dominated by less than ten phylotypes ( i.e. clusters of 54 strains sharing ≥ 97 % sequence identity in the 16S rRNA gene ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which typically make up 55 \u003e 95 % of the bacterial cells in the gut ( 5 , 15-18 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These phylotypes have been consistently 56 detected in honey bees ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "regardless of geographic location , life stage ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "or season ( 16 , 19 , 20 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "57 and are acquired horizontally through contact with nest mates and hive components ( 21 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "58 They include five core phylotypes ( Gilliamella , Snodgrassella , Lactobacillus Firm-4 and 59 Firm-5 , and Bifidobacterium ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which are typically present in every adult worker bee ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and a 60 number of non-core phylotypes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "e.g. Frischella , Bartonella , Commensalibacter ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "or 61 Bombella , which are prevalent across colonies ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but not necessarily present in every bee 62 ( 22 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Additional phylotypes have been detected ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including Lactobacillus kunkeii , Serratia Page 4 of 44 marcescens and other Enterobacteriaceae ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "or Apibacter , but they typically account for a 64 relatively small proportion of the bee gut microbiota ( 23 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "65 While many of these phylotypes are consistently present in adult worker bees ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "their 66 abundance can vary across bees ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and may differentially impact the host physiology .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "67 Particularly , the type and amount of nutrients ( i.e. pollen and nectar ) available during the 68 foraging season can have profound effects on the composition of the gut microbiota and 69 may alter its metabolic activity ( 24 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Likewise , distinct dietary habits or variation in lifespan 70 of worker bees during summer and winter may influence gut microbiota composition .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "From 71 spring to autumn ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "young worker bees ( nurses ) stay inside the hive to take care of larvae ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "72 and feed on nutrient-rich pollen ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "whereas older worker bees become foragers that feed on 73 nectar and honey to fuel their energy-expensive flights ( 25 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In late autumn , newly emerged 74 adult worker bees become winter bees ( also called ` diutinus \u0027 ) that have an extended 75 lifespan ( ~ 6 months ) and that ensure the colony survival during the cold winter season in 76 the absence of brood ( 26 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These bees form a tight cluster for thermoregulation inside the 77 hive ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "feed strictly on food stores ( pollen , beebread , and honey ) and retain their feces all 78 winter ( 27 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which is likely to impact the ecology of their gut microbiota .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "79 A number of studies have looked at the gut microbiota composition of different worker bee 80 types or throughout seasons ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with the overall conclusion that the community composition 81 is relatively stable ( 19 , 28-31 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , previous studies were mostly based on 82 comparative analyses of relative community member abundance using 16S rRNA amplicon 83 sequencing .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Such analysis can not provide insights about the extent or directionality of 84 changes in taxa abundance ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "especially if microbial loads vary substantially between 85 samples ( 32 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In fact , a change in the total abundance of the microbiota could by itself be 86 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "the single bee hive, each gut sample was placed in a drop of PBS, scored for the scab 132 phenotype [35], and placed in a bead beating tube containing ~150 mg of glass beads (0.75-133",
+      "sentences": [
+        [
+          {
+            "segment_text": "the single bee hive , each gut sample was placed in a drop of PBS ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "scored for the scab 132 phenotype ( 35 ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and placed in a bead beating tube containing ~ 150 mg of glass beads ( 0.75-133",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "33",
+    "segment_num": "68",
+    "token_num": "1056"
+  }
+}

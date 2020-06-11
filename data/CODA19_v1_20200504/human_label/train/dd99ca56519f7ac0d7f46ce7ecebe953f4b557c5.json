@@ -1,0 +1,57 @@
+{
+  "paper_id": "dd99ca56519f7ac0d7f46ce7ecebe953f4b557c5",
+  "metadata": {
+    "title": "Nonparametric survival analysis of infectious disease data Summary",
+    "coda_data_split": "train",
+    "coda_paper_id": 8629,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "a summary of the evolution of infectiousness over time. When who-infects-whom is observed, the Nelson-Aalen estimator produces an unbiased estimate of the cumulative hazard function of the contact interval distribution. When who-infects-whom is not observed, we use an EM algorithm to average the Nelson-Aalen estimates from all possible combinations of who-infected-whom consistent with the observed data. This converges to a nonparametric maximum likelihood estimate of the cumulative hazard function that we call the marginal Nelson-Aalen estimate. We study the behavior of these methods in simulations and use them to analyze household surveillance data from the 2009 influenza A(H1N1) pandemic.",
+      "sentences": [
+        [
+          {
+            "segment_text": "a summary of the evolution of infectiousness over time .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "When who-infects-whom is observed , the Nelson-Aalen estimator produces an unbiased estimate of the cumulative hazard function of the contact interval distribution .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "When who-infects-whom is not observed ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we use an EM algorithm to average the Nelson-Aalen estimates from all possible combinations of who-infected-whom consistent with the observed data .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This converges to a nonparametric maximum likelihood estimate of the cumulative hazard function that we call the marginal Nelson-Aalen estimate .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We study the behavior of these methods in simulations and use them to analyze household surveillance data from the 2009 influenza A ( H1N1 ) pandemic .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "6",
+    "token_num": "109"
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "paper_id": "737426d92c17fae536e2962344d3dfa2fafdd973",
+  "metadata": {
+    "title": "Evaluating the efficacy of serum haptoglobin concentration as an indicator of respiratory-tract disease in dairy calves",
+    "coda_data_split": "train",
+    "coda_paper_id": 2183,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The serum concentration of haptoglobin (S-Hp) was measured in 833 group-housed dairy calves from nine herds in south-west Sweden once at 24-56 days of age to evaluate the potential of S-Hp as an indicator of clinical respiratory-tract disease (CRD). Presence of disease (treated and non-treated) was assessed clinically by farmers and by a project veterinarian visiting the farms every third week.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The serum concentration of haptoglobin ( S-Hp ) was measured in 833 group-housed dairy calves from nine herds in south-west Sweden once at 24-56 days of age to evaluate the potential of S-Hp as an indicator of clinical respiratory-tract disease ( CRD ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Presence of disease ( treated and non-treated ) was assessed clinically by farmers and by a project veterinarian visiting the farms every third week .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The median S-Hp of healthy calves was 0.06 g/L (80% central range: 0.04-0.23), of calves with diarrhoea within the 10 days before sampling 0.07 g/L (80% central range: 0.04-0.63), and of calves with CRD within the 14 days before sampling 0.09 g/L (80% central range: 0.04-0.69). Eight different cut-off values were used to define a positive S-Hp analysis result: \u003e0.05, \u003e0.06, \u003e0.07, \u003e0.08, \u003e0.09, \u003e0.10, \u003e0.15 and \u003e0.20 g/L. A rectal temperature \u003e39.5°C was denoted as fever. A positive result of five different diagnostic tests for CRD was defined as: (1) a positive S-Hp with fever absent, (2) a positive S-Hp with fever present, (3) either a positive S-Hp or fever, (4) both a positive S-Hp and fever, and (5) fever (regardless of S-Hp). The sensitivity (Se) and specificity (Sp) of each test were calculated from regression coefficients of generalized linear mixed models of the binary test results, applying a logit link. Apart from CRD status (within the 14 days before sampling; no or yes), the models included sex (bull or heifer), and for the test based on S-Hp alone, also rectal temperature (fever, no or yes). Confidence intervals (CI) of Se and Sp were estimated by simulation.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The median S-Hp of healthy calves was 0.06 g/L ( 80 % central range : 0.04-0.23 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "of calves with diarrhoea within the 10 days before sampling 0.07 g/L ( 80 % central range : 0.04-0.63 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and of calves with CRD within the 14 days before sampling 0.09 g/L ( 80 % central range : 0.04-0.69 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Eight different cut-off values were used to define a positive S-Hp analysis result : \u003e 0.05 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "\u003e 0.06 , \u003e 0.07 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "\u003e 0.08 , \u003e 0.09 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "\u003e 0.10 , \u003e 0.15 and \u003e 0.20 g/L .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A rectal temperature \u003e 39.5 °C was denoted as fever .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A positive result of five different diagnostic tests for CRD was defined as : ( 1 ) a positive S-Hp with fever absent ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "( 2 ) a positive S-Hp with fever present ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "( 3 ) either a positive S-Hp or fever ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "( 4 ) both a positive S-Hp and fever ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and ( 5 ) fever ( regardless of S-Hp ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The sensitivity ( Se ) and specificity ( Sp ) of each test were calculated from regression coefficients of generalized linear mixed models of the binary test results , applying a logit link .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Apart from CRD status ( within the 14 days before sampling ; no or yes ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the models included sex ( bull or heifer ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and for the test based on S-Hp alone ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "also rectal temperature ( fever , no or yes ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Confidence intervals ( CI ) of Se and Sp were estimated by simulation .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Based on Se, Sp, and areas under Receiver Operating Characteristics curves, test 3 was considered the best. At optimal performance, giving equal importance to type I and II errors, i.e. at a S-Hp cut-off of 0.15 g/L in heifer calves, Se was 0.64 (95% CI 0.50-0.77) and Sp 0.71 (95% CI 0.60-0.80), and at a S-Hp cut-off of 0.08 g/L in bulls, Se was 0.52 (95% CI 0.40-0.64) and Sp 0.80 (95% CI 0.74-0.85). The other tests were judged as unsatisfactory indicators of CRD. In heifers, the proportion of CRD-positive calves in the herd was strongly associated with the proportion of test positives (S-Hp or fever; S-HP and fever), suggesting potential as a herd-level indicator.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Based on Se , Sp ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and areas under Receiver Operating Characteristics curves ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "test 3 was considered the best .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "At optimal performance , giving equal importance to type I and II errors ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "i.e. at a S-Hp cut-off of 0.15 g/L in heifer calves ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Se was 0.64 ( 95 % CI 0.50-0.77 ) and Sp 0.71 ( 95 % CI 0.60-0.80 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and at a S-Hp cut-off of 0.08 g/L in bulls ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Se was 0.52 ( 95 % CI 0.40-0.64 ) and Sp 0.80 ( 95 % CI 0.74-0.85 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The other tests were judged as unsatisfactory indicators of CRD .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In heifers , the proportion of CRD-positive calves in the herd was strongly associated with the proportion of test positives ( S-Hp or fever ; S-HP and fever ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "suggesting potential as a herd-level indicator .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "13",
+    "segment_num": "32",
+    "token_num": "484"
+  }
+}

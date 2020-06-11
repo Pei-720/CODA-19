@@ -1,0 +1,69 @@
+{
+  "paper_id": "e9d02eb781f53686a256374622068790beb74290",
+  "metadata": {
+    "title": "Using early data to estimate the actual infection fatality ratio from COVID-19 in France",
+    "coda_data_split": "train",
+    "coda_paper_id": 2039,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The first cases of COVID-19 in France were detected on January 24, 2020. The number of screening tests carried out and the methodology used to target the patients tested do not allow for a direct computation of the actual number of cases and the infection fatality ratio (IFR). We develop a \u0027mechanistic-statistical\u0027 approach coupling a SIR ODE model describing the unobserved epidemiological dynamics, a probabilistic model describing the data acquisition process and a statistical inference method. The objective of this model is not to make forecasts but to estimate the actual number of people infected with COVID-19 during the observation window in France and to deduce the IFR associated with the epidemic in France. Main results. The actual number of infected cases in France is probably higher than the observations: we find here a factor ×5 (95%-CI: 3.5-7.8) which leads to an IFR in France of 0.5% (95%-CI: 0.3 − 0.8). Although accurate in France, the SIR model cannot capture the decline in the number of cases observed in South Korea: this points out the strong impact on the epidemic dynamics of the management strategy adopted in South Korea.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The first cases of COVID-19 in France were detected on January 24 , 2020 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The number of screening tests carried out and the methodology used to target the patients tested do not allow for a direct computation of the actual number of cases and the infection fatality ratio ( IFR ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We develop a ` mechanistic-statistical \u0027 approach coupling a SIR ODE model describing the unobserved epidemiological dynamics ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "a probabilistic model describing the data acquisition process and a statistical inference method .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The objective of this model is not to make forecasts but to estimate the actual number of people infected with COVID-19 during the observation window in France and to deduce the IFR associated with the epidemic in France .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Main results .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The actual number of infected cases in France is probably higher than the observations : we find here a factor × 5 ( 95 % - CI : 3.5-7.8 ) which leads to an IFR in France of 0.5 % ( 95 % - CI : 0.3 − 0.8 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although accurate in France , the SIR model can not capture the decline in the number of cases observed in South Korea : this points out the strong impact on the epidemic dynamics of the management strategy adopted in South Korea .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "8",
+    "token_num": "220"
+  }
+}

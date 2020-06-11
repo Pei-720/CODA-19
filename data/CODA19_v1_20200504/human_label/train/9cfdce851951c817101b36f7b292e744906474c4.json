@@ -1,0 +1,137 @@
+{
+  "paper_id": "9cfdce851951c817101b36f7b292e744906474c4",
+  "metadata": {
+    "title": "Rapid Therapeutic Recommendations in the Context of a Global Public Health Crisis using Translational Bioinformatics Approaches: A proof-of-concept study using Nipah Virus Infection",
+    "coda_data_split": "train",
+    "coda_paper_id": 2113,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "We live in a world of emerging new diseases and old diseases resurging in more aggressive forms. Drug development by pharmaceutical companies is a market-driven and costly endeavor, and thus it is often a challenge when drugs are needed for diseases endemic only to certain regions or which affect only a few patients. However, biomedical open data is accessible and reusable for reanalysis and generation of a new hypotheses and discovery.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We live in a world of emerging new diseases and old diseases resurging in more aggressive forms .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Drug development by pharmaceutical companies is a market-driven and costly endeavor ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and thus it is often a challenge when drugs are needed for diseases endemic only to certain regions or which affect only a few patients .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , biomedical open data is accessible and reusable for reanalysis and generation of a new hypotheses and discovery .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In this study, we leverage biomedical data and tools to analyze available data on Nipah Virus (NiV) infection. NiV infection is an emerging zoonosis that is transmissible to humans and is associated with high mortality rates. In this study, explored the application of computational drug repositioning and chemogenomic enrichment analyses using host transcriptome data to match drugs that could reverse the virus-induced gene signature. We performed analyses using two gene signatures: i) A previously published gene signature (n\u003d34), and ii) a gene signature generated using the characteristic direction method (n\u003d 5,533). Our predictive framework suggests that several drugs including FDA approved therapies like beclometasone, trihexyphenidyl, S-propranolol etc. could modulate the NiV infection induced gene signatures in endothelial cells. A target specific analysis of CXCL10 also suggests the potential application of Eldelumab, an investigative therapy for Crohn\u0027s disease and ulcerative colitis, as a putative candidate for drug repositioning. To conclude, we also discuss challenges and opportunities in clinical trials (n-of-1 and adaptive trials) for repositioned drugs. Further follow-up studies including biochemical assays and clinical trials are required to identify effective therapies for clinical use. Our proof-of-concept study highlights that translational bioinformatics methods including gene expression analyses and computational drug repositioning could augment epidemiological investigations in the context of an emerging disease with no effective treatment.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this study , we leverage biomedical data and tools to analyze available data on Nipah Virus ( NiV ) infection .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "NiV infection is an emerging zoonosis that is transmissible to humans and is associated with high mortality rates .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , explored the application of computational drug repositioning and chemogenomic enrichment analyses using host transcriptome data to match drugs that could reverse the virus-induced gene signature .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We performed analyses using two gene signatures : i ) A previously published gene signature ( n \u003d 34 ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and ii ) a gene signature generated using the characteristic direction method ( n \u003d 5,533 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our predictive framework suggests that several drugs including FDA approved therapies like beclometasone ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "trihexyphenidyl , S-propranolol etc. could modulate the NiV infection induced gene signatures in endothelial cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A target specific analysis of CXCL10 also suggests the potential application of Eldelumab ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "an investigative therapy for Crohn \u0027s disease and ulcerative colitis ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as a putative candidate for drug repositioning .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "To conclude , we also discuss challenges and opportunities in clinical trials ( n-of-1 and adaptive trials ) for repositioned drugs .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Further follow-up studies including biochemical assays and clinical trials are required to identify effective therapies for clinical use .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our proof-of-concept study highlights that translational bioinformatics methods including gene expression analyses and computational drug repositioning could augment epidemiological investigations in the context of an emerging disease with no effective treatment .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "All rights reserved. No reuse allowed without permission.",
+      "sentences": [
+        [
+          {
+            "segment_text": "All rights reserved .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "No reuse allowed without permission .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "14",
+    "segment_num": "19",
+    "token_num": "332"
+  }
+}

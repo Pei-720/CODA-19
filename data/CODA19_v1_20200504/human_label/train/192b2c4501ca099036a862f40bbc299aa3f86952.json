@@ -1,0 +1,95 @@
+{
+  "paper_id": "192b2c4501ca099036a862f40bbc299aa3f86952",
+  "metadata": {
+    "title": "Generalized lattice graphs for 2D-visualization of biological information",
+    "coda_data_split": "train",
+    "coda_paper_id": 8449,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Several graph representations have been introduced for different data in theoretical biology. For instance, complex networks based on Graph theory are used to represent the structure and/or dynamics of different large biological systems such as protein-protein interaction networks. In addition, Randic, Liao, Nandy, Basak, and many others developed some special types of graph-based representations. This special type of graph includes geometrical constrains to node positioning in space and adopts final geometrical shapes that resemble lattice-like patterns. Lattice networks have been used to visually depict DNA and protein sequences but they are very flexible. However, despite the proved efficacy of new lattice-like graph/networks to represent diverse systems, most works focus on only one specific type of biological data. This work proposes a generalized type of lattice and illustrates how to use it in order to represent and compare biological data from different sources. We exemplify the following cases: protein sequence; mass spectra (MS) of protein peptide mass fingerprints (PMF); molecular dynamic trajectory (MDTs) from structural studies; mRNA microarray data; single nucleotide polymorphisms (SNPs); 1D or 2D-Electrophoresis study of protein polymorphisms and protein-research patent and/or copyright information. We used data available from public sources for some examples but for other, we used experimental results reported herein for the first time. This work may break new ground for the application of Graph theory in theoretical biology and other areas of biomedical sciences.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Several graph representations have been introduced for different data in theoretical biology .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "For instance , complex networks based on Graph theory are used to represent the structure and/or dynamics of different large biological systems such as protein-protein interaction networks .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , Randic , Liao ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Nandy , Basak , and many others developed some special types of graph-based representations .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This special type of graph includes geometrical constrains to node positioning in space and adopts final geometrical shapes that resemble lattice-like patterns .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Lattice networks have been used to visually depict DNA and protein sequences but they are very flexible .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , despite the proved efficacy of new lattice-like graph/networks to represent diverse systems ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "most works focus on only one specific type of biological data .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This work proposes a generalized type of lattice and illustrates how to use it in order to represent and compare biological data from different sources .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We exemplify the following cases : protein sequence ; mass spectra ( MS ) of protein peptide mass fingerprints ( PMF ) ; molecular dynamic trajectory ( MDTs ) from structural studies ; mRNA microarray data ; single nucleotide polymorphisms ( SNPs ) ; 1D or 2D-Electrophoresis study of protein polymorphisms and protein-research patent and/or copyright information .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We used data available from public sources for some examples but for other ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we used experimental results reported herein for the first time .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This work may break new ground for the application of Graph theory in theoretical biology and other areas of biomedical sciences .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "10",
+    "segment_num": "13",
+    "token_num": "262"
+  }
+}

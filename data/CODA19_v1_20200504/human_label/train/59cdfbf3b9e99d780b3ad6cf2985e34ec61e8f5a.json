@@ -1,0 +1,216 @@
+{
+  "paper_id": "59cdfbf3b9e99d780b3ad6cf2985e34ec61e8f5a",
+  "metadata": {
+    "title": "A speed-fidelity trade-off determines the mutation rate and virulence of an RNA virus",
+    "coda_data_split": "train",
+    "coda_paper_id": 10259,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Mutation rates can evolve through genetic drift, indirect selection due to genetic hitchhiking, or direct selection on the physicochemical cost of high fidelity. However, for many systems, it has been difficult to disentangle the relative impact of these forces empirically. In RNA viruses, an observed correlation between mutation rate and virulence has led many to argue that their extremely high mutation rates are advantageous because they may allow for increased adaptability. This argument has profound implications because it suggests that pathogenesis in many viral infections depends on rare or de novo mutations. Here, we present data for an alternative model whereby RNA viruses evolve high mutation rates as a byproduct of selection for increased replicative speed. We find that a poliovirus antimutator, 3D G64S , has a significant replication defect and that wild-type (WT) and 3D G64S populations have similar adaptability in 2 distinct cellular environments. Experimental evolution of 3D G64S under selection for replicative speed led to reversion and compensation of the fidelity phenotype. Mice infected with 3D G64S exhibited delayed morbidity at doses well above the lethal level, consistent with attenuation by slower growth as opposed to reduced mutational supply. Furthermore, compensation of the 3D G64S growth defect restored virulence, while compensation of the fidelity phenotype did not. Our data are consistent with the kinetic proofreading model for biosynthetic reactions and suggest that speed is more important than accuracy. In contrast with what has been suggested for many RNA viruses, we find that within-host spread is associated with viral replicative speed and not standing genetic diversity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Mutation rates can evolve through genetic drift ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "indirect selection due to genetic hitchhiking ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "or direct selection on the physicochemical cost of high fidelity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , for many systems ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "it has been difficult to disentangle the relative impact of these forces empirically .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In RNA viruses , an observed correlation between mutation rate and virulence has led many to argue that their extremely high mutation rates are advantageous because they may allow for increased adaptability .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This argument has profound implications because it suggests that pathogenesis in many viral infections depends on rare or de novo mutations .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we present data for an alternative model whereby RNA viruses evolve high mutation rates as a byproduct of selection for increased replicative speed .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We find that a poliovirus antimutator ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "3D G64S , has a significant replication defect and that wild-type ( WT ) and 3D G64S populations have similar adaptability in 2 distinct cellular environments .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Experimental evolution of 3D G64S under selection for replicative speed led to reversion and compensation of the fidelity phenotype .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Mice infected with 3D G64S exhibited delayed morbidity at doses well above the lethal level ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "consistent with attenuation by slower growth as opposed to reduced mutational supply .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , compensation of the 3D G64S growth defect restored virulence ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while compensation of the fidelity phenotype did not .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our data are consistent with the kinetic proofreading model for biosynthetic reactions and suggest that speed is more important than accuracy .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In contrast with what has been suggested for many RNA viruses ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we find that within-host spread is associated with viral replicative speed and not standing genetic diversity .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Why organisms have different mutation rates is a longstanding question in evolutionary biology. The polymerases of RNA viruses generally lack proofreading activity and exhibit extremely high mutation rates. Because most mutations are deleterious and mutation PLOS Biology | https://doi.org/10.1371/journal.pbio.Citation: Fitzsimmons WJ, Woods RJ, McCrone JT, Woodman A, Arnold JJ, Yennawar M, et al. (2018) A speed-fidelity trade-off determines the mutation rate and virulence of an RNA virus. PLoS Biol 16(6): e2006459. https://doi.The funder had no role in study design, data collection and analysis, decision to publish, or preparation of",
+      "sentences": [
+        [
+          {
+            "segment_text": "Why organisms have different mutation rates is a longstanding question in evolutionary biology .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The polymerases of RNA viruses generally lack proofreading activity and exhibit extremely high mutation rates .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Because most mutations are deleterious and mutation PLOS Biology | https://doi.org/10.1371/journal.pbio.Citation : Fitzsimmons WJ ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Woods RJ , McCrone JT ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "Woodman A , Arnold JJ ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "Yennawar M , et al. ( 2018 ) A speed-fidelity trade-off determines the mutation rate and virulence of an RNA virus .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "PLoS Biol 16 ( 6 ) : e2006459 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "https://doi.The funder had no role in study design ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "data collection and analysis , decision to publish , or preparation of",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "rates are typically tuned by natural selection, we asked why RNA viruses haven\u0027t evolved a polymerase with a lower mutation rate. We used experimental evolution and a murine infection model to show that RNA virus mutation rates may actually be too high and are not necessarily adaptive. Rather, our data indicate that viral mutation rates have evolved to be higher as a result of selection for viruses with faster replication kinetics. We suggest that viruses have high mutation rates, not because they facilitate adaptation but because it is hard to be both fast and accurate and these viruses have prioritized speed over fidelity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "rates are typically tuned by natural selection ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we asked why RNA viruses have n\u0027t evolved a polymerase with a lower mutation rate .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We used experimental evolution and a murine infection model to show that RNA virus mutation rates may actually be too high and are not necessarily adaptive .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Rather , our data indicate that viral mutation rates have evolved to be higher as a result of selection for viruses with faster replication kinetics .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We suggest that viruses have high mutation rates ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "not because they facilitate adaptation but because it is hard to be both fast and accurate and these viruses have prioritized speed over fidelity .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Speed-fidelity trade-off PLOS Biology | https://doi.org/10.1371/journal.pbio.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Speed-fidelity trade-off PLOS Biology | https://doi.org/10.1371/journal.pbio .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "21",
+    "segment_num": "34",
+    "token_num": "509"
+  }
+}

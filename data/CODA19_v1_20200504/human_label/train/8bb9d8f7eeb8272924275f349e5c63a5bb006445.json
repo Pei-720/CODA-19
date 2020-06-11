@@ -1,0 +1,81 @@
+{
+  "paper_id": "8bb9d8f7eeb8272924275f349e5c63a5bb006445",
+  "metadata": {
+    "title": "Annexin A2 Binds RNA and Reduces the Frameshifting Efficiency of Infectious Bronchitis Virus",
+    "coda_data_split": "train",
+    "coda_paper_id": 7281,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Annexin A2 (ANXA2) is a protein implicated in diverse cellular functions, including exocytosis, DNA synthesis and cell proliferation. It was recently proposed to be involved in RNA metabolism because it was shown to associate with some cellular mRNA. Here, we identified ANXA2 as a RNA binding protein (RBP) that binds IBV (Infectious Bronchitis Virus) pseudoknot RNA. We first confirmed the binding of ANXA2 to IBV pseudoknot RNA by ultraviolet crosslinking and showed its binding to RNA pseudoknot with ANXA2 protein in vitro and in the cells. Since the RNA pseudoknot located in the frameshifting region of IBV was used as bait for cellular RBPs, we tested whether ANXA2 could regulate the frameshfting of IBV pseudoknot RNA by dual luciferase assay. Overexpression of ANXA2 significantly reduced the frameshifting efficiency from IBV pseudoknot RNA and knockdown of the protein strikingly increased the frameshifting efficiency. The results suggest that ANXA2 is a cellular RBP that can modulate the frameshifting efficiency of viral RNA, enabling it to act as an antiviral cellular protein, and hinting at roles in RNA metabolism for other cellular mRNAs.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Annexin A2 ( ANXA2 ) is a protein implicated in diverse cellular functions ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including exocytosis , DNA synthesis and cell proliferation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It was recently proposed to be involved in RNA metabolism because it was shown to associate with some cellular mRNA .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we identified ANXA2 as a RNA binding protein ( RBP ) that binds IBV ( Infectious Bronchitis Virus ) pseudoknot RNA .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We first confirmed the binding of ANXA2 to IBV pseudoknot RNA by ultraviolet crosslinking and showed its binding to RNA pseudoknot with ANXA2 protein in vitro and in the cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Since the RNA pseudoknot located in the frameshifting region of IBV was used as bait for cellular RBPs ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we tested whether ANXA2 could regulate the frameshfting of IBV pseudoknot RNA by dual luciferase assay .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Overexpression of ANXA2 significantly reduced the frameshifting efficiency from IBV pseudoknot RNA and knockdown of the protein strikingly increased the frameshifting efficiency .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results suggest that ANXA2 is a cellular RBP that can modulate the frameshifting efficiency of viral RNA ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "enabling it to act as an antiviral cellular protein ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and hinting at roles in RNA metabolism for other cellular mRNAs .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "11",
+    "token_num": "199"
+  }
+}

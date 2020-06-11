@@ -1,0 +1,111 @@
+{
+  "paper_id": "9ad668badb182f9b2ac9c89a43f18e15b6a3155d",
+  "metadata": {
+    "title": "Thermal aggregation of SARS-CoV membrane protein",
+    "coda_data_split": "train",
+    "coda_paper_id": 6391,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "SARS-CoV membrane protein could be detected easily using Western blotting in non-denaturing condition but not regular denaturing treatment. Boiling treatment, causing the aggregation of SARS-CoV membrane protein in the stacking gels, results in the failure to detect the membrane protein in the separating gels. Aggregated membrane proteins could not be dissociated by 1% Triton-X 100, 6 M urea, or 2% SDS. The region with amino acid residues from 51 to 170 is responsible for thermal aggregation of SARS-CoV membrane protein. Hydrophobic regions with amino acid residues from 61 to 90, from 91 to 100, from 136 to 170, are essential for this protein aggregation. Thermal aggregation of SARS-CoV membrane protein is not unique among structural proteins of coronaviruses. However, SARS-CoV membrane protein seems to be more sensitive to heat treatment, since the membrane protein of MHV-JHM, another member of the Coronaviridae, would not aggregate after the same treatment. Therefore, if SARS-CoV membrane protein needs to be analyzed using SDS-PAGE, boiling should be avoided. Thermal aggregation of SARS-CoV membrane protein may be one of the reasons for the inactivation of this virus by heat. The unusual property of SARS-CoV membrane protein aggregation induced by heat also provides a model for the study of protein aggregation.",
+      "sentences": [
+        [
+          {
+            "segment_text": "SARS-CoV membrane protein could be detected easily using Western blotting in non-denaturing condition but not regular denaturing treatment .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Boiling treatment , causing the aggregation of SARS-CoV membrane protein in the stacking gels ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "results in the failure to detect the membrane protein in the separating gels .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Aggregated membrane proteins could not be dissociated by 1 % Triton-X 100 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "6 M urea , or 2 % SDS .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The region with amino acid residues from 51 to 170 is responsible for thermal aggregation of SARS-CoV membrane protein .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hydrophobic regions with amino acid residues from 61 to 90 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "from 91 to 100 , from 136 to 170 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "are essential for this protein aggregation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thermal aggregation of SARS-CoV membrane protein is not unique among structural proteins of coronaviruses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , SARS-CoV membrane protein seems to be more sensitive to heat treatment ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "since the membrane protein of MHV-JHM ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "another member of the Coronaviridae ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "would not aggregate after the same treatment .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , if SARS-CoV membrane protein needs to be analyzed using SDS-PAGE , boiling should be avoided .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thermal aggregation of SARS-CoV membrane protein may be one of the reasons for the inactivation of this virus by heat .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The unusual property of SARS-CoV membrane protein aggregation induced by heat also provides a model for the study of protein aggregation .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "10",
+    "segment_num": "17",
+    "token_num": "229"
+  }
+}

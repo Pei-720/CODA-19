@@ -1,0 +1,74 @@
+{
+  "paper_id": "3e255292c1eb4fd8752ef1d603ad88beeba43f3f",
+  "metadata": {
+    "title": "",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1083,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "publicly funded repositories, such as the WHO COVID database with rights for unrestricted research re-use and analyses in any form or by any means with acknowledgement of the original source. These permissions are granted for free by Elsevier for as long as the COVID-19 resource centre remains active.",
+      "sentences": [
+        [
+          {
+            "segment_text": "publicly funded repositories , such as the WHO COVID database with rights for unrestricted research re-use and analyses in any form or by any means with acknowledgement of the original source .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These permissions are granted for free by Elsevier for as long as the COVID-19 resource centre remains active .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Evidence levels • A Randomized, controlled trials (RCTs), meta-analyses, well-designed systematic reviews of RCTs. • B Case-control or cohort studies, nonrandomized clinical trials, systematic reviews of studies other than RCTs, crosssectional studies, retrospective studies, certain uncontrolled studies. • C Consensus statements, expert guidelines, usual practice, opinion.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Evidence levels • A Randomized ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "controlled trials ( RCTs ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "meta-analyses , well-designed systematic reviews of RCTs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "• B Case-control or cohort studies ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "nonrandomized clinical trials , systematic reviews of studies other than RCTs ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "crosssectional studies , retrospective studies , certain uncontrolled studies .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "• C Consensus statements , expert guidelines , usual practice , opinion .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "5",
+    "segment_num": "9",
+    "token_num": "113"
+  }
+}

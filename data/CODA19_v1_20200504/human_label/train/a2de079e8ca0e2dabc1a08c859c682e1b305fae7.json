@@ -1,0 +1,439 @@
+{
+  "paper_id": "a2de079e8ca0e2dabc1a08c859c682e1b305fae7",
+  "metadata": {
+    "title": "Middle East respiratory syndrome: pathogenesis and therapeutic developments",
+    "coda_data_split": "train",
+    "coda_paper_id": 8485,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "The first case of Middle East respiratory syndrome coronavirus (MERS-CoV) was identified in the year 2012, which spread rapidly and increased to more than 2200 in 2018. This highly pathogenic virus with high mortality rate is among one of the major public health concerns. Saudi Arabia remains to be the most affected region with the majority of MERS-CoV cases, and currently, no effective drugs and vaccines are available for prevention and treatment. A large amount of information is now available regarding the virus, its structure, route of transmission and its pathophysiology. Therefore, this review summarizes the current understanding of MERS-CoV\u0027s pathogenesis, treatment options and recent scientific advancements in vaccine and other therapeutic developments, and the major steps taken for MERS prevention control. Coronaviruses are positive stranded RNA viruses, and while most of these infect animals, particularly bats, a minor number can also cause human diseases [16] . Human coronaviruses can be broadly divided into types, α and β coronavirus [17] . MERS-CoV is from the β-coronavirus family [18] . It has four major surface proteins that help the virus to enter the cells viz. envelope protein (E), spike (S) protein, nucleocapsid (N) protein and membrane (M) protein. The spike (S) protein is a transmembrane glycoprotein made up of S1 and S2 subunits. The S protein is crucial for virus entry through binding and fusion to host cells. The S1 subunit has a receptor binding domain (RBD) that binds with the DPP4 receptor of the host [18, 19] . The S2 subunit contains heptad repeats H1 and H2 which forms the main membrane fusion unit [20] . The E protein is required for assembly, intracellular transport and budding of virus [21] . The M protein has its role in viral morphogenesis and assembly [22] . N proteins and S, E and M proteins interact to form complete virus particles [23] . In addition to these structural proteins, MERS-CoV has two large polyproteins called pp1a and pp1ab. These proteins are broken down by proteases to form various nonstructural essential proteins, such as enzymes [24, 25] . Recent studies have revealed that these viral structural and nonstructural proteins can be exploited as novel targets for therapeutic purposes [26] [27] [28] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "The first case of Middle East respiratory syndrome coronavirus ( MERS-CoV ) was identified in the year 2012 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which spread rapidly and increased to more than 2200 in 2018 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This highly pathogenic virus with high mortality rate is among one of the major public health concerns .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Saudi Arabia remains to be the most affected region with the majority of MERS-CoV cases ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and currently , no effective drugs and vaccines are available for prevention and treatment .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A large amount of information is now available regarding the virus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "its structure , route of transmission and its pathophysiology .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , this review summarizes the current understanding of MERS-CoV \u0027s pathogenesis ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "treatment options and recent scientific advancements in vaccine and other therapeutic developments ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and the major steps taken for MERS prevention control .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Coronaviruses are positive stranded RNA viruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and while most of these infect animals ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "particularly bats , a minor number can also cause human diseases ( 16 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Human coronaviruses can be broadly divided into types ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "α and β coronavirus ( 17 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "MERS-CoV is from the β-coronavirus family ( 18 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It has four major surface proteins that help the virus to enter the cells viz. envelope protein ( E ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "spike ( S ) protein ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "nucleocapsid ( N ) protein and membrane ( M ) protein .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The spike ( S ) protein is a transmembrane glycoprotein made up of S1 and S2 subunits .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The S protein is crucial for virus entry through binding and fusion to host cells .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The S1 subunit has a receptor binding domain ( RBD ) that binds with the DPP4 receptor of the host ( 18 , 19 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The S2 subunit contains heptad repeats H1 and H2 which forms the main membrane fusion unit ( 20 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The E protein is required for assembly ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "intracellular transport and budding of virus ( 21 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The M protein has its role in viral morphogenesis and assembly ( 22 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "N proteins and S , E and M proteins interact to form complete virus particles ( 23 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition to these structural proteins ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "MERS-CoV has two large polyproteins called pp1a and pp1ab .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These proteins are broken down by proteases to form various nonstructural essential proteins ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as enzymes ( 24 , 25 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recent studies have revealed that these viral structural and nonstructural proteins can be exploited as novel targets for therapeutic purposes ( 26 ) ( 27 ) ( 28 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The infection caused by MERS-CoV has an average incubation time of 5 days (2-14 days range). The host, in this time period, shows no symptoms of infection. The clinical symptoms of the disease range from mild symptoms of upper respiratory infection like cough, fever and myalgia to severe forms such as pneumonitis, as well as respiratory failure. Patients may also suffer from abdominal pain, appetite loss, nausea, diarrhea, vomiting and other gastrointestinal symptoms. The less commonly occurring symptoms include hemoptysis and diarrhea without any hint of fever [29] . Studies advocate that chronic illnesses, such as chronic heart disease, kidney disease, diabetes and hypertension, increase the risk of MERS-CoV infection and its severity [30] , though further proof is required.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The infection caused by MERS-CoV has an average incubation time of 5 days ( 2-14 days range ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The host , in this time period ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "shows no symptoms of infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The clinical symptoms of the disease range from mild symptoms of upper respiratory infection like cough ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "fever and myalgia to severe forms such as pneumonitis ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as well as respiratory failure .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Patients may also suffer from abdominal pain ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "appetite loss , nausea , diarrhea ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "vomiting and other gastrointestinal symptoms .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The less commonly occurring symptoms include hemoptysis and diarrhea without any hint of fever ( 29 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Studies advocate that chronic illnesses ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "such as chronic heart disease ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "kidney disease , diabetes and hypertension ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "increase the risk of MERS-CoV infection and its severity ( 30 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "though further proof is required .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "MERS-CoV can alter antigen presentation, host immune response and modulate the apoptotic pathways and mitogen-activated protein kinase pathways [7] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "MERS-CoV can alter antigen presentation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "host immune response and modulate the apoptotic pathways and mitogen-activated protein kinase pathways ( 7 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Before the discovery of MERS-CoV, SARS-CoV was considered the most pathogenic coronavirus. However, the higher pathogenicity of MERS-CoV was apparent by the higher number of deaths caused by this virus. Similar to the virus of SARS, MERS-CoV infects and replicates in the human airway epithelial cells and suppresses the production of interferons [31, 32] . However, unlike SARS-CoV, the MERS virus exhibits wider tissue tropism [33, 34] . MERS-CoV can also induce pro-inflammatory cytokines but lacks in production of innate antiviral cytokines compared with SARS-CoV. Suggesting MERS-CoV induces delayed pro-inflammatory response and attenuates innate immunity, which suggests that MERS-CoV is more lethal compared with SARS-CoV [35] [36] [37] . Primarily the MERS virus interacts with the host DPP4 receptor through its spike (S) protein after entering the respiratory tract. DPP4 receptors are present on the epithelial surface of various human organs such as, the lungs, kidneys, liver, bone marrow, thymus and intestines [38] . The systemic distribution of DPP4 facilitates the dissemination of virus in the human body. Expression of DPP4 on the respiratory tract is mainly on type I and type II pneumocytes, endothelial cells, nonciliated bronchial epithelial cells and a few forms of hematopoietic cells [39, 40] . The abundance of the receptor DPP4 is greater on the epithelial cells lining the lower airways and alveoli and lesser on the epithelial surface of upper conducting airways and nasal cavity [41] . Recent findings have suggested that a prior existing pulmonary ailment might increase the chances of such individuals contracting MERS, as chronic pulmonary diseases results in enhanced DPP4 expression [40] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Before the discovery of MERS-CoV ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "SARS-CoV was considered the most pathogenic coronavirus .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the higher pathogenicity of MERS-CoV was apparent by the higher number of deaths caused by this virus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Similar to the virus of SARS ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "MERS-CoV infects and replicates in the human airway epithelial cells and suppresses the production of interferons ( 31 , 32 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , unlike SARS-CoV , the MERS virus exhibits wider tissue tropism ( 33 , 34 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "MERS-CoV can also induce pro-inflammatory cytokines but lacks in production of innate antiviral cytokines compared with SARS-CoV .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Suggesting MERS-CoV induces delayed pro-inflammatory response and attenuates innate immunity ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which suggests that MERS-CoV is more lethal compared with SARS-CoV ( 35 ) ( 36 ) ( 37 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Primarily the MERS virus interacts with the host DPP4 receptor through its spike ( S ) protein after entering the respiratory tract .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "DPP4 receptors are present on the epithelial surface of various human organs such as ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the lungs , kidneys , liver ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "bone marrow , thymus and intestines ( 38 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The systemic distribution of DPP4 facilitates the dissemination of virus in the human body .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Expression of DPP4 on the respiratory tract is mainly on type I and type II pneumocytes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "endothelial cells , nonciliated bronchial epithelial cells and a few forms of hematopoietic cells ( 39 , 40 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The abundance of the receptor DPP4 is greater on the epithelial cells lining the lower airways and alveoli and lesser on the epithelial surface of upper conducting airways and nasal cavity ( 41 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recent findings have suggested that a prior existing pulmonary ailment might increase the chances of such individuals contracting MERS ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as chronic pulmonary diseases results in enhanced DPP4 expression ( 40 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "CoV nsp1 is a serious virulence factor, which facilitates the biological actions of MERS-CoV. Studying the nsp1 can advance our understanding of pathogenicity of MERS-CoV and facilitate development of better therapeutics. Host gene expression in infected cells is suppressed by MERS-CoV nsp1, which also promotes virus assembly or budding in in vitro, leading to efficient virus replication, suggesting nsp1 is also critical for MERS-CoV replication and promotes production of virus particles in the host [42] . The severity of MERS-CoV infection is relatively more in patients with co-morbid conditions, such as chronic lung disease, renal failure, diabetes and others with compromised immune systems [9] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "CoV nsp1 is a serious virulence factor ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which facilitates the biological actions of MERS-CoV .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Studying the nsp1 can advance our understanding of pathogenicity of MERS-CoV and facilitate development of better therapeutics .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Host gene expression in infected cells is suppressed by MERS-CoV nsp1 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which also promotes virus assembly or budding in in vitro ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "leading to efficient virus replication ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "suggesting nsp1 is also critical for MERS-CoV replication and promotes production of virus particles in the host ( 42 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The severity of MERS-CoV infection is relatively more in patients with co-morbid conditions ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "such as chronic lung disease ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "renal failure , diabetes and others with compromised immune systems ( 9 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "42",
+    "segment_num": "78",
+    "token_num": "1025"
+  }
+}

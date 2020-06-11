@@ -1,0 +1,95 @@
+{
+  "paper_id": "e344d21fb68d14bed65d7fbdc97164e61717a0f2",
+  "metadata": {
+    "title": "Biosynthesis of Other Secondary Metabolites",
+    "coda_data_split": "train",
+    "coda_paper_id": 6642,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Given a compound, how can we effectively predict its biological function? It is a fundamentally important problem because the information thus obtained may benefit the understanding of many basic biological processes and provide useful clues for drug design. In this study, based on the information of chemical-chemical interactions, a novel method was developed that can be used to identify which of the following eleven metabolic pathway classes a query compound may be involved with: (Xenobiotics Biodegradation and Metabolism. It was observed that the overall success rate obtained by the method via the 5-fold crossvalidation test on a benchmark dataset consisting of 3,137 compounds was 77.97%, which is much higher than 10.45%, the corresponding success rate obtained by the random guesses. Besides, to deal with the situation that some compounds may be involved with more than one metabolic pathway class, the method presented here is featured by the capacity able to provide a series of potential metabolic pathway classes ranked according to the descending order of their likelihood for each of the query compounds concerned. Furthermore, our method was also applied to predict 5,549 compounds whose metabolic pathway classes are unknown. Interestingly, the results thus obtained are quite consistent with the deductions from the reports by other investigators. It is anticipated that, with the continuous increase of the chemical-chemical interaction data, the current method will be further enhanced in its power and accuracy, so as to become a useful complementary vehicle in annotating uncharacterized compounds for their biological functions.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Given a compound , how can we effectively predict its biological function ?",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is a fundamentally important problem because the information thus obtained may benefit the understanding of many basic biological processes and provide useful clues for drug design .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , based on the information of chemical-chemical interactions ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "a novel method was developed that can be used to identify which of the following eleven metabolic pathway classes a query compound may be involved with : ( Xenobiotics Biodegradation and Metabolism .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "It was observed that the overall success rate obtained by the method via the 5-fold crossvalidation test on a benchmark dataset consisting of 3,137 compounds was 77.97 % ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which is much higher than 10.45 % ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the corresponding success rate obtained by the random guesses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Besides , to deal with the situation that some compounds may be involved with more than one metabolic pathway class ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the method presented here is featured by the capacity able to provide a series of potential metabolic pathway classes ranked according to the descending order of their likelihood for each of the query compounds concerned .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , our method was also applied to predict 5,549 compounds whose metabolic pathway classes are unknown .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Interestingly , the results thus obtained are quite consistent with the deductions from the reports by other investigators .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is anticipated that , with the continuous increase of the chemical-chemical interaction data ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the current method will be further enhanced in its power and accuracy ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "so as to become a useful complementary vehicle in annotating uncharacterized compounds for their biological functions .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "14",
+    "token_num": "272"
+  }
+}

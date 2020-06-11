@@ -1,0 +1,119 @@
+{
+  "paper_id": "8dd45f6f44956863508e44c1e6c7338b51a7524d",
+  "metadata": {
+    "title": "Characterizing Influenza surveillance systems performance: application of a Bayesian hierarchical statistical model to Hong Kong surveillance data",
+    "coda_data_split": "train",
+    "coda_paper_id": 10051,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Infectious disease surveillance is a process the product of which reflects both actual disease trends and public awareness of the disease. Decisions made by patients, health care providers, and public health professionals about seeking and providing health care and about reporting cases to health authorities are all influenced by the information environment, which changes constantly. Biases are therefore imbedded in surveillance systems; these biases need to be characterized to provide better situational awareness for decision-making purposes. Our goal is to develop a statistical framework to characterize influenza surveillance systems, particularly their correlation with the information environment. Methods: We identified Hong Kong influenza surveillance data systems covering healthcare providers, laboratories, daycare centers and residential care homes for the elderly. A Bayesian hierarchical statistical model was developed to examine the statistical relationships between the influenza surveillance data and the information environment represented by alerts from HealthMap and web queries from Google. Different models were fitted for non-pandemic and pandemic periods and model goodness-of-fit was assessed using common model selection procedures. Results: Some surveillance systemsespecially ad hoc systems developed in response to the pandemic flu outbreakare more correlated with the information environment than others. General practitioner (percentage of influenza-like-illness related patient visits among all patient visits) and laboratory (percentage of specimen tested positive) seem to proportionally reflect the actual disease trends and are less representative of the information environment. Surveillance systems using influenza-specific code for reporting tend to reflect biases of both healthcare seekers and providers. Conclusions: This study shows certain influenza surveillance systems are less correlated with the information environment than others, and therefore, might represent more reliable indicators of disease activity in future outbreaks. Although the patterns identified in this study might change in future outbreaks, the potential susceptibility of surveillance data is likely to persist in the future, and should be considered when interpreting surveillance data.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Infectious disease surveillance is a process the product of which reflects both actual disease trends and public awareness of the disease .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Decisions made by patients , health care providers ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and public health professionals about seeking and providing health care and about reporting cases to health authorities are all influenced by the information environment , which changes constantly .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Biases are therefore imbedded in surveillance systems ; these biases need to be characterized to provide better situational awareness for decision-making purposes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our goal is to develop a statistical framework to characterize influenza surveillance systems ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "particularly their correlation with the information environment .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Methods : We identified Hong Kong influenza surveillance data systems covering healthcare providers ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "laboratories , daycare centers and residential care homes for the elderly .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A Bayesian hierarchical statistical model was developed to examine the statistical relationships between the influenza surveillance data and the information environment represented by alerts from HealthMap and web queries from Google .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Different models were fitted for non-pandemic and pandemic periods and model goodness-of-fit was assessed using common model selection procedures .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results : Some surveillance systemsespecially ad hoc systems developed in response to the pandemic flu outbreakare more correlated with the information environment than others .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "General practitioner ( percentage of influenza-like-illness related patient visits among all patient visits ) and laboratory ( percentage of specimen tested positive ) seem to proportionally reflect the actual disease trends and are less representative of the information environment .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Surveillance systems using influenza-specific code for reporting tend to reflect biases of both healthcare seekers and providers .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Conclusions : This study shows certain influenza surveillance systems are less correlated with the information environment than others ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and therefore , might represent more reliable indicators of disease activity in future outbreaks .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although the patterns identified in this study might change in future outbreaks ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the potential susceptibility of surveillance data is likely to persist in the future ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and should be considered when interpreting surveillance data .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "12",
+    "segment_num": "18",
+    "token_num": "338"
+  }
+}

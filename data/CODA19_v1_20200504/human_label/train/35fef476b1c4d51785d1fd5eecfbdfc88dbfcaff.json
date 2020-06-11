@@ -1,0 +1,71 @@
+{
+  "paper_id": "35fef476b1c4d51785d1fd5eecfbdfc88dbfcaff",
+  "metadata": {
+    "title": "A BSL-4 High-Throughput Screen Identifies Sulfonamide Inhibitors of Nipah Virus",
+    "coda_data_split": "train",
+    "coda_paper_id": 9814,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Nipah virus is a biosafety level 4 (BSL-4) pathogen that causes severe respiratory illness and encephalitis in humans. To identify novel small molecules that target Nipah virus replication as potential therapeutics, Southern Research Institute and Galveston National Laboratory jointly developed an automated high-throughput screening platform that is capable of testing 10,000 compounds per day within BSL-4 biocontainment. Using this platform, we screened a 10,080-compound library using a cell-based, high-throughput screen for compounds that inhibited the virus-induced cytopathic effect. From this pilot effort, 23 compounds were identified with EC 50 values ranging from 3.9 to 20.0 lM and selectivities \u003e10. Three sulfonamide compounds with EC 50 values \u003c12 lM were further characterized for their point of intervention in the viral replication cycle and for broad antiviral efficacy. Development of HTS capability under BSL-4 containment changes the paradigm for drug discovery for highly pathogenic agents because this platform can be readily modified to identify prophylactic and postexposure therapeutic candidates against other BSL-4 pathogens, particularly Ebola, Marburg, and Lassa viruses.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Nipah virus is a biosafety level 4 ( BSL-4 ) pathogen that causes severe respiratory illness and encephalitis in humans .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To identify novel small molecules that target Nipah virus replication as potential therapeutics ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "Southern Research Institute and Galveston National Laboratory jointly developed an automated high-throughput screening platform that is capable of testing 10,000 compounds per day within BSL-4 biocontainment .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using this platform , we screened a 10,080-compound library using a cell-based ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "high-throughput screen for compounds that inhibited the virus-induced cytopathic effect .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "From this pilot effort , 23 compounds were identified with EC 50 values ranging from 3.9 to 20.0 lM and selectivities \u003e 10 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Three sulfonamide compounds with EC 50 values \u003c 12 lM were further characterized for their point of intervention in the viral replication cycle and for broad antiviral efficacy .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Development of HTS capability under BSL-4 containment changes the paradigm for drug discovery for highly pathogenic agents because this platform can be readily modified to identify prophylactic and postexposure therapeutic candidates against other BSL-4 pathogens ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "particularly Ebola , Marburg , and Lassa viruses .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "9",
+    "token_num": "184"
+  }
+}

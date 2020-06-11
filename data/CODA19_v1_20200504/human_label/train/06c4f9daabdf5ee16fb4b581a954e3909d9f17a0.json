@@ -1,0 +1,75 @@
+{
+  "paper_id": "06c4f9daabdf5ee16fb4b581a954e3909d9f17a0",
+  "metadata": {
+    "title": "Computational Analysis of Cysteine Proteases (Clan CA, Family C1) of Leishmania major to Find Potential Epitopic Regions",
+    "coda_data_split": "train",
+    "coda_paper_id": 4825,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Leishmania is associated with a broad spectrum of diseases, ranging from simple cutaneous to invasive visceral leishmaniasis. Here, the sequences of ten cysteine proteases of types A, B and C of Leishmania major were obtained from GeneDB database. Prediction of MHC class I epitopes of these cysteine proteases was performed by NetCTL program version 1.2. In addition, by using BcePred server, dif ferent structural properties of the proteins were predicted to f ind out their potential B cell epitopes. According to this computational analysis, nine regions were predicted as B cell epitopes. The results provide useful information for designing peptide-based vaccines.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Leishmania is associated with a broad spectrum of diseases ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "ranging from simple cutaneous to invasive visceral leishmaniasis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , the sequences of ten cysteine proteases of types A ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "B and C of Leishmania major were obtained from GeneDB database .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Prediction of MHC class I epitopes of these cysteine proteases was performed by NetCTL program version 1.2 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , by using BcePred server ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "dif ferent structural properties of the proteins were predicted to f ind out their potential B cell epitopes .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "According to this computational analysis ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "nine regions were predicted as B cell epitopes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results provide useful information for designing peptide-based vaccines .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "10",
+    "token_num": "113"
+  }
+}

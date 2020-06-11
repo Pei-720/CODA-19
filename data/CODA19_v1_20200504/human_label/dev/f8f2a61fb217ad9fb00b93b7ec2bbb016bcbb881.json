@@ -1,0 +1,111 @@
+{
+  "paper_id": "f8f2a61fb217ad9fb00b93b7ec2bbb016bcbb881",
+  "metadata": {
+    "title": "Using Informatics and the Electronic Medical Record to Describe Antimicrobial Use in the Clinical Management of Diarrhea Cases at 12 Companion Animal Practices",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1703,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Antimicrobial drugs may be used to treat diarrheal illness in companion animals. It is important to monitor antimicrobial use to better understand trends and patterns in antimicrobial resistance. There is no monitoring of antimicrobial use in companion animals in Canada. To explore how the use of electronic medical records could contribute to the ongoing, systematic collection of antimicrobial use data in companion animals, anonymized electronic medical records were extracted from 12 participating companion animal practices and warehoused at the University of Calgary. We used the prediagnostic, clinical features of diarrhea as the case definition in this study. Using text-mining technologies, cases of diarrhea were described by each of the following variables: diagnostic laboratory tests performed, the etiological diagnosis and antimicrobial therapies. The ability of the text miner to accurately describe the cases for each of the variables was evaluated. It could not reliably classify cases in terms of diagnostic tests or etiological diagnosis; a manual review of a random sample of 500 diarrhea cases determined that 88/500 (17.6%) of the target cases underwent diagnostic testing of which 36/88 (40.9%) had an etiological diagnosis. Text mining, compared to a human reviewer, could accurately identify cases that had been treated with antimicrobials with high sensitivity (92%, 95% confidence interval, 88.1%-95.4%) and specificity (85%, 95% confidence interval, 80.2%-89.1%). Overall, 7400/15,928 (46.5%) of pets presenting with diarrhea were treated with antimicrobials. Some temporal trends and patterns of the antimicrobial use are described. The results from this study suggest that informatics and the electronic medical records could be useful for monitoring trends in antimicrobial use.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Antimicrobial drugs may be used to treat diarrheal illness in companion animals .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is important to monitor antimicrobial use to better understand trends and patterns in antimicrobial resistance .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "There is no monitoring of antimicrobial use in companion animals in Canada .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To explore how the use of electronic medical records could contribute to the ongoing ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "systematic collection of antimicrobial use data in companion animals ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "anonymized electronic medical records were extracted from 12 participating companion animal practices and warehoused at the University of Calgary .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We used the prediagnostic , clinical features of diarrhea as the case definition in this study .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using text-mining technologies , cases of diarrhea were described by each of the following variables : diagnostic laboratory tests performed ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the etiological diagnosis and antimicrobial therapies .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The ability of the text miner to accurately describe the cases for each of the variables was evaluated .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "It could not reliably classify cases in terms of diagnostic tests or etiological diagnosis ; a manual review of a random sample of 500 diarrhea cases determined that 88/500 ( 17.6 % ) of the target cases underwent diagnostic testing of which 36/88 ( 40.9 % ) had an etiological diagnosis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Text mining , compared to a human reviewer ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "could accurately identify cases that had been treated with antimicrobials with high sensitivity ( 92 % , 95 % confidence interval , 88.1 % -95.4 % ) and specificity ( 85 % , 95 % confidence interval , 80.2 % -89.1 % ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Overall , 7400/15 ,928 ( 46.5 % ) of pets presenting with diarrhea were treated with antimicrobials .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Some temporal trends and patterns of the antimicrobial use are described .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results from this study suggest that informatics and the electronic medical records could be useful for monitoring trends in antimicrobial use .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "12",
+    "segment_num": "16",
+    "token_num": "310"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "paper_id": "343e5019aaa831f4e134ac30bc30b23d521c2938",
+  "metadata": {
+    "title": "Structure and infrastructure of infectious agent research literature: SARS",
+    "coda_data_split": "train",
+    "coda_paper_id": 7679,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Text mining was used to extract technical intelligence from the open source global SARS research literature. A SARS-focused query was applied to the Science Citation Index (SCI) (SCI 2008) database for the period 1998-early 2008. The SARS research literature infrastructure (prolific authors, key journals/institutions/countries, most cited authors/journals/documents) was obtained using bibliometrics, and the SARS research literature technical structure (hierarchical taxonomy) was obtained using computational linguistics/document clustering.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Text mining was used to extract technical intelligence from the open source global SARS research literature .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A SARS-focused query was applied to the Science Citation Index ( SCI ) ( SCI 2008 ) database for the period 1998-early 2008 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The SARS research literature infrastructure ( prolific authors , key journals/institutions/countries , most cited authors/journals/documents ) was obtained using bibliometrics ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and the SARS research literature technical structure ( hierarchical taxonomy ) was obtained using computational linguistics/document clustering .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "3",
+    "segment_num": "4",
+    "token_num": "80"
+  }
+}

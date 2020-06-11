@@ -1,0 +1,103 @@
+{
+  "paper_id": "3d0778430adbbbc96d00837831f9a1ce1d4ff35b",
+  "metadata": {
+    "title": "Cloning, Assembly, and Modification of the Primary Human Cytomegalovirus Isolate Toledo by Yeast-Based Transformation-Associated Recombination",
+    "coda_data_split": "train",
+    "coda_paper_id": 7557,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Genetic engineering of cytomegalovirus (CMV) currently relies on generating a bacterial artificial chromosome (BAC) by introducing a bacterial origin of replication into the viral genome using in vivo recombination in virally infected tissue culture cells. However, this process is inefficient, results in adaptive mutations, and involves deletion of viral genes to avoid oversized genomes when inserting the BAC cassette. Moreover, BAC technology does not permit the simultaneous manipulation of multiple genome loci and cannot be used to construct synthetic genomes. To overcome these limitations, we adapted synthetic biology tools to clone CMV genomes in Saccharomyces cerevisiae. Using an early passage of the human CMV isolate Toledo, we first applied transformation-associated recombination (TAR) to clone 16 overlapping fragments covering the entire Toledo genome in Saccharomyces cerevisiae. Then, we assembled these fragments by TAR in a stepwise process until the entire genome was reconstituted in yeast. Since next-generation sequence analysis revealed that the low-passage-number isolate represented a mixture of parental and fibroblast-adapted genomes, we selectively modified individual DNA fragments of fibroblast-adapted Toledo (Toledo-F) and again used TAR assembly to recreate parental Toledo (Toledo-P). Linear, full-length HCMV genomes were transfected into human fibroblasts to recover virus. Unlike Toledo-F, Toledo-P displayed characteristics of primary isolates, including broad cellular tropism in vitro and the ability to establish latency and reactivation in humanized mice. Our novel strategy thus enables de novo cloning of CMV genomes, more-efficient genome-wide engineering, and the generation of viral genomes that are partially or completely derived from synthetic DNA.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Genetic engineering of cytomegalovirus ( CMV ) currently relies on generating a bacterial artificial chromosome ( BAC ) by introducing a bacterial origin of replication into the viral genome using in vivo recombination in virally infected tissue culture cells .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , this process is inefficient ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "results in adaptive mutations , and involves deletion of viral genes to avoid oversized genomes when inserting the BAC cassette .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , BAC technology does not permit the simultaneous manipulation of multiple genome loci and can not be used to construct synthetic genomes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To overcome these limitations , we adapted synthetic biology tools to clone CMV genomes in Saccharomyces cerevisiae .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using an early passage of the human CMV isolate Toledo ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we first applied transformation-associated recombination ( TAR ) to clone 16 overlapping fragments covering the entire Toledo genome in Saccharomyces cerevisiae .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Then , we assembled these fragments by TAR in a stepwise process until the entire genome was reconstituted in yeast .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Since next-generation sequence analysis revealed that the low-passage-number isolate represented a mixture of parental and fibroblast-adapted genomes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we selectively modified individual DNA fragments of fibroblast-adapted Toledo ( Toledo-F ) and again used TAR assembly to recreate parental Toledo ( Toledo-P ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Linear , full-length HCMV genomes were transfected into human fibroblasts to recover virus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Unlike Toledo-F , Toledo-P displayed characteristics of primary isolates ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including broad cellular tropism in vitro and the ability to establish latency and reactivation in humanized mice .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our novel strategy thus enables de novo cloning of CMV genomes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "more-efficient genome-wide engineering , and the generation of viral genomes that are partially or completely derived from synthetic DNA .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "10",
+    "segment_num": "15",
+    "token_num": "281"
+  }
+}

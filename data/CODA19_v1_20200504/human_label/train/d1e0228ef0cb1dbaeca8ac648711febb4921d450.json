@@ -1,0 +1,160 @@
+{
+  "paper_id": "d1e0228ef0cb1dbaeca8ac648711febb4921d450",
+  "metadata": {
+    "title": "Robots, pipelines, polyproteins: Enabling multiprotein expression in prokaryotic and eukaryotic cells",
+    "coda_data_split": "train",
+    "coda_paper_id": 6497,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Multiprotein complexes catalyze vital biological functions in the cell. A paramount objective of the SPINE2 project was to address the structural molecular biology of these multiprotein complexes, by enlisting and developing enabling technologies for their study. An emerging key prerequisite for studying complex biological specimens is their recombinant overproduction. Novel reagents and streamlined protocols for rapidly assembling co-expression constructs for this purpose have been designed and validated. The high-throughput pipeline implemented at IGBMC Strasbourg and the ACEMBL platform at the EMBL Grenoble utilize recombinant overexpression systems for heterologous expression of proteins and their complexes. Extension of the ACEMBL platform technology to include eukaryotic hosts such as insect and mammalian cells has been achieved. Efficient production of large multicomponent protein complexes for structural studies using the baculovirus/insect cell system can be hampered by a stoichiometric imbalance of the subunits produced. A polyprotein strategy has been developed to overcome this bottleneck and has been successfully implemented in our MultiBac baculovirus expression system for producing multiprotein complexes.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Multiprotein complexes catalyze vital biological functions in the cell .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A paramount objective of the SPINE2 project was to address the structural molecular biology of these multiprotein complexes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "by enlisting and developing enabling technologies for their study .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "An emerging key prerequisite for studying complex biological specimens is their recombinant overproduction .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Novel reagents and streamlined protocols for rapidly assembling co-expression constructs for this purpose have been designed and validated .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The high-throughput pipeline implemented at IGBMC Strasbourg and the ACEMBL platform at the EMBL Grenoble utilize recombinant overexpression systems for heterologous expression of proteins and their complexes .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Extension of the ACEMBL platform technology to include eukaryotic hosts such as insect and mammalian cells has been achieved .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Efficient production of large multicomponent protein complexes for structural studies using the baculovirus/insect cell system can be hampered by a stoichiometric imbalance of the subunits produced .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A polyprotein strategy has been developed to overcome this bottleneck and has been successfully implemented in our MultiBac baculovirus expression system for producing multiprotein complexes .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Abbreviations: BEVS, baculovirus expression vector system; CFP, cyan florescent protein; CMV, cytomegalovirus; dpa, day of proliferation arrest; dsRed, red fluorescent protein; E. coli, Escherichia coli; EGFP, enhanced green fluorescent protein; EM, electron microscopy; FRET, fluorescence resonance energy transfer; HT, high throughput; kb, kilo base; kDa, kilo dalton; MOI, multiplicity of infection; NMR, nuclear magnetic resonance (spectroscopy); ORF, open reading frame; Ori, origin of replication; p10, p10 baculoviral late promoter; polh, polyhedrin baculoviral very late promoter; R6Kc, bacteriophage R6Kc; SDS-PAGE, sodium dodecylsulfate-polyacryamide gel electrophoresis; Sf9, Sf21, Spodoptera frugiperda cell lines 9 or 21, respectively; SLIC, sequence and ligation independent cloning; tcs, TEV protease cleavage site; TEV, tobacco etch virus, resp. a protease (N1A) from this virus; YFP, yellow fluorescent protein.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Abbreviations : BEVS , baculovirus expression vector system ; CFP ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "cyan florescent protein ; CMV ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "cytomegalovirus ; dpa , day of proliferation arrest ; dsRed ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "red fluorescent protein ; E. coli ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "Escherichia coli ; EGFP , enhanced green fluorescent protein ; EM ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "electron microscopy ; FRET , fluorescence resonance energy transfer ; HT ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "high throughput ; kb , kilo base ; kDa ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "kilo dalton ; MOI , multiplicity of infection ; NMR ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "nuclear magnetic resonance ( spectroscopy ) ; ORF ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "open reading frame ; Ori ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "origin of replication ; p10 ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "p10 baculoviral late promoter ; polh ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "polyhedrin baculoviral very late promoter ; R6Kc ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "bacteriophage R6Kc ; SDS-PAGE , sodium dodecylsulfate-polyacryamide gel electrophoresis ; Sf9 ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "Sf21 , Spodoptera frugiperda cell lines 9 or 21 ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "respectively ; SLIC , sequence and ligation independent cloning ; tcs ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "TEV protease cleavage site ; TEV ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "tobacco etch virus , resp .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "a protease ( N1A ) from this virus ; YFP , yellow fluorescent protein .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "10",
+    "segment_num": "28",
+    "token_num": "351"
+  }
+}

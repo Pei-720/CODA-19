@@ -1,0 +1,270 @@
+{
+  "paper_id": "d7b736173972c7e1e61d44115b79fdb2e1b24a5d",
+  "metadata": {
+    "title": "Protein Synthesis Chemical Synthesis of the Highly Hydrophobic Antiviral Membrane- Associated Protein IFITM3 and Modified Variants Communications",
+    "coda_data_split": "train",
+    "coda_paper_id": 8650,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Interferon-induced transmembrane protein 3 (IFITM3) is an antiviral transmembrane protein that is thought to serve as the primary factor for inhibiting the replication of al arge number of viruses,i ncluding West Nile virus,D engue virus,Ebola virus,and Zika virus.Production of this 14.5 kDa, 133-residue transmembrane protein, especially with essential posttranslational modifications,b yr ecombinant expression is challenging.Inthis report, we document the chemical synthesis of IFTIM3 in multi-milligram quantities (\u003e 15 mg) and the preparation of phosphorylated and fluorescent variants.T he synthesis was accomplished by using KAHA ligations,w hich operate under acidic aqueous/organic mixtures that excel at solubilizing even the exceptionally hydrophobic C-terminal region of IFITM3. The synthetic material is readily incorporated into model vesicles and forms the basis for using synthetic,h omogenous IFITM3 and its derivatives for further studying its structure and biological mode of action.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Interferon-induced transmembrane protein 3 ( IFITM3 ) is an antiviral transmembrane protein that is thought to serve as the primary factor for inhibiting the replication of al arge number of viruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "i ncluding West Nile virus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "D engue virus , Ebola virus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and Zika virus.Production of this 14.5 kDa ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "133-residue transmembrane protein , especially with essential posttranslational modifications ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "b yr ecombinant expression is challenging.Inthis report ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we document the chemical synthesis of IFTIM3 in multi-milligram quantities ( \u003e 15 mg ) and the preparation of phosphorylated and fluorescent variants.T he synthesis was accomplished by using KAHA ligations ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "w hich operate under acidic aqueous/organic mixtures that excel at solubilizing even the exceptionally hydrophobic C-terminal region of IFITM3 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The synthetic material is readily incorporated into model vesicles and forms the basis for using synthetic ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "h omogenous IFITM3 and its derivatives for further studying its structure and biological mode of action .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Interferon-induced transmembrane protein 3( IFITM3) is a1 33 amino acid membrane-associated protein (MP) that inhibits the replication of pathogenic viruses.This protein was first named fragilis and reported by Saitou and co-workers in 2002, [1] but interest surged when its antiviral properties came to light during the 2009 H1N1 influenza pandemic. Everitt and co-workers [2] reported that patients lacking full IFITM3 were more quickly and severely infected, leading to adramatic increase in mortality.S ubsequent studies have shown that IFITM3 exhibits antiviral activity against al arge number of viruses, [3, 4] including West Nile virus, [5, 6] Dengue virus, [5] [6] [7] Filoviruses (Ebola and Marburg viruses), [8] SARS Coronavirus, [8] Rift Va lley fever virus, [9] HIV-1 [10] and, most recently, Zika virus. [11] IFITM3 and its related proteins (IFITMs) contain two highly hydrophobic intramembrane domains:aconserved loop region, and amore polar N-terminal region that varies in sequence and length (Figure 1a) . Several proposals for its structure,m embrane-spanning topology,a nd mechanism of action have been reported but there is little consensus of how IFITM3 prevents viral replication. [12] Further studies,such as structure determination and investigation of its numerous posttranslational modifications, [13] [14] [15] [16] are hampered in part by lack of access to the pure protein, especially homogeneous material containing the essential posttranslational modifications.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Interferon-induced transmembrane protein 3 ( IFITM3 ) is a1 33 amino acid membrane-associated protein ( MP ) that inhibits the replication of pathogenic viruses.This protein was first named fragilis and reported by Saitou and co-workers in 2002 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "( 1 ) but interest surged when its antiviral properties came to light during the 2009 H1N1 influenza pandemic .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Everitt and co-workers ( 2 ) reported that patients lacking full IFITM3 were more quickly and severely infected ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "leading to adramatic increase in mortality.S ubsequent studies have shown that IFITM3 exhibits antiviral activity against al arge number of viruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "( 3 , 4 ) including West Nile virus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "( 5 , 6 ) Dengue virus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "( 5 ) ( 6 ) ( 7 ) Filoviruses ( Ebola and Marburg viruses ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "( 8 ) SARS Coronavirus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "( 8 ) Rift Va lley fever virus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "( 9 ) HIV-1 ( 10 ) and ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "most recently , Zika virus .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "( 11 ) IFITM3 and its related proteins ( IFITMs ) contain two highly hydrophobic intramembrane domains : aconserved loop region ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and amore polar N-terminal region that varies in sequence and length ( Figure 1a ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Several proposals for its structure ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "m embrane-spanning topology , a nd mechanism of action have been reported but there is little consensus of how IFITM3 prevents viral replication .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "( 12 ) Further studies ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as structure determination and investigation of its numerous posttranslational modifications ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "( 13 ) ( 14 ) ( 15 ) ( 16 ) are hampered in part by lack of access to the pure protein ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "especially homogeneous material containing the essential posttranslational modifications .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In this report, we document the production of milligram quantities of homogeneous IFITM3 and key post-translationally modified variants by total chemical synthesis by using aketoacid-hydroxylamine (KAHA) ligation. [17] Key to the success of this work is the unique nature of the KAHA ligation using 5-oxaproline,w hich operates under acidic conditions ideal for solubilizing hydrophobic peptide segments and delivers more soluble peptide esters compared to amide as the primary ligation product. Theu se of 5-oxaproline results in the introduction of homoserine,anon-canonical amino acid, at the ligation site.W hen carefully chosen, we have found that this is an innocuous mutation of many residues and have shown that it does not disturb folding or biological activity. [18] Thes ynthetic route allows facile incorporation of key posttranslational modifications,i ncluding phosphorylation and the attachment of afluorescent dye.This work establishes access to homogenous IFITM3 and will enable further studies on its structure and mode of action.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this report , we document the production of milligram quantities of homogeneous IFITM3 and key post-translationally modified variants by total chemical synthesis by using aketoacid-hydroxylamine ( KAHA ) ligation .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "( 17 ) Key to the success of this work is the unique nature of the KAHA ligation using 5-oxaproline ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "w hich operates under acidic conditions ideal for solubilizing hydrophobic peptide segments and delivers more soluble peptide esters compared to amide as the primary ligation product .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Theu se of 5-oxaproline results in the introduction of homoserine,anon-canonical amino acid ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "at the ligation site.W hen carefully chosen ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we have found that this is an innocuous mutation of many residues and have shown that it does not disturb folding or biological activity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( 18 ) Thes ynthetic route allows facile incorporation of key posttranslational modifications ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "i ncluding phosphorylation and the attachment of afluorescent dye.This work establishes access to homogenous IFITM3 and will enable further studies on its structure and mode of action .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Our synthetic planning took into account the different structural regions of IFITM3 and took inspiration from amap of key residue constructed by Brass and co-workers. [7] We aimed to synthesize IFITM3 from three segments using two KAHA ligations.F or the first ligation site,w ec hose Ser50Hse,s ince this is located in an exposed loop region that shows considerable variability among IFITM proteins. As the second ligation, we selected Thr95Hse,s ince this site was reported to be one of the few variable sites within an otherwise highly conserved region. This strategy called for the use of av aline a-ketoacid for the ligation, which although somewhat slower than less hindered residues,h as proven to be an excellent choice for KAHA ligations. [18b] Thes ynthesis of segment 3, which contains the IM2 domain, proved to be the most challenging.O wing to its extreme hydrophobicity,wefirst attempted to synthesize it by tert-butyloxycarbonyl solid-phase peptide synthesis (Boc-SPPS), since Boc chemistry is known to be better suited than fluorenylmethyloxycarbonyl solid-phase peptide synthesis (Fmoc-SPPS) for the preparation of hydrophobic Supportinginformation and the ORCID identification number(s) for the author(s) of this article can be found under: https://doi.org/10.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Our synthetic planning took into account the different structural regions of IFITM3 and took inspiration from amap of key residue constructed by Brass and co-workers .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "( 7 ) We aimed to synthesize IFITM3 from three segments using two KAHA ligations.F or the first ligation site ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "w ec hose Ser50Hse , s ince this is located in an exposed loop region that shows considerable variability among IFITM proteins .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "As the second ligation , we selected Thr95Hse ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "s ince this site was reported to be one of the few variable sites within an otherwise highly conserved region .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This strategy called for the use of av aline a-ketoacid for the ligation ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which although somewhat slower than less hindered residues ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "h as proven to be an excellent choice for KAHA ligations .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "( 18b ) Thes ynthesis of segment 3 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which contains the IM2 domain ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "proved to be the most challenging.O wing to its extreme hydrophobicity ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "wefirst attempted to synthesize it by tert-butyloxycarbonyl solid-phase peptide synthesis ( Boc-SPPS ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "since Boc chemistry is known to be better suited than fluorenylmethyloxycarbonyl solid-phase peptide synthesis ( Fmoc-SPPS ) for the preparation of hydrophobic Supportinginformation and the ORCID identification number ( s ) for the author ( s ) of this article can be found under : https://doi.org/10 .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "16",
+    "segment_num": "50",
+    "token_num": "831"
+  }
+}

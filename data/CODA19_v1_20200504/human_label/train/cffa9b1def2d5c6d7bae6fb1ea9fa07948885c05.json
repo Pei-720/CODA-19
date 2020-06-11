@@ -1,0 +1,209 @@
+{
+  "paper_id": "cffa9b1def2d5c6d7bae6fb1ea9fa07948885c05",
+  "metadata": {
+    "title": "Combining a Fusion Inhibitory Peptide Targeting the MERS-CoV S2 Protein HR1 Domain and a Neutralizing Antibody Specific for the S1 Protein Receptor-Binding Domain (RBD) Showed Potent Synergism against Pseudotyped MERS-CoV with or without Mutations in RBD",
+    "coda_data_split": "train",
+    "coda_paper_id": 7509,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Middle East respiratory syndrome coronavirus (MERS-CoV) has continuously posed a threat to public health worldwide, yet no therapeutics or vaccines are currently available to prevent or treat MERS-CoV infection. We previously identified a fusion inhibitory peptide (HR2P-M2) targeting the MERS-CoV S2 protein HR1 domain and a highly potent neutralizing monoclonal antibody (m336) specific to the S1 spike protein receptor-binding domain (RBD). However, m336 was found to have reduced efficacy against MERS-CoV strains with mutations in RBD, and HR2P-M2 showed low potency, thus limiting the clinical application of each when administered separately. However, we herein report that the combination of m336 and HR2P-M2 exhibited potent synergism in inhibiting MERS-CoV S protein-mediated cell-cell fusion and infection by MERS-CoV pseudoviruses with or without mutations in the RBD, resulting in the enhancement of antiviral activity in contrast to either one administered alone. Thus, this combinatorial strategy could be used in clinics for the urgent treatment of MERS-CoV-infected patients.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Middle East respiratory syndrome coronavirus ( MERS-CoV ) has continuously posed a threat to public health worldwide ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "yet no therapeutics or vaccines are currently available to prevent or treat MERS-CoV infection .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We previously identified a fusion inhibitory peptide ( HR2P-M2 ) targeting the MERS-CoV S2 protein HR1 domain and a highly potent neutralizing monoclonal antibody ( m336 ) specific to the S1 spike protein receptor-binding domain ( RBD ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , m336 was found to have reduced efficacy against MERS-CoV strains with mutations in RBD ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and HR2P-M2 showed low potency ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "thus limiting the clinical application of each when administered separately .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , we herein report that the combination of m336 and HR2P-M2 exhibited potent synergism in inhibiting MERS-CoV S protein-mediated cell-cell fusion and infection by MERS-CoV pseudoviruses with or without mutations in the RBD ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "resulting in the enhancement of antiviral activity in contrast to either one administered alone .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , this combinatorial strategy could be used in clinics for the urgent treatment of MERS-CoV-infected patients .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Viruses 2019, 11, 31 2 of 12 between viral and cellular membranes through the interaction between its HR1 and HR2 domains and entry of the viral genetic materials into the host cell [5] [6] [7] [8] . Thus, both the RBD in S1 subunit and HR1 domain in S2 subunit can serve as important targets for development of antiviral agents against MERS-CoV infection.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Viruses 2019 , 11 , 31 2 of 12 between viral and cellular membranes through the interaction between its HR1 and HR2 domains and entry of the viral genetic materials into the host cell ( 5 ) ( 6 ) ( 7 ) ( 8 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , both the RBD in S1 subunit and HR1 domain in S2 subunit can serve as important targets for development of antiviral agents against MERS-CoV infection .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Recently, we identified a peptide derived from the HR2 domain of MERS-CoV S protein S2 subunit, designated HR2P, which could interact with the HR1 domain of S protein S2 subunit to form a six-helix bundle (6-HB) complex and block viral fusion and replication with IC 50 s ranging from 0.6 to 1 µM [5]. By replacing amino acid residues at the i to i + 4 positions with a negatively charged amino acid (e.g., E) and a positively charged amino acid (e.g., K) in HR2P for introduction of intramolecular salt-bridges, the resultant peptide HR2P-M2 exhibited improved solubility, stability, and anti-MERS-CoV activity [5, 9] . However, its potency is still not strong enough to warrant clinical development.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Recently , we identified a peptide derived from the HR2 domain of MERS-CoV S protein S2 subunit ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "designated HR2P , which could interact with the HR1 domain of S protein S2 subunit to form a six-helix bundle ( 6-HB ) complex and block viral fusion and replication with IC 50 s ranging from 0.6 to 1 µM ( 5 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "By replacing amino acid residues at the i to i + 4 positions with a negatively charged amino acid ( e.g. , E ) and a positively charged amino acid ( e.g. , K ) in HR2P for introduction of intramolecular salt-bridges ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the resultant peptide HR2P-M2 exhibited improved solubility ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "stability , and anti-MERS-CoV activity ( 5 , 9 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , its potency is still not strong enough to warrant clinical development .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "By screening an extra-large phage-displayed antibody Fab library, Ying et al. identified a human neutralizing monoclonal antibody (hmAb), m336, which is specific for the RBD in the S protein S1 subunit. It exhibited highly potent neutralizing activity against MERS-CoV infection, both in vitro and in vivo [10] [11] [12] [13] . X-ray crystallography has shown that the binding epitope of m336 on MERS-CoV S protein almost completely overlaps with the binding site of DPP4 [14] . However, the future clinical application of m336 could be limited by its inability to neutralize MERS-CoV strains with mutations in RBD, like the mouse neutralizing mAb Mersmab1 with similar weakness [15, 16] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "By screening an extra-large phage-displayed antibody Fab library ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Ying et al. identified a human neutralizing monoclonal antibody ( hmAb ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "m336 , which is specific for the RBD in the S protein S1 subunit .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It exhibited highly potent neutralizing activity against MERS-CoV infection ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "both in vitro and in vivo ( 10 ) ( 11 ) ( 12 ) ( 13 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "X-ray crystallography has shown that the binding epitope of m336 on MERS-CoV S protein almost completely overlaps with the binding site of DPP4 ( 14 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the future clinical application of m336 could be limited by its inability to neutralize MERS-CoV strains with mutations in RBD ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "like the mouse neutralizing mAb Mersmab1 with similar weakness ( 15 , 16 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In this study, we compared the sensitivity of a pseudotyped MERS-CoV wild-type strain with that of strains with key mutations, including D509G, D510G, Q522H, and I529T, which were detected in the RBD of some MERS-CoV strains isolated from different regions and at different times throughout the course of the MERS outbreak from 2012 to 2015 [17, 18] . We found that these strains with mutations in RBD were significantly less sensitive than the wild-type strain to the neutralizing activity of m336, while the pseudoviruses with or without mutations showed equal sensitivity to the fusion inhibitory activity of HR2P-M2. Interestingly, when m336 was combined with HR2P-M2, a strong synergism emerged against MERS-CoV S-mediated cell-cell fusion and infection by pseudotyped MERS-CoV strains with or without mutations in RBD, suggesting that this combinational therapy could be further developed for clinical use to treat patients infected by the MERS-CoV strains with or without mutations in RBD.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this study , we compared the sensitivity of a pseudotyped MERS-CoV wild-type strain with that of strains with key mutations ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "including D509G , D510G , Q522H ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and I529T , which were detected in the RBD of some MERS-CoV strains isolated from different regions and at different times throughout the course of the MERS outbreak from 2012 to 2015 ( 17 , 18 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We found that these strains with mutations in RBD were significantly less sensitive than the wild-type strain to the neutralizing activity of m336 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while the pseudoviruses with or without mutations showed equal sensitivity to the fusion inhibitory activity of HR2P-M2 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Interestingly , when m336 was combined with HR2P-M2 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a strong synergism emerged against MERS-CoV S-mediated cell-cell fusion and infection by pseudotyped MERS-CoV strains with or without mutations in RBD ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "suggesting that this combinational therapy could be further developed for clinical use to treat patients infected by the MERS-CoV strains with or without mutations in RBD .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "17",
+    "segment_num": "33",
+    "token_num": "685"
+  }
+}

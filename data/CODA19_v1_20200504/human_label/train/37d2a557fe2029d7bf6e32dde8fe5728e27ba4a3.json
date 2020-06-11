@@ -1,0 +1,137 @@
+{
+  "paper_id": "37d2a557fe2029d7bf6e32dde8fe5728e27ba4a3",
+  "metadata": {
+    "title": "A binning tool to reconstruct viral haplotypes from assembled contigs",
+    "coda_data_split": "train",
+    "coda_paper_id": 2381,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Infections by RNA viruses such as Influenza, HIV still pose a serious threat to human health despite extensive research on viral diseases. One challenge for producing effective prevention and treatment strategies is high intra-species genetic diversity. As different strains may have different biological properties, characterizing the genetic diversity is thus important to vaccine and drug design. Next-generation sequencing technology enables comprehensive characterization of both known and novel strains and has been widely adopted for sequencing viral populations. However, genome-scale reconstruction of haplotypes is still a challenging problem. In particular, haplotype assembly programs often produce contigs rather than full genomes. As a mutation in one gene can mask the phenotypic effects of a mutation at another locus, clustering these contigs into genome-scale haplotypes is still needed. Results: We developed a contig binning tool, VirBin, which clusters contigs into different groups so that each group represents a haplotype. Commonly used features based on sequence composition and contig coverage cannot effectively distinguish viral haplotypes because of their high sequence similarity and heterogeneous sequencing coverage for RNA viruses. VirBin applied prototype-based clustering to cluster regions that are more likely to contain mutations specific to a haplotype. The tool was tested on multiple simulated sequencing data with different haplotype abundance distributions and contig sizes, and also on mock quasispecies sequencing data. The benchmark results with other contig binning tools demonstrated the superior sensitivity and precision of VirBin in contig binning for viral haplotype reconstruction. Conclusions: In this work, we presented VirBin, a new contig binning tool for distinguishing contigs from different viral haplotypes with high sequence similarity. It competes favorably with other tools on viral contig binning. The source codes are available at: https://github.com/chjiao/VirBin.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Infections by RNA viruses such as Influenza ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "HIV still pose a serious threat to human health despite extensive research on viral diseases .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "One challenge for producing effective prevention and treatment strategies is high intra-species genetic diversity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As different strains may have different biological properties ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "characterizing the genetic diversity is thus important to vaccine and drug design .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Next-generation sequencing technology enables comprehensive characterization of both known and novel strains and has been widely adopted for sequencing viral populations .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , genome-scale reconstruction of haplotypes is still a challenging problem .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In particular , haplotype assembly programs often produce contigs rather than full genomes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As a mutation in one gene can mask the phenotypic effects of a mutation at another locus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "clustering these contigs into genome-scale haplotypes is still needed .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results : We developed a contig binning tool ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "VirBin , which clusters contigs into different groups so that each group represents a haplotype .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Commonly used features based on sequence composition and contig coverage can not effectively distinguish viral haplotypes because of their high sequence similarity and heterogeneous sequencing coverage for RNA viruses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "VirBin applied prototype-based clustering to cluster regions that are more likely to contain mutations specific to a haplotype .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The tool was tested on multiple simulated sequencing data with different haplotype abundance distributions and contig sizes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and also on mock quasispecies sequencing data .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The benchmark results with other contig binning tools demonstrated the superior sensitivity and precision of VirBin in contig binning for viral haplotype reconstruction .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Conclusions : In this work ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we presented VirBin , a new contig binning tool for distinguishing contigs from different viral haplotypes with high sequence similarity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It competes favorably with other tools on viral contig binning .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The source codes are available at : https://github.com/chjiao/VirBin .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "15",
+    "segment_num": "21",
+    "token_num": "310"
+  }
+}

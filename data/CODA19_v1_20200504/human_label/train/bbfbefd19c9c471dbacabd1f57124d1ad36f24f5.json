@@ -1,0 +1,105 @@
+{
+  "paper_id": "bbfbefd19c9c471dbacabd1f57124d1ad36f24f5",
+  "metadata": {
+    "title": "Selection of Reference Genes for Gene Expression Studies in Porcine Whole Blood and Peripheral Blood Mononuclear Cells under Polyinosinic:Polycytidylic Acid Stimulation",
+    "coda_data_split": "train",
+    "coda_paper_id": 5639,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Investigating gene expression of immune cells of whole blood or peripheral blood mononuclear cells (PBMC) under polyinosinic:polycytidylic acid (poly I:C) stimulation is valuable for understanding the immune response of organism to RNA viruses. Quantitative real-time PCR (qRT-PCR) is a standard method for quantification of gene expression studies. However, the reliability of qRT-PCR data critically depends on proper selection of reference genes. In the study, using two different analysis programs, geNorm and NormFinder, we systematically evaluated the gene expression stability of six candidate reference genes (GAPDH, ACTB, B2M, RPL4, TBP, and PPIA) in samples of whole blood and PBMC with or without poly I:C stimulation. Generally, the six candidate genes performed a similar trend of expression stability in the samples of whole blood and PBMC, but more stably expressed in whole blood than in PBMC. geNorm ranked B2M and PPIA as the best combination for gene expression normalization, while according to NormFinder, TBP was ranked as the most stable reference gene, followed by B2M and PPIA. Comprehensively considering the results from the two programs, we recommended using the geometric mean of the three genes, TBP, PPIA and B2M, to normalize the gene expression of whole blood and PBMC with poly I:C stimulation. Our study is the first detailed survey of the gene expression stability in whole blood and PBMC with or without poly I:C stimulation and should be helpful for investigating the molecular mechanism involved in porcine whole blood and PBMC in response to poly I:C stimulation. (",
+      "sentences": [
+        [
+          {
+            "segment_text": "Investigating gene expression of immune cells of whole blood or peripheral blood mononuclear cells ( PBMC ) under polyinosinic : polycytidylic acid ( poly I : C ) stimulation is valuable for understanding the immune response of organism to RNA viruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Quantitative real-time PCR ( qRT-PCR ) is a standard method for quantification of gene expression studies .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the reliability of qRT-PCR data critically depends on proper selection of reference genes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the study , using two different analysis programs ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "geNorm and NormFinder , we systematically evaluated the gene expression stability of six candidate reference genes ( GAPDH , ACTB , B2M , RPL4 , TBP , and PPIA ) in samples of whole blood and PBMC with or without poly I : C stimulation .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Generally , the six candidate genes performed a similar trend of expression stability in the samples of whole blood and PBMC ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but more stably expressed in whole blood than in PBMC .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "geNorm ranked B2M and PPIA as the best combination for gene expression normalization ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while according to NormFinder , TBP was ranked as the most stable reference gene ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "followed by B2M and PPIA .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Comprehensively considering the results from the two programs ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we recommended using the geometric mean of the three genes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "TBP , PPIA and B2M ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "to normalize the gene expression of whole blood and PBMC with poly I : C stimulation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our study is the first detailed survey of the gene expression stability in whole blood and PBMC with or without poly I : C stimulation and should be helpful for investigating the molecular mechanism involved in porcine whole blood and PBMC in response to poly I : C stimulation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "(",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "9",
+    "segment_num": "16",
+    "token_num": "293"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "paper_id": "c0e284c9dd2ca500ae5f10d04d0639d0f8779a16",
+  "metadata": {
+    "title": "Time-series analysis for porcine reproductive and respiratory syndrome in the United States",
+    "coda_data_split": "train",
+    "coda_paper_id": 8970,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Industry-driven voluntary disease control programs for swine diseases emerged in North America in the early 2000\u0027s, and, since then, those programs have been used for monitoring diseases of economic importance to swine producers. One example of such initiatives is Dr. Morrison\u0027s Swine Health Monitoring Project, a nation-wide monitoring program for swine diseases including the porcine reproductive and respiratory syndrome (PRRS). PRRS has been extensively reported as a seasonal disease in the U.S., with predictable peaks that start in fall and are extended through the winter season. However, formal time series analysis stratified by geographic region has never been conducted for this important disease across the U.S. The main objective of this study was to use approximately seven years of PRRS incidence data in breeding swine herds to conduct time-series analysis in order to describe the temporal patterns of PRRS outbreaks at the farm level for five major swineproducing states across the U.S. including the states of Minnesota, Iowa, North Carolina, Nebraska and Illinois. Data was aggregated retrospectively at the week level for the number of herds containing animals actively shedding PRRS virus. Basic descriptive statistics were conducted followed by autoregressive integrated moving average (ARIMA) modelling, conducted separately for each of the above-mentioned states. Results showed that there was a difference in the nature of PRRS seasonality among states. Of note, when comparing states, the typical seasonal pattern previously described for PRRS could only be detected for farms located in the states of Minnesota, North Carolina and Nebraska. For the other two states, seasonal peaks every six months were detected within a year. In conclusion, we showed that epidemic patterns are not homogeneous across the U.S, with major peaks of disease occurring through the year. These findings highlight the importance of coordinating alternative control strategies in different regions considering the prevailing epidemiological patterns.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Industry-driven voluntary disease control programs for swine diseases emerged in North America in the early 2000 \u0027s ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and , since then , those programs have been used for monitoring diseases of economic importance to swine producers .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "One example of such initiatives is Dr. Morrison \u0027s Swine Health Monitoring Project ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a nation-wide monitoring program for swine diseases including the porcine reproductive and respiratory syndrome ( PRRS ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "PRRS has been extensively reported as a seasonal disease in the U.S. ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with predictable peaks that start in fall and are extended through the winter season .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , formal time series analysis stratified by geographic region has never been conducted for this important disease across the U.S. .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The main objective of this study was to use approximately seven years of PRRS incidence data in breeding swine herds to conduct time-series analysis in order to describe the temporal patterns of PRRS outbreaks at the farm level for five major swineproducing states across the U.S. including the states of Minnesota ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "Iowa , North Carolina , Nebraska and Illinois .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Data was aggregated retrospectively at the week level for the number of herds containing animals actively shedding PRRS virus .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Basic descriptive statistics were conducted followed by autoregressive integrated moving average ( ARIMA ) modelling ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "conducted separately for each of the above-mentioned states .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results showed that there was a difference in the nature of PRRS seasonality among states .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Of note , when comparing states ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the typical seasonal pattern previously described for PRRS could only be detected for farms located in the states of Minnesota , North Carolina and Nebraska .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "For the other two states ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "seasonal peaks every six months were detected within a year .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In conclusion , we showed that epidemic patterns are not homogeneous across the U.S ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with major peaks of disease occurring through the year .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These findings highlight the importance of coordinating alternative control strategies in different regions considering the prevailing epidemiological patterns .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "12",
+    "segment_num": "20",
+    "token_num": "336"
+  }
+}

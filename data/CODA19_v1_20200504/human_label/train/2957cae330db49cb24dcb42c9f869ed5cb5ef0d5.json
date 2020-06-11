@@ -1,0 +1,90 @@
+{
+  "paper_id": "2957cae330db49cb24dcb42c9f869ed5cb5ef0d5",
+  "metadata": {
+    "title": "7-methylguanosine cap Viral subversion of the host protein synthesis machinery",
+    "coda_data_split": "train",
+    "coda_paper_id": 7924,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "A 7-methylguanosine linked to the 5′ end of an mRNA, via a 5′-5′ triphosphate linkage, to mark the extreme 5′ terminus of a eukaryotic mRNA. In addition to having regulatory roles in pre-mRNA processing and mRNA stability, the cap structure controls ribosome recruitment to the mRNA 5′ end.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A 7-methylguanosine linked to the 5 ′ end of an mRNA ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "via a 5 ′ -5 ′ triphosphate linkage ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "to mark the extreme 5 ′ terminus of a eukaryotic mRNA .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition to having regulatory roles in pre-mRNA processing and mRNA stability ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the cap structure controls ribosome recruitment to the mRNA 5 ′ end .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Abstract | Viruses are fully reliant on the translation machinery of their host cells to produce the polypeptides that are essential for viral replication. Consequently, viruses recruit host ribosomes to translate viral mRNAs, typically using virally encoded functions to seize control of cellular translation factors and the host signalling pathways that regulate their activity. This not only ensures that viral proteins will be produced, but also stifles innate host defences that are aimed at inhibiting the capacity of infected cells for protein synthesis. Remarkably, nearly every step of the translation process can be targeted by virally encoded functions. This Review discusses the diverse strategies that viruses use to subvert host protein synthesis functions and regulate mRNA translation in infected cells.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Abstract | Viruses are fully reliant on the translation machinery of their host cells to produce the polypeptides that are essential for viral replication .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Consequently , viruses recruit host ribosomes to translate viral mRNAs ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "typically using virally encoded functions to seize control of cellular translation factors and the host signalling pathways that regulate their activity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This not only ensures that viral proteins will be produced ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but also stifles innate host defences that are aimed at inhibiting the capacity of infected cells for protein synthesis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Remarkably , nearly every step of the translation process can be targeted by virally encoded functions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This Review discusses the diverse strategies that viruses use to subvert host protein synthesis functions and regulate mRNA translation in infected cells .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "7",
+    "segment_num": "12",
+    "token_num": "188"
+  }
+}

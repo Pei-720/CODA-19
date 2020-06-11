@@ -1,0 +1,256 @@
+{
+  "paper_id": "20af160641510a4c79b9a23b06ea83d27ebba059",
+  "metadata": {
+    "title": "The nucleolar protein GLTSCR2 is required for efficient viral replication OPEN",
+    "coda_data_split": "train",
+    "coda_paper_id": 4368,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "In the investigation of the role of GLTSCR2 that played in the cellular innate immune response to viral infection, we found GLTSCR2 supported viral replication of rhabdovirus, paramyxovirus, and coronavirus in cells. Viral infection induced translocation of GLTSCR2 from nucleus to cytoplasm that enabled GLTSCR2 to attenuate type I interferon IFN-β and support viral replication. Cytoplasmic GLTSCR2 was able to interact with retinoic acid-inducible gene I (RIG-I) and the ubiquitin-specific protease 15 (USP15), and the triple interaction induced USP15 activity to remove K63-linked ubiquitination of RIG-I, leading to attenuation of RIG-I and IFN-β. Blocking cytoplasmic translocation of GLTSCR2, by deletion of its nuclear export sequence (NES), abrogated its ability to attenuate IFN-β and support viral replication. GLTSCR2-mediated attenuation of RIG-I and IFN-β led to alleviation of host cell innate immune response to viral infection. Our findings suggested that GLTSCR2 contributed to efficient viral replication, and GLTSCR2 should be considered as a potential target for therapeutic control of viral infection.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In the investigation of the role of GLTSCR2 that played in the cellular innate immune response to viral infection ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "we found GLTSCR2 supported viral replication of rhabdovirus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "paramyxovirus , and coronavirus in cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Viral infection induced translocation of GLTSCR2 from nucleus to cytoplasm that enabled GLTSCR2 to attenuate type I interferon IFN-β and support viral replication .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Cytoplasmic GLTSCR2 was able to interact with retinoic acid-inducible gene I ( RIG-I ) and the ubiquitin-specific protease 15 ( USP15 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the triple interaction induced USP15 activity to remove K63-linked ubiquitination of RIG-I ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "leading to attenuation of RIG-I and IFN-β .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Blocking cytoplasmic translocation of GLTSCR2 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "by deletion of its nuclear export sequence ( NES ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "abrogated its ability to attenuate IFN-β and support viral replication .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "GLTSCR2-mediated attenuation of RIG-I and IFN-β led to alleviation of host cell innate immune response to viral infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our findings suggested that GLTSCR2 contributed to efficient viral replication ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and GLTSCR2 should be considered as a potential target for therapeutic control of viral infection .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Innate immunity is critical for defending the host from pathogens, and type I interferon (IFN) is the core of cellular antiviral response 1-5 . Upon viral infection, host pattern recognition receptors (PRRs), such as the retinoic acid-induced gene I (RIG-I)-like receptors (RLRs), are able to detect viral nucleic acids and initiate a series of cell signals, leading to induction of type I IFN and proinflammatory cytokines 2-5 . RIG-I, a family member of RLRs, interacts with viral RNA and recruits mitochondrial-associated virus stimulator (MAVS, also known as IPS-1, Cardif, and VISA) 6,7 . MAVS recruits tumor necrosis receptor-associated factor 3 (TRAF3) that results in TRAF3 lysine 63 (K63)-linked auto-ubiquitination to provide docking sites for TANK binding kinase 1/I kappa-B kinase epsilon (TBK1/IKKε ) complex 8-10 . This complex undergoes auto-phosphorylation-mediated activation, resulting in phosphorylating and activating the type I IFN regulatory factor IRF3 or/and IRF7 to form homodimers or heterodimers that translocate into the nucleus for induction of type I IFN 10,11 . The complex also activates canonical IKK for NF-κ B activation to induce proinflammatory cytokines 12 . Studies also showed that dephosphorylation (Thr170) of RIG-I by the phosphatase PP1 α /γ 13 and K63-linked ubiquitination (Lys172) of RIG-I by the ubiquitin E3 ligase tripartite motif proteins TRIM25 14 and TRIM4 15 lead to RIG-I activation and type I IFN production. Studies have shown that viral infection, including rhabdovirus, paramyxovirus, coronavirus, and herpesvirus, may counteract RIG-I-dependent IFN antiviral response 16 . Rabies virus is a member of the Rhabdoviridae family, and Rabies virus (Ni strain)-expressed N protein has a function to evade the activation of RIG-I and RIG-I-mediated innate immunity 17 . Respiratory syncytial virus (RSV) is a member of the Paramyxoviridae family, and RSV-expressed nonstructural NS2 protein inhibits IFN transcription induced by binding RIG-I and inhibiting its interaction with the downstream component MAVS 18 . Porcine epidemic diarrhea virus (PEDV) is a member of the Coronaviridae family, and PEDV-expressed papain-like protease 2 (PLP2), which has deubiqutinase (DUB) activity, reduces both K48-linked and K63-linked polyubiquitin chains and inhibits RIG-I-activated IFN expression 19 . Herpes simplex virus type 1 (HSV-1)-expressed US11 protein antagonizes IFN-β production by binding RIG-I 20 . Kaposi\u0027s sarcoma-associated herpesvirus (KSHV)-expressed ORF64, which is a tegument protein with DUB activity, suppresses type I IFN signaling by blocking the ubiquitination of RIG-I 21 . Cellular ubiquitin-specific proteases (USPs), a subfamily of DUB 22 , regulate ubiquitination of RIG-I 23 . USP21 and USP15 remove K63-linked polyubiquitin chains from RIG-I and block the ability of RIG-I to induce IFN-β 24,25 . USP15",
+      "sentences": [
+        [
+          {
+            "segment_text": "Innate immunity is critical for defending the host from pathogens ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and type I interferon ( IFN ) is the core of cellular antiviral response 1-5 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Upon viral infection , host pattern recognition receptors ( PRRs ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as the retinoic acid-induced gene I ( RIG-I ) - like receptors ( RLRs ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "are able to detect viral nucleic acids and initiate a series of cell signals ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "leading to induction of type I IFN and proinflammatory cytokines 2-5 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "RIG-I , a family member of RLRs ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "interacts with viral RNA and recruits mitochondrial-associated virus stimulator ( MAVS , also known as IPS-1 , Cardif , and VISA ) 6,7 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "MAVS recruits tumor necrosis receptor-associated factor 3 ( TRAF3 ) that results in TRAF3 lysine 63 ( K63 ) - linked auto-ubiquitination to provide docking sites for TANK binding kinase 1/I kappa-B kinase epsilon ( TBK1/IKKε ) complex 8-10 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This complex undergoes auto-phosphorylation-mediated activation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "resulting in phosphorylating and activating the type I IFN regulatory factor IRF3 or/and IRF7 to form homodimers or heterodimers that translocate into the nucleus for induction of type I IFN 10,11 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The complex also activates canonical IKK for NF-κ B activation to induce proinflammatory cytokines 12 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Studies also showed that dephosphorylation ( Thr170 ) of RIG-I by the phosphatase PP1 α / γ 13 and K63-linked ubiquitination ( Lys172 ) of RIG-I by the ubiquitin E3 ligase tripartite motif proteins TRIM25 14 and TRIM4 15 lead to RIG-I activation and type I IFN production .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Studies have shown that viral infection ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including rhabdovirus , paramyxovirus , coronavirus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and herpesvirus , may counteract RIG-I-dependent IFN antiviral response 16 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Rabies virus is a member of the Rhabdoviridae family ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and Rabies virus ( Ni strain ) - expressed N protein has a function to evade the activation of RIG-I and RIG-I-mediated innate immunity 17 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Respiratory syncytial virus ( RSV ) is a member of the Paramyxoviridae family ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and RSV-expressed nonstructural NS2 protein inhibits IFN transcription induced by binding RIG-I and inhibiting its interaction with the downstream component MAVS 18 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Porcine epidemic diarrhea virus ( PEDV ) is a member of the Coronaviridae family ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and PEDV-expressed papain-like protease 2 ( PLP2 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which has deubiqutinase ( DUB ) activity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "reduces both K48-linked and K63-linked polyubiquitin chains and inhibits RIG-I-activated IFN expression 19 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Herpes simplex virus type 1 ( HSV-1 ) - expressed US11 protein antagonizes IFN-β production by binding RIG-I 20 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Kaposi \u0027s sarcoma-associated herpesvirus ( KSHV ) - expressed ORF64 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which is a tegument protein with DUB activity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "suppresses type I IFN signaling by blocking the ubiquitination of RIG-I 21 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Cellular ubiquitin-specific proteases ( USPs ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a subfamily of DUB 22 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "regulate ubiquitination of RIG-I 23 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "USP21 and USP15 remove K63-linked polyubiquitin chains from RIG-I and block the ability of RIG-I to induce IFN-β 24,25 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "USP15",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "22",
+    "segment_num": "46",
+    "token_num": "674"
+  }
+}

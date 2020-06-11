@@ -1,0 +1,97 @@
+{
+  "paper_id": "4e0851aa892c56090edbc47e9506313d2a1b20e0",
+  "metadata": {
+    "title": "Incorporating indel information into phylogeny estimation for rapidly emerging pathogens",
+    "coda_data_split": "train",
+    "coda_paper_id": 3052,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Phylogenies of rapidly evolving pathogens can be difficult to resolve because of the small number of substitutions that accumulate in the short times since divergence. To improve resolution of such phylogenies we propose using insertion and deletion (indel) information in addition to substitution information. We accomplish this through joint estimation of alignment and phylogeny in a Bayesian framework, drawing inference using Markov chain Monte Carlo. Joint estimation of alignment and phylogeny sidesteps biases that stem from conditioning on a single alignment by taking into account the ensemble of near-optimal alignments.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Phylogenies of rapidly evolving pathogens can be difficult to resolve because of the small number of substitutions that accumulate in the short times since divergence .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To improve resolution of such phylogenies we propose using insertion and deletion ( indel ) information in addition to substitution information .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We accomplish this through joint estimation of alignment and phylogeny in a Bayesian framework ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "drawing inference using Markov chain Monte Carlo .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Joint estimation of alignment and phylogeny sidesteps biases that stem from conditioning on a single alignment by taking into account the ensemble of near-optimal alignments .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We introduce a novel Markov chain transition kernel that improves computational efficiency by proposing non-local topology rearrangements and by block sampling alignment and topology parameters. In addition, we extend our previous indel model to increase biological realism by placing indels preferentially on longer branches. We demonstrate the ability of indel information to increase phylogenetic resolution in examples drawn from within-host viral sequence samples. We also demonstrate the importance of taking alignment uncertainty into account when using such information. Finally, we show that codon-based substitution models can significantly affect alignment quality and phylogenetic inference by unrealistically forcing indels to begin and end between codons.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We introduce a novel Markov chain transition kernel that improves computational efficiency by proposing non-local topology rearrangements and by block sampling alignment and topology parameters .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , we extend our previous indel model to increase biological realism by placing indels preferentially on longer branches .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We demonstrate the ability of indel information to increase phylogenetic resolution in examples drawn from within-host viral sequence samples .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also demonstrate the importance of taking alignment uncertainty into account when using such information .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , we show that codon-based substitution models can significantly affect alignment quality and phylogenetic inference by unrealistically forcing indels to begin and end between codons .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "These results indicate that indel information can improve phylogenetic resolution of recently diverged pathogens and that alignment uncertainty should be considered in such analyses.",
+      "sentences": [
+        [
+          {
+            "segment_text": "These results indicate that indel information can improve phylogenetic resolution of recently diverged pathogens and that alignment uncertainty should be considered in such analyses .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "10",
+    "segment_num": "11",
+    "token_num": "234"
+  }
+}

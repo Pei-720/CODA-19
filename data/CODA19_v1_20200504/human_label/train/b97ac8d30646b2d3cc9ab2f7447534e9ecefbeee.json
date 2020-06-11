@@ -1,0 +1,172 @@
+{
+  "paper_id": "b97ac8d30646b2d3cc9ab2f7447534e9ecefbeee",
+  "metadata": {
+    "title": "Differential transcriptional profiles identify microglial-and macrophage-specific gene markers expressed during virus-induced neuroinflammation",
+    "coda_data_split": "train",
+    "coda_paper_id": 9989,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: In the healthy central nervous system (CNS), microglia are found in a homeostatic state and peripheral macrophages are absent from the brain. Microglia play key roles in maintaining CNS homeostasis and acting as first responders to infection and inflammation, and peripheral macrophages infiltrate the CNS during neuroinflammation. Due to their distinct origins and functions, discrimination between these cell populations is essential to the comprehension of neuroinflammatory disorders. Studies comparing the gene profiles of microglia and peripheral macrophages, or macrophages in vitro-derived from bone marrow, under non-infectious conditions of the CNS, have revealed valuable microglial-specific genes. However, studies comparing gene profiles between CNS-infiltrating macrophages and microglia, when both are isolated from the CNS during viral-induced neuroinflammation, are lacking.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : In the healthy central nervous system ( CNS ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "microglia are found in a homeostatic state and peripheral macrophages are absent from the brain .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Microglia play key roles in maintaining CNS homeostasis and acting as first responders to infection and inflammation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and peripheral macrophages infiltrate the CNS during neuroinflammation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Due to their distinct origins and functions ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "discrimination between these cell populations is essential to the comprehension of neuroinflammatory disorders .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Studies comparing the gene profiles of microglia and peripheral macrophages ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "or macrophages in vitro-derived from bone marrow ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "under non-infectious conditions of the CNS ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "have revealed valuable microglial-specific genes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , studies comparing gene profiles between CNS-infiltrating macrophages and microglia ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "when both are isolated from the CNS during viral-induced neuroinflammation , are lacking .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Methods: We isolated, via flow cytometry, microglia and infiltrating macrophages from the brains of Theiler\u0027s murine encephalomyelitis virus-infected C57BL/6 J mice and used RNA-Seq, followed by validation with qPCR, to examine the differential transcriptional profiles of these cells. We utilized primary literature defining subcellular localization to determine whether or not particular proteins extracted from the transcriptional profiles were expressed at the cell surface. The surface expression and cellular specificity of triggering receptor expressed on myeloid cells 1 (TREM-1) protein were examined via flow cytometry. We also examined the immune response gene profile within the transcriptional profiles of these isolated microglia and infiltrating macrophages.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Methods : We isolated , via flow cytometry ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "microglia and infiltrating macrophages from the brains of Theiler \u0027s murine encephalomyelitis virus-infected C57BL/6 J mice and used RNA-Seq ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "followed by validation with qPCR ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "to examine the differential transcriptional profiles of these cells .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We utilized primary literature defining subcellular localization to determine whether or not particular proteins extracted from the transcriptional profiles were expressed at the cell surface .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The surface expression and cellular specificity of triggering receptor expressed on myeloid cells 1 ( TREM-1 ) protein were examined via flow cytometry .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also examined the immune response gene profile within the transcriptional profiles of these isolated microglia and infiltrating macrophages .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We have identified and validated new microglial-and macrophage-specific genes, encoding cell surface proteins, expressed at the peak of neuroinflammation. TREM-1 protein was confirmed to be expressed by infiltrating macrophages, not microglia, at the peak of neuroinflammation. We also identified both unique and redundant immune functions, through examination of the immune response gene profiles, of microglia and infiltrating macrophages during neurotropic viral infection.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We have identified and validated new microglial-and macrophage-specific genes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "encoding cell surface proteins , expressed at the peak of neuroinflammation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "TREM-1 protein was confirmed to be expressed by infiltrating macrophages ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "not microglia , at the peak of neuroinflammation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also identified both unique and redundant immune functions ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "through examination of the immune response gene profiles ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "of microglia and infiltrating macrophages during neurotropic viral infection .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The differential expression of cell surface-specific genes during neuroinflammation can potentially be used to discriminate between microglia and macrophages as well as provide a resource that can be further utilized to target and manipulate specific cell responses during neuroinflammation.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The differential expression of cell surface-specific genes during neuroinflammation can potentially be used to discriminate between microglia and macrophages as well as provide a resource that can be further utilized to target and manipulate specific cell responses during neuroinflammation .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "13",
+    "segment_num": "27",
+    "token_num": "361"
+  }
+}

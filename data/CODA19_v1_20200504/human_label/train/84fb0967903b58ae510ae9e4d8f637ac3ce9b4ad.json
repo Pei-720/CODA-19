@@ -1,0 +1,172 @@
+{
+  "paper_id": "84fb0967903b58ae510ae9e4d8f637ac3ce9b4ad",
+  "metadata": {
+    "title": "A novel membrane fusion protein family in Flaviviridae? NIH Public Access NIH-PA Author Manuscript A conserved overall mechanism and topology of catalysis of viral membrane fusion",
+    "coda_data_split": "train",
+    "coda_paper_id": 3976,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Enveloped viruses must fuse their lipid membrane to a cellular membrane to deliver their genome into the cytoplasm for replication. Viral envelope proteins catalyze this critical membrane fusion event. They fall into three distinct structural classes. In 2013, envelope proteins from a pestivirus and hepatitis C virus were found to have two distinct novel folds. This was unexpected because these viruses are in the same family as flaviviruses, which have class II fusion proteins. We propose that the membrane fusion machinery of the closely related pestiviruses and hepatitis C virus defines a new structural class. This and other recently identified structural relationships between viral fusion proteins shift the paradigm for how these proteins evolved.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Enveloped viruses must fuse their lipid membrane to a cellular membrane to deliver their genome into the cytoplasm for replication .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Viral envelope proteins catalyze this critical membrane fusion event .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "They fall into three distinct structural classes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In 2013 , envelope proteins from a pestivirus and hepatitis C virus were found to have two distinct novel folds .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This was unexpected because these viruses are in the same family as flaviviruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which have class II fusion proteins .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We propose that the membrane fusion machinery of the closely related pestiviruses and hepatitis C virus defines a new structural class .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This and other recently identified structural relationships between viral fusion proteins shift the paradigm for how these proteins evolved .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In many viruses, the genome is enveloped in a lipid membrane. Viral envelope proteins anchored in the membrane fulfill indispensable functions throughout the lifecycle of the virus. Envelope proteins drive virus assembly, form the protective outer shell of the virus, mediate cellular attachment and tropism, and catalyze the fusion of the viral and host cell membranes to deliver the viral genome into the cytoplasm for replication. Envelope proteins also provide a shield against the host\u0027s immune system and bear most of the neutralizing antibody epitopes against any given virus. In viruses with more than one envelope protein, the proteins responsible for cellular attachment are as varied as the host cell receptors that they recognize. In contrast, the viral envelope proteins that catalyze the essential membrane fusion step in cell entry fall into three broad yet distinct structural classes (Figure 1 ). The influenza virus hemagglutinin (HA) is the prototype of class I fusion proteins [1] , which encompass those of other orthomyxoviruses, and of paramyxoviruses [2], retroviruses [3, 4] , filoviruses [5] , and coronaviruses [6, 7] . The unifying structural features of class I fusion proteins are a proteolytically generated N-terminal fusion peptide, and a core consisting of three bundled α-helices in the prefusion conformation, which refolds into a six-helix bundle in the postfusion conformation [8] . Class II fusion proteins are a structurally unrelated class found in flaviviruses [9], alphaviruses [10], and most recently in rubella virus (sole member",
+      "sentences": [
+        [
+          {
+            "segment_text": "In many viruses , the genome is enveloped in a lipid membrane .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Viral envelope proteins anchored in the membrane fulfill indispensable functions throughout the lifecycle of the virus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Envelope proteins drive virus assembly ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "form the protective outer shell of the virus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "mediate cellular attachment and tropism ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and catalyze the fusion of the viral and host cell membranes to deliver the viral genome into the cytoplasm for replication .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Envelope proteins also provide a shield against the host \u0027s immune system and bear most of the neutralizing antibody epitopes against any given virus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In viruses with more than one envelope protein ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the proteins responsible for cellular attachment are as varied as the host cell receptors that they recognize .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In contrast , the viral envelope proteins that catalyze the essential membrane fusion step in cell entry fall into three broad yet distinct structural classes ( Figure 1 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The influenza virus hemagglutinin ( HA ) is the prototype of class I fusion proteins ( 1 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which encompass those of other orthomyxoviruses ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and of paramyxoviruses ( 2 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "retroviruses ( 3 , 4 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "filoviruses ( 5 ) , and coronaviruses ( 6 , 7 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The unifying structural features of class I fusion proteins are a proteolytically generated N-terminal fusion peptide ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and a core consisting of three bundled α-helices in the prefusion conformation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which refolds into a six-helix bundle in the postfusion conformation ( 8 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Class II fusion proteins are a structurally unrelated class found in flaviviruses ( 9 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "alphaviruses ( 10 ) , and most recently in rubella virus ( sole member",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "16",
+    "segment_num": "28",
+    "token_num": "405"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "paper_id": "d0acac75cb3d2c19abfe061a5b1530b1dbbc6922",
+  "metadata": {
+    "title": "Dominating Biological Networks",
+    "coda_data_split": "train",
+    "coda_paper_id": 7304,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Proteins are essential macromolecules of life that carry out most cellular processes. Since proteins aggregate to perform function, and since protein-protein interaction (PPI) networks model these aggregations, one would expect to uncover new biology from PPI network topology. Hence, using PPI networks to predict protein function and role of protein pathways in disease has received attention.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Proteins are essential macromolecules of life that carry out most cellular processes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Since proteins aggregate to perform function ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and since protein-protein interaction ( PPI ) networks model these aggregations ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "one would expect to uncover new biology from PPI network topology .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hence , using PPI networks to predict protein function and role of protein pathways in disease has received attention .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "A debate remains open about whether network properties of \u0027\u0027biologically central (BC)\u0027\u0027 genes (i.e., their protein products), such as those involved in aging, cancer, infectious diseases, or signaling and drugtargeted pathways, exhibit some topological centrality compared to the rest of the proteins in the human PPI network. To help resolve this debate, we design new network-based approaches and apply them to get new insight into biological function and disease. We hypothesize that BC genes have a topologically central (TC) role in the human PPI network. We propose two different concepts of topological centrality. We design a new centrality measure to capture complex wirings of proteins in the network that identifies as TC those proteins that reside in dense extended network neighborhoods. Also, we use the notion of domination and find dominating sets (DSs) in the PPI network, i.e., sets of proteins such that every protein is either in the DS or is a neighbor of the DS. Clearly, a DS has a TC role, as it enables efficient communication between different network parts. We find statistically significant enrichment in BC genes of TC nodes and outperform the existing methods indicating that genes involved in key biological processes occupy topologically complex and dense regions of the network and correspond to its \u0027\u0027spine\u0027\u0027 that connects all other network parts and can thus pass cellular signals efficiently throughout the network. To our knowledge, this is the first study that explores domination in the context of PPI networks.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A debate remains open about whether network properties of `` biologically central ( BC ) \u0027\u0027 genes ( i.e. , their protein products ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as those involved in aging ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "cancer , infectious diseases , or signaling and drugtargeted pathways ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "exhibit some topological centrality compared to the rest of the proteins in the human PPI network .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To help resolve this debate ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "we design new network-based approaches and apply them to get new insight into biological function and disease .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We hypothesize that BC genes have a topologically central ( TC ) role in the human PPI network .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We propose two different concepts of topological centrality .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We design a new centrality measure to capture complex wirings of proteins in the network that identifies as TC those proteins that reside in dense extended network neighborhoods .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Also , we use the notion of domination and find dominating sets ( DSs ) in the PPI network ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "i.e. , sets of proteins such that every protein is either in the DS or is a neighbor of the DS .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Clearly , a DS has a TC role ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as it enables efficient communication between different network parts .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We find statistically significant enrichment in BC genes of TC nodes and outperform the existing methods indicating that genes involved in key biological processes occupy topologically complex and dense regions of the network and correspond to its `` spine \u0027\u0027 that connects all other network parts and can thus pass cellular signals efficiently throughout the network .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "To our knowledge , this is the first study that explores domination in the context of PPI networks .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "12",
+    "segment_num": "20",
+    "token_num": "342"
+  }
+}

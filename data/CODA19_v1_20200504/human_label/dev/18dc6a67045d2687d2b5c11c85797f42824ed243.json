@@ -1,0 +1,117 @@
+{
+  "paper_id": "18dc6a67045d2687d2b5c11c85797f42824ed243",
+  "metadata": {
+    "title": "Evolution and variation of 2019-novel coronavirus",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1468,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: The current outbreak caused by novel coronavirus (2019-nCoV) in China has become a worldwide concern. As of 28 January 2020, there were 4631 confirmed cases and 106 deaths, and 11 countries or regions were affected.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : The current outbreak caused by novel coronavirus ( 2019-nCoV ) in China has become a worldwide concern .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As of 28 January 2020 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "there were 4631 confirmed cases and 106 deaths ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and 11 countries or regions were affected .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We downloaded the genomes of 2019-nCoVs and similar isolates from the Global Initiative on Sharing Avian Influenza Database (GISAID and nucleotide database of the National Center for Biotechnology Information (NCBI). Lasergene 7.0 and MEGA 6.0 softwares were used to calculate genetic distances of the sequences, to construct phylogenetic trees, and to align amino acid sequences. Bayesian coalescent phylogenetic analysis, implemented in the BEAST software package, was used to calculate the molecular clock related characteristics such as the nucleotide substitution rate and the most recent common ancestor (tMRCA) of 2019-nCoVs.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We downloaded the genomes of 2019-nCoVs and similar isolates from the Global Initiative on Sharing Avian Influenza Database ( GISAID and nucleotide database of the National Center for Biotechnology Information ( NCBI ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Lasergene 7.0 and MEGA 6.0 softwares were used to calculate genetic distances of the sequences ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "to construct phylogenetic trees , and to align amino acid sequences .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Bayesian coalescent phylogenetic analysis , implemented in the BEAST software package ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "was used to calculate the molecular clock related characteristics such as the nucleotide substitution rate and the most recent common ancestor ( tMRCA ) of 2019-nCoVs .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results: An isolate numbered EPI_ISL_403928 showed different phylogenetic trees and genetic distances of the whole length genome, the coding sequences (CDS) of ployprotein (P), spike protein (S), and nucleoprotein (N) from other 2019-nCoVs. There are 22, 4, 2 variations in P, S, and N at the level of amino acid residues. The nucleotide substitution rates from high to low are 1·05 × 10 -2 (nucleotide substitutions/site/year, with 95% HPD interval being 6.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results : An isolate numbered EPI _ ISL _ 403928 showed different phylogenetic trees and genetic distances of the whole length genome ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the coding sequences ( CDS ) of ployprotein ( P ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "spike protein ( S ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and nucleoprotein ( N ) from other 2019-nCoVs .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "There are 22 , 4 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "2 variations in P , S ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and N at the level of amino acid residues .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The nucleotide substitution rates from high to low are 1 · 05 × 10 -2 ( nucleotide substitutions/site/year , with 95 % HPD interval being 6 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "8",
+    "segment_num": "17",
+    "token_num": "244"
+  }
+}

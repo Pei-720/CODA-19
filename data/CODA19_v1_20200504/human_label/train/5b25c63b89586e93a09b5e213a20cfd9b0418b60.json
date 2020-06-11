@@ -1,0 +1,141 @@
+{
+  "paper_id": "5b25c63b89586e93a09b5e213a20cfd9b0418b60",
+  "metadata": {
+    "title": "A mathematical model for the spatiotemporal epidemic spreading of COVID19",
+    "coda_data_split": "train",
+    "coda_paper_id": 2146,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "166 countries/regions, including cases of human-to-human transmission around the world. The proportions of this epidemics is probably one of the largest challenges faced by our interconnected modern societies. According to the current epidemiological reports, the large basic reproduction number, R0 ∼ 2.3, number of secondary cases produced by an infected individual in a population of susceptible individuals, as well as an asymptomatic period (up to 14 days) in which infectious individuals are undetectable without further analysis, pave the way for a major crisis of the national health capacity systems. Recent scientific reports have pointed out that the detected cases of COVID19 at young ages is strikingly short and that lethality is concentrated at large ages. Here we adapt a Microscopic Markov Chain Approach (MMCA) metapopulation mobility model to capture the spread of COVID-19. We propose a model that stratifies the population by ages, and account for the different incidences of the disease at each strata. The model is used to predict the incidence of the epidemics in a spatial population through time, permitting investigation of control measures. The model is applied to the current epidemic in Spain, using the estimates of the epidemiological parameters and the mobility and demographic census data of the national institute of statistics (INE). The results indicate that the peak of incidence will happen in the first half of April 2020 in absence of mobility restrictions. These results can be refined with improved estimates of epidemiological parameters, and can be adapted to precise mobility restrictions at the level of municipalities. The current estimates largely compromises the Spanish health capacity system, in particular that for intensive care units, from the end of March. However, the model allows for the scrutiny of containment measures that can be used for health authorities to forecast with accuracy their impact in prevalence of COVID-19. Here we show by testing different epidemic containment scenarios that we urge to enforce total lockdown to avoid a massive collapse of the Spanish national health system.",
+      "sentences": [
+        [
+          {
+            "segment_text": "166 countries/regions , including cases of human-to-human transmission around the world .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The proportions of this epidemics is probably one of the largest challenges faced by our interconnected modern societies .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "According to the current epidemiological reports ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the large basic reproduction number ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "R0 ∼ 2.3 , number of secondary cases produced by an infected individual in a population of susceptible individuals ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as well as an asymptomatic period ( up to 14 days ) in which infectious individuals are undetectable without further analysis ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "pave the way for a major crisis of the national health capacity systems .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recent scientific reports have pointed out that the detected cases of COVID19 at young ages is strikingly short and that lethality is concentrated at large ages .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we adapt a Microscopic Markov Chain Approach ( MMCA ) metapopulation mobility model to capture the spread of COVID-19 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We propose a model that stratifies the population by ages ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and account for the different incidences of the disease at each strata .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The model is used to predict the incidence of the epidemics in a spatial population through time ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "permitting investigation of control measures .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The model is applied to the current epidemic in Spain ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "using the estimates of the epidemiological parameters and the mobility and demographic census data of the national institute of statistics ( INE ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results indicate that the peak of incidence will happen in the first half of April 2020 in absence of mobility restrictions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These results can be refined with improved estimates of epidemiological parameters ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and can be adapted to precise mobility restrictions at the level of municipalities .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The current estimates largely compromises the Spanish health capacity system ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "in particular that for intensive care units ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "from the end of March .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the model allows for the scrutiny of containment measures that can be used for health authorities to forecast with accuracy their impact in prevalence of COVID-19 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we show by testing different epidemic containment scenarios that we urge to enforce total lockdown to avoid a massive collapse of the Spanish national health system .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "13",
+    "segment_num": "23",
+    "token_num": "362"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "paper_id": "1dc18baed79c3ae009d73d109a7aaec9f9195a2f",
+  "metadata": {
+    "title": "Cost effective strategies for completing the Interactome HHS Public Access Author manuscript",
+    "coda_data_split": "train",
+    "coda_paper_id": 3904,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Comprehensive protein interaction mapping projects are underway for many model species and humans. A key step in these projects is estimating the time, cost, and personnel required for obtaining an accurate and complete map. Here, we model the cost of interaction map completion across a spectrum of experimental designs. We show that current efforts may require up to 20 independent tests covering each protein pair to approach completion. We explore designs for reducing this cost substantially, including prioritization of protein pairs, probability thresholding, and interaction prediction. The best designs lower cost by four-fold overall and \u003e100-fold in early stages of mapping. We demonstrate the best strategy in an ongoing project in Drosophila, in which we map 450 high-confidence interactions using 47 microtiter plates, versus thousands of plates expected using current designs. This study provides a framework for assessing the feasibility of interaction mapping projects and for future efforts to increase their efficiency.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Comprehensive protein interaction mapping projects are underway for many model species and humans .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A key step in these projects is estimating the time ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "cost , and personnel required for obtaining an accurate and complete map .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we model the cost of interaction map completion across a spectrum of experimental designs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We show that current efforts may require up to 20 independent tests covering each protein pair to approach completion .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We explore designs for reducing this cost substantially ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "including prioritization of protein pairs ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "probability thresholding , and interaction prediction .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The best designs lower cost by four-fold overall and \u003e 100-fold in early stages of mapping .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We demonstrate the best strategy in an ongoing project in Drosophila ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "in which we map 450 high-confidence interactions using 47 microtiter plates ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "versus thousands of plates expected using current designs .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study provides a framework for assessing the feasibility of interaction mapping projects and for future efforts to increase their efficiency .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Analysis of molecular networks has exploded in recent years. A wide variety of technologies have been introduced for mapping networks of gene and protein interactions, including yeast two-hybrid assays1-8, affinity purification coupled to mass spectrometry9-11, chromatin immunoprecipitation measurements of transcriptional binding12-14, synthetic-lethal and suppressor networks15,16, expression QTLs17-20, and many others. Using these technologies, network mapping projects are currently underway for many model species2-4,7-13,15, microbial21-23 and viral24,25 pathogens, and humans5,6. As an illustration of how pervasive networks have become, the U.S. National Institutes of Health currently funds 3076 active research grants covering the topic \"protein-protein interactions\" with 794 of these implementing the technique of \"yeast two hybrid system\"26.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Analysis of molecular networks has exploded in recent years .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A wide variety of technologies have been introduced for mapping networks of gene and protein interactions ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including yeast two-hybrid assays1-8 , affinity purification coupled to mass spectrometry9-11 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "chromatin immunoprecipitation measurements of transcriptional binding12-14 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "synthetic-lethal and suppressor networks15 ,16 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "expression QTLs17-20 , and many others .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using these technologies , network mapping projects are currently underway for many model species2-4,7-13,15 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "microbial21-23 and viral24 ,25 pathogens , and humans5 ,6 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "As an illustration of how pervasive networks have become ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the U.S. National Institutes of Health currently funds 3076 active research grants covering the topic `` protein-protein interactions \u0027\u0027 with 794 of these implementing the technique of `` yeast two hybrid system `` 26 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Users may view, print, copy, and download text and data-mine the content in such documents, for the purposes of academic research, subject always to the full Conditions of use:. AOP Different experimental designs for protein interaction mapping were modeled to compare their efficiency in completing an interactome map. The strategy that minimized the final cost was tested in an ongoing Drosophila melanogastor interactome project where it found 450 high-confidence interactions using only 47 microtiter plates.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Users may view , print ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "copy , and download text and data-mine the content in such documents ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "for the purposes of academic research ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "subject always to the full Conditions of use : .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "AOP Different experimental designs for protein interaction mapping were modeled to compare their efficiency in completing an interactome map .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The strategy that minimized the final cost was tested in an ongoing Drosophila melanogastor interactome project where it found 450 high-confidence interactions using only 47 microtiter plates .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Different experimental designs for protein interaction mapping were modeled to compare their efficiency in completing an interactome map. The strategy that minimized the final cost was tested in an ongoing Drosophila melanogastor interactome project where it found 450 high-confidence interactions using only 47 microtiter plates.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Different experimental designs for protein interaction mapping were modeled to compare their efficiency in completing an interactome map .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The strategy that minimized the final cost was tested in an ongoing Drosophila melanogastor interactome project where it found 450 high-confidence interactions using only 47 microtiter plates .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "17",
+    "segment_num": "31",
+    "token_num": "429"
+  }
+}

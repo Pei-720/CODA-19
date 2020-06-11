@@ -1,0 +1,67 @@
+{
+  "paper_id": "ba3efcd6b74e55327fd7db470d824fc18943f30e",
+  "metadata": {
+    "title": "Evaluating the impact of international airline suspensions on the early global spread of COVID-19",
+    "coda_data_split": "train",
+    "coda_paper_id": 5838,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Global airline networks play a key role in the global importation of emerging infectious diseases. Detailed information on air traffic between international airports has been demonstrated to be useful in retrospectively validating and prospectively predicting case emergence in other countries. In this paper, we use a well-established metric known as effective distance on the global air traffic data from IATA to quantify risk of emergence for different countries as a consequence of direct importation from China, and compare it against arrival times for the first 24 countries. Using this model trained on official first reports from WHO, we estimate time of arrival (ToA) for all other countries. We then incorporate data on airline suspensions to recompute the effective distance and assess the effect of such cancellations in delaying the estimated arrival time for all other countries. Finally we use the infectious disease vulnerability indices to explain some of the estimated reporting delays.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Global airline networks play a key role in the global importation of emerging infectious diseases .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Detailed information on air traffic between international airports has been demonstrated to be useful in retrospectively validating and prospectively predicting case emergence in other countries .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this paper , we use a well-established metric known as effective distance on the global air traffic data from IATA to quantify risk of emergence for different countries as a consequence of direct importation from China ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and compare it against arrival times for the first 24 countries .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using this model trained on official first reports from WHO ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we estimate time of arrival ( ToA ) for all other countries .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We then incorporate data on airline suspensions to recompute the effective distance and assess the effect of such cancellations in delaying the estimated arrival time for all other countries .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally we use the infectious disease vulnerability indices to explain some of the estimated reporting delays .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "8",
+    "token_num": "163"
+  }
+}

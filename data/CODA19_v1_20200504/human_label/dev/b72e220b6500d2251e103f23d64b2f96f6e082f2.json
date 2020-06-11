@@ -1,0 +1,115 @@
+{
+  "paper_id": "b72e220b6500d2251e103f23d64b2f96f6e082f2",
+  "metadata": {
+    "title": "GenomeLandscaper: Landscape analysis of genome-fingerprints maps assessing chromosome architecture OPEN",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1305,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Assessing correctness of an assembled chromosome architecture is a central challenge. We create a geometric analysis method (called GenomeLandscaper) to conduct landscape analysis of genomefingerprints maps (GFM), trace large-scale repetitive regions, and assess their impacts on the global architectures of assembled chromosomes. We develop an alignment-free method for phylogenetics analysis. The human Y chromosomes (GRCh.chrY, HuRef.chrY and YH.chrY) are analysed as a proofof-concept study. We construct a galaxy of genome-fingerprints maps (GGFM) for them, and a landscape compatibility among relatives is observed. But a long sharp straight line on the GGFM breaks such a landscape compatibility, distinguishing GRCh38p1.chrY (and throughout GRCh38p7. chrY) from GRCh37p13.chrY, HuRef.chrY and YH.chrY. We delete a 1.30-Mbp target segment to rescue the landscape compatibility, matching the antecedent GRCh37p13.chrY. We re-locate it into the modelled centromeric and pericentromeric region of GRCh38p10.chrY, matching a gap placeholder of GRCh37p13.chrY. We decompose it into sub-constituents (such as BACs, interspersed repeats, and tandem repeats) and trace their homologues by phylogenetics analysis. We elucidate that most examined tandem repeats are of reasonable quality, but the BAC-sized repeats, 173U1020C (176.46 Kbp) and 5U41068C (205.34 Kbp), are likely over-repeated. These results offer unique insights into the centromeric and pericentromeric regions of the human Y chromosomes.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Assessing correctness of an assembled chromosome architecture is a central challenge .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We create a geometric analysis method ( called GenomeLandscaper ) to conduct landscape analysis of genomefingerprints maps ( GFM ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "trace large-scale repetitive regions , and assess their impacts on the global architectures of assembled chromosomes .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We develop an alignment-free method for phylogenetics analysis .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The human Y chromosomes ( GRCh.chrY , HuRef.chrY and YH.chrY ) are analysed as a proofof-concept study .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We construct a galaxy of genome-fingerprints maps ( GGFM ) for them ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and a landscape compatibility among relatives is observed .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "But a long sharp straight line on the GGFM breaks such a landscape compatibility ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "distinguishing GRCh38p1.chrY ( and throughout GRCh38p7 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "chrY ) from GRCh37p13.chrY , HuRef.chrY and YH.chrY .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We delete a 1.30-Mbp target segment to rescue the landscape compatibility , matching the antecedent GRCh37p13.chrY .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We re-locate it into the modelled centromeric and pericentromeric region of GRCh38p10.chrY ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "matching a gap placeholder of GRCh37p13.chrY .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We decompose it into sub-constituents ( such as BACs , interspersed repeats , and tandem repeats ) and trace their homologues by phylogenetics analysis .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We elucidate that most examined tandem repeats are of reasonable quality ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but the BAC-sized repeats , 173U1020C ( 176.46 Kbp ) and 5U41068C ( 205.34 Kbp ) , are likely over-repeated .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These results offer unique insights into the centromeric and pericentromeric regions of the human Y chromosomes .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "12",
+    "segment_num": "17",
+    "token_num": "242"
+  }
+}

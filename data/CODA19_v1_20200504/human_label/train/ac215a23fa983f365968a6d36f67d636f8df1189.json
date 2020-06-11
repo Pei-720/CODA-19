@@ -1,0 +1,86 @@
+{
+  "paper_id": "ac215a23fa983f365968a6d36f67d636f8df1189",
+  "metadata": {
+    "title": "Pulmonary Infection",
+    "coda_data_split": "train",
+    "coda_paper_id": 7919,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "As the lung is a portal between the ambient environment and the internal milieu, it is the most frequent site of serious infections. A number of factors predispose to pulmonary infection, and these include distortions in lung anatomy, decreased mucociliary clearance, as well as abnormal cellular and humoral immune responses.",
+      "sentences": [
+        [
+          {
+            "segment_text": "As the lung is a portal between the ambient environment and the internal milieu ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "it is the most frequent site of serious infections .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A number of factors predispose to pulmonary infection ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and these include distortions in lung anatomy ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "decreased mucociliary clearance , as well as abnormal cellular and humoral immune responses .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The optimal treatment of infection requires diagnosing its cause. As a large variety of microbes can infect the lung, and as the histopathology of noninfectious conditions frequently mimics infection, the differential diagnosis of pulmonary infection is often broad. While in many cases, the clinical history, radiographic findings, and the noninvasive sampling of secretions can establish the cause of infection, at times, a lung biopsy will be required.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The optimal treatment of infection requires diagnosing its cause .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "As a large variety of microbes can infect the lung ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and as the histopathology of noninfectious conditions frequently mimics infection ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "the differential diagnosis of pulmonary infection is often broad .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "While in many cases , the clinical history ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "radiographic findings , and the noninvasive sampling of secretions can establish the cause of infection ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "at times , a lung biopsy will be required .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "5",
+    "segment_num": "12",
+    "token_num": "133"
+  }
+}

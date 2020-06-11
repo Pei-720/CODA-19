@@ -1,0 +1,87 @@
+{
+  "paper_id": "d47a414a273884b7b4f34c9d1bdde47bae1911e2",
+  "metadata": {
+    "title": "True epidemic growth construction through harmonic analysis",
+    "coda_data_split": "train",
+    "coda_paper_id": 6826,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "In this paper, we have proposed a two-phase procedure (combining discrete graphs and wavelets) for constructing true epidemic growth. In the first phase, a graph-theory-based approach was developed to update partial data available and in the second phase, we used this partial data to generate plausible complete data through wavelets. We have provided two numerical examples. This procedure is novel and implementable and adaptable to machine learning modeling framework. (P. Polyakov), arrao@augusta.edu (A.S.R.S. Rao).",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this paper , we have proposed a two-phase procedure ( combining discrete graphs and wavelets ) for constructing true epidemic growth .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the first phase , a graph-theory-based approach was developed to update partial data available and in the second phase ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we used this partial data to generate plausible complete data through wavelets .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We have provided two numerical examples .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This procedure is novel and implementable and adaptable to machine learning modeling framework .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( P. Polyakov ) , arrao@augusta.edu ( A.S.R.S. Rao ) .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "1 Order of the authors listed is based on the alphabetical order of the last names.",
+      "sentences": [
+        [
+          {
+            "segment_text": "1 Order of the authors listed is based on the alphabetical order of the last names .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Here μ (infection related death rate), ν (immunization coefficient \u003d m / n ), λ (infectivity coefficient \u003d n / μ) and m \u003d ν/μ are all",
+      "sentences": [
+        [
+          {
+            "segment_text": "Here μ ( infection related death rate ) ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "ν ( immunization coefficient \u003d m / n ) ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "λ ( infectivity coefficient \u003d n / μ ) and m \u003d ν/μ are all",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "7",
+    "segment_num": "10",
+    "token_num": "140"
+  }
+}

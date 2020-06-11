@@ -1,0 +1,87 @@
+{
+  "paper_id": "8432793ab0a2b9936a27bc607a88a41fdb2917ef",
+  "metadata": {
+    "title": "DNA sequences required for translational frameshifting in production of the transposase encoded by IS1",
+    "coda_data_split": "train",
+    "coda_paper_id": 6268,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The transposase encoded by insertion sequence IS/ is produced from two out-of-phase reading frames (insA and B\u0027-insB) by translational frameshifting, which occurs within a run of six adenines in the -1 direction. To determine the sequence essential for frameshifting, substitution mutations were introduced within the region containing the run of adenines and were examined for their effects on frameshifting. Substitutions at each of three (2nd, 3rd and 4th) adenine residues in the run, which are recognized by tRNA Lys reading insA, caused serious defects in frameshifting, showing that the three adenine residues are essential for frameshifting. The effects of substitution mutations introduced in the region flanking the run of adenines and in the secondary structures located downstream were, however, small, indicating that such a region and structures are not essential for frameshifting. Deletion of a region containing the termination codon of insA caused a decrease in fi-galactosidase activity specified by the lacZ fusion plasmid in frame with B\u0027-insB. Exchange of the wild-type termination codon of insA for a different one or introduction of an additional termination codon in the region upstream of the native termination codon caused an increase in fi-galactosidase activity, indicating that the termination codon in insA affects the efficiency of frameshifting.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The transposase encoded by insertion sequence IS / is produced from two out-of-phase reading frames ( insA and B \u0027 - insB ) by translational frameshifting ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which occurs within a run of six adenines in the -1 direction .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To determine the sequence essential for frameshifting ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "substitution mutations were introduced within the region containing the run of adenines and were examined for their effects on frameshifting .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Substitutions at each of three ( 2nd , 3rd and 4th ) adenine residues in the run ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which are recognized by tRNA Lys reading insA ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "caused serious defects in frameshifting ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "showing that the three adenine residues are essential for frameshifting .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The effects of substitution mutations introduced in the region flanking the run of adenines and in the secondary structures located downstream were ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "however , small , indicating that such a region and structures are not essential for frameshifting .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Deletion of a region containing the termination codon of insA caused a decrease in fi-galactosidase activity specified by the lacZ fusion plasmid in frame with B \u0027 - insB .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Exchange of the wild-type termination codon of insA for a different one or introduction of an additional termination codon in the region upstream of the native termination codon caused an increase in fi-galactosidase activity ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "indicating that the termination codon in insA affects the efficiency of frameshifting .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "13",
+    "token_num": "231"
+  }
+}

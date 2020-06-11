@@ -1,0 +1,213 @@
+{
+  "paper_id": "ea2c4f7a47b6e68d911bcba59a6d0478a63a8639",
+  "metadata": {
+    "title": "Chemical genetics strategy identifies an HCV NS5A inhibitor with a potent clinical effect",
+    "coda_data_split": "train",
+    "coda_paper_id": 8335,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The worldwide prevalence of chronic hepatitis C virus (HCV) infection is estimated to be approaching 200 million people 1 . Current therapy relies upon a combination of pegylated interferon-a and ribavirin, a poorly tolerated regimen typically associated with less than 50% sustained virological response rate in those infected with genotype 1 virus 2,3 . The development of direct-acting antiviral agents to treat HCV has focused predominantly on inhibitors of the viral enzymes NS3 protease and the RNA-dependent RNA polymerase NS5B 4 . Here we describe the profile of BMS-790052, a small molecule inhibitor of the HCV NS5A protein that exhibits picomolar half-maximum effective concentrations (EC 50 ) towards replicons expressing a broad range of HCV genotypes and the JFH-1 genotype 2a infectious virus in cell culture. In a phase I clinical trial in patients chronically infected with HCV, administration of a single 100-mg dose of BMS-790052 was associated with a 3.3 log 10 reduction in mean viral load measured 24 h post-dose that was sustained for an additional 120 h in two patients infected with genotype 1b virus. Genotypic analysis of samples taken at baseline, 24 and 144 h post-dose revealed that the major HCV variants observed had substitutions at amino-acid positions identified using the in vitro replicon system. These results provide the first clinical validation of an inhibitor of HCV NS5A, a protein with no known enzymatic function, as an approach to the suppression of virus replication that offers potential as part of a therapeutic regimen based on combinations of HCV inhibitors.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The worldwide prevalence of chronic hepatitis C virus ( HCV ) infection is estimated to be approaching 200 million people 1 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Current therapy relies upon a combination of pegylated interferon-a and ribavirin ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a poorly tolerated regimen typically associated with less than 50 % sustained virological response rate in those infected with genotype 1 virus 2,3 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The development of direct-acting antiviral agents to treat HCV has focused predominantly on inhibitors of the viral enzymes NS3 protease and the RNA-dependent RNA polymerase NS5B 4 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we describe the profile of BMS-790052 ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "a small molecule inhibitor of the HCV NS5A protein that exhibits picomolar half-maximum effective concentrations ( EC 50 ) towards replicons expressing a broad range of HCV genotypes and the JFH-1 genotype 2a infectious virus in cell culture .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "In a phase I clinical trial in patients chronically infected with HCV ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "administration of a single 100-mg dose of BMS-790052 was associated with a 3.3 log 10 reduction in mean viral load measured 24 h post-dose that was sustained for an additional 120 h in two patients infected with genotype 1b virus .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Genotypic analysis of samples taken at baseline ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "24 and 144 h post-dose revealed that the major HCV variants observed had substitutions at amino-acid positions identified using the in vitro replicon system .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "These results provide the first clinical validation of an inhibitor of HCV NS5A ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a protein with no known enzymatic function ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as an approach to the suppression of virus replication that offers potential as part of a therapeutic regimen based on combinations of HCV inhibitors .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We designed a mechanistically unbiased approach based on chemical genetics to identify chemical starting points for interfering with HCV replication. Our differentiating strategy centred on the identification of compounds functionally distinct from those acting on the traditional targets of antiviral research in this field, the NS3 protease and the NS5B RNA-dependent RNA polymerase 5-7 . Using a Con-1 genotype 1b replicon replicating in Huh-7 liver cells 8 , we screened over one million compounds from the Bristol-Myers Squibb proprietary collection in high throughput mode. We used a dual assay format that simultaneously evaluated replication of the related flavivirus bovine viral diarrhoea virus (BVDV) and host cell cytotoxicity as an efficient means of preliminarily eliminating compounds without specificity for HCV 9 . Active inhibitors were further triaged by evaluation in biochemical assays for NS3 protease, NS3 helicase and NS5B polymerase in addition to screening against a panel of unrelated viruses. The iminothiazolidinone BMS-858 (Fig. 1) emerged as a weak but, more importantly, specific inhibitor of HCV RNA replication (EC 50 5 0.57 mM, halfmaximum cytotoxic concentration (CC 50 ) 5 .50 mM) for which resistance was mapped to a tyrosine to histidine substitution at residue 93 in the NS5A protein (Y93H or Y2065H in the HCV polyprotein) 10 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "We designed a mechanistically unbiased approach based on chemical genetics to identify chemical starting points for interfering with HCV replication .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our differentiating strategy centred on the identification of compounds functionally distinct from those acting on the traditional targets of antiviral research in this field ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the NS3 protease and the NS5B RNA-dependent RNA polymerase 5-7 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using a Con-1 genotype 1b replicon replicating in Huh-7 liver cells 8 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we screened over one million compounds from the Bristol-Myers Squibb proprietary collection in high throughput mode .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We used a dual assay format that simultaneously evaluated replication of the related flavivirus bovine viral diarrhoea virus ( BVDV ) and host cell cytotoxicity as an efficient means of preliminarily eliminating compounds without specificity for HCV 9 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Active inhibitors were further triaged by evaluation in biochemical assays for NS3 protease ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "NS3 helicase and NS5B polymerase in addition to screening against a panel of unrelated viruses .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The iminothiazolidinone BMS-858 ( Fig. 1 ) emerged as a weak but ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "more importantly , specific inhibitor of HCV RNA replication ( EC 50 5 0.57 mM , halfmaximum cytotoxic concentration ( CC 50 ) 5 .50 mM ) for which resistance was mapped to a tyrosine to histidine substitution at residue 93 in the NS5A protein ( Y93H or Y2065H in the HCV polyprotein ) 10 .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "BMS-858 formed the basis of an extensive series of chemical refinements that focused on improving antiviral potency, broadening inhibitory activity to encompass the HCV 1a genotype, and optimizing for oral bioavailability and sustained pharmacokinetic properties. After defining symmetry as an important contributor to antiviral activity 10 , a discovery that preceded the disclosure of structural information (see below), we subsequently identified BMS-790052 (Fig. 1 ) as a development candidate for advancement into clinical trials 11 . (The studies leading to the identification of BMS-790052 and its preclinical profiling will be the subject of a series of separate publications.) This compound is the most potent HCV replication inhibitor reported so far, with mean EC 50 values of 50 and 9 pM against genotype 1a and 1b replicons, respectively (data summarized in Table 1 ). BMS-790052 displays a therapeutic index (CC 50 /EC 50 ) of at least 100,000 in vitro and is inactive towards a panel of 10 RNA and DNA viruses, with EC 50 values greater than 10 mM, which confirms specificity for HCV (Supplementary Tables 1  and 2 ).",
+      "sentences": [
+        [
+          {
+            "segment_text": "BMS-858 formed the basis of an extensive series of chemical refinements that focused on improving antiviral potency ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "broadening inhibitory activity to encompass the HCV 1a genotype ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and optimizing for oral bioavailability and sustained pharmacokinetic properties .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "After defining symmetry as an important contributor to antiviral activity 10 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a discovery that preceded the disclosure of structural information ( see below ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we subsequently identified BMS-790052 ( Fig. 1 ) as a development candidate for advancement into clinical trials 11 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( The studies leading to the identification of BMS-790052 and its preclinical profiling will be the subject of a series of separate publications . )",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This compound is the most potent HCV replication inhibitor reported so far ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with mean EC 50 values of 50 and 9 pM against genotype 1a and 1b replicons ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "respectively ( data summarized in Table 1 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "BMS-790052 displays a therapeutic index ( CC 50 / EC 50 ) of at least 100,000 in vitro and is inactive towards a panel of 10 RNA and DNA viruses ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with EC 50 values greater than 10 mM ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which confirms specificity for HCV ( Supplementary Tables 1 and 2 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "18",
+    "segment_num": "36",
+    "token_num": "692"
+  }
+}

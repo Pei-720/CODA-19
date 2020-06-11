@@ -1,0 +1,75 @@
+{
+  "paper_id": "dca8ced82157924ed86c698a7dd482be81b4b266",
+  "metadata": {
+    "title": "Teicoplanin potently blocks the cell entry of 2019-nCoV",
+    "coda_data_split": "train",
+    "coda_paper_id": 7089,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Since December 2019, the outbreak of a new coronavirus, named 2019-nCoV, has greatly threatened the public health in China and raised great concerns worldwide. No specific treatment for this infection is currently available. We previously reported that teicoplanin, a glycopeptide antibiotic which has routinely been used in the clinic to treat bacterial infection with low toxicity, significantly inhibits the invasion of cells by Ebola virus, SARS-CoV and MERS-CoV, via specifically inhibiting the activity of cathepsin L. Here, we tested the efficacy of teicoplanin against 2019-nCoV virus infection and found that teicoplanin potently prevents the entrance of 2019-nCoV-Spike-pseudoviruses into the cytoplasm, with an IC 50 of 1.66 μM. Although the inhibitory effect upon the replication of wildtype viruses ex vivo and in vivo remains to be determined, our preliminary result indicates that the potential antiviral activity of teicoplanin could be applied for the treatment of 2019-nCoV virus infection.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Since December 2019 , the outbreak of a new coronavirus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "named 2019-nCoV , has greatly threatened the public health in China and raised great concerns worldwide .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "No specific treatment for this infection is currently available .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We previously reported that teicoplanin ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a glycopeptide antibiotic which has routinely been used in the clinic to treat bacterial infection with low toxicity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "significantly inhibits the invasion of cells by Ebola virus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "SARS-CoV and MERS-CoV , via specifically inhibiting the activity of cathepsin L. Here ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we tested the efficacy of teicoplanin against 2019-nCoV virus infection and found that teicoplanin potently prevents the entrance of 2019-nCoV-Spike-pseudoviruses into the cytoplasm ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with an IC 50 of 1.66 μM .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although the inhibitory effect upon the replication of wildtype viruses ex vivo and in vivo remains to be determined ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "our preliminary result indicates that the potential antiviral activity of teicoplanin could be applied for the treatment of 2019-nCoV virus infection .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "4",
+    "segment_num": "11",
+    "token_num": "161"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "paper_id": "e180d3d901f3b04c492af778d0b9155a51058d51",
+  "metadata": {
+    "title": "Viral RNA extraction for in-the-field analysis",
+    "coda_data_split": "train",
+    "coda_paper_id": 9934,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Retroviruses encode their genetic information with RNA molecules, and have a high genomic recombination rate which allows them to mutate more rapidly, thereby posting a higher risk to humans. One important way to help combat a pandemic of viral infectious diseases is early detection before large-scale outbreaks occur. The polymerase chain reaction (PCR) and reverse transcription-PCR (RT-PCR) have been used to identify precisely different strains of some very closely related pathogens. However, isolation and detection of viral RNA in the field are difficult due to the unstable nature of viral RNA molecules. Consequently, performing in-the-field nucleic acid analysis to monitor the spread of viruses is financially and technologically challenging in remote and underdeveloped regions that are high-risk areas for outbreaks. A simplified rapid viral RNA extraction method is reported to meet the requirements for in-the-field viral RNA extraction and detection. The ability of this device to perform viral RNA extraction with subsequent RT-PCR detection of retrovirus is demonstrated. This inexpensive device has the potential to be distributed on a large scale to underdeveloped regions for early detection of retrovirus, with the possibility of reducing viral pandemic events.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Retroviruses encode their genetic information with RNA molecules ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and have a high genomic recombination rate which allows them to mutate more rapidly ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "thereby posting a higher risk to humans .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "One important way to help combat a pandemic of viral infectious diseases is early detection before large-scale outbreaks occur .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The polymerase chain reaction ( PCR ) and reverse transcription-PCR ( RT-PCR ) have been used to identify precisely different strains of some very closely related pathogens .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , isolation and detection of viral RNA in the field are difficult due to the unstable nature of viral RNA molecules .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Consequently , performing in-the-field nucleic acid analysis to monitor the spread of viruses is financially and technologically challenging in remote and underdeveloped regions that are high-risk areas for outbreaks .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A simplified rapid viral RNA extraction method is reported to meet the requirements for in-the-field viral RNA extraction and detection .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The ability of this device to perform viral RNA extraction with subsequent RT-PCR detection of retrovirus is demonstrated .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This inexpensive device has the potential to be distributed on a large scale to underdeveloped regions for early detection of retrovirus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with the possibility of reducing viral pandemic events .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "11",
+    "token_num": "204"
+  }
+}

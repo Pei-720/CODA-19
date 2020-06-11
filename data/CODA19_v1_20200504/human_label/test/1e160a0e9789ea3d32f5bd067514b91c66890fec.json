@@ -1,0 +1,77 @@
+{
+  "paper_id": "1e160a0e9789ea3d32f5bd067514b91c66890fec",
+  "metadata": {
+    "title": "A multivariate CAR model for mismatched lattices q",
+    "coda_data_split": "test",
+    "coda_paper_id": 55,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "In this paper, we develop a multivariate Gaussian conditional autoregressive model for use on mismatched lattices. Most current multivariate CAR models are designed for each multivariate outcome to utilize the same lattice structure. In many applications, a change of basis will allow different lattices to be utilized, but this is not always the case, because a change of basis is not always desirable or even possible. Our multivariate CAR model allows each outcome to have a different neighborhood structure which can utilize different lattices for each structure. The model is applied in two real data analysis. The first is a Bayesian learning example in mapping the 2006 Iowa Mumps epidemic, which demonstrates the importance of utilizing multiple channels of infection flow in mapping infectious diseases. The second is a multivariate analysis of poverty levels and educational attainment in the American Community Survey.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this paper , we develop a multivariate Gaussian conditional autoregressive model for use on mismatched lattices .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Most current multivariate CAR models are designed for each multivariate outcome to utilize the same lattice structure .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In many applications , a change of basis will allow different lattices to be utilized ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but this is not always the case ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "because a change of basis is not always desirable or even possible .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our multivariate CAR model allows each outcome to have a different neighborhood structure which can utilize different lattices for each structure .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The model is applied in two real data analysis .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The first is a Bayesian learning example in mapping the 2006 Iowa Mumps epidemic ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which demonstrates the importance of utilizing multiple channels of infection flow in mapping infectious diseases .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The second is a multivariate analysis of poverty levels and educational attainment in the American Community Survey .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "10",
+    "token_num": "154"
+  }
+}

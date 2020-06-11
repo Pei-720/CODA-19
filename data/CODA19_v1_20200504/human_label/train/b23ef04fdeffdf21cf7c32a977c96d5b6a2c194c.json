@@ -1,0 +1,106 @@
+{
+  "paper_id": "b23ef04fdeffdf21cf7c32a977c96d5b6a2c194c",
+  "metadata": {
+    "title": "Multiple-Input Deep Convolutional Neural Network Model for COVID-19 Forecasting in China 2",
+    "coda_data_split": "train",
+    "coda_paper_id": 4436,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "COVID-19 is spreading all across the globe. Up until March 23, 2020, the confirmed cases in 173 12 countries and regions of the globe had surpassed 346,000, and more than 14,700 deaths had resulted. The 13 confirmed cases outside of China had also reached over 81,000, with over 3,200 deaths. In this study, a 14 Convolutional Neural Network (CNN) was proposed to analyze and predict the number of confirmed cases. 15 Several cities with the most confirmed cases in China were the focus of this study, and a COVID-19 16 forecasting model, based on the CNN deep neural network method, was proposed. To compare the overall 17 efficacies of different algorithms, the indicators of mean absolute error and root mean square error were 18 applied in the experiment of this study. The experiment results indicated that compared with other deep 19 learning methods, the CNN model proposed in this study has the greatest prediction efficacy. The feasibility 20 and practicality of the model in predicting the cumulative number of COVID-19 confirmed cases were also 21 verified in this study.",
+      "sentences": [
+        [
+          {
+            "segment_text": "COVID-19 is spreading all across the globe .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Up until March 23 , 2020 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the confirmed cases in 173 12 countries and regions of the globe had surpassed 346,000 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and more than 14,700 deaths had resulted .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The 13 confirmed cases outside of China had also reached over 81,000 , with over 3,200 deaths .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , a 14 Convolutional Neural Network ( CNN ) was proposed to analyze and predict the number of confirmed cases .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "15 Several cities with the most confirmed cases in China were the focus of this study ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and a COVID-19 16 forecasting model ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "based on the CNN deep neural network method , was proposed .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "To compare the overall 17 efficacies of different algorithms ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the indicators of mean absolute error and root mean square error were 18 applied in the experiment of this study .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The experiment results indicated that compared with other deep 19 learning methods ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the CNN model proposed in this study has the greatest prediction efficacy .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The feasibility 20 and practicality of the model in predicting the cumulative number of COVID-19 confirmed cases were also 21 verified in this study .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "22",
+      "sentences": [
+        [
+          {
+            "segment_text": "22",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "9",
+    "segment_num": "15",
+    "token_num": "200"
+  }
+}

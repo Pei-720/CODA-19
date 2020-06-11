@@ -1,0 +1,65 @@
+{
+  "paper_id": "16bc75dab3f20eea4006d23d50b9bce8c5c81de0",
+  "metadata": {
+    "title": "A Mathematical Model of Cytokine Dynamics During a Cytokine Storm",
+    "coda_data_split": "train",
+    "coda_paper_id": 9172,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Cytokine storms are a potentially fatal exaggerated immune response consisting of an uncontrolled positive feedback loop between immune cells and cytokines. The dynamics of cytokines are highly complex and little is known about specific interactions. Researchers at the Ontario Veterinary College have encountered cytokine storms during virotherapy. Multiple mouse trials were conducted where a virus was injected into mice whose leukocytes lacked expression of the type I interferon receptor. In each case a rapid, fatal cytokine storm occurred. A nonlinear differential equation model of the recorded cytokine amounts was produced to obtain some information on their mutual interactions. Results provide insight into the complex mechanism that drives the storm and possible ways to prevent such immune responses.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Cytokine storms are a potentially fatal exaggerated immune response consisting of an uncontrolled positive feedback loop between immune cells and cytokines .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The dynamics of cytokines are highly complex and little is known about specific interactions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Researchers at the Ontario Veterinary College have encountered cytokine storms during virotherapy .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Multiple mouse trials were conducted where a virus was injected into mice whose leukocytes lacked expression of the type I interferon receptor .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In each case a rapid , fatal cytokine storm occurred .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A nonlinear differential equation model of the recorded cytokine amounts was produced to obtain some information on their mutual interactions .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results provide insight into the complex mechanism that drives the storm and possible ways to prevent such immune responses .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "7",
+    "token_num": "125"
+  }
+}

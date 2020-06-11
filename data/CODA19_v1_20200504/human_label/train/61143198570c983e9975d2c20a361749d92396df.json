@@ -1,0 +1,128 @@
+{
+  "paper_id": "61143198570c983e9975d2c20a361749d92396df",
+  "metadata": {
+    "title": "Testing the neutral theory of biodiversity with the microbiome dataset from cystic fibrosis patients",
+    "coda_data_split": "train",
+    "coda_paper_id": 7407,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Cystic fibrosis (CF) is a hereditary disease that is characterized by defective mucociliary clearance, airway obstruction, chronic infection, and persistent inflammation. Cystic fibrosis pulmonary exacerbation (CFPE) majorly causes the morbidity of CF patients. Although CF has been demonstrated to change the composition of lung microbial community, previous studies have not made efforts to study the differences in the mechanism of assembly and diversity maintenance of lung microbial community in CF patients. In this study, we applied the neutral theory of biodiversity to comparatively investigate the assembly and diversity maintenance of the lung microbial community before and after the antibiotic treatment by reanalyzing the dataset from Fodor et al\u0027s study. We found that no one sample in the lung microbial communities of the sputum samples of Exacerbation group, nor those of End-of-treatment group satisfied the predictions of neutral model, suggesting that the neutral-process does not dominate in CF patients before and after antibiotic treatments. By comparing the biodiversity parameter between Exacerbation and End-of-treatment group, we found that the former had the significantly higher biodiversity, but the change in diversity parameter is slight and the P value is close to.05 (P value \u003d .41). Therefore, our second finding is that although CFPE may increase the biodiversity of lung microbial community, the change is not essential.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Cystic fibrosis ( CF ) is a hereditary disease that is characterized by defective mucociliary clearance ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "airway obstruction , chronic infection , and persistent inflammation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Cystic fibrosis pulmonary exacerbation ( CFPE ) majorly causes the morbidity of CF patients .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although CF has been demonstrated to change the composition of lung microbial community ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "previous studies have not made efforts to study the differences in the mechanism of assembly and diversity maintenance of lung microbial community in CF patients .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we applied the neutral theory of biodiversity to comparatively investigate the assembly and diversity maintenance of the lung microbial community before and after the antibiotic treatment by reanalyzing the dataset from Fodor et al \u0027s study .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We found that no one sample in the lung microbial communities of the sputum samples of Exacerbation group ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "nor those of End-of-treatment group satisfied the predictions of neutral model ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "suggesting that the neutral-process does not dominate in CF patients before and after antibiotic treatments .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "By comparing the biodiversity parameter between Exacerbation and End-of-treatment group ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we found that the former had the significantly higher biodiversity ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but the change in diversity parameter is slight and the P value is close to .05 ( P value \u003d .41 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , our second finding is that although CFPE may increase the biodiversity of lung microbial community ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the change is not essential .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Abbreviations: CF \u003d cystic fibrosis, CFPE \u003d cystic fibrosis pulmonary exacerbation, CFTR \u003d cystic fibrosis transmembrane conductance regulator, MLE \u003d the maximum likelihood estimation, NGS \u003d the next generation DNA sequencing, OTU \u003d operational taxonomic unit, SAD \u003d the species abundance distributions.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Abbreviations : CF \u003d cystic fibrosis ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "CFPE \u003d cystic fibrosis pulmonary exacerbation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "CFTR \u003d cystic fibrosis transmembrane conductance regulator ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "MLE \u003d the maximum likelihood estimation ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "NGS \u003d the next generation DNA sequencing ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "OTU \u003d operational taxonomic unit ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "SAD \u003d the species abundance distributions .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "8",
+    "segment_num": "21",
+    "token_num": "289"
+  }
+}

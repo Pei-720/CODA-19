@@ -1,0 +1,81 @@
+{
+  "paper_id": "0b282573f5c63c943021c10ca39a1ed21acfb429",
+  "metadata": {
+    "title": "A data-driven assessment of early travel restrictions related to the spreading of the novel COVID-19 within mainland China",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1258,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Two months after it was firstly reported, the novel coronavirus disease COVID-19 has already spread worldwide. However, the vast majority of reported infections have occurred in China. To assess the effect of early travel restrictions adopted by the health authorities in China, we have implemented an epidemic metapopulation model that is fed with mobility data corresponding to 2019 and 2020. This allows to compare two radically different scenarios, one with no travel restrictions and another in which mobility is reduced by a travel ban. Our findings indicate that i) travel restrictions are an effective measure in the short term, however, ii) they are ineffective when it comes to completely eliminate the disease. The latter is due to the impossibility of removing the risk of seeding the disease to other regions. Our study also highlights the importance of developing more realistic models of behavioral changes when a disease outbreak is unfolding.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Two months after it was firstly reported ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the novel coronavirus disease COVID-19 has already spread worldwide .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the vast majority of reported infections have occurred in China .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To assess the effect of early travel restrictions adopted by the health authorities in China ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "we have implemented an epidemic metapopulation model that is fed with mobility data corresponding to 2019 and 2020 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This allows to compare two radically different scenarios ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "one with no travel restrictions and another in which mobility is reduced by a travel ban .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our findings indicate that i ) travel restrictions are an effective measure in the short term ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "however , ii ) they are ineffective when it comes to completely eliminate the disease .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The latter is due to the impossibility of removing the risk of seeding the disease to other regions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our study also highlights the importance of developing more realistic models of behavioral changes when a disease outbreak is unfolding .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "11",
+    "token_num": "165"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "paper_id": "545a779f86677133fba4c5d1d48d781981378e66",
+  "metadata": {
+    "title": "Segmentation of DNA using simple recurrent neural network",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1874,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "We report the discovery of strong correlations between protein coding regions and the prediction errors when using the simple recurrent network to segment genome sequences. We are going to use SARS genome to demonstrate how we conduct training and derive corresponding results. The distribution of prediction error indicates how the underlying hidden regularity of the genome sequences and the results are consistent with the finding of biologists: predicated protein coding features of SARS genome. This implies that the simple recurrent network is capable of providing new features for further biological studies when applied on genome studies. The HA gene of influenza A subtype H1N1 is also analyzed in a similar way.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We report the discovery of strong correlations between protein coding regions and the prediction errors when using the simple recurrent network to segment genome sequences .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We are going to use SARS genome to demonstrate how we conduct training and derive corresponding results .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The distribution of prediction error indicates how the underlying hidden regularity of the genome sequences and the results are consistent with the finding of biologists : predicated protein coding features of SARS genome .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This implies that the simple recurrent network is capable of providing new features for further biological studies when applied on genome studies .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The HA gene of influenza A subtype H1N1 is also analyzed in a similar way .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "5",
+    "token_num": "117"
+  }
+}

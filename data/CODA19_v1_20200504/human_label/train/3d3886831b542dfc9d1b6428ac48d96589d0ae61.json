@@ -1,0 +1,88 @@
+{
+  "paper_id": "3d3886831b542dfc9d1b6428ac48d96589d0ae61",
+  "metadata": {
+    "title": "The R0 package: a toolbox to estimate reproduction numbers for epidemic outbreaks",
+    "coda_data_split": "train",
+    "coda_paper_id": 8953,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Several generic methods have been proposed to estimate transmission parameters during an outbreak, especially the reproduction number. However, as of today, no dedicated software exists that implements these methods and allow comparisons.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Several generic methods have been proposed to estimate transmission parameters during an outbreak , especially the reproduction number .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , as of today ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "no dedicated software exists that implements these methods and allow comparisons .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results: A review of generic methods used to estimate transmissibility parameters during outbreaks was carried out. Most methods used the epidemic curve and the generation time distribution. Two categories of methods were available: those estimating the initial reproduction number, and those estimating a time dependent reproduction number. We implemented five methods as an R library, developed sensitivity analysis tools for each method and provided numerical illustrations of their use. A comparison of the performance of the different methods on simulated datasets is reported. Conclusions: This software package allows a standardized and extensible approach to the estimation of the reproduction number and generation interval distribution from epidemic curves.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results : A review of generic methods used to estimate transmissibility parameters during outbreaks was carried out .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Most methods used the epidemic curve and the generation time distribution .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Two categories of methods were available : those estimating the initial reproduction number ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and those estimating a time dependent reproduction number .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We implemented five methods as an R library ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "developed sensitivity analysis tools for each method and provided numerical illustrations of their use .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A comparison of the performance of the different methods on simulated datasets is reported .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Conclusions : This software package allows a standardized and extensible approach to the estimation of the reproduction number and generation interval distribution from epidemic curves .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "8",
+    "segment_num": "11",
+    "token_num": "157"
+  }
+}

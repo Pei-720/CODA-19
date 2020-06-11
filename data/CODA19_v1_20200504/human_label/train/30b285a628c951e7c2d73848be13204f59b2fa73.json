@@ -1,0 +1,190 @@
+{
+  "paper_id": "30b285a628c951e7c2d73848be13204f59b2fa73",
+  "metadata": {
+    "title": "Transmission characteristics of MERS and SARS in the healthcare setting: a comparative study",
+    "coda_data_split": "train",
+    "coda_paper_id": 10504,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: The Middle East respiratory syndrome (MERS) coronavirus has caused recurrent outbreaks in the Arabian Peninsula since 2012. Although MERS has low overall human-to-human transmission potential, there is occasional amplification in the healthcare setting, a pattern reminiscent of the dynamics of the severe acute respiratory syndrome (SARS) outbreaks in 2003. Here we provide a head-to-head comparison of exposure patterns and transmission dynamics of large hospital clusters of MERS and SARS, including the most recent South Korean outbreak of MERS in 2015.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : The Middle East respiratory syndrome ( MERS ) coronavirus has caused recurrent outbreaks in the Arabian Peninsula since 2012 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although MERS has low overall human-to-human transmission potential ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "there is occasional amplification in the healthcare setting ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a pattern reminiscent of the dynamics of the severe acute respiratory syndrome ( SARS ) outbreaks in 2003 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we provide a head-to-head comparison of exposure patterns and transmission dynamics of large hospital clusters of MERS and SARS ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including the most recent South Korean outbreak of MERS in 2015 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Methods: To assess the unexpected nature of the recent South Korean nosocomial outbreak of MERS and estimate the probability of future large hospital clusters, we compared exposure and transmission patterns for previously reported hospital clusters of MERS and SARS, based on individual-level data and transmission tree information. We carried out simulations of nosocomial outbreaks of MERS and SARS using branching process models rooted in transmission tree data, and inferred the probability and characteristics of large outbreaks.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Methods : To assess the unexpected nature of the recent South Korean nosocomial outbreak of MERS and estimate the probability of future large hospital clusters ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we compared exposure and transmission patterns for previously reported hospital clusters of MERS and SARS ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "based on individual-level data and transmission tree information .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We carried out simulations of nosocomial outbreaks of MERS and SARS using branching process models rooted in transmission tree data ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and inferred the probability and characteristics of large outbreaks .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results: A significant fraction of MERS cases were linked to the healthcare setting, ranging from 43.5 % for the nosocomial outbreak in Jeddah, Saudi Arabia, in 2014 to 100 % for both the outbreak in Al-Hasa, Saudi Arabia, in 2013 and the outbreak in South Korea in 2015. Both MERS and SARS nosocomial outbreaks are characterized by early nosocomial super-spreading events, with the reproduction number dropping below 1 within three to five disease generations. There was a systematic difference in the exposure patterns of MERS and SARS: a majority of MERS cases occurred among patients who sought care in the same facilities as the index case, whereas there was a greater concentration of SARS cases among healthcare workers throughout the outbreak. Exposure patterns differed slightly by disease generation, however, especially for SARS. Moreover, the distributions of secondary cases per single primary case varied highly across individual hospital outbreaks (Kruskal-Wallis test; P \u003c 0.0001), with significantly higher transmission heterogeneity in the distribution of secondary cases for MERS than SARS. Simulations indicate a 2-fold higher probability of occurrence of large outbreaks (\u003e100 cases) for SARS than MERS (2 % versus 1 %); however, owing to higher transmission heterogeneity, the largest outbreaks of MERS are characterized by sharper incidence peaks. The probability of occurrence of MERS outbreaks larger than the South Korean cluster (n \u003d 186) is of the order of 1 %.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results : A significant fraction of MERS cases were linked to the healthcare setting ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "ranging from 43.5 % for the nosocomial outbreak in Jeddah ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Saudi Arabia , in 2014 to 100 % for both the outbreak in Al-Hasa ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Saudi Arabia , in 2013 and the outbreak in South Korea in 2015 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Both MERS and SARS nosocomial outbreaks are characterized by early nosocomial super-spreading events ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with the reproduction number dropping below 1 within three to five disease generations .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "There was a systematic difference in the exposure patterns of MERS and SARS : a majority of MERS cases occurred among patients who sought care in the same facilities as the index case ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "whereas there was a greater concentration of SARS cases among healthcare workers throughout the outbreak .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Exposure patterns differed slightly by disease generation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "however , especially for SARS .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , the distributions of secondary cases per single primary case varied highly across individual hospital outbreaks ( Kruskal-Wallis test ; P \u003c 0.0001 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with significantly higher transmission heterogeneity in the distribution of secondary cases for MERS than SARS .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Simulations indicate a 2-fold higher probability of occurrence of large outbreaks ( \u003e 100 cases ) for SARS than MERS ( 2 % versus 1 % ) ; however ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "owing to higher transmission heterogeneity ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the largest outbreaks of MERS are characterized by sharper incidence peaks .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The probability of occurrence of MERS outbreaks larger than the South Korean cluster ( n \u003d 186 ) is of the order of 1 % .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Our study suggests that the South Korean outbreak followed a similar progression to previously described hospital clusters involving coronaviruses, with early super-spreading events generating a disproportionately large number of secondary infections, and the transmission potential diminishing greatly in subsequent generations. Differences in relative exposure patterns and transmission heterogeneity of MERS and SARS could point to changes in hospital practices since 2003 or differences in transmission mechanisms of these coronaviruses.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Our study suggests that the South Korean outbreak followed a similar progression to previously described hospital clusters involving coronaviruses ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with early super-spreading events generating a disproportionately large number of secondary infections ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the transmission potential diminishing greatly in subsequent generations .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Differences in relative exposure patterns and transmission heterogeneity of MERS and SARS could point to changes in hospital practices since 2003 or differences in transmission mechanisms of these coronaviruses .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "14",
+    "segment_num": "31",
+    "token_num": "510"
+  }
+}

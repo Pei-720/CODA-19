@@ -1,0 +1,52 @@
+{
+  "paper_id": "51d84dcdb63743d247efcba5d4469bfad39926e9",
+  "metadata": {
+    "title": "",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1843,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "publicly funded repositories, such as the WHO COVID database with rights for unrestricted research re-use and analyses in any form or by any means with acknowledgement of the original source. These permissions are granted for free by Elsevier for as long as the COVID-19 resource centre remains active.",
+      "sentences": [
+        [
+          {
+            "segment_text": "publicly funded repositories , such as the WHO COVID database with rights for unrestricted research re-use and analyses in any form or by any means with acknowledgement of the original source .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These permissions are granted for free by Elsevier for as long as the COVID-19 resource centre remains active .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Several members of the poly(ADP-ribose) polymerase (PARP) family are ISGs with antiviral activity (Box 2). Among them, the best-characterized antiviral protein is Review 0962-8924/ ß",
+      "sentences": [
+        [
+          {
+            "segment_text": "Several members of the poly ( ADP-ribose ) polymerase ( PARP ) family are ISGs with antiviral activity ( Box 2 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Among them , the best-characterized antiviral protein is Review 0962-8924 / ß",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "4",
+    "segment_num": "4",
+    "token_num": "86"
+  }
+}

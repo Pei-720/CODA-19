@@ -1,0 +1,98 @@
+{
+  "paper_id": "1760160dae6e25702c4f3ae7a56b57dbe80850d0",
+  "metadata": {
+    "title": "Face and eyes localization algorithm in thermal images for temperature measurement of the inner canthus of the eyes",
+    "coda_data_split": "train",
+    "coda_paper_id": 2957,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "We developed algorithm for detection and localization of face and eyes in thermal images. The novelty is the modification of the RHT method. The algorithm is highly accurate and fast. The essential parameters of the IR camera were examined before experiments.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We developed algorithm for detection and localization of face and eyes in thermal images .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The novelty is the modification of the RHT method .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The algorithm is highly accurate and fast .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The essential parameters of the IR camera were examined before experiments .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In this paper, a novel algorithm for the detection and localization of the face and eyes in thermal images is presented, particularly the temperature measurement of the human body by measuring the eye corner (inner canthus) temperature. The algorithm uses a combination of the template-matching, knowledgebased and morphological methods, particularly the modified Randomized Hough Transform (RHT) in the localization process, also growing segmentation to increase accuracy of the localization algorithm. In many solutions, the localization of the face and/or eyes is made by manual selection of the regions of the face and eyes and then the average temperature in the region is measured. The paper also discusses experimental studies and the results, which allowed the evaluation of the effectiveness of the developed algorithm. The standardization of measurement, necessary for proper temperature measurement with the use of infrared thermal imaging, are also presented.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this paper , a novel algorithm for the detection and localization of the face and eyes in thermal images is presented ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "particularly the temperature measurement of the human body by measuring the eye corner ( inner canthus ) temperature .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The algorithm uses a combination of the template-matching ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "knowledgebased and morphological methods , particularly the modified Randomized Hough Transform ( RHT ) in the localization process ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "also growing segmentation to increase accuracy of the localization algorithm .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In many solutions , the localization of the face and/or eyes is made by manual selection of the regions of the face and eyes and then the average temperature in the region is measured .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The paper also discusses experimental studies and the results ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which allowed the evaluation of the effectiveness of the developed algorithm .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The standardization of measurement , necessary for proper temperature measurement with the use of infrared thermal imaging , are also presented .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "9",
+    "segment_num": "13",
+    "token_num": "205"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "paper_id": "20ffac4c770cdeddac944a1de2f94c09aef939f1",
+  "metadata": {
+    "title": "Spatial approximations of network-based individual level infectious disease models",
+    "coda_data_split": "train",
+    "coda_paper_id": 6954,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Often, when modeling infectious disease spread, the complex network through which the disease propagates is approximated by simplified spatial information. Here, we simulate epidemic spread through various contact networks and fit spatial-based models in a Bayesian framework using Markov chain Monte Carlo methods. These spatial models are individual-level models which account for the spatio-temporal dynamics of infectious disease. The focus here is on choosing a spatial model which best predicts the true probabilities of infection, as well as determining under which conditions such spatial models fail. Spatial models tend to predict infection probability reasonably well when disease spread is propagated through contact networks in which contacts are only within a certain distance of each other. If contacts exist over long distances, the spatial models tend to perform worse when compared to the network model. Crown",
+      "sentences": [
+        [
+          {
+            "segment_text": "Often , when modeling infectious disease spread ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the complex network through which the disease propagates is approximated by simplified spatial information .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we simulate epidemic spread through various contact networks and fit spatial-based models in a Bayesian framework using Markov chain Monte Carlo methods .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "These spatial models are individual-level models which account for the spatio-temporal dynamics of infectious disease .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The focus here is on choosing a spatial model which best predicts the true probabilities of infection ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "as well as determining under which conditions such spatial models fail .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Spatial models tend to predict infection probability reasonably well when disease spread is propagated through contact networks in which contacts are only within a certain distance of each other .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "If contacts exist over long distances ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the spatial models tend to perform worse when compared to the network model .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Crown",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "10",
+    "token_num": "146"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "paper_id": "2e6b763befef8fc1df4868231c49171d57793e8a",
+  "metadata": {
+    "title": "Resistance Prediction in AML: Analysis of 4,601 Patients from MRC/NCRI, HOVON/SAKK, SWOG, and MD Anderson Cancer Center HHS Public Access",
+    "coda_data_split": "train",
+    "coda_paper_id": 5064,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Therapeutic resistance remains the principal problem in acute myeloid leukemia (AML). We used area under receiver operator characteristic curves (AUC) to quantify our ability to predict therapeutic resistance in individual patients where AUC\u003d1.0 denotes perfect prediction and AUC\u003d0.5 denotes a coin flip, using data from 4,601 patients with newly diagnosed AML given induction therapy with 3+7 or more intense standard regimens in MRC/NCRI, HOVON, SWOG, and MD Anderson Cancer Center studies. Age, performance status, white blood cell count, secondary disease, cytogenetic risk, and FLT3-ITD/NPM1 mutation status were each independently associated with failure to achieve complete remission despite no early death (\"primary refractoriness\"). However, the AUC of a bootstrap-corrected multivariable model predicting this outcome was only 0.78, indicating only fair predictive ability. Removal of FLT3-ITD and NPM1 information only slightly decreased the AUC (0.76). Prediction of resistance, Users may view, print, copy, and download text and data-mine the content in such documents, for the purposes of academic research, subject always to the full Conditions of use:defined as primary refractoriness or short relapse-free survival (RFS), was even more difficult. Our ability to forecast resistance based on routinely available pre-treatment covariates provides a rationale for continued randomization between standard and new therapies and supports further examination of genetic and post-treatment data to optimize resistance prediction in AML.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Therapeutic resistance remains the principal problem in acute myeloid leukemia ( AML ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We used area under receiver operator characteristic curves ( AUC ) to quantify our ability to predict therapeutic resistance in individual patients where AUC \u003d 1.0 denotes perfect prediction and AUC \u003d 0.5 denotes a coin flip ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "using data from 4,601 patients with newly diagnosed AML given induction therapy with 3 +7 or more intense standard regimens in MRC/NCRI ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "HOVON , SWOG , and MD Anderson Cancer Center studies .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Age , performance status , white blood cell count ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "secondary disease , cytogenetic risk ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and FLT3-ITD/NPM1 mutation status were each independently associated with failure to achieve complete remission despite no early death ( `` primary refractoriness \u0027\u0027 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the AUC of a bootstrap-corrected multivariable model predicting this outcome was only 0.78 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "indicating only fair predictive ability .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Removal of FLT3-ITD and NPM1 information only slightly decreased the AUC ( 0.76 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Prediction of resistance , Users may view ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "print , copy , and download text and data-mine the content in such documents ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "for the purposes of academic research ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "subject always to the full Conditions of use : defined as primary refractoriness or short relapse-free survival ( RFS ) , was even more difficult .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our ability to forecast resistance based on routinely available pre-treatment covariates provides a rationale for continued randomization between standard and new therapies and supports further examination of genetic and post-treatment data to optimize resistance prediction in AML .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Acute myeloid leukemia; area under the receiver operator characteristic curve; prediction; therapeutic resistance Walter et al. [x10 3 /μL], median (range) 15 (0-559) 19 (1-510) 14 (0-370) 8 (1-340) 15 (0-559) Platelets 1 [x10 3 /μL], median (range) 56 (2-983) 66 (3-998) 54 (2-9,300) 41 (3-1,069) 58 (2-9,300) Bone marrow blasts 1 , median% (range) 70 (0-100) 60 (0-98) 67 (3-100) 47 (6-96) 65 (0-100) Performance status 1 , n (%) 0-1 2,081 (80) 1,051 (93) 368 (83) 374 (91) 3,874 (84) ",
+      "sentences": [
+        [
+          {
+            "segment_text": "Acute myeloid leukemia ; area under the receiver operator characteristic curve ; prediction ; therapeutic resistance Walter et al. ( x10 3 / μL ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "median ( range ) 15 ( 0-559 ) 19 ( 1-510 ) 14 ( 0-370 ) 8 ( 1-340 ) 15 ( 0-559 ) Platelets 1 ( x10 3 / μL ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "median ( range ) 56 ( 2-983 ) 66 ( 3-998 ) 54 ( 2-9,300 ) 41 ( 3-1,069 ) 58 ( 2-9,300 ) Bone marrow blasts 1 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "median % ( range ) 70 ( 0-100 ) 60 ( 0-98 ) 67 ( 3-100 ) 47 ( 6-96 ) 65 ( 0-100 ) Performance status 1 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "n ( % ) 0-1 2,081 ( 80 ) 1,051 ( 93 ) 368 ( 83 ) 374 ( 91 ) 3,874 ( 84 )",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "8",
+    "segment_num": "20",
+    "token_num": "400"
+  }
+}

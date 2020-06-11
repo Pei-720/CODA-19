@@ -1,0 +1,115 @@
+{
+  "paper_id": "b499a41ad1d85a0e071b59e60065c874e534911d",
+  "metadata": {
+    "title": "Coronavirus 3CL pro proteinase cleavage sites: Possible relevance to SARS virus pathology",
+    "coda_data_split": "train",
+    "coda_paper_id": 10399,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Despite the passing of more than a year since the first outbreak of Severe Acute Respiratory Syndrome (SARS), efficient counter-measures are still few and many believe that reappearance of SARS, or a similar disease caused by a coronavirus, is not unlikely. For other virus families like the picornaviruses it is known that pathology is related to proteolytic cleavage of host proteins by viral proteinases. Furthermore, several studies indicate that virus proliferation can be arrested using specific proteinase inhibitors supporting the belief that proteinases are indeed important during infection. Prompted by this, we set out to analyse and predict cleavage by the coronavirus main proteinase using computational methods.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Despite the passing of more than a year since the first outbreak of Severe Acute Respiratory Syndrome ( SARS ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "efficient counter-measures are still few and many believe that reappearance of SARS ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "or a similar disease caused by a coronavirus , is not unlikely .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "For other virus families like the picornaviruses it is known that pathology is related to proteolytic cleavage of host proteins by viral proteinases .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , several studies indicate that virus proliferation can be arrested using specific proteinase inhibitors supporting the belief that proteinases are indeed important during infection .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Prompted by this , we set out to analyse and predict cleavage by the coronavirus main proteinase using computational methods .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We retrieved sequence data on seven fully sequenced coronaviruses and identified the main 3CL proteinase cleavage sites in polyproteins using alignments. A neural network was trained to recognise the cleavage sites in the genomes obtaining a sensitivity of 87.0% and a specificity of 99.0%. Several proteins known to be cleaved by other viruses were submitted to prediction as well as proteins suspected relevant in coronavirus pathology. Cleavage sites were predicted in proteins such as the cystic fibrosis transmembrane conductance regulator (CFTR), transcription factors CREB-RP and OCT-1, and components of the ubiquitin pathway.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We retrieved sequence data on seven fully sequenced coronaviruses and identified the main 3CL proteinase cleavage sites in polyproteins using alignments .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A neural network was trained to recognise the cleavage sites in the genomes obtaining a sensitivity of 87.0 % and a specificity of 99.0 % .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Several proteins known to be cleaved by other viruses were submitted to prediction as well as proteins suspected relevant in coronavirus pathology .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Cleavage sites were predicted in proteins such as the cystic fibrosis transmembrane conductance regulator ( CFTR ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "transcription factors CREB-RP and OCT-1 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and components of the ubiquitin pathway .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Our prediction method NetCorona predicts coronavirus cleavage sites with high specificity and several potential cleavage candidates were identified which might be important to elucidate coronavirus pathology. Furthermore, the method might assist in design of proteinase inhibitors for treatment of SARS and possible future diseases caused by coronaviruses. It is made available for public use at our website",
+      "sentences": [
+        [
+          {
+            "segment_text": "Our prediction method NetCorona predicts coronavirus cleavage sites with high specificity and several potential cleavage candidates were identified which might be important to elucidate coronavirus pathology .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , the method might assist in design of proteinase inhibitors for treatment of SARS and possible future diseases caused by coronaviruses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is made available for public use at our website",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "11",
+    "segment_num": "15",
+    "token_num": "282"
+  }
+}

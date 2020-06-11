@@ -1,0 +1,83 @@
+{
+  "paper_id": "beefb6193302ec5be2c1ae75e0f6247cf070be5d",
+  "metadata": {
+    "title": "Predicting the Potential Role of Non-human Hosts in Zika Virus Maintenance",
+    "coda_data_split": "train",
+    "coda_paper_id": 10080,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Arboviruses are often maintained in complex cycles involving vertebrates such as mammals or birds and blood-feeding mosquitoes. However, the role of wildlife hosts in their emergence or re-emergence in human populations has received little attention. The recent emergence of Zika virus in America, and previous occurrences of chikungunya and dengue, forces us to confront a potential new disease-emergence phenomenon. Using a spatial data mining framework to identify potential biotic interactions, based on the degree of co-occurrence between different species, we identified those mammal species with the highest potential for establishing mammal-vector interactions, considering as principal vector Aedes aegypti. Seven of the top ten identified mammal species with highest potential were bats, with two of them having previously been confirmed as positive hosts for dengue in Mexico. We hope that this will raise interest of Mexican public health authorities and academic institutions to assess the role of wild hosts in the maintenance and spread of arboviruses.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Arboviruses are often maintained in complex cycles involving vertebrates such as mammals or birds and blood-feeding mosquitoes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the role of wildlife hosts in their emergence or re-emergence in human populations has received little attention .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The recent emergence of Zika virus in America ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and previous occurrences of chikungunya and dengue ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "forces us to confront a potential new disease-emergence phenomenon .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using a spatial data mining framework to identify potential biotic interactions ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "based on the degree of co-occurrence between different species ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we identified those mammal species with the highest potential for establishing mammal-vector interactions ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "considering as principal vector Aedes aegypti .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Seven of the top ten identified mammal species with highest potential were bats ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with two of them having previously been confirmed as positive hosts for dengue in Mexico .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We hope that this will raise interest of Mexican public health authorities and academic institutions to assess the role of wild hosts in the maintenance and spread of arboviruses .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "12",
+    "token_num": "168"
+  }
+}

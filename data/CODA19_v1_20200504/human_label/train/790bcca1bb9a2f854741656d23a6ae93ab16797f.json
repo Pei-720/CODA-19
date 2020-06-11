@@ -1,0 +1,59 @@
+{
+  "paper_id": "790bcca1bb9a2f854741656d23a6ae93ab16797f",
+  "metadata": {
+    "title": "The book reopened on infectious diseases",
+    "coda_data_split": "train",
+    "coda_paper_id": 5183,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Emerging infectious diseases represent a major challenge to human health worldwide. The risk of evolving new infectious pathogens has been intensifying due to urbanization, demographic changes, air travel, inappropriate use of antibiotics, and climate change. These pathogens can affect humans from urban centers to the remotest corners of the globe. Far from being a scourge of the past, infectious diseases are relevant for the world today.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Emerging infectious diseases represent a major challenge to human health worldwide .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The risk of evolving new infectious pathogens has been intensifying due to urbanization ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "demographic changes , air travel ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "inappropriate use of antibiotics , and climate change .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These pathogens can affect humans from urban centers to the remotest corners of the globe .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Far from being a scourge of the past ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "infectious diseases are relevant for the world today .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "4",
+    "segment_num": "7",
+    "token_num": "75"
+  }
+}

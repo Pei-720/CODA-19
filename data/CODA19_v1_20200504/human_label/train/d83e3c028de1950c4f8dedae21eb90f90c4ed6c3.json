@@ -1,0 +1,255 @@
+{
+  "paper_id": "d83e3c028de1950c4f8dedae21eb90f90c4ed6c3",
+  "metadata": {
+    "title": "Translational profiling of macrophages infected with Leishmania donovani identifies 2 mTOR-and eIF4A-sensitive immune-related transcripts",
+    "coda_data_split": "train",
+    "coda_paper_id": 2052,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "24 The protozoan parasite Leishmania donovani (L. donovani) causes visceral leishmaniasis, a 25 chronic infection which is fatal when untreated. While previous studies showed that L. donovani 26 reprograms transcription to subvert host cell functions, it remains unclear whether the parasite 27 also alters host mRNA translation to establish a successful infection. To assess this, we 28 compared transcriptome-wide translation in primary mouse macrophages infected with L. 29 donovani promastigotes or amastigotes using polysome-profiling. This identified ample selective 30 changes in translation (3,127 transcripts) which were predicted to target central cellular functions 31 by inducing synthesis of proteins related to chromatin remodeling and RNA metabolism while 32 inhibiting those related to intracellular trafficking and antigen presentation. Parallel 33 quantification of protein and mRNA levels for a set of transcripts whose translation was 34 activated upon L. donovani infection (Papbpc1, Eif2ak2, and Tgfb) confirmed, as indicated by 35 polysome-profiling, increased protein levels despite largely unaltered mRNA levels. Mechanistic 36 in silico analyses suggested activated translation depending on the kinase mTOR (e.g. Pabpc1) 37 and the RNA helicase eIF4A (e.g. Tgfb) during infection. Accordingly, treatment with mTOR 38 inhibitors torin-1 or rapamycin reversed L. donovani-induced PABPC1 without affecting 39 corresponding transcript levels. Similarly, the production of TGF-β decreased in presence of the 40 eIF4A inhibitor silvestrol despite unaltered Tgfb mRNA levels. Consistent with parasite 41 modulation of host eIF4A-sensitive translation to promote infection, silvestrol suppressed L. 42 donovani replication within macrophages. In contrast, parasite survival was favored under 43 mTOR inhibition. In summary, infection-associated changes in translation of mTOR-and eIF4A-44 sensitive mRNAs contribute to modulate mRNA metabolism and immune responses in L. 45 donovani-infected macrophages. Although the net outcome of such translation programs favours . CC-BY 4.0 : bioRxiv preprint 4 48 Author Summary 49 Fine-tuning the efficiency of mRNA translation into proteins allows cells to tailor their responses 50 to stress without the need for synthesizing new mRNA molecules. It is well established that the 51 protozoan parasite Leishmania donovani alters transcription of specific genes to subvert host cell 52 functions. However, discrepancies between transcriptomic and proteomic data suggest that post-53 transcriptional regulatory mechanisms also contribute to modulate host gene expression 54 programs during L. donovani infection. Herein, we report that one third of protein-coding 55 mRNAs expressed in macrophages are differentially translated upon infection with L. donovani. 56 Our computational analyses reveal that subsets of mRNAs encoding functionally related proteins 57 share the same directionality of translational regulation, which is likely to impact metabolic and 58 microbicidal activity of infected cells. We also show that upregulated translation of transcripts 59 that encode central regulators of mRNA metabolism and inflammation is sensitive to the 60 activation of mTOR or eIF4A during infection. Finally, we observe that inhibition of eIF4A 61 activity reduces parasite survival within macrophages while selective blockade of mTOR has the 62 opposite effect. Thus, our study points to a dual role for translational control of host gene 63 expression during L. donovani infection and suggests that novel regulatory nodes could be 64 targeted for therapeutic intervention. : bioRxiv preprint 5 65 66 Visceral leishmaniasis (VL) is a vector-borne infection caused by protozoan parasites of the 67 Leishmania donovani (L. donovani) complex. VL is endemic in more than 60 countries and is 68 frequently lethal if untreated (1). The lack of efficient vaccines and the failure to control 69 emerging parasite resistance reflect the urgent need to design safe and efficient therapeutics 70 targeting host-encoded factors (2). In mammalian hosts, Leishmania promastigotes preferentially 71 colonize macrophages, where they transform into replicative amastigotes that proliferate within 72 modified phagolysosomes (1). To establish a successful infection, the parasite dampens 73 antimicrobial responses, alters vesicle trafficking, and subverts immunomodulatory functions 74 and metabolic processes of the host cell (3). 75 76 At the molecular level, L. donovani modulates the activity of multiple host cell signaling 77 pathways and transcription factors (3). Consistently, profiling of mRNA levels in L. donovani-78 infected macrophages revealed vast perturbation in host gene expression programs associated 79 with parasite persistence (4-8). The pioneering data supporting widespread changes in host cell 80 mRNA levels following L. donovani infection were obtained in bone marrow-derived 81 macrophages (BMDMs) using cDNA-microarrays (4). This study showed that L. donovani 82 axenic amastigotes downregulate expression of genes involved in apoptosis and NF-κB signaling 83 while stimulating those encoding monocyte chemoattractants. Subsequently, DNA-microarray 84 based studies of human and mouse monocyte-derived macrophages infected with L. donovani 85 promastigotes identified increased levels of transcripts related to cell migration and repression of 86 genes encoding MHC class II molecules (5, 6). More recently, RNA sequencing (RNAseq) of 87 mouse peritoneal macrophages infected with L. donovani showed a strong suppression of genes . CC-BY 4.0",
+      "sentences": [
+        [
+          {
+            "segment_text": "24 The protozoan parasite Leishmania donovani ( L. donovani ) causes visceral leishmaniasis ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a 25 chronic infection which is fatal when untreated .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "While previous studies showed that L. donovani 26 reprograms transcription to subvert host cell functions ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "it remains unclear whether the parasite 27 also alters host mRNA translation to establish a successful infection .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To assess this , we 28 compared transcriptome-wide translation in primary mouse macrophages infected with L. 29 donovani promastigotes or amastigotes using polysome-profiling .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This identified ample selective 30 changes in translation ( 3,127 transcripts ) which were predicted to target central cellular functions 31 by inducing synthesis of proteins related to chromatin remodeling and RNA metabolism while 32 inhibiting those related to intracellular trafficking and antigen presentation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Parallel 33 quantification of protein and mRNA levels for a set of transcripts whose translation was 34 activated upon L. donovani infection ( Papbpc1 , Eif2ak2 , and Tgfb ) confirmed ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as indicated by 35 polysome-profiling ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "increased protein levels despite largely unaltered mRNA levels .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Mechanistic 36 in silico analyses suggested activated translation depending on the kinase mTOR ( e.g. Pabpc1 ) 37 and the RNA helicase eIF4A ( e.g. Tgfb ) during infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Accordingly , treatment with mTOR 38 inhibitors torin-1 or rapamycin reversed L. donovani-induced PABPC1 without affecting 39 corresponding transcript levels .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Similarly , the production of TGF-β decreased in presence of the 40 eIF4A inhibitor silvestrol despite unaltered Tgfb mRNA levels .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Consistent with parasite 41 modulation of host eIF4A-sensitive translation to promote infection ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "silvestrol suppressed L. 42 donovani replication within macrophages .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In contrast , parasite survival was favored under 43 mTOR inhibition .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In summary , infection-associated changes in translation of mTOR-and eIF4A-44 sensitive mRNAs contribute to modulate mRNA metabolism and immune responses in L. 45 donovani-infected macrophages .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although the net outcome of such translation programs favours .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "CC-BY 4.0 : bioRxiv preprint 4 48 Author Summary 49 Fine-tuning the efficiency of mRNA translation into proteins allows cells to tailor their responses 50 to stress without the need for synthesizing new mRNA molecules .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is well established that the 51 protozoan parasite Leishmania donovani alters transcription of specific genes to subvert host cell 52 functions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , discrepancies between transcriptomic and proteomic data suggest that post-53 transcriptional regulatory mechanisms also contribute to modulate host gene expression 54 programs during L. donovani infection .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Herein , we report that one third of protein-coding 55 mRNAs expressed in macrophages are differentially translated upon infection with L. donovani .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "56 Our computational analyses reveal that subsets of mRNAs encoding functionally related proteins 57 share the same directionality of translational regulation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which is likely to impact metabolic and 58 microbicidal activity of infected cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also show that upregulated translation of transcripts 59 that encode central regulators of mRNA metabolism and inflammation is sensitive to the 60 activation of mTOR or eIF4A during infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , we observe that inhibition of eIF4A 61 activity reduces parasite survival within macrophages while selective blockade of mTOR has the 62 opposite effect .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , our study points to a dual role for translational control of host gene 63 expression during L. donovani infection and suggests that novel regulatory nodes could be 64 targeted for therapeutic intervention .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": ": bioRxiv preprint 5 65 66 Visceral leishmaniasis ( VL ) is a vector-borne infection caused by protozoan parasites of the 67 Leishmania donovani ( L. donovani ) complex .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "VL is endemic in more than 60 countries and is 68 frequently lethal if untreated ( 1 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The lack of efficient vaccines and the failure to control 69 emerging parasite resistance reflect the urgent need to design safe and efficient therapeutics 70 targeting host-encoded factors ( 2 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In mammalian hosts , Leishmania promastigotes preferentially 71 colonize macrophages ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "where they transform into replicative amastigotes that proliferate within 72 modified phagolysosomes ( 1 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To establish a successful infection ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the parasite dampens 73 antimicrobial responses ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "alters vesicle trafficking , and subverts immunomodulatory functions 74 and metabolic processes of the host cell ( 3 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "75 76 At the molecular level ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "L. donovani modulates the activity of multiple host cell signaling 77 pathways and transcription factors ( 3 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Consistently , profiling of mRNA levels in L. donovani-78 infected macrophages revealed vast perturbation in host gene expression programs associated 79 with parasite persistence ( 4-8 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The pioneering data supporting widespread changes in host cell 80 mRNA levels following L. donovani infection were obtained in bone marrow-derived 81 macrophages ( BMDMs ) using cDNA-microarrays ( 4 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study showed that L. donovani 82 axenic amastigotes downregulate expression of genes involved in apoptosis and NF-κB signaling 83 while stimulating those encoding monocyte chemoattractants .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Subsequently , DNA-microarray 84 based studies of human and mouse monocyte-derived macrophages infected with L. donovani 85 promastigotes identified increased levels of transcripts related to cell migration and repression of 86 genes encoding MHC class II molecules ( 5 , 6 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "More recently , RNA sequencing ( RNAseq ) of 87 mouse peritoneal macrophages infected with L. donovani showed a strong suppression of genes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "CC-BY 4.0",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "32",
+    "segment_num": "42",
+    "token_num": "877"
+  }
+}

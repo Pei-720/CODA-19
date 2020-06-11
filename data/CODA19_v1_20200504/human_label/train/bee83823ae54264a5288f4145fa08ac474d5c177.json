@@ -1,0 +1,250 @@
+{
+  "paper_id": "bee83823ae54264a5288f4145fa08ac474d5c177",
+  "metadata": {
+    "title": "Detection of COPD Exacerbations and Compliance With Patient-Reported Daily Symptom Diaries Using a Smartphone- Based Information System",
+    "coda_data_split": "train",
+    "coda_paper_id": 5269,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "publicly funded repositories, such as the WHO COVID database with rights for unrestricted research re-use and analyses in any form or by any means with acknowledgement of the original source. These permissions are granted for free by Elsevier for as long as the COVID-19 resource centre remains active.",
+      "sentences": [
+        [
+          {
+            "segment_text": "publicly funded repositories , such as the WHO COVID database with rights for unrestricted research re-use and analyses in any form or by any means with acknowledgement of the original source .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These permissions are granted for free by Elsevier for as long as the COVID-19 resource centre remains active .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Original Research COPD journal.publications.chestnet.org CHEST / 144 / 2 / AUGUST 2013",
+      "sentences": [
+        [
+          {
+            "segment_text": "Original Research COPD journal.publications.chestnet.org CHEST / 144 / 2 / AUGUST 2013",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "S tudies of COPD that have used self-report of possible COPD exacerbations detect one-third to onehalf of all exacerbations that occur. 1-4 Participants using paper-based data recording in studies of respiratory diseases often falsify data, 5,6 and the likelihood of this occurring increases with the length of the study. In one randomized trial of electronic symptom record ing vs monitored paper-based recording, actual compliance was 94% in the electronic group, whereas fabricated compliance with paper-based recording was 73%. 7 COPD exacerbations requiring hospital treatment are more frequent in winter. 8-10 Peaks in both COPD hospitalization and mortality occur in England at year-end 11,12 and have been observed to be centered on the Christmas period in the United Kingdom, Canada, and Sweden. 12 In the Toward a Revolution in COPD Health (TORCH) study, the highest rates of COPD exacerbations for northern hemisphere participants occurred in December, with the nexthighest in January. 13 Furthermore, children\u0027s presentations to general practitioners in England and Wales for acute bronchitis and hospitalization for respiratory diseases increase immediately before the Christmas period, 14 preceding peaks in adults. 14,15 Periods of school attendance and high levels of respiratory virus detection in children have been shown to coincide Background: Paper-based diaries and self-report of symptom worsening in COPD may lead to underdetection of exacerbations. Epidemiologically, COPD exacerbations exhibit seasonal patterns peaking at year-end. We examined whether the use of a BlackBerry-based daily symptom diary would detect 95% or more of exacerbations and enable characterization of seasonal differences among them.",
+      "sentences": [
+        [
+          {
+            "segment_text": "S tudies of COPD that have used self-report of possible COPD exacerbations detect one-third to onehalf of all exacerbations that occur .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "1-4 Participants using paper-based data recording in studies of respiratory diseases often falsify data ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "5,6 and the likelihood of this occurring increases with the length of the study .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In one randomized trial of electronic symptom record ing vs monitored paper-based recording ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "actual compliance was 94 % in the electronic group ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "whereas fabricated compliance with paper-based recording was 73 % .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "7 COPD exacerbations requiring hospital treatment are more frequent in winter .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "8-10 Peaks in both COPD hospitalization and mortality occur in England at year-end 11,12 and have been observed to be centered on the Christmas period in the United Kingdom , Canada , and Sweden .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "12 In the Toward a Revolution in COPD Health ( TORCH ) study ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the highest rates of COPD exacerbations for northern hemisphere participants occurred in December ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with the nexthighest in January .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "13 Furthermore , children \u0027s presentations to general practitioners in England and Wales for acute bronchitis and hospitalization for respiratory diseases increase immediately before the Christmas period ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "14 preceding peaks in adults .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "14,15 Periods of school attendance and high levels of respiratory virus detection in children have been shown to coincide Background : Paper-based diaries and self-report of symptom worsening in COPD may lead to underdetection of exacerbations .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Epidemiologically , COPD exacerbations exhibit seasonal patterns peaking at year-end .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We examined whether the use of a BlackBerry-based daily symptom diary would detect 95 % or more of exacerbations and enable characterization of seasonal differences among them .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "December 2008. Participants transmitted daily symptom diaries using a BlackBerry. Alerts were triggered when symptom changes, missed diary transmissions, or medical care for a respiratory problem occurred. Participant encounters were initiated if COPD exacerbations were suspected. Participants used their BlackBerrys to report returns to normal breathing. Results: Participants transmitted 99.9% of 28,514 possible daily diaries. All 191 (2.5/participant-year) COPD exacerbations meeting Anthonisen criteria were detected. During 148 of the 191 exacerbations (78%, 1.97/participant-year), patients were hospitalized and/or ordered prednisone, an antibiotic, or both. Respiratory viruses were detected in 78 of the 191 exacerbations (41%). Those coinciding with a respiratory viral infection averaged 12.0 days, and those without averaged 8.9 days ( P , .04), with no difference in Anthonisen score. Respiratory symptom scores before exacerbations and after normal breathing return showed no differences. Exacerbations were more frequent during the Christmas period than the rest of the year but were not more frequent than in the rest of winter alone. Conclusions: Smartphone-based collection of COPD symptom diaries enables near-complete identifi cation of exacerbations at inception. Exacerbation rates in the Christmas season do not reach levels that necessitate changes in disease management. CHEST 2013; 144(2):507-514",
+      "sentences": [
+        [
+          {
+            "segment_text": "December 2008 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Participants transmitted daily symptom diaries using a BlackBerry .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Alerts were triggered when symptom changes ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "missed diary transmissions , or medical care for a respiratory problem occurred .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Participant encounters were initiated if COPD exacerbations were suspected .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Participants used their BlackBerrys to report returns to normal breathing .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results : Participants transmitted 99.9 % of 28,514 possible daily diaries .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "All 191 ( 2.5 / participant-year ) COPD exacerbations meeting Anthonisen criteria were detected .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "During 148 of the 191 exacerbations ( 78 % , 1.97 / participant-year ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "patients were hospitalized and/or ordered prednisone ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "an antibiotic , or both .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Respiratory viruses were detected in 78 of the 191 exacerbations ( 41 % ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Those coinciding with a respiratory viral infection averaged 12.0 days ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and those without averaged 8.9 days ( P , .04 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with no difference in Anthonisen score .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Respiratory symptom scores before exacerbations and after normal breathing return showed no differences .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Exacerbations were more frequent during the Christmas period than the rest of the year but were not more frequent than in the rest of winter alone .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Conclusions : Smartphone-based collection of COPD symptom diaries enables near-complete identifi cation of exacerbations at inception .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Exacerbation rates in the Christmas season do not reach levels that necessitate changes in disease management .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "CHEST 2013 ; 144 ( 2 ) : 507-514",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "28",
+    "segment_num": "39",
+    "token_num": "577"
+  }
+}

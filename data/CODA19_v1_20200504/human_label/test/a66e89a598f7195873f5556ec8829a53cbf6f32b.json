@@ -1,0 +1,184 @@
+{
+  "paper_id": "a66e89a598f7195873f5556ec8829a53cbf6f32b",
+  "metadata": {
+    "title": "Identification of a novel base J binding protein complex involved in RNA polymerase II transcription termination in trypanosomes",
+    "coda_data_split": "test",
+    "coda_paper_id": 288,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Base J, β-D-glucosyl-hydroxymethyluracil, is a modification of thymine DNA base involved in RNA Polymerase (Pol) II transcription termination in kinetoplastid protozoa. Little is understood regarding how specific thymine residues are targeted for J-modification or the mechanism of J regulated transcription termination. To identify proteins involved in J-synthesis, we expressed a tagged version of the J-glucosyltransferase (JGT) in Leishmania tarentolae, and identified four co-purified proteins by mass spectrometry: protein phosphatase (PP1), a homolog of Wdr82, a potential PP1 regulatory protein (PNUTS) and a protein containing a J-DNA binding domain (named JBP3). Gel shift studies indicate JBP3 is a J-DNA binding protein. Reciprocal tagging, co-IP and sucrose gradient analyses indicate PP1, JGT, JBP3, Wdr82 and PNUTS form a multimeric complex in kinetoplastids, similar to the mammalian PTW/PP1 complex involved in transcription termination via PP1 mediated dephosphorylation of Pol II. Using RNAi and analysis of Pol II termination by RNA-seq and RT-PCR, we demonstrate that ablation of PNUTS, JBP3 and Wdr82 lead to defects in Pol II termination at the 3\u0027-end of polycistronic gene arrays in Trypanosoma brucei. Mutants also contain increased antisense RNA levels upstream of transcription start sites, suggesting an additional role of the complex in regulating termination of bi-directional transcription. In addition, PNUTS loss causes derepression of silent Variant Surface Glycoprotein genes involved in host immune evasion. Our results suggest a novel mechanistic link between base J and Pol II polycistronic transcription termination in kinetoplastids.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Base J , β-D-glucosyl-hydroxymethyluracil , is a modification of thymine DNA base involved in RNA Polymerase ( Pol ) II transcription termination in kinetoplastid protozoa .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Little is understood regarding how specific thymine residues are targeted for J-modification or the mechanism of J regulated transcription termination .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To identify proteins involved in J-synthesis ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we expressed a tagged version of the J-glucosyltransferase ( JGT ) in Leishmania tarentolae ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and identified four co-purified proteins by mass spectrometry : protein phosphatase ( PP1 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a homolog of Wdr82 , a potential PP1 regulatory protein ( PNUTS ) and a protein containing a J-DNA binding domain ( named JBP3 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Gel shift studies indicate JBP3 is a J-DNA binding protein .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Reciprocal tagging , co-IP and sucrose gradient analyses indicate PP1 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "JGT , JBP3 , Wdr82 and PNUTS form a multimeric complex in kinetoplastids ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "similar to the mammalian PTW/PP1 complex involved in transcription termination via PP1 mediated dephosphorylation of Pol II .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using RNAi and analysis of Pol II termination by RNA-seq and RT-PCR ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we demonstrate that ablation of PNUTS ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "JBP3 and Wdr82 lead to defects in Pol II termination at the 3 \u0027 - end of polycistronic gene arrays in Trypanosoma brucei .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Mutants also contain increased antisense RNA levels upstream of transcription start sites ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "suggesting an additional role of the complex in regulating termination of bi-directional transcription .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , PNUTS loss causes derepression of silent Variant Surface Glycoprotein genes involved in host immune evasion .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our results suggest a novel mechanistic link between base J and Pol II polycistronic transcription termination in kinetoplastids .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Trypanosoma brucei is a parasitic protozoan that causes African sleeping sickness in humans. The genome of T. brucei is organized into polycistronic gene clusters that contain multiple genes that are co-transcribed from a single promoter. We have recently described the presence of a modified DNA base J and variant of histone H3 (H3.V) at transcription termination sites within gene clusters where the loss of base J and H3.V leads to read-through transcription and the expression of downstream genes. We now PLOS Genetics | https://doi.identify a novel stable multimeric complex containing a J binding protein (JBP3), base J glucosyltransferase (JGT), PP1 phosphatase, PP1 interactive-regulatory protein (PNUTS) and Wdr82, which we refer to as PJW/PP1. A similar complex (PTW/PP1) has been shown to be involved in Pol II termination in humans and yeast. We demonstrate that PNUTS, JBP3 and Wdr82 mutants lead to read-through transcription in T. brucei. Our data suggest the PJW/PP1 complex regulates termination by recruitment to termination sites via JBP3-base J interactions and dephosphorylation of specific proteins (including Pol II and termination factors) by PP1. These findings significantly expand our understanding of mechanisms underlying transcription termination in eukaryotes, including organisms that utilize polycistronic transcription and novel epigenetic marks such as base J and H3.V. The studies also provide the first direct mechanistic link between J modification of DNA at termination sites and regulated Pol II termination and gene expression in kinetoplastids.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Trypanosoma brucei is a parasitic protozoan that causes African sleeping sickness in humans .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The genome of T. brucei is organized into polycistronic gene clusters that contain multiple genes that are co-transcribed from a single promoter .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We have recently described the presence of a modified DNA base J and variant of histone H3 ( H3.V ) at transcription termination sites within gene clusters where the loss of base J and H3.V leads to read-through transcription and the expression of downstream genes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We now PLOS Genetics | https://doi.identify a novel stable multimeric complex containing a J binding protein ( JBP3 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "base J glucosyltransferase ( JGT ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "PP1 phosphatase , PP1 interactive-regulatory protein ( PNUTS ) and Wdr82 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which we refer to as PJW/PP1 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A similar complex ( PTW/PP1 ) has been shown to be involved in Pol II termination in humans and yeast .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We demonstrate that PNUTS , JBP3 and Wdr82 mutants lead to read-through transcription in T. brucei .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our data suggest the PJW/PP1 complex regulates termination by recruitment to termination sites via JBP3-base J interactions and dephosphorylation of specific proteins ( including Pol II and termination factors ) by PP1 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These findings significantly expand our understanding of mechanisms underlying transcription termination in eukaryotes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including organisms that utilize polycistronic transcription and novel epigenetic marks such as base J and H3.V .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The studies also provide the first direct mechanistic link between J modification of DNA at termination sites and regulated Pol II termination and gene expression in kinetoplastids .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "18",
+    "segment_num": "30",
+    "token_num": "532"
+  }
+}

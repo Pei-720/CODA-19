@@ -1,0 +1,302 @@
+{
+  "paper_id": "a99d23691f8e8353280d1da87cedcabd40df768a",
+  "metadata": {
+    "title": "Structure-activity relationships of heteroaromatic esters as human rhinovirus 3C protease inhibitors",
+    "coda_data_split": "train",
+    "coda_paper_id": 8478,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Human rhinovirus 3C protease (HRV 3C pro ) is known to be a promising target for development of therapeutic agents against the common cold because of the importance of the protease in viral replication as well as its expression in a large number of serotypes. To explore non-peptidic inhibitors of HRV 3C pro , a series of novel heteroaromatic esters was synthesized and evaluated for inhibitory activity against HRV 3C pro , to determine the structure-activity relationships. The most potent inhibitor, 7, with a 5-bromopyridinyl group, had an IC 50 value of 80 nM. In addition, the binding mode of a novel analog, 19, with the 4hydroxyquinolinone moiety, was explored by molecular docking, suggesting a new interaction in the S1 pocket.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Human rhinovirus 3C protease ( HRV 3C pro ) is known to be a promising target for development of therapeutic agents against the common cold because of the importance of the protease in viral replication as well as its expression in a large number of serotypes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To explore non-peptidic inhibitors of HRV 3C pro ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "a series of novel heteroaromatic esters was synthesized and evaluated for inhibitory activity against HRV 3C pro ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "to determine the structure-activity relationships .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The most potent inhibitor , 7 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with a 5-bromopyridinyl group , had an IC 50 value of 80 nM .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , the binding mode of a novel analog ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "19 , with the 4hydroxyquinolinone moiety ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "was explored by molecular docking ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "suggesting a new interaction in the S1 pocket .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Ó 2009 Elsevier Ltd. All rights reserved.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Ó 2009 Elsevier Ltd. .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "All rights reserved .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Picornaviruses include important human pathogens such as human rhinovirus (HRV), enterovirus (EV), coxsackievirus (CV), poliovirus (PV), and hepatitis A virus (HAV). HRVs are the single major cause of the common cold in populations of all ages. 1,2 Although rhinovirus infection is self-limiting, complications still occur in patients with asthma, congestive heart failure, bronchiectasis, and cystic fibrosis. 1 To date, no agent has been approved by the FDA for treatment of rhinovirus infection. In addition, the large number (\u003e100) of known HRV serotypes makes vaccine development difficult. 3 Clinical treatments are directed toward relief of the most prominent symptoms of each clinical syndrome. Previous work on anti-rhinoviral therapeutic agents focused principally on capsid-binding anti-picornaviral compounds 4 and HRV 3C protease (3C pro ) inhibitors. 5, 6 HRV 3C pro is essential for virus replication, specifically catalyzing the cleavage of glutamine-glycine peptide bonds in a 230 kDa viral polyprotein produced by cellular translation of the viral RNA genome. HRV 3C pro belongs to the cysteine protease family, showing structural similarity to trypsin proteases, but sharing minimal homology with common mammalian enzymes. 7,8 Because of the importance of the enzyme in viral replication, and the high conservation of enzyme active site components in all known HRV serotypes, potent and selective HRV 3C pro inhibitors could be potential broad-spectrum anti-rhinoviral therapeutic agents. [9] [10] [11] As part of an effort to develop HRV 3C pro inhibitors, peptidomimetic approaches have been widely employed based on active site structure and cleavage specificity. To date, one peptidomimetic analog, rupintrivir (AG7088) (1), shown in Figure 1 , is the only HRV 3C Pro inhibitor that has advanced to the stage of human clinical trials. Phase II clinical trials of rupintrivir showed that intranasal delivery reduced the mean total daily symptom score by 33%. 12 Recently, several efforts to develop orally bioavailable anti-rhinoviral agents have been reported; these include a rupintrivir analog, 2, 13 with an improved pharmacokinetic profile, and the non-peptidic inhibitors 3 and 4. 14-16",
+      "sentences": [
+        [
+          {
+            "segment_text": "Picornaviruses include important human pathogens such as human rhinovirus ( HRV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "enterovirus ( EV ) , coxsackievirus ( CV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "poliovirus ( PV ) , and hepatitis A virus ( HAV ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "HRVs are the single major cause of the common cold in populations of all ages .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "1,2 Although rhinovirus infection is self-limiting ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "complications still occur in patients with asthma ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "congestive heart failure , bronchiectasis , and cystic fibrosis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "1 To date , no agent has been approved by the FDA for treatment of rhinovirus infection .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , the large number ( \u003e 100 ) of known HRV serotypes makes vaccine development difficult .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "3 Clinical treatments are directed toward relief of the most prominent symptoms of each clinical syndrome .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Previous work on anti-rhinoviral therapeutic agents focused principally on capsid-binding anti-picornaviral compounds 4 and HRV 3C protease ( 3C pro ) inhibitors .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "5 , 6 HRV 3C pro is essential for virus replication ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "specifically catalyzing the cleavage of glutamine-glycine peptide bonds in a 230 kDa viral polyprotein produced by cellular translation of the viral RNA genome .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "HRV 3C pro belongs to the cysteine protease family ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "showing structural similarity to trypsin proteases ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but sharing minimal homology with common mammalian enzymes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "7,8 Because of the importance of the enzyme in viral replication ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and the high conservation of enzyme active site components in all known HRV serotypes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "potent and selective HRV 3C pro inhibitors could be potential broad-spectrum anti-rhinoviral therapeutic agents .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "( 9 ) ( 10 ) ( 11 ) As part of an effort to develop HRV 3C pro inhibitors ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "peptidomimetic approaches have been widely employed based on active site structure and cleavage specificity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To date , one peptidomimetic analog ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "rupintrivir ( AG7088 ) ( 1 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "shown in Figure 1 , is the only HRV 3C Pro inhibitor that has advanced to the stage of human clinical trials .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Phase II clinical trials of rupintrivir showed that intranasal delivery reduced the mean total daily symptom score by 33 % .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "12 Recently , several efforts to develop orally bioavailable anti-rhinoviral agents have been reported ; these include a rupintrivir analog ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "2 , 13 with an improved pharmacokinetic profile ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and the non-peptidic inhibitors 3 and 4 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "14-16",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The crystal structure of severe acute respiratory syndrome (SARS) coronavirus 3C-like protease (3CL pro ) 17 revealed a high similarity of active site architecture to that of HRV 3C pro , suggesting that picornavirus 3C pro and SARS 3CL pro inhibitors should cross-react. In fact, SARS 3CL pro inhibitors were developed by modifying rupintrivir 18 and common inhibitors with IC 50 values in the micromolar range were recently identified for both picornavirus 3C pro and coronavirus 3CL pro using high-throughput screening. 19,20 The pyridinyl thiophene ester 5 was discovered by screening a small molecule library (50,000 molecules) and has significant inhibitory activity against both HAV 3C pro and SARS 3CL pro (IC 50 \u003d 0.5 lM). 19, 21 Further work on a series of heteroaromatic esters resulted in the discovery of the most potent ester 6, inhibiting SARS 3CL pro with an IC 50 of 30 nM and an antiviral activity (EC 50 value) of 6.9 lM. 22 Another analog, 7, also showed potent inhibition of HAV 3C pro with an IC 50 of 53 nM. 23 Studies on the inhibitory and molecular docking mechanisms of heteroaromatic esters have shown that the 5-halopyridine moiety is crucial in binding to the S1 pocket, because both 3C pro and 3CL pro show high specificity for Gln as the P1 residue. 23 0960-894X/$ -see front matter Ó",
+      "sentences": [
+        [
+          {
+            "segment_text": "The crystal structure of severe acute respiratory syndrome ( SARS ) coronavirus 3C-like protease ( 3CL pro ) 17 revealed a high similarity of active site architecture to that of HRV 3C pro ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "suggesting that picornavirus 3C pro and SARS 3CL pro inhibitors should cross-react .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In fact , SARS 3CL pro inhibitors were developed by modifying rupintrivir 18 and common inhibitors with IC 50 values in the micromolar range were recently identified for both picornavirus 3C pro and coronavirus 3CL pro using high-throughput screening .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "19,20 The pyridinyl thiophene ester 5 was discovered by screening a small molecule library ( 50,000 molecules ) and has significant inhibitory activity against both HAV 3C pro and SARS 3CL pro ( IC 50 \u003d 0.5 lM ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "19 , 21 Further work on a series of heteroaromatic esters resulted in the discovery of the most potent ester 6 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "inhibiting SARS 3CL pro with an IC 50 of 30 nM and an antiviral activity ( EC 50 value ) of 6.9 lM .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "22 Another analog , 7 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "also showed potent inhibition of HAV 3C pro with an IC 50 of 53 nM .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "23 Studies on the inhibitory and molecular docking mechanisms of heteroaromatic esters have shown that the 5-halopyridine moiety is crucial in binding to the S1 pocket ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "because both 3C pro and 3CL pro show high specificity for Gln as the P1 residue .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "23 0960-894 X / $ - see front matter Ó",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "28",
+    "segment_num": "52",
+    "token_num": "783"
+  }
+}

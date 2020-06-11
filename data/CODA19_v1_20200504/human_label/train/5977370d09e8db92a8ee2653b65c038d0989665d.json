@@ -1,0 +1,78 @@
+{
+  "paper_id": "5977370d09e8db92a8ee2653b65c038d0989665d",
+  "metadata": {
+    "title": "",
+    "coda_data_split": "train",
+    "coda_paper_id": 10081,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "publicly funded repositories, such as the WHO COVID database with rights for unrestricted research re-use and analyses in any form or by any means with acknowledgement of the original source. These permissions are granted for free by Elsevier for as long as the COVID-19 resource centre remains active.",
+      "sentences": [
+        [
+          {
+            "segment_text": "publicly funded repositories , such as the WHO COVID database with rights for unrestricted research re-use and analyses in any form or by any means with acknowledgement of the original source .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These permissions are granted for free by Elsevier for as long as the COVID-19 resource centre remains active .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "An epidemiological study has been carried on at the Amiens\u0027 Gynecology-Obstetrical center with the aim to determinate the aetiology of acute gastrointestinal disorders who affeeted part of the newborns over a two months period. Rotavirus was found in 16 babies (33 %) by electronmicroscopy and Enzyme-linked-Immuno-sorbent-Assay {ELISA). In one case, a ,, small round virus ,, was associated with the Rotavirus. Enteropathogenic bacteria were isolated only two times in this syndrom. The infection seem to releave of nosocomial contamination.",
+      "sentences": [
+        [
+          {
+            "segment_text": "An epidemiological study has been carried on at the Amiens \u0027 Gynecology-Obstetrical center with the aim to determinate the aetiology of acute gastrointestinal disorders who affeeted part of the newborns over a two months period .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Rotavirus was found in 16 babies ( 33 % ) by electronmicroscopy and Enzyme-linked-Immuno-sorbent-Assay ( ELISA ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In one case , a ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": ", small round virus , ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "was associated with the Rotavirus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Enteropathogenic bacteria were isolated only two times in this syndrom .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The infection seem to releave of nosocomial contamination .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "7",
+    "segment_num": "9",
+    "token_num": "143"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "paper_id": "4ffcd1d8e0f56c5a238bbd4040ec23410ef71a1b",
+  "metadata": {
+    "title": "",
+    "coda_data_split": "train",
+    "coda_paper_id": 6801,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "We report the first 7,755 patients with confirmed COVID-19 in Korea as of March 13, 2020. A total of 66 deaths were identified, resulting case fatality proportion of 0.9%. Older people, and those with coexisting medical conditions were at risk for fatal outcomes. The highest number of cases were from Daegu, followed by Gyeongbuk, with elevated age-stratified case fatality.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We report the first 7,755 patients with confirmed COVID-19 in Korea as of March 13 , 2020 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A total of 66 deaths were identified ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "resulting case fatality proportion of 0.9 % .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Older people , and those with coexisting medical conditions were at risk for fatal outcomes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The highest number of cases were from Daegu ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "followed by Gyeongbuk , with elevated age-stratified case fatality .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "This summary may help to understand the disease dynamics in the early phase of COVID-19 outbreak, therefore, to guide future public health measures.",
+      "sentences": [
+        [
+          {
+            "segment_text": "This summary may help to understand the disease dynamics in the early phase of COVID-19 outbreak ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "therefore , to guide future public health measures .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "5",
+    "segment_num": "8",
+    "token_num": "95"
+  }
+}

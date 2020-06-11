@@ -1,0 +1,95 @@
+{
+  "paper_id": "bc0a05c990db51533968300c39609e1e90987e96",
+  "metadata": {
+    "title": "Combining network analysis with epidemiological data to inform risk-based surveillance: Application to hepatitis E virus (HEV) in pigs",
+    "coda_data_split": "train",
+    "coda_paper_id": 2466,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Animal movements between farms are a major route of pathogen spread in the pig production sector. This study aimed to pair network analysis and epidemiological data in order to evaluate the impact of animal movements on pathogen prevalence in farms and assess the risk of local areas being exposed to diseases due to incoming movements. Our methodology was applied to hepatitis E virus (HEV), an emerging foodborne zoonotic agent of concern that is highly prevalent in pig farms. Firstly, the pig movement network in France (data recorded in 2013) and the results of a nation-wide seroprevalence study (data collected in 178 farms in 2009) were modelled and analysed. The link between network centrality measures of farms and HEV seroprevalence levels was explored using a generalised linear model. The in-degree and ingoing closeness of farms were found to be statistically associated with high HEV within-farm seroprevalence (p \u003c 0.05). Secondly, the risk of a French département (i.e. French local administrative areas) being exposed to HEV was calculated by combining the distribution of farm-level HEV prevalence in source départements with the number of movements coming from those same départements. By doing so, the risk of exposure for départements was mapped, highlighting differences between geographical patterns of HEV prevalence and the risk of exposure to HEV. These results suggest that not only highly prevalent areas but also those having at-risk movements from infected areas should be monitored. Pathogen management and surveillance options in the pig production sector should therefore take animal movements into consideration, paving the way for the development of targeted and risk-based disease surveillance strategies.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Animal movements between farms are a major route of pathogen spread in the pig production sector .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study aimed to pair network analysis and epidemiological data in order to evaluate the impact of animal movements on pathogen prevalence in farms and assess the risk of local areas being exposed to diseases due to incoming movements .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our methodology was applied to hepatitis E virus ( HEV ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "an emerging foodborne zoonotic agent of concern that is highly prevalent in pig farms .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Firstly , the pig movement network in France ( data recorded in 2013 ) and the results of a nation-wide seroprevalence study ( data collected in 178 farms in 2009 ) were modelled and analysed .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The link between network centrality measures of farms and HEV seroprevalence levels was explored using a generalised linear model .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The in-degree and ingoing closeness of farms were found to be statistically associated with high HEV within-farm seroprevalence ( p \u003c 0.05 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Secondly , the risk of a French département ( i.e. French local administrative areas ) being exposed to HEV was calculated by combining the distribution of farm-level HEV prevalence in source départements with the number of movements coming from those same départements .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "By doing so , the risk of exposure for départements was mapped ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "highlighting differences between geographical patterns of HEV prevalence and the risk of exposure to HEV .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "These results suggest that not only highly prevalent areas but also those having at-risk movements from infected areas should be monitored .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Pathogen management and surveillance options in the pig production sector should therefore take animal movements into consideration ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "paving the way for the development of targeted and risk-based disease surveillance strategies .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "10",
+    "segment_num": "13",
+    "token_num": "290"
+  }
+}

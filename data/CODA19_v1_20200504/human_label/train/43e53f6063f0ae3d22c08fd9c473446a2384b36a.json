@@ -1,0 +1,190 @@
+{
+  "paper_id": "43e53f6063f0ae3d22c08fd9c473446a2384b36a",
+  "metadata": {
+    "title": "Virological Synapse for Cell-Cell Spread of Viruses",
+    "coda_data_split": "train",
+    "coda_paper_id": 4851,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "C ell-to-cell spread of retroviruses via virological synapse (VS) contributes to overall progression of disease. VS are specialized pathogen-induced cellular structures that facilitate cell-to-cell transfer of HIV-1 and HTLV-1. VS provide a mechanistic explanation for cell-associated retroviral replication. While VS share some common features with neurological or immunological synapses, they also exhibit important differences. The role of VS might not be limited to human retroviruses and the emerging role of a plant synapse suggests that VS might well be conserved structures for cell-cell spreading of both animal and plant viruses. Dissection of the VS is just at its beginning, but already offers ample information and fascinating insights into mechanisms of viral replication and cell-to-cell communication.",
+      "sentences": [
+        [
+          {
+            "segment_text": "C ell-to-cell spread of retroviruses via virological synapse ( VS ) contributes to overall progression of disease .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "VS are specialized pathogen-induced cellular structures that facilitate cell-to-cell transfer of HIV-1 and HTLV-1 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "VS provide a mechanistic explanation for cell-associated retroviral replication .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "While VS share some common features with neurological or immunological synapses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "they also exhibit important differences .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The role of VS might not be limited to human retroviruses and the emerging role of a plant synapse suggests that VS might well be conserved structures for cell-cell spreading of both animal and plant viruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Dissection of the VS is just at its beginning ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but already offers ample information and fascinating insights into mechanisms of viral replication and cell-to-cell communication .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The complex functioning of biological systems requires the capacity of cells to interact in a synchronized manner. The capacity of cells to come in close contact with one another enables rapid exchange of information through directed secretion. In complex systems such as the nervous and immune systems, characteristic rearrangements of plasma membrane proteins appear at the cell-cell junction, called synapse. A synapse is defined as \"a stable adhesive junction across which information is relayed by directed secretion\".^ The concept of the neural synapse (NS) was first introduced over a century ago and was depicted as a stable structure organized and specialized in intercellular signaling between neurons. Plasma membranes of the pre and post-synaptic neurons are contiguous and information is conveyed to the downstream cell via secretion of neurotransmitters. In order to generate a favorable microenvironment, stabilization of synapse by scaffolding proteins, mainly cadherins and other adhesion molecules, is required (reviewed in re£ 1). In the immune system, interactions between T cells and antigen presenting cells (APC) are essential for an effective adaptive immune response. By analogy with the nervous system, these specialized interactions occur via an immunological synapse (IS). The concept of the IS has been extended to several types of cell-cell interactions within the context of the immune system (signaling via receptor engagement, lytic granules, directed secretion of cytokines) since its first description 20 years ago (reviewed in refs. 2,3) . Although the IS shares many similarities with the NS, it also differs in two aspects. First, the panel of receptors and adhesion proteins recruited to the IS diverges from those in the neural synapse: integrins play the central role in stabilizing IS. Second, the establishment of an IS is a dynamic process between moving cells, whereas the neural synapse is long-lived. Therefore, in",
+      "sentences": [
+        [
+          {
+            "segment_text": "The complex functioning of biological systems requires the capacity of cells to interact in a synchronized manner .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The capacity of cells to come in close contact with one another enables rapid exchange of information through directed secretion .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In complex systems such as the nervous and immune systems ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "characteristic rearrangements of plasma membrane proteins appear at the cell-cell junction , called synapse .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A synapse is defined as `` a stable adhesive junction across which information is relayed by directed secretion \u0027\u0027 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "^ The concept of the neural synapse ( NS ) was first introduced over a century ago and was depicted as a stable structure organized and specialized in intercellular signaling between neurons .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Plasma membranes of the pre and post-synaptic neurons are contiguous and information is conveyed to the downstream cell via secretion of neurotransmitters .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In order to generate a favorable microenvironment ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "stabilization of synapse by scaffolding proteins ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "mainly cadherins and other adhesion molecules ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "is required ( reviewed in re £ 1 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the immune system , interactions between T cells and antigen presenting cells ( APC ) are essential for an effective adaptive immune response .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "By analogy with the nervous system ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "these specialized interactions occur via an immunological synapse ( IS ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The concept of the IS has been extended to several types of cell-cell interactions within the context of the immune system ( signaling via receptor engagement , lytic granules , directed secretion of cytokines ) since its first description 20 years ago ( reviewed in refs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "2,3 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although the IS shares many similarities with the NS ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "it also differs in two aspects .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "First , the panel of receptors and adhesion proteins recruited to the IS diverges from those in the neural synapse : integrins play the central role in stabilizing IS .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Second , the establishment of an IS is a dynamic process between moving cells ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "whereas the neural synapse is long-lived .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , in",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "21",
+    "segment_num": "30",
+    "token_num": "464"
+  }
+}

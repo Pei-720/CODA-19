@@ -1,0 +1,107 @@
+{
+  "paper_id": "b5a94ade4dd3cb05a85905eccfd90a7e2b521028",
+  "metadata": {
+    "title": "Estimating Absolute and Relative Case Fatality Ratios from Infectious Disease Surveillance Data HHS Public Access",
+    "coda_data_split": "train",
+    "coda_paper_id": 4259,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Knowing which populations are most at risk for severe outcomes from an emerging infectious disease is crucial in deciding the optimal allocation of resources during an outbreak response. The case fatality ratio (CFR) is the fraction of cases that die after contracting a disease. The relative CFR is the factor by which the case fatality in one group is greater or less than that in a second group. Incomplete reporting of the number of infected individuals, both recovered and dead, can lead to biased estimates of the CFR. We define conditions under which the CFR and the relative CFR are identifiable. Furthermore, we propose an estimator for the relative CFR that controls for time-varying reporting rates. We generalize our methods to account for elapsed time between infection and death. To demonstrate the new methodology, we use data from the 1918 influenza pandemic to estimate relative CFRs between counties in Maryland. A simulation study evaluates the performance of the methods in outbreak scenarios. An R software package makes the methods and data presented here freely available. Our work highlights the limitations and challenges associated with estimating absolute and relative CFRs in practice. However, in certain situations, the methods presented here can help identify vulnerable subpopulations early in an outbreak of an emerging pathogen such as pandemic influenza.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Knowing which populations are most at risk for severe outcomes from an emerging infectious disease is crucial in deciding the optimal allocation of resources during an outbreak response .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The case fatality ratio ( CFR ) is the fraction of cases that die after contracting a disease .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The relative CFR is the factor by which the case fatality in one group is greater or less than that in a second group .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Incomplete reporting of the number of infected individuals ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "both recovered and dead , can lead to biased estimates of the CFR .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We define conditions under which the CFR and the relative CFR are identifiable .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , we propose an estimator for the relative CFR that controls for time-varying reporting rates .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We generalize our methods to account for elapsed time between infection and death .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "To demonstrate the new methodology ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we use data from the 1918 influenza pandemic to estimate relative CFRs between counties in Maryland .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A simulation study evaluates the performance of the methods in outbreak scenarios .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "An R software package makes the methods and data presented here freely available .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our work highlights the limitations and challenges associated with estimating absolute and relative CFRs in practice .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , in certain situations ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the methods presented here can help identify vulnerable subpopulations early in an outbreak of an emerging pathogen such as pandemic influenza .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "12",
+    "segment_num": "15",
+    "token_num": "236"
+  }
+}

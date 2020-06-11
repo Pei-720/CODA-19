@@ -1,0 +1,79 @@
+{
+  "paper_id": "eacac53e1c637319c77ac13afb9d714fb2a51796",
+  "metadata": {
+    "title": "TEB4 is a C4HC3 RING finger-containing ubiquitin ligase of the endoplasmic reticulum",
+    "coda_data_split": "train",
+    "coda_paper_id": 9089,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "In the present study, the human TEB4 is identified as a novel ER (endoplasmic reticulum)-resident ubiquitin ligase. TEB4 has homologues in many species and has a number of remarkable properties. TEB4 contains a conserved RING (really interesting new gene) finger and 13 predicted transmembrane domains. The RING finger of TEB4 and its homologues is situated at the Nterminus and has the unconventional C4HC3 configuration. The N-terminus of TEB4 is located in the cytosol. We show that the isolated TEB4 RING domain catalyses ubiquitin ligation in vitro in a reaction that is ubiquitin Lys 48 -specific and involves UBC7 (ubi-quitin-conjugating enzyme 7). These properties are reminiscent of E3 enzymes, which are involved in ER-associated protein degradation. TEB4 is an ER degradation substrate itself, promoting its own degradation in a RING finger-and proteasome-dependent manner.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In the present study , the human TEB4 is identified as a novel ER ( endoplasmic reticulum ) - resident ubiquitin ligase .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "TEB4 has homologues in many species and has a number of remarkable properties .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "TEB4 contains a conserved RING ( really interesting new gene ) finger and 13 predicted transmembrane domains .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The RING finger of TEB4 and its homologues is situated at the Nterminus and has the unconventional C4HC3 configuration .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The N-terminus of TEB4 is located in the cytosol .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We show that the isolated TEB4 RING domain catalyses ubiquitin ligation in vitro in a reaction that is ubiquitin Lys 48 - specific and involves UBC7 ( ubi-quitin-conjugating enzyme 7 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These properties are reminiscent of E3 enzymes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which are involved in ER-associated protein degradation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "TEB4 is an ER degradation substrate itself ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "promoting its own degradation in a RING finger-and proteasome-dependent manner .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "10",
+    "token_num": "152"
+  }
+}

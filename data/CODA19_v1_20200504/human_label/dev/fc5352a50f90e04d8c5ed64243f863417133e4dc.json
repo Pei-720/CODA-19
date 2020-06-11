@@ -1,0 +1,105 @@
+{
+  "paper_id": "fc5352a50f90e04d8c5ed64243f863417133e4dc",
+  "metadata": {
+    "title": "Main factors influencing recovery in MERS Co-V patients using machine learning",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1902,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Middle East Respiratory Syndrome (MERS) is a major infectious disease which has affected the Middle Eastern countries, especially the Kingdom of Saudi Arabia (KSA) since 2012. The high mortality rate associated with this disease has been a major cause of concern. This paper aims at identifying the major factors influencing MERS recovery in KSA. Methods: The data used for analysis was collected from the Ministry of Health website, KSA. The important factors impelling the recovery are found using machine learning. Machine learning models such as support vector machine, conditional inference tree, naïve Bayes and J48 are modelled to identify the important factors. Univariate and multivariate logistic regression analysis is also carried out to identify the significant factors statistically. Result: The main factors influencing MERS recovery rate are identified as age, pre-existing diseases, severity of disease and whether the patient is a healthcare worker or not. In spite of MERS being a zoonotic disease, contact with camels is not a major factor influencing recovery. Conclusion: The methods used were able to determine the prime factors influencing MERS recovery. It can be comprehended that awareness about symptoms and seeking medical intervention at the onset of development of symptoms will make a long way in reducing the mortality rate.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Middle East Respiratory Syndrome ( MERS ) is a major infectious disease which has affected the Middle Eastern countries ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "especially the Kingdom of Saudi Arabia ( KSA ) since 2012 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The high mortality rate associated with this disease has been a major cause of concern .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This paper aims at identifying the major factors influencing MERS recovery in KSA .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Methods : The data used for analysis was collected from the Ministry of Health website , KSA .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The important factors impelling the recovery are found using machine learning .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Machine learning models such as support vector machine ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "conditional inference tree , naïve Bayes and J48 are modelled to identify the important factors .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Univariate and multivariate logistic regression analysis is also carried out to identify the significant factors statistically .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Result : The main factors influencing MERS recovery rate are identified as age ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "pre-existing diseases , severity of disease and whether the patient is a healthcare worker or not .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In spite of MERS being a zoonotic disease ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "contact with camels is not a major factor influencing recovery .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Conclusion : The methods used were able to determine the prime factors influencing MERS recovery .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It can be comprehended that awareness about symptoms and seeking medical intervention at the onset of development of symptoms will make a long way in reducing the mortality rate .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "11",
+    "segment_num": "15",
+    "token_num": "233"
+  }
+}

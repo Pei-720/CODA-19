@@ -1,0 +1,240 @@
+{
+  "paper_id": "8349823092836fe397a59e38615d1491423dbe70",
+  "metadata": {
+    "title": "AI-aided design of novel targeted covalent inhibitors against SARS-CoV-2",
+    "coda_data_split": "train",
+    "coda_paper_id": 3762,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The focused drug repurposing of known approved drugs (such as lopinavir/ritonavir) has been reported failed for curing SARS-CoV-2 infected patients. It is urgent to generate new chemical entities against this virus. As a key enzyme in the life-cycle of coronavirus, the 3C-like main protease (3CL pro or M pro ) is the most attractive for antiviral drug design. Based on a recently solved structure (PDB ID: 6LU7), we developed a novel advanced deep Q-learning network with the fragment-based drug design (ADQN-FBDD) for generating potential lead compounds targeting SARS-CoV-2 3CL pro . We obtained a series of derivatives from those lead compounds by our structure-based optimization policy (SBOP). All the 47 lead compounds directly from our AI-model and related derivatives based on SBOP are accessible in our molecular library at https://github.com/tbwxmu/2019-nCov. These compounds can be used as potential candidates for researchers in their development of drugs against SARS-CoV-2.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The focused drug repurposing of known approved drugs ( such as lopinavir/ritonavir ) has been reported failed for curing SARS-CoV-2 infected patients .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is urgent to generate new chemical entities against this virus .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As a key enzyme in the life-cycle of coronavirus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the 3C-like main protease ( 3CL pro or M pro ) is the most attractive for antiviral drug design .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Based on a recently solved structure ( PDB ID : 6LU7 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we developed a novel advanced deep Q-learning network with the fragment-based drug design ( ADQN-FBDD ) for generating potential lead compounds targeting SARS-CoV-2 3CL pro .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We obtained a series of derivatives from those lead compounds by our structure-based optimization policy ( SBOP ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "All the 47 lead compounds directly from our AI-model and related derivatives based on SBOP are accessible in our molecular library at https://github.com/tbwxmu/2019-nCov .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "These compounds can be used as potential candidates for researchers in their development of drugs against SARS-CoV-2 .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "author/funder. All rights reserved. No reuse allowed without permission. : bioRxiv preprint disease (COVID-19) worldwide. 1 As of March 2, 2020, more than 90,000 people have been infected by SARS-CoV-2 and more than 3000 people have been reported dead according to Johns Hopkins Coronavirus map tracker. 2 The numbers of infection and death are still increasing. To face the considerable threat of SARS-CoV-2, it is urgent to develop new inhibitors or drugs against this deadly virus. Unfortunately, since the outbreak of severe acute respiratory syndrome (SARS) eighteen years ago, there has been no approved treatment against the SARS coronavirus (SARS-CoV), 3 which is similar to SARS-CoV-2. Repurposing potential drugs such as lopinavir and ritonavir also failed to SARS-CoV-2 injected patients. 4 Structure-based antiviral drug design with a new artificial intelligence algorithm may represent a more helpful approach to get the SARS-CoV-2 targeted inhibitors or drugs. Thanks to the prompt efforts of many researchers, we have several pieces of important information about this vital virus genome and protein structures. We now know that the non-structural protein 5 (Nsp5) is the main protease (M pro ) of SARS-CoV-2 and it is a cysteine protease, which also been called \"3C-like protease\" (3CL pro ). Moreover, we know that the 3D structure of 3CL pro is very similar to SARS-CoV with a sequence identity of \u003e96% and 3D structure superposition RMSDCα of 0.44 Å as shown in Figures S1 and S2. 3CL pro has been reported as an attractive target for developing anti-coronaviral drugs: 1) this protease is highly conserved in both sequences and 3D structures; 5 2) 3CL pro is a key enzyme for related virus (including SARS and SARS-CoV-2) replication; 3) it only exists in the virus, not in humans. Developing specific antiviral drugs targeting 3CL pro of the specific virus has shown significant success; for example, both approved drugs lopinavir and ritonavir can completely occupy the substrate-binding site of 3CL pro to break down the replication of human immunodeficiency virus (HIV). However, due to the large difference between HIV and SARS-CoV-2 3CL pro , lopinavir and ritonavir were validated ineffective for inhibiting SARS-Cov-2. 4 On the other hand, the substrate-binding site of 3CL pro is almost the same between the SARS-CoV-2 and SARS as Figure S3 presents. The developed potential inhibitors and drug-design experience targeting SARS-3CL pro may also be applicable to SARS-CoV-2. For author/funder. All rights reserved. No reuse allowed without permission.",
+      "sentences": [
+        [
+          {
+            "segment_text": "author/funder .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "All rights reserved .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "No reuse allowed without permission .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": ": bioRxiv preprint disease ( COVID-19 ) worldwide .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "1 As of March 2 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "2020 , more than 90,000 people have been infected by SARS-CoV-2 and more than 3000 people have been reported dead according to Johns Hopkins Coronavirus map tracker .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "2 The numbers of infection and death are still increasing .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To face the considerable threat of SARS-CoV-2 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "it is urgent to develop new inhibitors or drugs against this deadly virus .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Unfortunately , since the outbreak of severe acute respiratory syndrome ( SARS ) eighteen years ago ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "there has been no approved treatment against the SARS coronavirus ( SARS-CoV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "3 which is similar to SARS-CoV-2 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Repurposing potential drugs such as lopinavir and ritonavir also failed to SARS-CoV-2 injected patients .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "4 Structure-based antiviral drug design with a new artificial intelligence algorithm may represent a more helpful approach to get the SARS-CoV-2 targeted inhibitors or drugs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thanks to the prompt efforts of many researchers ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we have several pieces of important information about this vital virus genome and protein structures .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We now know that the non-structural protein 5 ( Nsp5 ) is the main protease ( M pro ) of SARS-CoV-2 and it is a cysteine protease ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which also been called `` 3C-like protease \u0027\u0027 ( 3CL pro ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , we know that the 3D structure of 3CL pro is very similar to SARS-CoV with a sequence identity of \u003e 96 % and 3D structure superposition RMSDCα of 0.44 Å as shown in Figures S1 and S2 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "3CL pro has been reported as an attractive target for developing anti-coronaviral drugs : 1 ) this protease is highly conserved in both sequences and 3D structures ; 5 2 ) 3CL pro is a key enzyme for related virus ( including SARS and SARS-CoV-2 ) replication ; 3 ) it only exists in the virus , not in humans .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Developing specific antiviral drugs targeting 3CL pro of the specific virus has shown significant success ; for example ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "both approved drugs lopinavir and ritonavir can completely occupy the substrate-binding site of 3CL pro to break down the replication of human immunodeficiency virus ( HIV ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , due to the large difference between HIV and SARS-CoV-2 3CL pro ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "lopinavir and ritonavir were validated ineffective for inhibiting SARS-Cov-2 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "4 On the other hand ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the substrate-binding site of 3CL pro is almost the same between the SARS-CoV-2 and SARS as Figure S3 presents .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The developed potential inhibitors and drug-design experience targeting SARS-3CL pro may also be applicable to SARS-CoV-2 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "For author/funder .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "All rights reserved .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "No reuse allowed without permission .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "28",
+    "segment_num": "39",
+    "token_num": "626"
+  }
+}

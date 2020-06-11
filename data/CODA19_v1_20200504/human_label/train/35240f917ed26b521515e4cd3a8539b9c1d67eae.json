@@ -1,0 +1,218 @@
+{
+  "paper_id": "35240f917ed26b521515e4cd3a8539b9c1d67eae",
+  "metadata": {
+    "title": "Inducible nitric oxide synthase (iNOS) regulatory region variation in 4 non-human primates 5 6 7",
+    "coda_data_split": "train",
+    "coda_paper_id": 3418,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Please cite this article in press as: Roodgar, M., et al. Inducible nitric oxide synthase (iNOS) regulatory region variation in non-human primates. Infect. Genet. Evol. (2015), http://dx.(Chlorocebus sabaeus), pig-tailed macaques (Macaca nemestrina), 81 cynomolgus macaques (Macaca fascicularis), Indian rhesus 82 macaques (M. mulatta), and Chinese rhesus macaques (M. mulatta).",
+      "sentences": [
+        [
+          {
+            "segment_text": "Please cite this article in press as : Roodgar , M. , et al. .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Inducible nitric oxide synthase ( iNOS ) regulatory region variation in non-human primates .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Infect .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Genet .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Evol .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "( 2015 ) , http://dx .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "( Chlorocebus sabaeus ) , pig-tailed macaques ( Macaca nemestrina ) ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "81 cynomolgus macaques ( Macaca fascicularis ) ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "Indian rhesus 82 macaques ( M. mulatta ) ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "and Chinese rhesus macaques ( M. mulatta ) .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Variation in regulation of iNOS expression may play a role in the var-84 iable susceptibility of these species to several infectious diseases 85 (Roodgar et al., 2013; Lyashchenko et al., 2007; McAuliffe et al., 86 2004). We investigated whether or not there is evidence for inter-87 species differences in the regulatory regions of iNOS that might 88 account for such variability in disease susceptibility. Since NOS2A 89 plays a key role in immunity against intracellular pathogens 90 (Wienerroither et al., 2014; Obermajer et al., 2013) relevant to 91 human health, information on DNA sequence variation in the regu-92 latory region of NOS2A in species of NHP that are more closely 93 related to humans than the mouse should provide better informa-94 tion about the relationship between variation in NOS2A gene expres-95 sion and human-like immune responses to intracellular pathogens 96 (Lyashchenko et al., 2007; McAuliffe et al., 2004). 97 We sequenced two candidate regulatory regions of the NOS2A 98 gene in several animals in each of five species or subspecies of 99 NHP that exhibit differing levels of susceptibility to infectious 100 respiratory diseases, especially tuberculosis. The basic primer 101 sequences for the candidate iNOS promoter regions were identified 102 using the human genome Chip-seq data available at the University 103 of California, Santa Cruz (UCSC) Genome Browser. We then used an 104 Applied Biosystems 3130XL genetic analyzer to produce DNA 105 sequence data for each sample. Sequences were aligned using 106 Kalign2 (Lassmann et al., 2009; Lassmann and Sonnhammer, 107 2006; Lassmann and Sonnhammer, 2005), and variation in the can-108 didate promoter regions was analyzed using the adegenet package 109 in the R programming environment (R Core Team, 2014). The effect 110 of cross-species genetic conservation and variation on transcrip-111 tion factor and regulatory element bindings sites was then 112 evaluated using the MatInspector software (Quandt et al., 1995; 113 Cartharius et al., 2005). 114 2. Results 115 2.1. Multiple sequence alignment and promoter localization 116 We localized the iNOS coding region and the candidate pro-117 moter/regulatory regions on the rhesus macaque and human refer-118 ence sequences using the NCBI genome browser. Fig. 1 plots the 119 location of the R2 region on the human reference sequence. 120 Multiple sequence alignment of R1 and R2 across species was 121 conducted using Kalign2 (Lassmann et al., 2009; Lassmann and 122 Sonnhammer, 2006; Lassmann and Sonnhammer, 2005). The 123 performance of the alignment was evaluated using Mumsa 124 (Lassmann and Sonnhammer, 2006) and visual inspection. The 125 Jalview program (Clamp et al., 2004; Waterhouse et al., 2009) 126 was used to visualize and trim the alignments and construct spe-127 cies-specific consensus sequences. In Fig. 2, we plot the animal-128 specific nucleotide sequences and species-specific consensus 129 sequences used in this analysis. 130 2.2. Promoter variation and interspecies clustering 131 To investigate whether or not variation in R1 and R2 followed 132 the pattern expected from the phylogenetic relationships among 133 these NHP species and subspecies, we used the R packages ape 134 and adegent to extract the SNPs from the aligned and trimmed 135 DNA sequences. We then used discriminant analysis of principal 136 components (DAPC) (Jombart et al., 2010) to investigate the 137 cross-species partitioning of genetic variation. 138",
+      "sentences": [
+        [
+          {
+            "segment_text": "Variation in regulation of iNOS expression may play a role in the var-84 iable susceptibility of these species to several infectious diseases 85 ( Roodgar et al. , 2013 ; Lyashchenko et al. , 2007 ; McAuliffe et al. , 86 2004 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We investigated whether or not there is evidence for inter-87 species differences in the regulatory regions of iNOS that might 88 account for such variability in disease susceptibility .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Since NOS2A 89 plays a key role in immunity against intracellular pathogens 90 ( Wienerroither et al. , 2014 ; Obermajer et al. , 2013 ) relevant to 91 human health ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "information on DNA sequence variation in the regu-92 latory region of NOS2A in species of NHP that are more closely 93 related to humans than the mouse should provide better informa-94 tion about the relationship between variation in NOS2A gene expres-95 sion and human-like immune responses to intracellular pathogens 96 ( Lyashchenko et al. , 2007 ; McAuliffe et al. , 2004 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "97 We sequenced two candidate regulatory regions of the NOS2A 98 gene in several animals in each of five species or subspecies of 99 NHP that exhibit differing levels of susceptibility to infectious 100 respiratory diseases , especially tuberculosis .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The basic primer 101 sequences for the candidate iNOS promoter regions were identified 102 using the human genome Chip-seq data available at the University 103 of California ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "Santa Cruz ( UCSC ) Genome Browser .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We then used an 104 Applied Biosystems 3130XL genetic analyzer to produce DNA 105 sequence data for each sample .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Sequences were aligned using 106 Kalign2 ( Lassmann et al. , 2009 ; Lassmann and Sonnhammer , 107 2006 ; Lassmann and Sonnhammer , 2005 ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and variation in the can-108 didate promoter regions was analyzed using the adegenet package 109 in the R programming environment ( R Core Team , 2014 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The effect 110 of cross-species genetic conservation and variation on transcrip-111 tion factor and regulatory element bindings sites was then 112 evaluated using the MatInspector software ( Quandt et al. , 1995 ; 113 Cartharius et al. , 2005 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "114 2 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results 115 2.1 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Multiple sequence alignment and promoter localization 116 We localized the iNOS coding region and the candidate pro-117 moter/regulatory regions on the rhesus macaque and human refer-118 ence sequences using the NCBI genome browser .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Fig. 1 plots the 119 location of the R2 region on the human reference sequence .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "120 Multiple sequence alignment of R1 and R2 across species was 121 conducted using Kalign2 ( Lassmann et al. , 2009 ; Lassmann and 122 Sonnhammer , 2006 ; Lassmann and Sonnhammer , 2005 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The 123 performance of the alignment was evaluated using Mumsa 124 ( Lassmann and Sonnhammer , 2006 ) and visual inspection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The 125 Jalview program ( Clamp et al. , 2004 ; Waterhouse et al. , 2009 ) 126 was used to visualize and trim the alignments and construct spe-127 cies-specific consensus sequences .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In Fig. 2 , we plot the animal-128 specific nucleotide sequences and species-specific consensus 129 sequences used in this analysis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "130 2.2 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Promoter variation and interspecies clustering 131 To investigate whether or not variation in R1 and R2 followed 132 the pattern expected from the phylogenetic relationships among 133 these NHP species and subspecies ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we used the R packages ape 134 and adegent to extract the SNPs from the aligned and trimmed 135 DNA sequences .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We then used discriminant analysis of principal 136 components ( DAPC ) ( Jombart et al. , 2010 ) to investigate the 137 cross-species partitioning of genetic variation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "138",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "27",
+    "segment_num": "34",
+    "token_num": "697"
+  }
+}

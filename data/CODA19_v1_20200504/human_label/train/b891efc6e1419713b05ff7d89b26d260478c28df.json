@@ -1,0 +1,98 @@
+{
+  "paper_id": "b891efc6e1419713b05ff7d89b26d260478c28df",
+  "metadata": {
+    "title": "",
+    "coda_data_split": "train",
+    "coda_paper_id": 2272,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "China has the world\u0027s second largest tuberculosis (TB) burden after India [1] . Healthcare workers (HCWs) in China\u0027s National TB Control Programme have a significantly increased level of exposure to TB disease and patients. After the severe acute respiratory syndrome pandemic in 2003, the Chinese government made increased efforts to protect HCWs from nosocomial TB infections and other respiratory infectious diseases, especially for those HCWs working in chest hospitals and infectious disease hospitals. These efforts (although not universal throughout China) included the increased use of biosafety level 3 (BSL3) laboratories and respiratory isolation through negative pressure wards and rooms, and the practice of standardised biosafety protocols and procedures through continued training and education.",
+      "sentences": [
+        [
+          {
+            "segment_text": "China has the world \u0027s second largest tuberculosis ( TB ) burden after India ( 1 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Healthcare workers ( HCWs ) in China \u0027s National TB Control Programme have a significantly increased level of exposure to TB disease and patients .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "After the severe acute respiratory syndrome pandemic in 2003 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the Chinese government made increased efforts to protect HCWs from nosocomial TB infections and other respiratory infectious diseases ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "especially for those HCWs working in chest hospitals and infectious disease hospitals .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These efforts ( although not universal throughout China ) included the increased use of biosafety level 3 ( BSL3 ) laboratories and respiratory isolation through negative pressure wards and rooms ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and the practice of standardised biosafety protocols and procedures through continued training and education .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Systematic TB screening in HCWs can improve their awareness of TB infection [2] . The tuberculin skin test (TST) has been widely used for the detection of TB infection for decades but due to cross-reactivity with the bacille Calmette-Guérin (BCG) vaccination and exposure to non-TB mycobacteria, the TST fails to provide sufficient specificity for the detection of TB infection [2] . In the past decade, interferon-γ (IFN-γ) release assays have been developed and commercialised to measure the in vitro release of IFN-γ from effector T-cells stimulated with the Mycobacterium tuberculosis-specific antigens (the 6-kDa early secretory antigenic target and 10-kDa culture filtrate protein) as an aid to diagnosing TB infection. These new screening assays (QuantiFERON-TB Gold In-Tube (Qiagen, Venlo, the Netherlands) and T-SPOT.TB (Oxford Immunotec, Abingdon, UK)) have demonstrated higher specificity and at least comparable sensitivity for the diagnosis of TB infection compared with the TST [3].",
+      "sentences": [
+        [
+          {
+            "segment_text": "Systematic TB screening in HCWs can improve their awareness of TB infection ( 2 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The tuberculin skin test ( TST ) has been widely used for the detection of TB infection for decades but due to cross-reactivity with the bacille Calmette-Guérin ( BCG ) vaccination and exposure to non-TB mycobacteria ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the TST fails to provide sufficient specificity for the detection of TB infection ( 2 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the past decade , interferon-γ ( IFN-γ ) release assays have been developed and commercialised to measure the in vitro release of IFN-γ from effector T-cells stimulated with the Mycobacterium tuberculosis-specific antigens ( the 6-kDa early secretory antigenic target and 10-kDa culture filtrate protein ) as an aid to diagnosing TB infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These new screening assays ( QuantiFERON-TB Gold In-Tube ( Qiagen , Venlo , the Netherlands ) and T-SPOT .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "TB ( Oxford Immunotec , Abingdon , UK ) ) have demonstrated higher specificity and at least comparable sensitivity for the diagnosis of TB infection compared with the TST ( 3 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "9",
+    "segment_num": "13",
+    "token_num": "307"
+  }
+}

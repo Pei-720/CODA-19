@@ -1,0 +1,97 @@
+{
+  "paper_id": "2d7dbafa3bd0f27b119ac0d00e8a785122adcaf9",
+  "metadata": {
+    "title": "Technical Description of RODS: A Real-time Public Health Surveillance System",
+    "coda_data_split": "train",
+    "coda_paper_id": 2577,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "A b s t r a c t This report describes the design and implementation of the Real-time Outbreak and Disease Surveillance (RODS) system, a computer-based public health surveillance system for early detection of disease outbreaks. Hospitals send RODS data from clinical encounters over virtual private networks and leased lines using the Health Level 7 (HL7) message protocol. The data are sent in real time. RODS automatically classifies the registration chief complaint from the visit into one of seven syndrome categories using Bayesian classifiers. It stores the data in a relational database, aggregates the data for analysis using data warehousing techniques, applies univariate and multivariate statistical detection algorithms to the data, and alerts users of when the algorithms identify anomalous patterns in the syndrome counts. RODS also has a Web-based user interface that supports temporal and spatial analyses. RODS processes sales of over-the-counter health care products in a similar manner but receives such data in batch mode on a daily basis. RODS was used during the 2002 Winter Olympics and currently operates in two states-Pennsylvania and Utah. It has been and continues to be a resource for implementing, evaluating, and applying new methods of public health surveillance.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A b s t r a c t This report describes the design and implementation of the Real-time Outbreak and Disease Surveillance ( RODS ) system ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "a computer-based public health surveillance system for early detection of disease outbreaks .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hospitals send RODS data from clinical encounters over virtual private networks and leased lines using the Health Level 7 ( HL7 ) message protocol .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The data are sent in real time .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "RODS automatically classifies the registration chief complaint from the visit into one of seven syndrome categories using Bayesian classifiers .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It stores the data in a relational database ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "aggregates the data for analysis using data warehousing techniques ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "applies univariate and multivariate statistical detection algorithms to the data ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and alerts users of when the algorithms identify anomalous patterns in the syndrome counts .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "RODS also has a Web-based user interface that supports temporal and spatial analyses .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "RODS processes sales of over-the-counter health care products in a similar manner but receives such data in batch mode on a daily basis .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "RODS was used during the 2002 Winter Olympics and currently operates in two states-Pennsylvania and Utah .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It has been and continues to be a resource for implementing ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "evaluating , and applying new methods of public health surveillance .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "9",
+    "segment_num": "14",
+    "token_num": "216"
+  }
+}

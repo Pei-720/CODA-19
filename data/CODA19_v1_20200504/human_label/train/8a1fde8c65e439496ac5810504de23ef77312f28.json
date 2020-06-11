@@ -1,0 +1,68 @@
+{
+  "paper_id": "8a1fde8c65e439496ac5810504de23ef77312f28",
+  "metadata": {
+    "title": "Protein structure and sequence re-analysis of 2019-nCoV genome does not indicate snakes as its intermediate host or the unique similarity between its spike protein insertions and HIV-1",
+    "coda_data_split": "train",
+    "coda_paper_id": 4353,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "As the infection of 2019-nCoV coronavirus is quickly developing into a global pneumonia epidemic, careful analysis of its transmission and cellular mechanisms is sorely needed. In this report, we re-analyzed the computational approaches and findings presented in two recent manuscripts by Ji et al. (https://doi.org/10.1002/jmv.25682) and by Pradhan et al. (https://doi.Global protein sequence alignment of the full-length coronavirus spike proteins was performed by MUSCLE 17 and visualized by SeaView 18 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "As the infection of 2019-nCoV coronavirus is quickly developing into a global pneumonia epidemic ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "careful analysis of its transmission and cellular mechanisms is sorely needed .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this report , we re-analyzed the computational approaches and findings presented in two recent manuscripts by Ji et al. ( https://doi.org/10.1002/jmv.25682 ) and by Pradhan et al. ( https://doi.Global protein sequence alignment of the full-length coronavirus spike proteins was performed by MUSCLE 17 and visualized by SeaView 18 .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We use C-I-TASSER 5 to create structural models of the full-length spike protein. Here, C-I-TASSER is an extended pipeline of I-TASSER 19 and utilizes the deep convolutional neuralnetwork based contact-maps 20 to guide the Monte Carlo fragment assembly simulations. Since the RBD domain of spike exhibits different conformations relative to the remaining portion of . CC-BY 4.0",
+      "sentences": [
+        [
+          {
+            "segment_text": "We use C-I-TASSER 5 to create structural models of the full-length spike protein .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , C-I-TASSER is an extended pipeline of I-TASSER 19 and utilizes the deep convolutional neuralnetwork based contact-maps 20 to guide the Monte Carlo fragment assembly simulations .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Since the RBD domain of spike exhibits different conformations relative to the remaining portion of .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "CC-BY 4.0",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "6",
+    "segment_num": "7",
+    "token_num": "137"
+  }
+}

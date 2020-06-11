@@ -1,0 +1,235 @@
+{
+  "paper_id": "467ab436fea0423f0621af047cd6e5c6dae5260e",
+  "metadata": {
+    "title": "Nanoparticulate vacuolar ATPase blocker exhibits potent host- targeted antiviral activity against feline coronavirus OPEN",
+    "coda_data_split": "train",
+    "coda_paper_id": 8164,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "In light of the pathogenic mechanism of feline coronavirus that relies on endosomal acidification for cytoplasmic entry, a novel vacuolar ATPase blocker, diphyllin, and its nanoformulation are herein investigated for their antiviral activity against the type II feline infectious peritonitis virus (FIPV). Experimental results show that diphyllin dose-dependently inhibits endosomal acidification in fcwf-4 cells, alters the cellular susceptibility to FIPV, and inhibits the downstream virus replication. In addition, diphyllin delivered by polymeric nanoparticles consisting of poly(ethylene glycol)-block-poly(lactide-coglycolide) (PEG-PLGA) further demonstrates an improved safety profile and enhanced inhibitory activity against FIPV. In an in vitro model of antibody-dependent enhancement of FIPV infection, diphyllin nanoparticles showed a prominent antiviral effect against the feline coronavirus. In addition, the diphyllin nanoparticles were well tolerated in mice following high-dose intravenous administration. This study highlights the therapeutic potential of diphyllin and its nanoformulation for the treatment of FIP.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In light of the pathogenic mechanism of feline coronavirus that relies on endosomal acidification for cytoplasmic entry ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a novel vacuolar ATPase blocker ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "diphyllin , and its nanoformulation are herein investigated for their antiviral activity against the type II feline infectious peritonitis virus ( FIPV ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Experimental results show that diphyllin dose-dependently inhibits endosomal acidification in fcwf-4 cells ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "alters the cellular susceptibility to FIPV ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and inhibits the downstream virus replication .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , diphyllin delivered by polymeric nanoparticles consisting of poly ( ethylene glycol ) - block-poly ( lactide-coglycolide ) ( PEG-PLGA ) further demonstrates an improved safety profile and enhanced inhibitory activity against FIPV .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In an in vitro model of antibody-dependent enhancement of FIPV infection ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "diphyllin nanoparticles showed a prominent antiviral effect against the feline coronavirus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , the diphyllin nanoparticles were well tolerated in mice following high-dose intravenous administration .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study highlights the therapeutic potential of diphyllin and its nanoformulation for the treatment of FIP .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Feline coronaviruses (FCoVs) belong to the genus alphacoronavirus in the family Coronaviridae. As a ubiquitous viral pathogen among domestic and wild feline populations, FCoV can be horizontally transmitted via the fecal-oral route with persistent infection, and the prevalence and seropositivity in multi-cat households or shelters may achieve 90% 1,2 . With regard to pathogenicity, FCoV exists as two biotypes, namely feline enteric coronavirus (FECV) and feline infectious peritonitis virus (FIPV) 3 . Genetic mutations occurred in FECV within a persistently infected cat allow it to acquire macrophage tropism and change the virus into the virulent FIPV 4 . Infections caused by the former show no clinically apparent or mild, self-limiting gastroenteritis in kittens. In contrast, FIPV infections develop high fatality and progressive, multi-systemic disorders in young cat populations. Feline infectious peritonitis remains one of the most devastating and lethal viral diseases among Felidae, not only because of the high mortality rate, but also because of the lack of effective options in diagnosis, prevention, and treatment 5 . The disease is further complicated by antibody-dependent enhancement (ADE), which can exacerbate disease symptoms 4 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Feline coronaviruses ( FCoVs ) belong to the genus alphacoronavirus in the family Coronaviridae .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As a ubiquitous viral pathogen among domestic and wild feline populations ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "FCoV can be horizontally transmitted via the fecal-oral route with persistent infection ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and the prevalence and seropositivity in multi-cat households or shelters may achieve 90 % 1,2 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "With regard to pathogenicity , FCoV exists as two biotypes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "namely feline enteric coronavirus ( FECV ) and feline infectious peritonitis virus ( FIPV ) 3 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Genetic mutations occurred in FECV within a persistently infected cat allow it to acquire macrophage tropism and change the virus into the virulent FIPV 4 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Infections caused by the former show no clinically apparent or mild , self-limiting gastroenteritis in kittens .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In contrast , FIPV infections develop high fatality and progressive ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "multi-systemic disorders in young cat populations .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Feline infectious peritonitis remains one of the most devastating and lethal viral diseases among Felidae ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "not only because of the high mortality rate ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but also because of the lack of effective options in diagnosis ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "prevention , and treatment 5 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The disease is further complicated by antibody-dependent enhancement ( ADE ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which can exacerbate disease symptoms 4 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Virus fusion with host cell endosomal membranes, facilitated by a low pH, is a major event for certain virus infection cascade 6 . Vacuolar ATPase (V-ATPase) activity, which is responsible for pumping protons into endosomal compartments, has been identified as a requirement for feline coronavirus replication in previous studies 7 . The endosomal acidification process is also necessary for the establishment of ADE in FIPV infection 8 . Therefore, the endosomal V-ATPase presents an attractive target for antiviral intervention. In the past decades, abundant studies indicated that V-ATPase inhibitors could be applied to treat viral infections as well as other diseases including osteoporosis, lytic bone disease, renal acidosis, and cancer 9,10 . For example, the most commonly used V-ATPase inhibitor, bafilomycin, showed a broad-spectrum antiviral effect against several pathogens. However, Published: xx xx xxxx OPEN www.nature.com/scientificreports/ 2 Scientific RepoRts | 7: 13043 |",
+      "sentences": [
+        [
+          {
+            "segment_text": "Virus fusion with host cell endosomal membranes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "facilitated by a low pH ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "is a major event for certain virus infection cascade 6 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Vacuolar ATPase ( V-ATPase ) activity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which is responsible for pumping protons into endosomal compartments ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "has been identified as a requirement for feline coronavirus replication in previous studies 7 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The endosomal acidification process is also necessary for the establishment of ADE in FIPV infection 8 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , the endosomal V-ATPase presents an attractive target for antiviral intervention .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the past decades , abundant studies indicated that V-ATPase inhibitors could be applied to treat viral infections as well as other diseases including osteoporosis ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "lytic bone disease , renal acidosis , and cancer 9,10 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "For example , the most commonly used V-ATPase inhibitor ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "bafilomycin , showed a broad-spectrum antiviral effect against several pathogens .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , Published : xx xx xxxx OPEN www.nature.com/scientificreports/ 2 Scientific RepoRts | 7 : 13043 |",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "21",
+    "segment_num": "40",
+    "token_num": "537"
+  }
+}

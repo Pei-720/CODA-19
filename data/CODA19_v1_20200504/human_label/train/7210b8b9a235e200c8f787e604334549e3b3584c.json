@@ -1,0 +1,53 @@
+{
+  "paper_id": "7210b8b9a235e200c8f787e604334549e3b3584c",
+  "metadata": {
+    "title": "Comprehensive detection and identification of human coronaviruses, including the SARS-associated coronavirus, with a single RT-PCR assay",
+    "coda_data_split": "train",
+    "coda_paper_id": 8910,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The SARS-associated human coronavirus (SARS-HCoV) is a newly described, emerging virus conclusively established as the etiologic agent of the severe acute respiratory syndrome (SARS). This study presents a single-tube RT-PCR assay that can detect with high analytical sensitivity the SARS-HCoV, as well as several other coronaviruses including other known human respiratory coronaviruses (HCoV-OC43 and HCoV-229E). Species identification is provided by sequencing the amplicon, although a rapid screening test by restriction enzyme analysis has proved to be very useful for the analysis of samples obtained during the SARS outbreak in Toronto, Canada.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The SARS-associated human coronavirus ( SARS-HCoV ) is a newly described ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "emerging virus conclusively established as the etiologic agent of the severe acute respiratory syndrome ( SARS ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study presents a single-tube RT-PCR assay that can detect with high analytical sensitivity the SARS-HCoV ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "as well as several other coronaviruses including other known human respiratory coronaviruses ( HCoV-OC43 and HCoV-229E ) .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Species identification is provided by sequencing the amplicon ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "although a rapid screening test by restriction enzyme analysis has proved to be very useful for the analysis of samples obtained during the SARS outbreak in Toronto , Canada .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "3",
+    "segment_num": "6",
+    "token_num": "104"
+  }
+}

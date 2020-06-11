@@ -1,0 +1,65 @@
+{
+  "paper_id": "405178382d43ce2210f9573baba85368387e44f9",
+  "metadata": {
+    "title": "Composition bias and genome polarity of RNA viruses",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1916,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "I have observed a relationship between GC content in coding sequences of RNA viruses and their genome polarity. Positive-stranded RNA viruses have significantly higher GC contents than negative-stranded RNA viruses. Coding sequences of all negative-stranded RNA viruses are biased toward high A in coding strands (high T in genomes), while two distinct patterns were observed among positive-stranded RNA genomes. This finding suggests that RNA viruses with different genome polarity are under different mutational pressure, which may be a consequence of the difference in the strategies of viral genome expression and replication. The GC content directly affects the viral codon adaptation index using highly expressed human genes as the reference set, which may theoretically predict the efficiency of viral gene expression in human cells.",
+      "sentences": [
+        [
+          {
+            "segment_text": "I have observed a relationship between GC content in coding sequences of RNA viruses and their genome polarity .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Positive-stranded RNA viruses have significantly higher GC contents than negative-stranded RNA viruses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Coding sequences of all negative-stranded RNA viruses are biased toward high A in coding strands ( high T in genomes ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while two distinct patterns were observed among positive-stranded RNA genomes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This finding suggests that RNA viruses with different genome polarity are under different mutational pressure ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which may be a consequence of the difference in the strategies of viral genome expression and replication .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The GC content directly affects the viral codon adaptation index using highly expressed human genes as the reference set ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which may theoretically predict the efficiency of viral gene expression in human cells .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "8",
+    "token_num": "133"
+  }
+}

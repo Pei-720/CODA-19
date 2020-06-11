@@ -1,0 +1,83 @@
+{
+  "paper_id": "e141a069b6f6aef31ddf1a2ae592933db0b4a031",
+  "metadata": {
+    "title": "Discovery of functional genomic motifs in viruses with ViReMa-a Virus Recombination Mapper-for analysis of next-generation sequencing data",
+    "coda_data_split": "train",
+    "coda_paper_id": 7271,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "We developed an algorithm named ViReMa (Viral-Recombination-Mapper) to provide a versatile platform for rapid, sensitive and nucleotideresolution detection of recombination junctions in viral genomes using next-generation sequencing data. Rather than mapping read segments of predefined lengths and positions, ViReMa dynamically generates moving read segments. ViReMa initially attempts to align the 5 0 end of a read to the reference genome(s) with the Bowtie seed-based alignment. A new read segment is then made by either extracting any unaligned nucleotides at the 3 0 end of the read or by trimming the first nucleotide from the read. This continues iteratively until all portions of the read are either mapped or trimmed. With multiple reference genomes, it is possible to detect virus-to-host or inter-virus recombination. ViReMa is also capable of detecting insertion and substitution events and multiple recombination junctions within a single read. By mapping the distribution of recombination events in the genome of flock house virus, we demonstrate that this information can be used to discover de novo functional motifs located in conserved regions of the viral genome.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We developed an algorithm named ViReMa ( Viral-Recombination-Mapper ) to provide a versatile platform for rapid ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "sensitive and nucleotideresolution detection of recombination junctions in viral genomes using next-generation sequencing data .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Rather than mapping read segments of predefined lengths and positions ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "ViReMa dynamically generates moving read segments .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "ViReMa initially attempts to align the 5 0 end of a read to the reference genome ( s ) with the Bowtie seed-based alignment .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A new read segment is then made by either extracting any unaligned nucleotides at the 3 0 end of the read or by trimming the first nucleotide from the read .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This continues iteratively until all portions of the read are either mapped or trimmed .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "With multiple reference genomes , it is possible to detect virus-to-host or inter-virus recombination .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "ViReMa is also capable of detecting insertion and substitution events and multiple recombination junctions within a single read .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "By mapping the distribution of recombination events in the genome of flock house virus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we demonstrate that this information can be used to discover de novo functional motifs located in conserved regions of the viral genome .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "11",
+    "token_num": "193"
+  }
+}

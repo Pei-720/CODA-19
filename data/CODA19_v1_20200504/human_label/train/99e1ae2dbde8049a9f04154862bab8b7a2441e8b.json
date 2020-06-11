@@ -1,0 +1,89 @@
+{
+  "paper_id": "99e1ae2dbde8049a9f04154862bab8b7a2441e8b",
+  "metadata": {
+    "title": "Second-Generation Sequencing with Deep Reinforcement Learning for Lung Infection Detection",
+    "coda_data_split": "train",
+    "coda_paper_id": 2883,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Recently, deep reinforcement learning, associated with medical big data generated and collected from medical Internet of ings, is prospective for computer-aided diagnosis and therapy. In this paper, we focus on the application value of the second-generation sequencing technology in the diagnosis and treatment of pulmonary infectious diseases with the aid of the deep reinforcement learning. Specifically, the rapid, comprehensive, and accurate identification of pathogens is a prerequisite for clinicians to choose timely and targeted treatment. us, in this work, we present representative deep reinforcement learning methods that are potential to identify pathogens for lung infection treatment. After that, current status of pathogenic diagnosis of pulmonary infectious diseases and their main characteristics are summarized. Furthermore, we analyze the common types of secondgeneration sequencing technology, which can be used to diagnose lung infection as well. Finally, we point out the challenges and possible future research directions in integrating deep reinforcement learning with second-generation sequencing technology to diagnose and treat lung infection, which is prospective to accelerate the evolution of smart healthcare with medical Internet of ings and big data.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Recently , deep reinforcement learning ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "associated with medical big data generated and collected from medical Internet of ings ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "is prospective for computer-aided diagnosis and therapy .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this paper , we focus on the application value of the second-generation sequencing technology in the diagnosis and treatment of pulmonary infectious diseases with the aid of the deep reinforcement learning .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Specifically , the rapid , comprehensive ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and accurate identification of pathogens is a prerequisite for clinicians to choose timely and targeted treatment .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "us , in this work ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we present representative deep reinforcement learning methods that are potential to identify pathogens for lung infection treatment .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "After that , current status of pathogenic diagnosis of pulmonary infectious diseases and their main characteristics are summarized .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , we analyze the common types of secondgeneration sequencing technology ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "which can be used to diagnose lung infection as well .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , we point out the challenges and possible future research directions in integrating deep reinforcement learning with second-generation sequencing technology to diagnose and treat lung infection ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "which is prospective to accelerate the evolution of smart healthcare with medical Internet of ings and big data .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "13",
+    "token_num": "198"
+  }
+}

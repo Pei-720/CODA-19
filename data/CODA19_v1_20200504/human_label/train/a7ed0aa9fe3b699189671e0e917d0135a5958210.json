@@ -1,0 +1,93 @@
+{
+  "paper_id": "a7ed0aa9fe3b699189671e0e917d0135a5958210",
+  "metadata": {
+    "title": "A COVID-19 Infection Risk Model for Frontline Health Care Workers",
+    "coda_data_split": "train",
+    "coda_paper_id": 2282,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The number of confirmed COVID-19 cases admitted in hospitals is continuously increasing in the Philippines. Frontline health care workers are faced with imminent risks of getting infected. In this study, we formulate a theoretical model to calculate the risk of being infected in health care facilities considering the following factors: the average number of encounters with a suspected COVID-19 patient per hour; interaction time for each encounter; work shift duration or exposure time; crowd density, which may depend on the amount of space available in a given location; and availability and effectiveness of protective gears and facilities provided for the frontline health care workers. Based on the simulation results, we recommend the following: (i) decrease the rate of patient encounter per frontline health care worker, e.g., maximum of three encounters per hour in a 12-hour work shift duration; (ii) decrease the interaction time between the frontline health care worker and the patients, e.g., less than 40 minutes for the whole day; (iii) increase the clean and safe space for social distancing, e.g., maximum of 10% crowd density, and if possible, implement compartmentalization of patients; and/or (iv) provide effective protective gears and facilities, e.g., 95% effective, that the frontline health care workers can use during their shift. Moreover, the formulated model can be used for other similar scenarios, such as identifying infection risk in public transportation, school classroom settings, offices, and mass gatherings.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The number of confirmed COVID-19 cases admitted in hospitals is continuously increasing in the Philippines .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Frontline health care workers are faced with imminent risks of getting infected .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we formulate a theoretical model to calculate the risk of being infected in health care facilities considering the following factors : the average number of encounters with a suspected COVID-19 patient per hour ; interaction time for each encounter ; work shift duration or exposure time ; crowd density ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "which may depend on the amount of space available in a given location ; and availability and effectiveness of protective gears and facilities provided for the frontline health care workers .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Based on the simulation results ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we recommend the following : ( i ) decrease the rate of patient encounter per frontline health care worker ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "e.g. , maximum of three encounters per hour in a 12-hour work shift duration ; ( ii ) decrease the interaction time between the frontline health care worker and the patients ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "e.g. , less than 40 minutes for the whole day ; ( iii ) increase the clean and safe space for social distancing ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "e.g. , maximum of 10 % crowd density ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and if possible , implement compartmentalization of patients ; and/or ( iv ) provide effective protective gears and facilities ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "e.g. , 95 % effective ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "that the frontline health care workers can use during their shift .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , the formulated model can be used for other similar scenarios ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "such as identifying infection risk in public transportation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "school classroom settings , offices , and mass gatherings .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "15",
+    "token_num": "275"
+  }
+}

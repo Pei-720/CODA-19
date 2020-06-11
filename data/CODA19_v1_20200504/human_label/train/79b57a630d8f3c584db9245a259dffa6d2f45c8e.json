@@ -1,0 +1,101 @@
+{
+  "paper_id": "79b57a630d8f3c584db9245a259dffa6d2f45c8e",
+  "metadata": {
+    "title": "Effects of distribution of infection rate on epidemic models",
+    "coda_data_split": "train",
+    "coda_paper_id": 6949,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "A goal of many epidemic models is to compute the outcome of the epidemics from the observed infected early dynamics. However, often, the total number of infected individuals at the end of the epidemics is much lower than predicted from the early dynamics. This discrepancy is argued to result from human intervention or nonlinear dynamics not incorporated in standard models. We show that when variability in infection rates is included in standard susciptible-infected-susceptible (SIS) and susceptible-infected-recovered (SIR) models the total number of infected individuals in the late dynamics can be orders lower than predicted from the early dynamics. This discrepancy holds for SIS and SIR models, where the assumption that all individuals have the same sensitivity is eliminated. In contrast with network models, fixed partnerships are not assumed. We derive a moment closure scheme capturing the distribution of sensitivities. We find that the shape of the sensitivity distribution does not affect R 0 or the number of infected individuals in the early phases of the epidemics. However, a wide distribution of sensitivities reduces the total number of removed individuals in the SIR model and the steady-state infected fraction in the SIS model. The difference between the early and late dynamics implies that in order to extrapolate the expected effect of the epidemics from the initial phase of the epidemics, the rate of change in the average infectivity should be computed. These results are supported by a comparison of the theoretical model to the Ebola epidemics and by numerical simulation.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A goal of many epidemic models is to compute the outcome of the epidemics from the observed infected early dynamics .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , often , the total number of infected individuals at the end of the epidemics is much lower than predicted from the early dynamics .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This discrepancy is argued to result from human intervention or nonlinear dynamics not incorporated in standard models .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We show that when variability in infection rates is included in standard susciptible-infected-susceptible ( SIS ) and susceptible-infected-recovered ( SIR ) models the total number of infected individuals in the late dynamics can be orders lower than predicted from the early dynamics .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "This discrepancy holds for SIS and SIR models ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "where the assumption that all individuals have the same sensitivity is eliminated .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In contrast with network models ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "fixed partnerships are not assumed .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We derive a moment closure scheme capturing the distribution of sensitivities .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We find that the shape of the sensitivity distribution does not affect R 0 or the number of infected individuals in the early phases of the epidemics .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , a wide distribution of sensitivities reduces the total number of removed individuals in the SIR model and the steady-state infected fraction in the SIS model .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The difference between the early and late dynamics implies that in order to extrapolate the expected effect of the epidemics from the initial phase of the epidemics ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the rate of change in the average infectivity should be computed .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These results are supported by a comparison of the theoretical model to the Ebola epidemics and by numerical simulation .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "11",
+    "segment_num": "14",
+    "token_num": "270"
+  }
+}

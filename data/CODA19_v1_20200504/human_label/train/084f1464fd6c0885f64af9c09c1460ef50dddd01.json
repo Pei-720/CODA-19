@@ -1,0 +1,67 @@
+{
+  "paper_id": "084f1464fd6c0885f64af9c09c1460ef50dddd01",
+  "metadata": {
+    "title": "Programmed Ribosomal Frameshifting Mechanisms by Single-Molecule Techniques and Computational Methods",
+    "coda_data_split": "train",
+    "coda_paper_id": 2350,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Programmed ribosomal frameshifting (PRF) serves as an intrinsic translational regulation mechanism employed by some viruses to control the ratio between structural and enzymatic proteins. Most viral mRNAs which use PRF adapt an H-type pseudoknot to stimulate −1 PRF. The relationship between the thermodynamic stability and the frameshifting efficiency of pseudoknots has not been fully understood. Recently, single-molecule force spectroscopy has revealed that the frequency of −1 PRF correlates with the unwinding forces required for disrupting pseudoknots, and that some of the unwinding work dissipates irreversibly due to the torsional restraint of pseudoknots. Complementary to single-molecule techniques, computational modeling provides insights into global motions of the ribosome, whose structural transitions during frameshifting have not yet been elucidated in atomic detail. Taken together, recent advances in biophysical tools may help to develop antiviral therapies that target the ubiquitous −1 PRF mechanism among viruses.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Programmed ribosomal frameshifting ( PRF ) serves as an intrinsic translational regulation mechanism employed by some viruses to control the ratio between structural and enzymatic proteins .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Most viral mRNAs which use PRF adapt an H-type pseudoknot to stimulate − 1 PRF .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The relationship between the thermodynamic stability and the frameshifting efficiency of pseudoknots has not been fully understood .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recently , single-molecule force spectroscopy has revealed that the frequency of − 1 PRF correlates with the unwinding forces required for disrupting pseudoknots ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and that some of the unwinding work dissipates irreversibly due to the torsional restraint of pseudoknots .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Complementary to single-molecule techniques , computational modeling provides insights into global motions of the ribosome ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "whose structural transitions during frameshifting have not yet been elucidated in atomic detail .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Taken together , recent advances in biophysical tools may help to develop antiviral therapies that target the ubiquitous − 1 PRF mechanism among viruses .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "8",
+    "token_num": "157"
+  }
+}

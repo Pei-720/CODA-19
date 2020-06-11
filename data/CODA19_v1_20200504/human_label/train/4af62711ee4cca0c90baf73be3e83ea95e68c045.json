@@ -1,0 +1,109 @@
+{
+  "paper_id": "4af62711ee4cca0c90baf73be3e83ea95e68c045",
+  "metadata": {
+    "title": "Estimation of the reproductive number of novel coronavirus (COVID-19) and the probable outbreak size on the Diamond Princess cruise ship: A data-driven analysis",
+    "coda_data_split": "train",
+    "coda_paper_id": 10726,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Backgrounds: Up to February 16, 2020, 355 cases have been confirmed as having COVID-19 infection on the Diamond Princess cruise ship. It is of crucial importance to estimate the reproductive number (R0) of the novel virus in the early stage of outbreak and make a prediction of daily new cases on the ship. Method: We fitted the reported serial interval (mean and standard deviation) with a gamma distribution and applied \"earlyR\" package in R to estimate the R0 in the early stage of COVID-19 outbreak. We applied \"projections\" package in R to simulate the plausible cumulative epidemic trajectories and future daily incidence by fitting the data of existing daily incidence, a serial interval distribution, and the estimated R0 into a model based on the assumption that daily incidence obeys approximately Poisson distribution determined by daily infectiousness. Results: The Maximum-Likelihood (ML) value of R0 was 2.28 for COVID-19 outbreak at the early stage on the ship. The median with 95% confidence interval (CI) of R0 values was 2.28 (2.06-2.52) estimated by the bootstrap resampling method. The probable number of new cases for the next ten days would gradually increase, and the estimated cumulative cases would reach 1514 (1384-1656) at the tenth day in the future. However, if R0 value was reduced by 25% and 50%, the estimated total number of cumulative cases would be reduced to 1081 (981-1177) and 758 (697-817), respectively. Conclusion: The median with 95% CI of R0 of COVID-19 was about 2.28 (2.06-2.52) during the early stage experienced on the Diamond Princess cruise ship. The future daily incidence and probable outbreak size is largely dependent on the change of R0. Unless strict infection management and control are taken, our findings indicate the potential of COVID-19 to cause greater outbreak on the ship.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Backgrounds : Up to February 16 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "2020 , 355 cases have been confirmed as having COVID-19 infection on the Diamond Princess cruise ship .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is of crucial importance to estimate the reproductive number ( R0 ) of the novel virus in the early stage of outbreak and make a prediction of daily new cases on the ship .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Method : We fitted the reported serial interval ( mean and standard deviation ) with a gamma distribution and applied `` earlyR \u0027\u0027 package in R to estimate the R0 in the early stage of COVID-19 outbreak .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We applied `` projections \u0027\u0027 package in R to simulate the plausible cumulative epidemic trajectories and future daily incidence by fitting the data of existing daily incidence ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "a serial interval distribution , and the estimated R0 into a model based on the assumption that daily incidence obeys approximately Poisson distribution determined by daily infectiousness .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results : The Maximum-Likelihood ( ML ) value of R0 was 2.28 for COVID-19 outbreak at the early stage on the ship .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The median with 95 % confidence interval ( CI ) of R0 values was 2.28 ( 2.06-2.52 ) estimated by the bootstrap resampling method .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The probable number of new cases for the next ten days would gradually increase ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the estimated cumulative cases would reach 1514 ( 1384-1656 ) at the tenth day in the future .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , if R0 value was reduced by 25 % and 50 % ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the estimated total number of cumulative cases would be reduced to 1081 ( 981-1177 ) and 758 ( 697-817 ) , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Conclusion : The median with 95 % CI of R0 of COVID-19 was about 2.28 ( 2.06-2.52 ) during the early stage experienced on the Diamond Princess cruise ship .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The future daily incidence and probable outbreak size is largely dependent on the change of R0 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Unless strict infection management and control are taken ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "our findings indicate the potential of COVID-19 to cause greater outbreak on the ship .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "11",
+    "segment_num": "16",
+    "token_num": "344"
+  }
+}

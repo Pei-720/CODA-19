@@ -1,0 +1,137 @@
+{
+  "paper_id": "92524339f0636d0026eeadd6d4ae5e1dc111e743",
+  "metadata": {
+    "title": "Cyclophilin 40 alters UVA-induced apoptosis and mitochondrial ROS generation in keratinocytes",
+    "coda_data_split": "train",
+    "coda_paper_id": 9058,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The CyP40 protein encoded by PPID gene is a member of the peptidyl-prolyl cis-trans isomerase (PPIase) family. PPIases catalyze the cis-trans isomerization of proline imidic peptide bonds in oligopeptides and accelerate the folding of proteins. The CyP40 protein has been shown to possess PPIase activity and, similar to other family members, can bind to the immunosuppressant drug cyclosporin A (CsA). In this study, we created keratinocyte cell lines with CyP40 being stably knocked down using viral particles containing shRNA for CyP40 which knocked down the expression level of CyP40 transcripts by 90 to 99%. The proliferation rates of the cell lines with silenced CyP40 were decreased compared to the control cells. After UVA irradiation, the rate of apoptosis was found to be significantly lower in CyP40 silenced cell lines than it was in control cells. Moreover, mitochondrial membrane potential (MMP) was found to be less dissipated and mitochondrial permeability transition pore (MPTP) less active in cells with knocked down CyP40 than in control cells after UVA irradiation. Also, less mitochondrial superoxide was detected in the cells with silenced CyP40 compared to control cells after UVA exposure. Moreover, silencing of CyP40 partially modulates expression of key genes involved in mitochondrial pore formation including CyPD, ANTs and VDAC family members. The ability of CyP40 to regulate UV induced apoptosis implicates this protein as a potential target for therapy in cancer cells.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The CyP40 protein encoded by PPID gene is a member of the peptidyl-prolyl cis-trans isomerase ( PPIase ) family .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "PPIases catalyze the cis-trans isomerization of proline imidic peptide bonds in oligopeptides and accelerate the folding of proteins .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The CyP40 protein has been shown to possess PPIase activity and ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "similar to other family members ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "can bind to the immunosuppressant drug cyclosporin A ( CsA ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we created keratinocyte cell lines with CyP40 being stably knocked down using viral particles containing shRNA for CyP40 which knocked down the expression level of CyP40 transcripts by 90 to 99 % .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The proliferation rates of the cell lines with silenced CyP40 were decreased compared to the control cells .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "After UVA irradiation , the rate of apoptosis was found to be significantly lower in CyP40 silenced cell lines than it was in control cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , mitochondrial membrane potential ( MMP ) was found to be less dissipated and mitochondrial permeability transition pore ( MPTP ) less active in cells with knocked down CyP40 than in control cells after UVA irradiation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Also , less mitochondrial superoxide was detected in the cells with silenced CyP40 compared to control cells after UVA exposure .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , silencing of CyP40 partially modulates expression of key genes involved in mitochondrial pore formation including CyPD ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "ANTs and VDAC family members .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The ability of CyP40 to regulate UV induced apoptosis implicates this protein as a potential target for therapy in cancer cells .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "CyP40; stable CyP40 knock-down; mitochondrial membrane potential; mitochondrial pore opening; UVA-induced apoptosis; reactive oxygen species; keratinocytes",
+      "sentences": [
+        [
+          {
+            "segment_text": "CyP40 ; stable CyP40 knock-down ; mitochondrial membrane potential ; mitochondrial pore opening ; UVA-induced apoptosis ; reactive oxygen species ; keratinocytes",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Cyclophilin proteins (CyPs) are ubiquitous proteins with peptidyl-prolyl cis-trans isomerase activity [1]. CyPs are highly conserved among all types of species including animals, plants, fungi and bacteria with a shared isomerase domain of approximately 109 amino acids. In humans, there are sixteen CyPs including cyclophilin 40, a 40kD cytosolic protein (CyP40)",
+      "sentences": [
+        [
+          {
+            "segment_text": "Cyclophilin proteins ( CyPs ) are ubiquitous proteins with peptidyl-prolyl cis-trans isomerase activity ( 1 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "CyPs are highly conserved among all types of species including animals ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "plants , fungi and bacteria with a shared isomerase domain of approximately 109 amino acids .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In humans , there are sixteen CyPs including cyclophilin 40 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a 40kD cytosolic protein ( CyP40 )",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "14",
+    "segment_num": "19",
+    "token_num": "341"
+  }
+}

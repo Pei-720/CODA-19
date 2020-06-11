@@ -1,0 +1,186 @@
+{
+  "paper_id": "dcc46888d647f293c6f9d136aaf7d3a708558372",
+  "metadata": {
+    "title": "viruses Middle East Respiratory Syndrome Vaccine Candidates: Cautious Optimism",
+    "coda_data_split": "train",
+    "coda_paper_id": 5158,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Efforts towards developing a vaccine for Middle East respiratory syndrome coronavirus (MERS-CoV) have yielded promising results. Utilizing a variety of platforms, several vaccine approaches have shown efficacy in animal models and begun to enter clinical trials. In this review, we summarize the current progress towards a MERS-CoV vaccine and highlight potential roadblocks identified from previous attempts to generate coronavirus vaccines. Viruses 2019, 11, 74 2 of 17",
+      "sentences": [
+        [
+          {
+            "segment_text": "Efforts towards developing a vaccine for Middle East respiratory syndrome coronavirus ( MERS-CoV ) have yielded promising results .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Utilizing a variety of platforms ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "several vaccine approaches have shown efficacy in animal models and begun to enter clinical trials .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this review , we summarize the current progress towards a MERS-CoV vaccine and highlight potential roadblocks identified from previous attempts to generate coronavirus vaccines .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Viruses 2019 , 11 , 74 2 of 17",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Preclinical vaccine development for both SARS-CoV and MERS-CoV has largely aimed to stimulate a robust immune response against the viral envelope-protruding spike (S) glycoprotein [28, 29] , a class I fusion protein, and/or the nucleocapsid (N) protein [30, 31] . MERS-CoV S is proteolytically cleaved by host furin [32] during maturation into an S1 domain responsible for binding to DPP4 as well as an S2 domain containing two heptad-repeat regions that facilitate membrane fusion (Figure 1 ). The S1 domain can be further divided into the N-terminal domain (NTD), or S1 A , associated with binding sialic acid [33] , and the receptor binding domain (RBD), comprising the majority of the C-terminal domain of S1. Cryo-electron microscopy studies have shown that the RBD is flexible and opens upward or away from the viral envelope in order to establish contact with DPP4, which may expose S2\u0027 [34], a second protease cleavage site within S2. Cleavage at S2\u0027 is necessary for membrane fusion upon viral entry [32] . The centrality of S to viral entry helps explain why antibodies that target it are potently neutralizing [35] . On the other hand, while CoV N proteins are abundantly expressed during infection [36] , immunization with SARS-CoV N did not induce strongly neutralizing antibodies [37], likely because N is not displayed on the viral surface. However, N is more conserved than S within CoV lineage [38] , and vaccination with SARS-CoV N was shown to induce cytotoxic T cell responses in mice [39] . Therefore, N may help induce cell-mediated immunity to CoV infection [40] , as may S [41]. CD4+ and CD8+ T cell responses from recovered MERS-CoV patients were particularly strong towards N peptides [42] . However, vaccination with N-based immunogens may carry risks associated with T h 2-related eosinophilic immune enhancement [43] , as may S-based vaccines [44] . Notwithstanding, because of the protection afforded by the robust immune response it generates, S has been the target of most vaccine candidates for MERS-CoV. In this review, we summarize the current state of MERS-CoV vaccine candidates and also describe potential barriers to MERS-CoV vaccine efficacy that first surfaced during research on developing a SARS-CoV vaccine.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Preclinical vaccine development for both SARS-CoV and MERS-CoV has largely aimed to stimulate a robust immune response against the viral envelope-protruding spike ( S ) glycoprotein ( 28 , 29 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a class I fusion protein ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and/or the nucleocapsid ( N ) protein ( 30 , 31 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "MERS-CoV S is proteolytically cleaved by host furin ( 32 ) during maturation into an S1 domain responsible for binding to DPP4 as well as an S2 domain containing two heptad-repeat regions that facilitate membrane fusion ( Figure 1 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The S1 domain can be further divided into the N-terminal domain ( NTD ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "or S1 A , associated with binding sialic acid ( 33 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and the receptor binding domain ( RBD ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "comprising the majority of the C-terminal domain of S1 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Cryo-electron microscopy studies have shown that the RBD is flexible and opens upward or away from the viral envelope in order to establish contact with DPP4 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which may expose S2 \u0027 ( 34 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a second protease cleavage site within S2 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Cleavage at S2 \u0027 is necessary for membrane fusion upon viral entry ( 32 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The centrality of S to viral entry helps explain why antibodies that target it are potently neutralizing ( 35 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "On the other hand , while CoV N proteins are abundantly expressed during infection ( 36 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "immunization with SARS-CoV N did not induce strongly neutralizing antibodies ( 37 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "likely because N is not displayed on the viral surface .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , N is more conserved than S within CoV lineage ( 38 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and vaccination with SARS-CoV N was shown to induce cytotoxic T cell responses in mice ( 39 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , N may help induce cell-mediated immunity to CoV infection ( 40 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as may S ( 41 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "CD4 + and CD8 + T cell responses from recovered MERS-CoV patients were particularly strong towards N peptides ( 42 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , vaccination with N-based immunogens may carry risks associated with T h 2-related eosinophilic immune enhancement ( 43 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as may S-based vaccines ( 44 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Notwithstanding , because of the protection afforded by the robust immune response it generates ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "S has been the target of most vaccine candidates for MERS-CoV .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this review , we summarize the current state of MERS-CoV vaccine candidates and also describe potential barriers to MERS-CoV vaccine efficacy that first surfaced during research on developing a SARS-CoV vaccine .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "17",
+    "segment_num": "31",
+    "token_num": "506"
+  }
+}

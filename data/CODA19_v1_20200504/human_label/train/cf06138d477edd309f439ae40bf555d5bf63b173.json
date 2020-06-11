@@ -1,0 +1,73 @@
+{
+  "paper_id": "cf06138d477edd309f439ae40bf555d5bf63b173",
+  "metadata": {
+    "title": "Methods to infer transmission risk factors in complex outbreak data",
+    "coda_data_split": "train",
+    "coda_paper_id": 4070,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Data collected during outbreaks are essential to better understand infectious disease transmission and design effective control strategies. But analysis of such data is challenging owing to the dependency between observations that is typically observed in an outbreak and to missing data. In this paper, we discuss strategies to tackle some of the ongoing challenges in the analysis of outbreak data. We present a relatively generic statistical model for the estimation of transmission risk factors, and discuss algorithms to estimate its parameters for different levels of missing data. We look at the problem of computational times for relatively large datasets and show how they can be reduced by appropriate use of discretization, sufficient statistics and some simple assumptions on the natural history of the disease. We also discuss approaches to integrate parametric model fitting and tree reconstruction methods in coherent statistical analyses. The methods are tested on both real and simulated datasets of large outbreaks in structured populations.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Data collected during outbreaks are essential to better understand infectious disease transmission and design effective control strategies .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "But analysis of such data is challenging owing to the dependency between observations that is typically observed in an outbreak and to missing data .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this paper , we discuss strategies to tackle some of the ongoing challenges in the analysis of outbreak data .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We present a relatively generic statistical model for the estimation of transmission risk factors ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and discuss algorithms to estimate its parameters for different levels of missing data .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We look at the problem of computational times for relatively large datasets and show how they can be reduced by appropriate use of discretization ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "sufficient statistics and some simple assumptions on the natural history of the disease .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also discuss approaches to integrate parametric model fitting and tree reconstruction methods in coherent statistical analyses .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The methods are tested on both real and simulated datasets of large outbreaks in structured populations .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "9",
+    "token_num": "167"
+  }
+}

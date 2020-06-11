@@ -1,0 +1,111 @@
+{
+  "paper_id": "7aac0f55c8b869e13f1c2678207430bc9203d65e",
+  "metadata": {
+    "title": "Design of microarray probes for virus identification and detection of emerging viruses at the genus level",
+    "coda_data_split": "train",
+    "coda_paper_id": 10505,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Most virus detection methods are geared towards the detection of specific single viruses or just a few known targets, and lack the capability to uncover the novel viruses that cause emerging viral infections. To address this issue, we developed a computational method that identifies the conserved viral sequences at the genus level for all viral genomes available in GenBank, and established a virus probe library. The virus probes are used not only to identify known viruses but also for discerning the genera of emerging or uncharacterized ones.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Most virus detection methods are geared towards the detection of specific single viruses or just a few known targets ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and lack the capability to uncover the novel viruses that cause emerging viral infections .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To address this issue , we developed a computational method that identifies the conserved viral sequences at the genus level for all viral genomes available in GenBank ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and established a virus probe library .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The virus probes are used not only to identify known viruses but also for discerning the genera of emerging or uncharacterized ones .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results: Using the microarray approach, the identity of the virus in a test sample is determined by the signals of both genus and species-specific probes. The genera of emerging and uncharacterized viruses are determined based on hybridization of the viral sequences to the conserved probes for the existing viral genera. A detection and classification procedure to determine the identity of a virus directly from detection signals results in the rapid identification of the virus.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results : Using the microarray approach ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the identity of the virus in a test sample is determined by the signals of both genus and species-specific probes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The genera of emerging and uncharacterized viruses are determined based on hybridization of the viral sequences to the conserved probes for the existing viral genera .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A detection and classification procedure to determine the identity of a virus directly from detection signals results in the rapid identification of the virus .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We have demonstrated the validity and feasibility of the above strategy with a small number of viral samples. The probe design algorithm can be applied to any publicly available viral sequence database. The strategy of using separate genus and species probe sets enables the use of a straightforward virus identity calculation directly based on the hybridization signals. Our virus identification strategy has great potential in the diagnosis of viral infections. The virus genus and specific probe database and the associated summary tables are available at",
+      "sentences": [
+        [
+          {
+            "segment_text": "We have demonstrated the validity and feasibility of the above strategy with a small number of viral samples .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The probe design algorithm can be applied to any publicly available viral sequence database .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The strategy of using separate genus and species probe sets enables the use of a straightforward virus identity calculation directly based on the hybridization signals .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our virus identification strategy has great potential in the diagnosis of viral infections .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The virus genus and specific probe database and the associated summary tables are available at",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "11",
+    "segment_num": "14",
+    "token_num": "263"
+  }
+}

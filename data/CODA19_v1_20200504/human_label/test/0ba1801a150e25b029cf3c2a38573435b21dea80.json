@@ -1,0 +1,128 @@
+{
+  "paper_id": "0ba1801a150e25b029cf3c2a38573435b21dea80",
+  "metadata": {
+    "title": "Identifying SARS-CoV Membrane Protein Amino Acid Residues Linked to Virus-Like Particle Assembly",
+    "coda_data_split": "test",
+    "coda_paper_id": 137,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Severe acute respiratory syndrome coronavirus (SARS-CoV) membrane (M) proteins are capable of self-assembly and release in the form of membrane-enveloped vesicles, and of forming virus-like particles (VLPs) when coexpressed with SARS-CoV nucleocapsid (N) protein. According to previous deletion analyses, M self-assembly involves multiple M sequence regions. To identify important M amino acid residues for VLP assembly, we coexpressed N with multiple M mutants containing substitution mutations at the amino-terminal ectodomain, carboxyl-terminal endodomain, or transmembrane segments.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Severe acute respiratory syndrome coronavirus ( SARS-CoV ) membrane ( M ) proteins are capable of self-assembly and release in the form of membrane-enveloped vesicles ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and of forming virus-like particles ( VLPs ) when coexpressed with SARS-CoV nucleocapsid ( N ) protein .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "According to previous deletion analyses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "M self-assembly involves multiple M sequence regions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To identify important M amino acid residues for VLP assembly ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "we coexpressed N with multiple M mutants containing substitution mutations at the amino-terminal ectodomain ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "carboxyl-terminal endodomain , or transmembrane segments .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Our results indicate that a dileucine motif in the endodomain tail (218LL219) is required for efficient N packaging into VLPs. Results from cross-linking VLP analyses suggest that the cysteine residues 63, 85 and 158 are not in close proximity to the M dimer interface. We noted a significant reduction in M secretion due to serine replacement for C158, but not for C63 or C85. Further analysis suggests that C158 is involved in M-N interaction. In addition to mutations of the highly conserved 107-SWWSFNPE-114 motif, substitutions at codons W19, W57, P58, W91, Y94 or F95 all resulted in significantly reduced VLP yields, largely due to defective M secretion. VLP production was not significantly affected by a tryptophan replacement of Y94 or F95 or a phenylalanine replacement of W19, W57 or W91. Combined, these results indicate the involvement of specific M amino acids during SARS-CoV virus assembly, and suggest that aromatic residue retention at specific positions is critical for M function in terms of directing virus assembly.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Our results indicate that a dileucine motif in the endodomain tail ( 218LL219 ) is required for efficient N packaging into VLPs .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results from cross-linking VLP analyses suggest that the cysteine residues 63 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "85 and 158 are not in close proximity to the M dimer interface .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We noted a significant reduction in M secretion due to serine replacement for C158 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but not for C63 or C85 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Further analysis suggests that C158 is involved in M-N interaction .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition to mutations of the highly conserved 107-SWWSFNPE-114 motif ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "substitutions at codons W19 , W57 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "P58 , W91 , Y94 or F95 all resulted in significantly reduced VLP yields ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "largely due to defective M secretion .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "VLP production was not significantly affected by a tryptophan replacement of Y94 or F95 or a phenylalanine replacement of W19 , W57 or W91 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Combined , these results indicate the involvement of specific M amino acids during SARS-CoV virus assembly ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and suggest that aromatic residue retention at specific positions is critical for M function in terms of directing virus assembly .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "10",
+    "segment_num": "20",
+    "token_num": "276"
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "paper_id": "168ee484462356a280cd7fe162b1b7a8d81e80c5",
+  "metadata": {
+    "title": "Natural Bis-Benzylisoquinoline Alkaloids-Tetrandrine, Fangchinoline, and Cepharanthine, Inhibit Human Coronavirus OC43 Infection of MRC-5 Human Lung Cells",
+    "coda_data_split": "train",
+    "coda_paper_id": 6169,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Stephania tetrandra and other related species of Menispermaceae are the major sources of the bis-benzylisoquinoline alkaloids tetrandrine (TET), fangchinoline (FAN), and cepharanthine (CEP). Although the pharmacological properties of these compounds include anticancer and anti-inflammatory activities, the antiviral effects of these compounds against human coronavirus (HCoV) remain unclear. Hence, the aims of the current study were to assess the antiviral activities of TET, FAN, and CEP and to elucidate the underlying mechanisms in HCoV-OC43-infected MRC-5 human lung cells. These compounds significantly inhibited virus-induced cell death at the early stage of virus infection. TET, FAN, and CEP treatment dramatically suppressed the replication of HCoV-OC43 as well as inhibited viral S and N protein expression. The virus-induced host response was reduced by compound treatment as compared with the vehicle control. Taken together, these findings demonstrate that TET, FAN, and CEP are potential natural antiviral agents for the prevention and treatment of HCoV-OC43 infection. Biomolecules 2019, 9, 696 2 of 16",
+      "sentences": [
+        [
+          {
+            "segment_text": "Stephania tetrandra and other related species of Menispermaceae are the major sources of the bis-benzylisoquinoline alkaloids tetrandrine ( TET ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "fangchinoline ( FAN ) , and cepharanthine ( CEP ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although the pharmacological properties of these compounds include anticancer and anti-inflammatory activities ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the antiviral effects of these compounds against human coronavirus ( HCoV ) remain unclear .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hence , the aims of the current study were to assess the antiviral activities of TET ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "FAN , and CEP and to elucidate the underlying mechanisms in HCoV-OC43-infected MRC-5 human lung cells .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "These compounds significantly inhibited virus-induced cell death at the early stage of virus infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "TET , FAN , and CEP treatment dramatically suppressed the replication of HCoV-OC43 as well as inhibited viral S and N protein expression .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The virus-induced host response was reduced by compound treatment as compared with the vehicle control .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Taken together , these findings demonstrate that TET ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "FAN , and CEP are potential natural antiviral agents for the prevention and treatment of HCoV-OC43 infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Biomolecules 2019 , 9 , 696 2 of 16",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "anticancer, anti-inflammatory, and anti-oxidative activities [6] . TET exhibits broad pharmacological actions that include anti-inflammatory effects as well as immunosuppressant and anticancer activities [5] . Several studies have reported the effects of TET against the infection of different types of viruses such as herpes simplex virus, dengue virus, and Ebola virus [7] [8] [9] ; others have shown that FAN inhibits the replication of human immunodeficiency virus type 1 (HIV-1) [10] and that CEP possesses antiviral activities against HIV-1 [11] and herpes simplex virus type 1 [12] . Coronaviruses (CoVs) are enveloped, positive-sense, single-stranded RNA viruses that infect a broad range of animal species and cause multiple respiratory outcomes of varying severity, including the common cold, bronchiolitis, and pneumonia [13] . CoVs are subdivided into four genera (Alpha-, Beta-, Gamma-, and Delta-) [14] . Among the six CoVs isolated from humans [15], the World Health Organization declared that accelerated research and the development of antivirals for the treatment of emerging zoonotic viruses, including β-CoVs, Middle East respiratory syndrome-related coronavirus (MERS-CoV), and severe acute respiratory syndrome-related coronavirus (SARS-CoV), are urgently needed [16]. Since the mid-1960s, human coronavirus strains OC43 (HCoV-OC43; β-CoV) and 229E (α-CoV) have been considered as mostly responsible for the common cold [17, 18] . Notably, HCoV-OC43, which is the most prevalent subtype of HCoV [19] , is responsible for up to 30% of respiratory infections and can cause repeated reinfections throughout life [20, 21] . Moreover, HCoV-OC43 is most closely related to SARS-CoV and MERS-CoV, and shares several functional properties with both [22, 23] . Due to the similarities with SARS-CoV and MERS-CoV, HCoV-OC43 has been used as an alternative model for research of these emerging viral strains to avoid the limitation of the requirement for a biosafety level 3 (BSL-3) facility.",
+      "sentences": [
+        [
+          {
+            "segment_text": "anticancer , anti-inflammatory , and anti-oxidative activities ( 6 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "TET exhibits broad pharmacological actions that include anti-inflammatory effects as well as immunosuppressant and anticancer activities ( 5 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Several studies have reported the effects of TET against the infection of different types of viruses such as herpes simplex virus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "dengue virus , and Ebola virus ( 7 ) ( 8 ) ( 9 ) ; others have shown that FAN inhibits the replication of human immunodeficiency virus type 1 ( HIV-1 ) ( 10 ) and that CEP possesses antiviral activities against HIV-1 ( 11 ) and herpes simplex virus type 1 ( 12 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Coronaviruses ( CoVs ) are enveloped ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "positive-sense , single-stranded RNA viruses that infect a broad range of animal species and cause multiple respiratory outcomes of varying severity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including the common cold , bronchiolitis ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and pneumonia ( 13 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "CoVs are subdivided into four genera ( Alpha - , Beta - , Gamma - , and Delta - ) ( 14 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Among the six CoVs isolated from humans ( 15 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the World Health Organization declared that accelerated research and the development of antivirals for the treatment of emerging zoonotic viruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including β-CoVs , Middle East respiratory syndrome-related coronavirus ( MERS-CoV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and severe acute respiratory syndrome-related coronavirus ( SARS-CoV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "are urgently needed ( 16 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Since the mid-1960s , human coronavirus strains OC43 ( HCoV-OC43 ; β-CoV ) and 229E ( α-CoV ) have been considered as mostly responsible for the common cold ( 17 , 18 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Notably , HCoV-OC43 , which is the most prevalent subtype of HCoV ( 19 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "is responsible for up to 30 % of respiratory infections and can cause repeated reinfections throughout life ( 20 , 21 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , HCoV-OC43 is most closely related to SARS-CoV and MERS-CoV ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and shares several functional properties with both ( 22 , 23 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Due to the similarities with SARS-CoV and MERS-CoV ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "HCoV-OC43 has been used as an alternative model for research of these emerging viral strains to avoid the limitation of the requirement for a biosafety level 3 ( BSL-3 ) facility .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The aim of the present study was to investigate the antiviral activities of TET, as a herb-derived, small-molecule compound, in HCoV-OC43-infected MRC-5 fibroblasts derived from human lung tissue. The results showed that TET inhibited HCoV-OC43 infection of MRC-5 cells in a dose-dependent manner. In addition, the antiviral effects of FAN and CEP, which are also natural compounds with chemical structures similar to that of TET, were verified. Overall, our findings suggest that TET, FAN, and CEP are potential antiviral candidates for the treatment of human β-CoV infection.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The aim of the present study was to investigate the antiviral activities of TET ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "as a herb-derived , small-molecule compound ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "in HCoV-OC43-infected MRC-5 fibroblasts derived from human lung tissue .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results showed that TET inhibited HCoV-OC43 infection of MRC-5 cells in a dose-dependent manner .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , the antiviral effects of FAN and CEP ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which are also natural compounds with chemical structures similar to that of TET , were verified .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Overall , our findings suggest that TET ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "FAN , and CEP are potential antiviral candidates for the treatment of human β-CoV infection .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "22",
+    "segment_num": "41",
+    "token_num": "661"
+  }
+}

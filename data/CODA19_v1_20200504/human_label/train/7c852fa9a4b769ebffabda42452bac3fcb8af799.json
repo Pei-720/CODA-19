@@ -1,0 +1,372 @@
+{
+  "paper_id": "7c852fa9a4b769ebffabda42452bac3fcb8af799",
+  "metadata": {
+    "title": "molecules Self-Replicating RNA Viruses for RNA Therapeutics",
+    "coda_data_split": "train",
+    "coda_paper_id": 10509,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Self-replicating single-stranded RNA viruses such as alphaviruses, flaviviruses, measles viruses, and rhabdoviruses provide efficient delivery and high-level expression of therapeutic genes due to their high capacity of RNA replication. This has contributed to novel approaches for therapeutic applications including vaccine development and gene therapy-based immunotherapy. Numerous studies in animal tumor models have demonstrated that self-replicating RNA viral vectors can generate antibody responses against infectious agents and tumor cells. Moreover, protection against challenges with pathogenic Ebola virus was obtained in primates immunized with alphaviruses and flaviviruses. Similarly, vaccinated animals have been demonstrated to withstand challenges with lethal doses of tumor cells. Furthermore, clinical trials have been conducted for several indications with self-amplifying RNA viruses. In this context, alphaviruses have been subjected to phase I clinical trials for a cytomegalovirus vaccine generating neutralizing antibodies in healthy volunteers, and for antigen delivery to dendritic cells providing clinically relevant antibody responses in cancer patients, respectively. Likewise, rhabdovirus particles have been subjected to phase I/II clinical trials showing good safety and immunogenicity against Ebola virus. Rhabdoviruses have generated promising results in phase III trials against Ebola virus. The purpose of this review is to summarize the achievements of using self-replicating RNA viruses for RNA therapy based on preclinical animal studies and clinical trials in humans. Molecules 2018, 23, 3310 2 of 22 in the areas of cancer immunotherapy [4,5], vaccine development against infectious diseases [6,7], protein replacement [8], and gene editing [9].",
+      "sentences": [
+        [
+          {
+            "segment_text": "Self-replicating single-stranded RNA viruses such as alphaviruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "flaviviruses , measles viruses , and rhabdoviruses provide efficient delivery and high-level expression of therapeutic genes due to their high capacity of RNA replication .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This has contributed to novel approaches for therapeutic applications including vaccine development and gene therapy-based immunotherapy .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Numerous studies in animal tumor models have demonstrated that self-replicating RNA viral vectors can generate antibody responses against infectious agents and tumor cells .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , protection against challenges with pathogenic Ebola virus was obtained in primates immunized with alphaviruses and flaviviruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Similarly , vaccinated animals have been demonstrated to withstand challenges with lethal doses of tumor cells .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , clinical trials have been conducted for several indications with self-amplifying RNA viruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this context , alphaviruses have been subjected to phase I clinical trials for a cytomegalovirus vaccine generating neutralizing antibodies in healthy volunteers ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and for antigen delivery to dendritic cells providing clinically relevant antibody responses in cancer patients , respectively .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Likewise , rhabdovirus particles have been subjected to phase I/II clinical trials showing good safety and immunogenicity against Ebola virus .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Rhabdoviruses have generated promising results in phase III trials against Ebola virus .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The purpose of this review is to summarize the achievements of using self-replicating RNA viruses for RNA therapy based on preclinical animal studies and clinical trials in humans .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Molecules 2018 , 23 , 3310 2 of 22 in the areas of cancer immunotherapy ( 4,5 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "vaccine development against infectious diseases ( 6,7 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "protein replacement ( 8 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and gene editing ( 9 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Related to mRNA-based drug approaches, the employment of self-replicating RNA viruses has provided an interesting and attractive alternative to further enhance delivery and efficacy [10] . The unique feature of high-rate cytoplasmic replication combined with extreme transgene expression has made these RNA viruses the system of choice for RNA therapeutics. In this review, self-replicating vectors are described and their applications for preclinical studies and clinical trials are discussed.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Related to mRNA-based drug approaches ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the employment of self-replicating RNA viruses has provided an interesting and attractive alternative to further enhance delivery and efficacy ( 10 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The unique feature of high-rate cytoplasmic replication combined with extreme transgene expression has made these RNA viruses the system of choice for RNA therapeutics .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this review , self-replicating vectors are described and their applications for preclinical studies and clinical trials are discussed .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The common feature of self-replicating RNA viruses relates to their single-stranded RNA (ssRNA) genome surrounded by a capsid core structure and a protein envelope. Alphaviruses [11] and flaviviruses [12] possess a genome of positive polarity, whereas the genome of measles viruses (MVs) [13] and rhabdoviruses [14] as negative strand ssRNA. Expression vectors serving as templates for RNA transcription and recombinant viral particles have been engineered. Moreover, alphavirus vectors providing RNA replication can be utilized as plasmid DNA. 2.1. Alphaviruses Alphaviruses belong to the family of Togaviridiae [15]. The most common alphaviruses engineered as expression vectors are based on Semliki Forest virus (SFV) [15], Sindbis virus (SIN) [16], and Venezuelan equine encephalitis virus (VEE) [17]. The alphavirus genome consists of four nonstructural genes (nsP1-4), responsible for RNA self-replication and the genes for the capsid and envelope proteins [11] (Figure 1A-C). Engineered alphavirus vectors generate replication-deficient and -proficient recombinant particles suitable for transgene expression in cell lines and in vivo [18]. Introduction of a CMV promoter upstream of the nsP genes allows direct transfection of plasmid DNA with self-replicating RNA capacity [19]. Due to the design of these alternative alphavirus vectors it is possible to conduct studies with naked RNA replicons, recombinant viral particles and layered DNA-RNA vectors.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The common feature of self-replicating RNA viruses relates to their single-stranded RNA ( ssRNA ) genome surrounded by a capsid core structure and a protein envelope .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Alphaviruses ( 11 ) and flaviviruses ( 12 ) possess a genome of positive polarity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "whereas the genome of measles viruses ( MVs ) ( 13 ) and rhabdoviruses ( 14 ) as negative strand ssRNA .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Expression vectors serving as templates for RNA transcription and recombinant viral particles have been engineered .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , alphavirus vectors providing RNA replication can be utilized as plasmid DNA .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "2.1 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Alphaviruses Alphaviruses belong to the family of Togaviridiae ( 15 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The most common alphaviruses engineered as expression vectors are based on Semliki Forest virus ( SFV ) ( 15 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Sindbis virus ( SIN ) ( 16 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and Venezuelan equine encephalitis virus ( VEE ) ( 17 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The alphavirus genome consists of four nonstructural genes ( nsP1-4 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "responsible for RNA self-replication and the genes for the capsid and envelope proteins ( 11 ) ( Figure 1A-C ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Engineered alphavirus vectors generate replication-deficient and - proficient recombinant particles suitable for transgene expression in cell lines and in vivo ( 18 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Introduction of a CMV promoter upstream of the nsP genes allows direct transfection of plasmid DNA with self-replicating RNA capacity ( 19 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Due to the design of these alternative alphavirus vectors it is possible to conduct studies with naked RNA replicons ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "recombinant viral particles and layered DNA-RNA vectors .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Molecules 2018, 23, 3310 2 of 21 cancer immunotherapy [4,5], vaccine development against infectious diseases [6,7], protein replacement [8], and gene editing [9].",
+      "sentences": [
+        [
+          {
+            "segment_text": "Molecules 2018 , 23 , 3310 2 of 21 cancer immunotherapy ( 4,5 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "vaccine development against infectious diseases ( 6,7 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "protein replacement ( 8 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and gene editing ( 9 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Related to mRNA-based drug approaches, the employment of self-replicating RNA viruses has provided an interesting and attractive alternative to further enhance delivery and efficacy [10] . The unique feature of high-rate cytoplasmic replication combined with extreme transgene expression has made these RNA viruses the system of choice for RNA therapeutics. In this review, self-replicating vectors are described and their applications for preclinical studies and clinical trials are discussed.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Related to mRNA-based drug approaches ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the employment of self-replicating RNA viruses has provided an interesting and attractive alternative to further enhance delivery and efficacy ( 10 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The unique feature of high-rate cytoplasmic replication combined with extreme transgene expression has made these RNA viruses the system of choice for RNA therapeutics .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this review , self-replicating vectors are described and their applications for preclinical studies and clinical trials are discussed .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The common feature of self-replicating RNA viruses relates to their single-stranded RNA (ssRNA) genome surrounded by a capsid core structure and a protein envelope. Alphaviruses [11] and flaviviruses [12] possess a genome of positive polarity, whereas the genome of measles viruses (MVs) [13] and rhabdoviruses [14] as negative strand ssRNA. Expression vectors serving as templates for RNA transcription and recombinant viral particles have been engineered. Moreover, alphavirus vectors providing RNA replication can be utilized as plasmid DNA.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The common feature of self-replicating RNA viruses relates to their single-stranded RNA ( ssRNA ) genome surrounded by a capsid core structure and a protein envelope .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Alphaviruses ( 11 ) and flaviviruses ( 12 ) possess a genome of positive polarity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "whereas the genome of measles viruses ( MVs ) ( 13 ) and rhabdoviruses ( 14 ) as negative strand ssRNA .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Expression vectors serving as templates for RNA transcription and recombinant viral particles have been engineered .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , alphavirus vectors providing RNA replication can be utilized as plasmid DNA .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Alphaviruses belong to the family of Togaviridiae [15]. The most common alphaviruses engineered as expression vectors are based on Semliki Forest virus (SFV) [15], Sindbis virus (SIN) [16], and Venezuelan equine encephalitis virus (VEE) [17]. The alphavirus genome consists of four nonstructural genes (nsP1-4), responsible for RNA self-replication and the genes for the capsid and envelope proteins [11] (Figure 1A-C). Engineered alphavirus vectors generate replication-deficient and -proficient recombinant particles suitable for transgene expression in cell lines and in vivo [18].",
+      "sentences": [
+        [
+          {
+            "segment_text": "Alphaviruses belong to the family of Togaviridiae ( 15 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The most common alphaviruses engineered as expression vectors are based on Semliki Forest virus ( SFV ) ( 15 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Sindbis virus ( SIN ) ( 16 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and Venezuelan equine encephalitis virus ( VEE ) ( 17 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The alphavirus genome consists of four nonstructural genes ( nsP1-4 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "responsible for RNA self-replication and the genes for the capsid and envelope proteins ( 11 ) ( Figure 1A-C ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Engineered alphavirus vectors generate replication-deficient and - proficient recombinant particles suitable for transgene expression in cell lines and in vivo ( 18 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Introduction of a CMV promoter upstream of the nsP genes allows direct transfection of plasmid DNA with self-replicating RNA capacity [19] . Due to the design of these alternative alphavirus vectors it is possible to conduct studies with naked RNA replicons, recombinant viral particles and layered DNA-RNA vectors.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Introduction of a CMV promoter upstream of the nsP genes allows direct transfection of plasmid DNA with self-replicating RNA capacity ( 19 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Due to the design of these alternative alphavirus vectors it is possible to conduct studies with naked RNA replicons ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "recombinant viral particles and layered DNA-RNA vectors .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "8",
+    "sentence_num": "39",
+    "segment_num": "59",
+    "token_num": "973"
+  }
+}

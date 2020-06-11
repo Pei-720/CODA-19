@@ -1,0 +1,57 @@
+{
+  "paper_id": "a08f5fd1ac9fc3e33a771787d584a845a8558cae",
+  "metadata": {
+    "title": "Case Study of Airborne Pathogen Dispersion Patterns in Emergency Departments with Different Ventilation and Partition Conditions",
+    "coda_data_split": "train",
+    "coda_paper_id": 5175,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "The prevention of airborne infections in emergency departments is a very important issue. This study investigated the effects of architectural features on airborne pathogen dispersion in emergency departments by using a CFD (computational fluid dynamics) simulation tool. The study included three architectural features as the major variables: increased ventilation rate, inlet and outlet diffuser positions, and partitions between beds. The most effective method for preventing pathogen dispersion and reducing the pathogen concentration was found to be increasing the ventilation rate. Installing partitions between the beds and changing the ventilation system\u0027s inlet and outlet diffuser positions contributed only minimally to reducing the concentration of airborne pathogens.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The prevention of airborne infections in emergency departments is a very important issue .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study investigated the effects of architectural features on airborne pathogen dispersion in emergency departments by using a CFD ( computational fluid dynamics ) simulation tool .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The study included three architectural features as the major variables : increased ventilation rate ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "inlet and outlet diffuser positions , and partitions between beds .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The most effective method for preventing pathogen dispersion and reducing the pathogen concentration was found to be increasing the ventilation rate .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Installing partitions between the beds and changing the ventilation system \u0027s inlet and outlet diffuser positions contributed only minimally to reducing the concentration of airborne pathogens .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "6",
+    "token_num": "116"
+  }
+}

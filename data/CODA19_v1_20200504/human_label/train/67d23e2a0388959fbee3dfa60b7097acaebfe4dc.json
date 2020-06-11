@@ -1,0 +1,118 @@
+{
+  "paper_id": "67d23e2a0388959fbee3dfa60b7097acaebfe4dc",
+  "metadata": {
+    "title": "IILLS: predicting virus-receptor interactions based on similarity and semi-supervised learning",
+    "coda_data_split": "train",
+    "coda_paper_id": 5595,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Viral infectious diseases are the serious threat for human health. The receptor-binding is the first step for the viral infection of hosts. To more effectively treat human viral infectious diseases, the hidden virus-receptor interactions must be discovered. However, current computational methods for predicting virus-receptor interactions are limited. Result: In this study, we propose a new computational method (IILLS) to predict virus-receptor interactions based on Initial Interaction scores method via the neighbors and the Laplacian regularized Least Square algorithm. IILLS integrates the known virus-receptor interactions and amino acid sequences of receptors. The similarity of viruses is calculated by the Gaussian Interaction Profile (GIP) kernel. On the other hand, we also compute the receptor GIP similarity and the receptor sequence similarity. Then the sequence similarity is used as the final similarity of receptors according to the prediction results. The 10-fold cross validation (10CV) and leave one out cross validation (LOOCV) are used to assess the prediction performance of our method. We also compare our method with other three competing methods (BRWH, LapRLS, CMF).",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Viral infectious diseases are the serious threat for human health .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The receptor-binding is the first step for the viral infection of hosts .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To more effectively treat human viral infectious diseases ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the hidden virus-receptor interactions must be discovered .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , current computational methods for predicting virus-receptor interactions are limited .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Result : In this study ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we propose a new computational method ( IILLS ) to predict virus-receptor interactions based on Initial Interaction scores method via the neighbors and the Laplacian regularized Least Square algorithm .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "IILLS integrates the known virus-receptor interactions and amino acid sequences of receptors .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The similarity of viruses is calculated by the Gaussian Interaction Profile ( GIP ) kernel .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "On the other hand , we also compute the receptor GIP similarity and the receptor sequence similarity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Then the sequence similarity is used as the final similarity of receptors according to the prediction results .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The 10-fold cross validation ( 10CV ) and leave one out cross validation ( LOOCV ) are used to assess the prediction performance of our method .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also compare our method with other three competing methods ( BRWH , LapRLS , CMF ) .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The experiment results show that IILLS achieves the AUC values of 0.8675 and 0.9061 with the 10-fold cross validation and leave-one-out cross validation (LOOCV), respectively, which illustrates that IILLS is superior to the competing methods. In addition, the case studies also further indicate that the IILLS method is effective for the virus-receptor interaction prediction.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The experiment results show that IILLS achieves the AUC values of 0.8675 and 0.9061 with the 10-fold cross validation and leave-one-out cross validation ( LOOCV ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "respectively , which illustrates that IILLS is superior to the competing methods .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , the case studies also further indicate that the IILLS method is effective for the virus-receptor interaction prediction .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "13",
+    "segment_num": "16",
+    "token_num": "262"
+  }
+}

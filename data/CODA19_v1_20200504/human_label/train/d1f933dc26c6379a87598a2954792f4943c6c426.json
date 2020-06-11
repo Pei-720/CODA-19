@@ -1,0 +1,107 @@
+{
+  "paper_id": "d1f933dc26c6379a87598a2954792f4943c6c426",
+  "metadata": {
+    "title": "A Microarray Based Approach for the Identification of Common Foodborne Viruses",
+    "coda_data_split": "train",
+    "coda_paper_id": 4136,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "An oligonucleotide array (microarray) incorporating 13,000 elements representing selected strains of hepatitis A virus (HAV), human coxsackieviruses A and B (CVA and CVB), genogroups I and II of Norovirus (NV), and human rotavirus (RV) gene segments 3,4,10, and 11 was designed based on the principle of tiling. Each oligonucleotide was 29 bases long, starting at every 5 th base of every sequence, resulting in an overlap of 24 bases in two consecutive oligonucleotides. The applicability of the array for virus identification was examined using PCR amplified products from multiple HAV and CV strains. PCR products labeled with biotin were hybridized to the array, and the biotin was detected using a brief reaction with Cy3-labeled streptavidin, the array subjected to laser scanning, and the hybridization data plotted as fluorescence intensity against each oligonucleotide in the array. The combined signal intensities of all probes representing a particular strain of virus were calculated and plotted against all virus strains identified on a linear representation of the array. The profile of the total signal intensity identified the strain that is most likely represented in the amplified cDNA target. The results obtained with HAV and CV indicated that the hybridization profile thus generated can be used to identify closely related viral strains. This represents a significant improvement over current methods for virus identification using PCR amplification and amplicon sequencing.",
+      "sentences": [
+        [
+          {
+            "segment_text": "An oligonucleotide array ( microarray ) incorporating 13,000 elements representing selected strains of hepatitis A virus ( HAV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "human coxsackieviruses A and B ( CVA and CVB ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "genogroups I and II of Norovirus ( NV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and human rotavirus ( RV ) gene segments 3,4,10 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and 11 was designed based on the principle of tiling .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Each oligonucleotide was 29 bases long ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "starting at every 5 th base of every sequence ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "resulting in an overlap of 24 bases in two consecutive oligonucleotides .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The applicability of the array for virus identification was examined using PCR amplified products from multiple HAV and CV strains .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "PCR products labeled with biotin were hybridized to the array ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the biotin was detected using a brief reaction with Cy3-labeled streptavidin ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the array subjected to laser scanning ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the hybridization data plotted as fluorescence intensity against each oligonucleotide in the array .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The combined signal intensities of all probes representing a particular strain of virus were calculated and plotted against all virus strains identified on a linear representation of the array .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The profile of the total signal intensity identified the strain that is most likely represented in the amplified cDNA target .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results obtained with HAV and CV indicated that the hybridization profile thus generated can be used to identify closely related viral strains .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This represents a significant improvement over current methods for virus identification using PCR amplification and amplicon sequencing .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "17",
+    "token_num": "251"
+  }
+}

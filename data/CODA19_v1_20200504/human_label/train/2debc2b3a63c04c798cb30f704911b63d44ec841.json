@@ -1,0 +1,103 @@
+{
+  "paper_id": "2debc2b3a63c04c798cb30f704911b63d44ec841",
+  "metadata": {
+    "title": "TAR-VIR: a pipeline for TARgeted VIRal strain reconstruction from metagenomic data",
+    "coda_data_split": "train",
+    "coda_paper_id": 3718,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Strain-level RNA virus characterization is essential for developing prevention and treatment strategies. Viral metagenomic data, which can contain sequences of both known and novel viruses, provide new opportunities for characterizing RNA viruses. Although there are a number of pipelines for analyzing viruses in metagenomic data, they have different limitations. First, viruses that lack closely related reference genomes cannot be detected with high sensitivity. Second, strain-level analysis is usually missing. Results: In this study, we developed a hybrid pipeline named TAR-VIR that reconstructs viral strains without relying on complete or high-quality reference genomes. It is optimized for identifying RNA viruses from metagenomic data by combining an effective read classification method and our in-house strain-level de novo assembly tool. TAR-VIR was tested on both simulated and real viral metagenomic data sets. The results demonstrated that TAR-VIR competes favorably with other tested tools. Conclusion: TAR-VIR can be used standalone for viral strain reconstruction from metagenomic data. Or, its read recruiting stage can be used with other de novo assembly tools for superior viral functional and taxonomic analyses. The source code and the documentation of TAR-VIR are available at https://github.com/chjiao/TAR-VIR.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Strain-level RNA virus characterization is essential for developing prevention and treatment strategies .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Viral metagenomic data , which can contain sequences of both known and novel viruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "provide new opportunities for characterizing RNA viruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although there are a number of pipelines for analyzing viruses in metagenomic data , they have different limitations .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "First , viruses that lack closely related reference genomes can not be detected with high sensitivity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Second , strain-level analysis is usually missing .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results : In this study ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we developed a hybrid pipeline named TAR-VIR that reconstructs viral strains without relying on complete or high-quality reference genomes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is optimized for identifying RNA viruses from metagenomic data by combining an effective read classification method and our in-house strain-level de novo assembly tool .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "TAR-VIR was tested on both simulated and real viral metagenomic data sets .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results demonstrated that TAR-VIR competes favorably with other tested tools .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Conclusion : TAR-VIR can be used standalone for viral strain reconstruction from metagenomic data .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Or , its read recruiting stage can be used with other de novo assembly tools for superior viral functional and taxonomic analyses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The source code and the documentation of TAR-VIR are available at https://github.com/chjiao/TAR-VIR .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "12",
+    "segment_num": "14",
+    "token_num": "210"
+  }
+}

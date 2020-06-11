@@ -1,0 +1,132 @@
+{
+  "paper_id": "975a7b5f0f9a7f9a03195cb5cd1a633ecd4e36f8",
+  "metadata": {
+    "title": "Characterization of Ribosomal Frameshifting in Theiler\u0027s Murine Encephalomyelitis Virus",
+    "coda_data_split": "train",
+    "coda_paper_id": 10611,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Theiler\u0027s murine encephalomyelitis virus (TMEV) is a member of the genus Cardiovirus in the Picornaviridae, a family of positive-sense single-stranded RNA viruses. Previously, we demonstrated that in the related cardiovirus, Encephalomyocarditis virus, a programmed ؊1 ribosomal frameshift (؊1 PRF) occurs at a conserved G_GUU_UUU sequence within the 2B-encoding region of the polyprotein open reading frame (ORF). Here we show that ؊1 PRF occurs at a similar site during translation of the TMEV genome. In addition, we demonstrate that a predicted 3\u003d RNA stem-loop structure at a noncanonical spacing downstream of the shift site is required for efficient frameshifting in TMEV and that frameshifting also requires virus infection. Mutating the G_GUU_UUU shift site to inhibit frameshifting results in an attenuated virus with reduced growth kinetics and a small-plaque phenotype. Frameshifting in the virus context was found to be extremely efficient at 74 to 82%, which, to our knowledge, is the highest frameshifting efficiency recorded to date for any virus. We propose that highly efficient ؊1 PRF in TMEV provides a mechanism to escape the confines of equimolar expression normally inherent in the single-polyprotein expression strategy of picornaviruses.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Theiler \u0027s murine encephalomyelitis virus ( TMEV ) is a member of the genus Cardiovirus in the Picornaviridae ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a family of positive-sense single-stranded RNA viruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Previously , we demonstrated that in the related cardiovirus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Encephalomyocarditis virus , a programmed ؊ 1 ribosomal frameshift ( ؊ 1 PRF ) occurs at a conserved G _ GUU _ UUU sequence within the 2B-encoding region of the polyprotein open reading frame ( ORF ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we show that ؊ 1 PRF occurs at a similar site during translation of the TMEV genome .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , we demonstrate that a predicted 3 \u003d RNA stem-loop structure at a noncanonical spacing downstream of the shift site is required for efficient frameshifting in TMEV and that frameshifting also requires virus infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Mutating the G _ GUU _ UUU shift site to inhibit frameshifting results in an attenuated virus with reduced growth kinetics and a small-plaque phenotype .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Frameshifting in the virus context was found to be extremely efficient at 74 to 82 % ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which , to our knowledge ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "is the highest frameshifting efficiency recorded to date for any virus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We propose that highly efficient ؊ 1 PRF in TMEV provides a mechanism to escape the confines of equimolar expression normally inherent in the single-polyprotein expression strategy of picornaviruses .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Many viruses utilize programmed ؊1 ribosomal frameshifting (؊1 PRF) to produce different protein products at a defined ratio, or to translate overlapping ORFs to increase coding capacity. With few exceptions, ؊1 PRF occurs on specific \"slippery\" heptanucleotide sequences and is stimulated by RNA structure beginning 5 to 9 nucleotides (nt) downstream of the slippery site. Here we describe an unusual case of ؊1 PRF in Theiler\u0027s murine encephalomyelitis virus (TMEV) that is extraordinarily efficient (74 to 82% of ribosomes shift into the alternative reading frame) and, in stark contrast to other examples of ؊1 PRF, is dependent upon a stem-loop structure beginning 14 nt downstream of the slippery site. Furthermore, in TMEV-based reporter constructs in transfected cells, efficient frameshifting is critically dependent upon virus infection. We suggest that TMEV evolved frameshifting as a novel mechanism for removing ribosomes from the message (a \"ribosome sink\") to downregulate synthesis of the 3\u003d-encoded replication proteins.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Many viruses utilize programmed ؊ 1 ribosomal frameshifting ( ؊ 1 PRF ) to produce different protein products at a defined ratio ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "or to translate overlapping ORFs to increase coding capacity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "With few exceptions , ؊ 1 PRF occurs on specific `` slippery \u0027\u0027 heptanucleotide sequences and is stimulated by RNA structure beginning 5 to 9 nucleotides ( nt ) downstream of the slippery site .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we describe an unusual case of ؊ 1 PRF in Theiler \u0027s murine encephalomyelitis virus ( TMEV ) that is extraordinarily efficient ( 74 to 82 % of ribosomes shift into the alternative reading frame ) and ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "in stark contrast to other examples of ؊ 1 PRF ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "is dependent upon a stem-loop structure beginning 14 nt downstream of the slippery site .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , in TMEV-based reporter constructs in transfected cells ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "efficient frameshifting is critically dependent upon virus infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We suggest that TMEV evolved frameshifting as a novel mechanism for removing ribosomes from the message ( a `` ribosome sink \u0027\u0027 ) to downregulate synthesis of the 3 \u003d - encoded replication proteins .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "12",
+    "segment_num": "20",
+    "token_num": "409"
+  }
+}

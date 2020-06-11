@@ -1,0 +1,336 @@
+{
+  "paper_id": "d65ee92563369f173d038fe15c6f066c4f134385",
+  "metadata": {
+    "title": "The Lymphocytic Choriomeningitis Virus Matrix Protein PPXY Late Domain Drives the Production of Defective Interfering Particles",
+    "coda_data_split": "train",
+    "coda_paper_id": 4299,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Arenaviruses cause severe diseases in humans but establish asymptomatic, lifelong infections in rodent reservoirs. Persistently-infected rodents harbor high levels of defective interfering (DI) particles, which are thought to be important for establishing persistence and mitigating virus-induced cytopathic effect. Little is known about what drives the production of DI particles. We show that neither the PPXY late domain encoded within the lymphocytic choriomeningitis virus (LCMV) matrix protein nor a functional endosomal sorting complex transport (ESCRT) pathway is absolutely required for the generation of standard infectious virus particles. In contrast, DI particle release critically requires the PPXY late domain and is ESCRT-dependent. Additionally, the terminal tyrosine in the PPXY motif is reversibly phosphorylated and our findings indicate that this posttranslational modification may regulate DI particle formation. Thus we have uncovered a new role for the PPXY late domain and a possible mechanism for its regulation.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Arenaviruses cause severe diseases in humans but establish asymptomatic ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "lifelong infections in rodent reservoirs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Persistently-infected rodents harbor high levels of defective interfering ( DI ) particles ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which are thought to be important for establishing persistence and mitigating virus-induced cytopathic effect .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Little is known about what drives the production of DI particles .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We show that neither the PPXY late domain encoded within the lymphocytic choriomeningitis virus ( LCMV ) matrix protein nor a functional endosomal sorting complex transport ( ESCRT ) pathway is absolutely required for the generation of standard infectious virus particles .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In contrast , DI particle release critically requires the PPXY late domain and is ESCRT-dependent .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Additionally , the terminal tyrosine in the PPXY motif is reversibly phosphorylated and our findings indicate that this posttranslational modification may regulate DI particle formation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus we have uncovered a new role for the PPXY late domain and a possible mechanism for its regulation .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Arenaviruses cause severe and often fatal diseases in humans yet typically establish lifelong, asymptomatic infections in their rodent reservoirs. Several families of enveloped RNA viruses, including the arenaviruses, encode short amino acid motifs, called late domains, to hijack host proteins in the endosomal sorting complex required for transport (ESCRT) to drive the release of virus particles from the host cell\u0027s outer membrane. Many late domain-containing viruses produce defective interfering (DI) particles in addition to standard, infectious virus. DI particles cannot self-replicate but interfere with the production of infectious virus and mitigate virus-induced cytopathic effect. Arenaviruses such as PLOS Pathogens | lymphocytic choriomeningitis virus (LCMV) generate high levels of DI particles, yet, the mechanism that drives their formation is not known. We show that LCMV\u0027s only encoded late domain, PPXY, and a functional ESCRT pathway are critical for DI particle production, but in contrast, are not absolutely required for infectious virus production. We also demonstrate that the LCMV PPXY late domain is phosphorylated and that this modification may regulate DI particle production. In summary, we have discovered a new and unexpected role for a viral late domain in selectively driving the production of DI particles independently of standard infectious virus particles.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Arenaviruses cause severe and often fatal diseases in humans yet typically establish lifelong ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "asymptomatic infections in their rodent reservoirs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Several families of enveloped RNA viruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including the arenaviruses , encode short amino acid motifs ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "called late domains , to hijack host proteins in the endosomal sorting complex required for transport ( ESCRT ) to drive the release of virus particles from the host cell \u0027s outer membrane .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Many late domain-containing viruses produce defective interfering ( DI ) particles in addition to standard , infectious virus .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "DI particles can not self-replicate but interfere with the production of infectious virus and mitigate virus-induced cytopathic effect .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Arenaviruses such as PLOS Pathogens | lymphocytic choriomeningitis virus ( LCMV ) generate high levels of DI particles ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "yet , the mechanism that drives their formation is not known .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We show that LCMV \u0027s only encoded late domain ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "PPXY , and a functional ESCRT pathway are critical for DI particle production ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but in contrast , are not absolutely required for infectious virus production .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also demonstrate that the LCMV PPXY late domain is phosphorylated and that this modification may regulate DI particle production .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In summary , we have discovered a new and unexpected role for a viral late domain in selectively driving the production of DI particles independently of standard infectious virus particles .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Arenaviruses are a family of rodent-borne viruses with a worldwide distribution. These viruses typically establish persistent, asymptomatic infections in rodent reservoir species [1]. In contrast, arenaviruses cause severe and often fatal diseases in humans. Several arenaviruses, including Lassa virus and Junín virus, cause hemorrhagic fever syndromes whereas infection with the prototypic arenavirus, lymphocytic choriomeningitis virus (LCMV), can lead to aseptic meningitis in immunocompetent individuals, high lethality in immunocompromised individuals, or severe birth defects in the developing fetus [2,3]. U.S. Food and Drug Administration-approved vaccines do not exist for the prevention of arenavirus infection and effective antiviral therapies have been limited to the use of ribavirin for Lassa virus [4] or immune plasma for Junín virus [5] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Arenaviruses are a family of rodent-borne viruses with a worldwide distribution .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These viruses typically establish persistent ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "asymptomatic infections in rodent reservoir species ( 1 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In contrast , arenaviruses cause severe and often fatal diseases in humans .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Several arenaviruses , including Lassa virus and Junín virus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "cause hemorrhagic fever syndromes whereas infection with the prototypic arenavirus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "lymphocytic choriomeningitis virus ( LCMV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "can lead to aseptic meningitis in immunocompetent individuals ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "high lethality in immunocompromised individuals ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "or severe birth defects in the developing fetus ( 2,3 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "U.S. Food and Drug Administration-approved vaccines do not exist for the prevention of arenavirus infection and effective antiviral therapies have been limited to the use of ribavirin for Lassa virus ( 4 ) or immune plasma for Junín virus ( 5 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Arenaviruses are enveloped viruses with a single-stranded, bi-segmented RNA genome that encodes four proteins in an ambisense manner. The small (S) segment encodes the nucleoprotein (NP) and glycoprotein (GP) while the large (L) segment encodes the RNAdependent RNA polymerase (L) and the matrix protein (Z) [6] . Arenaviruses enter cells via receptor-mediated endocytosis [7], undergo genomic replication and transcription in the cytoplasm [6], and assemble and bud new particles at the plasma membrane [8] . The Z protein, which lines the luminal side of the viral membrane, is responsible for a number of critical functions in the virus life cycle, including driving the process of viral particle assembly and budding [9] . Accordingly, Z can form virus-like particles (VLPs) in the absence of other viral proteins and is thought to be both necessary and sufficient for driving the budding process [10, 11] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Arenaviruses are enveloped viruses with a single-stranded ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "bi-segmented RNA genome that encodes four proteins in an ambisense manner .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The small ( S ) segment encodes the nucleoprotein ( NP ) and glycoprotein ( GP ) while the large ( L ) segment encodes the RNAdependent RNA polymerase ( L ) and the matrix protein ( Z ) ( 6 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Arenaviruses enter cells via receptor-mediated endocytosis ( 7 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "undergo genomic replication and transcription in the cytoplasm ( 6 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and assemble and bud new particles at the plasma membrane ( 8 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The Z protein , which lines the luminal side of the viral membrane ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "is responsible for a number of critical functions in the virus life cycle ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including driving the process of viral particle assembly and budding ( 9 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Accordingly , Z can form virus-like particles ( VLPs ) in the absence of other viral proteins and is thought to be both necessary and sufficient for driving the budding process ( 10 , 11 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Several VLP-based studies indicate that Z drives viral particle release by virtue of one or more encoded viral late domain(s) (P(S/T)AP, YXXL, and/or PPXY), which can recruit proteins from the cellular endosomal sorting complex required for transport (ESCRT) pathway [10] [11] [12] . ESCRT machinery is required for most cellular membrane scission events that result in separation away from the cytosol including multivesicular body formation and cellular abscission [13] [14] [15] . Many enveloped viruses are known to hijack cellular ESCRT machinery via their late domains to complete the final membrane scission step required for virions to bud from host membranes (for review see [16] ).",
+      "sentences": [
+        [
+          {
+            "segment_text": "Several VLP-based studies indicate that Z drives viral particle release by virtue of one or more encoded viral late domain ( s ) ( P ( S/T ) AP ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "YXXL , and/or PPXY ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which can recruit proteins from the cellular endosomal sorting complex required for transport ( ESCRT ) pathway ( 10 ) ( 11 ) ( 12 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "ESCRT machinery is required for most cellular membrane scission events that result in separation away from the cytosol including multivesicular body formation and cellular abscission ( 13 ) ( 14 ) ( 15 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Many enveloped viruses are known to hijack cellular ESCRT machinery via their late domains to complete the final membrane scission step required for virions to bud from host membranes ( for review see ( 16 ) ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Viruses from diverse families, including arenaviruses, produce defective interfering (DI) particles in addition to standard, infectious virus during the normal course of infection [17] . DI particles are largely similar to standard virus particles in their appearance and viral protein content but cannot self-replicate, and interfere with the production of homologous standard virus [17] . In many cases, the primary difference between DI particles and standard virus is thought to be the presence of deletions in the viral genome [18] . With regard to LCMV, small deletions in the terminal untranslated regions of genomic and antigenomic RNAs have been PPXY Late Domain Drives the Release of LCMV DI Particles PLOS Pathogens |",
+      "sentences": [
+        [
+          {
+            "segment_text": "Viruses from diverse families , including arenaviruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "produce defective interfering ( DI ) particles in addition to standard ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "infectious virus during the normal course of infection ( 17 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "DI particles are largely similar to standard virus particles in their appearance and viral protein content but can not self-replicate ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and interfere with the production of homologous standard virus ( 17 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In many cases , the primary difference between DI particles and standard virus is thought to be the presence of deletions in the viral genome ( 18 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "With regard to LCMV , small deletions in the terminal untranslated regions of genomic and antigenomic RNAs have been PPXY Late Domain Drives the Release of LCMV DI Particles PLOS Pathogens |",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "6",
+    "sentence_num": "32",
+    "segment_num": "56",
+    "token_num": "970"
+  }
+}

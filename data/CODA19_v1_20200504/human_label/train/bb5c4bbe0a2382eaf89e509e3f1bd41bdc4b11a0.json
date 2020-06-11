@@ -1,0 +1,376 @@
+{
+  "paper_id": "bb5c4bbe0a2382eaf89e509e3f1bd41bdc4b11a0",
+  "metadata": {
+    "title": "3 RTI International Inc., P.O. 12194, 3040 Cornwallis Rd",
+    "coda_data_split": "train",
+    "coda_paper_id": 10220,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Development of strategies for mitigating the severity of a new influenza pandemic is now a top global public health priority. Influenza prevention and containment strategies can be considered under the broad categories of antiviral, vaccine and nonpharmaceutical (case isolation, household quarantine, school or workplace closure, restrictions on travel) measures 1 . Mathematical models are powerful tools for exploring this complex landscape of intervention strategies and quantifying the potential costs and benefits of different options 2-5 . Here we use a large-scale epidemic simulation 6 to examine intervention options should initial containment 6,7 of a novel influenza outbreak fail, using Great Britain and the United States as examples. We find that border restrictions and/or internal travel restrictions are unlikely to delay spread by more than 2-3 weeks unless more than 99% effective. School closure during the peak of a pandemic can reduce peak attack rates by up to 40%, but has little impact on overall attack rates, whereas case isolation or household quarantine could have a significant impact, if feasible. Treatment of clinical cases can reduce transmission, but only if antivirals are given within a day of symptoms starting. Given enough drugs for 50% of the population, household-based prophylaxis coupled with reactive school closure could reduce clinical attack rates by 40-50%. More widespread prophylaxis would be even more logistically challenging but might reduce attack rates by over 75%. Vaccine stockpiled in advance of a pandemic could significantly reduce attack rates even if of low efficacy. Estimates of policy effectiveness will change if the characteristics of a future pandemic strain differ substantially from those seen in past pandemics.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Development of strategies for mitigating the severity of a new influenza pandemic is now a top global public health priority .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Influenza prevention and containment strategies can be considered under the broad categories of antiviral ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "vaccine and nonpharmaceutical ( case isolation , household quarantine , school or workplace closure , restrictions on travel ) measures 1 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Mathematical models are powerful tools for exploring this complex landscape of intervention strategies and quantifying the potential costs and benefits of different options 2-5 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we use a large-scale epidemic simulation 6 to examine intervention options should initial containment 6,7 of a novel influenza outbreak fail ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "using Great Britain and the United States as examples .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We find that border restrictions and/or internal travel restrictions are unlikely to delay spread by more than 2-3 weeks unless more than 99 % effective .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "School closure during the peak of a pandemic can reduce peak attack rates by up to 40 % ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but has little impact on overall attack rates ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "whereas case isolation or household quarantine could have a significant impact , if feasible .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Treatment of clinical cases can reduce transmission ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but only if antivirals are given within a day of symptoms starting .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Given enough drugs for 50 % of the population ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "household-based prophylaxis coupled with reactive school closure could reduce clinical attack rates by 40-50 % .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "More widespread prophylaxis would be even more logistically challenging but might reduce attack rates by over 75 % .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Vaccine stockpiled in advance of a pandemic could significantly reduce attack rates even if of low efficacy .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Estimates of policy effectiveness will change if the characteristics of a future pandemic strain differ substantially from those seen in past pandemics .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We parameterize an individual-based simulation model of pandemic influenza transmission 6 for Great Britain and the United States using high-resolution population density data 8 and data on travel patterns (see Supplementary Information) . We extend the model by incorporating realistic seeding of infection (via international travel) in the modelled countries, and by explicitly modelling air travel within the United States (air travel being relatively insignificant in Great Britain due to its much smaller size).",
+      "sentences": [
+        [
+          {
+            "segment_text": "We parameterize an individual-based simulation model of pandemic influenza transmission 6 for Great Britain and the United States using high-resolution population density data 8 and data on travel patterns ( see Supplementary Information ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We extend the model by incorporating realistic seeding of infection ( via international travel ) in the modelled countries ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and by explicitly modelling air travel within the United States ( air travel being relatively insignificant in Great Britain due to its much smaller size ) .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The model represents transmission in households, schools and workplaces, and the wider community. For the United States, best estimates are that 30% of transmission occurs within the household, and 70% outside the household (see Supplementary Information) . Of the latter 70%, we assume that 33% occurs in the general community and 37% in schools and workplaces. To reproduce the higher attack rates seen in children in past pandemics, per-capita contact rates in schools were assumed to be double that in workplaces 6 . These assumptions affect estimates of the impacts of certain targeted control policies; for example, if school/workplace transmission were assumed to account for 50-60% of transmission, then policies such as school closure and socially targeted prophylaxis would be more effective (see Supplementary Information) .",
+      "sentences": [
+        [
+          {
+            "segment_text": "The model represents transmission in households ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "schools and workplaces , and the wider community .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "For the United States , best estimates are that 30 % of transmission occurs within the household ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and 70 % outside the household ( see Supplementary Information ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Of the latter 70 % ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we assume that 33 % occurs in the general community and 37 % in schools and workplaces .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "To reproduce the higher attack rates seen in children in past pandemics ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "per-capita contact rates in schools were assumed to be double that in workplaces 6 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "These assumptions affect estimates of the impacts of certain targeted control policies ; for example ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "if school/workplace transmission were assumed to account for 50-60 % of transmission ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "then policies such as school closure and socially targeted prophylaxis would be more effective ( see Supplementary Information ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Acquiring more quantitative data on transmission in different social contexts should therefore be a priority.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Acquiring more quantitative data on transmission in different social contexts should therefore be a priority .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We estimated the reproduction number 9 for pandemic influenza, R 0 , to have a value of 1.7-2.0 for the first wave of the 1918 pandemic, as determined from city-level mortality data (see Supplementary  Information) . In 1957, epidemic growth rates were less, with UK national data giving R 0 values of 1.5-1.7 (see Supplementary Information). Inter-pandemic data give a value of R 0 \u003c 1.7 (see Supplementary Information). We therefore examine values of R 0 in the range 1.4 to 2, particularly focusing on how conclusions differ for \u0027moderate\u0027 (R 0 ¼ 1.7) and \u0027high\u0027 (R 0 ¼ 2.0) transmission scenarios. Because the natural history of infection for human cases of avian H5N1 infection have to date been much more extended (and severe) than normal human influenza 10,11 , we also examine sensitivity to assumptions about the duration of infectiousness. We do not assume any spontaneous change in the behaviour of uninfected individuals as the pandemic progresses, but note that behavioural changes that increased social distance together with some school and workplace closure occurred in past pandemics 12 (see Supplementary Information) and might be likely to occur in a future pandemic even if not part of official policy. Data on respiratory infection incidence in Hong Kong during the severe acute respiratory syndrome (SARS) epidemic supports this view 13 . Such spontaneous changes in population behaviour might more easily reduce peak daily case incidence than overall cumulative attack rates (see Supplementary Information). The peak incidence of the high transmissibility scenario examined here is therefore probably a worst case.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We estimated the reproduction number 9 for pandemic influenza ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "R 0 , to have a value of 1.7-2.0 for the first wave of the 1918 pandemic ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "as determined from city-level mortality data ( see Supplementary Information ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In 1957 , epidemic growth rates were less ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with UK national data giving R 0 values of 1.5-1.7 ( see Supplementary Information ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Inter-pandemic data give a value of R 0 \u003c 1.7 ( see Supplementary Information ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We therefore examine values of R 0 in the range 1.4 to 2 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "particularly focusing on how conclusions differ for ` moderate \u0027 ( R 0 1/4 1.7 ) and ` high \u0027 ( R 0 1/4 2.0 ) transmission scenarios .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Because the natural history of infection for human cases of avian H5N1 infection have to date been much more extended ( and severe ) than normal human influenza 10,11 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we also examine sensitivity to assumptions about the duration of infectiousness .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We do not assume any spontaneous change in the behaviour of uninfected individuals as the pandemic progresses ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "but note that behavioural changes that increased social distance together with some school and workplace closure occurred in past pandemics 12 ( see Supplementary Information ) and might be likely to occur in a future pandemic even if not part of official policy .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Data on respiratory infection incidence in Hong Kong during the severe acute respiratory syndrome ( SARS ) epidemic supports this view 13 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Such spontaneous changes in population behaviour might more easily reduce peak daily case incidence than overall cumulative attack rates ( see Supplementary Information ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The peak incidence of the high transmissibility scenario examined here is therefore probably a worst case .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We assume that 50% (see Supplementary Information for sensitivity analysis) of those infected are ill enough to be classified as clinical cases (that is, those requiring and seeking medical care), consistent with known patterns for seasonal influenza. In reality, a spectrum of disease severity will be seen in a pandemic. Given the lack of data on the virulence of the next pandemic strain, the impact of antivirals on mortality, and the effects of improvements in general medical care, we examine the impact of interventions on clinical attack rates rather than mortality. Figure 1 shows the expected pattern of spread of an influenza pandemic in Great Britain and the United States, for moderate and high transmissibility scenarios (Fig. 1a, b) . The epidemic peaks some 50-65 days after the first case in the country for Great Britain, and some 60-80 days after the first case for the United States. Peak daily case incidence is slightly higher in Great Britain than the United States due to the smaller spatial scale of Great Britain and hence the more synchronized regional outbreaks. But peak local incidence in the United States is comparable with Great Britain, and cumulative incidence over the epidemic is identical for both countries. For the moderate and high transmissibility scenarios, 55% and 68% of the population are infected, respectively, giving cumulative clinical attack rates of 28% and 34% (namely, 84 million or 100 million LETTERS",
+      "sentences": [
+        [
+          {
+            "segment_text": "We assume that 50 % ( see Supplementary Information for sensitivity analysis ) of those infected are ill enough to be classified as clinical cases ( that is , those requiring and seeking medical care ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "consistent with known patterns for seasonal influenza .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In reality , a spectrum of disease severity will be seen in a pandemic .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Given the lack of data on the virulence of the next pandemic strain ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the impact of antivirals on mortality ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the effects of improvements in general medical care ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we examine the impact of interventions on clinical attack rates rather than mortality .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Figure 1 shows the expected pattern of spread of an influenza pandemic in Great Britain and the United States ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "for moderate and high transmissibility scenarios ( Fig. 1a , b ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The epidemic peaks some 50-65 days after the first case in the country for Great Britain ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and some 60-80 days after the first case for the United States .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Peak daily case incidence is slightly higher in Great Britain than the United States due to the smaller spatial scale of Great Britain and hence the more synchronized regional outbreaks .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "But peak local incidence in the United States is comparable with Great Britain ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and cumulative incidence over the epidemic is identical for both countries .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "For the moderate and high transmissibility scenarios ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "55 % and 68 % of the population are infected ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "respectively , giving cumulative clinical attack rates of 28 % and 34 % ( namely , 84 million or 100 million LETTERS",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "6",
+    "sentence_num": "36",
+    "segment_num": "64",
+    "token_num": "1096"
+  }
+}

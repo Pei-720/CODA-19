@@ -1,0 +1,101 @@
+{
+  "paper_id": "d3b9423ca41bdd129766dce07506a87b9eec22a7",
+  "metadata": {
+    "title": "Correspondence: Genome Signatures, Self-Organizing Maps and Higher Order Phylogenies: A Parametric Analysis",
+    "coda_data_split": "train",
+    "coda_paper_id": 5296,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Genome signatures are data vectors derived from the compositional statistics of DNA. The self-organizing map (SOM) is a neural network method for the conceptualisation of relationships within complex data, such as genome signatures. The various parameters of the SOM training phase are investigated for their effect on the accuracy of the resulting output map. It is concluded that larger SOMs, as well as taking longer to train, are less sensitive in phylogenetic classifi cation of unknown DNA sequences. However, where a classifi cation can be made, a larger SOM is more accurate. Increasing the number of iterations in the training phase of the SOM only slightly increases accuracy, without improving sensitivity. The optimal length of the DNA sequence k-mer from which the genome signature should be derived is 4 or 5, but shorter values are almost as effective. In general, these results indicate that small, rapidly trained SOMs are generally as good as larger, longer trained ones for the analysis of genome signatures. These results may also be more generally applicable to the use of SOMs for other complex data sets, such as microarray data.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Genome signatures are data vectors derived from the compositional statistics of DNA .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The self-organizing map ( SOM ) is a neural network method for the conceptualisation of relationships within complex data , such as genome signatures .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The various parameters of the SOM training phase are investigated for their effect on the accuracy of the resulting output map .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is concluded that larger SOMs ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as well as taking longer to train ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "are less sensitive in phylogenetic classifi cation of unknown DNA sequences .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , where a classifi cation can be made ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a larger SOM is more accurate .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Increasing the number of iterations in the training phase of the SOM only slightly increases accuracy , without improving sensitivity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The optimal length of the DNA sequence k-mer from which the genome signature should be derived is 4 or 5 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but shorter values are almost as effective .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In general , these results indicate that small ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "rapidly trained SOMs are generally as good as larger ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "longer trained ones for the analysis of genome signatures .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These results may also be more generally applicable to the use of SOMs for other complex data sets , such as microarray data .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "9",
+    "segment_num": "15",
+    "token_num": "207"
+  }
+}

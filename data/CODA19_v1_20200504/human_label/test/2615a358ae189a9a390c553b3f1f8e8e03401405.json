@@ -1,0 +1,85 @@
+{
+  "paper_id": "2615a358ae189a9a390c553b3f1f8e8e03401405",
+  "metadata": {
+    "title": "News Timeline Generation: Accounting for Structural Aspects and Temporal Nature of News Stream",
+    "coda_data_split": "test",
+    "coda_paper_id": 33,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The number of news articles that are published daily is larger than any person can afford to study. Correct summarization of the information allows for an easy search for the event of interest. This research was designed to address the issue of constructing annotations of news story. Standard multidocument summarization approaches are not able to extract all information relevant to the event. This is due to the fact that such approaches do not take into account the variability of the event context in time. We have implemented a system that automatically builds timeline summary. We investigated impact of three factors: query extension, accounting for temporal nature and structure of news article in form of inverted pyramid. The annotations that we generate are composed of sentences sorted in chronological order, which together contain the main details of the news story. The paper shows that taking into account the described factors positively affects the quality of the annotations created.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The number of news articles that are published daily is larger than any person can afford to study .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Correct summarization of the information allows for an easy search for the event of interest .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This research was designed to address the issue of constructing annotations of news story .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Standard multidocument summarization approaches are not able to extract all information relevant to the event .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This is due to the fact that such approaches do not take into account the variability of the event context in time .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We have implemented a system that automatically builds timeline summary .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We investigated impact of three factors : query extension ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "accounting for temporal nature and structure of news article in form of inverted pyramid .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The annotations that we generate are composed of sentences sorted in chronological order ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which together contain the main details of the news story .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The paper shows that taking into account the described factors positively affects the quality of the annotations created .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "9",
+    "segment_num": "11",
+    "token_num": "169"
+  }
+}

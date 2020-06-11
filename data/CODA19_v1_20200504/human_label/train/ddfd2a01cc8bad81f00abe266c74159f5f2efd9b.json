@@ -1,0 +1,200 @@
+{
+  "paper_id": "ddfd2a01cc8bad81f00abe266c74159f5f2efd9b",
+  "metadata": {
+    "title": "Manipulation of the infectious bronchitis coronavirus genome for vaccine development and analysis of the accessory proteins ଝ",
+    "coda_data_split": "train",
+    "coda_paper_id": 4855,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Infectious bronchitis coronavirus (IBV) is the cause of the single most economically costly infectious disease of domestic fowl in the UK-and probably so in many countries that have a developed poultry industry. A major reason for its continued dominance is its existence as many serotypes, determined by the surface spike protein (S), cross-protection being poor. Although controlled to some degree by live and inactivated vaccines, a new generation of IB vaccines is called for. Reverse genetic or \u0027infectious clone\u0027 systems, which allow the manipulation of the IBV genome, are key to this development. New vaccines would ideally be: genetically stable (i.e. maintain a stable attenuated phenotype); administered in ovo; and be flexible with respect to the source of the spike protein gene. Rational attenuation of IBV requires the identification of genes that are simultaneously not essential for replication and whose absence would reduce pathogenicity. Being able to modify a \u0027core\u0027 vaccine strain to make it applicable to a prevailing serotype requires a procedure for doing so, and the demonstration that \u0027spike-swapping\u0027 is sufficient to induce good immunity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Infectious bronchitis coronavirus ( IBV ) is the cause of the single most economically costly infectious disease of domestic fowl in the UK-and probably so in many countries that have a developed poultry industry .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A major reason for its continued dominance is its existence as many serotypes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "determined by the surface spike protein ( S ) , cross-protection being poor .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although controlled to some degree by live and inactivated vaccines ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a new generation of IB vaccines is called for .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Reverse genetic or ` infectious clone \u0027 systems ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which allow the manipulation of the IBV genome ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "are key to this development .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "New vaccines would ideally be : genetically stable ( i.e. maintain a stable attenuated phenotype ) ; administered in ovo ; and be flexible with respect to the source of the spike protein gene .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Rational attenuation of IBV requires the identification of genes that are simultaneously not essential for replication and whose absence would reduce pathogenicity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Being able to modify a ` core \u0027 vaccine strain to make it applicable to a prevailing serotype requires a procedure for doing so ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and the demonstration that ` spike-swapping \u0027 is sufficient to induce good immunity .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We have demonstrated that four small IBV proteins, encoded by genes 3 and 5, are not essential for replication; failure to produce these proteins had little detrimental affect on the titre of virus produced. Our current molecularly cloned IBV, strain Beaudette, is non-pathogenic, so we do not know what effect the absence of these proteins would have on pathogenicity. That said, plaque size and composition of various gene 3/5 recombinant IBVs in cell culture, and reduced output and ciliostasis in tracheal organ cultures, shows that they are less aggressive than the wild-type Beaudette. Consequently these genes remain targets for rational attenuation. We have recently obtained evidence that one or more of the 15 proteins encoded by gene 1 are also determinants of pathogenicity. Hence gene 1 is also a target for rational attenuation.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We have demonstrated that four small IBV proteins ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "encoded by genes 3 and 5 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "are not essential for replication ; failure to produce these proteins had little detrimental affect on the titre of virus produced .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our current molecularly cloned IBV ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "strain Beaudette , is non-pathogenic ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "so we do not know what effect the absence of these proteins would have on pathogenicity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "That said , plaque size and composition of various gene 3/5 recombinant IBVs in cell culture ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and reduced output and ciliostasis in tracheal organ cultures ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "shows that they are less aggressive than the wild-type Beaudette .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Consequently these genes remain targets for rational attenuation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We have recently obtained evidence that one or more of the 15 proteins encoded by gene 1 are also determinants of pathogenicity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hence gene 1 is also a target for rational attenuation .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Replacing the S protein gene of Beaudette with that from the pathogenic M41 strain resulted in a recombinant virus that was still nonpathogenic but which did induce protection against challenge with M41. We have since made other \u0027spike-swapped\u0027 recombinants, including ones with chimaera S genes. Uniquely, our molecular clone of Beaudette is benign when administered to 18-day-old embryos, even at high doses, and induces immunity after this route of vaccination.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Replacing the S protein gene of Beaudette with that from the pathogenic M41 strain resulted in a recombinant virus that was still nonpathogenic but which did induce protection against challenge with M41 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We have since made other ` spike-swapped \u0027 recombinants ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including ones with chimaera S genes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Uniquely , our molecular clone of Beaudette is benign when administered to 18-day-old embryos ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "even at high doses , and induces immunity after this route of vaccination .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Taken together, our results point to the creation of a new generation of IB vaccines, based on rational modification of the genome, as being a realisable objective.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Taken together , our results point to the creation of a new generation of IB vaccines ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "based on rational modification of the genome ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as being a realisable objective .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "17",
+    "segment_num": "32",
+    "token_num": "463"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "paper_id": "72f89583e077eb121611a76d35a34fa20fbce162",
+  "metadata": {
+    "title": "A Spatial-Temporal Approach to Differentiate Epidemic Risk Patterns A Spatial-Temporal Approach to Differentiate Epidemic Risk Patterns",
+    "coda_data_split": "train",
+    "coda_paper_id": 6403,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The purpose of disease mapping is to find spatial clustering and identify risk areas and potential epidemic initiators. Rather than relying on plotting either the case number or incidence rate, this chapter proposes three temporal risk indices: the probability of case occurrence (how often did uneven cases occur), the duration of an epidemic (how long did cases persist), and the intensity of a transmission (were the case of chronological significance). By integrating the three indicators using the local indicator of spatial autocorrelation (LISA) statistic, this chapter intends to develop a novel approach for evaluating spatial-temporal relationships with different risk patterns in the 2002 dengue epidemic, the worst outbreak in the past sixty years. With this approach, not only are hypotheses generated through the mapping processes in furthering investigation, but also procedures provided to identify spatial health risk levels with temporal characteristics.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The purpose of disease mapping is to find spatial clustering and identify risk areas and potential epidemic initiators .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Rather than relying on plotting either the case number or incidence rate ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "this chapter proposes three temporal risk indices : the probability of case occurrence ( how often did uneven cases occur ) ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "the duration of an epidemic ( how long did cases persist ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and the intensity of a transmission ( were the case of chronological significance ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "By integrating the three indicators using the local indicator of spatial autocorrelation ( LISA ) statistic ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "this chapter intends to develop a novel approach for evaluating spatial-temporal relationships with different risk patterns in the 2002 dengue epidemic ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "the worst outbreak in the past sixty years .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "With this approach , not only are hypotheses generated through the mapping processes in furthering investigation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but also procedures provided to identify spatial health risk levels with temporal characteristics .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "4",
+    "segment_num": "10",
+    "token_num": "161"
+  }
+}

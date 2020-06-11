@@ -1,0 +1,86 @@
+{
+  "paper_id": "9b8a2314912eaeb1c509cf88492f463148a0a9ed",
+  "metadata": {
+    "title": "The nucleocapsid proteins of mouse hepatitis virus and severe acute respiratory syndrome coronavirus share the same IFN-β antagonizing mechanism: attenuation of PACT-mediated RIG-I/ MDA5 activation",
+    "coda_data_split": "train",
+    "coda_paper_id": 4248,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "protein is the most abundant viral protein in CoV-infected cells, and has been identified as an innate immunity antagonist in several CoVs, including mouse hepatitis virus (MHV) and severe acute respiratory syndrome (SARS)-CoV. However, the underlying molecular mechanism(s) remain unclear. In this study, we found that MHV N protein inhibited Sendai virus and poly(I:C)-induced IFN-β production by targeting a molecule",
+      "sentences": [
+        [
+          {
+            "segment_text": "protein is the most abundant viral protein in CoV-infected cells ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and has been identified as an innate immunity antagonist in several CoVs ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including mouse hepatitis virus ( MHV ) and severe acute respiratory syndrome ( SARS ) - CoV .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the underlying molecular mechanism ( s ) remain unclear .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we found that MHV N protein inhibited Sendai virus and poly ( I : C ) - induced IFN-β production by targeting a molecule",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "inhibited IFN-β production. However, the N proteins from porcine epidemic diarrhea virus (PEDV) and porcine reproductive and respiratory syndrome virus (PRRSV), which are also classified in the order Nidovirales, did not interact and counteract with PACT. Taken together, our present study confirms that both MHV and SARS-CoV N proteins can perturb the function of cellular PACT to circumvent the innate antiviral response. However, this strategy does not appear to be used by all CoVs N proteins.",
+      "sentences": [
+        [
+          {
+            "segment_text": "inhibited IFN-β production .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the N proteins from porcine epidemic diarrhea virus ( PEDV ) and porcine reproductive and respiratory syndrome virus ( PRRSV ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which are also classified in the order Nidovirales ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "did not interact and counteract with PACT .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Taken together , our present study confirms that both MHV and SARS-CoV N proteins can perturb the function of cellular PACT to circumvent the innate antiviral response .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , this strategy does not appear to be used by all CoVs N proteins .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "7",
+    "segment_num": "11",
+    "token_num": "171"
+  }
+}

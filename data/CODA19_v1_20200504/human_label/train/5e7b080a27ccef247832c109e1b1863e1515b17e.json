@@ -1,0 +1,119 @@
+{
+  "paper_id": "5e7b080a27ccef247832c109e1b1863e1515b17e",
+  "metadata": {
+    "title": "Viral Nucleases Induce an mRNA Degradation- Transcription Feedback Loop in Mammalian Cells Article Viral Nucleases Induce an mRNA Degradation-Transcription Feedback Loop in Mammalian Cells",
+    "coda_data_split": "train",
+    "coda_paper_id": 9230,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Graphical Abstract Highlights d Herpesvirus-induced cytoplasmic mRNA decay causes transcriptional alterations d The mRNA decay-transcription feedback mechanism requires cellular decay factors d Herpesviral genes escape mRNA degradation-induced transcriptional repression In Brief Gamma-herpesviruses encode an endonuclease that induces cellular mRNA degradation. Abernathy et al. show that viral nuclease-triggered mRNA decay leads to repression of cellular transcription and decreased RNA Polymerase II (RNAPII) recruitment. RNAPII-transcribed viral genes escape this transcriptional repression, highlighting how viruses use this mRNA decay-transcription feedback mechanism for their benefit.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Graphical Abstract Highlights d Herpesvirus-induced cytoplasmic mRNA decay causes transcriptional alterations d The mRNA decay-transcription feedback mechanism requires cellular decay factors d Herpesviral genes escape mRNA degradation-induced transcriptional repression In Brief Gamma-herpesviruses encode an endonuclease that induces cellular mRNA degradation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Abernathy et al. show that viral nuclease-triggered mRNA decay leads to repression of cellular transcription and decreased RNA Polymerase II ( RNAPII ) recruitment .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "RNAPII-transcribed viral genes escape this transcriptional repression ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "highlighting how viruses use this mRNA decay-transcription feedback mechanism for their benefit .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Gamma-herpesviruses encode a cytoplasmic mRNA-targeting endonuclease, SOX, that cleaves most cellular mRNAs. Cleaved fragments are subsequently degraded by the cellular 5 0 -3 0 mRNA exonuclease Xrn1, thereby suppressing cellular gene expression and facilitating viral evasion of host defenses. We reveal that mammalian cells respond to this widespread cytoplasmic mRNA decay by altering RNA Polymerase II (RNAPII) transcription in the nucleus. Measuring RNAPII recruitment to promoters and nascent mRNA synthesis revealed that the majority of affected genes are transcriptionally repressed in SOX-expressing cells. The transcriptional feedback does not occur in response to the initial viral endonuclease-induced cleavage, but instead to degradation of the cleaved fragments by cellular exonucleases. In particular, Xrn1 catalytic activity is required for transcriptional repression.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Gamma-herpesviruses encode a cytoplasmic mRNA-targeting endonuclease ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "SOX , that cleaves most cellular mRNAs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Cleaved fragments are subsequently degraded by the cellular 5 0 -3 0 mRNA exonuclease Xrn1 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "thereby suppressing cellular gene expression and facilitating viral evasion of host defenses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We reveal that mammalian cells respond to this widespread cytoplasmic mRNA decay by altering RNA Polymerase II ( RNAPII ) transcription in the nucleus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Measuring RNAPII recruitment to promoters and nascent mRNA synthesis revealed that the majority of affected genes are transcriptionally repressed in SOX-expressing cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The transcriptional feedback does not occur in response to the initial viral endonuclease-induced cleavage ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but instead to degradation of the cleaved fragments by cellular exonucleases .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In particular , Xrn1 catalytic activity is required for transcriptional repression .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Notably, viral mRNA transcription escapes decayinduced repression, and this escape requires Xrn1. Collectively, these results indicate that mRNA decay rates impact transcription and that gamma-herpesviruses use this feedback mechanism to facilitate viral gene expression.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Notably , viral mRNA transcription escapes decayinduced repression ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and this escape requires Xrn1 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Collectively , these results indicate that mRNA decay rates impact transcription and that gamma-herpesviruses use this feedback mechanism to facilitate viral gene expression .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "11",
+    "segment_num": "16",
+    "token_num": "257"
+  }
+}

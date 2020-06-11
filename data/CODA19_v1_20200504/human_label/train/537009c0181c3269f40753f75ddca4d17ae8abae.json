@@ -1,0 +1,123 @@
+{
+  "paper_id": "537009c0181c3269f40753f75ddca4d17ae8abae",
+  "metadata": {
+    "title": "Estimating the cure rate and case fatality rate of the ongoing epidemic COVID-19",
+    "coda_data_split": "train",
+    "coda_paper_id": 5027,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The epidemic caused by the novel coronavirus in Wuhan at the end of 2019 has become an urgent public event of worldwide concern. However, due to the changing data of the epidemic, there is no scientific estimate of the cure rate and case fatality rate of the epidemic. This study proposes a method to estimate the cure rate and case fatality rate of COVID-19. The ratio of cumulative discharges on a given day to the sum of cumulative discharges on a given day and cumulative deaths before j days is used to estimate the cure rate.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The epidemic caused by the novel coronavirus in Wuhan at the end of 2019 has become an urgent public event of worldwide concern .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , due to the changing data of the epidemic ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "there is no scientific estimate of the cure rate and case fatality rate of the epidemic .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study proposes a method to estimate the cure rate and case fatality rate of COVID-19 .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The ratio of cumulative discharges on a given day to the sum of cumulative discharges on a given day and cumulative deaths before j days is used to estimate the cure rate .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Moreover, the case fatality ratio can also be estimated. After simulation calculations, j is statistically appropriate when it is 8-10, and it is also clinically appropriate. When j is 9, based on the available data, it is inferred that the cure rate of this epidemic is about 93% and the case fatality rate is about 7%. This method of estimating the cure rate can be used to evaluate the effectiveness of treatment in different medical schemes and different regions, and has great value and significance for decision-making in the epidemic. improvement of medical conditions, and rich experience in treatment, patients with COVID-19 will be treated more effectively. Consequently, the CR will increase, and the CFR will decrease.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Moreover , the case fatality ratio can also be estimated .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "After simulation calculations , j is statistically appropriate when it is 8-10 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and it is also clinically appropriate .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "When j is 9 , based on the available data ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "it is inferred that the cure rate of this epidemic is about 93 % and the case fatality rate is about 7 % .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This method of estimating the cure rate can be used to evaluate the effectiveness of treatment in different medical schemes and different regions ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and has great value and significance for decision-making in the epidemic .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "improvement of medical conditions , and rich experience in treatment ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "patients with COVID-19 will be treated more effectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Consequently , the CR will increase ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the CFR will decrease .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The authors declare no conflict of interest.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The authors declare no conflict of interest .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "11",
+    "segment_num": "17",
+    "token_num": "245"
+  }
+}

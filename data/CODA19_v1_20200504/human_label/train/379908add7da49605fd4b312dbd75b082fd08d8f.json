@@ -1,0 +1,107 @@
+{
+  "paper_id": "379908add7da49605fd4b312dbd75b082fd08d8f",
+  "metadata": {
+    "title": "The Francisella O-antigen mediates survival in the macrophage cytosol via autophagy avoidance NIH Public Access",
+    "coda_data_split": "train",
+    "coda_paper_id": 10279,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Autophagy is a key innate immune response to intracellular parasites that promotes their delivery to degradative lysosomes following detection in the cytosol or within damaged vacuoles. Like Listeria and Shigella, which use specific mechanisms to avoid autophagic detection and capture, the bacterial pathogen Francisella tularensis proliferates within the cytosol of macrophages without demonstrable control by autophagy. To examine how Francisella evades autophagy, we screened a library of F. tularensis subsp. tularensis Schu S4 HimarFT transposon mutants in GFP-LC3-expressing murine macrophages by microscopy for clones localised within autophagic vacuoles after phagosomal escape. Eleven clones showed autophagic capture at six hours postinfection, whose HimarFT insertions clustered to four genetic loci involved in lipopolysaccharidic and capsular O-antigen biosynthesis. Consistent with the HimarFT mutants, in-frame deletion mutants of two representative loci, FTT1236 and FTT1448c (manC), lacking both LPS and capsular O-antigen, underwent phagosomal escape but were cleared from the host cytosol. Unlike wild type Francisella, the O-antigen deletion mutants were ubiquitinated, and recruited the autophagy adaptor p62/SQSTM1 and LC3 prior to cytosolic clearance. Autophagy-deficient macrophages partially supported replication of both mutants, indicating that O-antigen-lacking Francisella are controlled by autophagy. These data demonstrate the intracellular protective role of this bacterial surface polysaccharide against autophagy.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Autophagy is a key innate immune response to intracellular parasites that promotes their delivery to degradative lysosomes following detection in the cytosol or within damaged vacuoles .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Like Listeria and Shigella , which use specific mechanisms to avoid autophagic detection and capture ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the bacterial pathogen Francisella tularensis proliferates within the cytosol of macrophages without demonstrable control by autophagy .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To examine how Francisella evades autophagy ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "we screened a library of F. tularensis subsp. tularensis Schu S4 HimarFT transposon mutants in GFP-LC3-expressing murine macrophages by microscopy for clones localised within autophagic vacuoles after phagosomal escape .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Eleven clones showed autophagic capture at six hours postinfection ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "whose HimarFT insertions clustered to four genetic loci involved in lipopolysaccharidic and capsular O-antigen biosynthesis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Consistent with the HimarFT mutants ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "in-frame deletion mutants of two representative loci ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "FTT1236 and FTT1448c ( manC ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "lacking both LPS and capsular O-antigen ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "underwent phagosomal escape but were cleared from the host cytosol .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Unlike wild type Francisella , the O-antigen deletion mutants were ubiquitinated ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and recruited the autophagy adaptor p62/SQSTM1 and LC3 prior to cytosolic clearance .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Autophagy-deficient macrophages partially supported replication of both mutants ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "indicating that O-antigen-lacking Francisella are controlled by autophagy .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These data demonstrate the intracellular protective role of this bacterial surface polysaccharide against autophagy .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "17",
+    "token_num": "220"
+  }
+}

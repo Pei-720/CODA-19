@@ -1,0 +1,55 @@
+{
+  "paper_id": "99c2e15dc83fd3e2e211e56ae899b2f1ad6a9f24",
+  "metadata": {
+    "title": "",
+    "coda_data_split": "train",
+    "coda_paper_id": 4242,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Most children who present with acute onset of barky cough, stridor, and chest-wall indrawing have croup. A careful history and physical examination is the best method to confi rm the diagnosis and to rule out potentially serious alternative disorders such as bacterial tracheitis and other rare causes of upper-airway obstruction. Epinephrine delivered via a nebuliser is eff ective for temporary relief of symptoms of airway obstruction. Corticosteroids are the mainstay of treatment, and benefi t is seen in children with all levels of severity of croup, including mild cases.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Most children who present with acute onset of barky cough ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "stridor , and chest-wall indrawing have croup .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A careful history and physical examination is the best method to confi rm the diagnosis and to rule out potentially serious alternative disorders such as bacterial tracheitis and other rare causes of upper-airway obstruction .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Epinephrine delivered via a nebuliser is eff ective for temporary relief of symptoms of airway obstruction .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Corticosteroids are the mainstay of treatment ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and benefi t is seen in children with all levels of severity of croup , including mild cases .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "4",
+    "segment_num": "6",
+    "token_num": "97"
+  }
+}

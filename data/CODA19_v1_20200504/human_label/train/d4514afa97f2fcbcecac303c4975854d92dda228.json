@@ -1,0 +1,96 @@
+{
+  "paper_id": "d4514afa97f2fcbcecac303c4975854d92dda228",
+  "metadata": {
+    "title": "Structure-Based Design, Synthesis and Biological Evaluation of Peptidomimetic Aldehydes as a Novel Series of Antiviral Drug Candidates Targeting the SARS-CoV-2 Main Protease",
+    "coda_data_split": "train",
+    "coda_paper_id": 8508,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Wuhan. Specific antiviral drug are urgently needed to treat COVID-19 infections. The main protease (M pro ) of SARS-CoV-2 is a key CoV enzyme that plays a pivotal role in mediating viral replication and transcription, which makes it an attractive drug target.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Wuhan .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Specific antiviral drug are urgently needed to treat COVID-19 infections .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The main protease ( M pro ) of SARS-CoV-2 is a key CoV enzyme that plays a pivotal role in mediating viral replication and transcription ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which makes it an attractive drug target .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In an effort to rapidly discover lead compounds targeting M pro , two compounds (11a and 11b) were designed and synthesized, both of which exhibited excellent inhibitory activity with an IC 50 value of 0.05 μ M and 0.04 μ M respectively. Significantly, both compounds exhibited potent anti-SARS-CoV-2 infection activity in a cell-based assay with an EC 50 value of 0.42 μ M and 0.33 μ M, respectively. The X-ray crystal structures of SARS-CoV-2 M pro in complex with 11a and 11b were determined at 1.5 Å resolution, respectively. The crystal structures showed that 11a and 11b are covalent inhibitors, the aldehyde groups of which are bound covalently to Cys145 of M pro . Both compounds showed good PK properties in vivo, and 11a also exhibited low toxicity which is promising drug leads with clinical potential that merits further studies.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In an effort to rapidly discover lead compounds targeting M pro ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "two compounds ( 11a and 11b ) were designed and synthesized ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "both of which exhibited excellent inhibitory activity with an IC 50 value of 0.05 μ M and 0.04 μ M respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Significantly , both compounds exhibited potent anti-SARS-CoV-2 infection activity in a cell-based assay with an EC 50 value of 0.42 μ M and 0.33 μ M , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The X-ray crystal structures of SARS-CoV-2 M pro in complex with 11a and 11b were determined at 1.5 Å resolution , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The crystal structures showed that 11a and 11b are covalent inhibitors ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the aldehyde groups of which are bound covalently to Cys145 of M pro .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Both compounds showed good PK properties in vivo ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and 11a also exhibited low toxicity which is promising drug leads with clinical potential that merits further studies .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "8",
+    "segment_num": "13",
+    "token_num": "199"
+  }
+}

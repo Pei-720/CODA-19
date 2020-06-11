@@ -1,0 +1,72 @@
+{
+  "paper_id": "ee643b9d23927614658ae98af37058f86745ffc9",
+  "metadata": {
+    "title": "New method for global alignment of 2 DNA sequences by the tree data structure",
+    "coda_data_split": "train",
+    "coda_paper_id": 8105,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "We introduce a new approach to investigate problem of DNA sequence alignment. The method consists of three parts: (i) simple alignment algorithm, (ii) extension algorithm for largest common substring, (iii) graphical simple alignment tree (GSA tree). The approach firstly obtains a graphical representation of scores of DNA sequences by the scoring equation R 0 Ã RÀS 0 Ã SÀT 0 Ã ða þ bkÞ. Then a GSA tree is constructed to facilitate solving the problem for global alignment of 2 DNA sequences. Finally we give several practical examples to illustrate the utility and practicality of the approach.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We introduce a new approach to investigate problem of DNA sequence alignment .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The method consists of three parts : ( i ) simple alignment algorithm ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "( ii ) extension algorithm for largest common substring ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "( iii ) graphical simple alignment tree ( GSA tree ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The approach firstly obtains a graphical representation of scores of DNA sequences by the scoring equation R 0 Ã RÀS 0 Ã SÀT 0 Ã ða þ bkÞ .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Then a GSA tree is constructed to facilitate solving the problem for global alignment of 2 DNA sequences .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally we give several practical examples to illustrate the utility and practicality of the approach .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Crown",
+      "sentences": [
+        [
+          {
+            "segment_text": "Crown",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "6",
+    "segment_num": "8",
+    "token_num": "114"
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "paper_id": "7360f5cfdd468aea794a9eb68291950862c8fcb0",
+  "metadata": {
+    "title": "Characterization of Chinese Porcine Epidemic Diarrhea Virus with Novel Insertions and Deletions in Genome OPEN",
+    "coda_data_split": "train",
+    "coda_paper_id": 5624,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "To better understand the molecular epidemiology and genetic diversity of PEDV field isolates, in this study, we characterised the complete genome sequence of a novel PEDV variant JSCZ1601 from a outbreak in China in 2016. The PEDV isolate was 28,033 nucleotides (nt) in length without the polyadenylated sequences. Phylogenetic analysis based on the full-length genome sequence of JSCZ1601 grouped it with the pandemic variants determined post-2010 into group 2 (G2). However, the S gene of JSCZ1601 formed a new subgroup separated from the subgroups containing the other G2 strains. Comparative analysis of the amino acids encoded by the S genes revealed the N-terminal of the deduced JSCZ1601 S protein had a novel two-amino-acid deletion (N58 and S59) compared with all identified genogroups. Further, compared with the reference strains, a \u0027G\u0027 insertion was detected in the 5′ terminal of the 5′UTR of the JSCZ1601. The animal experiment revealed that this strain was high pathogenic to neonatal pigs. Taken together, a PEDV strain with the new molecular characterizations and phylogenies was found in mainland China. It is necessary to strengthen the monitoring of PEDV variations.",
+      "sentences": [
+        [
+          {
+            "segment_text": "To better understand the molecular epidemiology and genetic diversity of PEDV field isolates ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "in this study , we characterised the complete genome sequence of a novel PEDV variant JSCZ1601 from a outbreak in China in 2016 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The PEDV isolate was 28,033 nucleotides ( nt ) in length without the polyadenylated sequences .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Phylogenetic analysis based on the full-length genome sequence of JSCZ1601 grouped it with the pandemic variants determined post-2010 into group 2 ( G2 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the S gene of JSCZ1601 formed a new subgroup separated from the subgroups containing the other G2 strains .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Comparative analysis of the amino acids encoded by the S genes revealed the N-terminal of the deduced JSCZ1601 S protein had a novel two-amino-acid deletion ( N58 and S59 ) compared with all identified genogroups .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Further , compared with the reference strains ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a ` G \u0027 insertion was detected in the 5 ′ terminal of the 5 ′ UTR of the JSCZ1601 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The animal experiment revealed that this strain was high pathogenic to neonatal pigs .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Taken together , a PEDV strain with the new molecular characterizations and phylogenies was found in mainland China .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is necessary to strengthen the monitoring of PEDV variations .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Porcine epidemic diarrhoea (PED) is characterised by severe watery diarrhoea, leading to dehydration and high mortality among piglets. The disease is caused by the PED virus (PEDV), which belongs to family Coronaviridae, genus Alphacoronavirus, and has an envelope surrounding a single-stranded positive-sense RNA genome 1,2 . The PEDV genome is approximately 28 kb nucleotides (nt) long and contains a 5′ untranslated region (5′ UTR), a 3′ UTR with a polyadenylated tail, and at least seven open reading frames (ORFs) arranged in the following order: ORF1a, ORF1b, spike (S) glycoprotein gene, ORF3 hypothetical protein gene, envelope (E) gene, membrane (M) gene and nucleocapsid (N) gene 3,4 . The 5′ UTR is about 291-296 nt long and the 3′ UTR is about 334 nt long. Two long ORFs, ORF1a and ORF1b, occupy two-thirds of the genome and encode two nonstructural polyproteins (pp1a and pp1b) that direct genome replication and transcription 5 . PED was first reported in feeding and fattening pigs in England in 1971 2 . In China, PED was identified as a sporadic viral enteric disease in pig herds before 2010 6-8 . However, outbreaks of PED with increased severity of diarrhoea, vomiting, and dehydration have occurred in China since 2010. The disease approached a mobility rate as high as 100% and a mortality rate of 80-100% in piglets less than 10 days old, and has been recognised as a devastating illness causing death in neonatal piglets 9,10 . New outbreaks associated with a novel PEDV strain that is genetically distant from the prototype PEDV strain, CV777, have been reported in China 8,11,12 . Since then, PED outbreaks have increased markedly and have spread rapidly across countries. In late April 2013, PED was first confirmed in the United States and subsequently spread quickly across the country 13-15 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Porcine epidemic diarrhoea ( PED ) is characterised by severe watery diarrhoea ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "leading to dehydration and high mortality among piglets .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The disease is caused by the PED virus ( PEDV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which belongs to family Coronaviridae ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "genus Alphacoronavirus , and has an envelope surrounding a single-stranded positive-sense RNA genome 1,2 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The PEDV genome is approximately 28 kb nucleotides ( nt ) long and contains a 5 ′ untranslated region ( 5 ′ UTR ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a 3 ′ UTR with a polyadenylated tail ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and at least seven open reading frames ( ORFs ) arranged in the following order : ORF1a ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "ORF1b , spike ( S ) glycoprotein gene ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "ORF3 hypothetical protein gene , envelope ( E ) gene ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "membrane ( M ) gene and nucleocapsid ( N ) gene 3,4 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The 5 ′ UTR is about 291-296 nt long and the 3 ′ UTR is about 334 nt long .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Two long ORFs , ORF1a and ORF1b ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "occupy two-thirds of the genome and encode two nonstructural polyproteins ( pp1a and pp1b ) that direct genome replication and transcription 5 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "PED was first reported in feeding and fattening pigs in England in 1971 2 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In China , PED was identified as a sporadic viral enteric disease in pig herds before 2010 6-8 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , outbreaks of PED with increased severity of diarrhoea ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "vomiting , and dehydration have occurred in China since 2010 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The disease approached a mobility rate as high as 100 % and a mortality rate of 80-100 % in piglets less than 10 days old ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and has been recognised as a devastating illness causing death in neonatal piglets 9,10 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "New outbreaks associated with a novel PEDV strain that is genetically distant from the prototype PEDV strain ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "CV777 , have been reported in China 8,11,12 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Since then , PED outbreaks have increased markedly and have spread rapidly across countries .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In late April 2013 , PED was first confirmed in the United States and subsequently spread quickly across the country 13-15 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "21",
+    "segment_num": "35",
+    "token_num": "561"
+  }
+}

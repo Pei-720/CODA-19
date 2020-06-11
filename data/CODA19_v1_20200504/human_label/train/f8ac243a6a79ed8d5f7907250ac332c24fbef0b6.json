@@ -1,0 +1,241 @@
+{
+  "paper_id": "f8ac243a6a79ed8d5f7907250ac332c24fbef0b6",
+  "metadata": {
+    "title": "From Theory to Practice: Translating Whole-Genome Sequencing (WGS) into the Clinic",
+    "coda_data_split": "train",
+    "coda_paper_id": 7978,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Hospitals worldwide are facing an increasing incidence of hard-to-treat infections. Limiting infections and providing patients with optimal drug regimens require timely strain identification as well as virulence and drug-resistance profiling. Additionally, prophylactic interventions based on the identification of environmental sources of recurrent infections (e.g., contaminated sinks) and reconstruction of transmission chains (i.e., who infected whom) could help to reduce the incidence of nosocomial infections. WGS could hold the key to solving these issues. However, uptake in the clinic has been slow. Some major scientific and logistical challenges need to be solved before WGS fulfils its potential in clinical microbial diagnostics. In this review we identify major bottlenecks that need to be resolved for WGS to routinely inform clinical intervention and discuss possible solutions.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Hospitals worldwide are facing an increasing incidence of hard-to-treat infections .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Limiting infections and providing patients with optimal drug regimens require timely strain identification as well as virulence and drug-resistance profiling .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Additionally , prophylactic interventions based on the identification of environmental sources of recurrent infections ( e.g. , contaminated sinks ) and reconstruction of transmission chains ( i.e. , who infected whom ) could help to reduce the incidence of nosocomial infections .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "WGS could hold the key to solving these issues .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , uptake in the clinic has been slow .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Some major scientific and logistical challenges need to be solved before WGS fulfils its potential in clinical microbial diagnostics .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this review we identify major bottlenecks that need to be resolved for WGS to routinely inform clinical intervention and discuss possible solutions .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Thanks to progress in high-throughput sequencing technologies over the last two decades, generating microbial genomes is now considered neither particularly challenging nor expensive. As a result, whole-genome sequencing (WGS) (see Glossary) has been championed as the obvious and inevitable future of diagnostics in multiple reviews and opinion pieces dating back to 2010 [1] [2] [3] [4] . Despite enthusiasm in the community, WGS diagnostics has not yet been widely adopted in clinical microbiology, which may seem at odds with the current suite of applications for which WGS has huge potential, and which are already widely used in the academic literature. Common applications of WGS in diagnostic microbiology include isolate characterization, antimicrobial resistance (AMR) profiling, and establishing the sources of recurrent infections and between-patient transmissions. All of these have obvious clinical relevance and provide case studies where WGS could, in principle, provide additional information and even replace the knowledge obtained through standard clinical microbiology techniques. This review reiterates the potential of WGS for clinical microbiology, but also its current limitations, and suggests possible solutions to some of the main bottlenecks to routine implementation. In particular, we argue that applying existing WGS pipelines developed for fundamental research is unlikely to produce the fast and robust tools required, and that new dedicated approaches are needed for WGS in the clinic.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Thanks to progress in high-throughput sequencing technologies over the last two decades ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "generating microbial genomes is now considered neither particularly challenging nor expensive .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As a result , whole-genome sequencing ( WGS ) ( see Glossary ) has been championed as the obvious and inevitable future of diagnostics in multiple reviews and opinion pieces dating back to 2010 ( 1 ) ( 2 ) ( 3 ) ( 4 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Despite enthusiasm in the community ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "WGS diagnostics has not yet been widely adopted in clinical microbiology ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which may seem at odds with the current suite of applications for which WGS has huge potential ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and which are already widely used in the academic literature .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Common applications of WGS in diagnostic microbiology include isolate characterization ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "antimicrobial resistance ( AMR ) profiling ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and establishing the sources of recurrent infections and between-patient transmissions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "All of these have obvious clinical relevance and provide case studies where WGS could ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "in principle , provide additional information and even replace the knowledge obtained through standard clinical microbiology techniques .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This review reiterates the potential of WGS for clinical microbiology ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "but also its current limitations ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and suggests possible solutions to some of the main bottlenecks to routine implementation .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "In particular , we argue that applying existing WGS pipelines developed for fundamental research is unlikely to produce the fast and robust tools required ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and that new dedicated approaches are needed for WGS in the clinic .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "At the most basic level, WGS can be used to characterize a clinical isolate, informing on the likely species and/or subtype and allowing phylogenetic placement of a given sequence relative to an existing set of isolates. WGS-based strain identification gives a far superior resolution Highlights In principle, WGS can provide highly relevant information for clinical microbiology in near-real-time, from phenotype testing to tracking outbreaks.",
+      "sentences": [
+        [
+          {
+            "segment_text": "At the most basic level ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "WGS can be used to characterize a clinical isolate ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "informing on the likely species and/or subtype and allowing phylogenetic placement of a given sequence relative to an existing set of isolates .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "WGS-based strain identification gives a far superior resolution Highlights In principle ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "WGS can provide highly relevant information for clinical microbiology in near-real-time ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "from phenotype testing to tracking outbreaks .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "However, despite this promise, the uptake of WGS in the clinic has been limited to date, and future implementation is likely to be a slow process.",
+      "sentences": [
+        [
+          {
+            "segment_text": "However , despite this promise ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the uptake of WGS in the clinic has been limited to date ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and future implementation is likely to be a slow process .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The increasing information provided by WGS can cause conflict with traditional microbiological concepts and typing schemes.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The increasing information provided by WGS can cause conflict with traditional microbiological concepts and typing schemes .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Decreasing raw sequencing costs have not translated into decreasing total costs for bacterial genomes, which have stabilised.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Decreasing raw sequencing costs have not translated into decreasing total costs for bacterial genomes , which have stabilised .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Existing research pipelines are not suitable for the clinic, and bespoke clinical pipelines should be developed.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Existing research pipelines are not suitable for the clinic ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and bespoke clinical pipelines should be developed .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "7",
+    "sentence_num": "20",
+    "segment_num": "37",
+    "token_num": "542"
+  }
+}

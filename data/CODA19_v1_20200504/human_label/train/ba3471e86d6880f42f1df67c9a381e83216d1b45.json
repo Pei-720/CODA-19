@@ -1,0 +1,90 @@
+{
+  "paper_id": "ba3471e86d6880f42f1df67c9a381e83216d1b45",
+  "metadata": {
+    "title": "From sequence to enzyme mechanism using multi-label machine learning",
+    "coda_data_split": "train",
+    "coda_paper_id": 8740,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: In this work we predict enzyme function at the level of chemical mechanism, providing a finer granularity of annotation than traditional Enzyme Commission (EC) classes. Hence we can predict not only whether a putative enzyme in a newly sequenced organism has the potential to perform a certain reaction, but how the reaction is performed, using which cofactors and with susceptibility to which drugs or inhibitors, details with important consequences for drug and enzyme design. Work that predicts enzyme catalytic activity based on 3D protein structure features limits the prediction of mechanism to proteins already having either a solved structure or a close relative suitable for homology modelling.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : In this work we predict enzyme function at the level of chemical mechanism ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "providing a finer granularity of annotation than traditional Enzyme Commission ( EC ) classes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hence we can predict not only whether a putative enzyme in a newly sequenced organism has the potential to perform a certain reaction ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but how the reaction is performed ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "using which cofactors and with susceptibility to which drugs or inhibitors ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "details with important consequences for drug and enzyme design .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Work that predicts enzyme catalytic activity based on 3D protein structure features limits the prediction of mechanism to proteins already having either a solved structure or a close relative suitable for homology modelling .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In this study, we evaluate whether sequence identity, InterPro or Catalytic Site Atlas sequence signatures provide enough information for bulk prediction of enzyme mechanism. By splitting MACiE (Mechanism, Annotation and Classification in Enzymes database) mechanism labels to a finer granularity, which includes the role of the protein chain in the overall enzyme complex, the method can predict at 96% accuracy (and 96% micro-averaged precision, 99.9% macro-averaged recall) the MACiE mechanism definitions of 248 proteins available in the MACiE, EzCatDb (Database of Enzyme Catalytic Mechanisms) and SFLD (Structure Function Linkage Database) databases using an off-the-shelf K-Nearest Neighbours multi-label algorithm.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this study , we evaluate whether sequence identity ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "InterPro or Catalytic Site Atlas sequence signatures provide enough information for bulk prediction of enzyme mechanism .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "By splitting MACiE ( Mechanism , Annotation and Classification in Enzymes database ) mechanism labels to a finer granularity ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which includes the role of the protein chain in the overall enzyme complex ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the method can predict at 96 % accuracy ( and 96 % micro-averaged precision , 99.9 % macro-averaged recall ) the MACiE mechanism definitions of 248 proteins available in the MACiE ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "EzCatDb ( Database of Enzyme Catalytic Mechanisms ) and SFLD ( Structure Function Linkage Database ) databases using an off-the-shelf K-Nearest Neighbours multi-label algorithm .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "5",
+    "segment_num": "13",
+    "token_num": "236"
+  }
+}

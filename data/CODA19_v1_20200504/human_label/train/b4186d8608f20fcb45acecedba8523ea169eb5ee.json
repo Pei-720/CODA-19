@@ -1,0 +1,106 @@
+{
+  "paper_id": "b4186d8608f20fcb45acecedba8523ea169eb5ee",
+  "metadata": {
+    "title": "Neuroinfectious Diseases: A Crisis in Neurology and a Call for Action",
+    "coda_data_split": "train",
+    "coda_paper_id": 2827,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Despite significant advancements in the management of infectious diseases, central nervous system (CNS) infections remain a major challenge. They are often difficult to diagnose, and treatments are inadequate or nonexistent. Not surprisingly, encephalitis has been the subject of several recent movies and of fiction and nonfiction books, and outbreaks have received wide attention by the popular media. For example, bovine spongiform encephalopathy (mad cow disease) continues to get wide media coverage despite the absence of human cases in United States.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Despite significant advancements in the management of infectious diseases ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "central nervous system ( CNS ) infections remain a major challenge .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "They are often difficult to diagnose ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and treatments are inadequate or nonexistent .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Not surprisingly , encephalitis has been the subject of several recent movies and of fiction and nonfiction books ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and outbreaks have received wide attention by the popular media .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "For example , bovine spongiform encephalopathy ( mad cow disease ) continues to get wide media coverage despite the absence of human cases in United States .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "With the globalization of human travel, new infections can spread worldwide in record time. Recent examples include the West Nile, chikungunya, dengue, Hanta, Marburg, and influenza viruses; severe acute respiratory syndrome; and now the Ebola virus and enterovirus D68. There is the reemergence of meningococcal meningitis, poliomyelitis, and measles. Bioterrorism is another threat because CNS pathogens can be weaponized. Human and animal products for treatment also pose a risk.",
+      "sentences": [
+        [
+          {
+            "segment_text": "With the globalization of human travel ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "new infections can spread worldwide in record time .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recent examples include the West Nile ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "chikungunya , dengue , Hanta ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Marburg , and influenza viruses ; severe acute respiratory syndrome ; and now the Ebola virus and enterovirus D68 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "There is the reemergence of meningococcal meningitis , poliomyelitis , and measles .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Bioterrorism is another threat because CNS pathogens can be weaponized .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Human and animal products for treatment also pose a risk .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "9",
+    "segment_num": "15",
+    "token_num": "177"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "paper_id": "f7463f89e4164b331bfe31ab62c6dab454941d6b",
+  "metadata": {
+    "title": "Mutation of a highly conserved base in the yeast mitochondrial 21S rRNA restricts ribosomal frameshifting",
+    "coda_data_split": "train",
+    "coda_paper_id": 2241,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "A mutation shown to cause resistance to chloramphenicol in Saccharomyces cerevisiae was mapped to the central loop in domain V of the yeast mitochondrial 21S rRNA. The mutant 21S rRNA has a base pair exchange from U26~ 7 (corresponding to U2504 in Escherichia coli) to C26v7, which significantly reduces rightward frameshifting at a UU UUU UCC A site in a + 1 U mutant. There is evidence to suggest that this reduction also applies to leftward frameshifting at the same site in a-1 U mutant. The mutation did not increase the rate of misreading of a number of mitochondrial missense, nonsense or frameshift (of both signs) mutations, and did not adversely affect the synthesis of wild-type mitochondrial gene products. It is suggested here that ribosomes bearing either the C2677 mutation or its wild-type allele may behave identically during normal decoding and only differ at sites where a ribosomal stall, by permitting non-standard decoding, differentially affects the normal interaction of tRNAs with the chloramphenicol resistant domain V. Chloramphenicol-resistant mutations mapping at two other sites in domain V are described. These mutations had no effect on frameshifting.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A mutation shown to cause resistance to chloramphenicol in Saccharomyces cerevisiae was mapped to the central loop in domain V of the yeast mitochondrial 21S rRNA .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The mutant 21S rRNA has a base pair exchange from U26 ~ 7 ( corresponding to U2504 in Escherichia coli ) to C26v7 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which significantly reduces rightward frameshifting at a UU UUU UCC A site in a + 1 U mutant .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "There is evidence to suggest that this reduction also applies to leftward frameshifting at the same site in a-1 U mutant .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The mutation did not increase the rate of misreading of a number of mitochondrial missense ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "nonsense or frameshift ( of both signs ) mutations ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and did not adversely affect the synthesis of wild-type mitochondrial gene products .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is suggested here that ribosomes bearing either the C2677 mutation or its wild-type allele may behave identically during normal decoding and only differ at sites where a ribosomal stall ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "by permitting non-standard decoding , differentially affects the normal interaction of tRNAs with the chloramphenicol resistant domain V. Chloramphenicol-resistant mutations mapping at two other sites in domain V are described .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These mutations had no effect on frameshifting .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "10",
+    "token_num": "201"
+  }
+}

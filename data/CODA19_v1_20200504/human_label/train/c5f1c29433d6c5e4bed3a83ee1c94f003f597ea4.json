@@ -1,0 +1,125 @@
+{
+  "paper_id": "c5f1c29433d6c5e4bed3a83ee1c94f003f597ea4",
+  "metadata": {
+    "title": "An emerging cyberinfrastructure for biodefense pathogen and pathogen-host data",
+    "coda_data_split": "train",
+    "coda_paper_id": 3867,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "The NIAID-funded Biodefense Proteomics Resource Center (RC) provides storage, dissemination, visualization and analysis capabilities for the experimental data deposited by seven Proteomics Research Centers (PRCs). The data and its publication is to support researchers working to discover candidates for the next generation of vaccines, therapeutics and diagnostics against NIAID\u0027s Category A, B and C priority pathogens. The data includes transcriptional profiles, protein profiles, protein structural data and host-pathogen protein interactions, in the context of the pathogen life cycle in vivo and in vitro. The database has stored and supported host or pathogen data derived from Bacillus, Brucella, Cryptosporidium, Salmonella, SARS, Toxoplasma, Vibrio and Yersinia, human tissue libraries, and mouse macrophages. These publicly available data cover diverse data types such as mass spectrometry, yeast two-hybrid (Y2H), gene expression profiles, X-ray and NMR determined protein structures and protein expression clones. The growing database covers over 23 000 unique genes/proteins from different experiments and organisms. All of the genes/proteins are annotated and integrated across experiments using UniProt Knowledgebase (UniProtKB) accession numbers. The web-interface for the database enables searching, querying and downloading at the level of experiment, group and individual gene(s)/ protein(s) via UniProtKB accession numbers or protein function keywords. The system is accessible at http://www.proteomicsresource.org/.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The NIAID-funded Biodefense Proteomics Resource Center ( RC ) provides storage ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "dissemination , visualization and analysis capabilities for the experimental data deposited by seven Proteomics Research Centers ( PRCs ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The data and its publication is to support researchers working to discover candidates for the next generation of vaccines ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "therapeutics and diagnostics against NIAID \u0027s Category A ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "B and C priority pathogens .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The data includes transcriptional profiles ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "protein profiles , protein structural data and host-pathogen protein interactions ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "in the context of the pathogen life cycle in vivo and in vitro .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The database has stored and supported host or pathogen data derived from Bacillus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Brucella , Cryptosporidium , Salmonella ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "SARS , Toxoplasma , Vibrio and Yersinia ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "human tissue libraries , and mouse macrophages .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These publicly available data cover diverse data types such as mass spectrometry ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "yeast two-hybrid ( Y2H ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "gene expression profiles , X-ray and NMR determined protein structures and protein expression clones .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The growing database covers over 23 000 unique genes/proteins from different experiments and organisms .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "All of the genes/proteins are annotated and integrated across experiments using UniProt Knowledgebase ( UniProtKB ) accession numbers .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The web-interface for the database enables searching ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "querying and downloading at the level of experiment ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "group and individual gene ( s ) / protein ( s ) via UniProtKB accession numbers or protein function keywords .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The system is accessible at http://www.proteomicsresource.org/ .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "9",
+    "segment_num": "21",
+    "token_num": "247"
+  }
+}

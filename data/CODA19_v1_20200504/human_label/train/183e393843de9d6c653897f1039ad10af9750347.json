@@ -1,0 +1,149 @@
+{
+  "paper_id": "183e393843de9d6c653897f1039ad10af9750347",
+  "metadata": {
+    "title": "Patterns of seasonal and pandemic influenza-associated health care and mortality in Ontario, Canada",
+    "coda_data_split": "train",
+    "coda_paper_id": 7683,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Mathematical and statistical models are used to project the future time course of infectious disease epidemics and the expected future burden on health care systems and economies. Influenza is a particularly important disease in this context because it causes annual epidemics and occasional pandemics. In order to forecast health care utilization during epidemics-and the effects of hospitalizations and deaths on the contact network and, in turn, on transmission dynamics-modellers must make assumptions about the lengths of time between infection, visiting a physician, being admitted to hospital, leaving hospital, and death. More reliable forecasts could be be made if the distributions of times between these types of events (\"delay distributions\") were known. Methods: We estimated delay distributions in the province of Ontario, Canada, between 2006 and 2010. To do so, we used encrypted health insurance numbers to link 1.34 billion health care billing records to 4.27 million hospital inpatient stays. Because the four year period we studied included three typical influenza seasons and the 2009 influenza pandemic, we were able to compare the delay distributions in non-pandemic and pandemic settings. We also estimated conditional probabilities such as the probability of hospitalization within the year if diagnosed with influenza. Results: In non-pandemic [pandemic] years, delay distribution medians (inter-quartile ranges) were: Service to Admission 6.3 days (0.1-17.6 days) [2.4 days (-0.3-13.6 days)], Admission to Discharge 3 days (1.4-5.9 days) [2.6 days (1.2-5.1 days)], Admission to Death 5.3 days (2.1-11 days) [6 days (2.6-13.1 days)]. (Service date is defined as the date, within the year, of the first health care billing that included a diagnostic code for influenza-like-illness.) Among individuals diagnosed with either pneumonia or influenza in a given year, 19% [16%] were hospitalized within the year and 3% [2%] died in hospital. Among all individuals who were hospitalized, 10% [12%] were diagnosed with pneumonia or influenza during the year and 5% [5%] died in hospital. Conclusion: Our empirical delay distributions and conditional probabilities should help facilitate more accurate forecasts in the future, including improved predictions of hospital bed demands during influenza outbreaks, and the expected effects of hospitalizations on epidemic dynamics.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Mathematical and statistical models are used to project the future time course of infectious disease epidemics and the expected future burden on health care systems and economies .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Influenza is a particularly important disease in this context because it causes annual epidemics and occasional pandemics .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In order to forecast health care utilization during epidemics-and the effects of hospitalizations and deaths on the contact network and ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "in turn , on transmission dynamics-modellers must make assumptions about the lengths of time between infection ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "visiting a physician , being admitted to hospital ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "leaving hospital , and death .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "More reliable forecasts could be be made if the distributions of times between these types of events ( `` delay distributions \u0027\u0027 ) were known .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Methods : We estimated delay distributions in the province of Ontario ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "Canada , between 2006 and 2010 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "To do so , we used encrypted health insurance numbers to link 1.34 billion health care billing records to 4.27 million hospital inpatient stays .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Because the four year period we studied included three typical influenza seasons and the 2009 influenza pandemic ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we were able to compare the delay distributions in non-pandemic and pandemic settings .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also estimated conditional probabilities such as the probability of hospitalization within the year if diagnosed with influenza .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results : In non-pandemic ( pandemic ) years ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "delay distribution medians ( inter-quartile ranges ) were : Service to Admission 6.3 days ( 0.1-17.6 days ) ( 2.4 days ( -0.3-13.6 days ) ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Admission to Discharge 3 days ( 1.4-5.9 days ) ( 2.6 days ( 1.2-5.1 days ) ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Admission to Death 5.3 days ( 2.1-11 days ) ( 6 days ( 2.6-13.1 days ) ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( Service date is defined as the date , within the year , of the first health care billing that included a diagnostic code for influenza-like-illness . )",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Among individuals diagnosed with either pneumonia or influenza in a given year ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "19 % ( 16 % ) were hospitalized within the year and 3 % ( 2 % ) died in hospital .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Among all individuals who were hospitalized ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "10 % ( 12 % ) were diagnosed with pneumonia or influenza during the year and 5 % ( 5 % ) died in hospital .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Conclusion : Our empirical delay distributions and conditional probabilities should help facilitate more accurate forecasts in the future ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including improved predictions of hospital bed demands during influenza outbreaks ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the expected effects of hospitalizations on epidemic dynamics .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "13",
+    "segment_num": "25",
+    "token_num": "430"
+  }
+}

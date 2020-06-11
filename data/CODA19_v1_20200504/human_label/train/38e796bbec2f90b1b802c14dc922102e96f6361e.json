@@ -1,0 +1,53 @@
+{
+  "paper_id": "38e796bbec2f90b1b802c14dc922102e96f6361e",
+  "metadata": {
+    "title": "The within-host viral kinetics of SARS-CoV-2",
+    "coda_data_split": "train",
+    "coda_paper_id": 5195,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "In this work, we use a within-host viral dynamic model to describe the SARS-CoV-2 kinetics in host. Chest radiograph score data are used to estimate the parameters of that model. Our result shows that the basic reproductive number of SARS-CoV-2 in host growth is around 3.79. Using the same method we also estimate the basic reproductive number of MERS virus is 8.16 which is higher than SARS-CoV-2. The PRCC method is used to analyze the sensitivities of model parameters and the drug effects on virus growth are also implemented to analyze the model.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this work , we use a within-host viral dynamic model to describe the SARS-CoV-2 kinetics in host .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Chest radiograph score data are used to estimate the parameters of that model .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our result shows that the basic reproductive number of SARS-CoV-2 in host growth is around 3.79 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using the same method we also estimate the basic reproductive number of MERS virus is 8.16 which is higher than SARS-CoV-2 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The PRCC method is used to analyze the sensitivities of model parameters and the drug effects on virus growth are also implemented to analyze the model .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "5",
+    "token_num": "99"
+  }
+}

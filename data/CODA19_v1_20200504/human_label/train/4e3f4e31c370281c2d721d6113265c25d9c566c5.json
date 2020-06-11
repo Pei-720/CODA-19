@@ -1,0 +1,245 @@
+{
+  "paper_id": "4e3f4e31c370281c2d721d6113265c25d9c566c5",
+  "metadata": {
+    "title": "Host protein CD63 enhances viral RNA replication by interacting with human astrovirus nonstructural protein nsP1a/4 2",
+    "coda_data_split": "train",
+    "coda_paper_id": 4346,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Human astrovirus nonstructural protein nsP1a/4, located at the C-terminal end of 17 nsP1a, is thought to be involved in the regulation of RNA replication and capsid 18 maturation;however, its rolesviral growth and virulence are not well understood. 19 We investigated the intracellular host proteins that interact with nsP1a and 20 explored the potential roles of the interaction in the pathogenesis of human 21 astrovirus infection. We screened 14 independent proteins with a cDNA library 22 a nonstructural protein located at the C-terminal end of the human astrovirus 38 nsP1a polyprotein, interacts with the host protein CD63. Over expression of 39 CD63 promoted viral RNA replication, whereas knockdown of CD63 decreased 40 virus RNA replication, indicating that CD63 plays a critical role in the human 41 astrovirus life cycle. 42 43 KEYWORDS: human astrovirus, HAstV, protein-protein interaction, nsP1a, 44 nsP1a/4, CD63, virus replication 45 46 author/funder. All rights reserved. No reuse allowed without permission. The copyright holder for this preprint (which was not peer-reviewed) is the . https://doi.org/10.1101/331835 doi: bioRxiv preprint Viruses are obligate intracellular pathogens thatutilize host-cell machinery to 47 infect cells, replicate themselves, and then exit the cells for another round of 48 infection. Human astroviruses (HAstVs) are a group of non-enveloped, 49 single-stranded, and positive-sense RNA viruses in the family Astroviridae. 50 HAstVs are causative agents of viral diarrhea in young children, 51 immunocompromised patients, and elderly individuals (1-5). The astrovirus 52 genome has three open reading frames (ORFs); ORF1a and ORF1b encode two 53 nonstructural polyproteins (nsPs), and ORF2 encodes the capsid protein (6). The 54 nsP1a polyprotein, transcribed from ORF1a, is involved in viral transcription 55 and replication. When HAstV infects a host cell, nsP1a is cleaved into at least 56 four products, named nsP1a/1, nsP1a/2, nsP1a/3 (protease), and nsP1a/4. The 57 nsP1a/4 protein is located at the C-terminal end of nsP1a.Several domains have 58 been identified in nsP1a/4, including two coiled-coil regions, a death domain 59 (DD), a nuclear localization signal (NLS), a putative viral genome-linked 60 protein(VPg), and a hypervariable region (HVR)(7-12). It was confirmed that 61 nsP1a/4 plays important roles in the activation of capsid maturation and the 62 regulation of RNA replication (13, 14). To better understand the roles of nsP1a 63 and nsP1a/4 in HAstV infection and replication, we characterized host proteins 64",
+      "sentences": [
+        [
+          {
+            "segment_text": "Human astrovirus nonstructural protein nsP1a/4 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "located at the C-terminal end of 17 nsP1a ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "is thought to be involved in the regulation of RNA replication and capsid 18 maturation ; however ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "its rolesviral growth and virulence are not well understood .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "19 We investigated the intracellular host proteins that interact with nsP1a and 20 explored the potential roles of the interaction in the pathogenesis of human 21 astrovirus infection .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We screened 14 independent proteins with a cDNA library 22 a nonstructural protein located at the C-terminal end of the human astrovirus 38 nsP1a polyprotein ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "interacts with the host protein CD63 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Over expression of 39 CD63 promoted viral RNA replication ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "whereas knockdown of CD63 decreased 40 virus RNA replication ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "indicating that CD63 plays a critical role in the human 41 astrovirus life cycle .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "42 43 KEYWORDS : human astrovirus ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "HAstV , protein-protein interaction , nsP1a ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "44 nsP1a/4 , CD63 , virus replication 45 46 author/funder .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "All rights reserved .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "No reuse allowed without permission .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "The copyright holder for this preprint ( which was not peer-reviewed ) is the .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "https://doi.org/10.1101/331835 doi : bioRxiv preprint Viruses are obligate intracellular pathogens thatutilize host-cell machinery to 47 infect cells ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "replicate themselves , and then exit the cells for another round of 48 infection .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Human astroviruses ( HAstVs ) are a group of non-enveloped ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "49 single-stranded , and positive-sense RNA viruses in the family Astroviridae .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "50 HAstVs are causative agents of viral diarrhea in young children ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "51 immunocompromised patients , and elderly individuals ( 1-5 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The astrovirus 52 genome has three open reading frames ( ORFs ) ; ORF1a and ORF1b encode two 53 nonstructural polyproteins ( nsPs ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and ORF2 encodes the capsid protein ( 6 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The 54 nsP1a polyprotein , transcribed from ORF1a ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "is involved in viral transcription 55 and replication .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "When HAstV infects a host cell ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "nsP1a is cleaved into at least 56 four products ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "named nsP1a/1 , nsP1a/2 , nsP1a/3 ( protease ) , and nsP1a/4 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The 57 nsP1a/4 protein is located at the C-terminal end of nsP1a.Several domains have 58 been identified in nsP1a/4 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including two coiled-coil regions , a death domain 59 ( DD ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a nuclear localization signal ( NLS ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a putative viral genome-linked 60 protein ( VPg ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and a hypervariable region ( HVR ) ( 7-12 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It was confirmed that 61 nsP1a/4 plays important roles in the activation of capsid maturation and the 62 regulation of RNA replication ( 13 , 14 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "To better understand the roles of nsP1a 63 and nsP1a/4 in HAstV infection and replication , we characterized host proteins 64",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "that interact with nsP1a or nsP1a/4 by utilizing a yeast two-hybrid approach. We 65 identified at least 14 host proteins that could bind to nsP1a, one of which was 66 CD63.",
+      "sentences": [
+        [
+          {
+            "segment_text": "that interact with nsP1a or nsP1a/4 by utilizing a yeast two-hybrid approach .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We 65 identified at least 14 host proteins that could bind to nsP1a ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "one of which was 66 CD63 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "CD63, a member of the tetraspan transmembrane protein family, is a 68 author/funder. All rights reserved. No reuse allowed without permission.",
+      "sentences": [
+        [
+          {
+            "segment_text": "CD63 , a member of the tetraspan transmembrane protein family , is a 68 author/funder .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "All rights reserved .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "No reuse allowed without permission .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "22",
+    "segment_num": "42",
+    "token_num": "523"
+  }
+}

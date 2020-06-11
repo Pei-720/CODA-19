@@ -1,0 +1,79 @@
+{
+  "paper_id": "41ff8966b05ab778bb135d48143800f2792807fa",
+  "metadata": {
+    "title": "Methodology Report Vaxign: The First Web-Based Vaccine Design Program for Reverse Vaccinology and Applications for Vaccine Development",
+    "coda_data_split": "train",
+    "coda_paper_id": 10127,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Vaxign is the first web-based vaccine design system that predicts vaccine targets based on genome sequences using the strategy of reverse vaccinology. Predicted features in the Vaxign pipeline include protein subcellular location, transmembrane helices, adhesin probability, conservation to human and/or mouse proteins, sequence exclusion from genome(s) of nonpathogenic strain(s), and epitope binding to MHC class I and class II. The precomputed Vaxign database contains prediction of vaccine targets for \u003e 70 genomes. Vaxign also performs dynamic vaccine target prediction based on input sequences. To demonstrate the utility of this program, the vaccine candidates against uropathogenic Escherichia coli (UPEC) were predicted using Vaxign and compared with various experimental studies. Our results indicate that Vaxign is an accurate and efficient vaccine design program.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Vaxign is the first web-based vaccine design system that predicts vaccine targets based on genome sequences using the strategy of reverse vaccinology .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Predicted features in the Vaxign pipeline include protein subcellular location ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "transmembrane helices , adhesin probability ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "conservation to human and/or mouse proteins ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "sequence exclusion from genome ( s ) of nonpathogenic strain ( s ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and epitope binding to MHC class I and class II .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The precomputed Vaxign database contains prediction of vaccine targets for \u003e 70 genomes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Vaxign also performs dynamic vaccine target prediction based on input sequences .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To demonstrate the utility of this program ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "the vaccine candidates against uropathogenic Escherichia coli ( UPEC ) were predicted using Vaxign and compared with various experimental studies .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our results indicate that Vaxign is an accurate and efficient vaccine design program .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "11",
+    "token_num": "141"
+  }
+}

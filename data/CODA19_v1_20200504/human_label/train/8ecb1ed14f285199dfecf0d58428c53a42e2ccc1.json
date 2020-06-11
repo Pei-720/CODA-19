@@ -1,0 +1,99 @@
+{
+  "paper_id": "8ecb1ed14f285199dfecf0d58428c53a42e2ccc1",
+  "metadata": {
+    "title": "A novel siRNA validation system for functional screening and identification of effective RNAi probes in mammalian cells",
+    "coda_data_split": "train",
+    "coda_paper_id": 8576,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Small interfering RNAs (siRNAs) have become the most powerful and widely used gene silencing reagents for reverse functional genomics and molecular therapeutics. The key challenge for achieving effective gene silencing in particular for the purpose of the therapeutics is primarily dependent on the effectiveness and specificity of the RNAi targeting sequence. However, only a limited number of siRNAs is capable of inducing highly effective and sequence-specific gene silencing by RNA interference (RNAi) mechanism. In addition, the efficacy of siRNA-induced gene silencing can only be experimentally measured based on inhibition of the target gene expression. Therefore, it is important to establish a fully robust and comparative validating system for determining the efficacy of designed siRNAs. In this study, we have developed a reliable and quantitative reporter-based siRNA validation system that consists of a short synthetic DNA fragment containing an RNAi targeting sequence of interest and two expression vectors for targeting reporter and triggering siR-NA expression. The efficacy of the siRNAs is measured by their abilities to inhibit expression of the targeting reporter gene with easily quantified readouts including enhanced green fluorescence protein (EGFP) and firefly luciferase. Using fully analyzed siRNAs against human hepatitis B virus (HBV) surface antigen (HBsAg) and tumor suppressor protein p53, we have demonstrated that this system could effectively and faithfully report the efficacy of the corresponding siRNAs. In addition, we have further applied this system for screening and identification of the highly effective siRNAs that could specifically inhibit expression of mouse matrix metalloproteinase-7 (MMP-7), Epstein-Barr virus (EBV) latent membrane protein 1 (LMP1), and human serine/threonine kinase AKT1. Since only a readily available short synthetic DNA fragment is needed for constructing this novel reporter-based siRNA validation system, this system not only provides a powerful strategy for screening highly effective siRNAs but also implicates in the use of RNAi for studying novel gene function in mammals.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Small interfering RNAs ( siRNAs ) have become the most powerful and widely used gene silencing reagents for reverse functional genomics and molecular therapeutics .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The key challenge for achieving effective gene silencing in particular for the purpose of the therapeutics is primarily dependent on the effectiveness and specificity of the RNAi targeting sequence .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , only a limited number of siRNAs is capable of inducing highly effective and sequence-specific gene silencing by RNA interference ( RNAi ) mechanism .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , the efficacy of siRNA-induced gene silencing can only be experimentally measured based on inhibition of the target gene expression .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , it is important to establish a fully robust and comparative validating system for determining the efficacy of designed siRNAs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we have developed a reliable and quantitative reporter-based siRNA validation system that consists of a short synthetic DNA fragment containing an RNAi targeting sequence of interest and two expression vectors for targeting reporter and triggering siR-NA expression .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The efficacy of the siRNAs is measured by their abilities to inhibit expression of the targeting reporter gene with easily quantified readouts including enhanced green fluorescence protein ( EGFP ) and firefly luciferase .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using fully analyzed siRNAs against human hepatitis B virus ( HBV ) surface antigen ( HBsAg ) and tumor suppressor protein p53 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we have demonstrated that this system could effectively and faithfully report the efficacy of the corresponding siRNAs .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , we have further applied this system for screening and identification of the highly effective siRNAs that could specifically inhibit expression of mouse matrix metalloproteinase-7 ( MMP-7 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Epstein-Barr virus ( EBV ) latent membrane protein 1 ( LMP1 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and human serine/threonine kinase AKT1 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Since only a readily available short synthetic DNA fragment is needed for constructing this novel reporter-based siRNA validation system ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "this system not only provides a powerful strategy for screening highly effective siRNAs but also implicates in the use of RNAi for studying novel gene function in mammals .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "10",
+    "segment_num": "14",
+    "token_num": "342"
+  }
+}

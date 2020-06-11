@@ -1,0 +1,93 @@
+{
+  "paper_id": "338ea249f053b957f0681c987b83322a96a7350b",
+  "metadata": {
+    "title": "iEzy-Drug: A Web Server for Identifying the Interaction between Enzymes and Drugs in Cellular Networking",
+    "coda_data_split": "train",
+    "coda_paper_id": 7675,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "With the features of extremely high selectivity and efficiency in catalyzing almost all the chemical reactions in cells, enzymes play vitally important roles for the life of an organism and hence have become frequent targets for drug design. An essential step in developing drugs by targeting enzymes is to identify drug-enzyme interactions in cells. It is both time-consuming and costly to do this purely by means of experimental techniques alone. Although some computational methods were developed in this regard based on the knowledge of the three-dimensional structure of enzyme, unfortunately their usage is quite limited because threedimensional structures of many enzymes are still unknown. Here, we reported a sequence-based predictor, called \"iEzy-Drug, \" in which each drug compound was formulated by a molecular fingerprint with 258 feature components, each enzyme by the Chou\u0027s pseudo amino acid composition generated via incorporating sequential evolution information and physicochemical features derived from its sequence, and the prediction engine was operated by the fuzzy K-nearest neighbor algorithm. The overall success rate achieved by iEzy-Drug via rigorous cross-validations was about 91%. Moreover, to maximize the convenience for the majority of experimental scientists, a user-friendly web server was established, by which users can easily obtain their desired results.",
+      "sentences": [
+        [
+          {
+            "segment_text": "With the features of extremely high selectivity and efficiency in catalyzing almost all the chemical reactions in cells ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "enzymes play vitally important roles for the life of an organism and hence have become frequent targets for drug design .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "An essential step in developing drugs by targeting enzymes is to identify drug-enzyme interactions in cells .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is both time-consuming and costly to do this purely by means of experimental techniques alone .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although some computational methods were developed in this regard based on the knowledge of the three-dimensional structure of enzyme ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "unfortunately their usage is quite limited because threedimensional structures of many enzymes are still unknown .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we reported a sequence-based predictor ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "called `` iEzy-Drug , \u0027\u0027 in which each drug compound was formulated by a molecular fingerprint with 258 feature components ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "each enzyme by the Chou \u0027s pseudo amino acid composition generated via incorporating sequential evolution information and physicochemical features derived from its sequence ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and the prediction engine was operated by the fuzzy K-nearest neighbor algorithm .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The overall success rate achieved by iEzy-Drug via rigorous cross-validations was about 91 % .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , to maximize the convenience for the majority of experimental scientists ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "a user-friendly web server was established ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "by which users can easily obtain their desired results .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "14",
+    "token_num": "221"
+  }
+}

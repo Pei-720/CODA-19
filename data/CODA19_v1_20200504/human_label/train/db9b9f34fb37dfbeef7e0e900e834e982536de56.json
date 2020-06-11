@@ -1,0 +1,244 @@
+{
+  "paper_id": "db9b9f34fb37dfbeef7e0e900e834e982536de56",
+  "metadata": {
+    "title": "Reply to Gautret et al. 2020: A Bayesian reanalysis of the effects of hydroxychloroquine and azithromycin on viral carriage in patients with COVID-19",
+    "coda_data_split": "train",
+    "coda_paper_id": 6493,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "hydroxychloroquine and azithromycin on viral load in the upper respiratory tract of severe acute respiratory syndrome-Coronavirus-2 (SARS-CoV-2) patients. The authors report that hydroxychloroquine (HCQ) had significant virus reducing effects, and that dual treatment of both HCQ and azithromycin further enhanced virus reduction. These data have triggered speculation whether these drugs should be considered as candidates for the treatment of severe COVID-19. However, questions have been raised regarding the study\u0027s data integrity, statistical analyses, and experimental design. We therefore reanalysed the original data to interrogate the main claims of the paper. Here we apply Bayesian statistics to assess the robustness of the original paper\u0027s claims by testing four variants of the data: 1) The",
+      "sentences": [
+        [
+          {
+            "segment_text": "hydroxychloroquine and azithromycin on viral load in the upper respiratory tract of severe acute respiratory syndrome-Coronavirus-2 ( SARS-CoV-2 ) patients .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The authors report that hydroxychloroquine ( HCQ ) had significant virus reducing effects ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and that dual treatment of both HCQ and azithromycin further enhanced virus reduction .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These data have triggered speculation whether these drugs should be considered as candidates for the treatment of severe COVID-19 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , questions have been raised regarding the study \u0027s data integrity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "statistical analyses , and experimental design .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We therefore reanalysed the original data to interrogate the main claims of the paper .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we apply Bayesian statistics to assess the robustness of the original paper \u0027s claims by testing four variants of the data : 1 ) The",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "assumes a positive effect, compared to a model of no effect. We find that the statistical evidence is highly sensitive to these data variants. Statistical evidence for the positive effect model ranged from strong for the original data (BF +0 ~11), to moderate when including patients who deteriorated (BF +0 ~4.35), to anecdotal when excluding untested patients (BF +0 ~2), and to anecdotal negative evidence if untested patients were assumed positive (BF +0 ~0.6). To assess whether HCQ is more effective when combined with AZ, we performed the same tests, and found only anecdotal evidence for the positive effect model for the original data (BF +0 ~2.8), and moderate evidence for all other variants of the data (BF +0 ~5.6). Our analyses only explore the effects of different assumptions about excluded and untested patients. These assumptions are not adequately reported, nor are they justified in the original paper, and we find that varying them causes substantive changes to the evidential support for the main claims of the original paper. This statistical uncertainty is exacerbated by the fact that the treatments were not randomised, and subject to several confounding variables including the patients consent to treatment, different care centres, and clinical decision-making. Furthermore, while the viral load measurements were noisy, showing multiple reversals between test outcomes, there is greater certainty around other clinical outcomes such as the 4 patients who seriously deteriorated. The fact that all of these belonged to the HCQ group should be assigned greater weight when evaluating the potential clinical efficacy of HCQ. Randomised controlled trials are currently underway, and will be critical in resolving this uncertainty as to whether HCQ and AZ are effective as a treatment for COVID-19.",
+      "sentences": [
+        [
+          {
+            "segment_text": "assumes a positive effect , compared to a model of no effect .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We find that the statistical evidence is highly sensitive to these data variants .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Statistical evidence for the positive effect model ranged from strong for the original data ( BF +0 ~ 11 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "to moderate when including patients who deteriorated ( BF +0 ~ 4.35 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "to anecdotal when excluding untested patients ( BF +0 ~ 2 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and to anecdotal negative evidence if untested patients were assumed positive ( BF +0 ~ 0.6 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "To assess whether HCQ is more effective when combined with AZ ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we performed the same tests ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and found only anecdotal evidence for the positive effect model for the original data ( BF +0 ~ 2.8 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and moderate evidence for all other variants of the data ( BF +0 ~ 5.6 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our analyses only explore the effects of different assumptions about excluded and untested patients .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These assumptions are not adequately reported ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "nor are they justified in the original paper ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and we find that varying them causes substantive changes to the evidential support for the main claims of the original paper .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This statistical uncertainty is exacerbated by the fact that the treatments were not randomised ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and subject to several confounding variables including the patients consent to treatment ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "different care centres , and clinical decision-making .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , while the viral load measurements were noisy ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "showing multiple reversals between test outcomes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "there is greater certainty around other clinical outcomes such as the 4 patients who seriously deteriorated .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The fact that all of these belonged to the HCQ group should be assigned greater weight when evaluating the potential clinical efficacy of HCQ .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Randomised controlled trials are currently underway ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and will be critical in resolving this uncertainty as to whether HCQ and AZ are effective as a treatment for COVID-19 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Warning: There have been reports of people self-administering chloroquine phosphate (intended for treatment of disease in aquarium fish) , which has led to at least one death and one serious illness. We state that under no circumstances should people self-administer hydroxychloroquine, chloroquine phosphate, azithromycin, or anything similar-sounding, or indeed any other drug, unless approved by a medical doctor. The FDA has issued a specific warning: https://www.fda.gov/animal-veterinary/product-safety-information/fda-letter-stakeholders-do-not-use-chloroquine-phosphate-intended-fis h-treatment-covid-19-humans . CC-BY-NC-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Warning : There have been reports of people self-administering chloroquine phosphate ( intended for treatment of disease in aquarium fish ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which has led to at least one death and one serious illness .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We state that under no circumstances should people self-administer hydroxychloroquine ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "chloroquine phosphate , azithromycin , or anything similar-sounding ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "or indeed any other drug ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "unless approved by a medical doctor .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The FDA has issued a specific warning : https://www.fda.gov/animal-veterinary/product-safety-information/fda-letter-stakeholders-do-not-use-chloroquine-phosphate-intended-fis h-treatment-covid-19-humans .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "CC-BY-NC-ND 4.0 International license It is made available under a is the author/funder ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "who has granted medRxiv a license to display the preprint in perpetuity .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "(which was not peer-reviewed) The copyright holder for this preprint .",
+      "sentences": [
+        [
+          {
+            "segment_text": "( which was not peer-reviewed ) The copyright holder for this preprint .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "21",
+    "segment_num": "41",
+    "token_num": "575"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "paper_id": "8f6cb8d45835155664bf8042bd674969a4a29301",
+  "metadata": {
+    "title": "British Journal of Clinical Pharmacology Application of data mining techniques in pharmacovigilance",
+    "coda_data_split": "train",
+    "coda_paper_id": 2334,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "To discuss the potential use of data mining and knowledge discovery in databases for detection of adverse drug events (ADE) in pharmacovig ilance.",
+      "sentences": [
+        [
+          {
+            "segment_text": "To discuss the potential use of data mining and knowledge discovery in databases for detection of adverse drug events ( ADE ) in pharmacovig ilance .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "A literature search was conducted to identify articles, which contained details of data mining, signal generation or knowledge discovery in relation to adverse drug reactions or pharmacovigilance in medical databases.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A literature search was conducted to identify articles ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which contained details of data mining ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "signal generation or knowledge discovery in relation to adverse drug reactions or pharmacovigilance in medical databases .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "ADEs are common and result in significant mortality, and despite existing systems drugs have been withdrawn due to ADEs many years after licensing. Knowledge discovery in databases (KDD) is a technique which may be used to detect potential ADEs more efficiently. KDD involves the selection of data variables and databases, data preprocessing, data mining and data interpretation and utilization. Data mining encompasses a number of statistical techniques including cluster analysis, link analysis, deviation detection and disproportionality assessment which can be utilized to determine the presence of and to assess the strength of ADE signals. Currently the only data mining methods to be used in pharmacovigilance are those of disproportionality, such as the Proportional Reporting Ratio and Information Component, which have been used to analyse the UK Yellow Card Scheme spontaneous reporting database and the WHO Uppsala Monitoring Centre database. The association of pericarditis with practolol but not with other b-blockers, the association of captopril and other angiotensin-converting enzymes with cough, and the association of terfenadine with heart rate and rhythm disorders could be identified by mining the WHO database.",
+      "sentences": [
+        [
+          {
+            "segment_text": "ADEs are common and result in significant mortality ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and despite existing systems drugs have been withdrawn due to ADEs many years after licensing .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Knowledge discovery in databases ( KDD ) is a technique which may be used to detect potential ADEs more efficiently .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "KDD involves the selection of data variables and databases ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "data preprocessing , data mining and data interpretation and utilization .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Data mining encompasses a number of statistical techniques including cluster analysis ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "link analysis , deviation detection and disproportionality assessment which can be utilized to determine the presence of and to assess the strength of ADE signals .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Currently the only data mining methods to be used in pharmacovigilance are those of disproportionality ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "such as the Proportional Reporting Ratio and Information Component ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which have been used to analyse the UK Yellow Card Scheme spontaneous reporting database and the WHO Uppsala Monitoring Centre database .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The association of pericarditis with practolol but not with other b-blockers ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the association of captopril and other angiotensin-converting enzymes with cough ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the association of terfenadine with heart rate and rhythm disorders could be identified by mining the WHO database .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In view of the importance of ADEs and the development of massive data storage systems and powerful computer systems, the use of data mining techniques in knowledge discovery in medical databases is likely to be of increasing impor tance in the process of pharmacovigilance as they are likely to be able to detect signals earlier than using current methods.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In view of the importance of ADEs and the development of massive data storage systems and powerful computer systems ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the use of data mining techniques in knowledge discovery in medical databases is likely to be of increasing impor tance in the process of pharmacovigilance as they are likely to be able to detect signals earlier than using current methods .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "9",
+    "segment_num": "19",
+    "token_num": "316"
+  }
+}

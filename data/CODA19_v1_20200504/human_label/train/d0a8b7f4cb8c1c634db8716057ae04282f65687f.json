@@ -1,0 +1,107 @@
+{
+  "paper_id": "d0a8b7f4cb8c1c634db8716057ae04282f65687f",
+  "metadata": {
+    "title": "Evolutionarily Conserved Herpesviral Protein Interaction Networks",
+    "coda_data_split": "train",
+    "coda_paper_id": 9037,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Herpesviruses constitute a family of large DNA viruses widely spread in vertebrates and causing a variety of different diseases. They possess dsDNA genomes ranging from 120 to 240 kbp encoding between 70 to 170 open reading frames. We previously reported the protein interaction networks of two herpesviruses, varicella-zoster virus (VZV) and Kaposi\u0027s sarcoma-associated herpesvirus (KSHV). In this study, we systematically tested three additional herpesvirus species, herpes simplex virus 1 (HSV-1), murine cytomegalovirus and Epstein-Barr virus, for protein interactions in order to be able to perform a comparative analysis of all three herpesvirus subfamilies. We identified 735 interactions by genome-wide yeasttwo-hybrid screens (Y2H), and, together with the interactomes of VZV and KSHV, included a total of 1,007 intraviral protein interactions in the analysis. Whereas a large number of interactions have not been reported previously, we were able to identify a core set of highly conserved protein interactions, like the interaction between HSV-1 UL33 with the nuclear egress proteins UL31/UL34. Interactions were conserved between orthologous proteins despite generally low sequence similarity, suggesting that function may be more conserved than sequence. By combining interactomes of different species we were able to systematically address the low coverage of the Y2H system and to extract biologically relevant interactions which were not evident from single species.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Herpesviruses constitute a family of large DNA viruses widely spread in vertebrates and causing a variety of different diseases .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "They possess dsDNA genomes ranging from 120 to 240 kbp encoding between 70 to 170 open reading frames .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We previously reported the protein interaction networks of two herpesviruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "varicella-zoster virus ( VZV ) and Kaposi \u0027s sarcoma-associated herpesvirus ( KSHV ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we systematically tested three additional herpesvirus species ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "herpes simplex virus 1 ( HSV-1 ) ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "murine cytomegalovirus and Epstein-Barr virus ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "for protein interactions in order to be able to perform a comparative analysis of all three herpesvirus subfamilies .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We identified 735 interactions by genome-wide yeasttwo-hybrid screens ( Y2H ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and , together with the interactomes of VZV and KSHV ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "included a total of 1,007 intraviral protein interactions in the analysis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Whereas a large number of interactions have not been reported previously ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we were able to identify a core set of highly conserved protein interactions ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "like the interaction between HSV-1 UL33 with the nuclear egress proteins UL31/UL34 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Interactions were conserved between orthologous proteins despite generally low sequence similarity ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "suggesting that function may be more conserved than sequence .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "By combining interactomes of different species we were able to systematically address the low coverage of the Y2H system and to extract biologically relevant interactions which were not evident from single species .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "17",
+    "token_num": "238"
+  }
+}

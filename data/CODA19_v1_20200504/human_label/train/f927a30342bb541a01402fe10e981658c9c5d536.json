@@ -1,0 +1,49 @@
+{
+  "paper_id": "f927a30342bb541a01402fe10e981658c9c5d536",
+  "metadata": {
+    "title": "Identification of cell lines permissive for human coronavirus NL63",
+    "coda_data_split": "train",
+    "coda_paper_id": 2503,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Six cell lines routinely used in laboratories were tested for permissiveness to the infection with the newly identified human coronavirus NL63. Two monkey epithelial cell lines, LLC-MK2 and Vero-B4, showed a cytopathic effect (CPE) and clear viral replication, whereas no CPE or replication was observed in human lung fibroblasts MRC-5s. In Rhabdomyosarcoma cells, Madin-Darby-Canine-kidney cells and in an undefined monkey kidney cell line some replication was observed but massive exponential rise in virus yield lacked The results will lead to an improved routine diagnostic algorithm for the detection of the human coronavirus NL63.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Six cell lines routinely used in laboratories were tested for permissiveness to the infection with the newly identified human coronavirus NL63 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Two monkey epithelial cell lines ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "LLC-MK2 and Vero-B4 , showed a cytopathic effect ( CPE ) and clear viral replication ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "whereas no CPE or replication was observed in human lung fibroblasts MRC-5s .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In Rhabdomyosarcoma cells , Madin-Darby-Canine-kidney cells and in an undefined monkey kidney cell line some replication was observed but massive exponential rise in virus yield lacked The results will lead to an improved routine diagnostic algorithm for the detection of the human coronavirus NL63 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "3",
+    "segment_num": "5",
+    "token_num": "102"
+  }
+}

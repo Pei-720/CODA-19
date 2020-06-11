@@ -1,0 +1,49 @@
+{
+  "paper_id": "9172627d76e007ee80e252c0b40204be0d9f09a2",
+  "metadata": {
+    "title": "The phenotypic changes of γ δ T cells in COVID-19 patients",
+    "coda_data_split": "train",
+    "coda_paper_id": 9746,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "A novel pneumonia-associated respiratory syndrome named coronavirus disease-2019 (COVID-19), which caused by SARS-CoV-2 and broken in Wuhan, China in the end of 2019. Unfortunately, there is no specific antiviral agent or vaccine available to treat SARS-CoV-2 infections. Also, information regarding the immunological",
+      "sentences": [
+        [
+          {
+            "segment_text": "A novel pneumonia-associated respiratory syndrome named coronavirus disease-2019 ( COVID-19 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which caused by SARS-CoV-2 and broken in Wuhan ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "China in the end of 2019 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Unfortunately , there is no specific antiviral agent or vaccine available to treat SARS-CoV-2 infections .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Also , information regarding the immunological",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "3",
+    "segment_num": "5",
+    "token_num": "50"
+  }
+}

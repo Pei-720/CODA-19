@@ -1,0 +1,121 @@
+{
+  "paper_id": "3d91cc711f18ce05f6d63c11760e3ff4fd88928a",
+  "metadata": {
+    "title": "Evaluation of Approaches to Identify the Targets of Cellular Immunity on a Proteome-Wide Scale",
+    "coda_data_split": "test",
+    "coda_paper_id": 402,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Vaccine development against malaria and other complex diseases remains a challenge for the scientific community. The recent elucidation of the genome, proteome and transcriptome of many of these complex pathogens provides the basis for rational vaccine design by identifying, on a proteome-wide scale, novel target antigens that are recognized by T cells and antibodies from exposed individuals. However, there is currently no algorithm to effectively identify important target antigens from genome sequence data; this is especially challenging for T cell targets. Furthermore, for some of these pathogens, such as Plasmodium, protein expression using conventional platforms has been problematic but cell-free in vitro transcription translation (IVTT) strategies have recently proved successful. Herein, we report a novel approach for proteome-wide scale identification of the antigenic targets of T cell responses using IVTT products.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Vaccine development against malaria and other complex diseases remains a challenge for the scientific community .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The recent elucidation of the genome ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "proteome and transcriptome of many of these complex pathogens provides the basis for rational vaccine design by identifying ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "on a proteome-wide scale , novel target antigens that are recognized by T cells and antibodies from exposed individuals .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , there is currently no algorithm to effectively identify important target antigens from genome sequence data ; this is especially challenging for T cell targets .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , for some of these pathogens ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as Plasmodium , protein expression using conventional platforms has been problematic but cell-free in vitro transcription translation ( IVTT ) strategies have recently proved successful .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Herein , we report a novel approach for proteome-wide scale identification of the antigenic targets of T cell responses using IVTT products .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Principal Findings: We conducted a series of in vitro and in vivo experiments using IVTT proteins either unpurified, absorbed to carboxylated polybeads, or affinity purified through nickel resin or magnetic beads. In vitro studies in humans using CMV, EBV, and Influenza A virus proteins showed antigen-specific cytokine production in ELIspot and Cytometric Bead Array assays with cells stimulated with purified or unpurified IVTT antigens. In vitro and in vivo studies in mice immunized with the Plasmodium yoelii circumsporozoite DNA vaccine with or without IVTT protein boost showed antigen-specific cytokine production using purified IVTT antigens only. Overall, the nickel resin method of IVTT antigen purification proved optimal in both human and murine systems.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Principal Findings : We conducted a series of in vitro and in vivo experiments using IVTT proteins either unpurified ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "absorbed to carboxylated polybeads , or affinity purified through nickel resin or magnetic beads .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In vitro studies in humans using CMV ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "EBV , and Influenza A virus proteins showed antigen-specific cytokine production in ELIspot and Cytometric Bead Array assays with cells stimulated with purified or unpurified IVTT antigens .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In vitro and in vivo studies in mice immunized with the Plasmodium yoelii circumsporozoite DNA vaccine with or without IVTT protein boost showed antigen-specific cytokine production using purified IVTT antigens only .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Overall , the nickel resin method of IVTT antigen purification proved optimal in both human and murine systems .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Conclusions: This work provides proof of concept for the potential of high-throughput approaches to identify T cell targets of complex parasitic, viral or bacterial pathogens from genomic sequence data, for rational vaccine development against emerging and re-emerging diseases that pose a threat to public health.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Conclusions : This work provides proof of concept for the potential of high-throughput approaches to identify T cell targets of complex parasitic ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "viral or bacterial pathogens from genomic sequence data ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "for rational vaccine development against emerging and re-emerging diseases that pose a threat to public health .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "10",
+    "segment_num": "17",
+    "token_num": "320"
+  }
+}

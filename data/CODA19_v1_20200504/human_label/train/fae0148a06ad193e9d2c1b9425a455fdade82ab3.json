@@ -1,0 +1,93 @@
+{
+  "paper_id": "fae0148a06ad193e9d2c1b9425a455fdade82ab3",
+  "metadata": {
+    "title": "Virus interactions with human signal transduction pathways NIH Public Access",
+    "coda_data_split": "train",
+    "coda_paper_id": 6147,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Viruses depend on their hosts at every stage of their life cycles and must therefore communicate with them via Protein-Protein Interactions (PPIs). To investigate the mechanisms of communication by different viruses, we overlay reported pairwise human-virus PPIs on human signalling pathways. Of 671 pathways obtained from NCI and Reactome databases, 355 are potentially targeted by at least one virus. The majority of pathways are linked to more than one virus. We find evidence supporting the hypothesis that viruses often interact with different proteins depending on the targeted pathway. Pathway analysis indicates overrepresentation of some pathways targeted by viruses. The merged network of the most statistically significant pathways shows several centrally located proteins, which are also hub proteins. Generally, hub proteins are targeted more frequently by viruses. Numerous proteins in virus-targeted pathways are known drug targets, suggesting that these might be exploited as potential new approaches to treatments against multiple viruses.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Viruses depend on their hosts at every stage of their life cycles and must therefore communicate with them via Protein-Protein Interactions ( PPIs ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To investigate the mechanisms of communication by different viruses ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "we overlay reported pairwise human-virus PPIs on human signalling pathways .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Of 671 pathways obtained from NCI and Reactome databases ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "355 are potentially targeted by at least one virus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The majority of pathways are linked to more than one virus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We find evidence supporting the hypothesis that viruses often interact with different proteins depending on the targeted pathway .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Pathway analysis indicates overrepresentation of some pathways targeted by viruses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The merged network of the most statistically significant pathways shows several centrally located proteins ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which are also hub proteins .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Generally , hub proteins are targeted more frequently by viruses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Numerous proteins in virus-targeted pathways are known drug targets ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "suggesting that these might be exploited as potential new approaches to treatments against multiple viruses .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "9",
+    "segment_num": "13",
+    "token_num": "166"
+  }
+}

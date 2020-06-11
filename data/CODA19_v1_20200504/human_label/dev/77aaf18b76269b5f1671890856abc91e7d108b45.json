@@ -1,0 +1,275 @@
+{
+  "paper_id": "77aaf18b76269b5f1671890856abc91e7d108b45",
+  "metadata": {
+    "title": "Quantitative mapping of scientific research-The case of electrical conducting polymer nanocomposite",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1154,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "This study aims to understand knowledge structure both quantitatively and visually by integrating keyword analysis and social network analysis of scientific papers. The methodology proposed in this study is capable of creating a three-dimensional \"Research focus parallelship network\" and a \"Keyword Co-occurrence Network\", together with a two-dimensional knowledge map. The network and knowledge map can be depicted differently by choosing different information for the network actor, i.e. country, institute, paper and keyword, to reflect knowledge structures from macro, to meso, to micro-levels. A total of 223 highly cited papers published by 142 institutes and 26 countries are analyzed in this study. China and the US are the two countries located at the core of knowledge structure and China is ranked no. 1. This quantitative exploration provides a way to unveil important or emerging components in scientific development and also to visualize knowledge; thus an objective evaluation of scientific research is possible for quantitative technology management. drug reactions [32,33], biotechnology [34,35], environmental science [36], condensed matter physics [37], severe acute respiratory syndrome (SARS), tsunami [38,39], and Parkinson\u0027s disease [40]. Also, citation-based analyses together with keyword analysis have been investigated. For example, Kajikawa utilized citation analysis on SCI papers together with clustering papers and analyzing keywords to understand structural change of sustainable energy [41], biomass and bio-fuels [42] and organic LED [43].",
+      "sentences": [
+        [
+          {
+            "segment_text": "This study aims to understand knowledge structure both quantitatively and visually by integrating keyword analysis and social network analysis of scientific papers .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The methodology proposed in this study is capable of creating a three-dimensional `` Research focus parallelship network \u0027\u0027 and a `` Keyword Co-occurrence Network \u0027\u0027 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "together with a two-dimensional knowledge map .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The network and knowledge map can be depicted differently by choosing different information for the network actor ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "i.e. country , institute , paper and keyword ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "to reflect knowledge structures from macro ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "to meso , to micro-levels .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A total of 223 highly cited papers published by 142 institutes and 26 countries are analyzed in this study .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "China and the US are the two countries located at the core of knowledge structure and China is ranked no. 1 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This quantitative exploration provides a way to unveil important or emerging components in scientific development and also to visualize knowledge ; thus an objective evaluation of scientific research is possible for quantitative technology management .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "drug reactions ( 32,33 ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "biotechnology ( 34,35 ) , environmental science ( 36 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "condensed matter physics ( 37 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "severe acute respiratory syndrome ( SARS ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "tsunami ( 38,39 ) , and Parkinson \u0027s disease ( 40 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Also , citation-based analyses together with keyword analysis have been investigated .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "For example , Kajikawa utilized citation analysis on SCI papers together with clustering papers and analyzing keywords to understand structural change of sustainable energy ( 41 ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "biomass and bio-fuels ( 42 ) and organic LED ( 43 ) .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Nanocomposites can be considered solid structures with nanometer-scale dimensional repeat distances between the different phases that constitute the structure. These materials typically consist of an inorganic (host) solid containing an organic component or vice versa [44] . Nanocomposite usually combines nano-dimensional phases with distinct differences in structure, chemistry, and properties. The mechanical, electrical, thermal, optical, electrochemical, catalytic properties of the nanocomposite will differ markedly from that of the component materials [44] . Polymer nanocomposite with nanoparticles added into polymer matrix can enhance its performance, often to a very dramatic degree, by simply capitalizing on the nature and properties of the nanoscale filler, for example, reinforcing a polymer matrix with much stiffer nanoparticles [45] [46] [47] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Nanocomposites can be considered solid structures with nanometer-scale dimensional repeat distances between the different phases that constitute the structure .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These materials typically consist of an inorganic ( host ) solid containing an organic component or vice versa ( 44 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Nanocomposite usually combines nano-dimensional phases with distinct differences in structure , chemistry , and properties .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The mechanical , electrical , thermal ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "optical , electrochemical , catalytic properties of the nanocomposite will differ markedly from that of the component materials ( 44 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Polymer nanocomposite with nanoparticles added into polymer matrix can enhance its performance ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "often to a very dramatic degree ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "by simply capitalizing on the nature and properties of the nanoscale filler ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "for example , reinforcing a polymer matrix with much stiffer nanoparticles ( 45 ) ( 46 ) ( 47 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The electrical properties of nanofilled polymers are exciting areas of research because of the possibility of creating nanocomposites with synergistic and hybrid properties [48] . For example, nanotube/polyphenylene vinylene composites have shown significant increase in electrical conductivity [44] . A large number of new electrical conducting polymer nanocomposites with a synergetic or complementary behavior can be obtained with applications in electronic or nanoelectronic devices, because of the interaction between electron donor and acceptor. Some useful applications of electrical conducting polymer nanocomposites are for example, contacts lubricant applications [49], electromagnetic applications [50], and sensor applications [51] . Some overviews can be found in the literature [52] [53] [54] [55] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "The electrical properties of nanofilled polymers are exciting areas of research because of the possibility of creating nanocomposites with synergistic and hybrid properties ( 48 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "For example , nanotube/polyphenylene vinylene composites have shown significant increase in electrical conductivity ( 44 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A large number of new electrical conducting polymer nanocomposites with a synergetic or complementary behavior can be obtained with applications in electronic or nanoelectronic devices ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "because of the interaction between electron donor and acceptor .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Some useful applications of electrical conducting polymer nanocomposites are for example ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "contacts lubricant applications ( 49 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "electromagnetic applications ( 50 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and sensor applications ( 51 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Some overviews can be found in the literature ( 52 ) ( 53 ) ( 54 ) ( 55 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Despite of the growing importance of electrical conducting polymer nanocomposite, there is no research so far to gather systematic data on the global scientific output of this field. What is available in literature is only, for example, bibliometric study on polymer [56-59], composite material [60] and nanotechnology [61] [62] [63] [64] [65] [66] . Therefore, this study seeks, by a systematic approach, to uncover global scientific output of electrical conducting polymer nanocomposite, together with creation of its science map.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Despite of the growing importance of electrical conducting polymer nanocomposite ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "there is no research so far to gather systematic data on the global scientific output of this field .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "What is available in literature is only ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "for example , bibliometric study on polymer ( 56-59 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "composite material ( 60 ) and nanotechnology ( 61 ) ( 62 ) ( 63 ) ( 64 ) ( 65 ) ( 66 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , this study seeks ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "by a systematic approach , to uncover global scientific output of electrical conducting polymer nanocomposite ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "together with creation of its science map .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "3. Mapping scientific knowledge structure by keyword network",
+      "sentences": [
+        [
+          {
+            "segment_text": "3 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Mapping scientific knowledge structure by keyword network",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "24",
+    "segment_num": "46",
+    "token_num": "659"
+  }
+}

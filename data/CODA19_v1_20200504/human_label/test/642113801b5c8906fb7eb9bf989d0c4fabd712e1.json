@@ -1,0 +1,139 @@
+{
+  "paper_id": "642113801b5c8906fb7eb9bf989d0c4fabd712e1",
+  "metadata": {
+    "title": "Using Modelling to Disentangle the Relative Contributions of Zoonotic and Anthroponotic Transmission: The Case of Lassa Fever",
+    "coda_data_split": "test",
+    "coda_paper_id": 87,
+    "coda_has_expert_labels": true,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Zoonotic infections, which transmit from animals to humans, form the majority of new human pathogens. Following zoonotic transmission, the pathogen may already have, or may acquire, the ability to transmit from human to human. With infections such as Lassa fever (LF), an often fatal, rodent-borne, hemorrhagic fever common in areas of West Africa, rodent-to-rodent, rodent-to-human, human-to-human and even human-to-rodent transmission patterns are possible. Indeed, large hospital-related outbreaks have been reported. Estimating the proportion of transmission due to human-tohuman routes and related patterns (e.g. existence of super-spreaders), in these scenarios is challenging, but essential for planned interventions.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Zoonotic infections , which transmit from animals to humans ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "form the majority of new human pathogens .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Following zoonotic transmission , the pathogen may already have ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "or may acquire , the ability to transmit from human to human .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "With infections such as Lassa fever ( LF ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "an often fatal , rodent-borne ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "hemorrhagic fever common in areas of West Africa ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "rodent-to-rodent , rodent-to-human , human-to-human and even human-to-rodent transmission patterns are possible .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Indeed , large hospital-related outbreaks have been reported .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Estimating the proportion of transmission due to human-tohuman routes and related patterns ( e.g. existence of super-spreaders ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "in these scenarios is challenging ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but essential for planned interventions .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Methodology/Principal Findings: Here, we make use of an innovative modeling approach to analyze data from published outbreaks and the number of LF hospitalized patients to Kenema Government Hospital in Sierra Leone to estimate the likely contribution of human-to-human transmission. The analyses show that almost 20% of the cases at KGH are secondary cases arising from human-to-human transmission. However, we found much of this transmission is associated with a disproportionally large impact of a few individuals (\u0027super-spreaders\u0027), as we found only 5% of human cases result in an effective reproduction number (i.e. the average number of secondary cases per infectious case) w1, with a maximum value up to 12.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Methodology/Principal Findings : Here , we make use of an innovative modeling approach to analyze data from published outbreaks and the number of LF hospitalized patients to Kenema Government Hospital in Sierra Leone to estimate the likely contribution of human-to-human transmission .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The analyses show that almost 20 % of the cases at KGH are secondary cases arising from human-to-human transmission .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , we found much of this transmission is associated with a disproportionally large impact of a few individuals ( ` super-spreaders \u0027 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as we found only 5 % of human cases result in an effective reproduction number ( i.e. the average number of secondary cases per infectious case ) w1 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with a maximum value up to 12 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Conclusions/Significance: This work explains the discrepancy between the sizes of reported LF outbreaks and a clinical perception that human-to-human transmission is low. Future assessment of risks of LF and infection control guidelines should take into account the potentially large impact of super-spreaders in human-to-human transmission. Our work highlights several neglected topics in LF research, the occurrence and nature of super-spreading events and aspects of social behavior in transmission and detection.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Conclusions/Significance : This work explains the discrepancy between the sizes of reported LF outbreaks and a clinical perception that human-to-human transmission is low .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Future assessment of risks of LF and infection control guidelines should take into account the potentially large impact of super-spreaders in human-to-human transmission .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our work highlights several neglected topics in LF research ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the occurrence and nature of super-spreading events and aspects of social behavior in transmission and detection .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "11",
+    "segment_num": "21",
+    "token_num": "320"
+  }
+}

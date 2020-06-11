@@ -1,0 +1,85 @@
+{
+  "paper_id": "958af8f09242ea401aaab56607a20b0db08b02d4",
+  "metadata": {
+    "title": "The Host Interactome of Influenza Virus Presents New Potential Targets for Antiviral Drugs",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1274,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Increasing antiviral drug resistance is a major concern for treating influenza, especially in a pandemic setting when the availability of a protective vaccine is uncertain. Resistance is often an issue with drugs directed at viral proteins and for small RNA viruses there are also a limited number of viral proteins that are amenable to inhibition by a small molecule. A new approach that is gaining support is that cellular proteins, which facilitate virus replication, may be used as alternative targets. Whereas drugs directed at viral proteins tend to be virus-specific, drugs directed at host targets have the potential to have broad-spectrum antiviral activity as many viruses may share a dependency on that host function. For influenza virus, we have very limited knowledge of which cellular factors are involved in virus replication, let alone which of these have suitable properties to serve as drug targets. Through the use of high-throughput RNA interference screens, several studies have addressed this gap in our knowledge. The resulting datasets provide new insight into host pathways that are involved in the influenza virus replication cycle and identify specific host factors in these pathways that may serve as potential targets for future antiviral drug development.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Increasing antiviral drug resistance is a major concern for treating influenza ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "especially in a pandemic setting when the availability of a protective vaccine is uncertain .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Resistance is often an issue with drugs directed at viral proteins and for small RNA viruses there are also a limited number of viral proteins that are amenable to inhibition by a small molecule .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A new approach that is gaining support is that cellular proteins ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which facilitate virus replication , may be used as alternative targets .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Whereas drugs directed at viral proteins tend to be virus-specific ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "drugs directed at host targets have the potential to have broad-spectrum antiviral activity as many viruses may share a dependency on that host function .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "For influenza virus , we have very limited knowledge of which cellular factors are involved in virus replication ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "let alone which of these have suitable properties to serve as drug targets .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Through the use of high-throughput RNA interference screens ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "several studies have addressed this gap in our knowledge .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The resulting datasets provide new insight into host pathways that are involved in the influenza virus replication cycle and identify specific host factors in these pathways that may serve as potential targets for future antiviral drug development .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "12",
+    "token_num": "212"
+  }
+}

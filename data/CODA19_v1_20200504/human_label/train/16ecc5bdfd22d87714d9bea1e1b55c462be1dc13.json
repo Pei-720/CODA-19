@@ -1,0 +1,121 @@
+{
+  "paper_id": "16ecc5bdfd22d87714d9bea1e1b55c462be1dc13",
+  "metadata": {
+    "title": "",
+    "coda_data_split": "train",
+    "coda_paper_id": 2173,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Porcine epidemic diarrhea virus (PEDV) emerged into Canada in January 2014, primarily affecting sow herds. Subsequent epidemiological analyses suggested contaminated feed was the most likely transmission pathway. The primary objective of this study was to describe general biosecurity and management practices implemented in PEDV-positive sow herds and matched control herds at the time the virus emerged. The secondary objective was to determine if any of these general biosecurity and farm management practices were important in explaining PEDV infection status from January 22, 2014 to March 1, 2014. A case herd was defined as a swine herd with clinical signs and a positive test result for PEDV. A questionnaire was used to a gather 30-day history of herd management practices, animal movements on/off site, feed management practices, semen deliveries and biosecurity practices for case (n \u003d 8) and control (n \u003d 12) herds, primarily located in Ontario. Data was analyzed using descriptive statistics and random forests (RFs). Case herds were larger in size than control herds. Case herds had more animal movements and non-staff movements onto the site. Also, case herds had higher quantities of pigs delivered, feed deliveries and semen deliveries on-site. The biosecurity practices of case herds were considered more rigorous based on herd management, feed deliveries, transportation and truck driver practices than control herds. The RF model found that the most important variables for predicting herd status were related to herd size and feed management variables. Nonetheless, predictive accuracy of the final RF model was 72%.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Porcine epidemic diarrhea virus ( PEDV ) emerged into Canada in January 2014 , primarily affecting sow herds .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Subsequent epidemiological analyses suggested contaminated feed was the most likely transmission pathway .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The primary objective of this study was to describe general biosecurity and management practices implemented in PEDV-positive sow herds and matched control herds at the time the virus emerged .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The secondary objective was to determine if any of these general biosecurity and farm management practices were important in explaining PEDV infection status from January 22 ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "2014 to March 1 , 2014 .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "A case herd was defined as a swine herd with clinical signs and a positive test result for PEDV .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A questionnaire was used to a gather 30-day history of herd management practices ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "animal movements on/off site , feed management practices ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "semen deliveries and biosecurity practices for case ( n \u003d 8 ) and control ( n \u003d 12 ) herds , primarily located in Ontario .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Data was analyzed using descriptive statistics and random forests ( RFs ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Case herds were larger in size than control herds .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Case herds had more animal movements and non-staff movements onto the site .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Also , case herds had higher quantities of pigs delivered ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "feed deliveries and semen deliveries on-site .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The biosecurity practices of case herds were considered more rigorous based on herd management ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "feed deliveries , transportation and truck driver practices than control herds .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The RF model found that the most important variables for predicting herd status were related to herd size and feed management variables .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Nonetheless , predictive accuracy of the final RF model was 72 % .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "13",
+    "segment_num": "18",
+    "token_num": "282"
+  }
+}

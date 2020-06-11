@@ -1,0 +1,246 @@
+{
+  "paper_id": "62a87de16c26fdb905173879c56ec19a2879921f",
+  "metadata": {
+    "title": "Blood immune transcriptome analysis of artificially fed dairy calves and naturally suckled beef calves from birth to 7 days of age OPEN",
+    "coda_data_split": "train",
+    "coda_paper_id": 7611,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Neonatal calves possess a very immature and naïve immune system and are reliant on the intake of maternal colostrum for passive transfer of immunoglobulins. Variation in colostrum management of beef and dairy calves is thought to affect early immune development. Therefore, the objective of this study was to examine changes in gene expression and investigate molecular pathways involved in the immune-competence development of neonatal Holstein dairy calves and naturally suckled beef calves using next generation RNA-sequencing during the first week of life. Jugular whole blood samples were collected from Holstein (H) dairy calves (n \u003d 8) artificially fed 5% B.W. colostrum, and from beef calves which were the progenies of Charolais-Limousin (CL; n \u003d 7) and Limousin-Friesian beef suckler cows (LF; n \u003d 7), for subsequent RNA isolation. In dairy calves, there was a surge in pro-inflammatory cytokine gene expression possibly due to the stress of separation from the dam. LF calves exhibited early signs of humoral immune development with observed increases in the expression genes coding for Ig receptors, which was not evident in the other breeds by 7 days of age. Immune and health related DEGs identified as upregulated in beef calves are prospective contender genes for the classification of biomarkers for immune-competence development, and will contribute towards a greater understanding of the development of an immune response in neonatal calves.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Neonatal calves possess a very immature and naïve immune system and are reliant on the intake of maternal colostrum for passive transfer of immunoglobulins .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Variation in colostrum management of beef and dairy calves is thought to affect early immune development .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , the objective of this study was to examine changes in gene expression and investigate molecular pathways involved in the immune-competence development of neonatal Holstein dairy calves and naturally suckled beef calves using next generation RNA-sequencing during the first week of life .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Jugular whole blood samples were collected from Holstein ( H ) dairy calves ( n \u003d 8 ) artificially fed 5 % B.W. colostrum ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and from beef calves which were the progenies of Charolais-Limousin ( CL ; n \u003d 7 ) and Limousin-Friesian beef suckler cows ( LF ; n \u003d 7 ) , for subsequent RNA isolation .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In dairy calves , there was a surge in pro-inflammatory cytokine gene expression possibly due to the stress of separation from the dam .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "LF calves exhibited early signs of humoral immune development with observed increases in the expression genes coding for Ig receptors ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which was not evident in the other breeds by 7 days of age .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Immune and health related DEGs identified as upregulated in beef calves are prospective contender genes for the classification of biomarkers for immune-competence development ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and will contribute towards a greater understanding of the development of an immune response in neonatal calves .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "New-born calves are immunologically naïve at birth, offering the ideal scenario to observe the development of immunocompetence through time. The protection of the womb environment during the pre-partum period, coupled with syndesmochorial placentation, results in a lack of experience to pathogens, meaning that calves are born with an essentially non-functional immune response 1 . Development of immunocompetence in calves relies on successful absorption of maternal colostrum derived immunoglobulins, which in turn is dependent upon successful colostrum management. The importance of colostrum-derived passive immunity, through intestinal absorption of colostral immunoglobulins, to the mortality, morbidity, and subsequent growth and welfare of a newborn calf is recognised internationally 2-5 . Consequently, colostrum feeding management is of critical importance to the health and vitality of the calf, in order to confer protection from the various septicemic and enteric diseases that they are susceptible to in early life 2 . Failure of passive transfer of colostrum derived IgGs (FPT, serum IgG \u003c 10 mg/mL) markedly increases morbidity and mortality in calves 3-5 . There is tremendous variation in the passive immune status of dairy calves 3,6-8 and, generally passive immunity of dairy calves is much lower than beef calves 7 . This difference is primarily attributed to differences in colostrum Ig levels, whereby dairy cows produce relatively large volumes of colostrum with relatively low concentrations of Ig while beef cows produce the opposite 3, 9, 10 . In the suckled beef calf, there are also large differences in passive immunity between cow breed types 3,8 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "New-born calves are immunologically naïve at birth ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "offering the ideal scenario to observe the development of immunocompetence through time .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The protection of the womb environment during the pre-partum period ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "coupled with syndesmochorial placentation , results in a lack of experience to pathogens ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "meaning that calves are born with an essentially non-functional immune response 1 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Development of immunocompetence in calves relies on successful absorption of maternal colostrum derived immunoglobulins ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which in turn is dependent upon successful colostrum management .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The importance of colostrum-derived passive immunity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "through intestinal absorption of colostral immunoglobulins ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "to the mortality , morbidity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and subsequent growth and welfare of a newborn calf is recognised internationally 2-5 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Consequently , colostrum feeding management is of critical importance to the health and vitality of the calf ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "in order to confer protection from the various septicemic and enteric diseases that they are susceptible to in early life 2 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Failure of passive transfer of colostrum derived IgGs ( FPT , serum IgG \u003c 10 mg/mL ) markedly increases morbidity and mortality in calves 3-5 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "There is tremendous variation in the passive immune status of dairy calves 3,6-8 and ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "generally passive immunity of dairy calves is much lower than beef calves 7 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This difference is primarily attributed to differences in colostrum Ig levels ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "whereby dairy cows produce relatively large volumes of colostrum with relatively low concentrations of Ig while beef cows produce the opposite 3 , 9 , 10 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the suckled beef calf ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "there are also large differences in passive immunity between cow breed types 3,8 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The use of a systems approach such as RNA sequencing offers advantages over other molecular based techniques such as microarray, enabling unbiased opportunities towards the profiling of developing immunocompetence using a global unbiased view of relative transcriptomic alterations 11 . Peripheral whole blood samples are commonly used for immunological studies as they are easily obtained and may provide an insight into immune development, particularly when combined with a transcriptomics approach 12 . Previous studies from our group Published: xx xx xxxx OPEN www.nature.com/scientificreports/ 2 ScIenTIfIc REPORTS | (2018) 8:15461 |",
+      "sentences": [
+        [
+          {
+            "segment_text": "The use of a systems approach such as RNA sequencing offers advantages over other molecular based techniques such as microarray ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "enabling unbiased opportunities towards the profiling of developing immunocompetence using a global unbiased view of relative transcriptomic alterations 11 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Peripheral whole blood samples are commonly used for immunological studies as they are easily obtained and may provide an insight into immune development ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "particularly when combined with a transcriptomics approach 12 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Previous studies from our group Published : xx xx xxxx OPEN www.nature.com/scientificreports/ 2 ScIenTIfIc REPORTS | ( 2018 ) 8:15461 |",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "have successfully investigated the immune response of two dairy breeds to gradual weaning using whole blood to analyse alterations in the relative abundance of key immune genes 13 . Here, utilizing the whole blood transcriptome of dairy calves in addition to two beef breeds, we aim to elucidate the molecular mechanisms involved in the development of immunocompetence, from birth through the first 7 days of life. Understanding such mechanisms would be a step towards integrating optimum husbandry practices, and to identifying possible biomarkers associated with development of immunocompetence for breeding of superior calves.",
+      "sentences": [
+        [
+          {
+            "segment_text": "have successfully investigated the immune response of two dairy breeds to gradual weaning using whole blood to analyse alterations in the relative abundance of key immune genes 13 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , utilizing the whole blood transcriptome of dairy calves in addition to two beef breeds ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "we aim to elucidate the molecular mechanisms involved in the development of immunocompetence ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "from birth through the first 7 days of life .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Understanding such mechanisms would be a step towards integrating optimum husbandry practices ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and to identifying possible biomarkers associated with development of immunocompetence for breeding of superior calves .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "22",
+    "segment_num": "41",
+    "token_num": "713"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "paper_id": "ebc43d816d42000ef2dbae52769965bca0a27b33",
+  "metadata": {
+    "title": "HIV-1 mutates to evade IFITM1 restriction",
+    "coda_data_split": "test",
+    "coda_paper_id": 268,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Interferon-induced transmembrane (IFITM) proteins inhibit the infection of a wide range of viruses including human immunodeficiency virus type 1 (HIV-1). At present, little is known about how viruses overcome IFITM restriction. In this study, we have utilized HIV-1 as a model and selected IFITM1resistant viruses after multiple passages of HIV-1 in IFITM1-expressing SupT1 cells. Sequencing the entire viral genome revealed several mutations in the vpu and envelope genes, among which mutations Vpu34 and EnvG367E together enable efficient HIV-1 replication in IFITM1-expressing cells. Vpu34 introduces a stop codon at amino acid position 35 of Vpu, whereas EnvG367E changes the G367 residue at the CD4binding site of gp120. These two mutations do not appear to overcome the downregulation of viral p24 expression caused by IFITM1, but rather enhance HIV-1 replication by promoting cell-to-cell virus transmission. Altogether, our data demonstrate that HIV-1 can mutate to evade IFITM1 restriction by increasing cell-to-cell transmission.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Interferon-induced transmembrane ( IFITM ) proteins inhibit the infection of a wide range of viruses including human immunodeficiency virus type 1 ( HIV-1 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "At present , little is known about how viruses overcome IFITM restriction .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we have utilized HIV-1 as a model and selected IFITM1resistant viruses after multiple passages of HIV-1 in IFITM1-expressing SupT1 cells .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Sequencing the entire viral genome revealed several mutations in the vpu and envelope genes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "among which mutations Vpu34 and EnvG367E together enable efficient HIV-1 replication in IFITM1-expressing cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Vpu34 introduces a stop codon at amino acid position 35 of Vpu ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "whereas EnvG367E changes the G367 residue at the CD4binding site of gp120 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These two mutations do not appear to overcome the downregulation of viral p24 expression caused by IFITM1 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but rather enhance HIV-1 replication by promoting cell-to-cell virus transmission .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Altogether , our data demonstrate that HIV-1 can mutate to evade IFITM1 restriction by increasing cell-to-cell transmission .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "10",
+    "token_num": "166"
+  }
+}

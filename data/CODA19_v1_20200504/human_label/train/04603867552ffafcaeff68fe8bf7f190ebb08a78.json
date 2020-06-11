@@ -1,0 +1,107 @@
+{
+  "paper_id": "04603867552ffafcaeff68fe8bf7f190ebb08a78",
+  "metadata": {
+    "title": "Appropriate Models for the Management of Infectious Diseases",
+    "coda_data_split": "train",
+    "coda_paper_id": 4755,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Mathematical models have become invaluable management tools for epidemiologists, both shedding light on the mechanisms underlying observed dynamics as well as making quantitative predictions on the effectiveness of different control measures. Here, we explain how substantial biases are introduced by two important, yet largely ignored, assumptions at the core of the vast majority of such models.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Mathematical models have become invaluable management tools for epidemiologists ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "both shedding light on the mechanisms underlying observed dynamics as well as making quantitative predictions on the effectiveness of different control measures .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we explain how substantial biases are introduced by two important ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "yet largely ignored , assumptions at the core of the vast majority of such models .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "First, we use analytical methods to show that (i) ignoring the latent period or (ii) making the common assumption of exponentially distributed latent and infectious periods (when including the latent period) always results in underestimating the basic reproductive ratio of an infection from outbreak data. We then proceed to illustrate these points by fitting epidemic models to data from an influenza outbreak. Finally, we document how such unrealistic a priori assumptions concerning model structure give rise to systematically overoptimistic predictions on the outcome of potential management options.",
+      "sentences": [
+        [
+          {
+            "segment_text": "First , we use analytical methods to show that ( i ) ignoring the latent period or ( ii ) making the common assumption of exponentially distributed latent and infectious periods ( when including the latent period ) always results in underestimating the basic reproductive ratio of an infection from outbreak data .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We then proceed to illustrate these points by fitting epidemic models to data from an influenza outbreak .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , we document how such unrealistic a priori assumptions concerning model structure give rise to systematically overoptimistic predictions on the outcome of potential management options .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "This work aims to highlight that, when developing models for public health use, we need to pay careful attention to the intrinsic assumptions embedded within classical frameworks.",
+      "sentences": [
+        [
+          {
+            "segment_text": "This work aims to highlight that ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "when developing models for public health use ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we need to pay careful attention to the intrinsic assumptions embedded within classical frameworks .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "PLoS Medicine | www.plosmedicine.org July 2005 | Volume 2 | Issue 7 | e174 0621",
+      "sentences": [
+        [
+          {
+            "segment_text": "PLoS Medicine | www.plosmedicine.org July 2005 | Volume 2 | Issue 7 | e174 0621",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Open access, freely available online PL o S MEDICINE",
+      "sentences": [
+        [
+          {
+            "segment_text": "Open access , freely available online PL o S MEDICINE",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "8",
+    "segment_num": "12",
+    "token_num": "215"
+  }
+}

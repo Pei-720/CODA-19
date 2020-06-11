@@ -1,0 +1,161 @@
+{
+  "paper_id": "fe8ae98f3112f0ecf862177dd5745232b9d1f966",
+  "metadata": {
+    "title": "An Epidemiological Network Model for Disease Outbreak Detection",
+    "coda_data_split": "train",
+    "coda_paper_id": 2698,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Advanced disease-surveillance systems have been deployed worldwide to provide early detection of infectious disease outbreaks and bioterrorist attacks. New methods that improve the overall detection capabilities of these systems can have a broad practical impact. Furthermore, most current generation surveillance systems are vulnerable to dramatic and unpredictable shifts in the health-care data that they monitor. These shifts can occur during major public events, such as the Olympics, as a result of population surges and public closures. Shifts can also occur during epidemics and pandemics as a result of quarantines, the worriedwell flooding emergency departments or, conversely, the public staying away from hospitals for fear of nosocomial infection. Most surveillance systems are not robust to such shifts in health-care utilization, either because they do not adjust baselines and alert-thresholds to new utilization levels, or because the utilization shifts themselves may trigger an alarm. As a result, public-health crises and major public events threaten to undermine health-surveillance systems at the very times they are needed most.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Advanced disease-surveillance systems have been deployed worldwide to provide early detection of infectious disease outbreaks and bioterrorist attacks .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "New methods that improve the overall detection capabilities of these systems can have a broad practical impact .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , most current generation surveillance systems are vulnerable to dramatic and unpredictable shifts in the health-care data that they monitor .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These shifts can occur during major public events ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as the Olympics , as a result of population surges and public closures .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Shifts can also occur during epidemics and pandemics as a result of quarantines ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the worriedwell flooding emergency departments or ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "conversely , the public staying away from hospitals for fear of nosocomial infection .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Most surveillance systems are not robust to such shifts in health-care utilization ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "either because they do not adjust baselines and alert-thresholds to new utilization levels ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "or because the utilization shifts themselves may trigger an alarm .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As a result , public-health crises and major public events threaten to undermine health-surveillance systems at the very times they are needed most .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "To address this challenge, we introduce a class of epidemiological network models that monitor the relationships among different health-care data streams instead of monitoring the data streams themselves. By extracting the extra information present in the relationships between the data streams, these models have the potential to improve the detection capabilities of a system. Furthermore, the models\u0027 relational nature has the potential to increase a system\u0027s robustness to unpredictable baseline shifts. We implemented these models and evaluated their effectiveness using historical emergency department data from five hospitals in a single metropolitan area, recorded over a period of 4.5 y by the Automated Epidemiological Geotemporal Integrated Surveillance real-time public health-surveillance system, developed by the Children\u0027s Hospital Informatics Program at the Harvard-MIT Division of Health Sciences and Technology on behalf of the Massachusetts Department of Public Health. We performed experiments with semi-synthetic outbreaks of different magnitudes and simulated baseline shifts of different types and magnitudes. The results show that the network models provide better detection of localized outbreaks, and greater robustness to unpredictable shifts than a reference time-series modeling approach.",
+      "sentences": [
+        [
+          {
+            "segment_text": "To address this challenge , we introduce a class of epidemiological network models that monitor the relationships among different health-care data streams instead of monitoring the data streams themselves .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "By extracting the extra information present in the relationships between the data streams ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "these models have the potential to improve the detection capabilities of a system .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , the models \u0027 relational nature has the potential to increase a system \u0027s robustness to unpredictable baseline shifts .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We implemented these models and evaluated their effectiveness using historical emergency department data from five hospitals in a single metropolitan area ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "recorded over a period of 4.5 y by the Automated Epidemiological Geotemporal Integrated Surveillance real-time public health-surveillance system ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "developed by the Children \u0027s Hospital Informatics Program at the Harvard-MIT Division of Health Sciences and Technology on behalf of the Massachusetts Department of Public Health .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We performed experiments with semi-synthetic outbreaks of different magnitudes and simulated baseline shifts of different types and magnitudes .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results show that the network models provide better detection of localized outbreaks ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and greater robustness to unpredictable shifts than a reference time-series modeling approach .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The integrated network models of epidemiological data streams and their interrelationships have the potential to improve current surveillance efforts, providing better localized outbreak detection under normal circumstances, as well as more robust performance in the face of shifts in health-care utilization during epidemics and major public events.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The integrated network models of epidemiological data streams and their interrelationships have the potential to improve current surveillance efforts ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "providing better localized outbreak detection under normal circumstances ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as well as more robust performance in the face of shifts in health-care utilization during epidemics and major public events .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "14",
+    "segment_num": "25",
+    "token_num": "423"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "paper_id": "ee5a2fa30113f5c741d4d0b07a1f8f9fad24274e",
+  "metadata": {
+    "title": "Inhibition and Avoidance of mRNA Degradation by RNA Viruses",
+    "coda_data_split": "train",
+    "coda_paper_id": 2440,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The cellular mRNA decay machinery plays a major role in regulating the quality and quantity of gene expression in cells. This machinery involves multiple enzymes and pathways that converge to promote the exonucleolytic decay of mRNAs. The transcripts made by RNA viruses are susceptible to degradation by this machinery and, in fact, can be actively targeted. Thus, to maintain gene expression and replication, RNA viruses have evolved a number of strategies to avoid and/or inactivate aspects of the cellular mRNA decay machinery. Recent work uncovering the mechanisms used by RNA viruses to maintain the stability of their transcripts is described below.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The cellular mRNA decay machinery plays a major role in regulating the quality and quantity of gene expression in cells .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This machinery involves multiple enzymes and pathways that converge to promote the exonucleolytic decay of mRNAs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The transcripts made by RNA viruses are susceptible to degradation by this machinery and ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "in fact , can be actively targeted .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , to maintain gene expression and replication ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "RNA viruses have evolved a number of strategies to avoid and/or inactivate aspects of the cellular mRNA decay machinery .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recent work uncovering the mechanisms used by RNA viruses to maintain the stability of their transcripts is described below .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "7",
+    "token_num": "110"
+  }
+}

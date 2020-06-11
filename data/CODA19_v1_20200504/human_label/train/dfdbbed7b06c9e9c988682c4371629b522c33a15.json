@@ -1,0 +1,71 @@
+{
+  "paper_id": "dfdbbed7b06c9e9c988682c4371629b522c33a15",
+  "metadata": {
+    "title": "Evaluation of an octahydroisochromene scaffold used as a novel SARS 3CL protease inhibitor",
+    "coda_data_split": "train",
+    "coda_paper_id": 10581,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "An octahydroisochromene scaffold has been introduced into a known SARS 3CL protease inhibitor as a novel hydrophobic core to interact with the S2 pocket of the protease. An alkyl or aryl substituent was also introduced at the 1-position of the octahydroisochromene scaffold and expected to introduce additional interactions with the protease. Sharpless-Katsuki asymmetric epoxidation and Sharpless asymmetric dihydroxylation were employed to construct the octahydroisochromene scaffold. The introductions of the P1 site His-al and the substituent at 1-position was achieved using successive reductive amination reactions. Our initial evaluations of the diastereo-isomeric mixtures (16a-d) revealed that the octahydroisochromene moiety functions as a core hydrophobic scaffold for the S2 pocket of the protease and the substituent at the 1-position may form additional interactions with the protease. The inhibitory activities of the diastereoisomerically-pure inhibitors (3a-d) strongly suggest that a specific stereo-isomer of the octahydroisochromene scaffold, (1S, 3S) 3b, directs the P1 site imidazole, the warhead aldehyde, and substituent at the 1-position of the fused ring to their appropriate pockets in the protease.",
+      "sentences": [
+        [
+          {
+            "segment_text": "An octahydroisochromene scaffold has been introduced into a known SARS 3CL protease inhibitor as a novel hydrophobic core to interact with the S2 pocket of the protease .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "An alkyl or aryl substituent was also introduced at the 1-position of the octahydroisochromene scaffold and expected to introduce additional interactions with the protease .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Sharpless-Katsuki asymmetric epoxidation and Sharpless asymmetric dihydroxylation were employed to construct the octahydroisochromene scaffold .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The introductions of the P1 site His-al and the substituent at 1-position was achieved using successive reductive amination reactions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our initial evaluations of the diastereo-isomeric mixtures ( 16a-d ) revealed that the octahydroisochromene moiety functions as a core hydrophobic scaffold for the S2 pocket of the protease and the substituent at the 1-position may form additional interactions with the protease .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The inhibitory activities of the diastereoisomerically-pure inhibitors ( 3a-d ) strongly suggest that a specific stereo-isomer of the octahydroisochromene scaffold ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "( 1S , 3S ) 3b ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "directs the P1 site imidazole ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the warhead aldehyde , and substituent at the 1-position of the fused ring to their appropriate pockets in the protease .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "9",
+    "token_num": "185"
+  }
+}

@@ -1,0 +1,366 @@
+{
+  "paper_id": "014d7df59dc6c5ed456bf19b76b394e920d3a9dc",
+  "metadata": {
+    "title": "Entry of Scotophilus Bat Coronavirus-512 and Severe Acute Respiratory Syndrome Coronavirus in Human and Multiple Animal Cells",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1148,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Bats are natural reservoirs of severe acute respiratory syndrome coronavirus (SARS-CoV) and Middle East respiratory syndrome CoV (MERS-CoV). Scotophilus bat CoV-512 demonstrates potential for cross-species transmission because its viral RNA and specific antibodies have been detected in three bat species of Taiwan. Understanding the cell tropism of Scotophilus bat CoV-512 is the first step for studying the mechanism of cross-species transmission. In this study, a lentivirus-based pseudovirus was produced using the spike (S) protein of Scotophilus bat CoV-512 or SARS-CoV as a surface protein to test the interaction between coronaviral S protein and its cell receptor on 11 different cells. Susceptible cells expressed red fluorescence protein (RFP) after the entry of RFP-bound green fluorescence protein (GFP)-fused S protein of Scotophilus bat CoV-512 (RFP-Sco-S-eGFP) or RFP-SARS-S pseudovirus, and firefly luciferase (FLuc) activity expressed by cells infected with FLuc-Sco-S-eGFP or FLuc-SARS-S pseudovirus was quantified. Scotophilus bat CoV-512 pseudovirus had significantly higher entry efficiencies in Madin Darby dog kidney epithelial cells (MDCK), black flying fox brain cells (Pabr), and rat small intestine epithelial cells (IEC-6). SARS-CoV pseudovirus had significantly higher entry efficiencies in human embryonic kidney epithelial cells (HEK-293T), pig kidney epithelial cells (PK15), and MDCK cells. These findings demonstrated that Scotophilus bat CoV-512 had a broad host range for cross-species transmission like SARS-CoV.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Bats are natural reservoirs of severe acute respiratory syndrome coronavirus ( SARS-CoV ) and Middle East respiratory syndrome CoV ( MERS-CoV ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Scotophilus bat CoV-512 demonstrates potential for cross-species transmission because its viral RNA and specific antibodies have been detected in three bat species of Taiwan .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Understanding the cell tropism of Scotophilus bat CoV-512 is the first step for studying the mechanism of cross-species transmission .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , a lentivirus-based pseudovirus was produced using the spike ( S ) protein of Scotophilus bat CoV-512 or SARS-CoV as a surface protein to test the interaction between coronaviral S protein and its cell receptor on 11 different cells .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Susceptible cells expressed red fluorescence protein ( RFP ) after the entry of RFP-bound green fluorescence protein ( GFP ) - fused S protein of Scotophilus bat CoV-512 ( RFP-Sco-S-eGFP ) or RFP-SARS-S pseudovirus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and firefly luciferase ( FLuc ) activity expressed by cells infected with FLuc-Sco-S-eGFP or FLuc-SARS-S pseudovirus was quantified .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Scotophilus bat CoV-512 pseudovirus had significantly higher entry efficiencies in Madin Darby dog kidney epithelial cells ( MDCK ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "black flying fox brain cells ( Pabr ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and rat small intestine epithelial cells ( IEC-6 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "SARS-CoV pseudovirus had significantly higher entry efficiencies in human embryonic kidney epithelial cells ( HEK-293T ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "pig kidney epithelial cells ( PK15 ) , and MDCK cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These findings demonstrated that Scotophilus bat CoV-512 had a broad host range for cross-species transmission like SARS-CoV .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Bats are the natural reservoirs of SARS-CoV, MERS-CoV, and HCoV-NL63. SARS-CoV and HCoV-NL63 gain cellular entry through angiotensin-converting enzyme 2 (ACE2) [9], whereas MERS-CoV utilizes dipeptidyl peptidase-4 (DPP4) as its entry receptor [10] . The entry receptor is considered a hallmark of coronaviral cross-species transmissibility. SARS-related CoV isolated from Rhinolophus bats can use the ACE2 of humans, civets, and Rhinolophus bats as its cell receptor to infect cells originated from human and many other animal species [11] . Both MERS-CoV and bat CoV-HKU4 can use bat and human DPP4 to infect cells originating from humans, camels, bats, and other animal species [12, 13] and HCoV-NL63 can replicate in the lung cell line from tricolored bats [8] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Bats are the natural reservoirs of SARS-CoV , MERS-CoV , and HCoV-NL63 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "SARS-CoV and HCoV-NL63 gain cellular entry through angiotensin-converting enzyme 2 ( ACE2 ) ( 9 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "whereas MERS-CoV utilizes dipeptidyl peptidase-4 ( DPP4 ) as its entry receptor ( 10 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The entry receptor is considered a hallmark of coronaviral cross-species transmissibility .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "SARS-related CoV isolated from Rhinolophus bats can use the ACE2 of humans ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "civets , and Rhinolophus bats as its cell receptor to infect cells originated from human and many other animal species ( 11 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Both MERS-CoV and bat CoV-HKU4 can use bat and human DPP4 to infect cells originating from humans ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "camels , bats , and other animal species ( 12 , 13 ) and HCoV-NL63 can replicate in the lung cell line from tricolored bats ( 8 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Little information is available regarding cross-species events for animal CoVs. A previous study detected Scotophilus bat CoV-512 in four different bat species along with Miniopterus bat CoV-1A and Rhinolophus SARS-related CoV in Taiwan through the reverse transcription polymerase chain reaction (RT-PCR) [14] . Antibodies specific to the nucleocapsid (N) protein fragments of Scotophilus bat CoV-512 were detected in serum collected from three bat species, namely Scotophilus kuhlii, Miniopterus fuliginosus, and Rhinolophus monoceros [15]. A close relationship and possible gene recombinants between Scotophilus bat CoV-512 and PEDV were observed through sequence alignments [14, 16] . The results of the cell entry assay also indicated that PEDV can infect cells originating from pigs (PK15 and ST), humans (Huh-7 and MRC5), monkeys (Vero) and Tadarida brasiliensis bats (Tb1-Lu) [17] . We selected Scotophilus bat CoV-512 as our study target because it demonstrates the potential of cross-species infection and may play a role in the emergence or transmission of PEDV. Both molecular and serological evidences proved that Scotophilus bat CoV-512 can infect multiple animal species [14, 15] . To investigate host tropisms contributing to cross-species transmission of Scotophilus bat CoV-512, we produced a pseudovirus bearing the full-length spike (S) protein of Scotophilus bat CoV-512 in the envelope (Env) protein-defective, red fluorescence protein (RFP)-expression or luciferase (FLuc)-expression human immunodeficiency virus type 1 (HIV-1) backbone for performing a cell entry assay in 11 different cells from humans, bats, dogs, cats, pigs, rats, and monkeys.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Little information is available regarding cross-species events for animal CoVs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A previous study detected Scotophilus bat CoV-512 in four different bat species along with Miniopterus bat CoV-1A and Rhinolophus SARS-related CoV in Taiwan through the reverse transcription polymerase chain reaction ( RT-PCR ) ( 14 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Antibodies specific to the nucleocapsid ( N ) protein fragments of Scotophilus bat CoV-512 were detected in serum collected from three bat species ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "namely Scotophilus kuhlii , Miniopterus fuliginosus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and Rhinolophus monoceros ( 15 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A close relationship and possible gene recombinants between Scotophilus bat CoV-512 and PEDV were observed through sequence alignments ( 14 , 16 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results of the cell entry assay also indicated that PEDV can infect cells originating from pigs ( PK15 and ST ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "humans ( Huh-7 and MRC5 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "monkeys ( Vero ) and Tadarida brasiliensis bats ( Tb1-Lu ) ( 17 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We selected Scotophilus bat CoV-512 as our study target because it demonstrates the potential of cross-species infection and may play a role in the emergence or transmission of PEDV .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Both molecular and serological evidences proved that Scotophilus bat CoV-512 can infect multiple animal species ( 14 , 15 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "To investigate host tropisms contributing to cross-species transmission of Scotophilus bat CoV-512 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we produced a pseudovirus bearing the full-length spike ( S ) protein of Scotophilus bat CoV-512 in the envelope ( Env ) protein-defective ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "red fluorescence protein ( RFP ) - expression or luciferase ( FLuc ) - expression human immunodeficiency virus type 1 ( HIV-1 ) backbone for performing a cell entry assay in 11 different cells from humans ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "bats , dogs , cats ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "pigs , rats , and monkeys .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Organs were prepared from individual bat and only primary kidney cells from one Eastern bent-winged bat (Miniopterus fuliginosus), named as MFK, were still viable after eight passages for performing a pseudovirus entry assay. Primary kidney cells from one Chestnut bat (Scotophilus kuhlii) and primary lung cells from one Formosa leaf-nosed bat (Hipposideros armiger terasensis) did not maintain their growth after three passages.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Organs were prepared from individual bat and only primary kidney cells from one Eastern bent-winged bat ( Miniopterus fuliginosus ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "named as MFK , were still viable after eight passages for performing a pseudovirus entry assay .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Primary kidney cells from one Chestnut bat ( Scotophilus kuhlii ) and primary lung cells from one Formosa leaf-nosed bat ( Hipposideros armiger terasensis ) did not maintain their growth after three passages .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Lentivirus pseudotyped with the green fluorescence protein (GFP)-fused S protein of Scotophilus bat CoV-512 (Sco-S-eGFP), the S protein of SARS-CoV (SARS-S) or the glycoprotein (G) of vesicular stomatitis virus (VSV-G) was generated to study the cell entry of viruses in 11 different cells. The pseudovirus without the glycoprotein on the surface ( env) was produced as the control of mock infection. The generated pseudoviruses allowed for a single-cycle infection in different cells. After pseudoviruses carrying the transfer plasmid encoding red fluorescent protein (RFP) entered susceptible cells, RFP was expressed and observed under a microscope at 48 h post infection (hpi). Pseudoviruses carrying the transfer plasmid encoding luciferase (FLuc) were generated to quantify the entry efficiencies of pseudoviruses in susceptible cells by measuring luciferase activity at 48 hpi.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Lentivirus pseudotyped with the green fluorescence protein ( GFP ) - fused S protein of Scotophilus bat CoV-512 ( Sco-S-eGFP ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the S protein of SARS-CoV ( SARS-S ) or the glycoprotein ( G ) of vesicular stomatitis virus ( VSV-G ) was generated to study the cell entry of viruses in 11 different cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The pseudovirus without the glycoprotein on the surface ( env ) was produced as the control of mock infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The generated pseudoviruses allowed for a single-cycle infection in different cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "After pseudoviruses carrying the transfer plasmid encoding red fluorescent protein ( RFP ) entered susceptible cells ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "RFP was expressed and observed under a microscope at 48 h post infection ( hpi ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Pseudoviruses carrying the transfer plasmid encoding luciferase ( FLuc ) were generated to quantify the entry efficiencies of pseudoviruses in susceptible cells by measuring luciferase activity at 48 hpi .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "To generate pseudotyped Scotophilus bat CoV-512 (RFP-Sco-S-eGFP), SARS-CoV (RFP-SARS-S), and VSV (RFP-VSV-G), three plasmids were co-transfected into human embryonic kidney epithelial cells (HEK-293T) cells. After 72 h post co-transfection with the packing plasmid (pCMVdeltaR8.91), Pathogens 2019, 8, 259 3 of 21",
+      "sentences": [
+        [
+          {
+            "segment_text": "To generate pseudotyped Scotophilus bat CoV-512 ( RFP-Sco-S-eGFP ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "SARS-CoV ( RFP-SARS-S ) , and VSV ( RFP-VSV-G ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "three plasmids were co-transfected into human embryonic kidney epithelial cells ( HEK-293T ) cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "After 72 h post co-transfection with the packing plasmid ( pCMVdeltaR8 .91 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Pathogens 2019 , 8 , 259 3 of 21",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "transfer plasmid (pLAS2w.RFP-C.Pneo), and plasmid encoding the surface protein (pEGFP-Sco-S, pCMV-SARS-S, and pMD.G), red fluorescence from the expressed RFP was observed in HEK-293T cells producing the RFP-Sco-S-eGFP, RFP-SARS-S, or RFP-VSV-G pseudoviruses. Green fluorescence from the expressed GFP fused with the carboxyl terminal S protein of Scotophilus bat CoV-512 could be observed only in HEK-293T cells producing the RFP-Sco-S-eGFP pseudovirus (Figure 1) . No fluorescence could be observed in HEK-293T cells producing the FLuc-SARS-S or FLuc-VSV-G pseudovirus carrying the transfer plasmid (pLAS2w-Fluc-Ppuro) encoding luciferase. Green fluorescence from the expressed GFP fused to the S protein of Scotophilus bat CoV-512 could be observed in HEK-293T cells producing the FLuc-Sco-S-eGFP pseudovirus.",
+      "sentences": [
+        [
+          {
+            "segment_text": "transfer plasmid ( pLAS2w.RFP-C .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Pneo ) , and plasmid encoding the surface protein ( pEGFP-Sco-S , pCMV-SARS-S , and pMD.G ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "red fluorescence from the expressed RFP was observed in HEK-293T cells producing the RFP-Sco-S-eGFP ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "RFP-SARS-S , or RFP-VSV-G pseudoviruses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Green fluorescence from the expressed GFP fused with the carboxyl terminal S protein of Scotophilus bat CoV-512 could be observed only in HEK-293T cells producing the RFP-Sco-S-eGFP pseudovirus ( Figure 1 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "No fluorescence could be observed in HEK-293T cells producing the FLuc-SARS-S or FLuc-VSV-G pseudovirus carrying the transfer plasmid ( pLAS2w-Fluc-Ppuro ) encoding luciferase .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Green fluorescence from the expressed GFP fused to the S protein of Scotophilus bat CoV-512 could be observed in HEK-293T cells producing the FLuc-Sco-S-eGFP pseudovirus .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "8",
+    "sentence_num": "36",
+    "segment_num": "59",
+    "token_num": "1098"
+  }
+}

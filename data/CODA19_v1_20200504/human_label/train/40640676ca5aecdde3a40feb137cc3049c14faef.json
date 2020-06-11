@@ -1,0 +1,109 @@
+{
+  "paper_id": "40640676ca5aecdde3a40feb137cc3049c14faef",
+  "metadata": {
+    "title": "Modeling the Transmission of Middle East Respirator Syndrome Corona virus in Republic of Korea",
+    "coda_data_split": "train",
+    "coda_paper_id": 3640,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "A. The basic reproduction number R 0 of system (1)",
+      "sentences": [
+        [
+          {
+            "segment_text": "A .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "The basic reproduction number R 0 of system ( 1 )",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Through simple calculation, we can obtain a disease free equilibrium E 1 \u003d (S 1 , 0, 0, 0, 0, R 1 ). Then we use the spectral radius of the next generation matrix (the method proposed by the Van Den Driessche in [1]) to get the expression of R 0 of system (1) . Firstly, only the infected compartments satisfied by the following system are considered:",
+      "sentences": [
+        [
+          {
+            "segment_text": "Through simple calculation , we can obtain a disease free equilibrium E 1 \u003d ( S 1 , 0 , 0 , 0 , 0 , R 1 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Then we use the spectral radius of the next generation matrix ( the method proposed by the Van Den Driessche in ( 1 ) ) to get the expression of R 0 of system ( 1 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Firstly , only the infected compartments satisfied by the following system are considered :",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "where F denotes the rate of appearance of new infection and V denotes the rate of transfer of individuals. Calculating the derivative of F and V about x \u003d (E, A, I, H), respectively. Then substitute initial data(S 0 , E 0 , A 0 , I 0 , H 0 , R 0 ) into variables, we can get:",
+      "sentences": [
+        [
+          {
+            "segment_text": "where F denotes the rate of appearance of new infection and V denotes the rate of transfer of individuals .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Calculating the derivative of F and V about x \u003d ( E , A , I , H ) , respectively .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Then substitute initial data ( S 0 , E 0 , A 0 , I 0 , H 0 , R 0 ) into variables , we can get :",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "and thus",
+      "sentences": [
+        [
+          {
+            "segment_text": "and thus",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "where R 0 is the biggest eigenvalue of matrix F V −1 i.e. R 0 \u003d ρ(F V −1 ). The expression of R 0 is as follows:",
+      "sentences": [
+        [
+          {
+            "segment_text": "where R 0 is the biggest eigenvalue of matrix F V − 1 i.e. R 0 \u003d ρ ( F V − 1 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The expression of R 0 is as follows :",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "11",
+    "segment_num": "11",
+    "token_num": "203"
+  }
+}

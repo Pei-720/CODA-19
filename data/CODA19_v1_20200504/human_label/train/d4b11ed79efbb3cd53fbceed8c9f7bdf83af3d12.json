@@ -1,0 +1,116 @@
+{
+  "paper_id": "d4b11ed79efbb3cd53fbceed8c9f7bdf83af3d12",
+  "metadata": {
+    "title": "The influence of human walking on the flow and airborne transmission in a six-bed isolation room: Tracer gas simulation",
+    "coda_data_split": "train",
+    "coda_paper_id": 4903,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "By performing unsteady CFD simulations using RNG ke 3 model and dynamic mesh technique, this paper investigates how the walking motion of health care worker (HCW) influences gaseous dispersion in a sixbed isolation room with nine downward supplies and six ceiling-level or floor-level exhausts. The flow near and behind HCW is easily affected by HCW motion. The flow disturbance induced by HCW walking with swinging arms and legs is a mixing process. The walking HCW displaces air in front of it and carries air in the wake forwardly, meanwhile pressure difference drives air from two lateral sides into the wake. HCW motion (0e5.4 s) indeed induces a little gaseous dispersion, but the residual flow disturbance after HCW stops (5.4 se25.4 s) induces more gaseous agent spread and it requires more than 30e60 s to approximately recover to the initial state after HCW stops.",
+      "sentences": [
+        [
+          {
+            "segment_text": "By performing unsteady CFD simulations using RNG ke 3 model and dynamic mesh technique ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "this paper investigates how the walking motion of health care worker ( HCW ) influences gaseous dispersion in a sixbed isolation room with nine downward supplies and six ceiling-level or floor-level exhausts .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The flow near and behind HCW is easily affected by HCW motion .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The flow disturbance induced by HCW walking with swinging arms and legs is a mixing process .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The walking HCW displaces air in front of it and carries air in the wake forwardly ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "meanwhile pressure difference drives air from two lateral sides into the wake .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "HCW motion ( 0e5 .4 s ) indeed induces a little gaseous dispersion ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but the residual flow disturbance after HCW stops ( 5.4 se25 .4 s ) induces more gaseous agent spread and it requires more than 30e60 s to approximately recover to the initial state after HCW stops .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Although HCW motion indeed affects airborne transmission, but its effect is less important than ventilation design. No matter with or without HCW motion, the ceiling-level exhausts perform much better in controlling airborne transmission than the floor-level exhausts with the same air change rate (12.9 ACH). Smaller air change rate of 6 ACH experiences higher concentration and more gaseous spread than 12.9 ACH. In contrast to the realistic human walking, the simplified motion of a rectangular block produces stronger flow disturbance. Finally surface heating of HCW produces a stronger thermal body plume and enhances turbulence near HCW, thus slightly strengthens airborne transmission.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Although HCW motion indeed affects airborne transmission ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but its effect is less important than ventilation design .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "No matter with or without HCW motion ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the ceiling-level exhausts perform much better in controlling airborne transmission than the floor-level exhausts with the same air change rate ( 12.9 ACH ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Smaller air change rate of 6 ACH experiences higher concentration and more gaseous spread than 12.9 ACH .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In contrast to the realistic human walking ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the simplified motion of a rectangular block produces stronger flow disturbance .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally surface heating of HCW produces a stronger thermal body plume and enhances turbulence near HCW ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "thus slightly strengthens airborne transmission .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "10",
+    "segment_num": "17",
+    "token_num": "271"
+  }
+}

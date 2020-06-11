@@ -1,0 +1,150 @@
+{
+  "paper_id": "39a1d7e4cf03a63037800c831965232d1d259e0f",
+  "metadata": {
+    "title": "Selective Degradation of Host RNA Polymerase II Transcripts by Influenza A Virus PA-X Host Shutoff Protein",
+    "coda_data_split": "train",
+    "coda_paper_id": 3427,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Influenza A viruses (IAVs) inhibit host gene expression by a process known as host shutoff. Host shutoff limits host innate immune responses and may also redirect the translation apparatus to the production of viral proteins. Multiple IAV proteins regulate host shutoff, including PA-X, a ribonuclease that remains incompletely characterized. We report that PA-X selectively targets host RNA polymerase II (Pol II) transcribed mRNAs, while sparing products of Pol I and Pol III. Interestingly, we show that PA-X can also target Pol II-transcribed RNAs in the nucleus, including non-coding RNAs that are not destined to be translated, and reporter transcripts with RNA hairpin structures that block ribosome loading. Transcript degradation likely occurs in the nucleus, as PA-X is enriched in the nucleus and its nuclear localization correlates with reduction in target RNA levels. Complete degradation of host mRNAs following PA-X-mediated endonucleolytic cleavage is dependent on the host 5\u0027-\u003e3\u0027-exonuclease Xrn1. IAV mRNAs are structurally similar to host mRNAs, but are synthesized and modified at the 3\u0027 end by the action of the viral RNA-dependent RNA polymerase complex. Infection of cells with wild-type IAV or a recombinant PA-X-deficient virus revealed that IAV mRNAs resist PA-X-mediated degradation during infection. At the same time, loss of PA-X resulted in changes in the synthesis of select viral mRNAs and a decrease in viral protein accumulation. Collectively, these results significantly advance our understanding of IAV host shutoff, and suggest that the PA-X causes selective degradation of host mRNAs by discriminating some aspect of Pol II-dependent RNA biogenesis in the nucleus.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Influenza A viruses ( IAVs ) inhibit host gene expression by a process known as host shutoff .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Host shutoff limits host innate immune responses and may also redirect the translation apparatus to the production of viral proteins .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Multiple IAV proteins regulate host shutoff ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including PA-X , a ribonuclease that remains incompletely characterized .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We report that PA-X selectively targets host RNA polymerase II ( Pol II ) transcribed mRNAs ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while sparing products of Pol I and Pol III .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Interestingly , we show that PA-X can also target Pol II-transcribed RNAs in the nucleus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including non-coding RNAs that are not destined to be translated ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and reporter transcripts with RNA hairpin structures that block ribosome loading .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Transcript degradation likely occurs in the nucleus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as PA-X is enriched in the nucleus and its nuclear localization correlates with reduction in target RNA levels .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Complete degradation of host mRNAs following PA-X-mediated endonucleolytic cleavage is dependent on the host 5 \u0027 - \u003e 3 \u0027 - exonuclease Xrn1 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "IAV mRNAs are structurally similar to host mRNAs ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but are synthesized and modified at the 3 \u0027 end by the action of the viral RNA-dependent RNA polymerase complex .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Infection of cells with wild-type IAV or a recombinant PA-X-deficient virus revealed that IAV mRNAs resist PA-X-mediated degradation during infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "At the same time , loss of PA-X resulted in changes in the synthesis of select viral mRNAs and a decrease in viral protein accumulation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Collectively , these results significantly advance our understanding of IAV host shutoff ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and suggest that the PA-X causes selective degradation of host mRNAs by discriminating some aspect of Pol II-dependent RNA biogenesis in the nucleus .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "All viruses depend on host components to convert viral mRNAs into proteins. Several viruses, including influenza A virus, encode factors that trigger RNA destruction. The influenza A virus factor that serves in this capacity is known as PA-X. PA-X limits accumulation of host mRNAs and proteins in infected cells and suppresses host responses to PLOS Pathogens |",
+      "sentences": [
+        [
+          {
+            "segment_text": "All viruses depend on host components to convert viral mRNAs into proteins .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Several viruses , including influenza A virus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "encode factors that trigger RNA destruction .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The influenza A virus factor that serves in this capacity is known as PA-X .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "PA-X limits accumulation of host mRNAs and proteins in infected cells and suppresses host responses to PLOS Pathogens |",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "15",
+    "segment_num": "23",
+    "token_num": "349"
+  }
+}

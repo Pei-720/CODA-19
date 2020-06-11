@@ -1,0 +1,369 @@
+{
+  "paper_id": "e0f1b5a380193e6ff0a4de4d44d74ad309a5dda3",
+  "metadata": {
+    "title": "Cryo-EM structure of the SARS coronavirus spike glycoprotein in complex with its host cell receptor ACE2",
+    "coda_data_split": "train",
+    "coda_paper_id": 8257,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "The trimeric SARS coronavirus (SARS-CoV) surface spike (S) glycoprotein consisting of three S1-S2 heterodimers binds the cellular receptor angiotensin-converting enzyme 2 (ACE2) and mediates fusion of the viral and cellular membranes through a pre-to postfusion conformation transition. Here, we report the structure of the SARS-CoV S glycoprotein in complex with its host cell receptor ACE2 revealed by cryo-electron microscopy (cryo-EM). The complex structure shows that only one receptor-binding domain of the trimeric S glycoprotein binds ACE2 and adopts a protruding \"up\" conformation. In addition, we studied the structures of the SARS-CoV S glycoprotein and its complexes with ACE2 in different in vitro conditions, which may mimic different conformational states of the S glycoprotein during virus entry. Disassociation of the S1-ACE2 complex from some of the prefusion spikes was observed and characterized. We also characterized the rosette-like structures of the clustered SARS-CoV S2 trimers in the postfusion state observed on electron micrographs. Structural comparisons suggested that the SARS-CoV S glycoprotein retains a prefusion architecture after trypsin cleavage into the S1 and S2 subunits and acidic pH treatment. However, binding to the receptor opens up the receptor-binding domain of S1, which could promote the release of the S1-ACE2 complex and S1 monomers from the prefusion spike and trigger the pre-to postfusion conformational transition.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The trimeric SARS coronavirus ( SARS-CoV ) surface spike ( S ) glycoprotein consisting of three S1-S2 heterodimers binds the cellular receptor angiotensin-converting enzyme 2 ( ACE2 ) and mediates fusion of the viral and cellular membranes through a pre-to postfusion conformation transition .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we report the structure of the SARS-CoV S glycoprotein in complex with its host cell receptor ACE2 revealed by cryo-electron microscopy ( cryo-EM ) .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The complex structure shows that only one receptor-binding domain of the trimeric S glycoprotein binds ACE2 and adopts a protruding `` up \u0027\u0027 conformation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , we studied the structures of the SARS-CoV S glycoprotein and its complexes with ACE2 in different in vitro conditions ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which may mimic different conformational states of the S glycoprotein during virus entry .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Disassociation of the S1-ACE2 complex from some of the prefusion spikes was observed and characterized .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also characterized the rosette-like structures of the clustered SARS-CoV S2 trimers in the postfusion state observed on electron micrographs .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Structural comparisons suggested that the SARS-CoV S glycoprotein retains a prefusion architecture after trypsin cleavage into the S1 and S2 subunits and acidic pH treatment .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , binding to the receptor opens up the receptor-binding domain of S1 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which could promote the release of the S1-ACE2 complex and S1 monomers from the prefusion spike and trigger the pre-to postfusion conformational transition .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The global outbreak of SARS in 2002-2003 was caused by infection by a human coronavirus, SARS-CoV. Although the virus has been extensively studied with regard to epidemiology, virology, clinical features and other aspects, there are still no approved antiviral drugs and vaccines to treat and prevent infections of SARS-CoV. The spike (S) glycoprotein of PLOS Pathogens | https://doi.Cryo-EM structure of the SARS coronavirus spike glycoprotein in complex with its host cell receptor ACE2. PLoS Pathog 14(8): e1007236. https://doi. Data Availability Statement: The coordinates and EM maps have been deposited into the Protein Data Bank and the EM Data Bank with the accession numbers: 6ACG, 6ACJ, 6ACK, 6ACD, 6ACC, EMD-9591, EMD-9593, EMD-9594, EMD-9589, EMD-9588, EMD-9598, EMD-9597, EMD-9595, EMD-9596, EMD-9585, EMD-9586, EMD-9587, EMD-9584 and EMD-9583.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The global outbreak of SARS in 2002-2003 was caused by infection by a human coronavirus , SARS-CoV .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although the virus has been extensively studied with regard to epidemiology ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "virology , clinical features and other aspects ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "there are still no approved antiviral drugs and vaccines to treat and prevent infections of SARS-CoV .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The spike ( S ) glycoprotein of PLOS Pathogens | https://doi.Cryo-EM structure of the SARS coronavirus spike glycoprotein in complex with its host cell receptor ACE2 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "PLoS Pathog 14 ( 8 ) : e1007236 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "https://doi .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Data Availability Statement : The coordinates and EM maps have been deposited into the Protein Data Bank and the EM Data Bank with the accession numbers : 6ACG ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "6ACJ , 6ACK , 6ACD ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "6ACC , EMD-9591 , EMD-9593 ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "EMD-9594 , EMD-9589 , EMD-9588 ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "EMD-9598 , EMD-9597 , EMD-9595 ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "EMD-9596 , EMD-9585 , EMD-9586 ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "EMD-9587 , EMD-9584 and EMD-9583 .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "the coronavirus, responsible for host cell attachment and mediating host cell membrane and viral membrane fusion during infection, is key to the viral life cycle and a major target for antiviral drugs and vaccines. In this study, we report the structures of different conformational states of the SARS-CoV S glycoprotein during virus entry. Specifically, we found that the S glycoprotein retains the prefusion trimer structure after trypsin cleavage and low-pH treatment. Additionally, binding with host cell receptor ACE2 promotes the release of S1 subunits from the S trimer and triggers the pre-to postfusion conformational transition. Our results provide new insights for understanding the mechanisms involved in coronavirus S glycoprotein-mediated virus entry.",
+      "sentences": [
+        [
+          {
+            "segment_text": "the coronavirus , responsible for host cell attachment and mediating host cell membrane and viral membrane fusion during infection ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "is key to the viral life cycle and a major target for antiviral drugs and vaccines .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we report the structures of different conformational states of the SARS-CoV S glycoprotein during virus entry .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Specifically , we found that the S glycoprotein retains the prefusion trimer structure after trypsin cleavage and low-pH treatment .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Additionally , binding with host cell receptor ACE2 promotes the release of S1 subunits from the S trimer and triggers the pre-to postfusion conformational transition .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our results provide new insights for understanding the mechanisms involved in coronavirus S glycoprotein-mediated virus entry .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Coronaviruses are a family of large, enveloped, positive-stranded RNA viruses that cause upper respiratory, gastrointestinal and central nervous system diseases in humans and other animals [1] . Human coronaviruses HCoV-OC43, HCoV-229E, HCoV-NL63 and HCoV-HKU1 circulate in humans and cause mild respiratory diseases [2] . However, the outbreak of SARS-CoV in 2002 and MERS-CoV in 2012 showed that coronaviruses can cross the species barrier and emerge as highly pathogenic viruses [3] . The high fatality rate and wide spread of these new emerging coronaviruses indicate that they are a severe threat to global health.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Coronaviruses are a family of large ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "enveloped , positive-stranded RNA viruses that cause upper respiratory ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "gastrointestinal and central nervous system diseases in humans and other animals ( 1 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Human coronaviruses HCoV-OC43 , HCoV-229E ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "HCoV-NL63 and HCoV-HKU1 circulate in humans and cause mild respiratory diseases ( 2 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the outbreak of SARS-CoV in 2002 and MERS-CoV in 2012 showed that coronaviruses can cross the species barrier and emerge as highly pathogenic viruses ( 3 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The high fatality rate and wide spread of these new emerging coronaviruses indicate that they are a severe threat to global health .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The spike (S) glycoprotein of the coronavirus is a class I viral fusion protein located on the outer envelope of the virion that plays a critical role in viral infection by recognizing host cell receptors and mediating fusion of the viral and cellular membranes [4] . The coronavirus S glycoprotein is synthesized as a precursor protein consisting of~1,300 amino acids that is then cleaved into an amino (N)-terminal S1 subunit (~700 amino acids) and a carboxyl (C)-terminal S2 subunit (~600 amino acids). Three S1/S2 heterodimers assemble to form a trimer spike protruding from the viral envelope. The S1 subunit contains a receptor-binding domain (RBD), while the S2 subunit contains a hydrophobic fusion peptide and two heptad repeat regions. Triggered by receptor binding, proteolytic processing and/or acidic pH in the cellular compartments, the class I viral fusion protein undergoes a transition from a metastable prefusion state to a stable postfusion state during infection, in which the receptor-binding subunit is cleaved, and the fusion subunit undergoes large-scale conformational rearrangements to expose the hydrophobic fusion peptide, induce the formation of a six-helix bundle, and bring the viral and cellular membranes close for fusion [5] . Coronavirus S glycoprotein features two distinct protease cleavage sites. The S1/S2 cleavage site of the SARS-CoV S glycoprotein is located after residue 667 of the precursor protein, whereas the S2\u0027 cleavage site of the SARS-CoV S glycoprotein is on the S2 subunit and is 130 amino acids from the N terminus of the S2 subunit [6] [7] [8] . The S1/S2 cleavage site is located in a flexible loop of residues 660-675 that is completely exposed in the prefusion S1-S2 trimer spike. The S2\u0027 cleavage site of the SARS-CoV S glycoprotein is highly conserved among coronaviruses and is completely buried in the prefusion SARS-CoV S glycoprotein [6] [7] [8] . Cleavage of the S2\u0027 site by host cell proteases is required for successful infection by 9] . However, the mechanisms involved in exposure and cleavage of the S2\u0027 cleavage site are not well understood. Structural biology studies, especially recent cryo-electron microscopy (cryo-EM) studies, have advanced our understanding of the role of the coronavirus S glycoprotein in virus entry. S glycoprotein structures in the prefusion state have been reported for members from the Alphacoronavirus genus (HCoV-NL63), Betacoronavirus genus (mouse hepatitis virus (MHV), HKU1, SARS-CoV and MERS-CoV), Gammacoronavirus genus (IBV), and Deltacoronavirus genus (PdCoV) [7, [10] [11] [12] [13] [14] [15] [16] [17] . Prefusion Structure of the SARS coronavirus spike glycoprotein and ACE2 complex PLOS Pathogens | https://doi.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The spike ( S ) glycoprotein of the coronavirus is a class I viral fusion protein located on the outer envelope of the virion that plays a critical role in viral infection by recognizing host cell receptors and mediating fusion of the viral and cellular membranes ( 4 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The coronavirus S glycoprotein is synthesized as a precursor protein consisting of ~ 1,300 amino acids that is then cleaved into an amino ( N ) - terminal S1 subunit ( ~ 700 amino acids ) and a carboxyl ( C ) - terminal S2 subunit ( ~ 600 amino acids ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Three S1/S2 heterodimers assemble to form a trimer spike protruding from the viral envelope .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The S1 subunit contains a receptor-binding domain ( RBD ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "while the S2 subunit contains a hydrophobic fusion peptide and two heptad repeat regions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Triggered by receptor binding , proteolytic processing and/or acidic pH in the cellular compartments ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the class I viral fusion protein undergoes a transition from a metastable prefusion state to a stable postfusion state during infection ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "in which the receptor-binding subunit is cleaved ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and the fusion subunit undergoes large-scale conformational rearrangements to expose the hydrophobic fusion peptide ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "induce the formation of a six-helix bundle ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and bring the viral and cellular membranes close for fusion ( 5 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Coronavirus S glycoprotein features two distinct protease cleavage sites .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The S1/S2 cleavage site of the SARS-CoV S glycoprotein is located after residue 667 of the precursor protein ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "whereas the S2 \u0027 cleavage site of the SARS-CoV S glycoprotein is on the S2 subunit and is 130 amino acids from the N terminus of the S2 subunit ( 6 ) ( 7 ) ( 8 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The S1/S2 cleavage site is located in a flexible loop of residues 660-675 that is completely exposed in the prefusion S1-S2 trimer spike .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The S2 \u0027 cleavage site of the SARS-CoV S glycoprotein is highly conserved among coronaviruses and is completely buried in the prefusion SARS-CoV S glycoprotein ( 6 ) ( 7 ) ( 8 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Cleavage of the S2 \u0027 site by host cell proteases is required for successful infection by 9 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the mechanisms involved in exposure and cleavage of the S2 \u0027 cleavage site are not well understood .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Structural biology studies , especially recent cryo-electron microscopy ( cryo-EM ) studies ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "have advanced our understanding of the role of the coronavirus S glycoprotein in virus entry .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "S glycoprotein structures in the prefusion state have been reported for members from the Alphacoronavirus genus ( HCoV-NL63 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Betacoronavirus genus ( mouse hepatitis virus ( MHV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "HKU1 , SARS-CoV and MERS-CoV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Gammacoronavirus genus ( IBV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and Deltacoronavirus genus ( PdCoV ) ( 7 , ( 10 ) ( 11 ) ( 12 ) ( 13 ) ( 14 ) ( 15 ) ( 16 ) ( 17 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Prefusion Structure of the SARS coronavirus spike glycoprotein and ACE2 complex PLOS Pathogens | https://doi .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "37",
+    "segment_num": "63",
+    "token_num": "1133"
+  }
+}

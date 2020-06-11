@@ -1,0 +1,334 @@
+{
+  "paper_id": "61722c462b054f36461375e96e502cbf22648c04",
+  "metadata": {
+    "title": "2 convergent Research center for emerging Virus infection",
+    "coda_data_split": "train",
+    "coda_paper_id": 3973,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "and subtropical countries and is a significant public health concern and socioeconomic burden. There is an urgent need to develop antivirals that can effectively reduce dengue virus (DENV) replication and decrease viral load. Niclosamide, an antiparasitic drug approved for human use, has been recently identified as an effective antiviral agent against a number of pH-dependent viruses, including flaviviruses. Here, we reveal that neutralization of low-pH intracellular compartments by niclosamide affects multiple steps of the DENV infectious cycle. Specifically, niclosamide-induced endosomal neutralization not only prevents viral RNA replication but also affects the maturation of DENV particles, rendering them non-infectious. We found that niclosamide-induced endosomal neutralization prevented E glycoprotein conformational changes on the virion surface of flaviviruses, resulting in the release of non-infectious immature virus particles with uncleaved pr peptide from host cells. Collectively, our findings support the potential application of niclosamide as an antiviral agent against flavivirus infection and highlight a previously uncharacterized mechanism of action of the drug.",
+      "sentences": [
+        [
+          {
+            "segment_text": "and subtropical countries and is a significant public health concern and socioeconomic burden .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "There is an urgent need to develop antivirals that can effectively reduce dengue virus ( DENV ) replication and decrease viral load .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Niclosamide , an antiparasitic drug approved for human use ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "has been recently identified as an effective antiviral agent against a number of pH-dependent viruses , including flaviviruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we reveal that neutralization of low-pH intracellular compartments by niclosamide affects multiple steps of the DENV infectious cycle .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Specifically , niclosamide-induced endosomal neutralization not only prevents viral RNA replication but also affects the maturation of DENV particles , rendering them non-infectious .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We found that niclosamide-induced endosomal neutralization prevented E glycoprotein conformational changes on the virion surface of flaviviruses ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "resulting in the release of non-infectious immature virus particles with uncleaved pr peptide from host cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Collectively , our findings support the potential application of niclosamide as an antiviral agent against flavivirus infection and highlight a previously uncharacterized mechanism of action of the drug .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Dengue virus (DENV) represents a major mosquito-borne pathogen responsible for significant public health and socioeconomic burden in large regions of tropical and subtropical countries 1,2 . There are four distinct serotypes, DENV-1 to DENV-4, that are transmitted mainly by mosquitoes of Aedes species, which continuously spread to new geographical areas around the world 3 . The World Health Organization estimates a prevalence of 50-100 million cases of DENV infection per year; however, a recent global estimate study suggested that 390 million DENV infections occur annually, of which 96 million cases have clear symptoms 2 . DENV infection causes a wide range of clinical symptoms, from acute febrile illness (dengue fever) to life-threatening haemorrhagic fever/dengue shock syndrome 1 . To date, clinically approved therapeutic options for treating DENV-infected patients are still lacking.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Dengue virus ( DENV ) represents a major mosquito-borne pathogen responsible for significant public health and socioeconomic burden in large regions of tropical and subtropical countries 1,2 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "There are four distinct serotypes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "DENV-1 to DENV-4 , that are transmitted mainly by mosquitoes of Aedes species ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which continuously spread to new geographical areas around the world 3 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The World Health Organization estimates a prevalence of 50-100 million cases of DENV infection per year ; however ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a recent global estimate study suggested that 390 million DENV infections occur annually ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "of which 96 million cases have clear symptoms 2 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "DENV infection causes a wide range of clinical symptoms ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "from acute febrile illness ( dengue fever ) to life-threatening haemorrhagic fever/dengue shock syndrome 1 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To date , clinically approved therapeutic options for treating DENV-infected patients are still lacking .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "DENV is an enveloped, single-stranded, positive-sense RNA virus that belongs to Flavivirus genus in the family Flaviviridae 4 . The genus Flavivirus comprises many important emerging arboviruses including Japanese encephalitis virus, West Nile virus and Zika virus (ZIKV). Recently, ZIKV infection has emerged as a global public health concern due to its association with newborn microcephaly 5,6 and neurological sequelae such as Guillain-Barré syndrome, meningoencephalitis, and myelitis in infected adults 6-10 . The flavivirus genome is approximately 11 kb in length and encodes a polyprotein that is processed into three structural (capsid [C], premembrane [prM], and envelope [E]) and seven non-structural proteins (NS1, NS2A, NS2B, NS3, NS4A, NS4B, www.nature.com/scientificreports www.nature.com/scientificreports/ and NS5) by cellular and viral proteases 11,12 . Flavivirus infection is initiated by attachment of the virus to a cellular receptor on the plasma membrane followed by receptor-mediated endocytosis and transportation of viral particles to endosomes 13, 14 . Viral membrane fusion with the endosomal membrane is triggered upon exposure of the virus to the low-pH environment of endosomes, through which the viral genome is released into the cytoplasm 15-19 . Following RNA replication and protein translation, immature virions containing prM proteins are assembled within the endoplasmic reticulum (ER) and mature through passaging the acidic environment of the trans-Golgi network (TGN), wherein E proteins undergo conformational changes and the pr peptides are cleaved by furin endoproteases, after which progeny virions are released from the host cell 20-24 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "DENV is an enveloped , single-stranded ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "positive-sense RNA virus that belongs to Flavivirus genus in the family Flaviviridae 4 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The genus Flavivirus comprises many important emerging arboviruses including Japanese encephalitis virus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "West Nile virus and Zika virus ( ZIKV ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recently , ZIKV infection has emerged as a global public health concern due to its association with newborn microcephaly 5,6 and neurological sequelae such as Guillain-Barré syndrome ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "meningoencephalitis , and myelitis in infected adults 6-10 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The flavivirus genome is approximately 11 kb in length and encodes a polyprotein that is processed into three structural ( capsid ( C ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "premembrane ( prM ) , and envelope ( E ) ) and seven non-structural proteins ( NS1 , NS2A , NS2B , NS3 , NS4A , NS4B , www.nature.com/scientificreports www.nature.com/scientificreports/ and NS5 ) by cellular and viral proteases 11,12 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Flavivirus infection is initiated by attachment of the virus to a cellular receptor on the plasma membrane followed by receptor-mediated endocytosis and transportation of viral particles to endosomes 13 , 14 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Viral membrane fusion with the endosomal membrane is triggered upon exposure of the virus to the low-pH environment of endosomes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "through which the viral genome is released into the cytoplasm 15-19 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Following RNA replication and protein translation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "immature virions containing prM proteins are assembled within the endoplasmic reticulum ( ER ) and mature through passaging the acidic environment of the trans-Golgi network ( TGN ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "wherein E proteins undergo conformational changes and the pr peptides are cleaved by furin endoproteases ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "after which progeny virions are released from the host cell 20-24 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "It is well established that neutralization of the acidic TGN environment prevents furin cleavage, resulting in immature particles containing uncleaved prM proteins [25] [26] [27] . These immature particles are non-infectious since the uncleaved prM peptides block the low-pH-induced conformational changes of the viral E proteins essential for binding to the cell surface as well as membrane fusion of the virus during entry 23, 26, 28, 29 . Thus, several studies have shown that lysosomotropic agents, such as chloroquine, exert modest antiviral effects against pH-dependent viruses, including flaviviruses, by interfering with endosomal fusion and furin-dependent maturation in vivo and in vitro 23,30-32 . Recently, niclosamide, a U.S. Food and Drug Administration (FDA)-approved antiparasitic drug used in humans 33-35 , has been identified as an effective antiviral agent against a number of pH-dependent viruses, such as human rhinoviruses and influenza virus 36 , severe acute respiratory syndrome-coronavirus 37 , Chikungunya virus 38 , and flaviviruses [39] [40] [41] . These studies suggested that the broad antiviral activity of niclosamide is associated with neutralization of endo-lysosomal pH that interferes with pH-dependent membrane fusion which is a critical step for virus entry 36 . In a recent study, Kao et al. 41 , determined the inhibitory role of endosomal deacidification in DENV viral genome replication and uncoating but not in later steps of the viral life cycle. Therefore, the possible effect of niclosamide-induced neutralization of endosomal compartments on later stages of the DENV infectious cycle remains to be elucidated.",
+      "sentences": [
+        [
+          {
+            "segment_text": "It is well established that neutralization of the acidic TGN environment prevents furin cleavage ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "resulting in immature particles containing uncleaved prM proteins ( 25 ) ( 26 ) ( 27 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These immature particles are non-infectious since the uncleaved prM peptides block the low-pH-induced conformational changes of the viral E proteins essential for binding to the cell surface as well as membrane fusion of the virus during entry 23 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "26 , 28 , 29 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , several studies have shown that lysosomotropic agents ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as chloroquine , exert modest antiviral effects against pH-dependent viruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including flaviviruses , by interfering with endosomal fusion and furin-dependent maturation in vivo and in vitro 23,30-32 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recently , niclosamide , a U.S. Food and Drug Administration ( FDA ) - approved antiparasitic drug used in humans 33-35 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "has been identified as an effective antiviral agent against a number of pH-dependent viruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as human rhinoviruses and influenza virus 36 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "severe acute respiratory syndrome-coronavirus 37 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Chikungunya virus 38 , and flaviviruses ( 39 ) ( 40 ) ( 41 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These studies suggested that the broad antiviral activity of niclosamide is associated with neutralization of endo-lysosomal pH that interferes with pH-dependent membrane fusion which is a critical step for virus entry 36 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In a recent study , Kao et al. 41 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "determined the inhibitory role of endosomal deacidification in DENV viral genome replication and uncoating but not in later steps of the viral life cycle .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , the possible effect of niclosamide-induced neutralization of endosomal compartments on later stages of the DENV infectious cycle remains to be elucidated .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In this study, we investigated and confirmed that the neutralization of low-pH intracellular compartments by niclosamide affects multiple steps of the DENV infectious cycle. Our data indicate that niclosamide-induced endosomal neutralization prevents viral genome release and replication as well as maturation of DENV particles rendering it non-infectious. Specifically, we found that niclosamide-induced endosomal neutralization blocks conformational changes of E glycoproteins on the virion surface of both DENV and ZIKV, resulting in the release of immature virus particles with uncleaved pr peptide and preventing them from infecting new host cells. Collectively, our findings support the potential application of niclosamide as an antiviral agent against flavivirus infection and highlight a previously uncharacterized mechanism of action of the drug.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this study , we investigated and confirmed that the neutralization of low-pH intracellular compartments by niclosamide affects multiple steps of the DENV infectious cycle .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our data indicate that niclosamide-induced endosomal neutralization prevents viral genome release and replication as well as maturation of DENV particles rendering it non-infectious .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Specifically , we found that niclosamide-induced endosomal neutralization blocks conformational changes of E glycoproteins on the virion surface of both DENV and ZIKV ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "resulting in the release of immature virus particles with uncleaved pr peptide and preventing them from infecting new host cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Collectively , our findings support the potential application of niclosamide as an antiviral agent against flavivirus infection and highlight a previously uncharacterized mechanism of action of the drug .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Scientific RepoRts | (2019) 9:8682 | https://doi.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Scientific RepoRts | ( 2019 ) 9:8682 | https://doi .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "6",
+    "sentence_num": "31",
+    "segment_num": "56",
+    "token_num": "1006"
+  }
+}

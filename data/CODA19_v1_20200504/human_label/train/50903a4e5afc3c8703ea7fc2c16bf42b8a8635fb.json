@@ -1,0 +1,111 @@
+{
+  "paper_id": "50903a4e5afc3c8703ea7fc2c16bf42b8a8635fb",
+  "metadata": {
+    "title": "A model to predict SARS-CoV-2 infection based on the first three- month surveillance data in Brazil",
+    "coda_data_split": "train",
+    "coda_paper_id": 10048,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: COVID-19 diagnosis is a critical problem, mainly due to the lack or delay in the test results. We aimed to obtain a model to predict SARS-CoV-2 infection in suspected patients reported to the Brazilian surveillance system. Methods: We analyzed suspected patients reported to the National Surveillance System that corresponded to the following case definition: patients with respiratory symptoms and fever, who traveled to regions with local or community transmission or who had close contact with a suspected or confirmed case. Based on variables routinely collected, we obtained a multiple model using logistic regression. The area under the receiver operating characteristic curve (AUC) and accuracy indicators were used for validation. Results: We described 1468 COVID-19 cases (confirmed by RT-PCR) and 4271 patients with other illnesses. With a data subset, including 80% of patients from Sao Paulo (SP) and Rio Janeiro (RJ), we obtained a function which reached an AUC of 95.54% (95% CI: 94.41% -96.67%) for the diagnosis of COVID-19 and accuracy of 90.1% (sensitivity 87.62% and specificity 92.02%). In a validation dataset including the other 20% of patients from SP and RJ, this model exhibited an AUC of 95.01% (92.51% -97.5%) and accuracy of 89.47% (sensitivity 87.32% and specificity 91.36%). Conclusion: We obtained a model suitable for the clinical diagnosis of COVID-19 based on routinely collected surveillance data. Applications of this tool include early identification for specific treatment and isolation, rational use of laboratory tests, and input for modeling epidemiological trends.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : COVID-19 diagnosis is a critical problem ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "mainly due to the lack or delay in the test results .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We aimed to obtain a model to predict SARS-CoV-2 infection in suspected patients reported to the Brazilian surveillance system .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Methods : We analyzed suspected patients reported to the National Surveillance System that corresponded to the following case definition : patients with respiratory symptoms and fever ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "who traveled to regions with local or community transmission or who had close contact with a suspected or confirmed case .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Based on variables routinely collected ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we obtained a multiple model using logistic regression .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The area under the receiver operating characteristic curve ( AUC ) and accuracy indicators were used for validation .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results : We described 1468 COVID-19 cases ( confirmed by RT-PCR ) and 4271 patients with other illnesses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "With a data subset , including 80 % of patients from Sao Paulo ( SP ) and Rio Janeiro ( RJ ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we obtained a function which reached an AUC of 95.54 % ( 95 % CI : 94.41 % -96.67 % ) for the diagnosis of COVID-19 and accuracy of 90.1 % ( sensitivity 87.62 % and specificity 92.02 % ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In a validation dataset including the other 20 % of patients from SP and RJ ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "this model exhibited an AUC of 95.01 % ( 92.51 % -97.5 % ) and accuracy of 89.47 % ( sensitivity 87.32 % and specificity 91.36 % ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Conclusion : We obtained a model suitable for the clinical diagnosis of COVID-19 based on routinely collected surveillance data .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Applications of this tool include early identification for specific treatment and isolation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "rational use of laboratory tests ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and input for modeling epidemiological trends .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "10",
+    "segment_num": "17",
+    "token_num": "297"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "paper_id": "9c18608fb7d5a7ed7ad4040d773d40debf3fe7c1",
+  "metadata": {
+    "title": "A preference driven multi-criteria optimization tool for HVAC design and operation",
+    "coda_data_split": "train",
+    "coda_paper_id": 8542,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "This paper discusses the issue of selecting the design solution that best accords with an articulated preference of multiple criteria with an acceptable performance band. The application of a newly developed multi-criteria decision-making tool called RR-PARETO2 is presented. An example of HVAC design is used to illustrate how solutions could be selected within a multi-criteria optimization framework. In this example, five criteria have been selected, namely, power consumption, thermal comfort, risk of airborne infection of influenza and tuberculosis and effective differential temperature ( t eq ) of body parts. The goal is to select the optimal air exchange rate that makes reasonable trade-offs among all the objectives. Two scenarios have been studied. In the first scenario, there is an influenza outbreak and the important objective is to prevent the spread of infection. In the second scenario, energy prices are high and the primary objective is to reduce energy. In both scenarios, RR-PARETO2 algorithm selects solutions that make reasonable trade-offs among conflicting objectives. The example illustrates how objectives such as reduction of airborne disease transmission and maximizing thermal comfort can be incorporated in the design of a practical, full-scale HVAC system.",
+      "sentences": [
+        [
+          {
+            "segment_text": "This paper discusses the issue of selecting the design solution that best accords with an articulated preference of multiple criteria with an acceptable performance band .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The application of a newly developed multi-criteria decision-making tool called RR-PARETO2 is presented .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "An example of HVAC design is used to illustrate how solutions could be selected within a multi-criteria optimization framework .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this example , five criteria have been selected ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "namely , power consumption , thermal comfort ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "risk of airborne infection of influenza and tuberculosis and effective differential temperature ( t eq ) of body parts .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The goal is to select the optimal air exchange rate that makes reasonable trade-offs among all the objectives .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Two scenarios have been studied .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the first scenario , there is an influenza outbreak and the important objective is to prevent the spread of infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the second scenario , energy prices are high and the primary objective is to reduce energy .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In both scenarios , RR-PARETO2 algorithm selects solutions that make reasonable trade-offs among conflicting objectives .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The example illustrates how objectives such as reduction of airborne disease transmission and maximizing thermal comfort can be incorporated in the design of a practical , full-scale HVAC system .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "10",
+    "segment_num": "12",
+    "token_num": "209"
+  }
+}

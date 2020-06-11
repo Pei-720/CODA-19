@@ -1,0 +1,61 @@
+{
+  "paper_id": "c439e1028bc93d94f4eba1855c6b1eade676f732",
+  "metadata": {
+    "title": "Acute Respiratory Distress Syndrome as an Organ Phenotype of Vascular Microthrombotic Disease: Based on Hemostatic Theory and Endothelial Molecular Pathogenesis",
+    "coda_data_split": "train",
+    "coda_paper_id": 8140,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Acute respiratory distress syndrome (ARDS) is a life-threatening noncardiogenic circulatory disorder of the lungs associated with critical illnesses such as sepsis, trauma, and immune and collagen vascular disease. Its mortality rate is marginally improved with the best supportive care. The demise occurs due to progressive pulmonary hypoxia and multi-organ dysfunction syndrome (MODS) with severe inflammation. Complement activation is a part of immune response against pathogen or insult in which membrane attack complex (MAC) is formed and eliminates microbes. If complement regulatory protein such as endothelial CD59 is underexpressed, MAC may also cause pulmonary vascular injury to the innocent bystander endothelial cell of host and provokes endotheliopathy that causes inflammation and pulmonary vascular microthrombosis, leading to ARDS.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Acute respiratory distress syndrome ( ARDS ) is a life-threatening noncardiogenic circulatory disorder of the lungs associated with critical illnesses such as sepsis ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "trauma , and immune and collagen vascular disease .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Its mortality rate is marginally improved with the best supportive care .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The demise occurs due to progressive pulmonary hypoxia and multi-organ dysfunction syndrome ( MODS ) with severe inflammation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Complement activation is a part of immune response against pathogen or insult in which membrane attack complex ( MAC ) is formed and eliminates microbes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "If complement regulatory protein such as endothelial CD59 is underexpressed ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "MAC may also cause pulmonary vascular injury to the innocent bystander endothelial cell of host and provokes endotheliopathy that causes inflammation and pulmonary vascular microthrombosis , leading to ARDS .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "7",
+    "token_num": "131"
+  }
+}

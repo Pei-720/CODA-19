@@ -1,0 +1,51 @@
+{
+  "paper_id": "9a540cc879a3b76739d417cc42a79af25398f703",
+  "metadata": {
+    "title": "Prediction of TGEV Spike Protein Secondary Structure and B Cell Epitopes *",
+    "coda_data_split": "train",
+    "coda_paper_id": 6765,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The spike gene of TGEV TH98 strain was translated into amino sequence by Editseq. The secondary structure and B cell epitope of spike protein of TGEV TH98 strain were predicted by Protean. Combining the results according to these methods, the spike protein of TGEV TH98 strain has complicated secondary structure. There are several epitopes of the B-cells in spike protein, including 43-",
+      "sentences": [
+        [
+          {
+            "segment_text": "The spike gene of TGEV TH98 strain was translated into amino sequence by Editseq .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The secondary structure and B cell epitope of spike protein of TGEV TH98 strain were predicted by Protean .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Combining the results according to these methods ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the spike protein of TGEV TH98 strain has complicated secondary structure .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "There are several epitopes of the B-cells in spike protein , including 43 -",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "4",
+    "segment_num": "5",
+    "token_num": "68"
+  }
+}

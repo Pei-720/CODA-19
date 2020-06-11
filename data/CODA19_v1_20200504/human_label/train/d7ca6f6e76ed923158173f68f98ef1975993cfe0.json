@@ -1,0 +1,158 @@
+{
+  "paper_id": "d7ca6f6e76ed923158173f68f98ef1975993cfe0",
+  "metadata": {
+    "title": "Roles of nitric oxide and intestinal microbiota in the pathogenesis of necrotizing enterocolitis ☆",
+    "coda_data_split": "train",
+    "coda_paper_id": 8210,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Necrotizing enterocolitis remains one of the most vexing problems in the neonatal intensive care unit. Risk factors for NEC include prematurity, formula feeding, and inappropriate microbial colonization of the GI tract. The pathogenesis of NEC is believed to involve weakening of the intestinal barrier by perinatal insults, translocation of luminal bacteria across the weakened barrier, an exuberant inflammatory response, and exacerbation of the barrier damage by inflammatory factors, leading to a vicious cycle of inflammation-inflicted epithelial damage. Nitric oxide (NO), produced by inducible NO synthase (iNOS) and reactive NO oxidation intermediates play a prominent role in the intestinal barrier damage by inducing enterocyte apoptosis and inhibiting the epithelial restitution processes, namely enterocyte proliferation and migration. The factors that govern iNOS upregulation in the intestine are not well understood, which hampers efforts in developing NO/iNOS-targeted therapies. Similarly, efforts to identify bacteria or bacterial colonization patterns associated with NEC have met with limited success, because the same bacterial species can be found in NEC and in non-NEC subjects. However, microbiome studies have identified the three important characteristics of early bacterial populations of the GI tract: high diversity, low complexity, and fluidity. Whether NEC is caused by specific bacteria remains a matter of debate, but data from hospital outbreaks of NEC strongly argue in favor of the infectious nature of this disease. Studies in Cronobacter muytjensii have established that the ability to induce NEC is the property of specific strains rather than the species as a whole. Progress in our understanding of the roles of bacteria in NEC will require microbiological experiments and genome-wide analysis of virulence factors.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Necrotizing enterocolitis remains one of the most vexing problems in the neonatal intensive care unit .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Risk factors for NEC include prematurity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "formula feeding , and inappropriate microbial colonization of the GI tract .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The pathogenesis of NEC is believed to involve weakening of the intestinal barrier by perinatal insults ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "translocation of luminal bacteria across the weakened barrier ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "an exuberant inflammatory response , and exacerbation of the barrier damage by inflammatory factors ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "leading to a vicious cycle of inflammation-inflicted epithelial damage .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Nitric oxide ( NO ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "produced by inducible NO synthase ( iNOS ) and reactive NO oxidation intermediates play a prominent role in the intestinal barrier damage by inducing enterocyte apoptosis and inhibiting the epithelial restitution processes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "namely enterocyte proliferation and migration .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The factors that govern iNOS upregulation in the intestine are not well understood ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which hampers efforts in developing NO/iNOS-targeted therapies .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Similarly , efforts to identify bacteria or bacterial colonization patterns associated with NEC have met with limited success ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "because the same bacterial species can be found in NEC and in non-NEC subjects .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , microbiome studies have identified the three important characteristics of early bacterial populations of the GI tract : high diversity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "low complexity , and fluidity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Whether NEC is caused by specific bacteria remains a matter of debate ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but data from hospital outbreaks of NEC strongly argue in favor of the infectious nature of this disease .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Studies in Cronobacter muytjensii have established that the ability to induce NEC is the property of specific strains rather than the species as a whole .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Progress in our understanding of the roles of bacteria in NEC will require microbiological experiments and genome-wide analysis of virulence factors .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Necrotizing enterocolitis (NEC), a severe inflammation of the small intestine, is the most common and most lethal disease affecting the GI tract of the premature infant. Despite aggressive medical and surgical treatment, the mortality rate for NEC is typically 15%-30% in the very low birth weight neonates and approaches 100% in cases involving pan-necrosis [1, 2] . Unfortunately, the incidence of NEC continues to rise because recent advances in neonatology have resulted in the survival of infants born at 23 weeks gestation [3] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Necrotizing enterocolitis ( NEC ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a severe inflammation of the small intestine ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "is the most common and most lethal disease affecting the GI tract of the premature infant .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Despite aggressive medical and surgical treatment ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the mortality rate for NEC is typically 15 % -30 % in the very low birth weight neonates and approaches 100 % in cases involving pan-necrosis ( 1 , 2 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Unfortunately , the incidence of NEC continues to rise because recent advances in neonatology have resulted in the survival of infants born at 23 weeks gestation ( 3 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "13",
+    "segment_num": "26",
+    "token_num": "395"
+  }
+}

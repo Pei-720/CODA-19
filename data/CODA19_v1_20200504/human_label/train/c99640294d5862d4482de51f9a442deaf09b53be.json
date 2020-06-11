@@ -1,0 +1,174 @@
+{
+  "paper_id": "c99640294d5862d4482de51f9a442deaf09b53be",
+  "metadata": {
+    "title": "Identification of a Gamma Interferon-Activated Inhibitor of Translation-Like RNA Motif at the 3\u003d End of the Transmissible Gastroenteritis Coronavirus Genome Modulating Innate Immune Response",
+    "coda_data_split": "train",
+    "coda_paper_id": 4627,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "A 32-nucleotide (nt) RNA motif located at the 3\u003d end of the transmissible gastroenteritis coronavirus (TGEV) genome was found to specifically interact with the host proteins glutamyl-prolyl-tRNA synthetase (EPRS) and arginyl-tRNA synthetase (RRS). This RNA motif has high homology in sequence and secondary structure with the gamma interferon-activated inhibitor of translation (GAIT) element, which is located at the 3\u003d end of several mRNAs encoding proinflammatory proteins. The GAIT element is involved in the translation silencing of these mRNAs through its interaction with the GAIT complex (EPRS, heterogeneous nuclear ribonucleoprotein Q, ribosomal protein L13a, and glyceraldehyde 3-phosphate dehydrogenase) to favor the resolution of inflammation. Interestingly, we showed that the viral RNA motif bound the GAIT complex and inhibited the in vitro translation of a chimeric mRNA containing this RNA motif. To our knowledge, this is the first GAIT-like motif described in a positive RNA virus. To test the functional role of the GAIT-like RNA motif during TGEV infection, a recombinant coronavirus harboring mutations in this motif was engineered and characterized. Mutations of the GAIT-like RNA motif did not affect virus growth in cell cultures. However, an exacerbated innate immune response, mediated by the melanoma differentiation-associated gene 5 (MDA5) pathway, was observed in cells infected with the mutant virus compared with the response observed in cells infected with the parental virus. Furthermore, the mutant virus was more sensitive to beta interferon than the parental virus. All together, these data strongly suggested that the viral GAIT-like RNA motif modulates the host innate immune response. IMPORTANCE The innate immune response is the first line of antiviral defense that culminates with the synthesis of interferon and proinflammatory cytokines to limit virus replication. Coronaviruses encode several proteins that interfere with the innate immune response at different levels, but to date, no viral RNA counteracting antiviral response has been described. In this work, we have characterized a 32-nt RNA motif located at the 3\u003d end of the TGEV genome that specifically interacted with EPRS and RRS. This RNA motif presented high homology with the GAIT element, involved in the modulation of the inflammatory response. Moreover, the disruption of the viral GAIT-like RNA motif led to an exacerbated innate immune response triggered by MDA5, indicating that the GAIT-like RNA motif counteracts the host innate immune response. These novel findings may be of relevance for other coronaviruses and could serve as the basis for the development of novel antiviral strategies.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A 32-nucleotide ( nt ) RNA motif located at the 3 \u003d end of the transmissible gastroenteritis coronavirus ( TGEV ) genome was found to specifically interact with the host proteins glutamyl-prolyl-tRNA synthetase ( EPRS ) and arginyl-tRNA synthetase ( RRS ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This RNA motif has high homology in sequence and secondary structure with the gamma interferon-activated inhibitor of translation ( GAIT ) element ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which is located at the 3 \u003d end of several mRNAs encoding proinflammatory proteins .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The GAIT element is involved in the translation silencing of these mRNAs through its interaction with the GAIT complex ( EPRS , heterogeneous nuclear ribonucleoprotein Q , ribosomal protein L13a , and glyceraldehyde 3-phosphate dehydrogenase ) to favor the resolution of inflammation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Interestingly , we showed that the viral RNA motif bound the GAIT complex and inhibited the in vitro translation of a chimeric mRNA containing this RNA motif .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "To our knowledge , this is the first GAIT-like motif described in a positive RNA virus .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To test the functional role of the GAIT-like RNA motif during TGEV infection ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "a recombinant coronavirus harboring mutations in this motif was engineered and characterized .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Mutations of the GAIT-like RNA motif did not affect virus growth in cell cultures .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , an exacerbated innate immune response ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "mediated by the melanoma differentiation-associated gene 5 ( MDA5 ) pathway ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "was observed in cells infected with the mutant virus compared with the response observed in cells infected with the parental virus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , the mutant virus was more sensitive to beta interferon than the parental virus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "All together , these data strongly suggested that the viral GAIT-like RNA motif modulates the host innate immune response .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "IMPORTANCE The innate immune response is the first line of antiviral defense that culminates with the synthesis of interferon and proinflammatory cytokines to limit virus replication .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Coronaviruses encode several proteins that interfere with the innate immune response at different levels ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but to date , no viral RNA counteracting antiviral response has been described .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this work , we have characterized a 32-nt RNA motif located at the 3 \u003d end of the TGEV genome that specifically interacted with EPRS and RRS .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This RNA motif presented high homology with the GAIT element ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "involved in the modulation of the inflammatory response .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , the disruption of the viral GAIT-like RNA motif led to an exacerbated innate immune response triggered by MDA5 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "indicating that the GAIT-like RNA motif counteracts the host innate immune response .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These novel findings may be of relevance for other coronaviruses and could serve as the basis for the development of novel antiviral strategies .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Citation Marquez-Jurado S, Nogales A, Zuñiga S, Enjuanes L, Almazán F. 2015. Identification of a gamma interferon-activated inhibitor of translation-like RNA motif at the 3\u003d end of the transmissible gastroenteritis coronavirus genome modulating innate immune response. mBio 6(2):e00105-15.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Citation Marquez-Jurado S , Nogales A ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "Zuñiga S , Enjuanes L , Almazán F. 2015 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Identification of a gamma interferon-activated inhibitor of translation-like RNA motif at the 3 \u003d end of the transmissible gastroenteritis coronavirus genome modulating innate immune response .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "mBio 6 ( 2 ) : e00105-15 .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "19",
+    "segment_num": "27",
+    "token_num": "503"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "paper_id": "c9d7aa6941c48578e360e0476d82295993c3e9e7",
+  "metadata": {
+    "title": "A dual protease approach for expression and affinity purification of recombinant proteins",
+    "coda_data_split": "train",
+    "coda_paper_id": 10943,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "We describe a new method for affinity purification of recombinant proteins using a dual protease protocol. Escherichia coli maltose binding protein (MBP) is employed as an N-terminal tag to increase the yield and solubility of its fusion partners. The MBP moiety is then removed by rhinovirus 3C protease, prior to purification, to yield an N-terminally His 6 -tagged protein. Proteins that are only temporarily rendered soluble by fusing them to MBP are readily identified at this stage because they will precipitate after the MBP tag is removed by 3C protease. The remaining soluble His 6 -tagged protein, if any, is subsequently purified by immobilized metal affinity chromatography (IMAC). Finally, the N-terminal His 6 tag is removed by His 6 -tagged tobacco etch virus (TEV) protease to yield the native recombinant protein, and the His 6 -tagged contaminants are removed by adsorption during a second round of IMAC, leaving only the untagged recombinant protein in the column effluent. The generic strategy described here saves time and effort by removing insoluble aggregates at an early stage in the process while also reducing the tendency of MBP to \"stick\" to its fusion partners during affinity purification.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We describe a new method for affinity purification of recombinant proteins using a dual protease protocol .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Escherichia coli maltose binding protein ( MBP ) is employed as an N-terminal tag to increase the yield and solubility of its fusion partners .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The MBP moiety is then removed by rhinovirus 3C protease ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "prior to purification , to yield an N-terminally His 6 - tagged protein .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Proteins that are only temporarily rendered soluble by fusing them to MBP are readily identified at this stage because they will precipitate after the MBP tag is removed by 3C protease .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The remaining soluble His 6 - tagged protein ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "if any , is subsequently purified by immobilized metal affinity chromatography ( IMAC ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , the N-terminal His 6 tag is removed by His 6 - tagged tobacco etch virus ( TEV ) protease to yield the native recombinant protein ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the His 6 - tagged contaminants are removed by adsorption during a second round of IMAC ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "leaving only the untagged recombinant protein in the column effluent .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The generic strategy described here saves time and effort by removing insoluble aggregates at an early stage in the process while also reducing the tendency of MBP to `` stick \u0027\u0027 to its fusion partners during affinity purification .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Published by Elsevier Inc. Abbreviations used: MBP, maltose-binding protein; IMAC, immobilized metal ion affinity chromatography; TEV, tobacco etch virus; PCR, polymerase chain reaction; ORF, open reading frame; ChikV, Chikungunya virus; DHFR, dihydrofolate reductase; DUSP14, dual-specificity phosphatase 14; MERS-CoV 3CL pro C148A, Middle East respiratory syndrome coronavirus 3C-like protease; GFP, green fluorescent protein; RBS, ribosome-binding site; IPTG, isopropyl b-D-1thiogalactopyranoside; SDSePAGE, sodium dodecyl sulfate polyacrylamide gel electrophoresis; TVMV, tobacco vein mottling virus.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Published by Elsevier Inc. .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Abbreviations used : MBP , maltose-binding protein ; IMAC ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "immobilized metal ion affinity chromatography ; TEV ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "tobacco etch virus ; PCR ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "polymerase chain reaction ; ORF ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "open reading frame ; ChikV ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "Chikungunya virus ; DHFR , dihydrofolate reductase ; DUSP14 ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "dual-specificity phosphatase 14 ; MERS-CoV 3CL pro C148A ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "Middle East respiratory syndrome coronavirus 3C-like protease ; GFP ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "green fluorescent protein ; RBS ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "ribosome-binding site ; IPTG , isopropyl b-D-1thiogalactopyranoside ; SDSePAGE ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "sodium dodecyl sulfate polyacrylamide gel electrophoresis ; TVMV , tobacco vein mottling virus .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "9",
+    "segment_num": "23",
+    "token_num": "319"
+  }
+}

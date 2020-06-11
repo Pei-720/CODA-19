@@ -1,0 +1,113 @@
+{
+  "paper_id": "2286b53045dda4309a7f4da297e7d1974b1cb0d4",
+  "metadata": {
+    "title": "Acral melanoma detection using a convolutional neural network for dermoscopy images",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1281,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Acral melanoma is the most common type of melanoma in Asians, and usually results in a poor prognosis due to late diagnosis. We applied a convolutional neural network to dermoscopy images of acral melanoma and benign nevi on the hands and feet and evaluated its usefulness for the early diagnosis of these conditions.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Acral melanoma is the most common type of melanoma in Asians ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and usually results in a poor prognosis due to late diagnosis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We applied a convolutional neural network to dermoscopy images of acral melanoma and benign nevi on the hands and feet and evaluated its usefulness for the early diagnosis of these conditions .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "A total of 724 dermoscopy images comprising acral melanoma (350 images from 81 patients) and benign nevi (374 images from 194 patients), and confirmed by histopathological examination, were analyzed in this study. To perform the 2-fold cross validation, we split them into two mutually exclusive subsets: half of the total image dataset was selected for training and the rest for testing, and we calculated the accuracy of diagnosis comparing it with the dermatologist\u0027s and non-expert\u0027s evaluation.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A total of 724 dermoscopy images comprising acral melanoma ( 350 images from 81 patients ) and benign nevi ( 374 images from 194 patients ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and confirmed by histopathological examination ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "were analyzed in this study .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "To perform the 2-fold cross validation ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we split them into two mutually exclusive subsets : half of the total image dataset was selected for training and the rest for testing ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and we calculated the accuracy of diagnosis comparing it with the dermatologist \u0027s and non-expert \u0027s evaluation .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The accuracy (percentage of true positive and true negative from all images) of the convolutional neural network was 83.51% and 80.23%, which was higher than the non-expert\u0027s evaluation (67.84%, 62.71%) and close to that of the expert (81.08%, 81.64%). Moreover, the convolutional neural network showed area-under-the-curve values like 0.8, 0.84 and Youden\u0027s index like 0.6795, 0.6073, which were similar score with the expert. Lee SW, et al. (2018) Acral melanoma detection using a convolutional neural network for dermoscopy images. PLoS ONE 13(3): e0193321.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The accuracy ( percentage of true positive and true negative from all images ) of the convolutional neural network was 83.51 % and 80.23 % ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which was higher than the non-expert \u0027s evaluation ( 67.84 % , 62.71 % ) and close to that of the expert ( 81.08 % , 81.64 % ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , the convolutional neural network showed area-under-the-curve values like 0.8 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "0.84 and Youden \u0027s index like 0.6795 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "0.6073 , which were similar score with the expert .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Lee SW , et al. ( 2018 ) Acral melanoma detection using a convolutional neural network for dermoscopy images .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "PLoS ONE 13 ( 3 ) : e0193321 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "8",
+    "segment_num": "16",
+    "token_num": "260"
+  }
+}

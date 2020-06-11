@@ -1,0 +1,109 @@
+{
+  "paper_id": "f7a3c341035528c458ca916e3daeb47645da212b",
+  "metadata": {
+    "title": "Comprehensive viral enrichment enables sensitive respiratory virus genomic identification and analysis by next generation sequencing",
+    "coda_data_split": "train",
+    "coda_paper_id": 4333,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Next generation sequencing (NGS) technologies have revolutionized the genomics field and are becoming more commonplace for identification of human infectious diseases. However, due to the low abundance of viral nucleic acids (NAs) in relation to host, viral identification using direct NGS technologies often lacks sufficient sensitivity. Here, we describe an approach based on two complementary enrichment strategies that significantly improves the sensitivity of NGS-based virus identification. To start, we developed two sets of DNA probes to enrich virus NAs associated with respiratory diseases. The first set of probes spans the genomes, allowing for identification of known viruses and full genome sequencing, while the second set targets regions conserved among viral families or genera, providing the ability to detect both known and potentially novel members of those virus groups. Efficiency of enrichment was assessed by NGS testing reference virus and clinical samples with known infection. We show significant improvement in viral identification using enriched NGS compared to unenriched NGS. Without enrichment, we observed an average of 0.3% targeted viral reads per sample. However, after enrichment, 50%-99% of the reads per sample were the targeted viral reads for both the reference isolates and clinical specimens using both probe sets. Importantly, dramatic improvements on genome coverage were also observed following virus-specific probe enrichment. The methods described here provide improved sensitivity for virus identification by NGS, allowing for a more comprehensive analysis of disease etiology.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Next generation sequencing ( NGS ) technologies have revolutionized the genomics field and are becoming more commonplace for identification of human infectious diseases .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , due to the low abundance of viral nucleic acids ( NAs ) in relation to host ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "viral identification using direct NGS technologies often lacks sufficient sensitivity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we describe an approach based on two complementary enrichment strategies that significantly improves the sensitivity of NGS-based virus identification .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "To start , we developed two sets of DNA probes to enrich virus NAs associated with respiratory diseases .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The first set of probes spans the genomes ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "allowing for identification of known viruses and full genome sequencing ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "while the second set targets regions conserved among viral families or genera ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "providing the ability to detect both known and potentially novel members of those virus groups .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Efficiency of enrichment was assessed by NGS testing reference virus and clinical samples with known infection .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We show significant improvement in viral identification using enriched NGS compared to unenriched NGS .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Without enrichment , we observed an average of 0.3 % targeted viral reads per sample .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , after enrichment , 50 % -99 % of the reads per sample were the targeted viral reads for both the reference isolates and clinical specimens using both probe sets .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Importantly , dramatic improvements on genome coverage were also observed following virus-specific probe enrichment .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The methods described here provide improved sensitivity for virus identification by NGS ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "allowing for a more comprehensive analysis of disease etiology .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "11",
+    "segment_num": "16",
+    "token_num": "262"
+  }
+}

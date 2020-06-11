@@ -1,0 +1,189 @@
+{
+  "paper_id": "db70edfb7b8a15860bbd8e8f73942f404933798b",
+  "metadata": {
+    "title": "Structural parameterization and functional prediction of antigenic polypeptome sequences with biological activity through quantitative sequence-activity models (QSAM) by molecular electronegativity edge-distance vector (VMED)",
+    "coda_data_split": "train",
+    "coda_paper_id": 6883,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Only from the primary structures of peptides, a new set of descriptors called the molecular electronegativity edge-distance vector (VMED) was proposed and applied to describing and characterizing the molecular structures of oligopeptides and polypeptides, based on the electronegativity of each atom or electronic charge index (ECI) of atomic clusters and the bonding distance between atom-pairs. Here, the molecular structures of antigenic polypeptides were well expressed in order to propose the automated technique for the computerized identification of helper T lymphocyte (Th) epitopes. Furthermore, a modified MED vector was proposed from the primary structures of polypeptides, based on the ECI and the relative bonding distance of the fundamental skeleton groups. The side-chains of each amino acid were here treated as a pseudo-atom. The developed VMED was easy to calculate and able to work. Some quantitative model was established for 28 immunogenic or antigenic polypeptides (AGPP) with 14 (1-14) A d and 14 other restricted activities assigned as \"1\"(+) and \"0\"(−), respectively. The latter comprised 6 A b (15-20), 3 A k (21-23), 2 E k (24-26), 2 H-2 k (27 and 28) restricted sequences. Good results were obtained with 90% correct classification (only 2 wrong ones for 20 training samples) and 100% correct prediction (none wrong for 8 testing samples); while contrastively 100% correct classification (none wrong for 20 training samples) and 88% correct classification (1 wrong for 8 testing samples). Both stochastic samplings and cross validations were performed to demonstrate good performance. The described method may also be suitable for estimation and prediction of classes I and II for major histocompatibility antigen (MHC) epitope of human. It will be useful in immune identification and recognition of proteins and genes and in the design and devel-| vol. 50 | no. 5 | 706-716 707 opment of subunit vaccines. Several quantitative structure activity relationship (QSAR) models were developed for various oligopeptides and polypeptides including 58 dipeptides and 31 pentapeptides with angiotensin converting enzyme (ACE) inhibition by multiple linear regression (MLR) method. In order to explain the ability to characterize molecular structure of polypeptides, a molecular modeling investigation on QSAR was performed for functional prediction of polypeptide sequences with antigenic activity and heptapeptide sequences with tachykinin activity through quantitative sequence-activity models (QSAMs) by the molecular electronegativity edge-distance vector (VMED). The results showed that VMED exhibited both excellent structural selectivity and good activity prediction. Moreover, the results showed that VMED behaved quite well for both QSAR and QSAM of poly-and oligopeptides, which exhibited both good estimation ability and prediction power, equal to or better than those reported in the previous references. Finally, a preliminary conclusion was drwan: both classical and modified MED vectors were very useful structural descriptors. Some suggestions were proposed for further studies on QSAR/QSAM of proteins in various fields. molecular electronegativity distance-edge vector (VMED), antigenic polypeptide (AGPP) sequences, bioactive oligopeptide (BAOP) chains, quantitative sequence-activity models (QSAM), theoretically computational descriptors (TCD)",
+      "sentences": [
+        [
+          {
+            "segment_text": "Only from the primary structures of peptides ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a new set of descriptors called the molecular electronegativity edge-distance vector ( VMED ) was proposed and applied to describing and characterizing the molecular structures of oligopeptides and polypeptides ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "based on the electronegativity of each atom or electronic charge index ( ECI ) of atomic clusters and the bonding distance between atom-pairs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , the molecular structures of antigenic polypeptides were well expressed in order to propose the automated technique for the computerized identification of helper T lymphocyte ( Th ) epitopes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , a modified MED vector was proposed from the primary structures of polypeptides ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "based on the ECI and the relative bonding distance of the fundamental skeleton groups .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The side-chains of each amino acid were here treated as a pseudo-atom .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The developed VMED was easy to calculate and able to work .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Some quantitative model was established for 28 immunogenic or antigenic polypeptides ( AGPP ) with 14 ( 1-14 ) A d and 14 other restricted activities assigned as `` 1 \u0027\u0027 ( + ) and `` 0 \u0027\u0027 ( − ) , respectively .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The latter comprised 6 A b ( 15-20 ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "3 A k ( 21-23 ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "2 E k ( 24-26 ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "2 H-2 k ( 27 and 28 ) restricted sequences .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Good results were obtained with 90 % correct classification ( only 2 wrong ones for 20 training samples ) and 100 % correct prediction ( none wrong for 8 testing samples ) ; while contrastively 100 % correct classification ( none wrong for 20 training samples ) and 88 % correct classification ( 1 wrong for 8 testing samples ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Both stochastic samplings and cross validations were performed to demonstrate good performance .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The described method may also be suitable for estimation and prediction of classes I and II for major histocompatibility antigen ( MHC ) epitope of human .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It will be useful in immune identification and recognition of proteins and genes and in the design and devel - | vol .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "50 | no. 5 | 706-716 707 opment of subunit vaccines .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Several quantitative structure activity relationship ( QSAR ) models were developed for various oligopeptides and polypeptides including 58 dipeptides and 31 pentapeptides with angiotensin converting enzyme ( ACE ) inhibition by multiple linear regression ( MLR ) method .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In order to explain the ability to characterize molecular structure of polypeptides ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "a molecular modeling investigation on QSAR was performed for functional prediction of polypeptide sequences with antigenic activity and heptapeptide sequences with tachykinin activity through quantitative sequence-activity models ( QSAMs ) by the molecular electronegativity edge-distance vector ( VMED ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results showed that VMED exhibited both excellent structural selectivity and good activity prediction .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , the results showed that VMED behaved quite well for both QSAR and QSAM of poly-and oligopeptides ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which exhibited both good estimation ability and prediction power ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "equal to or better than those reported in the previous references .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , a preliminary conclusion was drwan : both classical and modified MED vectors were very useful structural descriptors .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Some suggestions were proposed for further studies on QSAR/QSAM of proteins in various fields .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "molecular electronegativity distance-edge vector ( VMED ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "antigenic polypeptide ( AGPP ) sequences ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "bioactive oligopeptide ( BAOP ) chains ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "quantitative sequence-activity models ( QSAM ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "theoretically computational descriptors ( TCD )",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "19",
+    "segment_num": "32",
+    "token_num": "580"
+  }
+}

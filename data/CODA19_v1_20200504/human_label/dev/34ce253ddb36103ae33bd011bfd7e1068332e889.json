@@ -1,0 +1,89 @@
+{
+  "paper_id": "34ce253ddb36103ae33bd011bfd7e1068332e889",
+  "metadata": {
+    "title": "ARTICLE Reconstructing propagation networks with natural diversity and identifying hidden sources",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1094,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Our ability to uncover complex network structure and dynamics from data is fundamental to understanding and controlling collective dynamics in complex systems. Despite recent progress in this area, reconstructing networks with stochastic dynamical processes from limited time series remains to be an outstanding problem. Here we develop a framework based on compressed sensing to reconstruct complex networks on which stochastic spreading dynamics take place. We apply the methodology to a large number of model and real networks, finding that a full reconstruction of inhomogeneous interactions can be achieved from small amounts of polarized (binary) data, a virtue of compressed sensing. Further, we demonstrate that a hidden source that triggers the spreading process but is externally inaccessible can be ascertained and located with high confidence in the absence of direct routes of propagation from it. Our approach thus establishes a paradigm for tracing and controlling epidemic invasion and information diffusion in complex networked systems. ½S i ðt 2 Þ þ S i ðt 6 Þ\u003d2 and hS i ðt 2 þ 1Þi ¼ ½S i ðt 12 Þ þ S i ðt 14 Þ\u003d2 based on the remaining strings marked in different colours (see Methods for more details). CST can be used to reconstruct the neighbouring vector X of node 2 from Y and U from Y ¼ U . X.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Our ability to uncover complex network structure and dynamics from data is fundamental to understanding and controlling collective dynamics in complex systems .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Despite recent progress in this area ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "reconstructing networks with stochastic dynamical processes from limited time series remains to be an outstanding problem .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we develop a framework based on compressed sensing to reconstruct complex networks on which stochastic spreading dynamics take place .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We apply the methodology to a large number of model and real networks ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "finding that a full reconstruction of inhomogeneous interactions can be achieved from small amounts of polarized ( binary ) data ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a virtue of compressed sensing .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Further , we demonstrate that a hidden source that triggers the spreading process but is externally inaccessible can be ascertained and located with high confidence in the absence of direct routes of propagation from it .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our approach thus establishes a paradigm for tracing and controlling epidemic invasion and information diffusion in complex networked systems .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "1/2 S i ðt 2 Þ þ S i ðt 6 Þ \u003d 2 and hS i ðt 2 þ 1Þi 1/4 1/2 S i ðt 12 Þ þ S i ðt 14 Þ \u003d 2 based on the remaining strings marked in different colours ( see Methods for more details ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "CST can be used to reconstruct the neighbouring vector X of node 2 from Y and U from Y 1/4 U .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "X.",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "9",
+    "segment_num": "12",
+    "token_num": "241"
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "paper_id": "76edb6d0bd7c47765d3a89032aa610f410506988",
+  "metadata": {
+    "title": "Practical application of CFD on environmentally sensitive architectural design at high density cities: A case study in Hong Kong",
+    "coda_data_split": "train",
+    "coda_paper_id": 8487,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "journal homepage: www.elsevier.com/locate/u clim different scales have been widely studied by wind engineers and meteorologists. Concerns on the negative effects of urbanization on the environment recently make the topic increasingly important for urban planners and architects (Ng, 2009; Bottema, 1995) . Tall and compact building blocks seriously worsens the natural ventilation performance at the metropolitan areas, even though there is a large wind potential in the urban atmosphere boundary layer, such as Hong Kong which is a high-density coastal city. The natural ventilation is an important contributing factor to outdoor thermal comfort, especially in subtropical cities. Cheng et al. (2012) indicated that, taking the Physiologically Equivalent Temperature (PET) thermal comfort as a standard, wind speed decreasing from 1.0 to 0.3 m/s is equal to 1.9°C air temperature increase in the subtropical summer. Good planning and design which include the wind knowledge can mitigate negative effects of urbanization, particularly urban heat island intensity (Oke, 1987) . Furthermore, these planning and design make compact urban living environments more comfortable for residents and consequently aid in the restriction of uncontrolled urban spreading (European Environment Agency, 2006; Garreau, 1992) .",
+      "sentences": [
+        [
+          {
+            "segment_text": "journal homepage : www.elsevier.com/locate/u clim different scales have been widely studied by wind engineers and meteorologists .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Concerns on the negative effects of urbanization on the environment recently make the topic increasingly important for urban planners and architects ( Ng , 2009 ; Bottema , 1995 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Tall and compact building blocks seriously worsens the natural ventilation performance at the metropolitan areas ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "even though there is a large wind potential in the urban atmosphere boundary layer ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as Hong Kong which is a high-density coastal city .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The natural ventilation is an important contributing factor to outdoor thermal comfort , especially in subtropical cities .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Cheng et al. ( 2012 ) indicated that ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "taking the Physiologically Equivalent Temperature ( PET ) thermal comfort as a standard ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "wind speed decreasing from 1.0 to 0.3 m/s is equal to 1.9 °C air temperature increase in the subtropical summer .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Good planning and design which include the wind knowledge can mitigate negative effects of urbanization ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "particularly urban heat island intensity ( Oke , 1987 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , these planning and design make compact urban living environments more comfortable for residents and consequently aid in the restriction of uncontrolled urban spreading ( European Environment Agency , 2006 ; Garreau , 1992 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "This study aims to change the traditional experience-based design way toward a scientific windenvironment-sensitive architectural design, and ensures that the surrounding environment of the proposed buildings could be adequately considered. To mitigate the undesirable effects of the proposed buildings on the surrounding natural ventilation performance, four steps for knowledge-based decision making are significantly important in the design process. The first step is the analysis and simplification of local wind availability. Local wind availability is important for initial wind assessment at the urban scale. Furthermore, local wind data is necessary for the settings of the boundary condition for wind environment modeling at the city and building scales. The second step involves the modeling of the surrounding pedestrian airflow. The modeling results make detailed wind data available to all of wind engineers, urban planners, and architects for better understandings. The third step is the wind data collection. Both unbiased descriptions of the surrounding wind environment and critical windrelated design issue identification depend on an appropriate data collection process. Based on the robust application of the above three steps, the fourth step, the data interpretation can be confidently conducted. This step is critical in the decision-making process for building design implementation. A sufficient statistical analysis is necessary to summarize the collected wind data and correlate the modeling results with architectural design strategies. Then, knowledge-based decisions can be made by architects and urban planners.",
+      "sentences": [
+        [
+          {
+            "segment_text": "This study aims to change the traditional experience-based design way toward a scientific windenvironment-sensitive architectural design ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and ensures that the surrounding environment of the proposed buildings could be adequately considered .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "To mitigate the undesirable effects of the proposed buildings on the surrounding natural ventilation performance ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "four steps for knowledge-based decision making are significantly important in the design process .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The first step is the analysis and simplification of local wind availability .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Local wind availability is important for initial wind assessment at the urban scale .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , local wind data is necessary for the settings of the boundary condition for wind environment modeling at the city and building scales .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The second step involves the modeling of the surrounding pedestrian airflow .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The modeling results make detailed wind data available to all of wind engineers ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "urban planners , and architects for better understandings .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The third step is the wind data collection .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Both unbiased descriptions of the surrounding wind environment and critical windrelated design issue identification depend on an appropriate data collection process .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Based on the robust application of the above three steps ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the fourth step , the data interpretation can be confidently conducted .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This step is critical in the decision-making process for building design implementation .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A sufficient statistical analysis is necessary to summarize the collected wind data and correlate the modeling results with architectural design strategies .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Then , knowledge-based decisions can be made by architects and urban planners .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "However, the methods used to follow the aforementioned steps in the research work, such as simplification of the input wind availability, analysis of the grid dependence, the influence of iterative convergence, data collection and analysis methods, are unsuitable for the real application because of the characteristics of the practical CFD application in the architectural design process. Compared with the modeling in the research work, the input conditions and proposed building morphologies are much more complicated in the real application. Requirements of architects in the data analysis are also very different with wind engineers and researchers. Thus, the current study focuses on the practical application of CFD simulation and aims to answer the questions that are often encountered by practicing wind consultants, architects, and planners: (1) how to set the appropriate boundary conditions, (2) how to verify the CFD simulation results in practical applications, and (3) how to collect and evaluate the simulation results to efficiently and accurately identify the important wind-related design issue for implementation. A procedural framework and methodologies for the practical application of CFD simulations in real architectural design process are provided in this study to make the CFD simulation more practical and dependable, as well as to make the results more helpful in architectural design. A case study in Hong Kong is conducted to illustrate how the proposed framework and methodologies can be used.",
+      "sentences": [
+        [
+          {
+            "segment_text": "However , the methods used to follow the aforementioned steps in the research work ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as simplification of the input wind availability ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "analysis of the grid dependence ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the influence of iterative convergence ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "data collection and analysis methods ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "are unsuitable for the real application because of the characteristics of the practical CFD application in the architectural design process .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Compared with the modeling in the research work ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the input conditions and proposed building morphologies are much more complicated in the real application .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Requirements of architects in the data analysis are also very different with wind engineers and researchers .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , the current study focuses on the practical application of CFD simulation and aims to answer the questions that are often encountered by practicing wind consultants ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "architects , and planners : ( 1 ) how to set the appropriate boundary conditions ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "( 2 ) how to verify the CFD simulation results in practical applications ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and ( 3 ) how to collect and evaluate the simulation results to efficiently and accurately identify the important wind-related design issue for implementation .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "A procedural framework and methodologies for the practical application of CFD simulations in real architectural design process are provided in this study to make the CFD simulation more practical and dependable ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "as well as to make the results more helpful in architectural design .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "A case study in Hong Kong is conducted to illustrate how the proposed framework and methodologies can be used .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The boundary condition is the local wind availability at the surrounding areas of the proposed new projects. Before the advent of modeling, wind data at the urban areas can be collected by using field measurement. However, given the limitations and difficulties in applying field measurement at urban areas (Oke, 2004 (Oke, , 2006 , the large scale modeling became a popular approach for the reproduction and",
+      "sentences": [
+        [
+          {
+            "segment_text": "The boundary condition is the local wind availability at the surrounding areas of the proposed new projects .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Before the advent of modeling ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "wind data at the urban areas can be collected by using field measurement .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , given the limitations and difficulties in applying field measurement at urban areas ( Oke , 2004 ( Oke , , 2006 , the large scale modeling became a popular approach for the reproduction and",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "29",
+    "segment_num": "49",
+    "token_num": "794"
+  }
+}

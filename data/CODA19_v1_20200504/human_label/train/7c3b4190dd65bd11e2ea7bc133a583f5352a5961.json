@@ -1,0 +1,121 @@
+{
+  "paper_id": "7c3b4190dd65bd11e2ea7bc133a583f5352a5961",
+  "metadata": {
+    "title": "LAMP-Seq: Population-Scale COVID-19 Diagnostics Using a Compressed Barcode Space",
+    "coda_data_split": "train",
+    "coda_paper_id": 5246,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "have set up a public forum on www.LAMP-Seq.org.",
+      "sentences": [
+        [
+          {
+            "segment_text": "have set up a public forum on www.LAMP-Seq.org .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The ongoing COVID-19 pandemic has already caused devastating losses. Early evidence shows that the exponential spread of COVID-19 can be slowed by restrictive isolation measures, but these place a tremendous burden on society. Moreover, once these restrictions are lifted, the exponential spread is likely to re-emerge. It has been suggested that populationscale testing can help break the cycle of isolation and spread, but current detection methods are not capable of such large-scale processing. Here we propose LAMP-Seq, a barcoded",
+      "sentences": [
+        [
+          {
+            "segment_text": "The ongoing COVID-19 pandemic has already caused devastating losses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Early evidence shows that the exponential spread of COVID-19 can be slowed by restrictive isolation measures ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but these place a tremendous burden on society .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , once these restrictions are lifted ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the exponential spread is likely to re-emerge .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It has been suggested that populationscale testing can help break the cycle of isolation and spread ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but current detection methods are not capable of such large-scale processing .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we propose LAMP-Seq , a barcoded",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Reverse-Transcription Loop-mediated Isothermal Amplification (RT-LAMP) protocol that could dramatically reduce the cost and complexity of population-scale testing. In this approach, individual samples are processed in a single heat step, producing barcoded amplicons that can be shipped to a sequencing center, pooled, and analyzed en masse. Using unique barcode combinations per sample from a compressed barcode space enables extensive pooling, significantly reducing cost and organizational efforts. Given the low cost and scalability of next-generation sequencing, we believe that this method can be affordably scaled to analyze millions of samples per day using existing sequencing infrastructure.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Reverse-Transcription Loop-mediated Isothermal Amplification ( RT-LAMP ) protocol that could dramatically reduce the cost and complexity of population-scale testing .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this approach , individual samples are processed in a single heat step ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "producing barcoded amplicons that can be shipped to a sequencing center ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "pooled , and analyzed en masse .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using unique barcode combinations per sample from a compressed barcode space enables extensive pooling ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "significantly reducing cost and organizational efforts .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Given the low cost and scalability of next-generation sequencing ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we believe that this method can be affordably scaled to analyze millions of samples per day using existing sequencing infrastructure .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "10",
+    "segment_num": "17",
+    "token_num": "203"
+  }
+}

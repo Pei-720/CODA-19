@@ -1,0 +1,104 @@
+{
+  "paper_id": "5a5a7b6d40c4b752aabf69f69bbd7c71e2658e8e",
+  "metadata": {
+    "title": "Tracking progress towards malaria elimination in China: estimates of 1 reproduction numbers and their spatiotemporal variation 2 3",
+    "coda_data_split": "train",
+    "coda_paper_id": 4824,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "China reported zero locally-acquired malaria cases in 2017 and 2018. Understanding the spatio-9 temporal pattern underlying this decline, especially the relationship between locally-acquired and 10 imported cases, can inform efforts to maintain elimination and prevent re-emergence. This is 11 particularly pertinent in Yunnan province, where the potential for local transmission is highest. Using 12 a geo-located individual-level dataset of cases recorded in Yunnan province between 2011 and 2016, 13",
+      "sentences": [
+        [
+          {
+            "segment_text": "China reported zero locally-acquired malaria cases in 2017 and 2018 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Understanding the spatio-9 temporal pattern underlying this decline ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "especially the relationship between locally-acquired and 10 imported cases ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "can inform efforts to maintain elimination and prevent re-emergence .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This is 11 particularly pertinent in Yunnan province ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "where the potential for local transmission is highest .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using 12 a geo-located individual-level dataset of cases recorded in Yunnan province between 2011 and 2016 , 13",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "we jointly estimate the case reproduction number, , and the number of unobserved sources of 14 infection. We use these estimates within spatio-temporal geostatistical models to map how 15 transmission varied over time and space, estimate the timeline to elimination and the risk of 16 resurgence. Our estimates suggest that, maintaining current intervention efforts, Yunnan is unlikely 17 to experience sustained local transmission up to 2020. However, even with a mean of 0.005 18 projected for the year 2019, locally-acquired cases are possible due to high levels of importation.",
+      "sentences": [
+        [
+          {
+            "segment_text": "we jointly estimate the case reproduction number ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": ", and the number of unobserved sources of 14 infection .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We use these estimates within spatio-temporal geostatistical models to map how 15 transmission varied over time and space ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "estimate the timeline to elimination and the risk of 16 resurgence .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our estimates suggest that , maintaining current intervention efforts ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Yunnan is unlikely 17 to experience sustained local transmission up to 2020 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , even with a mean of 0.005 18 projected for the year 2019 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "locally-acquired cases are possible due to high levels of importation .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "8",
+    "segment_num": "15",
+    "token_num": "175"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "paper_id": "62219dc0553022e4faac2b1523e7e0a2d1eaec30",
+  "metadata": {
+    "title": "Analysis of mortality prognostic factors using model for end-stage liver disease with incorporation of serum-sodium classification for liver cirrhosis complications A retrospective cohort study",
+    "coda_data_split": "train",
+    "coda_paper_id": 2181,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Since the progression of cirrhosis is accelerated each time a complication recurs, the management and treatment of the complication is critical in enhancement of the quality of life and expectation of life in patients. The use of model for end-stage liver disease with incorporation of serum-sodium (MELD-Na) with physiological indicators can be used to assess severity and differentiate therapeutic interventions.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Since the progression of cirrhosis is accelerated each time a complication recurs ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the management and treatment of the complication is critical in enhancement of the quality of life and expectation of life in patients .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The use of model for end-stage liver disease with incorporation of serum-sodium ( MELD-Na ) with physiological indicators can be used to assess severity and differentiate therapeutic interventions .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "This study is aimed to determine the mean survival period and cumulative survival rate by classifying patients into high-risk and lowrisk groups based on MELD-Na, a predictor of mortality in liver disease, and to investigate the mortality prognostic factors.",
+      "sentences": [
+        [
+          {
+            "segment_text": "This study is aimed to determine the mean survival period and cumulative survival rate by classifying patients into high-risk and lowrisk groups based on MELD-Na ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "a predictor of mortality in liver disease ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and to investigate the mortality prognostic factors .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "A retrospective cohort study, which follows the STROBE checklist, was performed. 263 patients who were diagnosed with liver cirrhosis complications for the first time and hospitalized were selected as the subjects of this study. The collected data were analyzed based on the survival package provided by the statistical program R version 3.4.2.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A retrospective cohort study , which follows the STROBE checklist , was performed .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "263 patients who were diagnosed with liver cirrhosis complications for the first time and hospitalized were selected as the subjects of this study .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The collected data were analyzed based on the survival package provided by the statistical program R version 3.4.2 .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Subjects were classified into high-risk and low-risk groups using MELD-Na 14 points where sensitivity and specificity crossed the cut-off point. Gender, age, and primary caregiver were significant variables in the mortality high-risk group, and AST, albumin, and primary caregiver were significant variables in the mortality low-risk group. Based on these mortality prognostic factors, it is possible to present the factors affecting mortality in patients who were diagnosed with liver cirrhosis complications for the first time. The classification of patients by risk level could be the foundation to provide accurate guidelines for management and it is necessary to modify prognostic factors and apply nursing interventions to manage complications.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Subjects were classified into high-risk and low-risk groups using MELD-Na 14 points where sensitivity and specificity crossed the cut-off point .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Gender , age , and primary caregiver were significant variables in the mortality high-risk group ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and AST , albumin , and primary caregiver were significant variables in the mortality low-risk group .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Based on these mortality prognostic factors ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "it is possible to present the factors affecting mortality in patients who were diagnosed with liver cirrhosis complications for the first time .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The classification of patients by risk level could be the foundation to provide accurate guidelines for management and it is necessary to modify prognostic factors and apply nursing interventions to manage complications .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Abbreviations: AST \u003d aspartate transferase, MELD-Na \u003d model for end-stage liver disease with incorporation of serum-sodium.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Abbreviations : AST \u003d aspartate transferase ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "MELD-Na \u003d model for end-stage liver disease with incorporation of serum-sodium .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "11",
+    "segment_num": "17",
+    "token_num": "300"
+  }
+}

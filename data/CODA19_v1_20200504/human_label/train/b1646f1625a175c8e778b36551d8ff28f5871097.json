@@ -1,0 +1,281 @@
+{
+  "paper_id": "b1646f1625a175c8e778b36551d8ff28f5871097",
+  "metadata": {
+    "title": "The impact of infectious diseases on hotel occupancy rate based on independent component analysis",
+    "coda_data_split": "train",
+    "coda_paper_id": 8868,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The rapid growth of the tourism and hospitality industries serves as the major driving force for academic researchers to investigate the accurate forecasting of lodging demand in tourist destinations. For instance, Tsai et al. (2006) studied the relationship between hotel room demand/supply functions and room rate using a simultaneous equations model for determinants of room demand/supply in Las Vegas. In terms of optimal hotel rates, Pan (2007) proposed an optimal room rate model to set pricing strategies at peak or low seasons. Recently, Slattery (2009) suggested employing the Otus theory to study the relationships between economic structure and demand/ supply of hotel rooms.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The rapid growth of the tourism and hospitality industries serves as the major driving force for academic researchers to investigate the accurate forecasting of lodging demand in tourist destinations .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "For instance , Tsai et al. ( 2006 ) studied the relationship between hotel room demand/supply functions and room rate using a simultaneous equations model for determinants of room demand/supply in Las Vegas .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In terms of optimal hotel rates ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Pan ( 2007 ) proposed an optimal room rate model to set pricing strategies at peak or low seasons .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recently , Slattery ( 2009 ) suggested employing the Otus theory to study the relationships between economic structure and demand / supply of hotel rooms .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In this paper, a novel time series model is presented which models multivariate time series data. The advantage of this model is that the discovered factors are mutually independent and a univariate time series model can be applied to these factors without considering the factors\u0027 interdependence. The next section introduces the methodologies of independent component analysis. On the basis of this model, empirical studies on Hong Kong hotel occupancy rates are analyzed. The most dominant factor of infectious diseases is subsequently detected. At last, managerial implications and concluding remarks are provided.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this paper , a novel time series model is presented which models multivariate time series data .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The advantage of this model is that the discovered factors are mutually independent and a univariate time series model can be applied to these factors without considering the factors \u0027 interdependence .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The next section introduces the methodologies of independent component analysis .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "On the basis of this model ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "empirical studies on Hong Kong hotel occupancy rates are analyzed .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The most dominant factor of infectious diseases is subsequently detected .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "At last , managerial implications and concluding remarks are provided .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Independent component analysis (ICA) is a statistical technique that aims to capture observed data in terms of a linear combination of underlying latent variables. These latent variables are assumed to be non-Gaussian and mutually independent. A typical ICA model for an N-dimensional multivariate time series {x 1 \u003d(x it , . . ., x Nt ) 0 }: t \u003d 1, . . ., T) is",
+      "sentences": [
+        [
+          {
+            "segment_text": "Independent component analysis ( ICA ) is a statistical technique that aims to capture observed data in terms of a linear combination of underlying latent variables .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "These latent variables are assumed to be non-Gaussian and mutually independent .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A typical ICA model for an N-dimensional multivariate time series ( x 1 \u003d ( x it , ... , x Nt ) 0 ) : t \u003d 1 , ... , T ) is",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "where s t is a vector of statistically independent latent variables called independent components (ICs). A is an unknown constant mixing matrix, and T is the number of observations of the time series. The task of ICA is to identify both the ICs and the matrix A. Various algorithms for parameter estimation have been developed for ICA. Among them, a widely used one is the FastICA algorithm, which was proposed by Hyvä rinen et al. (2001).",
+      "sentences": [
+        [
+          {
+            "segment_text": "where s t is a vector of statistically independent latent variables called independent components ( ICs ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A is an unknown constant mixing matrix ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and T is the number of observations of the time series .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The task of ICA is to identify both the ICs and the matrix A. Various algorithms for parameter estimation have been developed for ICA .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Among them , a widely used one is the FastICA algorithm ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which was proposed by Hyvä rinen et al. ( 2001 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Since traditional ICA algorithms lack the ranking of ICs, Wu et al. (2006) proposed an ordering algorithm for independent components based on the minimizing mean squared errors (MSE) criterion. Based on this ordering method, ICs are sorted in a way such that modeling errors are minimized and dominant ICs are identified. Modifying the approach of Wu et al. (2006) , the major steps of modeling hotel occupancy rate using ICA are presented as follows:",
+      "sentences": [
+        [
+          {
+            "segment_text": "Since traditional ICA algorithms lack the ranking of ICs ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Wu et al. ( 2006 ) proposed an ordering algorithm for independent components based on the minimizing mean squared errors ( MSE ) criterion .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Based on this ordering method ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "ICs are sorted in a way such that modeling errors are minimized and dominant ICs are identified .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Modifying the approach of Wu et al. ( 2006 ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the major steps of modeling hotel occupancy rate using ICA are presented as follows :",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "1. Import the multivariate dataset (X) with number of N time series, each time series has T observations. 2. Use the FastICA algorithm to find the independent components (S) and the mixing matrix (A). 3. Use the independent component (IC) ordering method to order the ICs to find 1st IC, 2nd IC, 3rd IC, and so on.",
+      "sentences": [
+        [
+          {
+            "segment_text": "1 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Import the multivariate dataset ( X ) with number of N time series ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "each time series has T observations .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "2 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Use the FastICA algorithm to find the independent components ( S ) and the mixing matrix ( A ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "3 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Use the independent component ( IC ) ordering method to order the ICs to find 1st IC ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "2nd IC , 3rd IC , and so on .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The recent global outbreak of Influenza A (H1N1), or the more commonly known as swine flu, has negatively affected the tourism and hospitality industries in many countries. This article reports a study that applied independent component analysis, a novel statistical technique, to separate the dominant factors which determine the levels of hotel occupancy rates in Hong Kong. Empirical findings would provide useful insights on how the dynamic lodging demand reacts to epidemics based on the severity and duration of the events. ß",
+      "sentences": [
+        [
+          {
+            "segment_text": "The recent global outbreak of Influenza A ( H1N1 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "or the more commonly known as swine flu ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "has negatively affected the tourism and hospitality industries in many countries .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This article reports a study that applied independent component analysis ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a novel statistical technique , to separate the dominant factors which determine the levels of hotel occupancy rates in Hong Kong .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Empirical findings would provide useful insights on how the dynamic lodging demand reacts to epidemics based on the severity and duration of the events .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "ß",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "7",
+    "sentence_num": "30",
+    "segment_num": "42",
+    "token_num": "630"
+  }
+}

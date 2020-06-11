@@ -1,0 +1,79 @@
+{
+  "paper_id": "73a954bbd21a08cf0a662b37f1f97989285969c4",
+  "metadata": {
+    "title": "Prodrug defiance reveals logic-based strategies for treating bacterial resistance",
+    "coda_data_split": "train",
+    "coda_paper_id": 4815,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Classifying the mechanisms of antibiotic failure has led to the development of new treatment strategies for killing bacteria. Among the currently described mechanismswhich include resistance, persistence and tolerancewe propose defiance as a subclass of antibiotic failure specific to prodrugs. Using locked antimicrobial peptides (AMP) that are activated by bacterial 5 proteases as a prototypic prodrug, we observe that although treatment eliminates bacteria across the vast majority of environmental conditions (e.g., temperature, concentration of growth nutrients), bacteria spontaneously switch from susceptibility to defiance under conditions that alter the competing rates between bacterial proliferation and prodrug activation. To identify the determinants of this switch-like behavior, we model bacteria-prodrug dynamics as a multi-rate 10 feedback system and identify a dimensionless quantity we call the Bacterial Advantage Heuristic (BAH) that perfectly classifies bacteria as either defiant or susceptible across a broad range of treatment conditions. By recognizing that the bacterial switch from susceptibility to defiance behaves analogously to electronic transistors, we construct prodrug logic gates (e.g., AND, OR, NOT, etc.) to allow assembly of an integrated 3-bit multi-prodrug circuit that kills defiant bacteria 15 under all possible combinations of BAH values (i.e., 000, 001, …, 111) that represent a broad range of possible treatment conditions. Our study identifies a form of bacterial resistance specific to prodrugs that is described by a predictive dimensionless constant to reveal logic-based treatment strategies using multi-prodrug biological circuits.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Classifying the mechanisms of antibiotic failure has led to the development of new treatment strategies for killing bacteria .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Among the currently described mechanismswhich include resistance ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "persistence and tolerancewe propose defiance as a subclass of antibiotic failure specific to prodrugs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using locked antimicrobial peptides ( AMP ) that are activated by bacterial 5 proteases as a prototypic prodrug ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we observe that although treatment eliminates bacteria across the vast majority of environmental conditions ( e.g. , temperature , concentration of growth nutrients ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "bacteria spontaneously switch from susceptibility to defiance under conditions that alter the competing rates between bacterial proliferation and prodrug activation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "To identify the determinants of this switch-like behavior ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "we model bacteria-prodrug dynamics as a multi-rate 10 feedback system and identify a dimensionless quantity we call the Bacterial Advantage Heuristic ( BAH ) that perfectly classifies bacteria as either defiant or susceptible across a broad range of treatment conditions .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "By recognizing that the bacterial switch from susceptibility to defiance behaves analogously to electronic transistors ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we construct prodrug logic gates ( e.g. , AND , OR , NOT , etc. ) to allow assembly of an integrated 3-bit multi-prodrug circuit that kills defiant bacteria 15 under all possible combinations of BAH values ( i.e. , 000 , 001 , ... , 111 ) that represent a broad range of possible treatment conditions .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our study identifies a form of bacterial resistance specific to prodrugs that is described by a predictive dimensionless constant to reveal logic-based treatment strategies using multi-prodrug biological circuits .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "11",
+    "token_num": "260"
+  }
+}

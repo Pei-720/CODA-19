@@ -1,0 +1,97 @@
+{
+  "paper_id": "79246e2ed646afb4c999dd767475991807ac4a32",
+  "metadata": {
+    "title": "From the Similarity Analysis of Protein Cavities to the Functional Classification of Protein Families Using Cavbase Keywords: protein binding pockets; classification of protein binding pockets; cluster analysis of protein binding pockets; protein kinases; SARS protease",
+    "coda_data_split": "train",
+    "coda_paper_id": 10260,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "In this contribution, the classification of protein binding sites using the physicochemical properties exposed to their pockets is presented. We recently introduced Cavbase, a method for describing and comparing protein binding pockets on the basis of the geometrical and physicochemical properties of their active sites. Here, we present algorithmic and methodological enhancements in the Cavbase property description and in the cavity comparison step. We give examples of the Cavbase similarity analysis detecting pronounced similarities in the binding sites of proteins unrelated in sequence. A similarity search using SARS M pro protease subpockets as queries retrieved ligands and ligand fragments accommodated in a physicochemical environment similar to that of the query. This allowed the characterization of the protease recognition pockets and the identification of molecular building blocks that can be incorporated into novel antiviral compounds. A cluster analysis procedure for the functional classification of binding pockets was implemented and calibrated using a diverse set of enzyme binding sites. Two relevant protein families, the a-carbonic anhydrases and the protein kinases, are used to demonstrate the scope of our cluster approach. We propose a relevant classification of both protein families, on the basis of the binding motifs in their active sites. The classification provides a new perspective on functional properties across a protein family and is able to highlight features important for potency and selectivity. Furthermore, this information can be used to identify possible cross-reactivities among proteins due to similarities in their binding sites.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this contribution , the classification of protein binding sites using the physicochemical properties exposed to their pockets is presented .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We recently introduced Cavbase , a method for describing and comparing protein binding pockets on the basis of the geometrical and physicochemical properties of their active sites .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we present algorithmic and methodological enhancements in the Cavbase property description and in the cavity comparison step .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We give examples of the Cavbase similarity analysis detecting pronounced similarities in the binding sites of proteins unrelated in sequence .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A similarity search using SARS M pro protease subpockets as queries retrieved ligands and ligand fragments accommodated in a physicochemical environment similar to that of the query .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This allowed the characterization of the protease recognition pockets and the identification of molecular building blocks that can be incorporated into novel antiviral compounds .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A cluster analysis procedure for the functional classification of binding pockets was implemented and calibrated using a diverse set of enzyme binding sites .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Two relevant protein families , the a-carbonic anhydrases and the protein kinases ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "are used to demonstrate the scope of our cluster approach .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We propose a relevant classification of both protein families ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "on the basis of the binding motifs in their active sites .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The classification provides a new perspective on functional properties across a protein family and is able to highlight features important for potency and selectivity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , this information can be used to identify possible cross-reactivities among proteins due to similarities in their binding sites .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "11",
+    "segment_num": "13",
+    "token_num": "259"
+  }
+}

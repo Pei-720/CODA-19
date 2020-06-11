@@ -1,0 +1,69 @@
+{
+  "paper_id": "86ed10a6be151f520425e027ded2b9eb647ad9d6",
+  "metadata": {
+    "title": "Original Russian Text ©",
+    "coda_data_split": "train",
+    "coda_paper_id": 6743,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Separation of DNA replication and transcription, which occur in the nucleus, from protein syn thesis, which occurs in the cytoplasm, allows a more precise regulation of these processes. Selective exchange of macromolecules between the two compartments is mediated by proteins of the nuclear pore complex (NPC). Receptor proteins of the karyopherin family interact with NPC components and transfer their cargos between the nucleus and cytoplasm. Nucleocytoplasmic transport pathways are regulated at multiple levels by modulating the expression or function of individual cargoes, transport receptors, or the transport channel. The regulatory levels have increasingly broad effects on the transport pathways and affect a wide range of pro cesses from gene expression to development and differentiation.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Separation of DNA replication and transcription ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which occur in the nucleus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "from protein syn thesis , which occurs in the cytoplasm ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "allows a more precise regulation of these processes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Selective exchange of macromolecules between the two compartments is mediated by proteins of the nuclear pore complex ( NPC ) .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Receptor proteins of the karyopherin family interact with NPC components and transfer their cargos between the nucleus and cytoplasm .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Nucleocytoplasmic transport pathways are regulated at multiple levels by modulating the expression or function of individual cargoes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "transport receptors , or the transport channel .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The regulatory levels have increasingly broad effects on the transport pathways and affect a wide range of pro cesses from gene expression to development and differentiation .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "9",
+    "token_num": "127"
+  }
+}

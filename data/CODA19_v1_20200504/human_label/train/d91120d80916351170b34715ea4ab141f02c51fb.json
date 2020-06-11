@@ -1,0 +1,134 @@
+{
+  "paper_id": "d91120d80916351170b34715ea4ab141f02c51fb",
+  "metadata": {
+    "title": "Prophage genomics reveals patterns in phage genome organization and replication",
+    "coda_data_split": "train",
+    "coda_paper_id": 9409,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Temperate phage genomes are highly variable mosaic collections of genes that infect a bacterial host, integrate into the host\u0027s genome or replicate as low copy number plasmids, and are regulated to switch from the lysogenic to lytic cycles to generate new virions and escape their host. Genomes from most Bacterial phyla contain at least one or more prophages. We updated our PhiSpy algorithm to improve detection of prophages and to provide a web-based framework for PhiSpy. We have used this algorithm to identify 36,488 prophage regions from 11,941 bacterial genomes, including almost 600 prophages with no known homology to any proteins. Transfer RNA genes were abundant in the prophages, many of which alleviate the limits of translation efficiency due to host codon bias and presumably enable phages to surpass the normal capacity of the hosts\u0027 translation machinery. We identified integrase genes in 15,765 prophages (43% of the prophages). The integrase was routinely located at either end of the integrated phage genome, and was used to orient and align prophage genomes to reveal their underlying organization. The conserved genome alignments of phages recapitulate early, middle, and late gene order in transcriptional control of phage genes, and demonstrate that gene order, presumably selected by transcription timing and/or coordination among functional modules has been stably conserved throughout phage evolution.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Temperate phage genomes are highly variable mosaic collections of genes that infect a bacterial host ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "integrate into the host \u0027s genome or replicate as low copy number plasmids ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and are regulated to switch from the lysogenic to lytic cycles to generate new virions and escape their host .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Genomes from most Bacterial phyla contain at least one or more prophages .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We updated our PhiSpy algorithm to improve detection of prophages and to provide a web-based framework for PhiSpy .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We have used this algorithm to identify 36,488 prophage regions from 11,941 bacterial genomes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including almost 600 prophages with no known homology to any proteins .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Transfer RNA genes were abundant in the prophages ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "many of which alleviate the limits of translation efficiency due to host codon bias and presumably enable phages to surpass the normal capacity of the hosts \u0027 translation machinery .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We identified integrase genes in 15,765 prophages ( 43 % of the prophages ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The integrase was routinely located at either end of the integrated phage genome ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and was used to orient and align prophage genomes to reveal their underlying organization .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The conserved genome alignments of phages recapitulate early ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "middle , and late gene order in transcriptional control of phage genes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and demonstrate that gene order ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "presumably selected by transcription timing and/or coordination among functional modules has been stably conserved throughout phage evolution .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Here we presented an analysis of over 11,000 bacterial genomes from which we identified 36,488 prophages. Many phages appear to be limited by initiation of translation by the host\u0027s machinery, and may increase translation rates by carrying their own tRNA genes, effectively increasing the availability of both tRNAs loaded with methionine and of peptide deformylase. We have also demonstrated that phages maintain a highly conserved gene order that suggests phage genome mosaicism is limited to clusters of conserved genes rather than individual genes.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Here we presented an analysis of over 11,000 bacterial genomes from which we identified 36,488 prophages .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Many phages appear to be limited by initiation of translation by the host \u0027s machinery ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and may increase translation rates by carrying their own tRNA genes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "effectively increasing the availability of both tRNAs loaded with methionine and of peptide deformylase .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We have also demonstrated that phages maintain a highly conserved gene order that suggests phage genome mosaicism is limited to clusters of conserved genes rather than individual genes .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "11",
+    "segment_num": "21",
+    "token_num": "327"
+  }
+}

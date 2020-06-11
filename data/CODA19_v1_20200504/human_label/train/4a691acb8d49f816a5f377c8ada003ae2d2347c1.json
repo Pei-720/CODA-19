@@ -1,0 +1,51 @@
+{
+  "paper_id": "4a691acb8d49f816a5f377c8ada003ae2d2347c1",
+  "metadata": {
+    "title": "Prediction of quaternary assembly of SARS coronavirus peplomer",
+    "coda_data_split": "train",
+    "coda_paper_id": 5930,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The tertiary structures of the S1 and S2 domains of the spike protein of the coronavirus which is responsible of the severe acute respiratory syndrome (SARS) have been recently predicted. Here a molecular assembly of SARS coronavirus peplomer which accounts for the available functional data is suggested. The interaction between S1 and S2 appears to be stabilised by a large hydrophobic network of aromatic side chains present in both domains. This feature results to be common to all coronaviruses, suggesting potential targeting for drugs preventing coronavirus-related infections.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The tertiary structures of the S1 and S2 domains of the spike protein of the coronavirus which is responsible of the severe acute respiratory syndrome ( SARS ) have been recently predicted .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here a molecular assembly of SARS coronavirus peplomer which accounts for the available functional data is suggested .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The interaction between S1 and S2 appears to be stabilised by a large hydrophobic network of aromatic side chains present in both domains .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This feature results to be common to all coronaviruses ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "suggesting potential targeting for drugs preventing coronavirus-related infections .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "4",
+    "segment_num": "5",
+    "token_num": "94"
+  }
+}

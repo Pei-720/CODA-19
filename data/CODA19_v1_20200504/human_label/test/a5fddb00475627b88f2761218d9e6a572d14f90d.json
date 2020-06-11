@@ -1,0 +1,239 @@
+{
+  "paper_id": "a5fddb00475627b88f2761218d9e6a572d14f90d",
+  "metadata": {
+    "title": "Systems-Based Analysis of the Sarcocystis neurona Genome Identifies Pathways That Contribute to a Heteroxenous Life Cycle",
+    "coda_data_split": "test",
+    "coda_paper_id": 157,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Sarcocystis neurona is a member of the coccidia, a clade of single-celled parasites of medical and veterinary importance including Eimeria, Sarcocystis, Neospora, and Toxoplasma. Unlike Eimeria, a single-host enteric pathogen, Sarcocystis, Neospora, and Toxoplasma are two-host parasites that infect and produce infectious tissue cysts in a wide range of intermediate hosts. As a genus, Sarcocystis is one of the most successful protozoan parasites; all vertebrates, including birds, reptiles, fish, and mammals are hosts to at least one Sarcocystis species. Here we sequenced Sarcocystis neurona, the causal agent of fatal equine protozoal myeloencephalitis. The S. neurona genome is 127 Mbp, more than twice the size of other sequenced coccidian genomes. Comparative analyses identified conservation of the invasion machinery among the coccidia. However, many densegranule and rhoptry kinase genes, responsible for altering host effector pathways in Toxoplasma and Neospora, are absent from S. neurona. Further, S. neurona has a divergent repertoire of SRS proteins, previously implicated in tissue cyst formation in Toxoplasma. Systems-based analyses identified a series of metabolic innovations, including the ability to exploit alternative sources of energy. Finally, we present an S. neurona model detailing conserved molecular innovations that promote the transition from a purely enteric lifestyle (Eimeria) to a heteroxenous parasite capable of infecting a wide range of intermediate hosts.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Sarcocystis neurona is a member of the coccidia ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a clade of single-celled parasites of medical and veterinary importance including Eimeria ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Sarcocystis , Neospora , and Toxoplasma .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Unlike Eimeria , a single-host enteric pathogen ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Sarcocystis , Neospora , and Toxoplasma are two-host parasites that infect and produce infectious tissue cysts in a wide range of intermediate hosts .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As a genus , Sarcocystis is one of the most successful protozoan parasites ; all vertebrates ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including birds , reptiles , fish ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and mammals are hosts to at least one Sarcocystis species .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we sequenced Sarcocystis neurona ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the causal agent of fatal equine protozoal myeloencephalitis .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The S. neurona genome is 127 Mbp ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "more than twice the size of other sequenced coccidian genomes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Comparative analyses identified conservation of the invasion machinery among the coccidia .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , many densegranule and rhoptry kinase genes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "responsible for altering host effector pathways in Toxoplasma and Neospora ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "are absent from S. neurona .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Further , S. neurona has a divergent repertoire of SRS proteins ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "previously implicated in tissue cyst formation in Toxoplasma .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Systems-based analyses identified a series of metabolic innovations ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including the ability to exploit alternative sources of energy .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , we present an S. neurona model detailing conserved molecular innovations that promote the transition from a purely enteric lifestyle ( Eimeria ) to a heteroxenous parasite capable of infecting a wide range of intermediate hosts .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "IMPORTANCE Sarcocystis neurona is a member of the coccidia, a clade of single-celled apicomplexan parasites responsible for major economic and health care burdens worldwide. A cousin of Plasmodium, Cryptosporidium, Theileria, and Eimeria, Sarcocystis is one of the most successful parasite genera; it is capable of infecting all vertebrates (fish, reptiles, birds, and mammalsincluding humans). The past decade has witnessed an increasing number of human outbreaks of clinical significance associated with acute sarcocystosis. Among Sarcocystis species, S. neurona has a wide host range and causes fatal encephalitis in horses, marine mammals, and several other mammals. To provide insights into the transition from a purely enteric parasite (e.g., Eimeria) to one that forms tissue cysts (Toxoplasma), we present the first genome sequence of S. neurona. Comparisons with other coccidian genomes highlight the molecular innovations that drive its distinct life cycle strategies.",
+      "sentences": [
+        [
+          {
+            "segment_text": "IMPORTANCE Sarcocystis neurona is a member of the coccidia ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a clade of single-celled apicomplexan parasites responsible for major economic and health care burdens worldwide .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A cousin of Plasmodium , Cryptosporidium ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Theileria , and Eimeria , Sarcocystis is one of the most successful parasite genera ; it is capable of infecting all vertebrates ( fish , reptiles , birds , and mammalsincluding humans ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The past decade has witnessed an increasing number of human outbreaks of clinical significance associated with acute sarcocystosis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Among Sarcocystis species , S. neurona has a wide host range and causes fatal encephalitis in horses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "marine mammals , and several other mammals .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To provide insights into the transition from a purely enteric parasite ( e.g. , Eimeria ) to one that forms tissue cysts ( Toxoplasma ) ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "we present the first genome sequence of S. neurona .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Comparisons with other coccidian genomes highlight the molecular innovations that drive its distinct life cycle strategies .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Blazejewski T, Nursimulu N, Pszenny V, Dangoudoubiyam S, Namasivayam S, Chiasson MA, Chessman, Tonkin M, Swapna LS, Hung SS, Bridgers J, Ricklefs SM, Boulanger MJ, Dubey JP, Porcella SF, Kissinger JC, Howe DK, Grigg ME, Parkinson J. 2015. Systems-based analysis of the Sarcocystis neurona genome identifies pathways that contribute to a heteroxenous life cycle. mBio 6(1):e02445-14.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Blazejewski T , Nursimulu N ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "Pszenny V , Dangoudoubiyam S ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "Namasivayam S , Chiasson MA ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "Chessman , Tonkin M , Swapna LS ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "Hung SS , Bridgers J ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "Ricklefs SM , Boulanger MJ ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "Dubey JP , Porcella SF ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "Kissinger JC , Howe DK ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "Grigg ME , Parkinson J. 2015 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Systems-based analysis of the Sarcocystis neurona genome identifies pathways that contribute to a heteroxenous life cycle .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "mBio 6 ( 1 ) : e02445-14 .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "19",
+    "segment_num": "42",
+    "token_num": "493"
+  }
+}

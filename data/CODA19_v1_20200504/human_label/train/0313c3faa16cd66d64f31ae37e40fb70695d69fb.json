@@ -1,0 +1,109 @@
+{
+  "paper_id": "0313c3faa16cd66d64f31ae37e40fb70695d69fb",
+  "metadata": {
+    "title": "Feasibility Study of Mitigation and Suppression Intervention Strategies for Controlling COVID-19 Outbreaks in London and Wuhan",
+    "coda_data_split": "train",
+    "coda_paper_id": 8275,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Recent outbreak of coronavirus disease 2019 in China has lead a global pandemic around the world. For controlling COVID-19 outbreaks, most countries take two typical intervention strategies: suppression approach like immediately lock-downing cities at epicentre of and mitigation; or mitigation approach that slows down but not stopping epidemic of COVID-19 for reducing peak healthcare demand. Both strategies have their apparent merits and limitations; it becomes extremely hard to conduct one intervention strategy as the most feasible way to certain country. Targeting at this problem, this paper conducts a feasibility study by defining a mathematical model named SEMCR that access the effectiveness of mitigation, suppression and hybrid interventions for controlling COVID-19 outbreaks in London and Wuhan. The model first extends traditional SEIR (Susceptible-Exposed-Infectious-Recovered) model by considering one key fact: there is a direct link between Exposed and Recovered population. Then, it defines threshold and parameters to classify two stages of COVID control: active contain by isolation of cases and contacts, passive contain by suppression or mitigation. The model was fitted and evaluated with public dataset containing daily number of confirmed active cases including Wuhan, London, Hubei province and the UK during January, 2020 and March 2020. The simulated results show that 1) Suppression taken in Wuhan significantly reduces total exposed and infectious populations, but it has to be consistently maintained at least a period of 90 days (by the middle of April 2020) where its success relies on sufficient support from other parts of China. 2) In London, it is possible to take a hybrid intervention of suppression and mitigation for every 2 or 3 weeks over a longer period. While the total infectious populations will be doubled, the economic performance of London will be less affected due to limited mobility constraints. 3) Both in Wuhan and London cases,",
+      "sentences": [
+        [
+          {
+            "segment_text": "Recent outbreak of coronavirus disease 2019 in China has lead a global pandemic around the world .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "For controlling COVID-19 outbreaks , most countries take two typical intervention strategies : suppression approach like immediately lock-downing cities at epicentre of and mitigation ; or mitigation approach that slows down but not stopping epidemic of COVID-19 for reducing peak healthcare demand .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Both strategies have their apparent merits and limitations ; it becomes extremely hard to conduct one intervention strategy as the most feasible way to certain country .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Targeting at this problem , this paper conducts a feasibility study by defining a mathematical model named SEMCR that access the effectiveness of mitigation ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "suppression and hybrid interventions for controlling COVID-19 outbreaks in London and Wuhan .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The model first extends traditional SEIR ( Susceptible-Exposed-Infectious-Recovered ) model by considering one key fact : there is a direct link between Exposed and Recovered population .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Then , it defines threshold and parameters to classify two stages of COVID control : active contain by isolation of cases and contacts ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "passive contain by suppression or mitigation .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The model was fitted and evaluated with public dataset containing daily number of confirmed active cases including Wuhan ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "London , Hubei province and the UK during January , 2020 and March 2020 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The simulated results show that 1 ) Suppression taken in Wuhan significantly reduces total exposed and infectious populations ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but it has to be consistently maintained at least a period of 90 days ( by the middle of April 2020 ) where its success relies on sufficient support from other parts of China .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "2 ) In London , it is possible to take a hybrid intervention of suppression and mitigation for every 2 or 3 weeks over a longer period .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "While the total infectious populations will be doubled ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the economic performance of London will be less affected due to limited mobility constraints .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "3 ) Both in Wuhan and London cases ,",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "11",
+    "segment_num": "16",
+    "token_num": "332"
+  }
+}

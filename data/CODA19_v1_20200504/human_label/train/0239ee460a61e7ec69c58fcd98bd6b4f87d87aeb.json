@@ -1,0 +1,67 @@
+{
+  "paper_id": "0239ee460a61e7ec69c58fcd98bd6b4f87d87aeb",
+  "metadata": {
+    "title": "Dynamic modeling of cellular response to DNA damage based on p53 stress response networks",
+    "coda_data_split": "train",
+    "coda_paper_id": 7721,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Under acute perturbations from the outside, cells can trigger self-defensive mechanisms to fight against genome stress. To investigate the cellular response to continuous ion radiation (IR), a dynamic model for p53 stress response networks at the cellular level is proposed. The model can successfully be used to simulate the dynamic processes of double-strand breaks (DSBs) generation and their repair, switch-like ataxia telangiectasia mutated (ATM) activation, oscillations occurring in the p53-MDM2 feedback loop, as well as toxins elimination triggered by p53 stress response networks. Especially, the model can predict the plausible outcomes of cellular response under different IR dose regimes.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Under acute perturbations from the outside ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "cells can trigger self-defensive mechanisms to fight against genome stress .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To investigate the cellular response to continuous ion radiation ( IR ) ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "a dynamic model for p53 stress response networks at the cellular level is proposed .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The model can successfully be used to simulate the dynamic processes of double-strand breaks ( DSBs ) generation and their repair ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "switch-like ataxia telangiectasia mutated ( ATM ) activation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "oscillations occurring in the p53-MDM2 feedback loop ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as well as toxins elimination triggered by p53 stress response networks .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Especially , the model can predict the plausible outcomes of cellular response under different IR dose regimes .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "4",
+    "segment_num": "9",
+    "token_num": "115"
+  }
+}

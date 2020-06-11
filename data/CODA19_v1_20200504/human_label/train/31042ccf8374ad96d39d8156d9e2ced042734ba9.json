@@ -1,0 +1,65 @@
+{
+  "paper_id": "31042ccf8374ad96d39d8156d9e2ced042734ba9",
+  "metadata": {
+    "title": "High-throughput detection of mutations responsible for childhood hearing loss using resequencing microarrays",
+    "coda_data_split": "train",
+    "coda_paper_id": 7719,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Despite current knowledge of mutations in 45 genes that can cause nonsyndromic sensorineural hearing loss (SNHL), no unified clinical test has been developed that can comprehensively detect mutations in multiple genes. We therefore designed Affymetrix resequencing microarrays capable of resequencing 13 genes mutated in SNHL (GJB2, GJB6, CDH23, KCNE1, KCNQ1, MYO7A, OTOF, PDS, MYO6, SLC26A5, TMIE, TMPRSS3, USH1C). We present results from hearing loss arrays developed in two different research facilities and highlight some of the approaches we adopted to enhance the applicability of resequencing arrays in a clinical setting. Results: We leveraged sequence and intensity pattern features responsible for diminished coverage and accuracy and developed a novel algorithm, sPROFILER, which resolved \u003e80% of no-calls from GSEQ and allowed 99.6% (range: 99.2-99.8%) of sequence to be called, while maintaining overall accuracy at \u003e99.8% based upon dideoxy sequencing comparison. Conclusions: Together, these findings provide insight into critical issues for disease-centered resequencing protocols suitable for clinical application and support the use of array-based resequencing technology as a valuable molecular diagnostic tool for pediatric SNHL and other genetic diseases with substantial genetic heterogeneity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Despite current knowledge of mutations in 45 genes that can cause nonsyndromic sensorineural hearing loss ( SNHL ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "no unified clinical test has been developed that can comprehensively detect mutations in multiple genes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We therefore designed Affymetrix resequencing microarrays capable of resequencing 13 genes mutated in SNHL ( GJB2 , GJB6 , CDH23 , KCNE1 , KCNQ1 , MYO7A , OTOF , PDS , MYO6 , SLC26A5 , TMIE , TMPRSS3 , USH1C ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We present results from hearing loss arrays developed in two different research facilities and highlight some of the approaches we adopted to enhance the applicability of resequencing arrays in a clinical setting .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results : We leveraged sequence and intensity pattern features responsible for diminished coverage and accuracy and developed a novel algorithm ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "sPROFILER , which resolved \u003e 80 % of no-calls from GSEQ and allowed 99.6 % ( range : 99.2-99.8 % ) of sequence to be called ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while maintaining overall accuracy at \u003e 99.8 % based upon dideoxy sequencing comparison .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Conclusions : Together , these findings provide insight into critical issues for disease-centered resequencing protocols suitable for clinical application and support the use of array-based resequencing technology as a valuable molecular diagnostic tool for pediatric SNHL and other genetic diseases with substantial genetic heterogeneity .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "8",
+    "token_num": "219"
+  }
+}

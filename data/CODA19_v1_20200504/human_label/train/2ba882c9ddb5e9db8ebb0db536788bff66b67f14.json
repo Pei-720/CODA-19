@@ -1,0 +1,59 @@
+{
+  "paper_id": "2ba882c9ddb5e9db8ebb0db536788bff66b67f14",
+  "metadata": {
+    "title": "Beyond molecular tumor heterogeneity: protein synthesis takes control",
+    "coda_data_split": "train",
+    "coda_paper_id": 6688,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "One of the daunting challenges facing modern medicine lies in the understanding and treatment of tumor heterogeneity. Most tumors show intra-tumor heterogeneity at both genomic and proteomic levels, with marked impacts on the responses of therapeutic targets. Therapeutic target-related gene expression pathways are affected by hypoxia and cellular stress. However, the finding that targets such as eukaryotic initiation factor (eIF) 4E (and its phosphorylated form, p-eIF4E) are generally homogenously expressed throughout tumors, regardless of the presence of hypoxia or other cellular stress conditions, opens the exciting possibility that malignancies could be treated with therapies that combine targeting of eIF4E phosphorylation with immune checkpoint inhibitors or chemotherapy.",
+      "sentences": [
+        [
+          {
+            "segment_text": "One of the daunting challenges facing modern medicine lies in the understanding and treatment of tumor heterogeneity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Most tumors show intra-tumor heterogeneity at both genomic and proteomic levels ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with marked impacts on the responses of therapeutic targets .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therapeutic target-related gene expression pathways are affected by hypoxia and cellular stress .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the finding that targets such as eukaryotic initiation factor ( eIF ) 4E ( and its phosphorylated form , p-eIF4E ) are generally homogenously expressed throughout tumors ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "regardless of the presence of hypoxia or other cellular stress conditions ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "opens the exciting possibility that malignancies could be treated with therapies that combine targeting of eIF4E phosphorylation with immune checkpoint inhibitors or chemotherapy .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "4",
+    "segment_num": "7",
+    "token_num": "119"
+  }
+}

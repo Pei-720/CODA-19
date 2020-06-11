@@ -1,0 +1,137 @@
+{
+  "paper_id": "3289d3f6963ba040c68dbbde3120156d73e1e5b4",
+  "metadata": {
+    "title": "Visual tools to assess the plausibility of algorithm- identified infectious disease clusters: an application to mumps data from the Netherlands",
+    "coda_data_split": "train",
+    "coda_paper_id": 5779,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "With growing amounts of data available, identification of clusters of persons linked to each other by transmission of an infectious disease increasingly relies on automated algorithms. We propose cluster finding to be a two-step process: first, possible transmission clusters are identified using a cluster algorithm, second, the plausibility that the identified clusters represent genuine transmission clusters is evaluated. Aim: To introduce visual tools to assess automatically identified clusters. Methods: We developed tools to visualise: (i) clusters found in dimensions of time, geographical location and genetic data; (ii) nested sub-clusters within identified clusters; (iii) intra-cluster pairwise dissimilarities per dimension; (iv) intra-cluster correlation between dimensions. We applied our tools to notified mumps cases in the Netherlands with available disease onset date (January 2009 -June 2016), geographical information (location of residence), and pathogen sequence data (n \u003d 112). We compared identified clusters to clusters reported by the Netherlands Early Warning Committee (NEWC). Results: We identified five mumps clusters. Three clusters were considered plausible. One was questionable because, in phylogenetic analysis, genetic sequences related to it segregated in two groups. One was implausible with no smaller nested clusters, high intra-cluster dissimilarities on all dimensions, and low intra-cluster correlation between dimensions. The NEWC reports concurred with our findings: the plausible/questionable clusters corresponded to reported outbreaks; the implausible cluster did not. Conclusion: Our tools for assessing automatically identified clusters allow outbreak investigators to rapidly spot plausible transmission clusters for mumps and other human-to-human transmissible diseases. This fast information processing potentially reduces workload.",
+      "sentences": [
+        [
+          {
+            "segment_text": "With growing amounts of data available ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "identification of clusters of persons linked to each other by transmission of an infectious disease increasingly relies on automated algorithms .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We propose cluster finding to be a two-step process : first ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "possible transmission clusters are identified using a cluster algorithm ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "second , the plausibility that the identified clusters represent genuine transmission clusters is evaluated .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Aim : To introduce visual tools to assess automatically identified clusters .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Methods : We developed tools to visualise : ( i ) clusters found in dimensions of time ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "geographical location and genetic data ; ( ii ) nested sub-clusters within identified clusters ; ( iii ) intra-cluster pairwise dissimilarities per dimension ; ( iv ) intra-cluster correlation between dimensions .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We applied our tools to notified mumps cases in the Netherlands with available disease onset date ( January 2009 - June 2016 ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "geographical information ( location of residence ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and pathogen sequence data ( n \u003d 112 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We compared identified clusters to clusters reported by the Netherlands Early Warning Committee ( NEWC ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results : We identified five mumps clusters .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Three clusters were considered plausible .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "One was questionable because , in phylogenetic analysis ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "genetic sequences related to it segregated in two groups .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "One was implausible with no smaller nested clusters ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "high intra-cluster dissimilarities on all dimensions ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and low intra-cluster correlation between dimensions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The NEWC reports concurred with our findings : the plausible/questionable clusters corresponded to reported outbreaks ; the implausible cluster did not .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Conclusion : Our tools for assessing automatically identified clusters allow outbreak investigators to rapidly spot plausible transmission clusters for mumps and other human-to-human transmissible diseases .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This fast information processing potentially reduces workload .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "13",
+    "segment_num": "22",
+    "token_num": "298"
+  }
+}

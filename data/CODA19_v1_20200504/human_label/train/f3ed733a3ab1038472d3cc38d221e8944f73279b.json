@@ -1,0 +1,156 @@
+{
+  "paper_id": "f3ed733a3ab1038472d3cc38d221e8944f73279b",
+  "metadata": {
+    "title": "Can Routine Laboratory Tests Discriminate between Severe Acute Respiratory Syndrome and Other Causes of Community-Acquired Pneumonia?",
+    "coda_data_split": "train",
+    "coda_paper_id": 8247,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The clinical presentation of severe acute respiratory syndrome (SARS) resembles that of other etiologies of community-acquired pneumonia, making diagnosis difficult. Hematological and biochemical abnormalities, particularly lymphopenia, are common in patients with SARS.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The clinical presentation of severe acute respiratory syndrome ( SARS ) resembles that of other etiologies of community-acquired pneumonia , making diagnosis difficult .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hematological and biochemical abnormalities , particularly lymphopenia ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "are common in patients with SARS .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Methods. With the use of 2 databases, we compared the ability of the absolute lymphocyte count, absolute neutrophil count, lactate dehydrogenase level, creatine kinase level, alanine aminotransferase level, and serum calcium level at hospital admission to discriminate between cases of SARS and cases of community-acquired pneumonia. The SARS database contained data for 144 patients with SARS from the 2003 Toronto SARS outbreak. The community-acquired pneumonia database contained data for 8044 patients with community-acquired pneumonia from Edmonton, Canada. Patients from the SARS database were matched to patients from the communityacquired pneumonia database according to age, and receiver operating characteristic curves were constructed for each laboratory variable.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Methods .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "With the use of 2 databases ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we compared the ability of the absolute lymphocyte count ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "absolute neutrophil count , lactate dehydrogenase level ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "creatine kinase level , alanine aminotransferase level ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and serum calcium level at hospital admission to discriminate between cases of SARS and cases of community-acquired pneumonia .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The SARS database contained data for 144 patients with SARS from the 2003 Toronto SARS outbreak .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The community-acquired pneumonia database contained data for 8044 patients with community-acquired pneumonia from Edmonton , Canada .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Patients from the SARS database were matched to patients from the communityacquired pneumonia database according to age ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and receiver operating characteristic curves were constructed for each laboratory variable .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results. The areas under the receiver operating characteristic curves (AUCs) demonstrated fair to poor discriminatory ability for all laboratory variables tested except absolute neutrophil count, which had an AUC of 0.80, indicating good discriminatory ability (although there was no cutoff value of the absolute neutrophil count at which reasonable sensitivity or specificity could be obtained). Combinations of any 2 tests did not perform significantly better than did the absolute neutrophil count alone.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The areas under the receiver operating characteristic curves ( AUCs ) demonstrated fair to poor discriminatory ability for all laboratory variables tested except absolute neutrophil count ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which had an AUC of 0.80 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "indicating good discriminatory ability ( although there was no cutoff value of the absolute neutrophil count at which reasonable sensitivity or specificity could be obtained ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Combinations of any 2 tests did not perform significantly better than did the absolute neutrophil count alone .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Conclusions. Routine laboratory tests, including determination of absolute lymphocyte count, should not be used in the diagnosis of SARS or incorporated into current case definitions of SARS. The role of the absolute neutrophil count in SARS diagnosis is likely limited, but it should be assessed further.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Conclusions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Routine laboratory tests , including determination of absolute lymphocyte count ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "should not be used in the diagnosis of SARS or incorporated into current case definitions of SARS .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The role of the absolute neutrophil count in SARS diagnosis is likely limited ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but it should be assessed further .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "13",
+    "segment_num": "23",
+    "token_num": "290"
+  }
+}

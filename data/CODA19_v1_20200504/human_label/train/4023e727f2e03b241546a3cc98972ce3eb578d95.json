@@ -1,0 +1,69 @@
+{
+  "paper_id": "4023e727f2e03b241546a3cc98972ce3eb578d95",
+  "metadata": {
+    "title": "Detection of New Viruses by VIDISCA Virus Discovery Based on cDNA-Amplified Fragment Length Polymorphism",
+    "coda_data_split": "train",
+    "coda_paper_id": 6661,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Virus discovery based on cDNA-AFLP (amplified fragment length polymorphism) (VIDISCA) is a novel approach that provides a fast and effective tool for amplification of unknown genomes, e.g., of human pathogenic viruses. The VIDISCA method is based on double restriction enzyme processing of a target sequence and ligation of oligonucleotide adaptors that subsequently serve as priming sites for amplification. As the method is based on the common presence of restriction sites, it results in the generation of reproducible, species-specific amplification patterns. The method allows amplification and identification of viral RNA/DNA, with a lower cutoff value of 10 5 copies/ml for DNA viruses and 10 6 copies/ml for the RNA viruses. Previously, we described the identification of a novel human coronavirus, HCoV-NL63, with the use of the VIDISCA method.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Virus discovery based on cDNA-AFLP ( amplified fragment length polymorphism ) ( VIDISCA ) is a novel approach that provides a fast and effective tool for amplification of unknown genomes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "e.g. , of human pathogenic viruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The VIDISCA method is based on double restriction enzyme processing of a target sequence and ligation of oligonucleotide adaptors that subsequently serve as priming sites for amplification .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As the method is based on the common presence of restriction sites ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "it results in the generation of reproducible , species-specific amplification patterns .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The method allows amplification and identification of viral RNA/DNA ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with a lower cutoff value of 10 5 copies/ml for DNA viruses and 10 6 copies/ml for the RNA viruses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Previously , we described the identification of a novel human coronavirus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "HCoV-NL63 , with the use of the VIDISCA method .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "9",
+    "token_num": "144"
+  }
+}

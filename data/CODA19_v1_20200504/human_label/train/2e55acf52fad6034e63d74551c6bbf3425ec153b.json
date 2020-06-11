@@ -1,0 +1,364 @@
+{
+  "paper_id": "2e55acf52fad6034e63d74551c6bbf3425ec153b",
+  "metadata": {
+    "title": "",
+    "coda_data_split": "train",
+    "coda_paper_id": 3783,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "An Extended Signal Involved in Eukaryotic Ϫ1 Frameshifting Operates through Modification of the E Site tRNA tural element, often a pseudoknot or a stem-loop (Jacks et al., 1988). The secondary structure induces a ribosomal pause at the slippery site, and the heptamer sequence allows the slippage of ribosome bound A and P site tRNAs by one nucleotide in the 5Ј direction. The Mixte de Recherche 8621 Bâ timent 400 pause increases the probability of ribosomal movement Université Paris-Sud in the 5Ј direction, although pausing seems necessary, 91405 Orsay Cedex but not sufficient, for stimulation (Kontos et al., 2001). France More recently, a new sequence element-the spacer region located between the heptamer and the secondary structure-has been shown to modulate frameshift effi-Summary ciency both in prokaryotes and eukaryotes (Bekaert et al., 2003; Bertrand et al., 2002). By using a sensitive search program based on hidden Most Ϫ1 frameshift events have been reported in vi-Markov models (HMM), we identified 74 viruses carruses and transposons, where they serve in synthesis rying frameshift sites among 1500 fully sequenced viof replicase activities. This mode of expression allows rus genomes. These viruses are clustered in specific both a very precise control of the Gag-Pol/Gag ratio and families or genera. Sequence analysis of the frameshift a means of incorporating the enzymes necessary for the sites identified here, along with previously characterreplication cycle into the viral particle. Enhancement ized sites, identified a strong bias toward the two nuor reduction of the efficiency of this mechanism can cleotides 5 of the shifty heptamer signal. Functional influence virus viability (Dinman and Wickner, 1992; analysis in the yeast Saccharomyces cerevisiae dem-Shehu-Xhilaga et al., 2001). Very few cellular genes with onstrated that high frameshifting efficiency is corre-Ϫ1 frameshifting are presently known: the dnaX gene lated with the presence of a ⌿39 modification in the of Escherichia coli (Tsuchihashi and Kornberg, 1990), tRNA present in the E site of the ribosome at the time the cdd gene of Bacillus subtilis (Mejlhede et al., 1999), of frameshifting. These results demonstrate that an and the Edr gene of mouse (Shigemoto et al.,",
+      "sentences": [
+        [
+          {
+            "segment_text": "An Extended Signal Involved in Eukaryotic Ϫ1 Frameshifting Operates through Modification of the E Site tRNA tural element ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "often a pseudoknot or a stem-loop ( Jacks et al. , 1988 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The secondary structure induces a ribosomal pause at the slippery site ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and the heptamer sequence allows the slippage of ribosome bound A and P site tRNAs by one nucleotide in the 5Ј direction .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The Mixte de Recherche 8621 Bâ timent 400 pause increases the probability of ribosomal movement Université Paris-Sud in the 5Ј direction ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "although pausing seems necessary , 91405 Orsay Cedex but not sufficient ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "for stimulation ( Kontos et al. , 2001 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "France More recently , a new sequence element-the spacer region located between the heptamer and the secondary structure-has been shown to modulate frameshift effi-Summary ciency both in prokaryotes and eukaryotes ( Bekaert et al. , 2003 ; Bertrand et al. , 2002 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "By using a sensitive search program based on hidden Most Ϫ1 frameshift events have been reported in vi-Markov models ( HMM ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we identified 74 viruses carruses and transposons ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "where they serve in synthesis rying frameshift sites among 1500 fully sequenced viof replicase activities .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This mode of expression allows rus genomes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These viruses are clustered in specific both a very precise control of the Gag-Pol/Gag ratio and families or genera .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Sequence analysis of the frameshift a means of incorporating the enzymes necessary for the sites identified here ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "along with previously characterreplication cycle into the viral particle .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Enhancement ized sites , identified a strong bias toward the two nuor reduction of the efficiency of this mechanism can cleotides 5 of the shifty heptamer signal .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Functional influence virus viability ( Dinman and Wickner , 1992 ; analysis in the yeast Saccharomyces cerevisiae dem-Shehu-Xhilaga et al. , 2001 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Very few cellular genes with onstrated that high frameshifting efficiency is corre-Ϫ1 frameshifting are presently known : the dnaX gene lated with the presence of a ⌿ 39 modification in the of Escherichia coli ( Tsuchihashi and Kornberg , 1990 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "tRNA present in the E site of the ribosome at the time the cdd gene of Bacillus subtilis ( Mejlhede et al. , 1999 ) , of frameshifting .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These results demonstrate that an and the Edr gene of mouse ( Shigemoto et al. ,",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Even though the identification of novel genes regulated and suggest additional interactions between tRNAs by Ϫ1 frameshifting constitutes one of the postgenomic and the ribosome during decoding.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Even though the identification of novel genes regulated and suggest additional interactions between tRNAs by Ϫ1 frameshifting constitutes one of the postgenomic and the ribosome during decoding .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "challenges, there is presently no general method to do so (Namy et al., 2004) . We recently began a computa-Introduction tional approach to model frameshifting sites. The rationale was to observe more elements of the sequence in The universal rules of genetic translation have long been order to obtain a more precise description of characterknown. However, the present situation is more complex.",
+      "sentences": [
+        [
+          {
+            "segment_text": "challenges , there is presently no general method to do so ( Namy et al. , 2004 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We recently began a computa-Introduction tional approach to model frameshifting sites .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The rationale was to observe more elements of the sequence in The universal rules of genetic translation have long been order to obtain a more precise description of characterknown .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the present situation is more complex .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "ized frameshift signals, identify pertinent characteris-Firstly, the genetic code is not universal. In several ortics, and develop appropriate algorithms. This approach ganelles and protists, all genes are decoded by a variant previously allowed us to identify a strong bias in the code in which a stop codon reads as a sense codon. spacer sequence of eukaryotic viral frameshift signals.",
+      "sentences": [
+        [
+          {
+            "segment_text": "ized frameshift signals , identify pertinent characteris-Firstly ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the genetic code is not universal .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In several ortics , and develop appropriate algorithms .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This approach ganelles and protists ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "all genes are decoded by a variant previously allowed us to identify a strong bias in the code in which a stop codon reads as a sense codon .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "spacer sequence of eukaryotic viral frameshift signals .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "This bias was shown to be functionally relevant for the alteration of standard rules in an individually specific frameshifting mechanism (Bekaert et al., 2003). Howmanner for given mRNAs. Such extensions of the geever, only few frameshift signals have been functionally netic code are termed reprogrammed genetic decoding characterized, although several other sites are susor recoding events. Recoding is determined by particupected to possess such signals from sequence analysis. lar sequences that force the ribosome to escape stan-",
+      "sentences": [
+        [
+          {
+            "segment_text": "This bias was shown to be functionally relevant for the alteration of standard rules in an individually specific frameshifting mechanism ( Bekaert et al. , 2003 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Howmanner for given mRNAs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Such extensions of the geever ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "only few frameshift signals have been functionally netic code are termed reprogrammed genetic decoding characterized ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "although several other sites are susor recoding events .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recoding is determined by particupected to possess such signals from sequence analysis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "lar sequences that force the ribosome to escape stan -",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The original goal of this study was to identify new Ϫ1 dard translation. In vivo, recoding is often in competition frameshift sites in viruses, so as to enrich our collection with standard decoding and permits the synthesis of an of sites in the modeling process. We first quantified elongated polypeptide. Only a defined proportion of the frameshifting efficiency directed by 20 viruses carrying ribosomes translating a given recoded mRNA actually a putative or characterized frameshift site. From these use reprogrammed genetic decoding. Recoding exresults, we were able to develop a sensitive search tends the possibilities of increased diversity in gene based on HMM. This algorithm enabled us to detect Ϫ1 expression or regulation. frameshift sites in 74 viruses among the available, fully During programmed Ϫ1 frameshifting, ribosomes sequenced viruses. Sequence alignment of these virus switch to an alternative frame at a specific shift site, and sites identified a strong composition bias just upstream classical triplet decoding follows. Efficient Ϫ1 frameof the shifty heptanucleotide site. We demonstrate that shifting necessitates specific signals on the mRNA. Bathe sequence of this region actually affects frameshift sically, the model proposed by Jacks and Varmus identiefficiency in Saccharomyces cerevisiae. These results fied two components of frameshift signals: a slippery point to the possible involvement of pseudouridine at heptamer sequence, X XXY YYZ (the frame of the initiator position 39 of the tRNA present in the E site of the host AUG is indicated by a space), and a downstream struccell ribosome in modulating frameshifting efficiency. By using PUS3 yeast mutants lacking ⌿38/39 modifications, we show that frameshifting efficiency is modu-*Correspondence: jean-pierre.rousset@igmors.u-psud.fr",
+      "sentences": [
+        [
+          {
+            "segment_text": "The original goal of this study was to identify new Ϫ1 dard translation .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "In vivo , recoding is often in competition frameshift sites in viruses ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "so as to enrich our collection with standard decoding and permits the synthesis of an of sites in the modeling process .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We first quantified elongated polypeptide .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Only a defined proportion of the frameshifting efficiency directed by 20 viruses carrying ribosomes translating a given recoded mRNA actually a putative or characterized frameshift site .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "From these use reprogrammed genetic decoding .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recoding exresults , we were able to develop a sensitive search tends the possibilities of increased diversity in gene based on HMM .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This algorithm enabled us to detect Ϫ1 expression or regulation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "frameshift sites in 74 viruses among the available ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "fully During programmed Ϫ1 frameshifting , ribosomes sequenced viruses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Sequence alignment of these virus switch to an alternative frame at a specific shift site ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and sites identified a strong composition bias just upstream classical triplet decoding follows .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Efficient Ϫ1 frameof the shifty heptanucleotide site .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We demonstrate that shifting necessitates specific signals on the mRNA .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Bathe sequence of this region actually affects frameshift sically ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the model proposed by Jacks and Varmus identiefficiency in Saccharomyces cerevisiae .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These results fied two components of frameshift signals : a slippery point to the possible involvement of pseudouridine at heptamer sequence ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "X XXY YYZ ( the frame of the initiator position 39 of the tRNA present in the E site of the host AUG is indicated by a space ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and a downstream struccell ribosome in modulating frameshifting efficiency .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "By using PUS3 yeast mutants lacking ⌿ 38/39 modifications ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we show that frameshifting efficiency is modu - * Correspondence : jean-pierre.rousset@igmors.u-psud.fr",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "6",
+    "sentence_num": "40",
+    "segment_num": "59",
+    "token_num": "947"
+  }
+}

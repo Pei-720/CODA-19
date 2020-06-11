@@ -1,0 +1,127 @@
+{
+  "paper_id": "572e7221874d7e5d1c4ed293e60f021ba1d59367",
+  "metadata": {
+    "title": "Tissue tropism and transmission ecology predict virulence of human RNA viruses",
+    "coda_data_split": "train",
+    "coda_paper_id": 10543,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Novel infectious diseases continue to emerge within human populations. Predictive studies have begun to identify pathogen traits associated with emergence. However, emerging pathogens vary widely in virulence, a key determinant of their ultimate risk to public health. Here, we use structured literature searches to review the virulence of each of the 214 known human-infective RNA virus species. We then use a machine learning framework to determine whether viral virulence can be predicted by ecological traits, including human-tohuman transmissibility, transmission routes, tissue tropisms, and host range. Using severity of clinical disease as a measurement of virulence, we identified potential risk factors using predictive classification tree and random forest ensemble models. The random forest approach predicted literature-assigned disease severity of test data with mean accuracy of 89.4% compared to a null accuracy of 74.2%. In addition to viral taxonomy, the ability to cause systemic infection was the strongest predictor of severe disease. Further notable predictors of severe disease included having neural and/or renal tropism, direct contact or respiratory transmission, and limited (0 \u003c R 0 � 1) human-to-human transmissibility. We present a novel, to our knowledge, comparative perspective on the virulence of all currently known human RNA virus species. The risk factors identified may provide novel perspectives in understanding the evolution of virulence and elucidating molecular virulence mechanisms. These risk factors could also improve planning and preparedness in public health strategies as part of a predictive framework for novel human infections.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Novel infectious diseases continue to emerge within human populations .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Predictive studies have begun to identify pathogen traits associated with emergence .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , emerging pathogens vary widely in virulence ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a key determinant of their ultimate risk to public health .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we use structured literature searches to review the virulence of each of the 214 known human-infective RNA virus species .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We then use a machine learning framework to determine whether viral virulence can be predicted by ecological traits ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "including human-tohuman transmissibility , transmission routes ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "tissue tropisms , and host range .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using severity of clinical disease as a measurement of virulence ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we identified potential risk factors using predictive classification tree and random forest ensemble models .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The random forest approach predicted literature-assigned disease severity of test data with mean accuracy of 89.4 % compared to a null accuracy of 74.2 % .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition to viral taxonomy ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the ability to cause systemic infection was the strongest predictor of severe disease .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Further notable predictors of severe disease included having neural and/or renal tropism ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "direct contact or respiratory transmission ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and limited ( 0 \u003c R 0 1 ) human-to-human transmissibility .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We present a novel , to our knowledge ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "comparative perspective on the virulence of all currently known human RNA virus species .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The risk factors identified may provide novel perspectives in understanding the evolution of virulence and elucidating molecular virulence mechanisms .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These risk factors could also improve planning and preparedness in public health strategies as part of a predictive framework for novel human infections .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "12",
+    "segment_num": "20",
+    "token_num": "267"
+  }
+}

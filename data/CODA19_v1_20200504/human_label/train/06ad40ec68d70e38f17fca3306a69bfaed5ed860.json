@@ -1,0 +1,95 @@
+{
+  "paper_id": "06ad40ec68d70e38f17fca3306a69bfaed5ed860",
+  "metadata": {
+    "title": "[26] Receptor-Activated Binding of Viral Fusion Proteins to Target Membranes",
+    "coda_data_split": "train",
+    "coda_paper_id": 4457,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "repositories, such as the WHO COVID database with rights for unrestricted research re-use and analyses in any form or by any means with acknowledgement of the original source. These permissions are granted for free by Elsevier for as long as the COVID-19 resource centre remains active.",
+      "sentences": [
+        [
+          {
+            "segment_text": "repositories , such as the WHO COVID database with rights for unrestricted research re-use and analyses in any form or by any means with acknowledgement of the original source .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These permissions are granted for free by Elsevier for as long as the COVID-19 resource centre remains active .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "specific antibody, such as anti-FLAG. This is shown by quantification of the amount of europium released from the bound liposomes after addition of the DELFIA enhancement solution containing detergent.",
+      "sentences": [
+        [
+          {
+            "segment_text": "specific antibody , such as anti-FLAG .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This is shown by quantification of the amount of europium released from the bound liposomes after addition of the DELFIA enhancement solution containing detergent .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The one-step purification of proteins appears efficient and incorporation of the two proteins into liposomes seems quantitative, as the pellets, after ultracentrifugation, contain both fluorescent label and RV proteins. Coexpression of the two proteins in insect cells should enable formation of heterodimeric complexes, which would broaden the use of this type of RV-specific virosome, entrapping a lanthanide chelate as a label. In addition to the potential use of this kind of particle in diagnostics, this strategy may also enable studies aimed at solving problems related to basic biology.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The one-step purification of proteins appears efficient and incorporation of the two proteins into liposomes seems quantitative ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as the pellets , after ultracentrifugation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "contain both fluorescent label and RV proteins .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Coexpression of the two proteins in insect cells should enable formation of heterodimeric complexes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which would broaden the use of this type of RV-specific virosome ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "entrapping a lanthanide chelate as a label .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition to the potential use of this kind of particle in diagnostics ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "this strategy may also enable studies aimed at solving problems related to basic biology .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "7",
+    "segment_num": "12",
+    "token_num": "178"
+  }
+}

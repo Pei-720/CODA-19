@@ -1,0 +1,53 @@
+{
+  "paper_id": "f5436cfd3600fc0464b4c8b0ffd609217b64eea4",
+  "metadata": {
+    "title": "Yeast surface display for protein engineering and characterization",
+    "coda_data_split": "train",
+    "coda_paper_id": 2732,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Yeast surface display is being employed to engineer desirable properties into proteins for a broad variety of applications. Labeling with soluble ligands enables rapid and quantitative analysis of yeast-displayed libraries by flow cytometry, while libraries with insoluble or even as-yetuncharacterized binding targets can be screened through cell-surface selections. In parallel, the utilization of yeast surface display for protein characterization, including in particular the mapping of functional epitopes mediating protein-protein interactions, represents a significant recent advance.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Yeast surface display is being employed to engineer desirable properties into proteins for a broad variety of applications .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Labeling with soluble ligands enables rapid and quantitative analysis of yeast-displayed libraries by flow cytometry ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "while libraries with insoluble or even as-yetuncharacterized binding targets can be screened through cell-surface selections .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In parallel , the utilization of yeast surface display for protein characterization ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including in particular the mapping of functional epitopes mediating protein-protein interactions ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "represents a significant recent advance .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "3",
+    "segment_num": "6",
+    "token_num": "82"
+  }
+}

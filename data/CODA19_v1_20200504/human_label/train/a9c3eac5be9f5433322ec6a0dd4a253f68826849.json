@@ -1,0 +1,68 @@
+{
+  "paper_id": "a9c3eac5be9f5433322ec6a0dd4a253f68826849",
+  "metadata": {
+    "title": "Laboratory-Acquired Infections",
+    "coda_data_split": "train",
+    "coda_paper_id": 5141,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Laboratory-acquired infections due to a wide variety of bacteria, viruses, fungi, and parasites have been described. Although the precise risk of infection after an exposure remains poorly defined, surveys of laboratory-acquired infections suggest that Brucella species, Shigella species, Salmonella species, Mycobacterium tuberculosis, and Neisseria meningitidis are the most common causes.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Laboratory-acquired infections due to a wide variety of bacteria ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "viruses , fungi , and parasites have been described .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although the precise risk of infection after an exposure remains poorly defined ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "surveys of laboratory-acquired infections suggest that Brucella species ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Shigella species , Salmonella species ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Mycobacterium tuberculosis , and Neisseria meningitidis are the most common causes .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Physicians who care for a sick laboratory worker need to consider the likelihood of an occupationally acquired infection while advising exposed laboratory workers about postexposure prophylaxis. In addition, physicians should be aware of the importance of alerting the laboratory if infection with a high-risk agent is suspected.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Physicians who care for a sick laboratory worker need to consider the likelihood of an occupationally acquired infection while advising exposed laboratory workers about postexposure prophylaxis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , physicians should be aware of the importance of alerting the laboratory if infection with a high-risk agent is suspected .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "4",
+    "segment_num": "8",
+    "token_num": "110"
+  }
+}

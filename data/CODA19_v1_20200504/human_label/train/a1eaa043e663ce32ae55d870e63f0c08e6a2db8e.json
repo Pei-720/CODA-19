@@ -1,0 +1,87 @@
+{
+  "paper_id": "a1eaa043e663ce32ae55d870e63f0c08e6a2db8e",
+  "metadata": {
+    "title": "Prediction of the Health System Failure in Brazil amid Diverse Intervention Strategies",
+    "coda_data_split": "train",
+    "coda_paper_id": 4266,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "In this work we propose a data-driven age-structured census-based SIRD-like epidemiological model capable of forecasting the spread of COVID-19 in Brazil. We model the current scenario of closed schools and universities, social distancing of people above sixty years old and voluntary home quarantine to show that it is still not enough to protect the health system by explicitly computing the demand for hospital intensive care units. We also show that an urgent intense quarantine might be the only solution to avoid the collapse of the health system and, consequently, to minimize the quantity of deaths. On the other hand, we demonstrate that the relaxation of the already imposed control measures in the next days would be catastrophic.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this work we propose a data-driven age-structured census-based SIRD-like epidemiological model capable of forecasting the spread of COVID-19 in Brazil .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We model the current scenario of closed schools and universities ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "social distancing of people above sixty years old and voluntary home quarantine to show that it is still not enough to protect the health system by explicitly computing the demand for hospital intensive care units .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also show that an urgent intense quarantine might be the only solution to avoid the collapse of the health system and ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "consequently , to minimize the quantity of deaths .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "On the other hand , we demonstrate that the relaxation of the already imposed control measures in the next days would be catastrophic .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": ". CC-BY 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+      "sentences": [
+        [
+          {
+            "segment_text": ".",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "CC-BY 4.0 International license It is made available under a author/funder ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "who has granted medRxiv a license to display the preprint in perpetuity .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "is the (which was not peer-reviewed) The copyright holder for this preprint .",
+      "sentences": [
+        [
+          {
+            "segment_text": "is the ( which was not peer-reviewed ) The copyright holder for this preprint .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "7",
+    "segment_num": "10",
+    "token_num": "166"
+  }
+}

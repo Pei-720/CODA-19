@@ -1,0 +1,127 @@
+{
+  "paper_id": "97e07d83db421faee2a7a42a0e2c8a117c08b016",
+  "metadata": {
+    "title": "Open Access DATABASE Light whole genome sequence for SNP discovery across domestic cat breeds",
+    "coda_data_split": "train",
+    "coda_paper_id": 9763,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "The domestic cat has offered enormous genomic potential in the veterinary description of over 250 hereditary disease models as well as the occurrence of several deadly feline viruses (feline leukemia virus --FeLV, feline coronavirus --FECV, feline immunodeficiency virus -FIV) that are homologues to human scourges (cancer, SARS, and AIDS respectively). However, to realize this bio-medical potential, a high density single nucleotide polymorphism (SNP) map is required in order to accomplish disease and phenotype association discovery.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The domestic cat has offered enormous genomic potential in the veterinary description of over 250 hereditary disease models as well as the occurrence of several deadly feline viruses ( feline leukemia virus -- FeLV , feline coronavirus -- FECV , feline immunodeficiency virus - FIV ) that are homologues to human scourges ( cancer , SARS , and AIDS respectively ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , to realize this bio-medical potential ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a high density single nucleotide polymorphism ( SNP ) map is required in order to accomplish disease and phenotype association discovery .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "To remedy this, we generated 3,178,297 paired fosmid-end Sanger sequence reads from seven cats, and combined these data with the publicly available 2X cat whole genome sequence. All sequence reads were assembled together to form a 3X whole genome assembly allowing the discovery of over three million SNPs. To reduce potential false positive SNPs due to the low coverage assembly, a low upper-limit was placed on sequence coverage and a high lower-limit on the quality of the discrepant bases at a potential variant site. In all domestic cats of different breeds: female Abyssinian, female American shorthair, male Cornish Rex, female European Burmese, female Persian, female Siamese, a male Ragdoll and a female African wildcat were sequenced lightly. We report a total of 964 k common SNPs suitable for a domestic cat SNP genotyping array and an additional 900 k SNPs detected between African wildcat and domestic cats breeds. An empirical sampling of 94 discovered SNPs were tested in the sequenced cats resulting in a SNP validation rate of 99%.",
+      "sentences": [
+        [
+          {
+            "segment_text": "To remedy this , we generated 3,178,297 paired fosmid-end Sanger sequence reads from seven cats ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and combined these data with the publicly available 2X cat whole genome sequence .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "All sequence reads were assembled together to form a 3X whole genome assembly allowing the discovery of over three million SNPs .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "To reduce potential false positive SNPs due to the low coverage assembly ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "a low upper-limit was placed on sequence coverage and a high lower-limit on the quality of the discrepant bases at a potential variant site .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In all domestic cats of different breeds : female Abyssinian ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "female American shorthair , male Cornish Rex ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "female European Burmese , female Persian ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "female Siamese , a male Ragdoll and a female African wildcat were sequenced lightly .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We report a total of 964 k common SNPs suitable for a domestic cat SNP genotyping array and an additional 900 k SNPs detected between African wildcat and domestic cats breeds .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "An empirical sampling of 94 discovered SNPs were tested in the sequenced cats resulting in a SNP validation rate of 99 % .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "These data provide a large collection of mapped feline SNPs across the cat genome that will allow for the development of SNP genotyping platforms for mapping feline diseases. Figure 2 SNP distribution. The fraction of windows with one or more SNPs for a range of window sizes and three categories of SNPs: all SNPs, all except Cinnamon and all except Cinnamon and Nancy.",
+      "sentences": [
+        [
+          {
+            "segment_text": "These data provide a large collection of mapped feline SNPs across the cat genome that will allow for the development of SNP genotyping platforms for mapping feline diseases .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Figure 2 SNP distribution .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The fraction of windows with one or more SNPs for a range of window sizes and three categories of SNPs : all SNPs ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "all except Cinnamon and all except Cinnamon and Nancy .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "11",
+    "segment_num": "18",
+    "token_num": "346"
+  }
+}

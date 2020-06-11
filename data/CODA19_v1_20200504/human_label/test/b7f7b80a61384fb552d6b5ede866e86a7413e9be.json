@@ -1,0 +1,225 @@
+{
+  "paper_id": "b7f7b80a61384fb552d6b5ede866e86a7413e9be",
+  "metadata": {
+    "title": "",
+    "coda_data_split": "test",
+    "coda_paper_id": 936,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "macaque monkeys, suggest that l ranges between 3.2 £ 10 26 and 8.1 £ 10 25 per day 27,28 . Thus, l is much smaller than v. The dose to cause disease with probability p ¼ P/100 is called the infectious dose ID(P) and is given by 20 D ¼ 2ðl þ vÞlnð1 2 pÞ\u003dl: Substituting this expression for D into the formula for c and approximating l þ v \u003c v, we find",
+      "sentences": [
+        [
+          {
+            "segment_text": "macaque monkeys , suggest that l ranges between 3.2 £ 10 26 and 8.1 £ 10 25 per day 27,28 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , l is much smaller than v .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The dose to cause disease with probability p 1/4 P/100 is called the infectious dose ID ( P ) and is given by 20 D 1/4 2ðl þ vÞlnð1 2 pÞ \u003d l : Substituting this expression for D into the formula for c and approximating l þ v \u003c v , we find",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Thus, we have the surprising mathematical result that it is not necessary to have a precise value for l to obtain our key results. We divide the population into subgroups in which the periods of disease protection are the same for all persons in a subgroup. For example, consider a subgroup in which antibiotic protection begins at time t 1 and stops at time t 2 , then we set t 3 to infinity in equation (1). Suppose further that post-exposure vaccine protection is achieved at t v , which occurs before antibiotic protection stops (t v , t 2 ), then t 2 and t 3 are set to infinity. If vaccine protection occurs after antibiotic protection stops then t 3 is set equal to t v . The cumulative probability of disease in the population (c) is then a weighted average of the values of c for each subgroup, where the weights are the proportions of people in subgroups. These proportions are determined by the distributions of times in which vaccine immunity is achieved, and the antibiotic start and stop dates (determined by antibiotic adherence rates and efficacy). Among persons exposed to the ID(P), the percentage of cases prevented with post-exposure interventions is:",
+      "sentences": [
+        [
+          {
+            "segment_text": "Thus , we have the surprising mathematical result that it is not necessary to have a precise value for l to obtain our key results .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We divide the population into subgroups in which the periods of disease protection are the same for all persons in a subgroup .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "For example , consider a subgroup in which antibiotic protection begins at time t 1 and stops at time t 2 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "then we set t 3 to infinity in equation ( 1 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Suppose further that post-exposure vaccine protection is achieved at t v ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which occurs before antibiotic protection stops ( t v , t 2 ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "then t 2 and t 3 are set to infinity .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "If vaccine protection occurs after antibiotic protection stops then t 3 is set equal to t v .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The cumulative probability of disease in the population ( c ) is then a weighted average of the values of c for each subgroup ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "where the weights are the proportions of people in subgroups .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These proportions are determined by the distributions of times in which vaccine immunity is achieved ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the antibiotic start and stop dates ( determined by antibiotic adherence rates and efficacy ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Among persons exposed to the ID ( P ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the percentage of cases prevented with post-exposure interventions is :",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Impact of pre-exposure vaccination",
+      "sentences": [
+        [
+          {
+            "segment_text": "Impact of pre-exposure vaccination",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The impact of adding a pre-exposure vaccination programme is to reduce the cumulative probability of disease from c to cð1 2 bfÞ; in which f is the vaccine efficacy (that is, the probability that the vaccine protects from disease), and b is the vaccine coverage (that is, the fraction of the population that receives pre-exposure vaccination). The fraction r of all cases prevented by adding a pre-exposure vaccination programme to the post-exposure prophylaxis strategy among persons exposed to the ID(P), is:",
+      "sentences": [
+        [
+          {
+            "segment_text": "The impact of adding a pre-exposure vaccination programme is to reduce the cumulative probability of disease from c to cð1 2 bfÞ ; in which f is the vaccine efficacy ( that is , the probability that the vaccine protects from disease ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and b is the vaccine coverage ( that is , the fraction of the population that receives pre-exposure vaccination ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The fraction r of all cases prevented by adding a pre-exposure vaccination programme to the post-exposure prophylaxis strategy among persons exposed to the ID ( P ) , is :",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "If we solve equation (3) ",
+      "sentences": [
+        [
+          {
+            "segment_text": "If we solve equation ( 3 )",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The above equation for b was used to calculate the vaccine coverage rates given in Table  3 with r ¼ 0.75 and 0.90.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The above equation for b was used to calculate the vaccine coverage rates given in Table 3 with r 1/4 0.75 and 0.90 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Consider two situations. In situation 1, antibiotics stop at time t v , at which time vaccine protection begins with probability f. In situation 2, antibiotics are continued for a longer period of time, until t 2 , but there is no vaccine protection. We calculate by how much time antibiotics can be shortened (t 2 2 t v ) in order that the disease risks in the two situations are equal. We set the two probabilities of disease conditional on being disease free at t v equal to each other. Solving that equation and approximating l þ v \u003c v, we obtain t 2 2 t v ¼ [2ln(1 2 f)]/v; this was used to produce Fig. 2. ",
+      "sentences": [
+        [
+          {
+            "segment_text": "Consider two situations .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In situation 1 , antibiotics stop at time t v ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "at which time vaccine protection begins with probability f .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In situation 2 , antibiotics are continued for a longer period of time ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "until t 2 , but there is no vaccine protection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We calculate by how much time antibiotics can be shortened ( t 2 2 t v ) in order that the disease risks in the two situations are equal .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We set the two probabilities of disease conditional on being disease free at t v equal to each other .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Solving that equation and approximating l þ v \u003c v ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we obtain t 2 2 t v 1/4 ( 2ln ( 1 2 f ) ) / v ; this was used to produce Fig. 2 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "7",
+    "sentence_num": "22",
+    "segment_num": "32",
+    "token_num": "580"
+  }
+}

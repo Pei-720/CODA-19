@@ -1,0 +1,268 @@
+{
+  "paper_id": "201c08e3aee651a579d97d12b2ef4297a3b0992e",
+  "metadata": {
+    "title": "A general insert label for peptide display on chimeric filamentous bacteriophages",
+    "coda_data_split": "train",
+    "coda_paper_id": 7142,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The foreign insert intended to be displayed via recombinant phage proteins can have a negative effect on protein expression and phage assembly. A typical example is the case of display of peptides longer than 6 amino acid residues on the major coat protein, protein VIII of the filamentous bacteriophages M13 and fd. A solution to this problem has been the use of \u0027\u0027two-gene systems\u0027\u0027 generating chimeric phages that concomitantly express wild-type protein VIII along with recombinant protein VIII. Although the two-gene systems are much more permissive in regard to insert length and composition, some cases can still adversely affect phage assembly. Although these phages genotypically contain the desired DNA of the insert, they appear to be phenotypically wild type. To avoid false-negative results when using chimeric phages in binding studies, it is necessary to confirm that the observed lack of phage recognition is not due to faulty assembly and display of the intended insert. Here we describe a strategy for generating antibodies that specifically recognize recombinant protein VIII regardless of the nature of its foreign insert. These antibodies can be used as a general monitor of the display of recombinant protein VIII into phage particles.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The foreign insert intended to be displayed via recombinant phage proteins can have a negative effect on protein expression and phage assembly .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A typical example is the case of display of peptides longer than 6 amino acid residues on the major coat protein ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "protein VIII of the filamentous bacteriophages M13 and fd .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A solution to this problem has been the use of `` two-gene systems \u0027\u0027 generating chimeric phages that concomitantly express wild-type protein VIII along with recombinant protein VIII .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although the two-gene systems are much more permissive in regard to insert length and composition ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "some cases can still adversely affect phage assembly .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although these phages genotypically contain the desired DNA of the insert ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "they appear to be phenotypically wild type .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To avoid false-negative results when using chimeric phages in binding studies ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "it is necessary to confirm that the observed lack of phage recognition is not due to faulty assembly and display of the intended insert .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we describe a strategy for generating antibodies that specifically recognize recombinant protein VIII regardless of the nature of its foreign insert .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "These antibodies can be used as a general monitor of the display of recombinant protein VIII into phage particles .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Ó 2011 Elsevier Inc. All rights reserved.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Ó 2011 Elsevier Inc. .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "All rights reserved .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Filamentous bacteriophages have proven to be an extremely useful tool for the study of protein-protein interactions [1,2] and have had a profound impact on the analysis of antibody-peptide binding [3] [4] [5] . Of the five structural proteins that make up filamentous phages, proteins III and VIII are most often used as N-terminal fusion proteins, displaying their foreign inserts on the phage surface [6] . Protein III most easily displays inserts and can express proteins hundreds of amino acids in length without a negative impact on assembly or titer of phages. Thus, protein III is routinely used in antibody phage display where either Fab or single-chain antibodies are expressed [7, 8] . Although this system is quite efficient and widely used, the number of antibody or insert copies is limited to the five copies of protein III per phage. In situations where higher insert density is desirable, protein VIII should be considered. This is due to the fact that the filament structure is composed of some 2700 copies of protein VIII, a short 50-aminoacid protein that associates with the phage single-stranded DNA at its carboxy terminus and displays its free N terminus on the surface of the phage [6]. Peptide inserts can be introduced at the Nterminal aspect of protein VIII without disrupting the assembly so long as they are kept shorter than 6 to 8 residues [9,10]. Expression of longer peptides on all copies of protein VIII interferes with proper phage assembly. Thus, for instance, Cesareni and coworkers reported that only 20% of phage clones inserted with random octapeptides and 1% of clones inserted with random decapeptides pro-duce viable phage particles [9] . Longer inserts can be displayed employing a \u0027\u0027two-gene system\u0027\u0027 where two versions of protein VIII are expressed in the infected bacterium, one corresponding to unaltered wild-type protein VIII and the other being a recombinant that can display peptides even longer than 100 amino acids in its N-terminal aspect [11] . In this situation, assembly of the phage generates chimeric phages containing mostly wild-type protein VIII studded here and there with recombinant versions displaying their peptide insert at the phage surface [12] . Moreover, such chimeric phages may contain recombinant protein VIII displaying large inserts at extremely low levels [11, 13] . To complicate matters, it has been shown that not only the length but also the sequence of the insert can affect incorporation levels into phage particles by affecting the critical steps of protein VIII membrane insertion and processing [13] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Filamentous bacteriophages have proven to be an extremely useful tool for the study of protein-protein interactions ( 1,2 ) and have had a profound impact on the analysis of antibody-peptide binding ( 3 ) ( 4 ) ( 5 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Of the five structural proteins that make up filamentous phages ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "proteins III and VIII are most often used as N-terminal fusion proteins ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "displaying their foreign inserts on the phage surface ( 6 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Protein III most easily displays inserts and can express proteins hundreds of amino acids in length without a negative impact on assembly or titer of phages .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , protein III is routinely used in antibody phage display where either Fab or single-chain antibodies are expressed ( 7 , 8 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although this system is quite efficient and widely used ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the number of antibody or insert copies is limited to the five copies of protein III per phage .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In situations where higher insert density is desirable ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "protein VIII should be considered .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This is due to the fact that the filament structure is composed of some 2700 copies of protein VIII ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a short 50-aminoacid protein that associates with the phage single-stranded DNA at its carboxy terminus and displays its free N terminus on the surface of the phage ( 6 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Peptide inserts can be introduced at the Nterminal aspect of protein VIII without disrupting the assembly so long as they are kept shorter than 6 to 8 residues ( 9,10 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Expression of longer peptides on all copies of protein VIII interferes with proper phage assembly .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , for instance , Cesareni and coworkers reported that only 20 % of phage clones inserted with random octapeptides and 1 % of clones inserted with random decapeptides pro-duce viable phage particles ( 9 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Longer inserts can be displayed employing a `` two-gene system \u0027\u0027 where two versions of protein VIII are expressed in the infected bacterium ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "one corresponding to unaltered wild-type protein VIII and the other being a recombinant that can display peptides even longer than 100 amino acids in its N-terminal aspect ( 11 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this situation , assembly of the phage generates chimeric phages containing mostly wild-type protein VIII studded here and there with recombinant versions displaying their peptide insert at the phage surface ( 12 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , such chimeric phages may contain recombinant protein VIII displaying large inserts at extremely low levels ( 11 , 13 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To complicate matters , it has been shown that not only the length but also the sequence of the insert can affect incorporation levels into phage particles by affecting the critical steps of protein VIII membrane insertion and processing ( 13 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Although expression of peptides using this two-gene system is generally efficient and has only a marginal effect on the titer of chimeric phages, in some instances the particular nature of the peptide might be incompatible with functional phage assembly with two possible outcomes: (i) the recombinant protein VIII causes a block in assembly, leading to a dramatic drop in phage titer [9], or (ii) provided that a wild-type gene is expressed, the problematic recombinant protein VIII is simply not incorporated into the assembling phage, generating phages that phenotypically are uniformly wild type. Such phages are misleading in binding experiments because no binding is observed, not due to lack of peptide recognition but rather due to faulty display. To discriminate between these two options, it would be useful to have a specific 0003-2697/$ -see front matter Ó",
+      "sentences": [
+        [
+          {
+            "segment_text": "Although expression of peptides using this two-gene system is generally efficient and has only a marginal effect on the titer of chimeric phages ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "in some instances the particular nature of the peptide might be incompatible with functional phage assembly with two possible outcomes : ( i ) the recombinant protein VIII causes a block in assembly ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "leading to a dramatic drop in phage titer ( 9 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "or ( ii ) provided that a wild-type gene is expressed ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the problematic recombinant protein VIII is simply not incorporated into the assembling phage ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "generating phages that phenotypically are uniformly wild type .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Such phages are misleading in binding experiments because no binding is observed ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "not due to lack of peptide recognition but rather due to faulty display .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "To discriminate between these two options ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "it would be useful to have a specific 0003-2697 / $ - see front matter Ó",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "27",
+    "segment_num": "44",
+    "token_num": "838"
+  }
+}

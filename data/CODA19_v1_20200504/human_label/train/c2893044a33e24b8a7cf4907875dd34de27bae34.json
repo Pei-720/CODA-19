@@ -1,0 +1,55 @@
+{
+  "paper_id": "c2893044a33e24b8a7cf4907875dd34de27bae34",
+  "metadata": {
+    "title": "Drug repurposing: a better approach for infectious disease drug discovery?",
+    "coda_data_split": "train",
+    "coda_paper_id": 3207,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The advent of publicly available databases containing systemwide phenotypic data of the host response to both drugs and pathogens, in conjunction with bioinformatics and computational methods now allows for in silico predictions of FDA-approved drugs as treatments against infection diseases. This systems biology approach captures the complexity of both the pathogen and drug host response in the form of expression patterns or molecular interaction networks without having to understand the underlying mechanisms of action. These drug repurposing techniques have been successful in identifying new drug candidates for several types of cancers and were recently used to identify potential therapeutics against influenza, the newly discovered Middle Eastern Respiratory Syndrome coronavirus and several parasitic diseases. These new approaches have the potential to significantly reduce both the time and cost for infectious diseases drug discovery.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The advent of publicly available databases containing systemwide phenotypic data of the host response to both drugs and pathogens ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "in conjunction with bioinformatics and computational methods now allows for in silico predictions of FDA-approved drugs as treatments against infection diseases .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This systems biology approach captures the complexity of both the pathogen and drug host response in the form of expression patterns or molecular interaction networks without having to understand the underlying mechanisms of action .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "These drug repurposing techniques have been successful in identifying new drug candidates for several types of cancers and were recently used to identify potential therapeutics against influenza ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the newly discovered Middle Eastern Respiratory Syndrome coronavirus and several parasitic diseases .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These new approaches have the potential to significantly reduce both the time and cost for infectious diseases drug discovery .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "4",
+    "segment_num": "6",
+    "token_num": "138"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "paper_id": "c5ff0e8849181e53f6cd7b5479c3fa62487f578f",
+  "metadata": {
+    "title": "DATA-DRIVEN OUTBREAK FORECASTING WITH A SIMPLE NONLINEAR GROWTH MODEL TECHNICAL APPENDICES",
+    "coda_data_split": "train",
+    "coda_paper_id": 5853,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "1. Data collection. Epidemiological data were collected from a variety of online sources. If we were able to find reports listing numbers of confirmed and suspected cases, we used that information. If the epidemiological curve was available online as a graph, which is the case for data obtained from the CDC (Centers for Disease Control and Prevention) and Eurosurveillance sites, we estimated numbers from the graph and matched the plot of the estimated data with the online source. This can conveniently be done in Excel by plotting our estimated numbers on a graph with a transparent background and superimposing the resulting plot on a copy of the epidemiological curve posted online. The data we used are available online at github.com/ JocelineLega/EpiGro.",
+      "sentences": [
+        [
+          {
+            "segment_text": "1 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Data collection .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Epidemiological data were collected from a variety of online sources .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "If we were able to find reports listing numbers of confirmed and suspected cases , we used that information .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "If the epidemiological curve was available online as a graph ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which is the case for data obtained from the CDC ( Centers for Disease Control and Prevention ) and Eurosurveillance sites ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we estimated numbers from the graph and matched the plot of the estimated data with the online source .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This can conveniently be done in Excel by plotting our estimated numbers on a graph with a transparent background and superimposing the resulting plot on a copy of the epidemiological curve posted online .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The data we used are available online at github.com / JocelineLega/EpiGro .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "• Data for the 2014-15 chikungunya outbreak in the PAHO countries and territories were extracted from weekly reports published on the PAHO website (1), for the 71-week period from January 3, 2014 to May 8, 2015. Confirmed (autochthonous + imported) and suspected cases are included in this analysis. Not all countries provided weekly revisions of the total number of reported cases, leading to groups of consecutive data points with equal value. In the calculation of the outbreak growth rate, we use a time unit of one week. We do not compensate for the fact that the 53 rd week of 2014 has only 4 days; since the data are first smoothed and then interpolated, such a variation leads to a change in the instantaneous growth rate that is comparable to the size of uncertainties due to fluctuations in the number of reported cases, and is therefore negligible. Excel files with these data are provided for the Dominican Republic (CHIK Dom Rep.xlsx), Guadeloupe (CHIK Guadeloupe.xlsx), and Dominica (CHIK Dominica.xlsx).",
+      "sentences": [
+        [
+          {
+            "segment_text": "• Data for the 2014-15 chikungunya outbreak in the PAHO countries and territories were extracted from weekly reports published on the PAHO website ( 1 ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "for the 71-week period from January 3 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "2014 to May 8 , 2015 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Confirmed ( autochthonous + imported ) and suspected cases are included in this analysis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Not all countries provided weekly revisions of the total number of reported cases ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "leading to groups of consecutive data points with equal value .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the calculation of the outbreak growth rate ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we use a time unit of one week .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We do not compensate for the fact that the 53 rd week of 2014 has only 4 days ; since the data are first smoothed and then interpolated ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "such a variation leads to a change in the instantaneous growth rate that is comparable to the size of uncertainties due to fluctuations in the number of reported cases , and is therefore negligible .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Excel files with these data are provided for the Dominican Republic ( CHIK Dom Rep.xlsx ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Guadeloupe ( CHIK Guadeloupe.xlsx ) ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "and Dominica ( CHIK Dominica.xlsx ) .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "13",
+    "segment_num": "22",
+    "token_num": "328"
+  }
+}

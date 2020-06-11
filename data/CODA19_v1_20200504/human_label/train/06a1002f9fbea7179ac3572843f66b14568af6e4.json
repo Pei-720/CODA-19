@@ -1,0 +1,104 @@
+{
+  "paper_id": "06a1002f9fbea7179ac3572843f66b14568af6e4",
+  "metadata": {
+    "title": "Nelfinavir was predicted to be a potential inhibitor of 2019-nCov main protease by an integrative approach combining homology modelling, molecular docking and binding free energy calculation",
+    "coda_data_split": "train",
+    "coda_paper_id": 3712,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "2019-nCov has caused more than 80 deaths as of 27 January 2020 in China, and infection cases have been reported in more than 10 countries. However, there is no approved drug to treat the disease. 2019-nCov M pro is a potential drug target to combat the virus. We built homology models based on SARS M pro structures, and docked 1903 small molecule drugs to the models. Based on the docking score and the 3D similarity of the binding mode to the known M pro ligands, 4 drugs were selected for binding free energy calculations. Both MM/GBSA and SIE methods voted for nelfinavir, with the binding free energy of -24.69±0.52 kcal/mol and -9.42±0.04 kcal/mol, respectively. Therefore, we suggested that nelfinavir might be a potential inhibitor against 2019-nCov M pro .",
+      "sentences": [
+        [
+          {
+            "segment_text": "2019-nCov has caused more than 80 deaths as of 27 January 2020 in China ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and infection cases have been reported in more than 10 countries .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , there is no approved drug to treat the disease .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "2019-nCov M pro is a potential drug target to combat the virus .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We built homology models based on SARS M pro structures ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and docked 1903 small molecule drugs to the models .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Based on the docking score and the 3D similarity of the binding mode to the known M pro ligands ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "4 drugs were selected for binding free energy calculations .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Both MM/GBSA and SIE methods voted for nelfinavir ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with the binding free energy of -24.69 ± 0.52 kcal/mol and -9.42 ± 0.04 kcal/mol , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , we suggested that nelfinavir might be a potential inhibitor against 2019-nCov M pro .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "author/funder. All rights reserved. No reuse allowed without permission.",
+      "sentences": [
+        [
+          {
+            "segment_text": "author/funder .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "All rights reserved .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "No reuse allowed without permission .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "10",
+    "segment_num": "14",
+    "token_num": "158"
+  }
+}

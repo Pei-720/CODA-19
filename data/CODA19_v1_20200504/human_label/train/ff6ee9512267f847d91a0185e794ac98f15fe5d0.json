@@ -1,0 +1,162 @@
+{
+  "paper_id": "ff6ee9512267f847d91a0185e794ac98f15fe5d0",
+  "metadata": {
+    "title": "An In Vivo Selection Identifies Listeria monocytogenes Genes Required to Sense the Intracellular Environment and Activate Virulence Factor Expression",
+    "coda_data_split": "train",
+    "coda_paper_id": 7225,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Listeria monocytogenes is an environmental saprophyte and facultative intracellular bacterial pathogen with a well-defined life-cycle that involves escape from a phagosome, rapid cytosolic growth, and ActA-dependent cell-to-cell spread, all of which are dependent on the master transcriptional regulator PrfA. The environmental cues that lead to temporal and spatial control of L. monocytogenes virulence gene expression are poorly understood. In this study, we took advantage of the robust up-regulation of ActA that occurs intracellularly and expressed Cre recombinase from the actA promoter and 5\u0027 untranslated region in a strain in which loxP sites flanked essential genes, so that activation of actA led to bacterial death. Upon screening for transposon mutants that survived intracellularly, six genes were identified as necessary for ActA expression. Strikingly, most of the genes, including gshF, spxA1, yjbH, and ohrA, are predicted to play important roles in bacterial redox regulation. The mutants identified in the genetic selection fell into three broad categories: (1) those that failed to reach the cytosolic compartment; (2) mutants that entered the cytosol, but failed to activate the master virulence regulator PrfA; and (3) mutants that entered the cytosol and activated transcription of actA, but failed to synthesize it. The identification of mutants defective in vacuolar escape suggests that up-regulation of ActA occurs in the host cytosol and not the vacuole. Moreover, these results provide evidence for two non-redundant cytosolic cues; the first results in allosteric activation of PrfA via increased glutathione levels and transcriptional activation of actA while the second results in translational activation of actA and requires yjbH. Although the precise host cues have not yet been identified, we suggest that intracellular redox stress occurs as a consequence of both host and pathogen remodeling their metabolism upon infection.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Listeria monocytogenes is an environmental saprophyte and facultative intracellular bacterial pathogen with a well-defined life-cycle that involves escape from a phagosome ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "rapid cytosolic growth , and ActA-dependent cell-to-cell spread ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "all of which are dependent on the master transcriptional regulator PrfA .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The environmental cues that lead to temporal and spatial control of L. monocytogenes virulence gene expression are poorly understood .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we took advantage of the robust up-regulation of ActA that occurs intracellularly and expressed Cre recombinase from the actA promoter and 5 \u0027 untranslated region in a strain in which loxP sites flanked essential genes ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "so that activation of actA led to bacterial death .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Upon screening for transposon mutants that survived intracellularly ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "six genes were identified as necessary for ActA expression .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Strikingly , most of the genes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including gshF , spxA1 , yjbH ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and ohrA , are predicted to play important roles in bacterial redox regulation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The mutants identified in the genetic selection fell into three broad categories : ( 1 ) those that failed to reach the cytosolic compartment ; ( 2 ) mutants that entered the cytosol ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but failed to activate the master virulence regulator PrfA ; and ( 3 ) mutants that entered the cytosol and activated transcription of actA ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but failed to synthesize it .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The identification of mutants defective in vacuolar escape suggests that up-regulation of ActA occurs in the host cytosol and not the vacuole .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , these results provide evidence for two non-redundant cytosolic cues ; the first results in allosteric activation of PrfA via increased glutathione levels and transcriptional activation of actA while the second results in translational activation of actA and requires yjbH .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although the precise host cues have not yet been identified ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we suggest that intracellular redox stress occurs as a consequence of both host and pathogen remodeling their metabolism upon infection .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Upon recognition of the host, bacterial pathogens activate a genetic virulence program to establish their replicative niche. In this study, we selected for mutants in the model intracellular pathogen Listeria monocytogenes that did not up-regulate virulence factors during infection. The screen identified genes involved in sensing the host cell and suggests a model in which expression of virulence factors is spatially and temporally compartmentalized via regulation of transcription and translation. Specifically, results described here indicate two non-redundant host cytosolic cues are sensed by the bacterium in order to activate its virulence program. Future research will illuminate the exact molecular identity of these cytosolic signals. However, the majority of the genes identified are part of the bacterial redox stress response, suggesting that redox changes represent one of the biological cues sensed by L. monocytogenes to regulate its virulence program.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Upon recognition of the host ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "bacterial pathogens activate a genetic virulence program to establish their replicative niche .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we selected for mutants in the model intracellular pathogen Listeria monocytogenes that did not up-regulate virulence factors during infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The screen identified genes involved in sensing the host cell and suggests a model in which expression of virulence factors is spatially and temporally compartmentalized via regulation of transcription and translation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Specifically , results described here indicate two non-redundant host cytosolic cues are sensed by the bacterium in order to activate its virulence program .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Future research will illuminate the exact molecular identity of these cytosolic signals .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the majority of the genes identified are part of the bacterial redox stress response ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "suggesting that redox changes represent one of the biological cues sensed by L. monocytogenes to regulate its virulence program .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "15",
+    "segment_num": "26",
+    "token_num": "471"
+  }
+}

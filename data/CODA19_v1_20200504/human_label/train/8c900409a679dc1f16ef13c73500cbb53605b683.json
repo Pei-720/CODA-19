@@ -1,0 +1,202 @@
+{
+  "paper_id": "8c900409a679dc1f16ef13c73500cbb53605b683",
+  "metadata": {
+    "title": "Lung epithelial cells have virus-specific and shared gene expression responses 1 to infection by diverse respiratory viruses 2 3",
+    "coda_data_split": "train",
+    "coda_paper_id": 2736,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The severity and outcome of respiratory viral infections is partially determined by the cellular 9 response mounted by infected lung epithelial cells. Disease prevention and treatment is dependent on our 10 understanding of the shared and unique responses elicited by diverse viruses, yet few studies compare host 11 responses to different viruses while controlling other experimental parameters. We used microarray analysis 12 to compare changes in gene expression of murine lung epithelial cells infected individually by three respiratory 13 viruses causing mild (rhinovirus, RV1B), moderate (coronavirus, MHV-1), and severe (influenza A virus, 14 PR8) disease in mice. RV1B infection caused numerous gene expression changes, but the differential effect 15 peaked at 12 hours post-infection. PR8 altered an intermediate number of genes whose expression continued 16 to change through 24 hours. MHV-1 had comparatively few effects on host gene expression. The viruses 17 elicited highly overlapping responses in antiviral genes, though MHV-1 induced a lower type I interferon 18 response than the other two viruses. Signature genes were identified for each virus and included host defense 19 genes for PR8, tissue remodeling genes for RV1B, and transcription factors for MHV-1. Our comparative 20 approach identified universal and specific transcriptional signatures of virus infection that can be used to 21 discover mechanisms of pathogenesis in the respiratory tract.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The severity and outcome of respiratory viral infections is partially determined by the cellular 9 response mounted by infected lung epithelial cells .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Disease prevention and treatment is dependent on our 10 understanding of the shared and unique responses elicited by diverse viruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "yet few studies compare host 11 responses to different viruses while controlling other experimental parameters .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We used microarray analysis 12 to compare changes in gene expression of murine lung epithelial cells infected individually by three respiratory 13 viruses causing mild ( rhinovirus , RV1B ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "moderate ( coronavirus , MHV-1 ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and severe ( influenza A virus , 14 PR8 ) disease in mice .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "RV1B infection caused numerous gene expression changes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but the differential effect 15 peaked at 12 hours post-infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "PR8 altered an intermediate number of genes whose expression continued 16 to change through 24 hours .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "MHV-1 had comparatively few effects on host gene expression .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The viruses 17 elicited highly overlapping responses in antiviral genes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "though MHV-1 induced a lower type I interferon 18 response than the other two viruses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Signature genes were identified for each virus and included host defense 19 genes for PR8 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "tissue remodeling genes for RV1B ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and transcription factors for MHV-1 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our comparative 20 approach identified universal and specific transcriptional signatures of virus infection that can be used to 21 discover mechanisms of pathogenesis in the respiratory tract .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "22 42 murine cells. Because RV1B can replicate in mouse cells, it has been used to study immune responses and/or 43 mechanisms of asthma exacerbation in infected mice [1-5]. Intranasal inoculation of mice with a high dose of 44 RV1B results in viral replication and an early inflammatory response in the respiratory tract without clinical 45 signs of disease [1, 3-5]. RV1B antigens have been detected in cells of the epithelia and lamina propria of the 46 upper respiratory tract of infected mice [2, 4].",
+      "sentences": [
+        [
+          {
+            "segment_text": "22 42 murine cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Because RV1B can replicate in mouse cells ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "it has been used to study immune responses and/or 43 mechanisms of asthma exacerbation in infected mice ( 1-5 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Intranasal inoculation of mice with a high dose of 44 RV1B results in viral replication and an early inflammatory response in the respiratory tract without clinical 45 signs of disease ( 1 , 3-5 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "RV1B antigens have been detected in cells of the epithelia and lamina propria of the 46 upper respiratory tract of infected mice ( 2 , 4 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "47 MHV-1 is a strain of mouse hepatitis virus that preferentially replicates and causes disease in the 48 respiratory tract of specific mouse strains and thus serves as a model for respiratory coronaviral infections [6, 49 7]. MHV-1 causes severe disease in A/J-strain mice and milder pathology in other mouse strains [6, 8]. Mouse",
+      "sentences": [
+        [
+          {
+            "segment_text": "47 MHV-1 is a strain of mouse hepatitis virus that preferentially replicates and causes disease in the 48 respiratory tract of specific mouse strains and thus serves as a model for respiratory coronaviral infections ( 6 , 49 7 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "MHV-1 causes severe disease in A/J-strain mice and milder pathology in other mouse strains ( 6 , 8 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Mouse",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "50 strain-dependent disease severity corresponds to inflammatory responses, fibrin deposition, and reduced type I 51 interferon (IFN) production [6]. Further, type I IFN-mediated signaling is required for protection from severe 52 disease during MHV-1 infection of resistant mice [8]. MHV-1 has been detected in pulmonary macrophages of 53 infected mice, but has not been reported to infect respiratory epithelial cells in vivo [6]. Although primary 54 murine alveolar epithelial cells are susceptible to MHV-1 infection in vitro, their role during in vivo infection 55 is not clear [9].",
+      "sentences": [
+        [
+          {
+            "segment_text": "50 strain-dependent disease severity corresponds to inflammatory responses ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "fibrin deposition , and reduced type I 51 interferon ( IFN ) production ( 6 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Further , type I IFN-mediated signaling is required for protection from severe 52 disease during MHV-1 infection of resistant mice ( 8 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "MHV-1 has been detected in pulmonary macrophages of 53 infected mice ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but has not been reported to infect respiratory epithelial cells in vivo ( 6 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although primary 54 murine alveolar epithelial cells are susceptible to MHV-1 infection in vitro ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "their role during in vivo infection 55 is not clear ( 9 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "20",
+    "segment_num": "31",
+    "token_num": "508"
+  }
+}

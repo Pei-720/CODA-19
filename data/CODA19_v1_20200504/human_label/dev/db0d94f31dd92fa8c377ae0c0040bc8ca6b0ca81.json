@@ -1,0 +1,65 @@
+{
+  "paper_id": "db0d94f31dd92fa8c377ae0c0040bc8ca6b0ca81",
+  "metadata": {
+    "title": "",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1909,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "publicly funded repositories, such as the WHO COVID database with rights for unrestricted research re-use and analyses in any form or by any means with acknowledgement of the original source. These permissions are granted for free by Elsevier for as long as the COVID-19 resource centre remains active.",
+      "sentences": [
+        [
+          {
+            "segment_text": "publicly funded repositories , such as the WHO COVID database with rights for unrestricted research re-use and analyses in any form or by any means with acknowledgement of the original source .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "These permissions are granted for free by Elsevier for as long as the COVID-19 resource centre remains active .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Peritoneal fl uid cannot always be obtained, regardless of the disease process, and the ability or inability to collect fl uid has no prognostic value.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Peritoneal fl uid can not always be obtained ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "regardless of the disease process ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and the ability or inability to collect fl uid has no prognostic value .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Method",
+      "sentences": [
+        [
+          {
+            "segment_text": "Method",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "4",
+    "segment_num": "6",
+    "token_num": "81"
+  }
+}

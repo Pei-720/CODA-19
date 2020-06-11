@@ -1,0 +1,171 @@
+{
+  "paper_id": "c8ca3a5306db10a7842b853031404ecbc0a363ed",
+  "metadata": {
+    "title": "Genetic diversity, seasonality and transmission network of human metapneumovirus: identification of a unique sub-lineage of the fusion and attachment genes OPEN",
+    "coda_data_split": "train",
+    "coda_paper_id": 3157,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "adults and children living in tropical climate remains limited. HMPV prevailed at 2.2% (n \u003d 86/3,935) among individuals presented with acute respiratory tract infections in Kuala Lumpur, Malaysia between 2012 and 2014. Seasonal peaks were observed during the northeast monsoon season (November-April) and correlated with higher relative humidity and number of rainy days (P \u003c 0.05). Phylogenetic analysis of the fusion and attachment genes identified the co-circulation of three known HMPV sub-lineages, A2b and B1 (30.2% each, 26/86) and B2 (20.9%, 18/86), with genotype shift from sub-lineage B1 to A2b observed in 2013. Interestingly, a previously unrecognized sub-lineage of A2 was identified in 18.6% (16/86) of the population. Using a custom script for network construction based on the TN93 pairwise genetic distance, we identified up to nine HMPV transmission clusters circulating as multiple sub-epidemics. Although no apparent major outbreak was observed, the increased frequency of transmission clusters (dyads) during seasonal peaks suggests the potential roles of transmission clusters in driving the spread of HMPV. Our findings provide essential information for therapeutic research, prevention strategies, and disease outbreak monitoring of HMPV.",
+      "sentences": [
+        [
+          {
+            "segment_text": "adults and children living in tropical climate remains limited .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "HMPV prevailed at 2.2 % ( n \u003d 86/3 ,935 ) among individuals presented with acute respiratory tract infections in Kuala Lumpur ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Malaysia between 2012 and 2014 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Seasonal peaks were observed during the northeast monsoon season ( November-April ) and correlated with higher relative humidity and number of rainy days ( P \u003c 0.05 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Phylogenetic analysis of the fusion and attachment genes identified the co-circulation of three known HMPV sub-lineages ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "A2b and B1 ( 30.2 % each , 26/86 ) and B2 ( 20.9 % , 18/86 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with genotype shift from sub-lineage B1 to A2b observed in 2013 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Interestingly , a previously unrecognized sub-lineage of A2 was identified in 18.6 % ( 16/86 ) of the population .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using a custom script for network construction based on the TN93 pairwise genetic distance ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we identified up to nine HMPV transmission clusters circulating as multiple sub-epidemics .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although no apparent major outbreak was observed ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the increased frequency of transmission clusters ( dyads ) during seasonal peaks suggests the potential roles of transmission clusters in driving the spread of HMPV .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our findings provide essential information for therapeutic research ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "prevention strategies , and disease outbreak monitoring of HMPV .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Human metapneumovirus (HMPV) is a single-stranded RNA virus classified in the Metapneumovirus genus within the Pneumovirinae sub-family of Paramyxoviridae. Since the first description of HMPV among children in the Netherlands 1 , the virus has emerged as one of the main causative agents of acute respiratory tract infections (RTIs) across all ages worldwide, in addition to the human respiratory syncytial virus (HRSV) 2-8 . The clinical presentation of acute and severe RTIs due to HMPV are strikingly similar to that of HRSV which are mainly characterised by mild respiratory illnesses to severe cough, bronchiolitis, pneumonia and often accompanied by high fever, myalgia and vomiting 1 . In the United States for example, the annual disease burden due to HMPV in hospitalized children below 5 years of age has been estimated at 1 per 1000 children, similar to that of the influenza virus 9 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Human metapneumovirus ( HMPV ) is a single-stranded RNA virus classified in the Metapneumovirus genus within the Pneumovirinae sub-family of Paramyxoviridae .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Since the first description of HMPV among children in the Netherlands 1 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the virus has emerged as one of the main causative agents of acute respiratory tract infections ( RTIs ) across all ages worldwide ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "in addition to the human respiratory syncytial virus ( HRSV ) 2-8 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The clinical presentation of acute and severe RTIs due to HMPV are strikingly similar to that of HRSV which are mainly characterised by mild respiratory illnesses to severe cough ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "bronchiolitis , pneumonia and often accompanied by high fever , myalgia and vomiting 1 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the United States for example ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the annual disease burden due to HMPV in hospitalized children below 5 years of age has been estimated at 1 per 1000 children ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "similar to that of the influenza virus 9 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "HMPV is classified into two main genetic lineages denoted as genotypes A and B based on the phylogenetic analysis of the fusion (F) and attachment (G) genes. Each genotype is further classified into at least two sub-lineages -A1, A2, B1 and B2 10 . It was later reported that two additional genetic sub-lineages were described 1",
+      "sentences": [
+        [
+          {
+            "segment_text": "HMPV is classified into two main genetic lineages denoted as genotypes A and B based on the phylogenetic analysis of the fusion ( F ) and attachment ( G ) genes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Each genotype is further classified into at least two sub-lineages - A1 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "A2 , B1 and B2 10 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It was later reported that two additional genetic sub-lineages were described 1",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "15",
+    "segment_num": "27",
+    "token_num": "438"
+  }
+}

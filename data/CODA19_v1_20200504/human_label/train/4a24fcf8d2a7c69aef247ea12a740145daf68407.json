@@ -1,0 +1,128 @@
+{
+  "paper_id": "4a24fcf8d2a7c69aef247ea12a740145daf68407",
+  "metadata": {
+    "title": "Deconvoluting Virome-Wide Antiviral Antibody Profiling Data",
+    "coda_data_split": "train",
+    "coda_paper_id": 9967,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The ability to comprehensively characterize exposures and immune responses to viral infections will be critical to better understanding human health and disease. We previously described the VirScan system, a phage-display based technology for profiling antibody binding to a comprehensive library of peptides designed to represent the human virome. The previous VirScan analytical approach did not fully account for disproportionate representation of viruses in the library or for antibody cross-reactivity among sequences shared by related viruses. Here we present the \u0027AntiViral Antibody Response Deconvolution Algorithm\u0027 (\u0027AVARDA\u0027), a multi-module software package for analyzing VirScan datasets. AVARDA provides a probabilistic assessment of infection at species-level resolution by considering alignment of all library peptides to each other and to all human viruses. We employed AVARDA to analyze VirScan data from a cohort of encephalitis patients with either known viral infections or undiagnosed etiologies. By comparing acute and convalescent sera, AVARDA successfully confirmed or detected antibody responses to human herpesviruses 1, 3, 4, 5, and 6, thereby improving the rate of diagnosing viral encephalitis in this cohort by 62.5%. We further assessed AVARDA\u0027s utility in the setting of an epidemiological study, demonstrating its ability to determine infections acquired in a child followed prospectively from infancy. We consider ways in which AVARDA\u0027s conceptual framework may be further developed in the future and describe how its analyses may be extended beyond investigations of viral infection. AVARDA, in combination with VirScan and other pan-pathogen serological techniques, is likely to find broad utility in the epidemiology and diagnosis of infectious diseases.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The ability to comprehensively characterize exposures and immune responses to viral infections will be critical to better understanding human health and disease .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We previously described the VirScan system ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a phage-display based technology for profiling antibody binding to a comprehensive library of peptides designed to represent the human virome .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The previous VirScan analytical approach did not fully account for disproportionate representation of viruses in the library or for antibody cross-reactivity among sequences shared by related viruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we present the ` AntiViral Antibody Response Deconvolution Algorithm \u0027 ( ` AVARDA \u0027 ) ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "a multi-module software package for analyzing VirScan datasets .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "AVARDA provides a probabilistic assessment of infection at species-level resolution by considering alignment of all library peptides to each other and to all human viruses .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We employed AVARDA to analyze VirScan data from a cohort of encephalitis patients with either known viral infections or undiagnosed etiologies .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "By comparing acute and convalescent sera ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "AVARDA successfully confirmed or detected antibody responses to human herpesviruses 1 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "3 , 4 , 5 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and 6 , thereby improving the rate of diagnosing viral encephalitis in this cohort by 62.5 % .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We further assessed AVARDA \u0027s utility in the setting of an epidemiological study ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "demonstrating its ability to determine infections acquired in a child followed prospectively from infancy .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We consider ways in which AVARDA \u0027s conceptual framework may be further developed in the future and describe how its analyses may be extended beyond investigations of viral infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "AVARDA , in combination with VirScan and other pan-pathogen serological techniques ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "is likely to find broad utility in the epidemiology and diagnosis of infectious diseases .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "All rights reserved. No reuse allowed without permission.",
+      "sentences": [
+        [
+          {
+            "segment_text": "All rights reserved .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "No reuse allowed without permission .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "12",
+    "segment_num": "19",
+    "token_num": "292"
+  }
+}

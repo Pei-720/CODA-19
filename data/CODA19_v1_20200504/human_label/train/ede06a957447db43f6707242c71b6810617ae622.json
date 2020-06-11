@@ -1,0 +1,60 @@
+{
+  "paper_id": "ede06a957447db43f6707242c71b6810617ae622",
+  "metadata": {
+    "title": "",
+    "coda_data_split": "train",
+    "coda_paper_id": 2458,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The 2019 novel coronavirus (2019-nCoV) outbreak in Wuhan since December 2019 [1] has quickly spread to twenty-five countries [2], caused more than 44,000 cases and 1,000 deaths so far [3] . The fast sharing of 2019-nCoV genomes in GISAID (https://www.gisaid.org) provides a valuable dataset for 2019-nCoV haplotype network analysis, which is crucial for transmission and evolutionary track surveillance and secondary outbreak prevention.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The 2019 novel coronavirus ( 2019-nCoV ) outbreak in Wuhan since December 2019 ( 1 ) has quickly spread to twenty-five countries ( 2 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "caused more than 44,000 cases and 1,000 deaths so far ( 3 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The fast sharing of 2019-nCoV genomes in GISAID ( https://www.gisaid.org ) provides a valuable dataset for 2019-nCoV haplotype network analysis ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which is crucial for transmission and evolutionary track surveillance and secondary outbreak prevention .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We called single-nucleotide variations (SNVs) for all the 84 2019-nCov genomes in GISAID using MN908947 as the reference. Genomes with same SNVs are grouped into a haplotype",
+      "sentences": [
+        [
+          {
+            "segment_text": "We called single-nucleotide variations ( SNVs ) for all the 84 2019-nCov genomes in GISAID using MN908947 as the reference .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Genomes with same SNVs are grouped into a haplotype",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "4",
+    "segment_num": "6",
+    "token_num": "105"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "paper_id": "5f7b5b1f4748ede29130df5606fd51f4820edc20",
+  "metadata": {
+    "title": "Conformational Flexibility of a Short Loop near the Active Site of the SARS-3CLpro is Essential to Maintain Catalytic Activity OPEN",
+    "coda_data_split": "train",
+    "coda_paper_id": 10109,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "The SARS 3C-like proteinase (SARS-3CLpro), which is the main proteinase of the SARS coronavirus, is essential to the virus life cycle. This enzyme has been shown to be active as a dimer in which only one protomer is active. However, it remains unknown how the dimer structure maintains an active monomer conformation. It has been observed that the Ser139-Leu141 loop forms a short 3 10 -helix that disrupts the catalytic machinery in the inactive monomer structure. We have tried to disrupt this helical conformation by mutating L141 to T in the stable inactive monomer G11A/R298A/Q299A. The resulting tetra-mutant G11A/L141T/R298A/Q299A is indeed enzymatically active as a monomer. Molecular dynamics simulations revealed that the L141T mutation disrupts the 3 10 -helix and helps to stabilize the active conformation. The coil-3 10 -helix conformational transition of the Ser139-Leu141 loop serves as an enzyme activity switch. Our study therefore indicates that the dimer structure can stabilize the active conformation but is not a required structure in the evolution of the active enzyme, which can also arise through simple mutations.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The SARS 3C-like proteinase ( SARS-3CLpro ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which is the main proteinase of the SARS coronavirus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "is essential to the virus life cycle .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This enzyme has been shown to be active as a dimer in which only one protomer is active .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , it remains unknown how the dimer structure maintains an active monomer conformation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It has been observed that the Ser139-Leu141 loop forms a short 3 10 - helix that disrupts the catalytic machinery in the inactive monomer structure .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We have tried to disrupt this helical conformation by mutating L141 to T in the stable inactive monomer G11A/R298A/Q299A .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The resulting tetra-mutant G11A/L141T/R298A / Q299A is indeed enzymatically active as a monomer .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Molecular dynamics simulations revealed that the L141T mutation disrupts the 3 10 - helix and helps to stabilize the active conformation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The coil-3 10 - helix conformational transition of the Ser139-Leu141 loop serves as an enzyme activity switch .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our study therefore indicates that the dimer structure can stabilize the active conformation but is not a required structure in the evolution of the active enzyme ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which can also arise through simple mutations .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "9",
+    "segment_num": "12",
+    "token_num": "195"
+  }
+}

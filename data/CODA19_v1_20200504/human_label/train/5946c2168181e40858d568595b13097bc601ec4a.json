@@ -1,0 +1,95 @@
+{
+  "paper_id": "5946c2168181e40858d568595b13097bc601ec4a",
+  "metadata": {
+    "title": "Airborne exposure patterns from a passenger source in aircraft cabins HHS Public Access",
+    "coda_data_split": "train",
+    "coda_paper_id": 2281,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Airflow is a critical factor that influences air quality, airborne contaminant distribution, and disease transmission in commercial airliner cabins. The general aircraft-cabin air-contaminant transport effect model seeks to build exposure-spatial relationships between contaminant sources and receptors, quantify the uncertainty, and provide a platform for incorporation of data from a variety of studies. Knowledge of infection risk to flight crews and passengers is needed to form a coherent response to an unfolding epidemic, and infection risk may have an airborne pathogen exposure component. The general aircraf-tcabin air-contaminant transport effect model was applied to datasets from the University of Illinois and Kansas State University and also to case study information from a flight with probable severe acute respiratory syndrome transmission. Data were fit to regression curves, where the dependent variable was contaminant concentration (normalized for source strength and ventilation rate), and the independent variable was distance between source and measurement locations. The data-driven model showed exposure to viable small droplets and post-evaporation nuclei at a source distance of several rows in a mock-up of a twin-aisle airliner with seven seats per row. Similar behavior was observed in tracer gas, particle experiments, and flight infection data for severe acute respiratory syndrome. The study supports the airborne pathway as part of the matrix of possible disease transmission modes in aircraft cabins.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Airflow is a critical factor that influences air quality ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "airborne contaminant distribution , and disease transmission in commercial airliner cabins .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The general aircraft-cabin air-contaminant transport effect model seeks to build exposure-spatial relationships between contaminant sources and receptors ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "quantify the uncertainty , and provide a platform for incorporation of data from a variety of studies .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Knowledge of infection risk to flight crews and passengers is needed to form a coherent response to an unfolding epidemic ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and infection risk may have an airborne pathogen exposure component .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The general aircraf-tcabin air-contaminant transport effect model was applied to datasets from the University of Illinois and Kansas State University and also to case study information from a flight with probable severe acute respiratory syndrome transmission .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Data were fit to regression curves ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "where the dependent variable was contaminant concentration ( normalized for source strength and ventilation rate ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the independent variable was distance between source and measurement locations .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The data-driven model showed exposure to viable small droplets and post-evaporation nuclei at a source distance of several rows in a mock-up of a twin-aisle airliner with seven seats per row .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Similar behavior was observed in tracer gas ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "particle experiments , and flight infection data for severe acute respiratory syndrome .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The study supports the airborne pathway as part of the matrix of possible disease transmission modes in aircraft cabins .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "14",
+    "token_num": "236"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "paper_id": "ba0d7e6e2901282c0967e3feda8e6b92868b5c5a",
+  "metadata": {
+    "title": "Polar Profile of Antiviral Peptides from AVPpred Database",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1530,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Diseases of viral origin in humans are among the most serious threats to health and the global economy. As recent history has shown the virus has a high pandemic potential, among other reasons, due to its ability to spread by air, hence the identification, investigation, containment, and treatment of viral diseases should be considered of paramount importance. In this sense, the bioinformatics research has focused on finding fast and efficient algorithms that can identify highly toxic antiviral peptides and to serve as a first filter, so that trials in the laboratory are substantially reduced. The work presented here contributes to this effort through the use of an algorithm already published by this team, called polarity index method, which identifies with high efficiency antiviral peptides from the exhaustive analysis of the polar profile, using the linear sequence of the peptide. The test carried out included all peptides in APD2 Database and 60 antiviral peptides identified by Kumar and co-workers (Nucleic Acids Res 40: W199-204, 2012), to build its AVPpred algorithm. The validity of the method was focused on its discriminating capacity so we included the 15 sub-classifications of both Databases.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Diseases of viral origin in humans are among the most serious threats to health and the global economy .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As recent history has shown the virus has a high pandemic potential ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "among other reasons , due to its ability to spread by air ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "hence the identification , investigation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "containment , and treatment of viral diseases should be considered of paramount importance .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this sense , the bioinformatics research has focused on finding fast and efficient algorithms that can identify highly toxic antiviral peptides and to serve as a first filter ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "so that trials in the laboratory are substantially reduced .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The work presented here contributes to this effort through the use of an algorithm already published by this team ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "called polarity index method , which identifies with high efficiency antiviral peptides from the exhaustive analysis of the polar profile ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "using the linear sequence of the peptide .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The test carried out included all peptides in APD2 Database and 60 antiviral peptides identified by Kumar and co-workers ( Nucleic Acids Res 40 : W199-204 , 2012 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "to build its AVPpred algorithm .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The validity of the method was focused on its discriminating capacity so we included the 15 sub-classifications of both Databases .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "13",
+    "token_num": "211"
+  }
+}

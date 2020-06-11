@@ -1,0 +1,210 @@
+{
+  "paper_id": "1733b474c13e9d87058b19bfbf59b92ef1ec09e1",
+  "metadata": {
+    "title": "Rotavirus and Reovirus Modulation of the Interferon Response",
+    "coda_data_split": "train",
+    "coda_paper_id": 10140,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The mammalian reoviruses and rotaviruses have evolved specifi c mechanisms to evade the Type I interferon (IFN) antiviral response. Rotavirus likely represses the IFN response by at least 4 mechanisms. First, the rotavirus protein NSP1, most likely functioning as an E3 ligase, can induce proteasome-dependent degradation of the transcription factors IRF3, IRF5, and IRF7 to prevent their induction of IFN. Second, NSP1 can induce proteasome-dependent degradation of the ubiquitin ligase complex protein β-TrCP, resulting in stabilization of IκB and concomitant failure of virus to activate NF-κB for induction of IFN. Third, rotavirus may sequester NF-κB in viroplasms. And fourth, rotavirus can prevent STAT1 and STAT2 nuclear translocation. The predominant mechanism for rotavirus inhibition of the IFN response is likely both rotavirus strain-specifi c and cell type-specifi c. The mammalian reoviruses also display strain-specifi c differences in their modulation of the IFN response. Reovirus activates RIG-I and IPS-1 for phosphorylation of IRF3. Reovirus-induced activation of MDA5 also participates in induction if IFN-β, perhaps through activation of NF-κB. Reovirus likely inhibits the IFN response by at least 3 virus strain-specifi c mechanisms. First, the reovirus μ2 protein can induce an unusual nuclear accumulation of IRF9 and repress IFN-stimulated gene (ISG) expression, most likely by disrupting IRF9 function as part of the heterotrimeric transcription factor complex, ISGF3. Second, the reovirus σ3 protein can bind dsRNA and prevent activation of the latent antiviral effector protein PKR. And third, genetic approaches have identifi ed the reovirus λ2 and σ2 proteins in virus strain-specifi c modulation of the IFN response, but the signifi cance remains unclear. In sum, members of the family Reoviridae have evolved a variety of mechanisms to subvert the host\u0027s innate protective response. Yue Z, Shatkin AJ. 1997. Double-stranded RNA-dependent protein kinase (PKR) is regulated by reovirus structural proteins. Virology 234(2):364-371. Zurney J, Howard KE, Sherry B. 2007. Basal expression levels of IFNAR and Jak-STAT components are determinants of celltype-specifi c differences in cardiac antiviral responses. J Virol 81(24):13668-13680. Zurney J, Kobayashi T, Holm GH, Dermody TS, Sherry B. 2009.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The mammalian reoviruses and rotaviruses have evolved specifi c mechanisms to evade the Type I interferon ( IFN ) antiviral response .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Rotavirus likely represses the IFN response by at least 4 mechanisms .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "First , the rotavirus protein NSP1 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "most likely functioning as an E3 ligase ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "can induce proteasome-dependent degradation of the transcription factors IRF3 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "IRF5 , and IRF7 to prevent their induction of IFN .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Second , NSP1 can induce proteasome-dependent degradation of the ubiquitin ligase complex protein β-TrCP ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "resulting in stabilization of IκB and concomitant failure of virus to activate NF-κB for induction of IFN .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Third , rotavirus may sequester NF-κB in viroplasms .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "And fourth , rotavirus can prevent STAT1 and STAT2 nuclear translocation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The predominant mechanism for rotavirus inhibition of the IFN response is likely both rotavirus strain-specifi c and cell type-specifi c .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The mammalian reoviruses also display strain-specifi c differences in their modulation of the IFN response .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Reovirus activates RIG-I and IPS-1 for phosphorylation of IRF3 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Reovirus-induced activation of MDA5 also participates in induction if IFN-β ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "perhaps through activation of NF-κB .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Reovirus likely inhibits the IFN response by at least 3 virus strain-specifi c mechanisms .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "First , the reovirus μ2 protein can induce an unusual nuclear accumulation of IRF9 and repress IFN-stimulated gene ( ISG ) expression ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "most likely by disrupting IRF9 function as part of the heterotrimeric transcription factor complex , ISGF3 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Second , the reovirus σ3 protein can bind dsRNA and prevent activation of the latent antiviral effector protein PKR .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "And third , genetic approaches have identifi ed the reovirus λ2 and σ2 proteins in virus strain-specifi c modulation of the IFN response ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but the signifi cance remains unclear .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In sum , members of the family Reoviridae have evolved a variety of mechanisms to subvert the host \u0027s innate protective response .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Yue Z , Shatkin AJ .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "1997 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Double-stranded RNA-dependent protein kinase ( PKR ) is regulated by reovirus structural proteins .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Virology 234 ( 2 ) : 364-371 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Zurney J , Howard KE , Sherry B. 2007 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Basal expression levels of IFNAR and Jak-STAT components are determinants of celltype-specifi c differences in cardiac antiviral responses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "J Virol 81 ( 24 ) : 13668-13680 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Zurney J , Kobayashi T ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "Holm GH , Dermody TS , Sherry B. 2009 .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Reovirus mu2 protein inhibits interferon signaling through a novel mechanism involving nuclear accumulation of interferon regulatory factor 9. J Virol 83 (5):2178-2187.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Reovirus mu2 protein inhibits interferon signaling through a novel mechanism involving nuclear accumulation of interferon regulatory factor 9 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "J Virol 83 ( 5 ) : 2178-2187 .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "25",
+    "segment_num": "33",
+    "token_num": "429"
+  }
+}

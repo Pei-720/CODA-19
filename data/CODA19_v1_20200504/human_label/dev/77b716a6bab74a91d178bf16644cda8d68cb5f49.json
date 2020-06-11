@@ -1,0 +1,91 @@
+{
+  "paper_id": "77b716a6bab74a91d178bf16644cda8d68cb5f49",
+  "metadata": {
+    "title": "ScienceDirect Epidemiology-based Task Assignment Algorithm for Distributed Systems",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1116,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Objective: Design task assignment algorithms based on the patterns of disease spread among the population. Scope: Epidemiology studies spatiotemporal patterns of illness in populations and the factors affecting it. An epidemic emerges out of the population activities and environment. Task assignment is a common activity in many realms where sub-tasks are created, delegated, and collectively carried out to achieve the original task. Due to its complexity and context, task assignment can be a challenging activity that can result in limited outcomes. This research studies task assignment as an epidemic assigned to a distributed system. We have developed computational models to understand the outbreak of aerosol-borne diseases by using the agent-based modelling approach. Experiments are carried out to observe the patterns of emergence during the spread of disease among the individuals and get insights of their mechanisms. These mechanisms are used to design algorithms for task assignment on distributed systems. Results: Understanding the emergent behaviour of diseases can provide the platform for the development of distributed algorithms that can be helpful in overcoming some of the challenges of task assignment in a distributed system.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Objective : Design task assignment algorithms based on the patterns of disease spread among the population .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Scope : Epidemiology studies spatiotemporal patterns of illness in populations and the factors affecting it .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "An epidemic emerges out of the population activities and environment .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Task assignment is a common activity in many realms where sub-tasks are created ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "delegated , and collectively carried out to achieve the original task .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Due to its complexity and context ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "task assignment can be a challenging activity that can result in limited outcomes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This research studies task assignment as an epidemic assigned to a distributed system .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We have developed computational models to understand the outbreak of aerosol-borne diseases by using the agent-based modelling approach .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Experiments are carried out to observe the patterns of emergence during the spread of disease among the individuals and get insights of their mechanisms .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "These mechanisms are used to design algorithms for task assignment on distributed systems .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results : Understanding the emergent behaviour of diseases can provide the platform for the development of distributed algorithms that can be helpful in overcoming some of the challenges of task assignment in a distributed system .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "10",
+    "segment_num": "12",
+    "token_num": "199"
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "paper_id": "7395de48b2402e5e1561a93b99e8aae8728c6ff1",
+  "metadata": {
+    "title": "RNA-binding activity of TRIM25 is mediated by its PRY/SPRY domain and is required for ubiquitination E-mail: Gracjan.Michlewski@ed.ac.uk Running Title: RNA-binding protein TRIM25 KEYWORDS: Novel RNA-binding proteins, TRIM25, RNA-protein interactions, RNA- binding domain, PRY/SPRY",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1355,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "TRIM25 is a novel RNA-binding protein and a member of the Tripartite Motif (TRIM) family of E3 ubiquitin ligases, which plays a pivotal role in the innate immune response. Almost nothing is known about its RNA-related roles in cell biology. Furthermore, its RNA-binding domain has not been characterized. Here, we reveal that RNA-binding activity of TRIM25 is mediated by its PRY/SPRY domain, which we postulate to be a novel RNA-binding domain.",
+      "sentences": [
+        [
+          {
+            "segment_text": "TRIM25 is a novel RNA-binding protein and a member of the Tripartite Motif ( TRIM ) family of E3 ubiquitin ligases ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which plays a pivotal role in the innate immune response .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Almost nothing is known about its RNA-related roles in cell biology .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , its RNA-binding domain has not been characterized .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we reveal that RNA-binding activity of TRIM25 is mediated by its PRY/SPRY domain ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which we postulate to be a novel RNA-binding domain .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Using CLIP-seq and SILAC-based co-immunoprecipitation assays, we uncover TRIM25\u0027s endogenous RNA targets and protein binding partners. Finally, we show that the RNAbinding activity of TRIM25 is important for its ubiquitin ligase function. These results reveal new insights into the molecular roles and characteristics of RNA-binding E3 ubiquitin ligases and demonstrate that RNA could be an essential factor for their biological functions.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Using CLIP-seq and SILAC-based co-immunoprecipitation assays ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we uncover TRIM25 \u0027s endogenous RNA targets and protein binding partners .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , we show that the RNAbinding activity of TRIM25 is important for its ubiquitin ligase function .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These results reveal new insights into the molecular roles and characteristics of RNA-binding E3 ubiquitin ligases and demonstrate that RNA could be an essential factor for their biological functions .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "All rights reserved. No reuse allowed without permission.",
+      "sentences": [
+        [
+          {
+            "segment_text": "All rights reserved .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "No reuse allowed without permission .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Although TRIM25 has been generally well characterized, the functional importance of its RNA-binding activity remains unclear. Our recent study provided first clues: we have shown that the binding of TRIM25 to pre-let-7 leads to its more efficient Lin28a-mediated uridylation (Choudhury et al., 2014) . This finding raised the possibility that RNA processing may be spatially controlled through post-translational protein modifications by RNA-binding protein-modifying enzymes, such as TRIM25. Furthermore, TRIM25 could be using RNA as a scaffold to ubiquitinate its targets. Importantly, the transcriptome and proteome-wide targets of TRIM25 have not yet been identified. Finally, its RNA-binding domain has not been unequivocally described.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Although TRIM25 has been generally well characterized ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the functional importance of its RNA-binding activity remains unclear .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our recent study provided first clues : we have shown that the binding of TRIM25 to pre-let-7 leads to its more efficient Lin28a-mediated uridylation ( Choudhury et al. , 2014 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This finding raised the possibility that RNA processing may be spatially controlled through post-translational protein modifications by RNA-binding protein-modifying enzymes , such as TRIM25 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , TRIM25 could be using RNA as a scaffold to ubiquitinate its targets .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Importantly , the transcriptome and proteome-wide targets of TRIM25 have not yet been identified .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , its RNA-binding domain has not been unequivocally described .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Here, using data from a proteome-wide analysis of RNA-binding domains, RNA pull-downs and EMSA, we show that the PRY/SPRY domain of TRIM25 harbors its RNA-binding activity. Furthermore, TRIM25 CLIP-seq and quantitative SILAC-based coimmunoprecipitation assays reveal a comprehensive overview of interacting RNAs and proteins, respectively. Our CLIP-seq data identifies hundreds of coding and non-coding RNAs bound by TRIM25. We show that TRIM25 binds a distinct set of RNAs and prefers to bind sequences rich in G and C. We also demonstrate that TRIM25 associates with many RNA-binding proteins, thus suggesting it could play a role in regulating RNA metabolism.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Here , using data from a proteome-wide analysis of RNA-binding domains ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "RNA pull-downs and EMSA , we show that the PRY/SPRY domain of TRIM25 harbors its RNA-binding activity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , TRIM25 CLIP-seq and quantitative SILAC-based coimmunoprecipitation assays reveal a comprehensive overview of interacting RNAs and proteins , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our CLIP-seq data identifies hundreds of coding and non-coding RNAs bound by TRIM25 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We show that TRIM25 binds a distinct set of RNAs and prefers to bind sequences rich in G and C .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also demonstrate that TRIM25 associates with many RNA-binding proteins ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "thus suggesting it could play a role in regulating RNA metabolism .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Crucially, we present evidence that the binding of TRIM25 to RNA is important for its ubiquitin ligase activity towards itself (autoubiquitination) and physiologically relevant target ZAP. Finally, by showing that the PRY/SPRY regions of other TRIM proteins rescue TRIM25\u0027s RNA-binding activity, we propose that TRIM25 represents a novel group of E3 ligases with RNA-binding activity that use PRY/SPRY as a novel RNA-binding domain.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Crucially , we present evidence that the binding of TRIM25 to RNA is important for its ubiquitin ligase activity towards itself ( autoubiquitination ) and physiologically relevant target ZAP .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , by showing that the PRY/SPRY regions of other TRIM proteins rescue TRIM25 \u0027s RNA-binding activity ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we propose that TRIM25 represents a novel group of E3 ligases with RNA-binding activity that use PRY/SPRY as a novel RNA-binding domain .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "These results provide original insights into the RNA-mediated activities of RNA-binding E3 ubiquitin ligases. All rights reserved. No reuse allowed without permission.",
+      "sentences": [
+        [
+          {
+            "segment_text": "These results provide original insights into the RNA-mediated activities of RNA-binding E3 ubiquitin ligases .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "All rights reserved .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "No reuse allowed without permission .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The copyright holder for this preprint (which was not peer-reviewed) is the author/funder. . https://doi.org/10.1101/200410 doi: bioRxiv preprint RESULTS TRIM25 directly interacts with RNA through the PRY/SPRY domain.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The copyright holder for this preprint ( which was not peer-reviewed ) is the author/funder .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": ".",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "https://doi.org/10.1101/200410 doi : bioRxiv preprint RESULTS TRIM25 directly interacts with RNA through the PRY/SPRY domain .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "8",
+    "sentence_num": "28",
+    "segment_num": "35",
+    "token_num": "512"
+  }
+}

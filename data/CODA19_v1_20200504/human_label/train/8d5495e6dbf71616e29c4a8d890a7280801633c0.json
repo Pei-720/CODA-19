@@ -1,0 +1,68 @@
+{
+  "paper_id": "8d5495e6dbf71616e29c4a8d890a7280801633c0",
+  "metadata": {
+    "title": "Blood Transfusion Therapy",
+    "coda_data_split": "train",
+    "coda_paper_id": 3842,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Anemia Red blood cell transfusion Clinical decision support Restrictive transfusion practices",
+      "sentences": [
+        [
+          {
+            "segment_text": "Anemia Red blood cell transfusion Clinical decision support Restrictive transfusion practices",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Transfusion of red blood cells (RBCs) is a balance between providing benefit for patients while avoiding risks of transfusion. Randomized, controlled trials of restrictive RBC transfusion practices have shown equivalent patient outcomes compared with liberal transfusion practices, and meta-analyses have shown improved in-hospital mortality, reduced cardiac events, and reduced bacterial infections. This body of level 1 evidence has led to substantial, improved blood utilization and reduction of inappropriate blood transfusions with implementation of clinical decision support via electronic medical records, along with accompanying educational initiatives.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Transfusion of red blood cells ( RBCs ) is a balance between providing benefit for patients while avoiding risks of transfusion .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Randomized , controlled trials of restrictive RBC transfusion practices have shown equivalent patient outcomes compared with liberal transfusion practices ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and meta-analyses have shown improved in-hospital mortality ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "reduced cardiac events , and reduced bacterial infections .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This body of level 1 evidence has led to substantial ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "improved blood utilization and reduction of inappropriate blood transfusions with implementation of clinical decision support via electronic medical records ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "along with accompanying educational initiatives .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "4",
+    "segment_num": "8",
+    "token_num": "107"
+  }
+}

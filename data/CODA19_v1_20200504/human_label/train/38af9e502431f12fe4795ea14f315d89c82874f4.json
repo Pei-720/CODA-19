@@ -1,0 +1,75 @@
+{
+  "paper_id": "38af9e502431f12fe4795ea14f315d89c82874f4",
+  "metadata": {
+    "title": "Supplementary Experiment Procedures Protein production and crystallization",
+    "coda_data_split": "train",
+    "coda_paper_id": 4148,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The genomic region that codes for New SARS-Like Coronavirus 3C-like Protease was chemical synthesized following the sequence of Human betacoronavirus 2c EMC/2012 (HCoV-EMC). BamHI and XhoI restriction sites were attached to the 5\u0027 and 3\u0027 ends separately by PCR, and the PCR product was inserted into the pET-28b-SUMO vector. The recombinant plasmids were transformed into Escherichia coli strain BL21 (DE3) (TransGen Biotech). kanamycin-resistant colonies were grown in Luria-Bertani medium at 37 °C until the OD 600 reached 0.8. Isopropyl β-D-1-thiogalactopyranoside was added to a final concentration of 0.1 mM, and the cultures were grown for an additional 20 h at 16 °C. Cells were harvested by centrifugation, resuspended, and homogenized in lysis buffer containing 20 mM Tris-HCl (pH 8.0), 150 mM NaCl, 4 mM MgCl 2",
+      "sentences": [
+        [
+          {
+            "segment_text": "The genomic region that codes for New SARS-Like Coronavirus 3C-like Protease was chemical synthesized following the sequence of Human betacoronavirus 2c EMC/2012 ( HCoV-EMC ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "BamHI and XhoI restriction sites were attached to the 5 \u0027 and 3 \u0027 ends separately by PCR ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and the PCR product was inserted into the pET-28b-SUMO vector .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The recombinant plasmids were transformed into Escherichia coli strain BL21 ( DE3 ) ( TransGen Biotech ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "kanamycin-resistant colonies were grown in Luria-Bertani medium at 37 °C until the OD 600 reached 0.8 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Isopropyl β-D-1-thiogalactopyranoside was added to a final concentration of 0.1 mM ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and the cultures were grown for an additional 20 h at 16 °C .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Cells were harvested by centrifugation ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "resuspended , and homogenized in lysis buffer containing 20 mM Tris-HCl ( pH 8.0 ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "150 mM NaCl , 4 mM MgCl 2",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "10",
+    "token_num": "147"
+  }
+}

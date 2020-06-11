@@ -1,0 +1,114 @@
+{
+  "paper_id": "f0d33bca612ddb67f1029465657ff93c2b1e6e5b",
+  "metadata": {
+    "title": "Identification and Analysis of the gag-pal Ribosomal Frameshift Site of Feline lmmunodeficiency Virus",
+    "coda_data_split": "train",
+    "coda_paper_id": 3624,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The pal genes of retroviruses are translated as gag-@fusion proteins by ribosomal frameshifting within the gag-pal overlap region. During the ribosomal frameshift event, the gag open reading frame is shifted -1 nt to allow in-phase reading of the pal open reading frame. A consensus frameshift signal sequence of GGGAAAC within the gag-pal overlap region of feline immunodeficiency virus (FIV) has been identified followed by a sequence that has the potential for a pseudoknot tertiary structure. Using recombinant baculoviruses in which the frameshift occurs efficiently, the consensus sequence has been shown to be the site of the frameshift event. A mutation creating a termination codon just downstream of the putative frameshift signal sequence but upstream of the potential pseudoknot structure made a shorter gag product, but did not affect the efficiency of frameshifting.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The pal genes of retroviruses are translated as gag-@fusion proteins by ribosomal frameshifting within the gag-pal overlap region .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "During the ribosomal frameshift event ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the gag open reading frame is shifted -1 nt to allow in-phase reading of the pal open reading frame .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A consensus frameshift signal sequence of GGGAAAC within the gag-pal overlap region of feline immunodeficiency virus ( FIV ) has been identified followed by a sequence that has the potential for a pseudoknot tertiary structure .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using recombinant baculoviruses in which the frameshift occurs efficiently ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the consensus sequence has been shown to be the site of the frameshift event .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A mutation creating a termination codon just downstream of the putative frameshift signal sequence but upstream of the potential pseudoknot structure made a shorter gag product ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but did not affect the efficiency of frameshifting .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "A mutation creating a termination codon just upstream of the putative frameshift signal made a shorter product and essentially abrogated frameshifting.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A mutation creating a termination codon just upstream of the putative frameshift signal made a shorter product and essentially abrogated frameshifting .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Mutations in the first stem or the second stem in the potential pseudoknot structure severely reduced the frameshifting efficiency. Mutations which altered the length between the frameshift signal and the pseudoknot structure (the so-called spacer region) also reduced the frameshift efficiency. The insertion of a palindromic sequence, which could form a hairpin structure just upstream of the frameshift signal sequence, also affected the frameshifting.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Mutations in the first stem or the second stem in the potential pseudoknot structure severely reduced the frameshifting efficiency .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Mutations which altered the length between the frameshift signal and the pseudoknot structure ( the so-called spacer region ) also reduced the frameshift efficiency .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The insertion of a palindromic sequence ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which could form a hairpin structure just upstream of the frameshift signal sequence , also affected the frameshifting .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "These results support the view that the ribosomal frameshift event in the FIV gag-pal region involves the identified signal sequence and appears to require the precisely positioned downstream sequence and indicated pseudoknot structure for efficient frameshifting.",
+      "sentences": [
+        [
+          {
+            "segment_text": "These results support the view that the ribosomal frameshift event in the FIV gag-pal region involves the identified signal sequence and appears to require the precisely positioned downstream sequence and indicated pseudoknot structure for efficient frameshifting .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "10",
+    "segment_num": "14",
+    "token_num": "272"
+  }
+}

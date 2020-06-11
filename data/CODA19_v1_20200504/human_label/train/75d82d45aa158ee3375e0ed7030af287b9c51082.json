@@ -1,0 +1,144 @@
+{
+  "paper_id": "75d82d45aa158ee3375e0ed7030af287b9c51082",
+  "metadata": {
+    "title": "Pairwise coupling analysis of helical junction hydrogen bonding interactions in luteoviral RNA pseudoknots † NIH Public Access Author Manuscript",
+    "coda_data_split": "train",
+    "coda_paper_id": 10741,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "A 28-nucleotide mRNA pseudoknot that overlaps the P1 and P2 genes of sugarcane yellow leaf virus (ScYLV) stimulates −1 ribosomal frameshifting. The in vitro frameshifting efficiency is decreased ≈8 fold upon substitution of the 3′ most loop 2 nucleotide (C27) to adenosine, which accepts a hydrogen bond from the 2′-OH of C14 in stem S1. The solution structures of the wild-type (WT) and the C27A ScYLV RNA pseudoknots show that while the RNAs adopt virtually identical overall structures, there are significant structural differences at the helical junctions of the two RNAs. Specifically, C8 + in loop L1 in the C8 + ·(G12-C28) L1-S2 major groove base triple is displaced by ≈2.3 Å relative to the accepting stem 2 base pair (G12-C28) in the C27A RNA. Here, we employ a double mutant cycle approach to analyze the pairwise coupling of the C8 + ·(G12-C28) and C27·(C14-G7) or A27·(C14-G7) hydrogen bonds in the WT and C27A ScYLV RNAs, respectively, and compare these findings with previous results from the beet western yellows virus (BWYV) RNA. We find that the pairwise coupling free energy (δ AB i ) is favorable for the WT RNA (-0.7 ±0.1 kcal·mol −1 ), thus revealing that formation of these two hydrogen bonds is positively cooperative. In contrast, δ AB i is +0.9 ±0.4 kcal·mol −1 for the poorly functional C27A ScYLV RNA, indicative of non-additive hydrogen bond formation. These results reveal that cooperative hydrogen bond formation across the helical stem junction in H-type pseudoknots correlates with enhanced frameshift stimulation by luteoviral mRNA pseudoknots.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A 28-nucleotide mRNA pseudoknot that overlaps the P1 and P2 genes of sugarcane yellow leaf virus ( ScYLV ) stimulates − 1 ribosomal frameshifting .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The in vitro frameshifting efficiency is decreased ≈ 8 fold upon substitution of the 3 ′ most loop 2 nucleotide ( C27 ) to adenosine ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which accepts a hydrogen bond from the 2 ′ - OH of C14 in stem S1 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The solution structures of the wild-type ( WT ) and the C27A ScYLV RNA pseudoknots show that while the RNAs adopt virtually identical overall structures ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "there are significant structural differences at the helical junctions of the two RNAs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Specifically , C8 + in loop L1 in the C8 + · ( G12-C28 ) L1-S2 major groove base triple is displaced by ≈ 2.3 Å relative to the accepting stem 2 base pair ( G12-C28 ) in the C27A RNA .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we employ a double mutant cycle approach to analyze the pairwise coupling of the C8 + · ( G12-C28 ) and C27 · ( C14-G7 ) or A27 · ( C14-G7 ) hydrogen bonds in the WT and C27A ScYLV RNAs ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "respectively , and compare these findings with previous results from the beet western yellows virus ( BWYV ) RNA .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We find that the pairwise coupling free energy ( δ AB i ) is favorable for the WT RNA ( -0.7 ± 0.1 kcal · mol − 1 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "thus revealing that formation of these two hydrogen bonds is positively cooperative .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In contrast , δ AB i is +0.9 ± 0.4 kcal · mol − 1 for the poorly functional C27A ScYLV RNA ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "indicative of non-additive hydrogen bond formation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These results reveal that cooperative hydrogen bond formation across the helical stem junction in H-type pseudoknots correlates with enhanced frameshift stimulation by luteoviral mRNA pseudoknots .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "pseudoknot; frameshifting; protonated cytidine; hydrogen bond coupling Intricately folded motifs in both the noncoding and coding regions of mRNAs are known to regulate all steps of the translation cycle. RNA functions in cap-independent translational initiation by providing a binding site for 40S ribosomal subunits in internal ribosomal entry sites (IRES) (1). Riboswitches are naturally occurring aptamers that bind metabolites including adenine, guanine, S-adenosylmethionine, and thiamine pyrophosphatase that directly regulate the expression of enzymes linked to their production or degradation (2). Folded RNA motifs found in coding regions of mRNAs regulate ribosomal recoding by stimulating stop codon suppression, stop codon redefinition, or change the translational reading frame, an example of which is −1 programmed ribosomal frameshifting (−1 PRF) (3,4). −1 PRF occurs during translational elongation where the mRNA slips back by one nucleotide into the \"−1\" reading frame relative to the reference \"0\" frame. In RNA viruses, −1 PRF is used to produce several †",
+      "sentences": [
+        [
+          {
+            "segment_text": "pseudoknot ; frameshifting ; protonated cytidine ; hydrogen bond coupling Intricately folded motifs in both the noncoding and coding regions of mRNAs are known to regulate all steps of the translation cycle .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "RNA functions in cap-independent translational initiation by providing a binding site for 40S ribosomal subunits in internal ribosomal entry sites ( IRES ) ( 1 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Riboswitches are naturally occurring aptamers that bind metabolites including adenine ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "guanine , S-adenosylmethionine , and thiamine pyrophosphatase that directly regulate the expression of enzymes linked to their production or degradation ( 2 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Folded RNA motifs found in coding regions of mRNAs regulate ribosomal recoding by stimulating stop codon suppression ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "stop codon redefinition , or change the translational reading frame ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "an example of which is − 1 programmed ribosomal frameshifting ( − 1 PRF ) ( 3,4 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "− 1 PRF occurs during translational elongation where the mRNA slips back by one nucleotide into the \u0027\u0027 − 1 \u0027\u0027 reading frame relative to the reference `` 0 \u0027\u0027 frame .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In RNA viruses , − 1 PRF is used to produce several †",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "14",
+    "segment_num": "22",
+    "token_num": "501"
+  }
+}

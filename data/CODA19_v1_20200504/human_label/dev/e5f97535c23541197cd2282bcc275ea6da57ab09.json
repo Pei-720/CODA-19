@@ -1,0 +1,341 @@
+{
+  "paper_id": "e5f97535c23541197cd2282bcc275ea6da57ab09",
+  "metadata": {
+    "title": "Engineering RNA for Targeted siRNA Delivery and Medical Application NIH Public Access",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1617,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "RNA engineering for nanotechnology and medical applications is an exciting emerging research field. RNA has intrinsically defined features on the nanometer scale and is a particularly interesting candidate for such applications due to its amazing diversity, flexibility and versatility in structure and function. Specifically, the current use of siRNA to silence target genes involved in disease has generated much excitement in the scientific community. The intrinsic ability to sequence-specifically down-regulate gene expression in a temporally-and spatially-controlled fashion has led to heightened interest and rapid development of siRNA-based therapeutics. Though methods for gene silencing with high efficacy and specificity have been achieved in vitro, the effective delivery of nucleic acids to specific cells in vivo has been a hurdle for RNA therapeutics. This review covers different RNA-based approaches for diagnosis, prevention and treatment of human disease, with a focus on the latest developments of nonviral carriers of siRNA for delivery in vivo. The applications and challenges of siRNA therapy, as well as potential solutions to these problems, the approaches for using phi29 pRNA-based vectors as polyvalent vehicles for specific delivery of siRNA, ribozymes, drugs or other therapeutic agents to specific cells for therapy will also be addressed.",
+      "sentences": [
+        [
+          {
+            "segment_text": "RNA engineering for nanotechnology and medical applications is an exciting emerging research field .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "RNA has intrinsically defined features on the nanometer scale and is a particularly interesting candidate for such applications due to its amazing diversity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "flexibility and versatility in structure and function .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Specifically , the current use of siRNA to silence target genes involved in disease has generated much excitement in the scientific community .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The intrinsic ability to sequence-specifically down-regulate gene expression in a temporally-and spatially-controlled fashion has led to heightened interest and rapid development of siRNA-based therapeutics .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Though methods for gene silencing with high efficacy and specificity have been achieved in vitro ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the effective delivery of nucleic acids to specific cells in vivo has been a hurdle for RNA therapeutics .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This review covers different RNA-based approaches for diagnosis ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "prevention and treatment of human disease ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "with a focus on the latest developments of nonviral carriers of siRNA for delivery in vivo .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The applications and challenges of siRNA therapy ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "as well as potential solutions to these problems ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "the approaches for using phi29 pRNA-based vectors as polyvalent vehicles for specific delivery of siRNA ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "ribozymes , drugs or other therapeutic agents to specific cells for therapy will also be addressed .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "achieved. The simplicity of RNA engineering combined with its versatility in structure and function has highlighted the use of nucleic acid-and RNA-based strategies for therapy. Below, we list several RNA-based therapeutics approaches.",
+      "sentences": [
+        [
+          {
+            "segment_text": "achieved .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "The simplicity of RNA engineering combined with its versatility in structure and function has highlighted the use of nucleic acid-and RNA-based strategies for therapy .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Below , we list several RNA-based therapeutics approaches .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Ribozymes are catalytic RNA molecules with the capacity to bind and cleave other RNA molecules [14] [15] [16] [17] [18] [19] . By intercepting and cleaving messenger RNA or viral genomic RNA, ribozymes are capable of regulating gene function for therapeutic purposes [20, 21] . The structural variability of ribozymes translates into their functional versatility and diversity. Hammerhead ribozymes [22] , hairpin ribozymes [23] and phi29 pRNA [24, 25] were classified as small ribozymes whereas larger ribozymes include introns and RNase P [26, 27] . After being incorporated and escorted by the phi29 pRNA, the activity of ribozyme was enhanced due to the improvement in folding and stability [28, 29] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Ribozymes are catalytic RNA molecules with the capacity to bind and cleave other RNA molecules ( 14 ) ( 15 ) ( 16 ) ( 17 ) ( 18 ) ( 19 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "By intercepting and cleaving messenger RNA or viral genomic RNA ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "ribozymes are capable of regulating gene function for therapeutic purposes ( 20 , 21 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The structural variability of ribozymes translates into their functional versatility and diversity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hammerhead ribozymes ( 22 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "hairpin ribozymes ( 23 ) and phi29 pRNA ( 24 , 25 ) were classified as small ribozymes whereas larger ribozymes include introns and RNase P ( 26 , 27 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "After being incorporated and escorted by the phi29 pRNA ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the activity of ribozyme was enhanced due to the improvement in folding and stability ( 28 , 29 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Antisense RNA are single-stranded nucleic acid oligomers which can inhibit translation by Watson-Crick base pairing to target mRNA sequences to sterically block translation [30, 31] . The oligonucleotide sequences were coined \"antisense\" because most often they are transcribed in a direction opposite to that of the target RNA from the same DNA transcript. After the antisense strand binds to the target mRNA, the complementary or nearlycomplementary RNA strands form a stable and easily detectable complex which can be used to probe RNA/RNA interactions. The only oligonucleotide-based therapeutic currently on the market is fomivirsen (Vitravene; Isis Pharmaceuticals/Novartis) [32] , an antisense therapeutic targeting cytomegalovirus (CMV) retinitis in AIDS patients [33].",
+      "sentences": [
+        [
+          {
+            "segment_text": "Antisense RNA are single-stranded nucleic acid oligomers which can inhibit translation by Watson-Crick base pairing to target mRNA sequences to sterically block translation ( 30 , 31 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The oligonucleotide sequences were coined `` antisense \u0027\u0027 because most often they are transcribed in a direction opposite to that of the target RNA from the same DNA transcript .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "After the antisense strand binds to the target mRNA ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the complementary or nearlycomplementary RNA strands form a stable and easily detectable complex which can be used to probe RNA/RNA interactions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The only oligonucleotide-based therapeutic currently on the market is fomivirsen ( Vitravene ; Isis Pharmaceuticals/Novartis ) ( 32 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "an antisense therapeutic targeting cytomegalovirus ( CMV ) retinitis in AIDS patients ( 33 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "RNA interference (RNAi) is a post-transcriptional gene silencing (PTGS) mechanism found in plants, some invertebrates, and mammalian cells. RNAi exists in several forms, two of which siRNA[34] and miRNA, see 2.5) are discussed in this review. The use of RNAi technology for functional genomics has been highlighted by systematic RNAi-based genetic screening in C. elegance and Drosophila [34, 35] . Baulcombe and Hamilton found that cells can control protein production by a novel mechanism through which small double-stranded RNA molecules bind to specific mRNA sequences and block the respective gene\u0027s protein expression [34] [35] [36] . Furthermore, additional aspects of RNAi have been recognized over the past 7 years. In 2001, Elbashir et al. demonstrated that RNAi can be mediated by 21 nucleotide siRNAs in cultured mammalian cells [37, 38] . Then, Andrew Z. Fire and Craig C. Mello were awarded the 2006 Nobel Prize for Physiology or Medicine for their fundamental work in RNAi and its therapeutic potential [39] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "RNA interference ( RNAi ) is a post-transcriptional gene silencing ( PTGS ) mechanism found in plants ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "some invertebrates , and mammalian cells .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "RNAi exists in several forms ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "two of which siRNA ( 34 ) and miRNA ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "see 2.5 ) are discussed in this review .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The use of RNAi technology for functional genomics has been highlighted by systematic RNAi-based genetic screening in C. elegance and Drosophila ( 34 , 35 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Baulcombe and Hamilton found that cells can control protein production by a novel mechanism through which small double-stranded RNA molecules bind to specific mRNA sequences and block the respective gene \u0027s protein expression ( 34 ) ( 35 ) ( 36 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , additional aspects of RNAi have been recognized over the past 7 years .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In 2001 , Elbashir et al. demonstrated that RNAi can be mediated by 21 nucleotide siRNAs in cultured mammalian cells ( 37 , 38 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Then , Andrew Z. Fire and Craig C. Mello were awarded the 2006 Nobel Prize for Physiology or Medicine for their fundamental work in RNAi and its therapeutic potential ( 39 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "SiRNA is a key molecule in the RNAi pathway. SiRNAs are short (usually 21-25 nucleotide-long) dsRNA strands with 2-nucleotides overhangs at the 3′-ends [34, 35] . In the cytoplasm, siRNAs are loaded into a protein complex called the RNA induced silencing complex (RISC). The loaded RISC complex then scans all intracellular mRNA for a target mRNA with a complementary sequence to the loaded siRNA. If a target mRNA is found by the loaded RISC, the target mRNA is cleaved and degraded, successfully inhibiting the translation of the target gene.",
+      "sentences": [
+        [
+          {
+            "segment_text": "SiRNA is a key molecule in the RNAi pathway .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "SiRNAs are short ( usually 21-25 nucleotide-long ) dsRNA strands with 2-nucleotides overhangs at the 3 ′ - ends ( 34 , 35 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the cytoplasm , siRNAs are loaded into a protein complex called the RNA induced silencing complex ( RISC ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The loaded RISC complex then scans all intracellular mRNA for a target mRNA with a complementary sequence to the loaded siRNA .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "If a target mRNA is found by the loaded RISC ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the target mRNA is cleaved and degraded ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "successfully inhibiting the translation of the target gene .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "SiRNAs can be generated in several ways. In some cases, long dsRNA is introduced to a cell, either by a virus, endogenous RNA expression (i.e., microRNA), or exogenously delivered dsRNA. The enzyme Dicer cleaves the long duplex RNAs into siRNAs [35] . Another way to introduce siRNA into cells is to express short hairpin RNAs (shRNA) from plasmid vectors. ShRNA is transcribed under the control of RNA Pol-II or Pol-III Guo et al.",
+      "sentences": [
+        [
+          {
+            "segment_text": "SiRNAs can be generated in several ways .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In some cases , long dsRNA is introduced to a cell ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "either by a virus , endogenous RNA expression ( i.e. , microRNA ) , or exogenously delivered dsRNA .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The enzyme Dicer cleaves the long duplex RNAs into siRNAs ( 35 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Another way to introduce siRNA into cells is to express short hairpin RNAs ( shRNA ) from plasmid vectors .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "ShRNA is transcribed under the control of RNA Pol-II or Pol-III Guo et al. .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "7",
+    "sentence_num": "36",
+    "segment_num": "54",
+    "token_num": "905"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "paper_id": "9953c723a525577d0978977babc91ce0cb5742fe",
+  "metadata": {
+    "title": "Mining association rules with multiple minimum supports: a new mining algorithm and a support tuning mechanism",
+    "coda_data_split": "train",
+    "coda_paper_id": 3208,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Mining association rules with multiple minimum supports is an important generalization of the association-rule-mining problem, which was recently proposed by Liu et al. Instead of setting a single minimum support threshold for all items, they allow users to specify multiple minimum supports to reflect the natures of the items, and an Apriori-based algorithm, named MSapriori, is developed to mine all frequent itemsets. In this paper, we study the same problem but with two additional improvements. First, we propose a FP-tree-like structure, MIS-tree, to store the crucial information about frequent patterns. Accordingly, an efficient MIS-tree-based algorithm, called the CFP-growth algorithm, is developed for mining all frequent itemsets. Second, since each item can have its own minimum support, it is very difficult for users to set the appropriate thresholds for all items at a time. In practice, users need to tune items\u0027 supports and run the mining algorithm repeatedly until a satisfactory end is reached. To speed up this time-consuming tuning process, an efficient algorithm which can maintain the MIS-tree structure without rescanning database is proposed. Experiments on both synthetic and real-life datasets show that our algorithms are much more efficient and scalable than the previous algorithm. D",
+      "sentences": [
+        [
+          {
+            "segment_text": "Mining association rules with multiple minimum supports is an important generalization of the association-rule-mining problem ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which was recently proposed by Liu et al. .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Instead of setting a single minimum support threshold for all items ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "they allow users to specify multiple minimum supports to reflect the natures of the items ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and an Apriori-based algorithm , named MSapriori ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "is developed to mine all frequent itemsets .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this paper , we study the same problem but with two additional improvements .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "First , we propose a FP-tree-like structure ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "MIS-tree , to store the crucial information about frequent patterns .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Accordingly , an efficient MIS-tree-based algorithm ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "called the CFP-growth algorithm , is developed for mining all frequent itemsets .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Second , since each item can have its own minimum support ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "it is very difficult for users to set the appropriate thresholds for all items at a time .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In practice , users need to tune items \u0027 supports and run the mining algorithm repeatedly until a satisfactory end is reached .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "To speed up this time-consuming tuning process ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "an efficient algorithm which can maintain the MIS-tree structure without rescanning database is proposed .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Experiments on both synthetic and real-life datasets show that our algorithms are much more efficient and scalable than the previous algorithm .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "D",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "10",
+    "segment_num": "18",
+    "token_num": "222"
+  }
+}

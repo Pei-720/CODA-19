@@ -1,0 +1,178 @@
+{
+  "paper_id": "01ed70eb48931f96767db9b2c12f655d8343fe85",
+  "metadata": {
+    "title": "The complex associations of climate variability with seasonal influenza A and B virus transmission in subtropical Shanghai, China",
+    "coda_data_split": "train",
+    "coda_paper_id": 6075,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "High temperature only associated with influenza A occurrence. High diurnal temperature range (DTR) causes more influenza A cases. Low DTR causes more influenza B cases. High DTR and low temperature were the key drivers for influenza A and B separately. g r a p h i c a l a b s t r a c t X-axis: The value of climate variable; Y-axis: 2-weeks lagged cumulative relative risk (RR), indicating the number of times more likely to have influenza compared to reference value (Ref); Solid line: RR value; Grey shadow: 95% confidence interval (95% CI).",
+      "sentences": [
+        [
+          {
+            "segment_text": "High temperature only associated with influenza A occurrence .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "High diurnal temperature range ( DTR ) causes more influenza A cases .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Low DTR causes more influenza B cases .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "High DTR and low temperature were the key drivers for influenza A and B separately .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "g r a p h i c a l a b s t r a c t X-axis : The value of climate variable ; Y-axis : 2-weeks lagged cumulative relative risk ( RR ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "indicating the number of times more likely to have influenza compared to reference value ( Ref ) ; Solid line : RR value ; Grey shadow : 95 % confidence interval ( 95 % CI ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Most previous studies focused on the association between climate variables and seasonal influenza activity in tropical or temperate zones, little is known about the associations in different influenza types in subtropical China. The study aimed to explore the associations of multiple climate variables with influenza A (Flu-A) and B virus (Flu-B) transmissions in Shanghai, China. Weekly influenza virus and climate data (mean temperature (MeanT), diurnal temperature range (DTR), relative humidity (RH) and wind velocity (Wv)) were collected between June 2012 and December 2018. Generalized linear models (GLMs), distributed lag non-linear models (DLNMs) and regression tree models were developed to assess such associations. MeanT exerted the peaking risk of Flu-A at 1.4°C (2-weeks\u0027 cumulative relative risk (RR): 14.88, 95% confidence interval (CI): 8.67-23.31) and 25.8°C (RR: 12.21, 95%CI: 6.64-19.83), Flu-B had the peak at 1. 4°C (RR: 26.44,). The highest RR of Flu-A was 23.05 (95%CI: 5.12-88.45) at DTR of 15.8°C, that of Flu-B was 38.25 (95%CI: 15.82-87.61) at 3.2°C. RH of 51.5% had the highest RR of Flu-A (9.98, 95%CI: 4.03-26.28) and Flu-B (4.63, 95%CI: 1.95-11.27). Wv of 3.5 m/s exerted the peaking RR of Flu-A (7.48, 95%CI: 2.73-30.04) and . DTR 12°C and MeanT \u003c22°C were the key drivers for Flu-A and Flu-B, separately. The study found j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l oc a t e / s c i t o t e n v complex non-linear relationships between climate variability and different influenza types in Shanghai. We suggest the careful use of meteorological variables in influenza prediction in subtropical regions, considering such complex associations, which may facilitate government and health authorities to better minimize the impacts of seasonal influenza.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Most previous studies focused on the association between climate variables and seasonal influenza activity in tropical or temperate zones ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "little is known about the associations in different influenza types in subtropical China .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The study aimed to explore the associations of multiple climate variables with influenza A ( Flu-A ) and B virus ( Flu-B ) transmissions in Shanghai , China .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Weekly influenza virus and climate data ( mean temperature ( MeanT ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "diurnal temperature range ( DTR ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "relative humidity ( RH ) and wind velocity ( Wv ) ) were collected between June 2012 and December 2018 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Generalized linear models ( GLMs ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "distributed lag non-linear models ( DLNMs ) and regression tree models were developed to assess such associations .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "MeanT exerted the peaking risk of Flu-A at 1.4 °C ( 2-weeks \u0027 cumulative relative risk ( RR ) : 14.88 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "95 % confidence interval ( CI ) : 8.67-23.31 ) and 25.8 °C ( RR : 12.21 , 95 % CI : 6.64-19.83 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Flu-B had the peak at 1 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "4 °C ( RR : 26.44 , ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The highest RR of Flu-A was 23.05 ( 95 % CI : 5.12-88.45 ) at DTR of 15.8 °C ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "that of Flu-B was 38.25 ( 95 % CI : 15.82-87.61 ) at 3.2 °C .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "RH of 51.5 % had the highest RR of Flu-A ( 9.98 , 95 % CI : 4.03-26.28 ) and Flu-B ( 4.63 , 95 % CI : 1.95-11.27 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Wv of 3.5 m/s exerted the peaking RR of Flu-A ( 7.48 , 95 % CI : 2.73-30.04 ) and .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "DTR 12 °C and MeanT \u003c 22 °C were the key drivers for Flu-A and Flu-B , separately .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The study found j o u r n a l h o m e p a g e : w w w .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "e l s e v i e r .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "c o m / l oc a t e / s c i t o t e n v complex non-linear relationships between climate variability and different influenza types in Shanghai .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We suggest the careful use of meteorological variables in influenza prediction in subtropical regions ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "considering such complex associations , which may facilitate government and health authorities to better minimize the impacts of seasonal influenza .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "19",
+    "segment_num": "28",
+    "token_num": "518"
+  }
+}

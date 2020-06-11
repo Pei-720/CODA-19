@@ -1,0 +1,97 @@
+{
+  "paper_id": "91895a1125e6b20cc3e8439e5a223763b5cb694e",
+  "metadata": {
+    "title": "Prediction of RNA-protein interactions using conjoint triad feature and chaos game representation",
+    "coda_data_split": "train",
+    "coda_paper_id": 6166,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "RNA-protein interactions (RPIs) play a very important role in a wide range of post-transcriptional regulations, and identifying whether a given RNA-protein pair can form interactions or not is a vital prerequisite for dissecting the regulatory mechanisms of functional RNAs. Currently, expensive and time-consuming biological assays can only determine a very small portion of all RPIs, which calls for computational approaches to help biologists efficiently and correctly find candidate RPIs. Here, we integrated a successful computing algorithm, conjoint triad feature (CTF), and another method, chaos game representation (CGR), for representing RNA-protein pairs and by doing so developed a prediction model based on these representations and random forest (RF) classifiers. When testing two benchmark datasets, RPI369 and RPI2241, the combined method (CTF+CGR) showed some superiority compared with four existing tools. Especially on RPI2241, the CTF+CGR method improved prediction accuracy (ACC) from 0.91 (the best record of all published works) to 0.95. When independently testing a newly constructed dataset, RPI1449, which only contained experimentally validated RPIs released between 2014 and 2016, our method still showed some generalization capability with an ACC of 0.75. Accordingly, we believe that our hybrid CTF+CGR method will be an important tool for predicting RPIs in the future.",
+      "sentences": [
+        [
+          {
+            "segment_text": "RNA-protein interactions ( RPIs ) play a very important role in a wide range of post-transcriptional regulations ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and identifying whether a given RNA-protein pair can form interactions or not is a vital prerequisite for dissecting the regulatory mechanisms of functional RNAs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Currently , expensive and time-consuming biological assays can only determine a very small portion of all RPIs ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which calls for computational approaches to help biologists efficiently and correctly find candidate RPIs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we integrated a successful computing algorithm ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "conjoint triad feature ( CTF ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and another method , chaos game representation ( CGR ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "for representing RNA-protein pairs and by doing so developed a prediction model based on these representations and random forest ( RF ) classifiers .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "When testing two benchmark datasets ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "RPI369 and RPI2241 , the combined method ( CTF+CGR ) showed some superiority compared with four existing tools .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Especially on RPI2241 , the CTF+CGR method improved prediction accuracy ( ACC ) from 0.91 ( the best record of all published works ) to 0.95 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "When independently testing a newly constructed dataset ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "RPI1449 , which only contained experimentally validated RPIs released between 2014 and 2016 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "our method still showed some generalization capability with an ACC of 0.75 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Accordingly , we believe that our hybrid CTF+CGR method will be an important tool for predicting RPIs in the future .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "15",
+    "token_num": "235"
+  }
+}

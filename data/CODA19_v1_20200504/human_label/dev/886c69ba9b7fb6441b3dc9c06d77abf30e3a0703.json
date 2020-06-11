@@ -1,0 +1,210 @@
+{
+  "paper_id": "886c69ba9b7fb6441b3dc9c06d77abf30e3a0703",
+  "metadata": {
+    "title": "The UPR Branch IRE1-bZIP60 in Plants Plays an Essential Role in Viral Infection and Is Complementary to the Only UPR Pathway in Yeast Author Summary",
+    "coda_data_split": "dev",
+    "coda_paper_id": 2000,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "The unfolded protein response (UPR) signaling network encompasses two pathways in plants, one mediated by inositol-requiring protein-1 (IRE1)-bZIP60 mRNA and the other by site-1/site-2 proteases (S1P/S2P)-bZIP17/bZIP28. As the major sensor of UPR in eukaryotes, IRE1, in response to endoplasmic reticulum (ER) stress, catalyzes the unconventional splicing of HAC1 in yeast, bZIP60 in plants and XBP1 in metazoans. Recent studies suggest that IRE1p and HAC1 mRNA, the only UPR pathway found in yeast, evolves as a cognate system responsible for the robust UPR induction. However, the functional connectivity of IRE1 and its splicing target in multicellular eukaryotes as well as the degree of conservation of IRE1 downstream signaling effectors across eukaryotes remains to be established. Here, we report that IRE1 and its substrate bZIP60 function as a strictly cognate enzymesubstrate pair to control viral pathogenesis in plants. Moreover, we show that the S1P/ S2P-bZIP17/bZIP28 pathway, the other known branch of UPR in plants, does not play a detectable role in virus infection, demonstrating the distinct function of the IRE1-bZIP60 pathway in plants. Furthermore, we provide evidence that bZIP60 and HAC1, products of the enzyme-substrate duet, rather than IRE1, are functionally replaceable to cope with ER stress in yeast. Taken together, we conclude that the downstream signaling of the IRE1mediated splicing is evolutionarily conserved in yeast and plants, and that the IRE1-bZIP60 UPR pathway not only confers overlapping functions with the other UPR branch in fundamental biology but also may exert a unique role in certain biological processes such as virus-plant interactions.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The unfolded protein response ( UPR ) signaling network encompasses two pathways in plants ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "one mediated by inositol-requiring protein-1 ( IRE1 ) - bZIP60 mRNA and the other by site-1 / site-2 proteases ( S1P/S2P ) - bZIP17/bZIP28 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As the major sensor of UPR in eukaryotes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "IRE1 , in response to endoplasmic reticulum ( ER ) stress ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "catalyzes the unconventional splicing of HAC1 in yeast ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "bZIP60 in plants and XBP1 in metazoans .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recent studies suggest that IRE1p and HAC1 mRNA ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the only UPR pathway found in yeast ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "evolves as a cognate system responsible for the robust UPR induction .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the functional connectivity of IRE1 and its splicing target in multicellular eukaryotes as well as the degree of conservation of IRE1 downstream signaling effectors across eukaryotes remains to be established .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we report that IRE1 and its substrate bZIP60 function as a strictly cognate enzymesubstrate pair to control viral pathogenesis in plants .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , we show that the S1P / S2P-bZIP17 / bZIP28 pathway ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the other known branch of UPR in plants ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "does not play a detectable role in virus infection ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "demonstrating the distinct function of the IRE1-bZIP60 pathway in plants .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , we provide evidence that bZIP60 and HAC1 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "products of the enzyme-substrate duet ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "rather than IRE1 , are functionally replaceable to cope with ER stress in yeast .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Taken together , we conclude that the downstream signaling of the IRE1mediated splicing is evolutionarily conserved in yeast and plants ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and that the IRE1-bZIP60 UPR pathway not only confers overlapping functions with the other UPR branch in fundamental biology but also may exert a unique role in certain biological processes such as virus-plant interactions .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The unfolded protein response (UPR) is crucial to life as it regulates gene expression in response to stress in the endoplasmic reticulum (ER). There are two functionally overlapping UPR branches in plants, e.g., IRE1-bZIP60 and S1P/S2P-bZIP17/bZIP28, but only one, IRE1p-HAC1, in yeast. Despite recent significant progress in understanding UPR, a functional connectivity of IRE1 and its splicing target has not been established in multicellular eukaryotes. It is unknown if a single UPR branch in plants has any unique biological functions. Given that all eukaryotes are equipped with the IRE1-mediated pathway, are IRE1 downstream signaling effectors conserved among kingdoms and at what degree? Here, we show that IRE1 and its substrate bZIP60 function as a matched enzyme-substrate pair to mediate virus-host interactions in plants. We further provide evidence that a single UPR branch, IRE1-bZIP60, rather than S1P/S2P-bZIP17/bZIP28, determines viral pathogenesis, indicating that the two UPR arms may have distinct functions in plants. Finally, we demonstrate that the spliced form bZIP60 and HAC1p, rather than IRE1, are functionally replaceable to cope with abiotic stress in yeast, suggesting that the downstream signaling of the IRE1-mediated splicing is evolutionary conserved in plants and yeast. These data shed new lights into UPR in multicellular eukaryotes.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The unfolded protein response ( UPR ) is crucial to life as it regulates gene expression in response to stress in the endoplasmic reticulum ( ER ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "There are two functionally overlapping UPR branches in plants ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "e.g. , IRE1-bZIP60 and S1P/S2P-bZIP 17/bZIP28 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but only one , IRE1p-HAC1 , in yeast .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Despite recent significant progress in understanding UPR ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a functional connectivity of IRE1 and its splicing target has not been established in multicellular eukaryotes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is unknown if a single UPR branch in plants has any unique biological functions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Given that all eukaryotes are equipped with the IRE1-mediated pathway ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "are IRE1 downstream signaling effectors conserved among kingdoms and at what degree ?",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we show that IRE1 and its substrate bZIP60 function as a matched enzyme-substrate pair to mediate virus-host interactions in plants .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We further provide evidence that a single UPR branch ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "IRE1-bZIP60 , rather than S1P/S2P-bZIP 17/bZIP28 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "determines viral pathogenesis , indicating that the two UPR arms may have distinct functions in plants .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , we demonstrate that the spliced form bZIP60 and HAC1p ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "rather than IRE1 , are functionally replaceable to cope with abiotic stress in yeast ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "suggesting that the downstream signaling of the IRE1-mediated splicing is evolutionary conserved in plants and yeast .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These data shed new lights into UPR in multicellular eukaryotes .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "17",
+    "segment_num": "37",
+    "token_num": "525"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "paper_id": "102d97d552e9a486b480535b016b8e4ecedb296d",
+  "metadata": {
+    "title": "Cross-crystal averaging with search models to improve molecular replacement phases",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1235,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The application of molecular replacement (MR) in macromolecular crystallography can be limited by the \"model bias\" problem. Here we propose a strategy to reduce model bias when only part of a new structure is known: after the MR search, structure determination of the unknown part of the new structure can be facilitated by cross-crystal averaging of the known part of the new structure with the search model. This strategy dramatically improves electron density in the unknown part of the new structure. It has enabled us to determine the structures of two coronavirus receptorbinding domains each complexed with their receptor at moderate resolutions. In a test case, it also enabled automated model building when over 50% of an antigen-antibody complex was absent. These results suggest that this averaging strategy can be routinely used after MR to enhance the interpretability of electron density associated with missing model.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The application of molecular replacement ( MR ) in macromolecular crystallography can be limited by the `` model bias \u0027\u0027 problem .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we propose a strategy to reduce model bias when only part of a new structure is known : after the MR search ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "structure determination of the unknown part of the new structure can be facilitated by cross-crystal averaging of the known part of the new structure with the search model .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This strategy dramatically improves electron density in the unknown part of the new structure .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It has enabled us to determine the structures of two coronavirus receptorbinding domains each complexed with their receptor at moderate resolutions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In a test case , it also enabled automated model building when over 50 % of an antigen-antibody complex was absent .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These results suggest that this averaging strategy can be routinely used after MR to enhance the interpretability of electron density associated with missing model .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "7",
+    "token_num": "159"
+  }
+}

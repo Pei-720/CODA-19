@@ -1,0 +1,129 @@
+{
+  "paper_id": "5cb8afcb4fe6d5261f741ea877818fe3c2b69b84",
+  "metadata": {
+    "title": "A prospective prediction tool for understanding CrimeaneCongo haemorrhagic fever dynamics in Turkey",
+    "coda_data_split": "train",
+    "coda_paper_id": 7852,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Objectives: We aimed to develop a prospective prediction tool on CrimeaneCongo haemorrhagic fever (CCHF) to identify geographic regions at risk. The tool could support public health decision-makers in implementation of an effective control strategy in a timely manner. Methods: We used monthly surveillance data between 2004 and 2015 to predict case counts between 2016 and 2017 prospectively. The Turkish nationwide surveillance data set collected by the Ministry of Health contained 10 411 confirmed CCHF cases. We collected potential explanatory covariates about climate, land use, and animal and human populations at risk to capture spatiotemporal transmission dynamics. We developed a structured Gaussian process algorithm and prospectively tested this tool predicting the future year\u0027s cases given past years\u0027 cases. Results: We predicted the annual cases in 2016 and 2017 as 438 and 341, whereas the observed cases were 432 and 343, respectively. Pearson\u0027s correlation coefficient and normalized root mean squared error values for 2016 and 2017 predictions were (0.83; 0.58) and (0.87; 0.52), respectively. The most important covariates were found to be the number of settlements with fewer than 25 000 inhabitants, latitude, longitude and potential evapotranspiration (evaporation and transpiration). Conclusions: Main driving factors of CCHF dynamics were human population at risk in rural areas, geographical dependency and climate effect on ticks. Our model was able to prospectively predict the numbers of CCHF cases. Our proof-of-concept study also provided insight for understanding possible mechanisms of infectious diseases and found important directions for practice and policy to combat against emerging infectious diseases. Ç. Ak, Clin Microbiol Infect 2020;26:123.e1e123.e7",
+      "sentences": [
+        [
+          {
+            "segment_text": "Objectives : We aimed to develop a prospective prediction tool on CrimeaneCongo haemorrhagic fever ( CCHF ) to identify geographic regions at risk .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The tool could support public health decision-makers in implementation of an effective control strategy in a timely manner .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Methods : We used monthly surveillance data between 2004 and 2015 to predict case counts between 2016 and 2017 prospectively .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The Turkish nationwide surveillance data set collected by the Ministry of Health contained 10 411 confirmed CCHF cases .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We collected potential explanatory covariates about climate ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "land use , and animal and human populations at risk to capture spatiotemporal transmission dynamics .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We developed a structured Gaussian process algorithm and prospectively tested this tool predicting the future year \u0027s cases given past years \u0027 cases .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results : We predicted the annual cases in 2016 and 2017 as 438 and 341 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "whereas the observed cases were 432 and 343 , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Pearson \u0027s correlation coefficient and normalized root mean squared error values for 2016 and 2017 predictions were ( 0.83 ; 0.58 ) and ( 0.87 ; 0.52 ) , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The most important covariates were found to be the number of settlements with fewer than 25 000 inhabitants ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "latitude , longitude and potential evapotranspiration ( evaporation and transpiration ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Conclusions : Main driving factors of CCHF dynamics were human population at risk in rural areas ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "geographical dependency and climate effect on ticks .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our model was able to prospectively predict the numbers of CCHF cases .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our proof-of-concept study also provided insight for understanding possible mechanisms of infectious diseases and found important directions for practice and policy to combat against emerging infectious diseases .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Ç .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Ak , Clin Microbiol Infect 2020 ; 26:123 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "e1e123.e7",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "15",
+    "segment_num": "19",
+    "token_num": "298"
+  }
+}

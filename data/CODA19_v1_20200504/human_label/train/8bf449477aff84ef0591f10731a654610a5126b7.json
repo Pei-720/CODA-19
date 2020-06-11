@@ -1,0 +1,168 @@
+{
+  "paper_id": "8bf449477aff84ef0591f10731a654610a5126b7",
+  "metadata": {
+    "title": "Gene silencing of TACE enhances plaque stability and improves vascular remodeling in a rabbit model of atherosclerosis",
+    "coda_data_split": "train",
+    "coda_paper_id": 5490,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "We aimed to test the hypothesis that gene silencing of tumor necrosis factor alpha converting enzyme (TACE) may attenuate lesion inflammation and positive vascular remodeling and enhance plaque stability in a rabbit model of atherosclerosis. Lentivirus-mediated TACE shRNA was injected into the abdominal aortic plaques of rabbits which effectively down-regulated TACE expression and activities from week 8 to week 16. TACE gene silencing reduced remodeling index and plaque burden, and diminished the content of macrophages and lipids while increased that of smooth muscle cells and collagen in the aortic plaques. In addition, TACE gene silencing attenuated the local expression of P65, iNOS, ICAM-1, VEGF and Flt-1 and activities of MMP9 and MMP2 while increased the local expression of TGF-β1 together with reduced number of neovessels in the aorta. TACE shRNA treatment resulted in down-regulated expression of TACE in macrophages and blunted ERK-P38 phosphorylation and tube formation of co-cultured mouse vascular smooth muscle cells or human umbilical vein endothelial cells. In conclusion, gene silencing of TACE enhanced plaque stability and improved vascular positive remodeling. The mechanisms may involve attenuated local inflammation, neovascularization and MMP activation, as well as enhanced collagen production probably via down-regulated ERK-NF-κB and upregulated TGF-β1 signaling pathways.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We aimed to test the hypothesis that gene silencing of tumor necrosis factor alpha converting enzyme ( TACE ) may attenuate lesion inflammation and positive vascular remodeling and enhance plaque stability in a rabbit model of atherosclerosis .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Lentivirus-mediated TACE shRNA was injected into the abdominal aortic plaques of rabbits which effectively down-regulated TACE expression and activities from week 8 to week 16 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "TACE gene silencing reduced remodeling index and plaque burden ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and diminished the content of macrophages and lipids while increased that of smooth muscle cells and collagen in the aortic plaques .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , TACE gene silencing attenuated the local expression of P65 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "iNOS , ICAM-1 , VEGF and Flt-1 and activities of MMP9 and MMP2 while increased the local expression of TGF-β1 together with reduced number of neovessels in the aorta .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "TACE shRNA treatment resulted in down-regulated expression of TACE in macrophages and blunted ERK-P38 phosphorylation and tube formation of co-cultured mouse vascular smooth muscle cells or human umbilical vein endothelial cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In conclusion , gene silencing of TACE enhanced plaque stability and improved vascular positive remodeling .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The mechanisms may involve attenuated local inflammation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "neovascularization and MMP activation , as well as enhanced collagen production probably via down-regulated ERK-NF-κB and upregulated TGF-β1 signaling pathways .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Tumor necrosis factor alpha converting enzyme (TACE), also known as ADAM17 (A disintegrin and A metalloproteinase 17), was initially discovered as a protease that cleaves the 26-kDa precursor of TNF-α and sheds transmembrane TNF-α to generate a soluble form of TNF-α that can bind to TNF-α receptors to induce inflammatory response 1 . Recently it has been recognized that TACE is a type I transmembrane protein and a member of a superfamily of Zn dependent metalloproteases. The major physiological role of TACE is to regulate the proteolytic release of a number of growth factors, cytokines, adhesion molecules and cleavage enzymes from cellular membrane 2,3 . The major pro-inflammatory cytokine processed by TACE is TNF-α which is produced by macrophages, monocytes and T-cells, and acts as a major player in the pathogenesis of inflammation. It has been increasingly recognized that TACE-mediated shedding is involved in a variety of diseases such as ischemia, heart failure, arthritis, atherosclerosis, diabetes, cancer, neurological and immune diseases 3-5 . Ashley EA et al. provided functional evidence for TACE as a candidate gene of atherosclerosis susceptibility and found that polymorphisms of the TACE genes had relation to cardiovascular mortality in humans 6 . Canault M et al. found that TACE expression was associated with lesion formation in atherosclerosis-prone sites of apolipoprotein E-knockout (ApoE -/-) mice 7 . Oksala N demonstrated that TACE was upregulated in advanced human atherosclerotic lesions in samples from carotid, aortic, and femoral arteries compared to samples from internal thoracic artery free of atherosclerotic plaques 8 . In addition, Stoehr R et al. showed that loss of TIMP3, an endogenous inhibitor of TACE, exacerbated atherosclerosis 1",
+      "sentences": [
+        [
+          {
+            "segment_text": "Tumor necrosis factor alpha converting enzyme ( TACE ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "also known as ADAM17 ( A disintegrin and A metalloproteinase 17 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "was initially discovered as a protease that cleaves the 26-kDa precursor of TNF-α and sheds transmembrane TNF-α to generate a soluble form of TNF-α that can bind to TNF-α receptors to induce inflammatory response 1 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recently it has been recognized that TACE is a type I transmembrane protein and a member of a superfamily of Zn dependent metalloproteases .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The major physiological role of TACE is to regulate the proteolytic release of a number of growth factors ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "cytokines , adhesion molecules and cleavage enzymes from cellular membrane 2,3 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The major pro-inflammatory cytokine processed by TACE is TNF-α which is produced by macrophages ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "monocytes and T-cells , and acts as a major player in the pathogenesis of inflammation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It has been increasingly recognized that TACE-mediated shedding is involved in a variety of diseases such as ischemia ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "heart failure , arthritis , atherosclerosis ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "diabetes , cancer , neurological and immune diseases 3-5 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Ashley EA et al. provided functional evidence for TACE as a candidate gene of atherosclerosis susceptibility and found that polymorphisms of the TACE genes had relation to cardiovascular mortality in humans 6 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Canault M et al. found that TACE expression was associated with lesion formation in atherosclerosis-prone sites of apolipoprotein E-knockout ( ApoE - / - ) mice 7 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Oksala N demonstrated that TACE was upregulated in advanced human atherosclerotic lesions in samples from carotid ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "aortic , and femoral arteries compared to samples from internal thoracic artery free of atherosclerotic plaques 8 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , Stoehr R et al. showed that loss of TIMP3 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "an endogenous inhibitor of TACE , exacerbated atherosclerosis 1",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "16",
+    "segment_num": "27",
+    "token_num": "515"
+  }
+}

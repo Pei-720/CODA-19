@@ -1,0 +1,53 @@
+{
+  "paper_id": "6d34ce06351e718ea4651f1ea0ce8a2c1a42ef5c",
+  "metadata": {
+    "title": "A dynamic model for the p53 stress response networks under ion radiation",
+    "coda_data_split": "train",
+    "coda_paper_id": 8193,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "P53 controls the cell cycle arrest and cell apoptosis through interaction with the downstream genes and their signal pathways. To stimulate the investigation into the complicated responses of p53 under the circumstance of ion radiation (IR) in the cellular level, a dynamic model for the p53 stress response networks is proposed. The model can be successfully used to simulate the dynamic processes of generating the double-strand breaks (DSBs) and their repairing, ataxia telangiectasia mutated (ATM) activation, as well as the oscillations occurring in the p53-MDM2 feedback loop.",
+      "sentences": [
+        [
+          {
+            "segment_text": "P53 controls the cell cycle arrest and cell apoptosis through interaction with the downstream genes and their signal pathways .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To stimulate the investigation into the complicated responses of p53 under the circumstance of ion radiation ( IR ) in the cellular level ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "a dynamic model for the p53 stress response networks is proposed .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The model can be successfully used to simulate the dynamic processes of generating the double-strand breaks ( DSBs ) and their repairing ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "ataxia telangiectasia mutated ( ATM ) activation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as well as the oscillations occurring in the p53-MDM2 feedback loop .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "3",
+    "segment_num": "6",
+    "token_num": "99"
+  }
+}

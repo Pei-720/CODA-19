@@ -1,0 +1,251 @@
+{
+  "paper_id": "246d1372657ab63d6f10a57907fcda07c1ddbc3a",
+  "metadata": {
+    "title": "viruses Virus Metagenomics in Farm Animals: A Systematic Review",
+    "coda_data_split": "train",
+    "coda_paper_id": 9637,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "A majority of emerging infectious diseases are of zoonotic origin. Metagenomic Next-Generation Sequencing (mNGS) has been employed to identify uncommon and novel infectious etiologies and characterize virus diversity in human, animal, and environmental samples. Here, we systematically reviewed studies that performed viral mNGS in common livestock (cattle, small ruminants, poultry, and pigs). We identified 2481 records and 120 records were ultimately included after a first and second screening. Pigs were the most frequently studied livestock and the virus diversity found in samples from poultry was the highest. Known animal viruses, zoonotic viruses, and novel viruses were reported in available literature, demonstrating the capacity of mNGS to identify both known and novel viruses. However, the coverage of metagenomic studies was patchy, with few data on the virome of small ruminants and respiratory virome of studied livestock. Essential metadata such as age of livestock and farm types were rarely mentioned in available literature, and only 10.8% of the datasets were publicly available. Developing a deeper understanding of livestock virome is crucial for detection of potential zoonotic and animal pathogens and One Health preparedness. Metagenomic studies can provide this background but only when combined with essential metadata and following the \"FAIR\" (Findable, Accessible, Interoperable, and Reusable) data principles.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A majority of emerging infectious diseases are of zoonotic origin .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Metagenomic Next-Generation Sequencing ( mNGS ) has been employed to identify uncommon and novel infectious etiologies and characterize virus diversity in human ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "animal , and environmental samples .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we systematically reviewed studies that performed viral mNGS in common livestock ( cattle , small ruminants , poultry , and pigs ) .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We identified 2481 records and 120 records were ultimately included after a first and second screening .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Pigs were the most frequently studied livestock and the virus diversity found in samples from poultry was the highest .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Known animal viruses , zoonotic viruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and novel viruses were reported in available literature ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "demonstrating the capacity of mNGS to identify both known and novel viruses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the coverage of metagenomic studies was patchy ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with few data on the virome of small ruminants and respiratory virome of studied livestock .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Essential metadata such as age of livestock and farm types were rarely mentioned in available literature ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and only 10.8 % of the datasets were publicly available .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Developing a deeper understanding of livestock virome is crucial for detection of potential zoonotic and animal pathogens and One Health preparedness .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Metagenomic studies can provide this background but only when combined with essential metadata and following the `` FAIR \u0027\u0027 ( Findable , Accessible , Interoperable , and Reusable ) data principles .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Viruses 2020, 12, 107 2 of 22 flocks and wild birds, suggesting that pre-existing biosecurity measurements could not keep up with the rate of livestock intensification [16] . In 2007-2010, a large-scale Q fever outbreak was reported in the Netherlands, affecting more than 3500 human cases and resulting in a huge economic loss [17, 18] . A steep increase in the number of goat farms most likely was the driver for the increased prevalence of Coxiella burnetii infections, with animal abortion waves that had gone unnoticed. The policy of voluntary reporting abortion outbreaks to the Animal Health Service hindered the timely detection of the circulation of Q fever, and therefore early interventions. These examples indicate that zoonotic risks in the livestock industry should be carefully managed and adapted to livestock intensification. The One Health approach has been coined for advocating collaboration between multiple stakeholders including veterinarians, clinicians, epidemiologists, virologists, microbiologists, ecologists, and policy makers to prevent and control EIDs through the human-animal-environment interface [19] . Surveillance of livestock and the surrounding environment is a hallmark of early detection but is currently targeted to known risks.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Viruses 2020 , 12 , 107 2 of 22 flocks and wild birds ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "suggesting that pre-existing biosecurity measurements could not keep up with the rate of livestock intensification ( 16 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In 2007-2010 , a large-scale Q fever outbreak was reported in the Netherlands ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "affecting more than 3500 human cases and resulting in a huge economic loss ( 17 , 18 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A steep increase in the number of goat farms most likely was the driver for the increased prevalence of Coxiella burnetii infections ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with animal abortion waves that had gone unnoticed .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The policy of voluntary reporting abortion outbreaks to the Animal Health Service hindered the timely detection of the circulation of Q fever , and therefore early interventions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These examples indicate that zoonotic risks in the livestock industry should be carefully managed and adapted to livestock intensification .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The One Health approach has been coined for advocating collaboration between multiple stakeholders including veterinarians ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "clinicians , epidemiologists , virologists ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "microbiologists , ecologists , and policy makers to prevent and control EIDs through the human-animal-environment interface ( 19 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Surveillance of livestock and the surrounding environment is a hallmark of early detection but is currently targeted to known risks .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Advances in Next-Generation Sequencing (NGS) technologies and rapid development of bioinformatics and computational tools offer new opportunities for EID surveillance in quality and in scale. Particularly, metagenomic NGS (mNGS) allows unbiased detection of all microbes and viruses in a sample, showing potential for timely detection of rare or novel infectious etiologies, as well as for surveillance of foodborne and waterborne viruses [20] [21] [22][23][24][25][26]. However, the use of mNGS as a potential surveillance tool requires a deeper understanding of what is \"normal\" diversity in humans [27], as well as wildlife [28,29] and farm animals [30]. Characterizing species-specific metagenomes could potentially be used to provide a surveillance baseline for early detection and for tracking of movements of pathogens across different hosts, and has been promoted by projects like the global virome project [31]. However, for such applications, detailed background is needed regarding coverage, representativeness, and biases in the study designs. Here, we conduct a systematic review to identify available literature that performed viral mNGS in common farm animals including cattle, small ruminants (goats and sheep), poultry, and pigs. We reviewed the data and metadata availability and quality of these studies. We further summarized reported viromes of common farm animals in order to translate these efforts as background virus diversity profiles of common farm animals to guide preparedness of diseases at the livestock-human interface.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Advances in Next-Generation Sequencing ( NGS ) technologies and rapid development of bioinformatics and computational tools offer new opportunities for EID surveillance in quality and in scale .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Particularly , metagenomic NGS ( mNGS ) allows unbiased detection of all microbes and viruses in a sample ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "showing potential for timely detection of rare or novel infectious etiologies ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as well as for surveillance of foodborne and waterborne viruses ( 20 ) ( 21 ) ( 22 ) ( 23 ) ( 24 ) ( 25 ) ( 26 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the use of mNGS as a potential surveillance tool requires a deeper understanding of what is `` normal \u0027\u0027 diversity in humans ( 27 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as well as wildlife ( 28,29 ) and farm animals ( 30 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Characterizing species-specific metagenomes could potentially be used to provide a surveillance baseline for early detection and for tracking of movements of pathogens across different hosts ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and has been promoted by projects like the global virome project ( 31 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , for such applications ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "detailed background is needed regarding coverage ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "representativeness , and biases in the study designs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we conduct a systematic review to identify available literature that performed viral mNGS in common farm animals including cattle ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "small ruminants ( goats and sheep ) , poultry , and pigs .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We reviewed the data and metadata availability and quality of these studies .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We further summarized reported viromes of common farm animals in order to translate these efforts as background virus diversity profiles of common farm animals to guide preparedness of diseases at the livestock-human interface .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "25",
+    "segment_num": "42",
+    "token_num": "726"
+  }
+}

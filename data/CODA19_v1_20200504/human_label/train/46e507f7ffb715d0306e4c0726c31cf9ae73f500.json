@@ -1,0 +1,41 @@
+{
+  "paper_id": "46e507f7ffb715d0306e4c0726c31cf9ae73f500",
+  "metadata": {
+    "title": "Infectious Diseases of Domestic Rabbits 14.2.2 Lice",
+    "coda_data_split": "train",
+    "coda_paper_id": 2362,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Haemodipsus ventricosus is a sucking louse that affects wild rabbits and may act as a vector for myxomatosis. It is a large louse 1.5-2.5 mm in length. It is occasionally found on pet rabbits (Owen, 1992) .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Haemodipsus ventricosus is a sucking louse that affects wild rabbits and may act as a vector for myxomatosis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is a large louse 1.5-2.5 mm in length .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is occasionally found on pet rabbits ( Owen , 1992 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "3",
+    "segment_num": "3",
+    "token_num": "42"
+  }
+}

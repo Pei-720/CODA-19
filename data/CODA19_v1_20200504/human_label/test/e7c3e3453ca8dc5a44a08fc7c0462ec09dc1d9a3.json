@@ -1,0 +1,63 @@
+{
+  "paper_id": "e7c3e3453ca8dc5a44a08fc7c0462ec09dc1d9a3",
+  "metadata": {
+    "title": "Viral hijacking of the host ubiquitin system to evade interferon responses",
+    "coda_data_split": "test",
+    "coda_paper_id": 512,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The post-translational attachment of ubiquitin or ubiquitin-like modifiers (ULMs) to proteins regulates many cellular processes including the generation of innate and adaptive immune responses to pathogens. Vice versa, pathogens counteract immune defense by inhibiting or redirecting the ubiquitination machinery of the host. A common immune evasion strategy is for viruses to target host immunoproteins for proteasomal or lysosomal degradation by employing viral or host ubiquitin ligases. By degrading key host adaptor and signaling molecules, viruses thus disable multiple immune response pathways including the production of and response to interferons as well as other innate host defense mechanisms. Recent work further revealed that viruses inhibit the ligation of ubiquitin or ULMs or remove ubiquitin from host cell proteins. Thus, viruses succeed in either stabilizing negative regulators of innate immune signaling or thwart host cell proteins that are activated by ubiquitin or ULM-modification.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The post-translational attachment of ubiquitin or ubiquitin-like modifiers ( ULMs ) to proteins regulates many cellular processes including the generation of innate and adaptive immune responses to pathogens .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Vice versa , pathogens counteract immune defense by inhibiting or redirecting the ubiquitination machinery of the host .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A common immune evasion strategy is for viruses to target host immunoproteins for proteasomal or lysosomal degradation by employing viral or host ubiquitin ligases .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "By degrading key host adaptor and signaling molecules ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "viruses thus disable multiple immune response pathways including the production of and response to interferons as well as other innate host defense mechanisms .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recent work further revealed that viruses inhibit the ligation of ubiquitin or ULMs or remove ubiquitin from host cell proteins .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , viruses succeed in either stabilizing negative regulators of innate immune signaling or thwart host cell proteins that are activated by ubiquitin or ULM-modification .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "7",
+    "token_num": "152"
+  }
+}

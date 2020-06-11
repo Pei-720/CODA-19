@@ -1,0 +1,217 @@
+{
+  "paper_id": "cc9b7b99074f28886502d3efc3293366841c55b5",
+  "metadata": {
+    "title": "Face mask use in the general population and optimal resource allocation during the COVID-19 pandemic",
+    "coda_data_split": "train",
+    "coda_paper_id": 9697,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The ongoing novel coronavirus disease pandemic has rapidly spread in early 2020, causing tens of thousands of deaths, over a million cases and widespread socioeconomic disruption. With no vaccine available and numerous national healthcare systems reaching or exceeding capacity, interventions to limit transmission are urgently needed. While there is broad agreement that travel restrictions and closure of non-essential businesses and schools are beneficial in limiting local and regional spread, recommendations around the use of face masks for the general population are less consistent internationally. In this study, we examined the role of face masks in mitigating the spread of COVID-19 in the general population, using epidemic models to estimate the total reduction of infections and deaths under various scenarios. In particular, we examined the optimal deployment of face masks when resources are limited, and explored a range of supply and demand dynamics. We found that face masks, even with a limited protective effect, can reduce infections and deaths, and can delay the peak time of the epidemic. We consistently found that a random distribution of masks in the population was a suboptimal strategy when resources were limited. Prioritizing coverage among the elderly was more beneficial, while allocating a proportion of available resources for diagnosed infected cases provided further mitigation under a range of scenarios. In summary, face mask use, particularly for a pathogen with relatively common asymptomatic carriage, can effectively provide some mitigation of transmission, while balancing provision between vulnerable healthy persons and symptomatic persons can optimize mitigation efforts when resources are limited.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The ongoing novel coronavirus disease pandemic has rapidly spread in early 2020 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "causing tens of thousands of deaths ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "over a million cases and widespread socioeconomic disruption .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "With no vaccine available and numerous national healthcare systems reaching or exceeding capacity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "interventions to limit transmission are urgently needed .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "While there is broad agreement that travel restrictions and closure of non-essential businesses and schools are beneficial in limiting local and regional spread ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "recommendations around the use of face masks for the general population are less consistent internationally .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we examined the role of face masks in mitigating the spread of COVID-19 in the general population ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "using epidemic models to estimate the total reduction of infections and deaths under various scenarios .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In particular , we examined the optimal deployment of face masks when resources are limited ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and explored a range of supply and demand dynamics .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We found that face masks ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "even with a limited protective effect ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "can reduce infections and deaths ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and can delay the peak time of the epidemic .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We consistently found that a random distribution of masks in the population was a suboptimal strategy when resources were limited .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Prioritizing coverage among the elderly was more beneficial ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while allocating a proportion of available resources for diagnosed infected cases provided further mitigation under a range of scenarios .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In summary , face mask use ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "particularly for a pathogen with relatively common asymptomatic carriage ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "can effectively provide some mitigation of transmission ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while balancing provision between vulnerable healthy persons and symptomatic persons can optimize mitigation efforts when resources are limited .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The rapid global spread of SARS-CoV-2 and the resulting coronavirus disease pandemic has led to urgent efforts to contain and mitigate transmission, leading to significant and widespread socioeconomic disruption. As of April 3rd 2020, over one million cases have been reported worldwide, as well as over 60,000 deaths, with ongoing spread in most parts of the world [1]. While infection is frequently asymptomatic, or associated with only mild symptoms in many people [2, 3] , it can cause severe and life-threatening illness in the immunocompromised and the elderly, with a case fatality ratio of over 10% in the latter group [3] [4] [5] . The rapid spread of the virus has raised concerns that healthcare systems lack sufficient resources and will be unable to bear the burden of accommodating patients suffering from COVID-19, resulting in significantly increased morbidity and mortality. There is an urgent need . CC-BY-NC 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The rapid global spread of SARS-CoV-2 and the resulting coronavirus disease pandemic has led to urgent efforts to contain and mitigate transmission ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "leading to significant and widespread socioeconomic disruption .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "As of April 3rd 2020 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "over one million cases have been reported worldwide ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as well as over 60,000 deaths ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with ongoing spread in most parts of the world ( 1 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "While infection is frequently asymptomatic ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "or associated with only mild symptoms in many people ( 2 , 3 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "it can cause severe and life-threatening illness in the immunocompromised and the elderly ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with a case fatality ratio of over 10 % in the latter group ( 3 ) ( 4 ) ( 5 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The rapid spread of the virus has raised concerns that healthcare systems lack sufficient resources and will be unable to bear the burden of accommodating patients suffering from COVID-19 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "resulting in significantly increased morbidity and mortality .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "There is an urgent need .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "CC-BY-NC 4.0 International license It is made available under a author/funder ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "who has granted medRxiv a license to display the preprint in perpetuity .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "is the (which was not peer-reviewed) The copyright holder for this preprint .",
+      "sentences": [
+        [
+          {
+            "segment_text": "is the ( which was not peer-reviewed ) The copyright holder for this preprint .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "16",
+    "segment_num": "38",
+    "token_num": "486"
+  }
+}

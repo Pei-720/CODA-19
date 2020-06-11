@@ -1,0 +1,96 @@
+{
+  "paper_id": "93185810db7edfb5e3ecab72eee8a1f6b2ecd3f7",
+  "metadata": {
+    "title": "Management of uncertainty orderings through ASP",
+    "coda_data_split": "train",
+    "coda_paper_id": 6830,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Traditionally, most of the proposed probabilistic models of decision under uncertainty rely on numerical measures and representations. Alternative proposals call for qualitative (non-numerical) treatment of uncertainty, based on preference relations and belief orders. The automation of both numerical and non-numerical frameworks surely represents a preliminary step in the development of inference engines of intelligent agents, expert systems, and decision-support tools.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Traditionally , most of the proposed probabilistic models of decision under uncertainty rely on numerical measures and representations .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Alternative proposals call for qualitative ( non-numerical ) treatment of uncertainty ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "based on preference relations and belief orders .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The automation of both numerical and non-numerical frameworks surely represents a preliminary step in the development of inference engines of intelligent agents ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "expert systems , and decision-support tools .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In this paper we exploit Answer Set Programming to formalize and reason about uncertainty expressed as belief orders. The availability of ASP-solvers supports the design of automated tools to handle such formalizations. Our proposal reveals particularly suitable whenever the domain of discernment is partial. We first illustrate how to automatically \"classify ^^, according to the most well-known uncertainty frameworks, any given qualitative uncertainty assessment. Then, we show how to compute an enlargement of the assessment, to any other new inference target.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this paper we exploit Answer Set Programming to formalize and reason about uncertainty expressed as belief orders .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The availability of ASP-solvers supports the design of automated tools to handle such formalizations .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our proposal reveals particularly suitable whenever the domain of discernment is partial .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We first illustrate how to automatically `` classify ^ ^ ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "according to the most well-known uncertainty frameworks ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "any given qualitative uncertainty assessment .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Then , we show how to compute an enlargement of the assessment ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "to any other new inference target .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "8",
+    "segment_num": "13",
+    "token_num": "161"
+  }
+}

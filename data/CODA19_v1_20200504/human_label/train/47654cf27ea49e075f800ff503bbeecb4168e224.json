@@ -1,0 +1,219 @@
+{
+  "paper_id": "47654cf27ea49e075f800ff503bbeecb4168e224",
+  "metadata": {
+    "title": "Identifying outbreaks of Porcine Epidemic Diarrhea virus through animal movements and spatial neighborhoods OPEN",
+    "coda_data_split": "train",
+    "coda_paper_id": 2844,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "The spread of pathogens in swine populations is in part determined by movements of animals between farms. However, understanding additional characteristics that predict disease outbreaks and uncovering landscape factors related to between-farm spread are crucial steps toward risk mitigation. This study integrates animal movements with environmental risk factors to identify the occurrence of porcine epidemic diarrhea virus (PEDV) outbreaks. Using weekly farm-level incidence data from 332 sow farms, we applied machine-learning algorithms to quantify associations between risk factors and PEDV outbreaks with the ultimate goal of training predictive models and to identify the most important factors associated with PEDV occurrence. Our best algorithm was able to correctly predict whether an outbreak occurred during one-week periods with \u003e80% accuracy. The most important predictors included pig movements into neighboring farms. Other important neighborhood attributes included hog density, environmental and weather factors such as vegetation, wind speed, temperature, and precipitation, and topographical features such as slope. Our neighborhood-based approach allowed us to simultaneously capture disease risks associated with long-distance animal movement as well as local spatial dynamics. The model presented here forms the foundation for near real-time disease mapping and will advance disease surveillance and control for endemic swine pathogens in the United States.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The spread of pathogens in swine populations is in part determined by movements of animals between farms .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , understanding additional characteristics that predict disease outbreaks and uncovering landscape factors related to between-farm spread are crucial steps toward risk mitigation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study integrates animal movements with environmental risk factors to identify the occurrence of porcine epidemic diarrhea virus ( PEDV ) outbreaks .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using weekly farm-level incidence data from 332 sow farms ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we applied machine-learning algorithms to quantify associations between risk factors and PEDV outbreaks with the ultimate goal of training predictive models and to identify the most important factors associated with PEDV occurrence .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our best algorithm was able to correctly predict whether an outbreak occurred during one-week periods with \u003e 80 % accuracy .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The most important predictors included pig movements into neighboring farms .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Other important neighborhood attributes included hog density ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "environmental and weather factors such as vegetation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "wind speed , temperature , and precipitation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and topographical features such as slope .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our neighborhood-based approach allowed us to simultaneously capture disease risks associated with long-distance animal movement as well as local spatial dynamics .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The model presented here forms the foundation for near real-time disease mapping and will advance disease surveillance and control for endemic swine pathogens in the United States .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The circulation of endemic and epidemic viruses in livestock populations at farm, regional, and national levels has significant impact on animal welfare and livestock production within the United States and globally 1 . Numerous mechanisms play an apparent role in the spread of viruses between farms, including the movement of infectious animals, airborne spread of aerosols, wildlife, and contaminated fomites (i.e., trucks, equipment, boots), feed and personnel 2-5 . However, the relative importance of those drivers for between-farm transmission remains poorly understood. Movement of animals into a farm, for example, clearly increases the probability of disease introduction 6 , and understanding the network of livestock movements and analyzing the routes, volumes, frequency, and risks associated with animal movement is a prerequisite effective preventive, control, and disease surveillance measures in livestock 6-8 . At the same time, local spread of viruses between neighboring farms in close spatial proximity has been repeatedly demonstrated, perhaps mediated by windborne or fomite-related mechanisms 9,10 . A farm\u0027s risk of infection may thus be impacted not just by its own animal movements, but also by movements made by neighbors. These local spatial dynamics are rarely accounted for in network-based assessments of risks associated with livestock movement, although such dynamics are an emergent property of epidemiological models simulating disease spread in spatial networks 11, 12 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "The circulation of endemic and epidemic viruses in livestock populations at farm ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "regional , and national levels has significant impact on animal welfare and livestock production within the United States and globally 1 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Numerous mechanisms play an apparent role in the spread of viruses between farms ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including the movement of infectious animals ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "airborne spread of aerosols , wildlife ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and contaminated fomites ( i.e. , trucks , equipment , boots ) , feed and personnel 2-5 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the relative importance of those drivers for between-farm transmission remains poorly understood .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Movement of animals into a farm ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "for example , clearly increases the probability of disease introduction 6 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and understanding the network of livestock movements and analyzing the routes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "volumes , frequency , and risks associated with animal movement is a prerequisite effective preventive ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "control , and disease surveillance measures in livestock 6-8 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "At the same time , local spread of viruses between neighboring farms in close spatial proximity has been repeatedly demonstrated ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "perhaps mediated by windborne or fomite-related mechanisms 9,10 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A farm \u0027s risk of infection may thus be impacted not just by its own animal movements ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but also by movements made by neighbors .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These local spatial dynamics are rarely accounted for in network-based assessments of risks associated with livestock movement ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "although such dynamics are an emergent property of epidemiological models simulating disease spread in spatial networks 11 , 12 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Much of our understanding of between-farm pathogen transmission in the United States swine industry is based on outbreak investigations, case-control studies, cohorts and case reports involving a relatively small number of farms [13] [14] [15] . Large-scale datasets in which to investigate the interacting roles of animal movements versus local transmission in between-farm spread are largely lacking. This is especially true for endemic diseases, where farm-level occurrences are often not tracked, and for countries in which no regional or national-level databases 1 Published: xx xx xxxx OPEN www.nature.com/scientificreports/",
+      "sentences": [
+        [
+          {
+            "segment_text": "Much of our understanding of between-farm pathogen transmission in the United States swine industry is based on outbreak investigations ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "case-control studies , cohorts and case reports involving a relatively small number of farms ( 13 ) ( 14 ) ( 15 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Large-scale datasets in which to investigate the interacting roles of animal movements versus local transmission in between-farm spread are largely lacking .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This is especially true for endemic diseases ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "where farm-level occurrences are often not tracked ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and for countries in which no regional or national-level databases 1 Published : xx xx xxxx OPEN www.nature.com/scientificreports /",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "19",
+    "segment_num": "37",
+    "token_num": "569"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "paper_id": "eed628d7c0b2839575f9f93aae622f024ad9ae12",
+  "metadata": {
+    "title": "Dynamical response of multi-patch, flux-based models to the input of infected people: Epidemic response to initiated events",
+    "coda_data_split": "train",
+    "coda_paper_id": 2845,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The time course of an epidemic can be modeled using the differential equations that describe the spread of disease and by dividing people into \"patches\" of different sizes with the migration of people between these patches. We used these multi-patch, flux-based models to determine how the time course of infected and susceptible populations depends on the disease parameters, the geometry of the migrations between the patches, and the addition of infected people into a patch. We found that there are significantly longer lived transients and additional \"ancillary\" epidemics when the reproductive rate R is closer to 1, as would be typical of SARS (Severe Acute Respiratory Syndrome) and bird flu, than when R is closer to 10, as would be typical of measles. In addition we show, both analytical and numerical, how the time delay between the injection of infected people into a patch and the corresponding initial epidemic that it produces depends on R.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The time course of an epidemic can be modeled using the differential equations that describe the spread of disease and by dividing people into `` patches \u0027\u0027 of different sizes with the migration of people between these patches .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We used these multi-patch , flux-based models to determine how the time course of infected and susceptible populations depends on the disease parameters ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the geometry of the migrations between the patches ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and the addition of infected people into a patch .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We found that there are significantly longer lived transients and additional `` ancillary \u0027\u0027 epidemics when the reproductive rate R is closer to 1 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as would be typical of SARS ( Severe Acute Respiratory Syndrome ) and bird flu ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "than when R is closer to 10 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as would be typical of measles .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition we show , both analytical and numerical ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "how the time delay between the injection of infected people into a patch and the corresponding initial epidemic that it produces depends on R.",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "4",
+    "segment_num": "10",
+    "token_num": "172"
+  }
+}

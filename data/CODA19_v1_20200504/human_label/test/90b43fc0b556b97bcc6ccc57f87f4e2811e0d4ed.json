@@ -1,0 +1,215 @@
+{
+  "paper_id": "90b43fc0b556b97bcc6ccc57f87f4e2811e0d4ed",
+  "metadata": {
+    "title": "Generation of bat-derived influenza viruses and their reassortants opeN",
+    "coda_data_split": "test",
+    "coda_paper_id": 868,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "However, the biological properties of these bat-derived influenza viruses (BatIVs) are still largely unknown since infectious viral particles have never been isolated from the infected host species. In this study, a reverse genetics approach was used to generate infectious BatIV particles entirely from plasmids encoding full-length sequences in eight gene segments. We inoculated BatIV particles into various cell cultures including bat-derived cell lines and found that BatIVs infected particular batderived cells efficiently but not the other cell lines tested. Reassortant viruses between the two BatIVs were also successfully generated and their replication in the susceptible bat cell lines was confirmed. These findings suggest a limited host range and reassortment potential of BatIVs in nature, providing fundamental information for understanding of the ecology of BatIVs.",
+      "sentences": [
+        [
+          {
+            "segment_text": "However , the biological properties of these bat-derived influenza viruses ( BatIVs ) are still largely unknown since infectious viral particles have never been isolated from the infected host species .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , a reverse genetics approach was used to generate infectious BatIV particles entirely from plasmids encoding full-length sequences in eight gene segments .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We inoculated BatIV particles into various cell cultures including bat-derived cell lines and found that BatIVs infected particular batderived cells efficiently but not the other cell lines tested .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Reassortant viruses between the two BatIVs were also successfully generated and their replication in the susceptible bat cell lines was confirmed .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "These findings suggest a limited host range and reassortment potential of BatIVs in nature ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "providing fundamental information for understanding of the ecology of BatIVs .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Influenza A viruses (IAVs), which belong to the family Orthomyxoviridae, cause highly contagious diseases in a wide variety of avian and mammalian species, including humans, pigs, horses, dogs, and poultry, and are recognized as one of the most important zoonotic pathogens. IAVs have 8 segmented negative-sense RNA genomes and are divided into subtypes based on combination of two viral envelope glycoproteins, hemagglutinin (HA) and neuraminidase (NA). IAVs with H1-16 HA and N1-9 NA subtypes have been identified in wild aquatic birds, especially migratory ducks, the natural reservoir of IAVs 1-4 . Importantly, due to their propensity for genetic reassortment, a variety of IAV subtypes are distributed in many host species.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Influenza A viruses ( IAVs ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which belong to the family Orthomyxoviridae ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "cause highly contagious diseases in a wide variety of avian and mammalian species ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including humans , pigs , horses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "dogs , and poultry , and are recognized as one of the most important zoonotic pathogens .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "IAVs have 8 segmented negative-sense RNA genomes and are divided into subtypes based on combination of two viral envelope glycoproteins ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "hemagglutinin ( HA ) and neuraminidase ( NA ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "IAVs with H1-16 HA and N1-9 NA subtypes have been identified in wild aquatic birds ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "especially migratory ducks , the natural reservoir of IAVs 1-4 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Importantly , due to their propensity for genetic reassortment ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a variety of IAV subtypes are distributed in many host species .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Recently, influenza virus-like RNA genomes were detected in fruit bats (Sturnira lilium and Artibeus planirostris) in Central and South America 5,6 . Since the amino acid sequences of their HA and NA are distinct from those of all previously known IAV subtypes, these bat-derived influenza viruses (BatIVs) were provisionally designated H17N10 and H18N11. However, previous studies have reported that H17 HA does not bind to sialic acids linked to galactose in sugar chains 7 , which are known as canonical receptors of IAVs, and that N10 NA lacks neuraminidase activity 8 which is also a common property of all known influenza viruses. Thus, BatIV glycoproteins have also been called HA-like (HL) and NA-like (NL) (i.e., HL17NL10 and HL18NL11) 9 . However, information on the biological properties of these BatIVs is limited since infectious virus particles have never been isolated from infected animals.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Recently , influenza virus-like RNA genomes were detected in fruit bats ( Sturnira lilium and Artibeus planirostris ) in Central and South America 5,6 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Since the amino acid sequences of their HA and NA are distinct from those of all previously known IAV subtypes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "these bat-derived influenza viruses ( BatIVs ) were provisionally designated H17N10 and H18N11 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , previous studies have reported that H17 HA does not bind to sialic acids linked to galactose in sugar chains 7 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which are known as canonical receptors of IAVs ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and that N10 NA lacks neuraminidase activity 8 which is also a common property of all known influenza viruses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , BatIV glycoproteins have also been called HA-like ( HL ) and NA-like ( NL ) ( i.e. , HL17NL10 and HL18NL11 ) 9 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , information on the biological properties of these BatIVs is limited since infectious virus particles have never been isolated from infected animals .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Bats belonging to the order Chiroptera, which is known as the second largest order of mammalians, are distributed into more than 1,000 species globally 10 . It has been shown that bats play crucial roles as natural reservoirs of some zoonotic pathogens such as Marburg virus, Hendra virus, Nipah virus, Lyssa virus, SARS, and MERS coronaviruses 11-14 . Thus, it is important to investigate the ecology of bat-derived pathogens and to clarify their potential risks as zoonotic pathogens.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Bats belonging to the order Chiroptera ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which is known as the second largest order of mammalians ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "are distributed into more than 1,000 species globally 10 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It has been shown that bats play crucial roles as natural reservoirs of some zoonotic pathogens such as Marburg virus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Hendra virus , Nipah virus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Lyssa virus , SARS , and MERS coronaviruses 11-14 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , it is important to investigate the ecology of bat-derived pathogens and to clarify their potential risks as zoonotic pathogens .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Our previous study revealed that vesicular stomatitis viruses (VSVs) pseudotyped with BatIV glycoproteins efficiently infected cultured cells derived from particular bat species (e.g., Miniopterus fuliginosus) but not those commonly used for IAV propagation and other bat cells tested, providing key information on cell lines that are Published: xx xx xxxx opeN www.nature.com/scientificreports/",
+      "sentences": [
+        [
+          {
+            "segment_text": "Our previous study revealed that vesicular stomatitis viruses ( VSVs ) pseudotyped with BatIV glycoproteins efficiently infected cultured cells derived from particular bat species ( e.g. , Miniopterus fuliginosus ) but not those commonly used for IAV propagation and other bat cells tested ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "providing key information on cell lines that are Published : xx xx xxxx opeN www.nature.com/scientificreports /",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "18",
+    "segment_num": "34",
+    "token_num": "575"
+  }
+}

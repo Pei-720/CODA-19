@@ -1,0 +1,67 @@
+{
+  "paper_id": "626bcea8ab6811ee19f946cb84a273601cfd7bcc",
+  "metadata": {
+    "title": "Special Report Challenges in identifying antibiotic resistance targets for point-of-care diagnostics in general practice",
+    "coda_data_split": "train",
+    "coda_paper_id": 2969,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "General practitioners stand at the front line of healthcare provision and have a pivotal role in the fight against increasing antibiotic resistance. In this respect, targeted antibiotic prescribing by general practitioners would help reduce the unnecessary use of antibiotics, leading to reduced treatment failures, fewer side-effects for patients and a reduction in the (global) spread of antibiotic resistances. Current \u0027gold standard\u0027 antibiotic resistance detection strategies tend to be slow, taking up to 48 h to obtain a result, although the implementation of point-of-care testing by general practitioners could help achieve the goal of targeted antibiotic prescribing practices. However, deciding on which antibiotic resistances to include in a point-of-care diagnostic is not a trivial task, as outlined in this publication.",
+      "sentences": [
+        [
+          {
+            "segment_text": "General practitioners stand at the front line of healthcare provision and have a pivotal role in the fight against increasing antibiotic resistance .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this respect , targeted antibiotic prescribing by general practitioners would help reduce the unnecessary use of antibiotics ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "leading to reduced treatment failures ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "fewer side-effects for patients and a reduction in the ( global ) spread of antibiotic resistances .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Current ` gold standard \u0027 antibiotic resistance detection strategies tend to be slow ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "taking up to 48 h to obtain a result ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "although the implementation of point-of-care testing by general practitioners could help achieve the goal of targeted antibiotic prescribing practices .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , deciding on which antibiotic resistances to include in a point-of-care diagnostic is not a trivial task ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as outlined in this publication .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "4",
+    "segment_num": "9",
+    "token_num": "134"
+  }
+}

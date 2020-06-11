@@ -1,0 +1,278 @@
+{
+  "paper_id": "abfe0cb7933d6a4fb4e59075fbc3fbc9544675cc",
+  "metadata": {
+    "title": "Antigenic and biological comparisons of bovine coronaviruses derived from neonatal calf diarrhea and winter dysentery of adult cattle Brief Report",
+    "coda_data_split": "train",
+    "coda_paper_id": 7814,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The antigenic and biological properties of 6 strains of bovine coronavirus (BCV) derived from neonatal calf diarrhea (CD) and 8 strains of BCV from winter dysentery (WD) of adult cattle, propagated in HRT-18 cells, were compared to determine ifCD and WD strains belong to distinct serotypes or subtypes of BCV. All strains hemagglutinated both mouse and chicken erythrocytes at 4 °C, but the ratios of hemagglutination titers with mouse erythrocytes compared to chicken erythrocytes showed diversity for both CD and WD strains. Some CD and WD strains did not hemagglutinate chicken erythrocytes at 37 °C and showed receptordestroying enzyme activity against chicken erythrocytes. Hyperimmune antisera were produced in guinea pigs against 3 and 7 strains of BCV from CD and WD, respectively. No significant differences in antibody titers against these strains were observed by indirect immunofluorescence tests. However, in virus neutralization tests, antisera to 1 CD and 2 WD strains had 16-fold or lower antibody titers against 3 WD and 1 CD strains than against the homologous strains, and this variation reflected low antigenic relatedness values (R\u003d 13-25%), suggesting the presence of different subtypes among BCV. In hemagglutination inhibition tests, some one-way antigenic variations among strains were also observed. These results suggest that some antigenic and biological diversity exists among BCV strains, but these variations were unrelated to the clinical source of the strains; i.e. CD or WD.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The antigenic and biological properties of 6 strains of bovine coronavirus ( BCV ) derived from neonatal calf diarrhea ( CD ) and 8 strains of BCV from winter dysentery ( WD ) of adult cattle ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "propagated in HRT-18 cells , were compared to determine ifCD and WD strains belong to distinct serotypes or subtypes of BCV .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "All strains hemagglutinated both mouse and chicken erythrocytes at 4 °C ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but the ratios of hemagglutination titers with mouse erythrocytes compared to chicken erythrocytes showed diversity for both CD and WD strains .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Some CD and WD strains did not hemagglutinate chicken erythrocytes at 37 °C and showed receptordestroying enzyme activity against chicken erythrocytes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hyperimmune antisera were produced in guinea pigs against 3 and 7 strains of BCV from CD and WD , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "No significant differences in antibody titers against these strains were observed by indirect immunofluorescence tests .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , in virus neutralization tests ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "antisera to 1 CD and 2 WD strains had 16-fold or lower antibody titers against 3 WD and 1 CD strains than against the homologous strains ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and this variation reflected low antigenic relatedness values ( R \u003d 13-25 % ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "suggesting the presence of different subtypes among BCV .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In hemagglutination inhibition tests , some one-way antigenic variations among strains were also observed .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These results suggest that some antigenic and biological diversity exists among BCV strains ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but these variations were unrelated to the clinical source of the strains ; i.e. CD or WD .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Bovine coronavirus (BCV) is a primary cause of neonatal calf diarrhea (CD) worldwide [4, 13] . Bovine coronavirus is also associated with acute diarrhea in adult cattle during the winter season referred to as winter dysentery (WD) [4, 17, 18, 24, 26] . Besides infecting the small and large intestines of calves, BCV also possesses a tissue tropism for the upper respiratory tract [15] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Bovine coronavirus ( BCV ) is a primary cause of neonatal calf diarrhea ( CD ) worldwide ( 4 , 13 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Bovine coronavirus is also associated with acute diarrhea in adult cattle during the winter season referred to as winter dysentery ( WD ) ( 4 , 17 , 18 , 24 , 26 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Besides infecting the small and large intestines of calves ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "BCV also possesses a tissue tropism for the upper respiratory tract ( 15 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "H. Tsunemitsu and L. J. Saif Bovine coronavirus has four major structural proteins: the nucleocapsid protein (N), the transmembrane protein (M), the spike protein (S) and the hemagglutininesterase protein (HE) [21] . The S and HE proteins form fringes of longer and shorter surface projections, respectively [4] . Both proteins can cause hemagglutination (HA) and contain neutralizing epitopes [7, 20] . The HE protein also possesses receptor-destroying enzyme (RDE) which inactivates cellular receptors for BCV by hydrolyzing an ester bond to release acetate from C-9 of sialic acid [4, 27] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "H. Tsunemitsu and L. J. Saif Bovine coronavirus has four major structural proteins : the nucleocapsid protein ( N ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the transmembrane protein ( M ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the spike protein ( S ) and the hemagglutininesterase protein ( HE ) ( 21 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The S and HE proteins form fringes of longer and shorter surface projections , respectively ( 4 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Both proteins can cause hemagglutination ( HA ) and contain neutralizing epitopes ( 7 , 20 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The HE protein also possesses receptor-destroying enzyme ( RDE ) which inactivates cellular receptors for BCV by hydrolyzing an ester bond to release acetate from C-9 of sialic acid ( 4 , 27 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Because the primary isolation of BCV remains difficult, there have been only a few investigations on antigenic comparisons of BCV strains [6, 8, 11, 14] . Specifically, whether antigenic or biological differences exist between strains derived from CD and WD remains obscure [2] . The purpose of this study was to isolate BCV strains from feces derived from CD and WD in human rectal tumor (HRT-18) cells and to compare the antigenic and biological properties of these strains. and was propagated 8 times in HRT-18 cells. Six WD isolates of BCV designated as the TS, CN, BE, BM, AW and BW strains, were isolated from fecal samples of gnotobiotic calves which had been inoculated with fecal filtrates from affected adult dairy cows from 6 herds in the U.S.A. including Ohio (3 herds) and Wisconsin (3 herds), which were experiencing typical outbreaks of WD during the winters of 1987 to 1993. Three CD isolates of BCV designated as the DB2, OHC and SDC strains, were isolated from fecal samples of neonatal calves with acute diarrhea from 3 herds in the U.S.A. including Ohio (2 herds) and South Dakota (1 herd). A fourth CD isolate (JAZ) was isolated from a neonatal calf with acute diarrhea in Hokkaido, Japan. Virus isolation on HRT-18 cells was done as previously described [2, 25] except that 10 gg/ml of pancreatin (Gibco Laboratories, Grand Island, N.Y.) was added to the maintenance medium. Confirmation of the isolates as BCV was done by using immune electron microscopy [ 16] and immunofluorescence (IF) [2] with hyperimmune antiserum prepared against the Mebus strain ofCD BCV. The isolated viruses, which were passaged a total of 5 to 10 times in HRT-18 cells were plaque-purified at least once before use.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Because the primary isolation of BCV remains difficult ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "there have been only a few investigations on antigenic comparisons of BCV strains ( 6 , 8 , 11 , 14 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Specifically , whether antigenic or biological differences exist between strains derived from CD and WD remains obscure ( 2 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The purpose of this study was to isolate BCV strains from feces derived from CD and WD in human rectal tumor ( HRT-18 ) cells and to compare the antigenic and biological properties of these strains .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "and was propagated 8 times in HRT-18 cells .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Six WD isolates of BCV designated as the TS ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "CN , BE , BM ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "AW and BW strains , were isolated from fecal samples of gnotobiotic calves which had been inoculated with fecal filtrates from affected adult dairy cows from 6 herds in the U.S.A. including Ohio ( 3 herds ) and Wisconsin ( 3 herds ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which were experiencing typical outbreaks of WD during the winters of 1987 to 1993 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Three CD isolates of BCV designated as the DB2 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "OHC and SDC strains , were isolated from fecal samples of neonatal calves with acute diarrhea from 3 herds in the U.S.A. including Ohio ( 2 herds ) and South Dakota ( 1 herd ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A fourth CD isolate ( JAZ ) was isolated from a neonatal calf with acute diarrhea in Hokkaido , Japan .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Virus isolation on HRT-18 cells was done as previously described ( 2 , 25 ) except that 10 gg/ml of pancreatin ( Gibco Laboratories , Grand Island , N.Y. ) was added to the maintenance medium .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Confirmation of the isolates as BCV was done by using immune electron microscopy ( 16 ) and immunofluorescence ( IF ) ( 2 ) with hyperimmune antiserum prepared against the Mebus strain ofCD BCV .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The isolated viruses , which were passaged a total of 5 to 10 times in HRT-18 cells were plaque-purified at least once before use .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Hyperimmune antisera were prepared in guinea pigs against 3 CD strains (Mebus, DB2, 216XF) and 7 WD strains (SD, BM, CN, AW, DBA, TS, BE) of BCV that had been propagated in HRT-18 cells for 6 to 11 passages and then purified on sucrose gradients [5] . These antisera were used for serological tests.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Hyperimmune antisera were prepared in guinea pigs against 3 CD strains ( Mebus , DB2 , 216XF ) and 7 WD strains ( SD , BM , CN , AW , DBA , TS , BE ) of BCV that had been propagated in HRT-18 cells for 6 to 11 passages and then purified on sucrose gradients ( 5 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "These antisera were used for serological tests .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Hemagglutination (HA) tests were conducted by the microtiter method [19] . Bovine coronavirus strains were purified from infected-cell culture supernatants,",
+      "sentences": [
+        [
+          {
+            "segment_text": "Hemagglutination ( HA ) tests were conducted by the microtiter method ( 19 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Bovine coronavirus strains were purified from infected-cell culture supernatants ,",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "6",
+    "sentence_num": "29",
+    "segment_num": "43",
+    "token_num": "889"
+  }
+}

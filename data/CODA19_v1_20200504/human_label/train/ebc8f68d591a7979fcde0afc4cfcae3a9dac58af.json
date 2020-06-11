@@ -1,0 +1,117 @@
+{
+  "paper_id": "ebc8f68d591a7979fcde0afc4cfcae3a9dac58af",
+  "metadata": {
+    "title": "An Amphipathic a-Helix Controls Multiple Roles of Brome Mosaic Virus Protein 1a in RNA Replication Complex Assembly and Function",
+    "coda_data_split": "train",
+    "coda_paper_id": 5226,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Brome mosaic virus (BMV) protein 1a has multiple key roles in viral RNA replication. 1a localizes to perinuclear endoplasmic reticulum (ER) membranes as a peripheral membrane protein, induces ER membrane invaginations in which RNA replication complexes form, and recruits and stabilizes BMV 2a polymerase (2a Pol ) and RNA replication templates at these sites to establish active replication complexes. During replication, 1a provides RNA capping, NTPase and possibly RNA helicase functions. Here we identify in BMV 1a an amphipathic a-helix, helix A, and use NMR analysis to define its structure and propensity to insert in hydrophobic membrane-mimicking micelles. We show that helix A is essential for efficient 1a-ER membrane association and normal perinuclear ER localization, and that deletion or mutation of helix A abolishes RNA replication. Strikingly, mutations in helix A give rise to two dramatically opposite 1a function phenotypes, implying that helix A acts as a molecular switch regulating the intricate balance between separable 1a functions. One class of helix A deletions and amino acid substitutions markedly inhibits 1a-membrane association and abolishes ER membrane invagination, viral RNA template recruitment, and replication, but doubles the 1a-mediated increase in 2a Pol accumulation. The second class of helix A mutations not only maintains efficient 1a-membrane association but also amplifies the number of 1a-induced membrane invaginations 5-to 8-fold and enhances viral RNA template recruitment, while failing to stimulate 2a Pol accumulation. The results provide new insights into the pathways of RNA replication complex assembly and show that helix A is critical for assembly and function of the viral RNA replication complex, including its central role in targeting replication components and controlling modes of 1a action.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Brome mosaic virus ( BMV ) protein 1a has multiple key roles in viral RNA replication .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "1a localizes to perinuclear endoplasmic reticulum ( ER ) membranes as a peripheral membrane protein ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "induces ER membrane invaginations in which RNA replication complexes form ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and recruits and stabilizes BMV 2a polymerase ( 2a Pol ) and RNA replication templates at these sites to establish active replication complexes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "During replication , 1a provides RNA capping ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "NTPase and possibly RNA helicase functions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we identify in BMV 1a an amphipathic a-helix ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "helix A , and use NMR analysis to define its structure and propensity to insert in hydrophobic membrane-mimicking micelles .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We show that helix A is essential for efficient 1a-ER membrane association and normal perinuclear ER localization ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and that deletion or mutation of helix A abolishes RNA replication .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Strikingly , mutations in helix A give rise to two dramatically opposite 1a function phenotypes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "implying that helix A acts as a molecular switch regulating the intricate balance between separable 1a functions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "One class of helix A deletions and amino acid substitutions markedly inhibits 1a-membrane association and abolishes ER membrane invagination ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "viral RNA template recruitment , and replication ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but doubles the 1a-mediated increase in 2a Pol accumulation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The second class of helix A mutations not only maintains efficient 1a-membrane association but also amplifies the number of 1a-induced membrane invaginations 5-to 8-fold and enhances viral RNA template recruitment ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while failing to stimulate 2a Pol accumulation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results provide new insights into the pathways of RNA replication complex assembly and show that helix A is critical for assembly and function of the viral RNA replication complex ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including its central role in targeting replication components and controlling modes of 1a action .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "9",
+    "segment_num": "19",
+    "token_num": "300"
+  }
+}

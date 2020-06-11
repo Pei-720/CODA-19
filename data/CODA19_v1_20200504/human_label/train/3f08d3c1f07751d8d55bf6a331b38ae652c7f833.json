@@ -1,0 +1,79 @@
+{
+  "paper_id": "3f08d3c1f07751d8d55bf6a331b38ae652c7f833",
+  "metadata": {
+    "title": "The NIAID Integrated Research Facility at Frederick, Maryland: a unique international resource to facilitate medical countermeasure development for BSL-4 pathogens",
+    "coda_data_split": "train",
+    "coda_paper_id": 5350,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Research Facility at Fort Detrick, Frederick, Maryland, coordinate and facilitate preclinical research on infectious diseases to develop medical countermeasures for high-consequence pathogens. This facility is unique in that it is the only maximum containment laboratory in the world where conventional and molecular medical imaging equipments are incorporated into the design of the facility. This capability provides investigators with unique tools to dissect disease pathogenesis, evaluate the ability of animal models to recapitulate human disease, and test candidate countermeasures. Importantly, advanced molecular imaging has the potential to provide alternative endpoints to lethality. Using these alternative endpoints, investigators can reduce the number of animals used in experiments and evaluate countermeasures in sublethal models. With the incorporation of medical imaging modalities, a clinical laboratory modeled after those existing in hospitals, and a highly trained veterinary medicine team, IRF-Frederick is uniquely suited to advance our understanding of emerging infectious diseases and to facilitate the development of medical countermeasures and clinical care paradigms previously considered impossible.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Research Facility at Fort Detrick ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Frederick , Maryland , coordinate and facilitate preclinical research on infectious diseases to develop medical countermeasures for high-consequence pathogens .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This facility is unique in that it is the only maximum containment laboratory in the world where conventional and molecular medical imaging equipments are incorporated into the design of the facility .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This capability provides investigators with unique tools to dissect disease pathogenesis ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "evaluate the ability of animal models to recapitulate human disease , and test candidate countermeasures .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Importantly , advanced molecular imaging has the potential to provide alternative endpoints to lethality .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using these alternative endpoints , investigators can reduce the number of animals used in experiments and evaluate countermeasures in sublethal models .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "With the incorporation of medical imaging modalities ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a clinical laboratory modeled after those existing in hospitals ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and a highly trained veterinary medicine team ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "IRF-Frederick is uniquely suited to advance our understanding of emerging infectious diseases and to facilitate the development of medical countermeasures and clinical care paradigms previously considered impossible .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "11",
+    "token_num": "177"
+  }
+}

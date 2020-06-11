@@ -1,0 +1,116 @@
+{
+  "paper_id": "8b3e1b0f7325f6e7379a4b023f89ad3f42ef6033",
+  "metadata": {
+    "title": "An asymptotic solution of the integral equation for the second moment function in geometric processes",
+    "coda_data_split": "train",
+    "coda_paper_id": 3277,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "In this study, we derive an asymptotic solution of the integral equation satisfied by the second moment function M 2 (t, a). We first find the Laplace transform (M 2 ) L (s, a) and then obtain M 2 (t, a) asymptotically by inversion. Further, we have derived the asymptotic expressions of M 2 (t, a) for some special lifetime distributions such as exponential, gamma, Weibull, lognormal and truncated normal. Finally, the asymptotic solution is compared with the numerical solution to evaluate its performance.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this study , we derive an asymptotic solution of the integral equation satisfied by the second moment function M 2 ( t , a ) .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We first find the Laplace transform ( M 2 ) L ( s , a ) and then obtain M 2 ( t , a ) asymptotically by inversion .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Further , we have derived the asymptotic expressions of M 2 ( t , a ) for some special lifetime distributions such as exponential ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "gamma , Weibull , lognormal and truncated normal .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , the asymptotic solution is compared with the numerical solution to evaluate its performance .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "for k \u003d 1, 2, . . .. If a \u003c 1, then {X k , k \u003d 1, 2, . . .} is stochastically increasing. If a \u003e 1, then {X k , k \u003d 1, 2, . . .} is stochastically decreasing. When a \u003d 1, the GP reduces to a renewal process (RP).",
+      "sentences": [
+        [
+          {
+            "segment_text": "for k \u003d 1 , 2 , ... .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "If a \u003c 1 , then ( X k , k \u003d 1 , 2 , ... ) is stochastically increasing .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "If a \u003e 1 , then ( X k , k \u003d 1 , 2 , ... ) is stochastically decreasing .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "When a \u003d 1 , the GP reduces to a renewal process ( RP ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Some important characteristics of a GP are the mean value function M(t) and the second moment function M 2 (t). These are defined as follows.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Some important characteristics of a GP are the mean value function M ( t ) and the second moment function M 2 ( t ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These are defined as follows .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The mean value function of a GP, which is also called the geometric function, is given by M (t, a) \u003d E (N (t)) \u003d",
+      "sentences": [
+        [
+          {
+            "segment_text": "The mean value function of a GP ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which is also called the geometric function ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "is given by M ( t , a ) \u003d E ( N ( t ) ) \u003d",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "11",
+    "segment_num": "14",
+    "token_num": "242"
+  }
+}

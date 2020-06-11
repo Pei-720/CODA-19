@@ -1,0 +1,65 @@
+{
+  "paper_id": "3920596af370a9e2e4c31d89444c980ceadbc4f8",
+  "metadata": {
+    "title": "A design principle for a single-stranded RNA genome that replicates with less double-strand formation",
+    "coda_data_split": "train",
+    "coda_paper_id": 9750,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Single-stranded RNA (ssRNA) is the simplest form of genetic molecule and constitutes the genome in some viruses and presumably in primitive life-forms. However, an innate and unsolved problem regarding the ssRNA genome is formation of inactive doublestranded RNA (dsRNA) during replication. Here, we addressed this problem by focusing on the secondary structure. We systematically designed RNAs with various structures and observed dsRNA formation during replication using an RNA replicase (Q␤ replicase). From the results, we extracted a simple rule regarding ssRNA genome replication with less dsRNA formation (less GC number in loops) and then designed an artificial RNA that encodes a domain of the ␤-galactosidase gene based on this rule. We also obtained evidence that this rule governs the natural genomes of all bacterial and most fungal viruses presently known. This study revealed one of the structural design principles of an ssRNA genome that replicates continuously with less dsRNA formation.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Single-stranded RNA ( ssRNA ) is the simplest form of genetic molecule and constitutes the genome in some viruses and presumably in primitive life-forms .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , an innate and unsolved problem regarding the ssRNA genome is formation of inactive doublestranded RNA ( dsRNA ) during replication .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we addressed this problem by focusing on the secondary structure .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We systematically designed RNAs with various structures and observed dsRNA formation during replication using an RNA replicase ( Q ␤ replicase ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "From the results , we extracted a simple rule regarding ssRNA genome replication with less dsRNA formation ( less GC number in loops ) and then designed an artificial RNA that encodes a domain of the ␤ - galactosidase gene based on this rule .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also obtained evidence that this rule governs the natural genomes of all bacterial and most fungal viruses presently known .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study revealed one of the structural design principles of an ssRNA genome that replicates continuously with less dsRNA formation .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "7",
+    "token_num": "171"
+  }
+}

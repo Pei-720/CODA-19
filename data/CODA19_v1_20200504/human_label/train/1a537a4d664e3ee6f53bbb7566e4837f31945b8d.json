@@ -1,0 +1,149 @@
+{
+  "paper_id": "1a537a4d664e3ee6f53bbb7566e4837f31945b8d",
+  "metadata": {
+    "title": "Viral Infection Triggers Central Nervous System Autoimmunity Via Activation of Dual TCR-Expressing CD8 + T Cells HHS Public Access Author manuscript",
+    "coda_data_split": "train",
+    "coda_paper_id": 7133,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Multiple sclerosis (MS) is an inflammatory, demyelinating, central nervous system disease mediated by myelin-specific T cells. Environmental triggers that cause a breakdown of myelinspecific T cell tolerance are unknown. We found that CD8 + myelin basic protein (MBP)-specific T cell tolerance can be broken and autoimmunity induced by infection with a virus that does not express MBP cross-reactive epitopes and does not depend on bystander activation. Instead, the virus activated dual T cell receptor (TCR)-expressing T cells capable of recognizing both MBP and viral antigens. These results demonstrate the importance of dual TCR T cells in autoimmunity and suggest a mechanism by which a ubiquitous viral infection could trigger autoimmunity in a subset of infected individuals, as hypothesized in the etiology of MS.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Multiple sclerosis ( MS ) is an inflammatory ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "demyelinating , central nervous system disease mediated by myelin-specific T cells .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Environmental triggers that cause a breakdown of myelinspecific T cell tolerance are unknown .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We found that CD8 + myelin basic protein ( MBP ) - specific T cell tolerance can be broken and autoimmunity induced by infection with a virus that does not express MBP cross-reactive epitopes and does not depend on bystander activation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Instead , the virus activated dual T cell receptor ( TCR ) - expressing T cells capable of recognizing both MBP and viral antigens .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These results demonstrate the importance of dual TCR T cells in autoimmunity and suggest a mechanism by which a ubiquitous viral infection could trigger autoimmunity in a subset of infected individuals ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as hypothesized in the etiology of MS.",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Multiple sclerosis (MS) is an inflammatory, demyelinating disease of the central nervous system (CNS) that affects more than one million people worldwide. It is believed to be an autoimmune disease in which exposure of genetically predisposed individuals to environmental factors triggers a breakdown in T cell tolerance to myelin antigens. The specific types of myelin-specific T cells that contribute to the pathogenesis of MS are not known. Most studies have focused on the pathogenic role of myelin-specific CD4 + T cells because of the relatively strong association of MS susceptibility with major histocompatibility complex (MHC) class II alleles. In addition, CD4 + T cells are the primary effector T cells in experimental autoimmune encephalomyelitis (EAE), a widely used animal model of MS. However, there has been increasing recognition of the potential importance of CD8 + T cells in the pathogenesis of MS. CD8 + T cells typically outnumber CD4 + T cells in acute and chronic lesions in MS patients, and the CD8 + T cell subset exhibits more evidence of antigen-driven activation compared to CD4 + T cells in the CNS and blood of MS patients1, 2. The frequency of CNS antigen-specific CD8 + , but not CD4 + , using Power SYBR Green PCR Master Mix (Applied Biosystems). Tcra V α gene primers and a C α primer have been previously described50. Reactions were run in duplicate, and samples were normalized to the internal β actin control.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Multiple sclerosis ( MS ) is an inflammatory ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "demyelinating disease of the central nervous system ( CNS ) that affects more than one million people worldwide .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is believed to be an autoimmune disease in which exposure of genetically predisposed individuals to environmental factors triggers a breakdown in T cell tolerance to myelin antigens .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The specific types of myelin-specific T cells that contribute to the pathogenesis of MS are not known .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Most studies have focused on the pathogenic role of myelin-specific CD4 + T cells because of the relatively strong association of MS susceptibility with major histocompatibility complex ( MHC ) class II alleles .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , CD4 + T cells are the primary effector T cells in experimental autoimmune encephalomyelitis ( EAE ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a widely used animal model of MS. However ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "there has been increasing recognition of the potential importance of CD8 + T cells in the pathogenesis of MS. CD8 + T cells typically outnumber CD4 + T cells in acute and chronic lesions in MS patients ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the CD8 + T cell subset exhibits more evidence of antigen-driven activation compared to CD4 + T cells in the CNS and blood of MS patients1 , 2 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The frequency of CNS antigen-specific CD8 + ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but not CD4 + , using Power SYBR Green PCR Master Mix ( Applied Biosystems ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Tcra V α gene primers and a C α primer have been previously described50 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Reactions were run in duplicate ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and samples were normalized to the internal β actin control .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "All P values were calculated with a two-tailed Student\u0027s t-test.",
+      "sentences": [
+        [
+          {
+            "segment_text": "All P values were calculated with a two-tailed Student \u0027s t-test .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "14",
+    "segment_num": "22",
+    "token_num": "417"
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "paper_id": "7d9f6bae2b7ced5834b4e92e7ef805d85fdea405",
+  "metadata": {
+    "title": "Characterization of Rift Valley Fever Virus MP-12 Strain Encoding NSs of Punta Toro Virus or Sandfly Fever Sicilian Virus",
+    "coda_data_split": "train",
+    "coda_paper_id": 10955,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Rift Valley fever virus (RVFV; genus Phlebovirus, family Bunyaviridae) is a mosquito-borne zoonotic pathogen which can cause hemorrhagic fever, neurological disorders or blindness in humans, and a high rate of abortion in ruminants. MP-12 strain, a live-attenuated candidate vaccine, is attenuated in the M-and L-segments, but the S-segment retains the virulent phenotype. MP-12 was manufactured as an Investigational New Drug vaccine by using MRC-5 cells and encodes a functional NSs gene, the major virulence factor of RVFV which 1) induces a shutoff of the host transcription, 2) inhibits interferon (IFN)b promoter activation, and 3) promotes the degradation of dsRNA-dependent protein kinase (PKR). MP-12 lacks a marker for differentiation of infected from vaccinated animals (DIVA). Although MP-12 lacking NSs works for DIVA, it does not replicate efficiently in type-I IFN-competent MRC-5 cells, while the use of type-I IFN-incompetent cells may negatively affect its genetic stability. To generate modified MP-12 vaccine candidates encoding a DIVA marker, while still replicating efficiently in MRC-5 cells, we generated recombinant MP-12 encoding Punta Toro virus Adames strain NSs (rMP12-PTNSs) or Sandfly fever Sicilian virus NSs (rMP12-SFSNSs) in place of MP-12 NSs. We have demonstrated that those recombinant MP-12 viruses inhibit IFN-b mRNA synthesis, yet do not promote the degradation of PKR. The rMP12-PTNSs, but not rMP12-SFSNSs, replicated more efficiently than recombinant MP-12 lacking NSs in MRC-5 cells. Mice vaccinated with rMP12-PTNSs or rMP12-SFSNSs induced neutralizing antibodies at a level equivalent to those vaccinated with MP-12, and were efficiently protected from wild-type RVFV challenge. The rMP12-PTNSs and rMP12-SFSNSs did not induce antibodies cross-reactive to anti-RVFV NSs antibody and are therefore applicable to DIVA. Thus, rMP12-PTNSs is highly efficacious, replicates efficiently in MRC-5 cells, and encodes a DIVA marker, all of which are important for vaccine development for Rift Valley fever.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Rift Valley fever virus ( RVFV ; genus Phlebovirus , family Bunyaviridae ) is a mosquito-borne zoonotic pathogen which can cause hemorrhagic fever ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "neurological disorders or blindness in humans ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and a high rate of abortion in ruminants .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "MP-12 strain , a live-attenuated candidate vaccine ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "is attenuated in the M-and L-segments ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but the S-segment retains the virulent phenotype .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "MP-12 was manufactured as an Investigational New Drug vaccine by using MRC-5 cells and encodes a functional NSs gene ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the major virulence factor of RVFV which 1 ) induces a shutoff of the host transcription ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "2 ) inhibits interferon ( IFN ) b promoter activation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and 3 ) promotes the degradation of dsRNA-dependent protein kinase ( PKR ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "MP-12 lacks a marker for differentiation of infected from vaccinated animals ( DIVA ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although MP-12 lacking NSs works for DIVA ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "it does not replicate efficiently in type-I IFN-competent MRC-5 cells ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "while the use of type-I IFN-incompetent cells may negatively affect its genetic stability .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To generate modified MP-12 vaccine candidates encoding a DIVA marker ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "while still replicating efficiently in MRC-5 cells ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we generated recombinant MP-12 encoding Punta Toro virus Adames strain NSs ( rMP12-PTNSs ) or Sandfly fever Sicilian virus NSs ( rMP12-SFSNSs ) in place of MP-12 NSs .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We have demonstrated that those recombinant MP-12 viruses inhibit IFN-b mRNA synthesis ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "yet do not promote the degradation of PKR .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The rMP12-PTNSs , but not rMP12-SFSNSs ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "replicated more efficiently than recombinant MP-12 lacking NSs in MRC-5 cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Mice vaccinated with rMP12-PTNSs or rMP12-SFSNSs induced neutralizing antibodies at a level equivalent to those vaccinated with MP-12 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and were efficiently protected from wild-type RVFV challenge .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The rMP12-PTNSs and rMP12-SFSNSs did not induce antibodies cross-reactive to anti-RVFV NSs antibody and are therefore applicable to DIVA .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , rMP12-PTNSs is highly efficacious ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "replicates efficiently in MRC-5 cells ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and encodes a DIVA marker ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "all of which are important for vaccine development for Rift Valley fever .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "11",
+    "segment_num": "28",
+    "token_num": "342"
+  }
+}

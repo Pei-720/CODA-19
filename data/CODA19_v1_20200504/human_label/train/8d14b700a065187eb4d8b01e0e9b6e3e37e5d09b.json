@@ -1,0 +1,77 @@
+{
+  "paper_id": "8d14b700a065187eb4d8b01e0e9b6e3e37e5d09b",
+  "metadata": {
+    "title": "Prediction of RNA Pseudoknots Using Heuristic Modeling with Mapping and Sequential Folding",
+    "coda_data_split": "train",
+    "coda_paper_id": 3448,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Predicting RNA secondary structure is often the first step to determining the structure of RNA. Prediction approaches have historically avoided searching for pseudoknots because of the extreme combinatorial and time complexity of the problem. Yet neglecting pseudoknots limits the utility of such approaches. Here, an algorithm utilizing structure mapping and thermodynamics is introduced for RNA pseudoknot prediction that finds the minimum free energy and identifies information about the flexibility of the RNA. The heuristic approach takes advantage of the 59 to 39 folding direction of many biological RNA molecules and is consistent with the hierarchical folding hypothesis and the contact order model. Mapping methods are used to build and analyze the folded structure for pseudoknots and to add important 3D structural considerations. The program can predict some well known pseudoknot structures correctly. The results of this study suggest that many functional RNA sequences are optimized for proper folding. They also suggest directions we can proceed in the future to achieve even better results.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Predicting RNA secondary structure is often the first step to determining the structure of RNA .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Prediction approaches have historically avoided searching for pseudoknots because of the extreme combinatorial and time complexity of the problem .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Yet neglecting pseudoknots limits the utility of such approaches .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , an algorithm utilizing structure mapping and thermodynamics is introduced for RNA pseudoknot prediction that finds the minimum free energy and identifies information about the flexibility of the RNA .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The heuristic approach takes advantage of the 59 to 39 folding direction of many biological RNA molecules and is consistent with the hierarchical folding hypothesis and the contact order model .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Mapping methods are used to build and analyze the folded structure for pseudoknots and to add important 3D structural considerations .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The program can predict some well known pseudoknot structures correctly .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results of this study suggest that many functional RNA sequences are optimized for proper folding .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "They also suggest directions we can proceed in the future to achieve even better results .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "9",
+    "segment_num": "9",
+    "token_num": "173"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "paper_id": "44ef99ae7f76320a4bb1ee7d63e4d8d6690be610",
+  "metadata": {
+    "title": "Original Articles Generalized reproduction numbers, sensitivity analysis and critical immunity levels of an SEQIJR disease model with immunization and varying total population size-NC-ND license (http://creativecommons.org/licenses/by-nc- nd/4.0/)",
+    "coda_data_split": "train",
+    "coda_paper_id": 8317,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "An SEQIJR model of epidemic disease transmission which includes immunization and a varying population size is studied. The model includes immunization of susceptible people (S), quarantine (Q) of exposed people (E), isolation (J) of infectious people (I), a recovered population (R), and variation in population size due to natural births and deaths and deaths of infected people. It is shown analytically that the model has a disease-free equilibrium state which always exists and an endemic equilibrium state which exists if and only if the disease-free state is unstable. A simple formula is obtained for a generalized reproduction number R g where, for any given initial population, R g \u003c 1 means that the initial population is locally asymptotically stable and R g \u003e 1 means that the initial population is unstable. As special cases, simple formulas are given for the basic reproduction number R 0 , a disease-free reproduction number R d f , and an endemic reproduction number R en . Formulas are derived for the sensitivity indices for variations in model parameters of the disease-free reproduction number R d f and for the infected populations in the endemic equilibrium state. A simple formula in terms of the basic reproduction number R 0 is derived for the critical immunization level required to prevent the spread of disease in an initially disease-free population. Numerical simulations are carried out using the Matlab program for parameters corresponding to the outbreaks of severe acute respiratory syndrome (SARS) in Beijing, Hong Kong, Canada and Singapore in 2002 and 2003 . From the sensitivity analyses for these four regions, the parameters are identified that are the most important for preventing the spread of disease in a disease-free population or for reducing infection in an infected population. The results support the importance of isolating infectious individuals in an epidemic and in maintaining a critical level of immunity in a population to prevent a disease from occurring.",
+      "sentences": [
+        [
+          {
+            "segment_text": "An SEQIJR model of epidemic disease transmission which includes immunization and a varying population size is studied .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The model includes immunization of susceptible people ( S ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "quarantine ( Q ) of exposed people ( E ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "isolation ( J ) of infectious people ( I ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "a recovered population ( R ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and variation in population size due to natural births and deaths and deaths of infected people .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is shown analytically that the model has a disease-free equilibrium state which always exists and an endemic equilibrium state which exists if and only if the disease-free state is unstable .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A simple formula is obtained for a generalized reproduction number R g where ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "for any given initial population ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "R g \u003c 1 means that the initial population is locally asymptotically stable and R g \u003e 1 means that the initial population is unstable .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "As special cases , simple formulas are given for the basic reproduction number R 0 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "a disease-free reproduction number R d f ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and an endemic reproduction number R en .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Formulas are derived for the sensitivity indices for variations in model parameters of the disease-free reproduction number R d f and for the infected populations in the endemic equilibrium state .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A simple formula in terms of the basic reproduction number R 0 is derived for the critical immunization level required to prevent the spread of disease in an initially disease-free population .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Numerical simulations are carried out using the Matlab program for parameters corresponding to the outbreaks of severe acute respiratory syndrome ( SARS ) in Beijing ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "Hong Kong , Canada and Singapore in 2002 and 2003 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "From the sensitivity analyses for these four regions ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the parameters are identified that are the most important for preventing the spread of disease in a disease-free population or for reducing infection in an infected population .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results support the importance of isolating infectious individuals in an epidemic and in maintaining a critical level of immunity in a population to prevent a disease from occurring .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "10",
+    "segment_num": "20",
+    "token_num": "352"
+  }
+}

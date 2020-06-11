@@ -1,0 +1,95 @@
+{
+  "paper_id": "dd4647c38d85133300ac6ad803a408371de989ff",
+  "metadata": {
+    "title": "GTPase-activating protein-binding protein 1 (G3BP1) plays an antiviral role against porcine epidemic diarrhea virus",
+    "coda_data_split": "train",
+    "coda_paper_id": 9312,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Porcine epidemic diarrhoea virus (PEDV) is a single-stranded, positive-sense RNA virus that belongs to the Coronaviridae. PEDV causes severe diarrhoea and dehydration in nursing piglets, which leads to significant economic losses to the swine industry worldwide. Stress granules (SGs) are sites of mRNA storage that are formed under various stress conditions including viral infections. Increasing evidence suggests that SGs function in antiviral innate immunity of host cells to limit virus replication. Ras-GTPase-activating protein (SH3 domain) binding protein 1 (G3BP1) is a key stress granule-resident protein that nucleates stress granule assembly. Depletion of G3BP1 inhibits SGs formation and overexpression of G3BP1 nucleates SGs assembly. We observed that knockdown of G3BP1 by silencing RNA significantly increased PEDV replication. Overexpression of exogenous G3BP1, on the other hand, lowered virus replication by 100-fold compared to vector control. An increase in the levels of mRNAs of pro-inflammatory cytokines such as interleukin-1β (IL-1β) and tumor necrosis factor-α (TNF-α) was also observed in PEDV-infected G3BP1 depleted cells compared to PEDV-infected control cells. Taken together, our results suggest that G3BP1 plays an antiviral role and impairs PEDV replication.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Porcine epidemic diarrhoea virus ( PEDV ) is a single-stranded ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "positive-sense RNA virus that belongs to the Coronaviridae .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "PEDV causes severe diarrhoea and dehydration in nursing piglets ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which leads to significant economic losses to the swine industry worldwide .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Stress granules ( SGs ) are sites of mRNA storage that are formed under various stress conditions including viral infections .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Increasing evidence suggests that SGs function in antiviral innate immunity of host cells to limit virus replication .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Ras-GTPase-activating protein ( SH3 domain ) binding protein 1 ( G3BP1 ) is a key stress granule-resident protein that nucleates stress granule assembly .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Depletion of G3BP1 inhibits SGs formation and overexpression of G3BP1 nucleates SGs assembly .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We observed that knockdown of G3BP1 by silencing RNA significantly increased PEDV replication .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Overexpression of exogenous G3BP1 , on the other hand ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "lowered virus replication by 100-fold compared to vector control .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "An increase in the levels of mRNAs of pro-inflammatory cytokines such as interleukin-1β ( IL-1β ) and tumor necrosis factor-α ( TNF-α ) was also observed in PEDV-infected G3BP1 depleted cells compared to PEDV-infected control cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Taken together , our results suggest that G3BP1 plays an antiviral role and impairs PEDV replication .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "10",
+    "segment_num": "13",
+    "token_num": "207"
+  }
+}

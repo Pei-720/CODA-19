@@ -1,0 +1,55 @@
+{
+  "paper_id": "c48208dd7beb82687c017d5d1b44bde08de0990a",
+  "metadata": {
+    "title": "Synthetic constructs in/for the environment: Managing the interplay between natural and engineered Biology",
+    "coda_data_split": "train",
+    "coda_paper_id": 2934,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The plausible release of deeply engineered or even entirely synthetic/artificial microorganisms raises the issue of their intentional (e.g. bioremediation) or accidental interaction with the Environment. Containment systems designed in the 1980s-1990s for limiting the spread of genetically engineered bacteria and their recombinant traits are still applicable to contemporary Synthetic Biology constructs. Yet, the ease of DNA synthesis and the uncertainty on how non-natural properties and strains could interplay with the existing biological word poses yet again the challenge of designing safe and efficacious firewalls to curtail possible interactions. Such barriers may include xeno-nucleic acids (XNAs) instead of DNA as information-bearing molecules, rewriting the genetic code to make it non-understandable by the existing gene expression machineries, and/or making growth dependent on xenobiotic chemicals.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The plausible release of deeply engineered or even entirely synthetic/artificial microorganisms raises the issue of their intentional ( e.g. bioremediation ) or accidental interaction with the Environment .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Containment systems designed in the 1980s-1990s for limiting the spread of genetically engineered bacteria and their recombinant traits are still applicable to contemporary Synthetic Biology constructs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Yet , the ease of DNA synthesis and the uncertainty on how non-natural properties and strains could interplay with the existing biological word poses yet again the challenge of designing safe and efficacious firewalls to curtail possible interactions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Such barriers may include xeno-nucleic acids ( XNAs ) instead of DNA as information-bearing molecules ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "rewriting the genetic code to make it non-understandable by the existing gene expression machineries ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and/or making growth dependent on xenobiotic chemicals .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "4",
+    "segment_num": "6",
+    "token_num": "133"
+  }
+}

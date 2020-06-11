@@ -1,0 +1,164 @@
+{
+  "paper_id": "d09c0f71b1a404a592d0dcad2c3409d43c375f99",
+  "metadata": {
+    "title": "Is a 14-day quarantine period optimal for effectively controlling coronavirus disease 2019 (COVID-19)?",
+    "coda_data_split": "train",
+    "coda_paper_id": 5206,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The outbreak of a new coronavirus (SARS-CoV-2) disease has become pandemic. To be more effectively controlling the disease, it is critical to set up an optimal quarantine period so that about 95% of the cases developing symptoms will be retained for isolation. At the moment, the WHO-established quarantine period is 14 days based on previous reports which had studied small sizes of hospitalized cases (10 and ~100, respectively), however, over 80% of adult-and 95% of child-cases were not necessary to stay in hospitals, and therefore, had not been hospitalized. Therefore, we are questioning if the current-inferred median incubation time is representative for the whole Covid-19 population, and if the current quarantine period is optimal.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The outbreak of a new coronavirus ( SARS-CoV-2 ) disease has become pandemic .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To be more effectively controlling the disease ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "it is critical to set up an optimal quarantine period so that about 95 % of the cases developing symptoms will be retained for isolation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "At the moment , the WHO-established quarantine period is 14 days based on previous reports which had studied small sizes of hospitalized cases ( 10 and ~ 100 , respectively ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "however , over 80 % of adult-and 95 % of child-cases were not necessary to stay in hospitals ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and therefore , had not been hospitalized .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , we are questioning if the current-inferred median incubation time is representative for the whole Covid-19 population ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and if the current quarantine period is optimal .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We compiled and analyzed the patient-level information of 2015 laboratory-confirmed Covid-19 cases including 99 children in 28 Chinese provinces. This cohort represents a wide-range spectrum of Covid-19 disease with both hospitalized and non-hospitalized cases.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We compiled and analyzed the patient-level information of 2015 laboratory-confirmed Covid-19 cases including 99 children in 28 Chinese provinces .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This cohort represents a wide-range spectrum of Covid-19 disease with both hospitalized and non-hospitalized cases .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The full range of incubation periods of the Covid-19 cases ranged from 0 to 33 days among 2015 cases. There were 6 (0.13%) symptom-free cases including 4 females with a median age of 25.5 years and 2 males with a median age of 36 years. The median incubation period of both male and female adults was similar (7-day) but significantly shorter than that (9-day) of child cases (P\u003d0.02). This cohort contained 4 transmission generations, and incubation periods of the cases between generations were not significantly different, suggesting that the virus has not been rapidly adapted to human beings. Interestingly, incubation periods of 233 cases (11.6%) were longer than the WHO-established quarantine period (14 days). Data modeling suggested that if adults take an extra 4-day or 7-day of isolation (i.e., a quarantine period of 18 or 21 days), 96.2% or 98.3%, respectively, of the people who are developing symptoms will be more effectively quarantined. Patients transmitted via lunch/dinner parties (i.e., gastrointestinal tract infection . CC-BY-NC 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The full range of incubation periods of the Covid-19 cases ranged from 0 to 33 days among 2015 cases .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "There were 6 ( 0.13 % ) symptom-free cases including 4 females with a median age of 25.5 years and 2 males with a median age of 36 years .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The median incubation period of both male and female adults was similar ( 7-day ) but significantly shorter than that ( 9-day ) of child cases ( P \u003d 0.02 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This cohort contained 4 transmission generations ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and incubation periods of the cases between generations were not significantly different ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "suggesting that the virus has not been rapidly adapted to human beings .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Interestingly , incubation periods of 233 cases ( 11.6 % ) were longer than the WHO-established quarantine period ( 14 days ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Data modeling suggested that if adults take an extra 4-day or 7-day of isolation ( i.e. , a quarantine period of 18 or 21 days ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "96.2 % or 98.3 % ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "respectively , of the people who are developing symptoms will be more effectively quarantined .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Patients transmitted via lunch/dinner parties ( i.e. , gastrointestinal tract infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "CC-BY-NC 4.0 International license It is made available under a author/funder ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "who has granted medRxiv a license to display the preprint in perpetuity .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "is the (which was not peer-reviewed) The copyright holder for this preprint .",
+      "sentences": [
+        [
+          {
+            "segment_text": "is the ( which was not peer-reviewed ) The copyright holder for this preprint .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "15",
+    "segment_num": "24",
+    "token_num": "409"
+  }
+}

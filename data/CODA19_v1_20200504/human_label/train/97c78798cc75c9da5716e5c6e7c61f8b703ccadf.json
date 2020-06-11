@@ -1,0 +1,111 @@
+{
+  "paper_id": "97c78798cc75c9da5716e5c6e7c61f8b703ccadf",
+  "metadata": {
+    "title": "Pushing the limits of the scanning mechanism for initiation of translation",
+    "coda_data_split": "train",
+    "coda_paper_id": 6298,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Selection of the translational initiation site in most eukaryotic mRNAs appears to occur via a scanning mechanism which predicts that proximity to the 5 0 end plays a dominant role in identifying the start codon. This \u0027position effect\u0027 is seen in cases where a mutation creates an AUG codon upstream from the normal start site and translation shifts to the upstream site. The position effect is evident also in cases where a silent internal AUG codon is activated upon being relocated closer to the 5 0 end. Two mechanisms for escaping the first-AUG rulereinitiation and context-dependent leaky scanning -enable downstream AUG codons to be accessed in some mRNAs. Although these mechanisms are not new, many new examples of their use have emerged. Via these escape pathways, the scanning mechanism operates even in extreme cases, such as a plant virus mRNA in which translation initiates from three start sites over a distance of 900 nt. This depends on careful structural arrangements, however, which are rarely present in cellular mRNAs. Understanding the rules for initiation of translation enables understanding of human diseases in which the expression of a critical gene is reduced by mutations that add upstream AUG codons or change the context around the AUG START codon. The opposite problem occurs in the case of hereditary thrombocythemia: translational efficiency is increased by mutations that remove or restructure a small upstream open reading frame in thrombopoietin mRNA, and the resulting overproduction of the cytokine causes the disease. This and other examples support the idea that 5 0 leader sequences are sometimes structured deliberately in a way that constrains scanning in order to prevent harmful overproduction of potent regulatory proteins. The accumulated evidence reveals how the scanning mechanism dictates the pattern of transcription -forcing production of monocistronic mRNAs -and the pattern of translation of eukaryotic cellular and viral genes. q",
+      "sentences": [
+        [
+          {
+            "segment_text": "Selection of the translational initiation site in most eukaryotic mRNAs appears to occur via a scanning mechanism which predicts that proximity to the 5 0 end plays a dominant role in identifying the start codon .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This ` position effect \u0027 is seen in cases where a mutation creates an AUG codon upstream from the normal start site and translation shifts to the upstream site .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The position effect is evident also in cases where a silent internal AUG codon is activated upon being relocated closer to the 5 0 end .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Two mechanisms for escaping the first-AUG rulereinitiation and context-dependent leaky scanning - enable downstream AUG codons to be accessed in some mRNAs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although these mechanisms are not new ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "many new examples of their use have emerged .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Via these escape pathways , the scanning mechanism operates even in extreme cases ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as a plant virus mRNA in which translation initiates from three start sites over a distance of 900 nt .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This depends on careful structural arrangements ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "however , which are rarely present in cellular mRNAs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Understanding the rules for initiation of translation enables understanding of human diseases in which the expression of a critical gene is reduced by mutations that add upstream AUG codons or change the context around the AUG START codon .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The opposite problem occurs in the case of hereditary thrombocythemia : translational efficiency is increased by mutations that remove or restructure a small upstream open reading frame in thrombopoietin mRNA ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the resulting overproduction of the cytokine causes the disease .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This and other examples support the idea that 5 0 leader sequences are sometimes structured deliberately in a way that constrains scanning in order to prevent harmful overproduction of potent regulatory proteins .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The accumulated evidence reveals how the scanning mechanism dictates the pattern of transcription - forcing production of monocistronic mRNAs - and the pattern of translation of eukaryotic cellular and viral genes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "q",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "12",
+    "segment_num": "16",
+    "token_num": "330"
+  }
+}

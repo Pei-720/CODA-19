@@ -1,0 +1,112 @@
+{
+  "paper_id": "95687de5baf7b91c20058f1c819580ab872ddc6a",
+  "metadata": {
+    "title": "Comparing Metapopulation Dynamics of Infectious Diseases under Di erent Models of Human Movement",
+    "coda_data_split": "train",
+    "coda_paper_id": 6254,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Newly available data sets present an exciting opportunity to investigate how human population movement contributes to the spread of infectious diseases across large geographical distances. It is now possible to construct realistic models of infectious disease dynamics for the purposes of understanding global-scale epidemics. Nevertheless, a remaining unanswered question is how best to leverage the new data to parameterize models of movement, and whether one\u0027s choice of movement model impacts modeled disease outcomes. We adapt three well-studied models of infectious disease dynamics, the SIR model; the SIS model; and the Ross-Macdonald model, to incorporate either of two candidate movement models. We describe the effect that the choice of movement model has on each disease model\u0027s results, finding that in all cases there are parameter regimes where choosing one movement model instead of another has a profound impact on epidemiological outcomes. We further demonstrate the importance of choosing an appropriate movement model using the applied case of malaria transmission and importation on Bioko Island, Equatorial Guinea, finding that one model produces intelligible predictions of R 0 while the other produces nonsensical results.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Newly available data sets present an exciting opportunity to investigate how human population movement contributes to the spread of infectious diseases across large geographical distances .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is now possible to construct realistic models of infectious disease dynamics for the purposes of understanding global-scale epidemics .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Nevertheless , a remaining unanswered question is how best to leverage the new data to parameterize models of movement ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and whether one \u0027s choice of movement model impacts modeled disease outcomes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We adapt three well-studied models of infectious disease dynamics ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the SIR model ; the SIS model ; and the Ross-Macdonald model ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "to incorporate either of two candidate movement models .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We describe the effect that the choice of movement model has on each disease model \u0027s results ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "finding that in all cases there are parameter regimes where choosing one movement model instead of another has a profound impact on epidemiological outcomes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We further demonstrate the importance of choosing an appropriate movement model using the applied case of malaria transmission and importation on Bioko Island ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Equatorial Guinea , finding that one model produces intelligible predictions of R 0 while the other produces nonsensical results .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Mathematical modeling | Infectious disease dynamics | Human population movement | Malaria DT Citron developed the project and carried out the analysis. DL Smith provided guidance and context for the project. CA Guerra provided the data for building the Bioko Island model. SL Wu, JM Henry, HM Sánchez C, and D Dolgert discussed and reviewed the analysis.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Mathematical modeling | Infectious disease dynamics | Human population movement | Malaria DT Citron developed the project and carried out the analysis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "DL Smith provided guidance and context for the project .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "CA Guerra provided the data for building the Bioko Island model .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "SL Wu , JM Henry ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "HM Sánchez C , and D Dolgert discussed and reviewed the analysis .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "10",
+    "segment_num": "16",
+    "token_num": "262"
+  }
+}

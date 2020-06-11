@@ -1,0 +1,90 @@
+{
+  "paper_id": "ed43a39e585d77f1fecd662508f8042ed4ad3396",
+  "metadata": {
+    "title": "Title: Modeling the Corona Virus Outbreak in IRAN",
+    "coda_data_split": "train",
+    "coda_paper_id": 9237,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: As the outbreak of Coronavirus disease 2019 (COVID-19) is a worldwide pandemic, and it is rapidly expanding in Iran, real-time analyses of epidemiological data are needed to increase situational awareness and inform interventions. In this study, we built a predictive model based on the cumulative trend of new cases and deaths for the top five provinces. We will also look at modeling the trends for confirmed cases, deaths and recovered for the whole country.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : As the outbreak of Coronavirus disease 2019 ( COVID-19 ) is a worldwide pandemic ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and it is rapidly expanding in Iran ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "real-time analyses of epidemiological data are needed to increase situational awareness and inform interventions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we built a predictive model based on the cumulative trend of new cases and deaths for the top five provinces .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We will also look at modeling the trends for confirmed cases ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "deaths and recovered for the whole country .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Method: In this study, we have chosen to apply the exponential smoothing model to iteratively forecast future values of a regular time series from weighted averages of past daily values. This method is exponential because the value of each level is influenced by every preceding actual value to an exponentially decreasing degree -more recent values are given greater weight. The available data is too small to identify seasonal patterns and make a predictable variation in value, such as annual fluctuation in temperature related to the season. The trend is a tendency of the data to increase or decrease over time.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Method : In this study ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we have chosen to apply the exponential smoothing model to iteratively forecast future values of a regular time series from weighted averages of past daily values .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This method is exponential because the value of each level is influenced by every preceding actual value to an exponentially decreasing degree - more recent values are given greater weight .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The available data is too small to identify seasonal patterns and make a predictable variation in value ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "such as annual fluctuation in temperature related to the season .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The trend is a tendency of the data to increase or decrease over time .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "7",
+    "segment_num": "12",
+    "token_num": "193"
+  }
+}

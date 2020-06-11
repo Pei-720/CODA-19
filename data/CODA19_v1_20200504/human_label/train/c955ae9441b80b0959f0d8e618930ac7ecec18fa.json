@@ -1,0 +1,108 @@
+{
+  "paper_id": "c955ae9441b80b0959f0d8e618930ac7ecec18fa",
+  "metadata": {
+    "title": "Viroporins and inflammasomes: a key to understand virus-induced inflammation",
+    "coda_data_split": "train",
+    "coda_paper_id": 3094,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "J o u r n a l P r e -p r o o f Highlights  The article provides a summary on cellular receptors involved in virus immunity.  It presents an overview of the current understanding of inflammasomes complex activation, comparing its different types with special focus on NLRP3.  The article summarizes key findings on viroporins, a novel class of viral proteins and their role in the virus life cycle and host cell interactions.  The article sheds the light on the correlation between viroporins and inflammasomes activation and their possible contribution to aggravated inflammatory cytokines production.  The article proposes targeting inflammasomes in combination with viroporin inhibitors in virus-induced disease as an emerging attractive therapeutic option. Abstract Viroporins are virus encoded proteins that alter membrane permeability and can trigger subsequent cellular signals. Oligomerization of viroporin subunits results in formation of a hydrophilic pore which facilitates ion transport across host cell membranes. These viral channel proteins may be involved in different stages of the virus infection cycle. J o u r n a l P r e -p r o o f List of abbreviations",
+      "sentences": [
+        [
+          {
+            "segment_text": "J o u r n a l P r e - p r o o f Highlights The article provides a summary on cellular receptors involved in virus immunity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It presents an overview of the current understanding of inflammasomes complex activation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "comparing its different types with special focus on NLRP3 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The article summarizes key findings on viroporins ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "a novel class of viral proteins and their role in the virus life cycle and host cell interactions .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The article sheds the light on the correlation between viroporins and inflammasomes activation and their possible contribution to aggravated inflammatory cytokines production .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The article proposes targeting inflammasomes in combination with viroporin inhibitors in virus-induced disease as an emerging attractive therapeutic option .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Abstract Viroporins are virus encoded proteins that alter membrane permeability and can trigger subsequent cellular signals .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Oligomerization of viroporin subunits results in formation of a hydrophilic pore which facilitates ion transport across host cell membranes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These viral channel proteins may be involved in different stages of the virus infection cycle .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "J o u r n a l P r e - p r o o f List of abbreviations",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "AIM Absent in melanoma ASC Apoptosis-associated speck-like protein containing a carboxy-terminal CARD ATP Adenosine triphosphate BMDC Bone marrow derived dendritic cells BMM Bone marrow derived macrophages CARD Caspase activation and recruitment domain CD Cluster of differentiation CoV Coronavirus CSFV Classical swine fever virus DAMPs Danger associated molecular patterns DC Dendritic cells EMCV Encephalomyocarditis virus HCV Hepatitis C virus HIV Human immune deficiency virus LPS Lipopolysaccharide LRR Leucine rich repeats MAL MyD88-adaptor-like MAM Mitochondrial-associated membrane MAVS Mitochondrial antiviral signaling protein MDA5 Melanoma differentiation-associated protein 5 MERS Middle East respiratory syndrome-related coronavirus MHC Major histocompatibility complex J o u r n a l P r e -p r o o f MSU Monosodium urate MyD88 Myeloid differentiation primary response 88 NADPH Nicotinamide adenine dinucleotide phosphate NALP NACHT, LRR and PYD domains-containing protein NFκB Nuclear factor kappa b NLR Nucleotide-binding domain, leucine-rich repeat NLRP3 NLR family, pyrin domain containing 3 Nod Nucleotide oligomerization domain PAMP Pathogen associated molecular patterns PRR Pattern recognition receptors PYD Pyrin domain RIG-1 Retinoic acid-inducible gene I RLR RIG-1 like receptor ROS Reactive Oxygen species RSV Respiratory syncytial virus",
+      "sentences": [
+        [
+          {
+            "segment_text": "AIM Absent in melanoma ASC Apoptosis-associated speck-like protein containing a carboxy-terminal CARD ATP Adenosine triphosphate BMDC Bone marrow derived dendritic cells BMM Bone marrow derived macrophages CARD Caspase activation and recruitment domain CD Cluster of differentiation CoV Coronavirus CSFV Classical swine fever virus DAMPs Danger associated molecular patterns DC Dendritic cells EMCV Encephalomyocarditis virus HCV Hepatitis C virus HIV Human immune deficiency virus LPS Lipopolysaccharide LRR Leucine rich repeats MAL MyD88-adaptor-like MAM Mitochondrial-associated membrane MAVS Mitochondrial antiviral signaling protein MDA5 Melanoma differentiation-associated protein 5 MERS Middle East respiratory syndrome-related coronavirus MHC Major histocompatibility complex J o u r n a l P r e - p r o o f MSU Monosodium urate MyD88 Myeloid differentiation primary response 88 NADPH Nicotinamide adenine dinucleotide phosphate NALP NACHT ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "LRR and PYD domains-containing protein NFκB Nuclear factor kappa b NLR Nucleotide-binding domain ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "leucine-rich repeat NLRP3 NLR family ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "pyrin domain containing 3 Nod Nucleotide oligomerization domain PAMP Pathogen associated molecular patterns PRR Pattern recognition receptors PYD Pyrin domain RIG-1 Retinoic acid-inducible gene I RLR RIG-1 like receptor ROS Reactive Oxygen species RSV Respiratory syncytial virus",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "10",
+    "segment_num": "15",
+    "token_num": "379"
+  }
+}

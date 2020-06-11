@@ -1,0 +1,101 @@
+{
+  "paper_id": "e9d1a567a2464e553b9bc8f70bcfca8f30e42d1e",
+  "metadata": {
+    "title": "Detecting respiratory viral RNA using expanded genetic alphabets and self-avoiding DNA",
+    "coda_data_split": "train",
+    "coda_paper_id": 10742,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Nucleic acid (NA)-targeted tests detect and quantify viral DNA and RNA (collectively xNA) to support epidemiological surveillance and, in individual patients, to guide therapy. They commonly use polymerase chain reaction (PCR) and reverse transcription PCR. Although these all have rapid turnaround, they are expensive to run. Multiplexing would allow their cost to be spread over multiple targets, but often only with lower sensitivity and accuracy, noise, false positives, and false negatives; these arise by interactions between the multiple nucleic acid primers and probes in a multiplexed kit. Here we offer a multiplexed assay for a panel of respiratory viruses that mitigates these problems by combining several nucleic acid analogs from the emerging field of synthetic biology: (i) self-avoiding molecular recognition systems (SAMRSs), which facilitate multiplexing, and (ii) artificially expanded genetic information systems (AEGISs), which enable low-noise PCR. These are supplemented by \"transliteration\" technology, which converts standard nucleotides in a target to AEGIS nucleotides in a product, improving hybridization. The combination supports a multiplexed Luminex-based respiratory panel that potentially differentiates influenza viruses A and B, respiratory syncytial virus, severe acute respiratory syndrome coronavirus (SARS), and Middle East respiratory syndrome (MERS) coronavirus, detecting as few as 10 MERS virions in a 20-ml sample.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Nucleic acid ( NA ) - targeted tests detect and quantify viral DNA and RNA ( collectively xNA ) to support epidemiological surveillance and ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "in individual patients , to guide therapy .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "They commonly use polymerase chain reaction ( PCR ) and reverse transcription PCR .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although these all have rapid turnaround ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "they are expensive to run .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Multiplexing would allow their cost to be spread over multiple targets ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but often only with lower sensitivity and accuracy ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "noise , false positives , and false negatives ; these arise by interactions between the multiple nucleic acid primers and probes in a multiplexed kit .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we offer a multiplexed assay for a panel of respiratory viruses that mitigates these problems by combining several nucleic acid analogs from the emerging field of synthetic biology : ( i ) self-avoiding molecular recognition systems ( SAMRSs ) ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "which facilitate multiplexing , and ( ii ) artificially expanded genetic information systems ( AEGISs ) , which enable low-noise PCR .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "These are supplemented by `` transliteration \u0027\u0027 technology ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which converts standard nucleotides in a target to AEGIS nucleotides in a product , improving hybridization .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The combination supports a multiplexed Luminex-based respiratory panel that potentially differentiates influenza viruses A and B ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "respiratory syncytial virus , severe acute respiratory syndrome coronavirus ( SARS ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and Middle East respiratory syndrome ( MERS ) coronavirus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "detecting as few as 10 MERS virions in a 20-ml sample .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "16",
+    "token_num": "248"
+  }
+}

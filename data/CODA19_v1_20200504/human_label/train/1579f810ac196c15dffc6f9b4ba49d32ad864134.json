@@ -1,0 +1,219 @@
+{
+  "paper_id": "1579f810ac196c15dffc6f9b4ba49d32ad864134",
+  "metadata": {
+    "title": "A high Atp concentration enhances the cooperative translocation of the SARS coronavirus helicase nsP13 in the unwinding of duplex RnA",
+    "coda_data_split": "train",
+    "coda_paper_id": 9559,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Severe acute respiratory syndrome coronavirus nonstructural protein 13 (SCV nsP13), a superfamily 1 helicase, plays a central role in viral RNA replication through the unwinding of duplex RNA and DNA with a 5′ single-stranded tail in a 5′ to 3′ direction. Despite its putative role in viral RNA replication, nsP13 readily unwinds duplex DNA by cooperative translocation. Herein, nsP13 exhibited different characteristics in duplex RNA unwinding than that in duplex DNA. nsP13 showed very poor processivity on duplex RNA compared with that on duplex DNA. More importantly, nsP13 inefficiently unwinds duplex RNA by increasing the 5′-ss tail length. As the concentration of nsP13 increased, the amount of unwound duplex DNA increased and that of unwound duplex RNA decreased. The accumulation of duplex RNA/nsP13 complexes increased as the concentration of nsP13 increased. An increased ATP concentration in the unwinding of duplex RNA relieved the decrease in duplex RNA unwinding. Thus, nsP13 has a strong affinity for duplex RNA as a substrate for the unwinding reaction, which requires increased Atps to processively unwind duplex RnA. our results suggest that duplex RnA is a preferred substrate for the helicase activity of nsP13 than duplex DNA at high ATP concentrations.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Severe acute respiratory syndrome coronavirus nonstructural protein 13 ( SCV nsP13 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a superfamily 1 helicase , plays a central role in viral RNA replication through the unwinding of duplex RNA and DNA with a 5 ′ single-stranded tail in a 5 ′ to 3 ′ direction .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Despite its putative role in viral RNA replication ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "nsP13 readily unwinds duplex DNA by cooperative translocation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Herein , nsP13 exhibited different characteristics in duplex RNA unwinding than that in duplex DNA .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "nsP13 showed very poor processivity on duplex RNA compared with that on duplex DNA .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "More importantly , nsP13 inefficiently unwinds duplex RNA by increasing the 5 ′ - ss tail length .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "As the concentration of nsP13 increased ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the amount of unwound duplex DNA increased and that of unwound duplex RNA decreased .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The accumulation of duplex RNA/nsP13 complexes increased as the concentration of nsP13 increased .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "An increased ATP concentration in the unwinding of duplex RNA relieved the decrease in duplex RNA unwinding .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , nsP13 has a strong affinity for duplex RNA as a substrate for the unwinding reaction ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which requires increased Atps to processively unwind duplex RnA .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "our results suggest that duplex RnA is a preferred substrate for the helicase activity of nsP13 than duplex DNA at high ATP concentrations .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Severe acute respiratory syndrome (SARS) is an acute respiratory infectious disease caused by a novel coronavirus (SARS-CoV or SCV) that has claimed almost 800 deaths in early 2003 1 . SCV is an enveloped, positive single-stranded RNA virus (or (+) ssRNA virus) with a genome of ~30 kb in length 2,3 . Two-thirds of the SCV genome at the 5′-end comprise replicase genes (orf1ab) encoding 16 nonstructural proteins (nsPs). The replicase genes comprising open reading frames (OFR1a and 1b) are translated into two large replicative polyproteins, pp1ab (~790 kDa) and pp1a (~490 kDa), which are involved with and without ribosomal frameshifting into the −1 frame 4,5 . These two translational polyproteins are processed autoproteolytically by the major viral cysteine proteases M PRO or 3CL PRO to produce 16 non-structural proteins (nsPs), including RNA-dependent RNA polymerases (RdRp, nsP12) and NTPase/helicase (nsP13) 6-8 . These viral replicases are the core of membrane-bound replication-transcription complexes that synthesize the entire viral genome and eight subgenomic mRNAs 9,10 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Severe acute respiratory syndrome ( SARS ) is an acute respiratory infectious disease caused by a novel coronavirus ( SARS-CoV or SCV ) that has claimed almost 800 deaths in early 2003 1 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "SCV is an enveloped , positive single-stranded RNA virus ( or ( + ) ssRNA virus ) with a genome of ~ 30 kb in length 2,3 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Two-thirds of the SCV genome at the 5 ′ - end comprise replicase genes ( orf1ab ) encoding 16 nonstructural proteins ( nsPs ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The replicase genes comprising open reading frames ( OFR1a and 1b ) are translated into two large replicative polyproteins ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "pp1ab ( ~ 790 kDa ) and pp1a ( ~ 490 kDa ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which are involved with and without ribosomal frameshifting into the − 1 frame 4,5 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These two translational polyproteins are processed autoproteolytically by the major viral cysteine proteases M PRO or 3CL PRO to produce 16 non-structural proteins ( nsPs ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including RNA-dependent RNA polymerases ( RdRp , nsP12 ) and NTPase/helicase ( nsP13 ) 6-8 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These viral replicases are the core of membrane-bound replication-transcription complexes that synthesize the entire viral genome and eight subgenomic mRNAs 9,10 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Because viral helicase is considered to be essential for subsequent viral replication and proliferation, it is an important potential target for antiviral therapy 11-13 . In addition, the inhibition of these targets may interfere with the metabolism of the infecting virus without strong side effects in patients. Several viral helicases have been used as proven drug targets due to the inhibition of helicase activity in animal models of herpes simplex virus (HSV) and in the treatment of hepatitis C 14,15 . Therefore, much effort has been spent on the development of small-molecule inhibitors and chemicals as drug candidates to inhibit the function of SARS coronavirus helicase nsP13 (SCV nsP13) [16] [17] [18] [19] [20] . Helicases are motor proteins that unwind a double-stranded (ds) nucleic acid into two single-stranded (ss) nucleic acids using energy derived from NTP hydrolysis during translocation along a single strand for nucleic acid replication, recombination, and DNA repair 21-24 . Helicases are classified into distinct classes depending on whether they can bind ss nucleic acid, unwind dsRNA or dsDNA or both, the polarity of the unwinding (5′ to 3′ or 3′ to 5′), and whether certain signature motifs are present in the primary sequence 25-28 . The SCV helicase nsP13 can unwind both dsRNA and dsDNA with a 5′-ss tail along the polarity of 5′ to 3′ 7,29 ,",
+      "sentences": [
+        [
+          {
+            "segment_text": "Because viral helicase is considered to be essential for subsequent viral replication and proliferation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "it is an important potential target for antiviral therapy 11-13 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , the inhibition of these targets may interfere with the metabolism of the infecting virus without strong side effects in patients .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Several viral helicases have been used as proven drug targets due to the inhibition of helicase activity in animal models of herpes simplex virus ( HSV ) and in the treatment of hepatitis C 14,15 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , much effort has been spent on the development of small-molecule inhibitors and chemicals as drug candidates to inhibit the function of SARS coronavirus helicase nsP13 ( SCV nsP13 ) ( 16 ) ( 17 ) ( 18 ) ( 19 ) ( 20 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Helicases are motor proteins that unwind a double-stranded ( ds ) nucleic acid into two single-stranded ( ss ) nucleic acids using energy derived from NTP hydrolysis during translocation along a single strand for nucleic acid replication ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "recombination , and DNA repair 21-24 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Helicases are classified into distinct classes depending on whether they can bind ss nucleic acid ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "unwind dsRNA or dsDNA or both ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the polarity of the unwinding ( 5 ′ to 3 ′ or 3 ′ to 5 ′ ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and whether certain signature motifs are present in the primary sequence 25-28 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The SCV helicase nsP13 can unwind both dsRNA and dsDNA with a 5 ′ - ss tail along the polarity of 5 ′ to 3 ′ 7,29 ,",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "23",
+    "segment_num": "35",
+    "token_num": "684"
+  }
+}

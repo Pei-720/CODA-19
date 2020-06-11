@@ -1,0 +1,78 @@
+{
+  "paper_id": "f82f0dbdf2cb656cff96dbf88a0a0e3893305aa9",
+  "metadata": {
+    "title": "Phosphatidylinositol 4-Kinase III␤ Is Required for Severe Acute Respiratory Syndrome Coronavirus Spike-mediated Cell Entry *",
+    "coda_data_split": "train",
+    "coda_paper_id": 7818,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: SARS-CoV entry into target cells is a unique and complex process. Results: Cell entry mediated by SARS-CoV S was strongly inhibited after knockdown of PI4KB. Conclusion: PI4KB is required for SARS-CoV S-mediated entry, and this function is dependent on its kinase activity. Significance: Our results indicate a new function for PI4KB and suggest a new drug target for preventing SARS-CoV infection.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : SARS-CoV entry into target cells is a unique and complex process .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results : Cell entry mediated by SARS-CoV S was strongly inhibited after knockdown of PI4KB .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Conclusion : PI4KB is required for SARS-CoV S-mediated entry ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and this function is dependent on its kinase activity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Significance : Our results indicate a new function for PI4KB and suggest a new drug target for preventing SARS-CoV infection .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Further research suggested that PI4P plays an essential role in SARS-CoV spike-mediated entry, which is regulated by the PI4P lipid microenvironment. We further demonstrate that PI4KB does not affect virus entry at the SARS-CoV S-ACE2 binding interface or at the stage of virus internalization but rather at or before virus fusion. Taken together, these results indicate a new function for PI4KB and suggest a new drug target for preventing SARS-CoV infection.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Further research suggested that PI4P plays an essential role in SARS-CoV spike-mediated entry ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which is regulated by the PI4P lipid microenvironment .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We further demonstrate that PI4KB does not affect virus entry at the SARS-CoV S-ACE2 binding interface or at the stage of virus internalization but rather at or before virus fusion .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Taken together , these results indicate a new function for PI4KB and suggest a new drug target for preventing SARS-CoV infection .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "7",
+    "segment_num": "9",
+    "token_num": "147"
+  }
+}

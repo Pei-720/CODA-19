@@ -1,0 +1,81 @@
+{
+  "paper_id": "ad3b8061a983745471ac96a30d534b00f57a9ffb",
+  "metadata": {
+    "title": "Comparative analysis of viral RNA signatures on different RIG-I-like receptors",
+    "coda_data_split": "train",
+    "coda_paper_id": 5447,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "The RIG-I-like receptors (RLRs) play a major role in sensing RNA virus infection to initiate and modulate antiviral immunity. They interact with particular viral RNAs, most of them being still unknown. To decipher the viral RNA signature on RLRs during viral infection, we tagged RLRs (RIG-I, MDA5, LGP2) and applied tagged protein affinity purification followed by nextgeneration sequencing (NGS) of associated RNA molecules. Two viruses with negative-and positive-sense RNA genome were used: measles (MV) and chikungunya (CHIKV). NGS analysis revealed that distinct regions of MV genome were specifically recognized by distinct RLRs: RIG-I recognized defective interfering genomes, whereas MDA5 and LGP2 specifically bound MV nucleoprotein-coding region. During CHIKV infection, RIG-I associated specifically to the 3\u0027 untranslated region of viral genome. This study provides the first comparative view of the viral RNA ligands for RIG-I, MDA5 and LGP2 in the presence of infection.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The RIG-I-like receptors ( RLRs ) play a major role in sensing RNA virus infection to initiate and modulate antiviral immunity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "They interact with particular viral RNAs ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "most of them being still unknown .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To decipher the viral RNA signature on RLRs during viral infection ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "we tagged RLRs ( RIG-I , MDA5 , LGP2 ) and applied tagged protein affinity purification followed by nextgeneration sequencing ( NGS ) of associated RNA molecules .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Two viruses with negative-and positive-sense RNA genome were used : measles ( MV ) and chikungunya ( CHIKV ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "NGS analysis revealed that distinct regions of MV genome were specifically recognized by distinct RLRs : RIG-I recognized defective interfering genomes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "whereas MDA5 and LGP2 specifically bound MV nucleoprotein-coding region .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "During CHIKV infection , RIG-I associated specifically to the 3 \u0027 untranslated region of viral genome .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study provides the first comparative view of the viral RNA ligands for RIG-I ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "MDA5 and LGP2 in the presence of infection .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "11",
+    "token_num": "169"
+  }
+}

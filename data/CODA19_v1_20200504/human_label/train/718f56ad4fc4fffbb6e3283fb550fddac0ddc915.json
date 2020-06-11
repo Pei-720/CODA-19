@@ -1,0 +1,165 @@
+{
+  "paper_id": "718f56ad4fc4fffbb6e3283fb550fddac0ddc915",
+  "metadata": {
+    "title": "Chicken melanoma differentiation-associated gene 5 (MDA5) recognizes infectious bursal disease virus infection and triggers MDA5-related innate immunity",
+    "coda_data_split": "train",
+    "coda_paper_id": 5704,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The objective of the present study was to determine if chicken melanoma differentiation-associated gene 5 (MDA5) senses infectious bursal disease virus (IBDV) infection to initiate and amplify an innate immune response in the chicken MDA5 (chMDA5) signaling pathway. Chicken embryo fibroblast DF-1 cells were infected with IBDV LP1 at a multiplicity of infection (MOI) of 0.5 or 10. In addition, knockdown and overexpression of chMDA5 were performed by transfecting DF-1 cells with chMDA5targeting small interfering RNA (siRNA) or chMDA5expressing DNA. The transfected cells were infected with IBDV LP1 at an MOI of 10. Cell culture supernatants and lysates were collected at 2, 8, 16 and 24 hours postinfection (hpi) for IBDV titer determination and RNA extraction, respectively. IBDV RNA loads and mRNA expression levels of chicken MDA5, interferon-b (IFN-b) promoter stimulator 1 (IPS-1), interferon regulatory factor-3 (IRF-3), IFN-b, double-stranded RNA-dependent protein kinase (PKR), 2 0 ,5 0 -oligoadenylate synthetase (OAS), myxovirus resistance gene (Mx), and major histocompatibility complex class I (MHC class I) were determined by real-time RT-PCR. The IBDV titer increased up to 1.4 9 10 7 plaqueforming units (PFU)/mL at 24 hpi, and the IBDV RNA load reached 464 ng/lL at 24 hpi. The mRNA expression levels of chicken MDA5, IRF-3, IFN-b, PKR, OAS, Mx and MHC class I in IBDV-infected DF-1 cells exhibited significant (p \\ 0.05) upregulation up to 906-, 199-, 26,310-, 12-, 66,144-, 64,039-and 33-fold, respectively. Expressed chMDA5 from transfection and double-stranded RNA from IBDV infection were localized or colocalized in the cytoplasm of DF-1 cells at 16 hpi. When chMDA5 was knocked down in DF-1 cells, IBDV titers and RNA loads were significantly higher (p \\ 0.05) than those in DF-1 cells without chMDA5 knockdown at 24 hpi. The expression levels of chicken MDA5, IRF-3, IFN-b and MHC class I in chMDA5-knockdown DF-1 cells were significantly lower (p \\ 0.05) at 16 and 24 hpi. DF-1 cells overexpressing chMDA5 by transfection with chMDA5 expressing DNA had significantly lower (p \\ 0.05) IBDV titers and RNA loads at 16 and 24 hpi and showed significantly higher (p \\ 0.05) expression of chicken MDA5, IRF-3, IFN-b, PKR, OAS, Mx and MHC class I at 2 hpi. The results indicated that chicken MDA5 recognized IBDV infection and that this interaction resulted in the activation of chMDA5-related innate immune genes and upregulation of chicken MHC class I.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The objective of the present study was to determine if chicken melanoma differentiation-associated gene 5 ( MDA5 ) senses infectious bursal disease virus ( IBDV ) infection to initiate and amplify an innate immune response in the chicken MDA5 ( chMDA5 ) signaling pathway .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Chicken embryo fibroblast DF-1 cells were infected with IBDV LP1 at a multiplicity of infection ( MOI ) of 0.5 or 10 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , knockdown and overexpression of chMDA5 were performed by transfecting DF-1 cells with chMDA5targeting small interfering RNA ( siRNA ) or chMDA5expressing DNA .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The transfected cells were infected with IBDV LP1 at an MOI of 10 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Cell culture supernatants and lysates were collected at 2 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "8 , 16 and 24 hours postinfection ( hpi ) for IBDV titer determination and RNA extraction , respectively .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "IBDV RNA loads and mRNA expression levels of chicken MDA5 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "interferon-b ( IFN-b ) promoter stimulator 1 ( IPS-1 ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "interferon regulatory factor-3 ( IRF-3 ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "IFN-b , double-stranded RNA-dependent protein kinase ( PKR ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "2 0 ,5 0 - oligoadenylate synthetase ( OAS ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "myxovirus resistance gene ( Mx ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and major histocompatibility complex class I ( MHC class I ) were determined by real-time RT-PCR .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The IBDV titer increased up to 1.4 9 10 7 plaqueforming units ( PFU ) / mL at 24 hpi ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the IBDV RNA load reached 464 ng/lL at 24 hpi .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The mRNA expression levels of chicken MDA5 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "IRF-3 , IFN-b , PKR ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "OAS , Mx and MHC class I in IBDV-infected DF-1 cells exhibited significant ( p \\ 0.05 ) upregulation up to 906 - ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "199 - , 26,310 - ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "12 - , 66,144 - , 64,039-and 33-fold , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Expressed chMDA5 from transfection and double-stranded RNA from IBDV infection were localized or colocalized in the cytoplasm of DF-1 cells at 16 hpi .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "When chMDA5 was knocked down in DF-1 cells ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "IBDV titers and RNA loads were significantly higher ( p \\ 0.05 ) than those in DF-1 cells without chMDA5 knockdown at 24 hpi .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The expression levels of chicken MDA5 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "IRF-3 , IFN-b and MHC class I in chMDA5-knockdown DF-1 cells were significantly lower ( p \\ 0.05 ) at 16 and 24 hpi .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "DF-1 cells overexpressing chMDA5 by transfection with chMDA5 expressing DNA had significantly lower ( p \\ 0.05 ) IBDV titers and RNA loads at 16 and 24 hpi and showed significantly higher ( p \\ 0.05 ) expression of chicken MDA5 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "IRF-3 , IFN-b , PKR ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "OAS , Mx and MHC class I at 2 hpi .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results indicated that chicken MDA5 recognized IBDV infection and that this interaction resulted in the activation of chMDA5-related innate immune genes and upregulation of chicken MHC class I.",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "13",
+    "segment_num": "29",
+    "token_num": "478"
+  }
+}

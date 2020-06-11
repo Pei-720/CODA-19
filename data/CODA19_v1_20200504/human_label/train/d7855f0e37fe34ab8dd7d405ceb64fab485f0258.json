@@ -1,0 +1,70 @@
+{
+  "paper_id": "d7855f0e37fe34ab8dd7d405ceb64fab485f0258",
+  "metadata": {
+    "title": "Classification analysis of dual nucleotides using dimension reduction",
+    "coda_data_split": "train",
+    "coda_paper_id": 5539,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "We introduce a new approach to investigate the dual nucleotides compositions of 11 Gram-positive and 12 Gram-negative eubacteria recently studied by Sorimachi and Okayasu. The approach firstly obtains a 16-dimension vector set of dual nucleotides by PN-curve from the complete genome of organism. Each vector of the set corresponds to a single gene of genome. Then we reduce the 16-dimension vector set to 2-dimension by principal components analysis (PCA). The reduction avoids possible loss of information averaging all 16-dimension vectors. Then we suggest a 2D graphical representation based on the 2-dimension vector to investigate the classification patters among different organisms.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We introduce a new approach to investigate the dual nucleotides compositions of 11 Gram-positive and 12 Gram-negative eubacteria recently studied by Sorimachi and Okayasu .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The approach firstly obtains a 16-dimension vector set of dual nucleotides by PN-curve from the complete genome of organism .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Each vector of the set corresponds to a single gene of genome .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Then we reduce the 16-dimension vector set to 2-dimension by principal components analysis ( PCA ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The reduction avoids possible loss of information averaging all 16-dimension vectors .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Then we suggest a 2D graphical representation based on the 2-dimension vector to investigate the classification patters among different organisms .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Crown",
+      "sentences": [
+        [
+          {
+            "segment_text": "Crown",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "7",
+    "segment_num": "7",
+    "token_num": "109"
+  }
+}

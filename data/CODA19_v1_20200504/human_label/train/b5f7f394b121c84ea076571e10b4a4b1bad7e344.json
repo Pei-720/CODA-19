@@ -1,0 +1,83 @@
+{
+  "paper_id": "b5f7f394b121c84ea076571e10b4a4b1bad7e344",
+  "metadata": {
+    "title": "Influence of Population Immunosuppression and Past Vaccination on Smallpox Reemergence",
+    "coda_data_split": "train",
+    "coda_paper_id": 9552,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "We built a SEIR (susceptible, exposed, infected, recovered) model of smallpox transmission for New York, New York, USA, and Sydney, New South Wales, Australia, that accounted for age-specific population immunosuppression and residual vaccine immunity and conducted sensitivity analyses to estimate the effect these parameters might have on smallpox reemergence. At least 19% of New York\u0027s and 17% of Sydney\u0027s population are immunosuppressed. The highest smallpox infection rates were in persons 0-19 years of age, but the highest death rates were in those \u003e45 years of age. Because of the low level of residual vaccine immunity, immunosuppression was more influential than vaccination on death and infection rates in our model. Despite widespread smallpox vaccination until 1980 in New York, smallpox outbreak severity appeared worse in New York than in Sydney. Immunosuppression is highly prevalent and should be considered in future smallpox outbreak models because excluding this factor probably underestimates death and infection rates.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We built a SEIR ( susceptible , exposed , infected , recovered ) model of smallpox transmission for New York ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "New York , USA , and Sydney ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "New South Wales , Australia ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "that accounted for age-specific population immunosuppression and residual vaccine immunity and conducted sensitivity analyses to estimate the effect these parameters might have on smallpox reemergence .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "At least 19 % of New York \u0027s and 17 % of Sydney \u0027s population are immunosuppressed .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The highest smallpox infection rates were in persons 0-19 years of age ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but the highest death rates were in those \u003e 45 years of age .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Because of the low level of residual vaccine immunity ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "immunosuppression was more influential than vaccination on death and infection rates in our model .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Despite widespread smallpox vaccination until 1980 in New York ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "smallpox outbreak severity appeared worse in New York than in Sydney .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Immunosuppression is highly prevalent and should be considered in future smallpox outbreak models because excluding this factor probably underestimates death and infection rates .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "12",
+    "token_num": "177"
+  }
+}

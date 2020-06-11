@@ -1,0 +1,150 @@
+{
+  "paper_id": "4bc43084ccdb8d3bb704ca577473169cd1a64f9c",
+  "metadata": {
+    "title": "Risk estimation and prediction by modeling the transmission of the novel coronavirus (COVID-19) in mainland China excluding Hubei province",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1587,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: In December 2019, an outbreak of novel coronavirus disease emerged in Wuhan, China and has swiftly spread to other parts of China and a number of oversea countries. Our aim is to evaluate the effectiveness of the evolution of interventions and self-protection measures, estimate the risk of partial lifting control measures and predict the epidemic trend of the virus in mainland China excluding Hubei province based on the published data and a novel mathematical model.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : In December 2019 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "an outbreak of novel coronavirus disease emerged in Wuhan ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "China and has swiftly spread to other parts of China and a number of oversea countries .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our aim is to evaluate the effectiveness of the evolution of interventions and self-protection measures ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "estimate the risk of partial lifting control measures and predict the epidemic trend of the virus in mainland China excluding Hubei province based on the published data and a novel mathematical model .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "A novel COVID-19 transmission dynamic model incorporating the intervention measures implemented in China is proposed. We parameterize the model by using the Markov Chain Monte Carlo (MCMC) method and estimate the control reproduction number R c , as well as the effective daily reproduction ratio R e (t), of the disease transmission in mainland China excluding Hubei province.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A novel COVID-19 transmission dynamic model incorporating the intervention measures implemented in China is proposed .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We parameterize the model by using the Markov Chain Monte Carlo ( MCMC ) method and estimate the control reproduction number R c ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "as well as the effective daily reproduction ratio R e ( t ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "of the disease transmission in mainland China excluding Hubei province .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The estimation outcomes indicate that the control reproduction number is 3.36 (95% CI 3.20-3.64) and R e (t) has dropped below 1 since January 31st, 2020, which implies that the containment strategies implemented by the Chinese government in mainland China excluding Hubei province are indeed effective and magnificently suppressed COVID-19 transmission. Moreover, our results show that relieving personal protection too early may lead to the spread of disease for a longer time and more people would be infected, and may even cause epidemic or outbreak again. By calculating the effective reproduction ratio, we prove that the contact rate should be kept at least less than 30% of the normal level by April, 2020.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The estimation outcomes indicate that the control reproduction number is 3.36 ( 95 % CI 3.20-3.64 ) and R e ( t ) has dropped below 1 since January 31st ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "2020 , which implies that the containment strategies implemented by the Chinese government in mainland China excluding Hubei province are indeed effective and magnificently suppressed COVID-19 transmission .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , our results show that relieving personal protection too early may lead to the spread of disease for a longer time and more people would be infected ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and may even cause epidemic or outbreak again .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "By calculating the effective reproduction ratio ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we prove that the contact rate should be kept at least less than 30 % of the normal level by April , 2020 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "To ensure the epidemic ending rapidly, it is necessary to maintain the current integrated restrict interventions and self-protection measures, including travel restriction, quarantine of entry, contact tracing followed by quarantine and isolation and reduction of contact, like wearing masks, etc. People should be fully aware of the real-time epidemic situation and keep sufficient personal protection until April. If all the above conditions are met, the outbreak is expected to be ended by April in mainland China apart from Hubei province.",
+      "sentences": [
+        [
+          {
+            "segment_text": "To ensure the epidemic ending rapidly ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "it is necessary to maintain the current integrated restrict interventions and self-protection measures ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including travel restriction , quarantine of entry ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "contact tracing followed by quarantine and isolation and reduction of contact ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "like wearing masks , etc. .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "People should be fully aware of the real-time epidemic situation and keep sufficient personal protection until April .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "If all the above conditions are met ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the outbreak is expected to be ended by April in mainland China apart from Hubei province .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "10",
+    "segment_num": "23",
+    "token_num": "365"
+  }
+}

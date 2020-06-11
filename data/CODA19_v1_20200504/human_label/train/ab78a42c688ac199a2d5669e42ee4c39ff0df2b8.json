@@ -1,0 +1,69 @@
+{
+  "paper_id": "ab78a42c688ac199a2d5669e42ee4c39ff0df2b8",
+  "metadata": {
+    "title": "A real-time convective PCR machine in a capillary tube instrumented with a CCD-based fluorometer",
+    "coda_data_split": "train",
+    "coda_paper_id": 6178,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "This research reports the design, analysis, integration, and test of a prototype of a real-time convective polymerase chain reaction (RT-cPCR) machine that uses a color charged coupled device (CCD) for detecting the emission of fluorescence intensity from an RT-cPCR mix in a microliter volume glass capillary. Because of its simple mechanism, DNA amplification involves employing the cPCR technique with no need for thermocycling control. The flow pattern and temperature distribution can greatly affect the cPCR process in the capillary tube, a computational fluid dynamics (CFD) simulation was conducted in this study for the first time to estimate the required period of an RT-cPCR cycle. This study also tested the PCR mix containing hepatitis B virus (HBV) plasmid samples by using SYBR Green I fluorescence labeling dye to assess the prototype performance. The measured results from the image-processing scheme indicate that the RT-cPCR prototype with a CCD-based fluorometer can achieve similar DNA quantification reproducibility compared to commercial machines, even when the initial DNA concentration in the test PCR mix is reduced to 10 copies/L",
+      "sentences": [
+        [
+          {
+            "segment_text": "This research reports the design ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "analysis , integration , and test of a prototype of a real-time convective polymerase chain reaction ( RT-cPCR ) machine that uses a color charged coupled device ( CCD ) for detecting the emission of fluorescence intensity from an RT-cPCR mix in a microliter volume glass capillary .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Because of its simple mechanism ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "DNA amplification involves employing the cPCR technique with no need for thermocycling control .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The flow pattern and temperature distribution can greatly affect the cPCR process in the capillary tube ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "a computational fluid dynamics ( CFD ) simulation was conducted in this study for the first time to estimate the required period of an RT-cPCR cycle .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study also tested the PCR mix containing hepatitis B virus ( HBV ) plasmid samples by using SYBR Green I fluorescence labeling dye to assess the prototype performance .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The measured results from the image-processing scheme indicate that the RT-cPCR prototype with a CCD-based fluorometer can achieve similar DNA quantification reproducibility compared to commercial machines ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "even when the initial DNA concentration in the test PCR mix is reduced to 10 copies/L",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "9",
+    "token_num": "191"
+  }
+}

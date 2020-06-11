@@ -1,0 +1,47 @@
+{
+  "paper_id": "9e951559a8cbef877c02296db2e3c2f0ccc8ddec",
+  "metadata": {
+    "title": "Structural Complexity of DNA Sequence",
+    "coda_data_split": "train",
+    "coda_paper_id": 2692,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "In modern bioinformatics, finding an efficient way to allocate sequence fragments with biological functions is an important issue. This paper presents a structural approach based on context-free grammars extracted from original DNA or protein sequences. This approach is radically different from all those statistical methods. Furthermore, this approach is compared with a topological entropy-based method for consistency and difference of the complexity results.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In modern bioinformatics , finding an efficient way to allocate sequence fragments with biological functions is an important issue .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This paper presents a structural approach based on context-free grammars extracted from original DNA or protein sequences .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "This approach is radically different from all those statistical methods .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , this approach is compared with a topological entropy-based method for consistency and difference of the complexity results .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "4",
+    "segment_num": "4",
+    "token_num": "69"
+  }
+}

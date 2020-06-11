@@ -1,0 +1,381 @@
+{
+  "paper_id": "bbe42ce008a9dd9e25c03c36113d763dba358cbb",
+  "metadata": {
+    "title": "Phosphatidic Acid Produced by Phospholipase D Promotes RNA Replication of a Plant RNA Virus",
+    "coda_data_split": "train",
+    "coda_paper_id": 6924,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Eukaryotic positive-strand RNA [(+)RNA] viruses are intracellular obligate parasites replicate using the membrane-bound replicase complexes that contain multiple viral and host components. To replicate, (+)RNA viruses exploit host resources and modify host metabolism and membrane organization. Phospholipase D (PLD) is a phosphatidylcholine-and phosphatidylethanolamine-hydrolyzing enzyme that catalyzes the production of phosphatidic acid (PA), a lipid second messenger that modulates diverse intracellular signaling in various organisms. PA is normally present in small amounts (less than 1% of total phospholipids), but rapidly and transiently accumulates in lipid bilayers in response to different environmental cues such as biotic and abiotic stresses in plants. However, the precise functions of PLD and PA remain unknown. Here, we report the roles of PLD and PA in genomic RNA replication of a plant (+)RNA virus, Red clover necrotic mosaic virus (RCNMV). We found that RCNMV RNA replication complexes formed in Nicotiana benthamiana contained PLDα and PLDβ. Gene-silencing and pharmacological inhibition approaches showed that PLDs and PLDs-derived PA are required for viral RNA replication. Consistent with this, exogenous application of PA enhanced viral RNA replication in plant cells and plant-derived cellfree extracts. We also found that a viral auxiliary replication protein bound to PA in vitro, and that the amount of PA increased in RCNMV-infected plant leaves. Together, our findings suggest that RCNMV hijacks host PA-producing enzymes to replicate.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Eukaryotic positive-strand RNA ( ( + ) RNA ) viruses are intracellular obligate parasites replicate using the membrane-bound replicase complexes that contain multiple viral and host components .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To replicate , ( + ) RNA viruses exploit host resources and modify host metabolism and membrane organization .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Phospholipase D ( PLD ) is a phosphatidylcholine-and phosphatidylethanolamine-hydrolyzing enzyme that catalyzes the production of phosphatidic acid ( PA ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a lipid second messenger that modulates diverse intracellular signaling in various organisms .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "PA is normally present in small amounts ( less than 1 % of total phospholipids ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but rapidly and transiently accumulates in lipid bilayers in response to different environmental cues such as biotic and abiotic stresses in plants .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the precise functions of PLD and PA remain unknown .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we report the roles of PLD and PA in genomic RNA replication of a plant ( + ) RNA virus ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "Red clover necrotic mosaic virus ( RCNMV ) .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We found that RCNMV RNA replication complexes formed in Nicotiana benthamiana contained PLDα and PLDβ .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Gene-silencing and pharmacological inhibition approaches showed that PLDs and PLDs-derived PA are required for viral RNA replication .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Consistent with this , exogenous application of PA enhanced viral RNA replication in plant cells and plant-derived cellfree extracts .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also found that a viral auxiliary replication protein bound to PA in vitro ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and that the amount of PA increased in RCNMV-infected plant leaves .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Together , our findings suggest that RCNMV hijacks host PA-producing enzymes to replicate .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "All characterized eukaryotic positive-strand RNA [(+)RNA] viruses replicate their genomes using the viral replication complexes (VRCs), which contain multiple viral and host components, on intracellular membranes. Phospholipids are major constituents of cellular membranes; however, the function(s) of phospholipids in genome replication of (+)RNA viruses remains largely unknown. Here, we show that Red clover necrotic mosaic PLOS Pathogens | virus (RCNMV), a plant (+)RNA virus, induces a high accumulation of phosphatidic acid (PA) in infected plant leaves. PA-producing enzymes, phospholipase Dα (PLDα) and PLDβ, are associated with RCNMV VRCs. PA interacts with the viral replication protein and enhances the viral replication by upregulating the activity/assembly of the VRCs in vitro. In summary, RCNMV alters cellular lipid metabolism via PLD to establish a suitable environment for viral replication.",
+      "sentences": [
+        [
+          {
+            "segment_text": "All characterized eukaryotic positive-strand RNA ( ( + ) RNA ) viruses replicate their genomes using the viral replication complexes ( VRCs ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which contain multiple viral and host components , on intracellular membranes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Phospholipids are major constituents of cellular membranes ; however ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the function ( s ) of phospholipids in genome replication of ( + ) RNA viruses remains largely unknown .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we show that Red clover necrotic mosaic PLOS Pathogens | virus ( RCNMV ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a plant ( + ) RNA virus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "induces a high accumulation of phosphatidic acid ( PA ) in infected plant leaves .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "PA-producing enzymes , phospholipase Dα ( PLDα ) and PLDβ ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "are associated with RCNMV VRCs .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "PA interacts with the viral replication protein and enhances the viral replication by upregulating the activity/assembly of the VRCs in vitro .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In summary , RCNMV alters cellular lipid metabolism via PLD to establish a suitable environment for viral replication .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Positive-strand RNA [(+)RNA] viruses are the most abundant plant viruses, and include many viruses economically important in agriculture. (+)RNA plant viruses have a limited coding capacity. To replicate and achieve successful infection in their hosts, they need to use host proteins, membranes, lipids, and metabolites. All characterized eukaryotic (+)RNA viruses replicate their genomes using viral replication complexes (VRCs), which contain multiple viral and host components on intracellular membranes [1-6]. A growing number of studies have suggested that plant viruses have evolved ways to hijack plant host factors and reprogram host cell metabolism for their successful infection [6, 7] . Conversely, plants have evolved the ability to recognize viruses through specific interaction with viral proteins or viral double-stranded RNA intermediates for restricting virus infection [8, 9] . Viruses must circumvent or suppress such surveillance systems and host defense mechanisms. Thus, viruses must be evolved to achieve a good balance between hijacking/reprogramming host factors for efficient viral replication and avoiding the danger of stimulating antiviral defense responses.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Positive-strand RNA ( ( + ) RNA ) viruses are the most abundant plant viruses ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and include many viruses economically important in agriculture .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( + ) RNA plant viruses have a limited coding capacity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "To replicate and achieve successful infection in their hosts ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "they need to use host proteins ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "membranes , lipids , and metabolites .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "All characterized eukaryotic ( + ) RNA viruses replicate their genomes using viral replication complexes ( VRCs ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which contain multiple viral and host components on intracellular membranes ( 1-6 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A growing number of studies have suggested that plant viruses have evolved ways to hijack plant host factors and reprogram host cell metabolism for their successful infection ( 6 , 7 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Conversely , plants have evolved the ability to recognize viruses through specific interaction with viral proteins or viral double-stranded RNA intermediates for restricting virus infection ( 8 , 9 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Viruses must circumvent or suppress such surveillance systems and host defense mechanisms .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , viruses must be evolved to achieve a good balance between hijacking/reprogramming host factors for efficient viral replication and avoiding the danger of stimulating antiviral defense responses .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Red clover necrotic mosaic virus (RCNMV) is a (+)RNA plant virus and a member of the genus Dianthovirus in the family Tombusviridae. The genome of RCNMV consists of RNA1 and RNA2. RNA1 encodes a p27 auxiliary replication protein, p88 pol RNA-dependent RNA polymerase (RdRp), and a coat protein [10]. RNA2 encodes a movement protein that is required for viral cell-to-cell movement [10, 11] . p27, p88 pol , and host proteins form a 480-kDa replicase complex, which is a key player in the viral RNA replication [12] . p27 and p88 pol colocalize at the endoplasmic reticulum (ER) [13, 14] , where RCNMV replication takes place [15] . Our previous studies showed that RCNMV uses host heat shock proteins (HSPs), HSP70 and HSP90 [16], and ADP-ribosylation factor 1 (Arf1) [15] for the formation of the 480-kDa replicase complex and p27-induced ER membrane alterations. Arf1 is a small GTPase that regulates COPI vesicle formation. Sar1, another small GTPase that regulates COPII vesicle-mediated trafficking, and Arf1 are recruited from their original subcellular locations to RCNMV replication sites via p27, and p27 interferes with host membrane trafficking pathway in plant cells [15, 17] . Mammalian and yeast Arf1 recruits and/or stimulates its effector proteins, including a coatomer, phosphatidylinositol 4 kinase III β (PI4KIIIβ), and phospholipase D (PLD) [18] . Arf1 can activate mammalian PLD1 and PLD2 directly. PLD hydrolyses structural phospholipids such as phosphatidylcholine (PC) and phosphatidylethanolamine (PE) to produce phosphatidic acid (PA) and remaining headgroups. PA production resulting from Arf1-mediated PLD activation has been proposed to be associated with vesicle formation [19] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Red clover necrotic mosaic virus ( RCNMV ) is a ( + ) RNA plant virus and a member of the genus Dianthovirus in the family Tombusviridae .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The genome of RCNMV consists of RNA1 and RNA2 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "RNA1 encodes a p27 auxiliary replication protein ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "p88 pol RNA-dependent RNA polymerase ( RdRp ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and a coat protein ( 10 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "RNA2 encodes a movement protein that is required for viral cell-to-cell movement ( 10 , 11 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "p27 , p88 pol , and host proteins form a 480-kDa replicase complex ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which is a key player in the viral RNA replication ( 12 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "p27 and p88 pol colocalize at the endoplasmic reticulum ( ER ) ( 13 , 14 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "where RCNMV replication takes place ( 15 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our previous studies showed that RCNMV uses host heat shock proteins ( HSPs ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "HSP70 and HSP90 ( 16 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and ADP-ribosylation factor 1 ( Arf1 ) ( 15 ) for the formation of the 480-kDa replicase complex and p27-induced ER membrane alterations .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Arf1 is a small GTPase that regulates COPI vesicle formation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Sar1 , another small GTPase that regulates COPII vesicle-mediated trafficking ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and Arf1 are recruited from their original subcellular locations to RCNMV replication sites via p27 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and p27 interferes with host membrane trafficking pathway in plant cells ( 15 , 17 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Mammalian and yeast Arf1 recruits and/or stimulates its effector proteins ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including a coatomer , phosphatidylinositol 4 kinase III β ( PI4KIIIβ ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and phospholipase D ( PLD ) ( 18 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Arf1 can activate mammalian PLD1 and PLD2 directly .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "PLD hydrolyses structural phospholipids such as phosphatidylcholine ( PC ) and phosphatidylethanolamine ( PE ) to produce phosphatidic acid ( PA ) and remaining headgroups .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "PA production resulting from Arf1-mediated PLD activation has been proposed to be associated with vesicle formation ( 19 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The 12 different PLD isoforms encoded in the Arabidopsis thaliana genome are classified into six groups (α, β, γ, δ, ε, and z) based on sequence similarity and in vitro activity [20] . PLDz1 and z2 have N-terminal phox homology (PX) and pleckstrin homology (PH) domains and share high sequence similarities to two PX/PH-PLDs in mammals. The remaining PLDs contain the Ca 2+ -dependent phospholipid-binding C2 domain and are unique to plants.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The 12 different PLD isoforms encoded in the Arabidopsis thaliana genome are classified into six groups ( α , β , γ , δ , ε , and z ) based on sequence similarity and in vitro activity ( 20 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "PLDz1 and z2 have N-terminal phox homology ( PX ) and pleckstrin homology ( PH ) domains and share high sequence similarities to two PX/PH-PLDs in mammals .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The remaining PLDs contain the Ca 2 + - dependent phospholipid-binding C2 domain and are unique to plants .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "41",
+    "segment_num": "64",
+    "token_num": "1039"
+  }
+}

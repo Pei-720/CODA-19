@@ -1,0 +1,57 @@
+{
+  "paper_id": "06da4a4c7211ac6ba75602d9f7657c67d75a06f3",
+  "metadata": {
+    "title": "Recognition of correct reading frame by the ribosome",
+    "coda_data_split": "train",
+    "coda_paper_id": 5510,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "m The translation flame-monitoring mechanism has been suggested earlier, based on transient complementary contacts, between mRNA and rRNA. Recent studies related to the frame-monitoring mechanism are reviewed. The mechanism is well supported by both new experimental and sequence analysis data. Experiments are suggested for further elucidation of the structural details of the mRNA-rRNA interaction in the ribosome. frame monitoring / mRNA-rRNA interaction / ribosome",
+      "sentences": [
+        [
+          {
+            "segment_text": "m The translation flame-monitoring mechanism has been suggested earlier ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "based on transient complementary contacts , between mRNA and rRNA .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recent studies related to the frame-monitoring mechanism are reviewed .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The mechanism is well supported by both new experimental and sequence analysis data .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Experiments are suggested for further elucidation of the structural details of the mRNA-rRNA interaction in the ribosome .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "frame monitoring / mRNA-rRNA interaction / ribosome",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "6",
+    "token_num": "70"
+  }
+}

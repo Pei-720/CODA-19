@@ -1,0 +1,137 @@
+{
+  "paper_id": "17192bd07c09aa9e70552f7f15f90f0a6b8180c6",
+  "metadata": {
+    "title": "Overlapping genes and the proteins they encode differ significantly in their sequence composition from non-overlapping genes",
+    "coda_data_split": "train",
+    "coda_paper_id": 6521,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Overlapping genes represent a fascinating evolutionary puzzle, since they encode two functionally unrelated proteins from the same DNA sequence. They originate by a mechanism of overprinting, in which point mutations in an existing frame allow the expression (the \"birth\") of a completely new protein from a second frame. In viruses, in which overlapping genes are abundant, these new proteins often play a critical role in infection, yet they are frequently overlooked during genome annotation. This results in erroneous interpretation of mutational studies and in a significant waste of resources. Therefore, overlapping genes need to be correctly detected, especially since they are now thought to be abundant also in eukaryotes. Developing better detection methods and conducting systematic evolutionary studies require a large, reliable benchmark dataset of known cases. We thus assembled a highquality dataset of 80 viral overlapping genes whose expression is experimentally proven. Many of them were not present in databases. We found that overall, overlapping genes differ significantly from non-overlapping genes in their nucleotide and amino acid composition. In particular, the proteins they encode are enriched in high-degeneracy amino acids and depleted in low-degeneracy ones, which may alleviate the evolutionary constraints acting on overlapping genes. Principal component analysis revealed that the vast majority of overlapping genes follow a similar composition bias, despite their heterogeneity in length and function. Six proven mammalian overlapping genes also followed this bias. We propose that this apparently near-universal composition bias may either favour the birth of overlapping genes, or/and result from selection pressure acting on them.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Overlapping genes represent a fascinating evolutionary puzzle ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "since they encode two functionally unrelated proteins from the same DNA sequence .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "They originate by a mechanism of overprinting ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "in which point mutations in an existing frame allow the expression ( the `` birth \u0027\u0027 ) of a completely new protein from a second frame .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In viruses , in which overlapping genes are abundant ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "these new proteins often play a critical role in infection ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "yet they are frequently overlooked during genome annotation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This results in erroneous interpretation of mutational studies and in a significant waste of resources .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , overlapping genes need to be correctly detected ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "especially since they are now thought to be abundant also in eukaryotes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Developing better detection methods and conducting systematic evolutionary studies require a large ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "reliable benchmark dataset of known cases .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We thus assembled a highquality dataset of 80 viral overlapping genes whose expression is experimentally proven .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Many of them were not present in databases .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We found that overall , overlapping genes differ significantly from non-overlapping genes in their nucleotide and amino acid composition .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In particular , the proteins they encode are enriched in high-degeneracy amino acids and depleted in low-degeneracy ones ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which may alleviate the evolutionary constraints acting on overlapping genes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Principal component analysis revealed that the vast majority of overlapping genes follow a similar composition bias ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "despite their heterogeneity in length and function .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Six proven mammalian overlapping genes also followed this bias .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We propose that this apparently near-universal composition bias may either favour the birth of overlapping genes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "or/and result from selection pressure acting on them .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "13",
+    "segment_num": "22",
+    "token_num": "282"
+  }
+}

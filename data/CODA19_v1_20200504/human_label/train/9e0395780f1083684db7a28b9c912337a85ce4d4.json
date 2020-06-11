@@ -1,0 +1,169 @@
+{
+  "paper_id": "9e0395780f1083684db7a28b9c912337a85ce4d4",
+  "metadata": {
+    "title": "DISPOSABLE N95 MASKS PASS QUALITATIVE FIT-TEST BUT HAVE DECREASED FILTRATION EFFICIENCY AFTER COBALT-60 GAMMA IRRADIATION",
+    "coda_data_split": "train",
+    "coda_paper_id": 4107,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The current COVID-19 pandemic has led to a dramatic shortage of masks and other personal protective equipment (PPE) in hospitals around the globe [1] . One component of PPE that is in particular demand are disposable N95 face masks. To alleviate this, many methods of N95 mask sterilization have been studied and proposed with the hope of being able to safely reuse masks [2] . Two major considerations must be made when re-sterilizing masks: (1) the sterilization method effectively kills pathogens, penetrating into the fibers of the mask, and (2) the method does not degrade the operational integrity of the N95 filters.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The current COVID-19 pandemic has led to a dramatic shortage of masks and other personal protective equipment ( PPE ) in hospitals around the globe ( 1 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "One component of PPE that is in particular demand are disposable N95 face masks .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To alleviate this , many methods of N95 mask sterilization have been studied and proposed with the hope of being able to safely reuse masks ( 2 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Two major considerations must be made when re-sterilizing masks : ( 1 ) the sterilization method effectively kills pathogens ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "penetrating into the fibers of the mask ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and ( 2 ) the method does not degrade the operational integrity of the N95 filters .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We studied Cobalt-60 ( 60 Co) gamma irradiation as a method of effective sterilization without inducing mask degradation. Significant literature exists supporting the use of gamma radiation as a sterilization method, with viral inactivation of SARS-CoV reported at doses of at most 10 kGy [3] , with other studies supporting 5 kGy for many types of viruses [4] . However, concerns have been raised about the radiation damaging the fiber material within the mask, specifically by causing cross-linking of polymers, leading to cracking and degradation during fitting and/or deployment [5, 6] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "We studied Cobalt-60 ( 60 Co ) gamma irradiation as a method of effective sterilization without inducing mask degradation .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Significant literature exists supporting the use of gamma radiation as a sterilization method ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with viral inactivation of SARS-CoV reported at doses of at most 10 kGy ( 3 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with other studies supporting 5 kGy for many types of viruses ( 4 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , concerns have been raised about the radiation damaging the fiber material within the mask ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "specifically by causing cross-linking of polymers ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "leading to cracking and degradation during fitting and/or deployment ( 5 , 6 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "A set of 3M 8210 and 9105 masks were irradiated using MIT\u0027s 60 Co irradiator. Three masks of each type received 0 kiloGray (kGy), 10 kGy and 50 kGy of approximately 1.3 MeV gamma radiation from the circular cobalt sources, at a dose rate of 2.2kGy per hour.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A set of 3M 8210 and 9105 masks were irradiated using MIT \u0027s 60 Co irradiator .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Three masks of each type received 0 kiloGray ( kGy ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "10 kGy and 50 kGy of approximately 1.3 MeV gamma radiation from the circular cobalt sources ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "at a dose rate of 2.2 kGy per hour .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Following this sterilization procedure, the irradiated masks passed a OSHA Gerson Qualitative Fit Test QLFT 50 (saccharin apparatus) [7] when donned correctly, performed at the Brigham and Women\u0027s Hospital, in a blinded study repeated in triplicate. However, the masks\u0027 filtration of 0.3 µm particles was significantly degraded, even at 10 kGy.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Following this sterilization procedure , the irradiated masks passed a OSHA Gerson Qualitative Fit Test QLFT 50 ( saccharin apparatus ) ( 7 ) when donned correctly ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "performed at the Brigham and Women \u0027s Hospital ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "in a blinded study repeated in triplicate .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the masks \u0027 filtration of 0.3 µm particles was significantly degraded , even at 10 kGy .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "These results suggest against gamma, and possibly all ionizing radiation, as a method of disposable N95 sterilization. Even more importantly, they argue against using the qualitative fit test alone to assess mask integrity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "These results suggest against gamma ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and possibly all ionizing radiation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as a method of disposable N95 sterilization .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Even more importantly , they argue against using the qualitative fit test alone to assess mask integrity .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "13",
+    "segment_num": "25",
+    "token_num": "381"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "paper_id": "f0eecd773d0c49ad6d1cfc9f3dd480394f6673bc",
+  "metadata": {
+    "title": "Information theory applications for biological sequence analysis",
+    "coda_data_split": "train",
+    "coda_paper_id": 8013,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Information theory (IT) addresses the analysis of communication systems and has been widely applied in molecular biology. In particular, alignment-free sequence analysis and comparison greatly benefited from concepts derived from IT, such as entropy and mutual information. This review covers several aspects of IT applications, ranging from genome global analysis and comparison, including block-entropy estimation and resolution-free metrics based on iterative maps, to local analysis, comprising the classification of motifs, prediction of transcription factor binding sites and sequence characterization based on linguistic complexity and entropic profiles. IT has also been applied to high-level correlations that combine DNA, RNA or protein features with sequence-independent properties, such as gene mapping and phenotype analysis, and has also provided models based on communication systems theory to describe information transmission channels at the cell level and also during evolutionary processes. While not exhaustive, this review attempts to categorize existing methods and to indicate their relation with broader transversal topics such as genomic signatures, data compression and complexity, time series analysis and phylogenetic classification, providing a resource for future developments in this promising area.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Information theory ( IT ) addresses the analysis of communication systems and has been widely applied in molecular biology .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In particular , alignment-free sequence analysis and comparison greatly benefited from concepts derived from IT ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as entropy and mutual information .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This review covers several aspects of IT applications ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "ranging from genome global analysis and comparison ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "including block-entropy estimation and resolution-free metrics based on iterative maps ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "to local analysis , comprising the classification of motifs ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "prediction of transcription factor binding sites and sequence characterization based on linguistic complexity and entropic profiles .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "IT has also been applied to high-level correlations that combine DNA ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "RNA or protein features with sequence-independent properties ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "such as gene mapping and phenotype analysis ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and has also provided models based on communication systems theory to describe information transmission channels at the cell level and also during evolutionary processes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "While not exhaustive , this review attempts to categorize existing methods and to indicate their relation with broader transversal topics such as genomic signatures ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "data compression and complexity , time series analysis and phylogenetic classification ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "providing a resource for future developments in this promising area .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "15",
+    "token_num": "199"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "paper_id": "dc16bda747bf057fc2d5f0a433dc709f369e6720",
+  "metadata": {
+    "title": "FSDB: A frameshift signal database",
+    "coda_data_split": "train",
+    "coda_paper_id": 5176,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Programmed frameshifting is a recoding event in which a ribosome shifts reading frame by one or more nucleotides at a specific mRNA signal between overlapping genes. Programmed frameshifting is involved in the expression of many genes in a wide range of organisms, especially in viruses and bacteria. The mechanism of programmed frameshifting is not fully understood despite many studies, and there are few databases available for detailed information on programmed frameshifting. We have developed a database called FSDB (Frameshift Signal Database), which is a comprehensive compilation of experimentally known or computationally predicted data about programmed ribosomal frameshifting. FSDB provides a graphical view of frameshift signals and the genes using programmed frameshifting for their expression. It also allows the user himself/herself to find programmed frameshift sites in genomic sequences using a program called FSFinder (http://wilab.inha.ac.kr/fsfinder2). We believe FSDB will be a valuable resource for scientists studying programmed ribosomal frameshifting. FSDB is freely accessible at http://wilab.inha.ac.kr/fsdb/.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Programmed frameshifting is a recoding event in which a ribosome shifts reading frame by one or more nucleotides at a specific mRNA signal between overlapping genes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Programmed frameshifting is involved in the expression of many genes in a wide range of organisms ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "especially in viruses and bacteria .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The mechanism of programmed frameshifting is not fully understood despite many studies ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and there are few databases available for detailed information on programmed frameshifting .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We have developed a database called FSDB ( Frameshift Signal Database ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which is a comprehensive compilation of experimentally known or computationally predicted data about programmed ribosomal frameshifting .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "FSDB provides a graphical view of frameshift signals and the genes using programmed frameshifting for their expression .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It also allows the user himself/herself to find programmed frameshift sites in genomic sequences using a program called FSFinder ( http://wilab.inha.ac.kr/fsfinder2 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We believe FSDB will be a valuable resource for scientists studying programmed ribosomal frameshifting .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "FSDB is freely accessible at http://wilab.inha.ac.kr/fsdb/ .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "11",
+    "token_num": "169"
+  }
+}

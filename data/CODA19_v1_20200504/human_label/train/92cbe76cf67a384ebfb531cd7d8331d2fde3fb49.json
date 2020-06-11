@@ -1,0 +1,168 @@
+{
+  "paper_id": "92cbe76cf67a384ebfb531cd7d8331d2fde3fb49",
+  "metadata": {
+    "title": "Ecological niche modeling to determine potential niche of Vaccinia virus: a case only study",
+    "coda_data_split": "train",
+    "coda_paper_id": 4175,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Emerging and understudied pathogens often lack information that most commonly used analytical tools require, such as negative controls or baseline data; thus, new analytical strategies are needed to analyze transmission patterns and drivers of disease emergence. Zoonotic infections with Vaccinia virus (VACV) were first reported in Brazil in 1999, VACV is an emerging zoonotic Orthopoxvirus, which primarily infects dairy cattle and farmers in close contact with infected cows. Prospective studies of emerging pathogens could provide critical data that would inform public health planning and response to outbreaks. By using the location of 87-recorded outbreaks and publicly available bioclimatic data, we demonstrate one such approach. Using an ecological niche model (ENM) algorithm, we identify the environmental conditions under which VACV outbreaks have occurred, and determine additional locations in two affected countries that may be susceptible to transmission. Further, we show how suitability for the virus responds to different levels of various environmental factors and highlight the most important factors in determining its transmission.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Emerging and understudied pathogens often lack information that most commonly used analytical tools require ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as negative controls or baseline data ; thus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "new analytical strategies are needed to analyze transmission patterns and drivers of disease emergence .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Zoonotic infections with Vaccinia virus ( VACV ) were first reported in Brazil in 1999 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "VACV is an emerging zoonotic Orthopoxvirus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which primarily infects dairy cattle and farmers in close contact with infected cows .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Prospective studies of emerging pathogens could provide critical data that would inform public health planning and response to outbreaks .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "By using the location of 87-recorded outbreaks and publicly available bioclimatic data ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we demonstrate one such approach .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using an ecological niche model ( ENM ) algorithm ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we identify the environmental conditions under which VACV outbreaks have occurred ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and determine additional locations in two affected countries that may be susceptible to transmission .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Further , we show how suitability for the virus responds to different levels of various environmental factors and highlight the most important factors in determining its transmission .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Methods: A literature review was performed and the geospatial coordinates of 87 molecularly confirmed VACV outbreaks in Brazil were identified. An ENM was generated using MaxENT software by combining principal component analysis results of 19 bioclim spatial layers, and 25 randomly selected subsets of the original list of 87 outbreaks.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Methods : A literature review was performed and the geospatial coordinates of 87 molecularly confirmed VACV outbreaks in Brazil were identified .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "An ENM was generated using MaxENT software by combining principal component analysis results of 19 bioclim spatial layers ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and 25 randomly selected subsets of the original list of 87 outbreaks .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The final ENM predicted all areas where Brazilian outbreaks occurred, one out of five of the Colombian outbreak regions and identified new regions within Brazil that are suitable for transmission based on bioclimatic factors. Further, the most important factors in determining transmission suitability are precipitation of the wettest quarter, annual precipitation, mean temperature of the coldest quarter and mean diurnal range.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The final ENM predicted all areas where Brazilian outbreaks occurred ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "one out of five of the Colombian outbreak regions and identified new regions within Brazil that are suitable for transmission based on bioclimatic factors .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Further , the most important factors in determining transmission suitability are precipitation of the wettest quarter ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "annual precipitation , mean temperature of the coldest quarter and mean diurnal range .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The analyses here provide a means by which to study patterns of an emerging infectious disease and identify regions that are potentially suitable for its transmission, in spite of the paucity of high-quality critical data. Policy and methods for the control of infectious diseases often use a reactionary model, addressing diseases only after significant impact on human health has ensued. The methodology used in the present work allows the identification of areas where disease is likely to appear, which could be used for directed intervention.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The analyses here provide a means by which to study patterns of an emerging infectious disease and identify regions that are potentially suitable for its transmission ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "in spite of the paucity of high-quality critical data .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Policy and methods for the control of infectious diseases often use a reactionary model ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "addressing diseases only after significant impact on human health has ensued .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The methodology used in the present work allows the identification of areas where disease is likely to appear ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which could be used for directed intervention .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "13",
+    "segment_num": "26",
+    "token_num": "395"
+  }
+}

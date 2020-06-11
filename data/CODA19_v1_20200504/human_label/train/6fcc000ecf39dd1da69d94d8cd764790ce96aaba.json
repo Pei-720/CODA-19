@@ -1,0 +1,81 @@
+{
+  "paper_id": "6fcc000ecf39dd1da69d94d8cd764790ce96aaba",
+  "metadata": {
+    "title": "Vectors Expressing SAG1",
+    "coda_data_split": "train",
+    "coda_paper_id": 7041,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "The use of recombinant viral vectors expressing T. gondii antigens is a safe and efficient approach to induce immune response against the parasite and a valuable tool for vaccine development. We have previously protected mice from toxoplasmosis by immunizing the animals with an adenovirus expressing the protein SAG1 (AdSAG1) of T. gondii. We are now looking for ways to improve the vaccination strategy and enhance protection. One limitation of homologous vaccinations (sequential doses of the same vector) is induction of anti-vector immune response that blocks cell transduction, restricts transgene expression and, consequently, compromises the overall outcome of vaccination. One way to avert the effects of anti-vector response is to use different viruses in prime and boost (heterologous vaccination). Bearing this in mind, we generated a modified Vaccinia Virus Ankara encoding SAG1 (MVASAG1), to be tested as boost agent after prime with AdSAG1. Although minor differences were observed in the magnitude of the anti-SAG1 immune response induced by each vaccination protocol, the heterologous immunization with AdSAG1 followed by MVASAG1 resulted in improved capacity to control brain cyst formation in a model of chronic toxoplasmosis in C57BL/6 mice.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The use of recombinant viral vectors expressing T. gondii antigens is a safe and efficient approach to induce immune response against the parasite and a valuable tool for vaccine development .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We have previously protected mice from toxoplasmosis by immunizing the animals with an adenovirus expressing the protein SAG1 ( AdSAG1 ) of T. gondii .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We are now looking for ways to improve the vaccination strategy and enhance protection .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "One limitation of homologous vaccinations ( sequential doses of the same vector ) is induction of anti-vector immune response that blocks cell transduction ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "restricts transgene expression and , consequently ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "compromises the overall outcome of vaccination .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "One way to avert the effects of anti-vector response is to use different viruses in prime and boost ( heterologous vaccination ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Bearing this in mind , we generated a modified Vaccinia Virus Ankara encoding SAG1 ( MVASAG1 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "to be tested as boost agent after prime with AdSAG1 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although minor differences were observed in the magnitude of the anti-SAG1 immune response induced by each vaccination protocol ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the heterologous immunization with AdSAG1 followed by MVASAG1 resulted in improved capacity to control brain cyst formation in a model of chronic toxoplasmosis in C57BL/6 mice .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "11",
+    "token_num": "207"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "paper_id": "205488e6a8ecf6c250dd5cba59c356fdfbfe5f02",
+  "metadata": {
+    "title": "Delayed kinetics of poliovirus RNA synthesis in a human cell line with reduced levels of hnRNP C proteins",
+    "coda_data_split": "train",
+    "coda_paper_id": 4101,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The hnRNP C heterotetramer [(C1 3 )C2] binds RNA polymerase II transcripts in the nucleus, along with other proteins of the core hnRNP complex, and plays an important role in mRNA biogenesis and transport. Infection of HeLa cells with poliovirus causes hnRNP C to re-localize from the nucleus, where it is normally retained during interphase, to the cytoplasm. We have proposed that in the cytoplasm, the protein isoforms of hnRNP C participate in the recognition of viral specific RNAs by the poliovirus replication proteins and/or in the assembly of membrane-bound RNA replication complexes. In SK-OV-3 cells, which express reduced levels of hnRNP C compared to HeLa cells or 293 cells, the kinetics of poliovirus replication are delayed. hnRNP C is also re-localized from the nucleus to the cytoplasm in SK-OV-3 cells infected with poliovirus. Increased expression of hnRNP C in SK-OV-3 cells by transient transfection increases the rate of virus production and overall yield over that seen in mock-transfected cells. We propose that hnRNP C interacts with poliovirus RNA and replication proteins to increase the efficiency of viral genomic RNA synthesis.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The hnRNP C heterotetramer ( ( C1 3 ) C2 ) binds RNA polymerase II transcripts in the nucleus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "along with other proteins of the core hnRNP complex ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and plays an important role in mRNA biogenesis and transport .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Infection of HeLa cells with poliovirus causes hnRNP C to re-localize from the nucleus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "where it is normally retained during interphase , to the cytoplasm .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We have proposed that in the cytoplasm ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "the protein isoforms of hnRNP C participate in the recognition of viral specific RNAs by the poliovirus replication proteins and/or in the assembly of membrane-bound RNA replication complexes .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "In SK-OV-3 cells , which express reduced levels of hnRNP C compared to HeLa cells or 293 cells ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the kinetics of poliovirus replication are delayed .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "hnRNP C is also re-localized from the nucleus to the cytoplasm in SK-OV-3 cells infected with poliovirus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Increased expression of hnRNP C in SK-OV-3 cells by transient transfection increases the rate of virus production and overall yield over that seen in mock-transfected cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We propose that hnRNP C interacts with poliovirus RNA and replication proteins to increase the efficiency of viral genomic RNA synthesis .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "12",
+    "token_num": "199"
+  }
+}

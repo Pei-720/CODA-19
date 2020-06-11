@@ -1,0 +1,113 @@
+{
+  "paper_id": "f7b02969cbba5c043ee62b09248abd5c540e40e7",
+  "metadata": {
+    "title": "ISPRS Journal of Photogrammetry and Remote Sensing Relative space-based GIS data model to analyze the group dynamics of moving objects",
+    "coda_data_split": "train",
+    "coda_paper_id": 9982,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The relative motion of moving objects is an essential research topic in geographical information science (GIScience), which supports the innovation of geodatabases, spatial indexing, and geospatial services. This analysis is very popular in the domains of urban governance, transportation engineering, logistics and geospatial information services for individuals or industrials. Importantly, data models of moving objects are one of the most crucial approaches to support the analysis for dynamic relative motion between moving objects, even in the age of big data and cloud computing. Traditional geographic information systems (GIS) usually organize moving objects as point objects in absolute coordinated space. The derivation of relative motions among moving objects is not efficient because of the additional geo-computation of transformation between absolute space and relative space. Therefore, current GISs require an innovative approach to directly store, analyze and interpret the relative relationships of moving objects to support their efficient analysis. This paper proposes a relative space-based GIS data model of moving objects (RSMO) to construct, operate and analyze moving objects\u0027 relationships and introduces two algorithms (relationship querying and relative relationship dynamic pattern matching) to derive and analyze the dynamic relationships of moving objects. Three scenarios (epidemic spreading, tracker finding, and motion-trend derivation of nearby crowds) are implemented to demonstrate the feasibility of the proposed model. The experimental results indicates the execution times of the proposed model are approximately 5-50% those of the absolute GIS method for the same function of these three scenarios. It\u0027s better computational performance of the proposed model when analyzing the relative relationships of moving objects than the absolute methods in a famous commercial GIS software based on this experimental results. The proposed approach fills the gap of traditional GIS and shows promise for relative space-based geo-computation, analysis and service.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The relative motion of moving objects is an essential research topic in geographical information science ( GIScience ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which supports the innovation of geodatabases ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "spatial indexing , and geospatial services .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This analysis is very popular in the domains of urban governance ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "transportation engineering , logistics and geospatial information services for individuals or industrials .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Importantly , data models of moving objects are one of the most crucial approaches to support the analysis for dynamic relative motion between moving objects ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "even in the age of big data and cloud computing .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Traditional geographic information systems ( GIS ) usually organize moving objects as point objects in absolute coordinated space .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The derivation of relative motions among moving objects is not efficient because of the additional geo-computation of transformation between absolute space and relative space .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , current GISs require an innovative approach to directly store ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "analyze and interpret the relative relationships of moving objects to support their efficient analysis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This paper proposes a relative space-based GIS data model of moving objects ( RSMO ) to construct ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "operate and analyze moving objects \u0027 relationships and introduces two algorithms ( relationship querying and relative relationship dynamic pattern matching ) to derive and analyze the dynamic relationships of moving objects .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Three scenarios ( epidemic spreading , tracker finding , and motion-trend derivation of nearby crowds ) are implemented to demonstrate the feasibility of the proposed model .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The experimental results indicates the execution times of the proposed model are approximately 5-50 % those of the absolute GIS method for the same function of these three scenarios .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It \u0027s better computational performance of the proposed model when analyzing the relative relationships of moving objects than the absolute methods in a famous commercial GIS software based on this experimental results .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The proposed approach fills the gap of traditional GIS and shows promise for relative space-based geo-computation , analysis and service .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "11",
+    "segment_num": "17",
+    "token_num": "327"
+  }
+}

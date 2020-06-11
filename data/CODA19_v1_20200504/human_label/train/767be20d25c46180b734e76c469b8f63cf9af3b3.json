@@ -1,0 +1,101 @@
+{
+  "paper_id": "767be20d25c46180b734e76c469b8f63cf9af3b3",
+  "metadata": {
+    "title": "Predicting Infectious Disease Using Deep Learning and Big Data",
+    "coda_data_split": "train",
+    "coda_paper_id": 7993,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Infectious disease occurs when a person is infected by a pathogen from another person or an animal. It is a problem that causes harm at both individual and macro scales. The Korea Center for Disease Control (KCDC) operates a surveillance system to minimize infectious disease contagions. However, in this system, it is difficult to immediately act against infectious disease because of missing and delayed reports. Moreover, infectious disease trends are not known, which means prediction is not easy. This study predicts infectious diseases by optimizing the parameters of deep learning algorithms while considering big data including social media data. The performance of the deep neural network (DNN) and long-short term memory (LSTM) learning models were compared with the autoregressive integrated moving average (ARIMA) when predicting three infectious diseases one week into the future. The results show that the DNN and LSTM models perform better than ARIMA. When predicting chickenpox, the top-10 DNN and LSTM models improved average performance by 24% and 19%, respectively. The DNN model performed stably and the LSTM model was more accurate when infectious disease was spreading. We believe that this study\u0027s models can help eliminate reporting delays in existing surveillance systems and, therefore, minimize costs to society.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Infectious disease occurs when a person is infected by a pathogen from another person or an animal .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is a problem that causes harm at both individual and macro scales .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The Korea Center for Disease Control ( KCDC ) operates a surveillance system to minimize infectious disease contagions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , in this system ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "it is difficult to immediately act against infectious disease because of missing and delayed reports .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , infectious disease trends are not known ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which means prediction is not easy .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study predicts infectious diseases by optimizing the parameters of deep learning algorithms while considering big data including social media data .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The performance of the deep neural network ( DNN ) and long-short term memory ( LSTM ) learning models were compared with the autoregressive integrated moving average ( ARIMA ) when predicting three infectious diseases one week into the future .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results show that the DNN and LSTM models perform better than ARIMA .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "When predicting chickenpox , the top-10 DNN and LSTM models improved average performance by 24 % and 19 % , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The DNN model performed stably and the LSTM model was more accurate when infectious disease was spreading .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We believe that this study \u0027s models can help eliminate reporting delays in existing surveillance systems and ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "therefore , minimize costs to society .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "11",
+    "segment_num": "14",
+    "token_num": "231"
+  }
+}

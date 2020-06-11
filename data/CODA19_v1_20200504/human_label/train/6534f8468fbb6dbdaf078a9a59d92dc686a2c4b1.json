@@ -1,0 +1,208 @@
+{
+  "paper_id": "6534f8468fbb6dbdaf078a9a59d92dc686a2c4b1",
+  "metadata": {
+    "title": "A cell-based, quantitative and isoform-specific assay for exchange proteins directly activated by cAMP OPEN",
+    "coda_data_split": "train",
+    "coda_paper_id": 5697,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Extensive functional studies of the exchange protein directly activated by cAMP (EPAC) family of signaling molecules have demonstrated that EPAC proteins play a fundamental role in several physiological and pathophysiological responses, therefore are attractive drug targets. In this report, the development of a cell-based, medium to high throughput screening assay that is capable of monitoring EPAC-mediated activation of cellular Rap1 in an isoform-specific manner is described. This assay adapts a conventional ELISA format with immobilized RalGDS-RBD as a bait to selectively capture GTP-bound active Rap1. As a result, it fills an urgent need for a cell-based EPAC assay that can be conveniently performed using microtiter plates for the discovery and/or validation of isoform-specific EPAC agonists and antagonists.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Extensive functional studies of the exchange protein directly activated by cAMP ( EPAC ) family of signaling molecules have demonstrated that EPAC proteins play a fundamental role in several physiological and pathophysiological responses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "therefore are attractive drug targets .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this report , the development of a cell-based ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "medium to high throughput screening assay that is capable of monitoring EPAC-mediated activation of cellular Rap1 in an isoform-specific manner is described .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This assay adapts a conventional ELISA format with immobilized RalGDS-RBD as a bait to selectively capture GTP-bound active Rap1 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "As a result , it fills an urgent need for a cell-based EPAC assay that can be conveniently performed using microtiter plates for the discovery and/or validation of isoform-specific EPAC agonists and antagonists .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Exchange proteins directly activated by cAMP (EAPC1 and EPAC2) mediate the intracellular functions of cAMP by acting as guanine nucleotide exchange factors for the Ras-like small GTPases, Rap1 and Rap2 1, 2 . Extensive studies have demonstrated that EPAC proteins are important signaling molecules involved in modulating a myriad of physiological functions 3-5 , ranging from energy homeostasis 6-8 and insulin secretion 9, 10 to learning and memory 11, 12 . In addition, EPAC proteins have also been shown to act as major stress-response mediators and play key roles in the development of human diseases, such as cancer 13-16 , chronic pain 17-19 , cardiovascular diseases 20, 21 and infection 22, 23 . Therefore, developing small molecule EPAC-specific modulators has evolved into an active area of research within the field for the last few years [24] [25] [26] . Several recent studies have reported the effective development of EPAC-specific antagonists using high throughput screening (HTS) biochemical assays 27-29 . However, a robust cell-based assay equipped to measure the activity of EPAC proteins in a medium to high throughput setup is lacking. In this study, the design and execution of an isoform specific cell-based assay capable of measuring cellular activity of EPAC proteins in a microplate format are described.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Exchange proteins directly activated by cAMP ( EAPC1 and EPAC2 ) mediate the intracellular functions of cAMP by acting as guanine nucleotide exchange factors for the Ras-like small GTPases ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Rap1 and Rap2 1 , 2 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Extensive studies have demonstrated that EPAC proteins are important signaling molecules involved in modulating a myriad of physiological functions 3-5 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "ranging from energy homeostasis 6-8 and insulin secretion 9 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "10 to learning and memory 11 , 12 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , EPAC proteins have also been shown to act as major stress-response mediators and play key roles in the development of human diseases ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as cancer 13-16 , chronic pain 17-19 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "cardiovascular diseases 20 , 21 and infection 22 , 23 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , developing small molecule EPAC-specific modulators has evolved into an active area of research within the field for the last few years ( 24 ) ( 25 ) ( 26 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Several recent studies have reported the effective development of EPAC-specific antagonists using high throughput screening ( HTS ) biochemical assays 27-29 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , a robust cell-based assay equipped to measure the activity of EPAC proteins in a medium to high throughput setup is lacking .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , the design and execution of an isoform specific cell-based assay capable of measuring cellular activity of EPAC proteins in a microplate format are described .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Assay design. To develop a cell-based, isoform-specific EPAC activation assay, HEK293 cell lines stably expressing Flag-tagged Rap1A and full-length EPAC1 or EPAC2 are proposed. HEK293 cells express minimal endogenous levels of EPAC1 and EPAC2 and have been used as host cells for evaluating the cellular activities of ectopically expressed EPAC proteins in an isoform-specific manner 28 . Activation of EPAC1 or EPAC2 in these cell lines by cAMP elevating agents leads to the accumulation of Flag-Rap1-GTP, which can be captured by RalGDS-RBD immobilized in a nickel-coated 96-well microplate. The levels of active Flag-Rap1-GTP protein can be quantitatively monitored using a specific anti-FLAG antibody and a HRP conjugated secondary antibody in a manner similar to that of a conventional ELISA assay (Fig. 1) .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Assay design .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "To develop a cell-based , isoform-specific EPAC activation assay ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "HEK293 cell lines stably expressing Flag-tagged Rap1A and full-length EPAC1 or EPAC2 are proposed .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "HEK293 cells express minimal endogenous levels of EPAC1 and EPAC2 and have been used as host cells for evaluating the cellular activities of ectopically expressed EPAC proteins in an isoform-specific manner 28 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Activation of EPAC1 or EPAC2 in these cell lines by cAMP elevating agents leads to the accumulation of Flag-Rap1-GTP ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which can be captured by RalGDS-RBD immobilized in a nickel-coated 96-well microplate .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The levels of active Flag-Rap1-GTP protein can be quantitatively monitored using a specific anti-FLAG antibody and a HRP conjugated secondary antibody in a manner similar to that of a conventional ELISA assay ( Fig. 1 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Rap-GTP levels, which would decrease signal-to-noise ratio and dynamic range of our proposed assay. To optimize the assay, individual stable clones of HEK293/hEPAC1/Flag-Rap1 or HEK293/mEPAC2/ Flag-Rap1 were first established and tested for their basal Rap1-GTP activates. Overall, HEK293/mEPAC2/ Flag-Rap1 cells had higher basal Rap1-GTP activates than their hEPAC1 counterparts, and the basal activities varied within a range of 3-fold among different stable clones. Stable clones with lowest basal activity for HEK293/hEPAC1/ Flag-Rap1 or HEK293/mEPAC2/ Flag-Rap1 were selected, expanded and used for subsequent studies. After",
+      "sentences": [
+        [
+          {
+            "segment_text": "Rap-GTP levels , which would decrease signal-to-noise ratio and dynamic range of our proposed assay .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "To optimize the assay , individual stable clones of HEK293/hEPAC1/Flag-Rap 1 or HEK293/mEPAC2 / Flag-Rap1 were first established and tested for their basal Rap1-GTP activates .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Overall , HEK293/mEPAC2 / Flag-Rap1 cells had higher basal Rap1-GTP activates than their hEPAC1 counterparts ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the basal activities varied within a range of 3-fold among different stable clones .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Stable clones with lowest basal activity for HEK293/hEPAC1 / Flag-Rap1 or HEK293/mEPAC2 / Flag-Rap1 were selected ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "expanded and used for subsequent studies .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "After",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "21",
+    "segment_num": "32",
+    "token_num": "587"
+  }
+}

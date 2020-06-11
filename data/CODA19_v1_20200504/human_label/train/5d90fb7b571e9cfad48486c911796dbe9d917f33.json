@@ -1,0 +1,194 @@
+{
+  "paper_id": "5d90fb7b571e9cfad48486c911796dbe9d917f33",
+  "metadata": {
+    "title": "P133 RIG-I mediates recognition of Salmonella RNA in non-phagocytic cells and con- tributes to early bacterial replication in vivo P135 Defining the intracellular innate immune synapse",
+    "coda_data_split": "train",
+    "coda_paper_id": 6212,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Introduction. Cytosolic pattern recognition receptors (PRR) have been shown to detect nucleic acids from RNA and DNA viruses in order to launch a type I interferon mediated antiviral state [1]. Here we show that RNA of the facultative intracellular bacterium Salmonella typhimurium is a ligand for RIG-I, triggers production of type-I interferons and contributes to pathogenicity in vivo.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Introduction .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Cytosolic pattern recognition receptors ( PRR ) have been shown to detect nucleic acids from RNA and DNA viruses in order to launch a type I interferon mediated antiviral state ( 1 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we show that RNA of the facultative intracellular bacterium Salmonella typhimurium is a ligand for RIG-I ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "triggers production of type-I interferons and contributes to pathogenicity in vivo .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Methods. We use RIG-IÀ/À MEFs [2] or human epithelial cells depleted of RIG-I by lentiviral shRNA transduction for transfection and infection experiments. IFNbeta production was measured by 293T IFNbeta-reporter cells or qPCR. Intracellular bacterial titers were determined by gentamycin protection assay. In vivo infection experiments were performed as described [3] using SL1344 or SL1344 aroA deficient Salmonella strains in RIG-I+/+ and RIG-IÀ/À mice [4].",
+      "sentences": [
+        [
+          {
+            "segment_text": "Methods .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We use RIG-IÀ/À MEFs ( 2 ) or human epithelial cells depleted of RIG-I by lentiviral shRNA transduction for transfection and infection experiments .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "IFNbeta production was measured by 293T IFNbeta-reporter cells or qPCR .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Intracellular bacterial titers were determined by gentamycin protection assay .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In vivo infection experiments were performed as described ( 3 ) using SL1344 or SL1344 aroA deficient Salmonella strains in RIG-I + / + and RIG-IÀ/À mice ( 4 ) .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results. Infection of fibroblasts and epithelial cells with S. typhimurium, but not with non-invasive E. coli, triggers IFNbeta transcription, suggesting that intracellular replication is required. RIG-I dependent recognition of bacterial RNA is dominant in non-phagocytic cells, as shown in RIG-I knockout and knockdown model cells. Despite presence of other pathogen-associated patterns (PAMP), like LPS or flagellin, no IFNbeta was produced in fibroblasts and epithelial cells lacking RIG-I upon S. typhimurium infection. In contrast, in macrophages TLR dependent recognition of bacterial PAMPs through TRIF/Myd88 overcomes RIG-I deficiency and leads to robust induction of type I interferon. We observed higher bacterial titers at early time points after infection in the cecum of S. typhimurium infected RIG-IÀ/À mice, when compared to wild type animals. However, at later stages of infection, S. typhimurium overcomes the innate response leading to similar weight loss and mortality in wildtype and RIG-IÀ/À mice.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Infection of fibroblasts and epithelial cells with S. typhimurium ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but not with non-invasive E. coli ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "triggers IFNbeta transcription , suggesting that intracellular replication is required .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "RIG-I dependent recognition of bacterial RNA is dominant in non-phagocytic cells ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as shown in RIG-I knockout and knockdown model cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Despite presence of other pathogen-associated patterns ( PAMP ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "like LPS or flagellin , no IFNbeta was produced in fibroblasts and epithelial cells lacking RIG-I upon S. typhimurium infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In contrast , in macrophages TLR dependent recognition of bacterial PAMPs through TRIF/Myd88 overcomes RIG-I deficiency and leads to robust induction of type I interferon .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We observed higher bacterial titers at early time points after infection in the cecum of S. typhimurium infected RIG-IÀ/À mice ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "when compared to wild type animals .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , at later stages of infection ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "S. typhimurium overcomes the innate response leading to similar weight loss and mortality in wildtype and RIG-IÀ/À mice .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Conclusion. In summary, our data implicate a role of RIG-I mediated innate immune recognition of bacterial RNA in early control of bacterial replication, most likely mediated by non-phagocytic intestinal epithelial cells targeted by S. typhimurium.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Conclusion .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In summary , our data implicate a role of RIG-I mediated innate immune recognition of bacterial RNA in early control of bacterial replication ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "most likely mediated by non-phagocytic intestinal epithelial cells targeted by S. typhimurium .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Disclosure of interest: None declared.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Disclosure of interest : None declared .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Combined action of type I and type III IFN restricts initial replication of SARScoronavirus in the lung but fails to inhibit systemic virus spread",
+      "sentences": [
+        [
+          {
+            "segment_text": "Combined action of type I and type III IFN restricts initial replication of SARScoronavirus in the lung but fails to inhibit systemic virus spread",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "6",
+    "sentence_num": "19",
+    "segment_num": "27",
+    "token_num": "378"
+  }
+}

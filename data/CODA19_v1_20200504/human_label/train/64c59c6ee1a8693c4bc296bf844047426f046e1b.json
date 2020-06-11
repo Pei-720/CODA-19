@@ -1,0 +1,328 @@
+{
+  "paper_id": "64c59c6ee1a8693c4bc296bf844047426f046e1b",
+  "metadata": {
+    "title": "Activation of the Mitochondrial Apoptotic Signaling Platform during Rubella Virus Infection",
+    "coda_data_split": "train",
+    "coda_paper_id": 2788,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Mitochondria-as well as p53-based signaling pathways are central for the execution of the intrinsic apoptotic cascade. Their contribution to rubella virus (RV)-induced apoptosis was addressed through time-specific evaluation of characteristic parameters such as permeabilization of the mitochondrial membrane and subsequent release of the pro-apoptotic proteins apoptosis-inducing factor (AIF) and cytochrome c from mitochondria. Additionally, expression and localization pattern of p53 and selected members of the multifunctional and stress-inducible cyclophilin family were examined. The application of pifithrin µ as an inhibitor of p53 shuttling to mitochondria reduced RV-induced cell death to an extent similar to that of the broad spectrum caspase inhibitor z-VAD-fmk (benzyloxycarbonyl-V-A-D-(OMe)-fmk). However, RV progeny generation was not altered. This indicates that, despite an increased survival rate of its cellular host, induction of apoptosis neither supports nor restricts RV replication. Moreover, some of the examined apoptotic markers were affected in a strain-specific manner and differed between the cell culture-adapted strains: Therien and the HPV77 vaccine on the one hand, and a clinical isolate on the other. In summary, the results presented indicate that the transcription-independent mitochondrial p53 program contributes to RV-induced apoptosis.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Mitochondria-as well as p53-based signaling pathways are central for the execution of the intrinsic apoptotic cascade .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Their contribution to rubella virus ( RV ) - induced apoptosis was addressed through time-specific evaluation of characteristic parameters such as permeabilization of the mitochondrial membrane and subsequent release of the pro-apoptotic proteins apoptosis-inducing factor ( AIF ) and cytochrome c from mitochondria .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Additionally , expression and localization pattern of p53 and selected members of the multifunctional and stress-inducible cyclophilin family were examined .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The application of pifithrin µ as an inhibitor of p53 shuttling to mitochondria reduced RV-induced cell death to an extent similar to that of the broad spectrum caspase inhibitor z-VAD-fmk ( benzyloxycarbonyl-V-A-D - ( OMe ) - fmk ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , RV progeny generation was not altered .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This indicates that , despite an increased survival rate of its cellular host ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "induction of apoptosis neither supports nor restricts RV replication .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , some of the examined apoptotic markers were affected in a strain-specific manner and differed between the cell culture-adapted strains : Therien and the HPV77 vaccine on the one hand ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and a clinical isolate on the other .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In summary , the results presented indicate that the transcription-independent mitochondrial p53 program contributes to RV-induced apoptosis .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Viruses 2015, 7, 6108-6126 p53-independent [3, 4] as well as p53-dependent mechanisms [5] during RV-induced cell death are conflicting. Additionally, prolonged survival of RV-infected cells is ensured by the induction of the phosphatidylinositol 3 I -kinase (PI3K)/AKT survival pathway [6] and by anti-apoptotic activities of the viral C protein [7, 8] . These viral infection-promoting activities of the C protein involve its localization to mitochondria and its interaction with the pro-apoptotic protein B-cell lymphoma-2 (Bcl-2)-associated X protein (Bax) and the mitochondrial matrix protein p32 (gC1qR), [7, 9] . The p32 protein is required for viral replication [10] and for transport of mitochondria to viral replication complexes [11] . In addition to its interaction with mitochondrial proteins, RV infection has an impact on mitochondrial bioenergetic function [11, 12] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Viruses 2015 , 7 , 6108-6126 p53-independent ( 3 , 4 ) as well as p53-dependent mechanisms ( 5 ) during RV-induced cell death are conflicting .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Additionally , prolonged survival of RV-infected cells is ensured by the induction of the phosphatidylinositol 3 I - kinase ( PI3K ) / AKT survival pathway ( 6 ) and by anti-apoptotic activities of the viral C protein ( 7 , 8 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These viral infection-promoting activities of the C protein involve its localization to mitochondria and its interaction with the pro-apoptotic protein B-cell lymphoma-2 ( Bcl-2 ) - associated X protein ( Bax ) and the mitochondrial matrix protein p32 ( gC1qR ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "( 7 , 9 ) .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "The p32 protein is required for viral replication ( 10 ) and for transport of mitochondria to viral replication complexes ( 11 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition to its interaction with mitochondrial proteins ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "RV infection has an impact on mitochondrial bioenergetic function ( 11 , 12 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Due to the interdependency of apoptotic and metabolic pathways [13], the mitochondria-based signaling platform might contribute to RV-associated programmed cell death. The intrinsic mitochondrial apoptotic pathway can be induced by cytotoxic stress during ongoing viral replication and is usually accompanied by permeabilization of the inner (IMM) and/or outer (OMM) mitochondrial membrane. Mitochondrial permeabilization is characterized by formation of \"death decision pores\", such as ceramide lipid pores; the mitochondrial apoptosis-induced channel (MAC) formed in response to OMM permeabilization (MOMP); and the relatively large mitochondrial permeability transition pore (mPTP), which originates at the IMM [14] . MOMP and subsequently MAC formation can result from oligomerization of Bcl-2 family members such as Bax and Bcl-2 homologous antagonist killer (Bak). Through the formation of these death decision pores, mitochondrial function is lost and the apoptotic cascade is further fueled, as metabolites, small ions and apoptogenic factors such as cytochrome c (Cytc), Smac/Diablo, apoptosis-inducing factor (AIF) and/or endonuclease G (Endo G) are released. The coordination of these processes involves the tumor-suppressor protein p53, which executes its function through both a transcription-dependent (nuclear) and transcription-independent (mitochondrial) pathway. The former influences the mRNA level of pro-and anti-apoptotic factors and the latter involves direct regulation of protein functions at mitochondria, e.g., activation of the pro-apoptotic Bax and Bak proteins [15] . Additionally, p53 might also interact directly with mitochondria and induce MOMP by itself [16] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Due to the interdependency of apoptotic and metabolic pathways ( 13 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the mitochondria-based signaling platform might contribute to RV-associated programmed cell death .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The intrinsic mitochondrial apoptotic pathway can be induced by cytotoxic stress during ongoing viral replication and is usually accompanied by permeabilization of the inner ( IMM ) and/or outer ( OMM ) mitochondrial membrane .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Mitochondrial permeabilization is characterized by formation of `` death decision pores \u0027\u0027 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "such as ceramide lipid pores ; the mitochondrial apoptosis-induced channel ( MAC ) formed in response to OMM permeabilization ( MOMP ) ; and the relatively large mitochondrial permeability transition pore ( mPTP ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which originates at the IMM ( 14 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "MOMP and subsequently MAC formation can result from oligomerization of Bcl-2 family members such as Bax and Bcl-2 homologous antagonist killer ( Bak ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Through the formation of these death decision pores ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "mitochondrial function is lost and the apoptotic cascade is further fueled ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as metabolites , small ions and apoptogenic factors such as cytochrome c ( Cytc ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Smac/Diablo , apoptosis-inducing factor ( AIF ) and/or endonuclease G ( Endo G ) are released .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The coordination of these processes involves the tumor-suppressor protein p53 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which executes its function through both a transcription-dependent ( nuclear ) and transcription-independent ( mitochondrial ) pathway .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The former influences the mRNA level of pro-and anti-apoptotic factors and the latter involves direct regulation of protein functions at mitochondria ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "e.g. , activation of the pro-apoptotic Bax and Bak proteins ( 15 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Additionally , p53 might also interact directly with mitochondria and induce MOMP by itself ( 16 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The focus of the present study is set at disclosing the contribution of mitochondria (namely the mPTP and translocation of mitochondrial pro-apoptotic proteins), p53, and selected members of the stress-inducible cyclophilin family to RV-induced apoptosis. The multifunctional cyclophilins as proteins of the peptidyl-prolyl cis-trans isomerase (PPIase) family are highly conserved molecular chaperons that support protein folding and isomerization and thus participate in the cellular stress response [17] . To study the contribution of apoptosis-promoting parameters to RV-associated cellular aberrations, selected pharmacological compounds were applied to RV-infected cells. Presented data point to a contribution of mitochondrial translocation of p53, partial opening of the mPTP and nuclear shuttling of AIF and cyclophilin 40 (Cyp40) to RV-induced apoptosis, which occurs at least partly in a strain-specific manner.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The focus of the present study is set at disclosing the contribution of mitochondria ( namely the mPTP and translocation of mitochondrial pro-apoptotic proteins ) ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "p53 , and selected members of the stress-inducible cyclophilin family to RV-induced apoptosis .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The multifunctional cyclophilins as proteins of the peptidyl-prolyl cis-trans isomerase ( PPIase ) family are highly conserved molecular chaperons that support protein folding and isomerization and thus participate in the cellular stress response ( 17 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To study the contribution of apoptosis-promoting parameters to RV-associated cellular aberrations ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "selected pharmacological compounds were applied to RV-infected cells .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Presented data point to a contribution of mitochondrial translocation of p53 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "partial opening of the mPTP and nuclear shuttling of AIF and cyclophilin 40 ( Cyp40 ) to RV-induced apoptosis ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which occurs at least partly in a strain-specific manner .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Three specific pharmacological inhibitors were used to explore RV-induced apoptotic pathways. The pan caspase inhibitor z-VAD-fmk as an already-described inhibitor of RV-induced apoptosis [7, 18] was applied as a positive control to assess the effectiveness of N-methyl-4-isoleucine cyclosporine (NIM811) and pifithrin (PFT) µ.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Three specific pharmacological inhibitors were used to explore RV-induced apoptotic pathways .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The pan caspase inhibitor z-VAD-fmk as an already-described inhibitor of RV-induced apoptosis ( 7 , 18 ) was applied as a positive control to assess the effectiveness of N-methyl-4-isoleucine cyclosporine ( NIM811 ) and pifithrin ( PFT ) µ .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The cyclosporine A analog NIM811 is a non-immunosuppressive cyclophilin inhibitor.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The cyclosporine A analog NIM811 is a non-immunosuppressive cyclophilin inhibitor .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "PFTµ is an inhibitor of the mitochondrial translocation of p53, which reduces the binding affinity of p53 to B cell lymphoma-extra large (Bcl-xL) and acts upstream of Bax [19] . Time course experiments were performed to determine the optimal time point for addition of the respective inhibitor. As an indicator for RV-induced cell death, the number of detached cells (the floaters) in the supernatant can be determined [18] . Hence compound",
+      "sentences": [
+        [
+          {
+            "segment_text": "PFTµ is an inhibitor of the mitochondrial translocation of p53 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which reduces the binding affinity of p53 to B cell lymphoma-extra large ( Bcl-xL ) and acts upstream of Bax ( 19 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Time course experiments were performed to determine the optimal time point for addition of the respective inhibitor .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "As an indicator for RV-induced cell death ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the number of detached cells ( the floaters ) in the supernatant can be determined ( 18 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hence compound",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "8",
+    "sentence_num": "33",
+    "segment_num": "51",
+    "token_num": "945"
+  }
+}

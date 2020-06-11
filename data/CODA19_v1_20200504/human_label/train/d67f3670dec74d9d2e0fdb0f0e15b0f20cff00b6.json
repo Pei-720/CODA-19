@@ -1,0 +1,129 @@
+{
+  "paper_id": "d67f3670dec74d9d2e0fdb0f0e15b0f20cff00b6",
+  "metadata": {
+    "title": "Flagging and Docking: dual roles for N-glycans in protein quality control and cellular proteostasis NIH Public Access Author Manuscript N-glycans on ER-resident proteins: regulating ERAD and ERAD tuning",
+    "coda_data_split": "train",
+    "coda_paper_id": 3267,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Nascent polypeptides entering the endoplasmic reticulum (ER) are covalently modified with preassembled oligosaccharides. The terminal glucose and mannose residues are immediately removed after the transfer of the oligosaccharide onto newly synthesized polypeptides. This processing determines whether the polypeptide will be retained in the ER, transported along the secretory pathway, or dislocated across the ER membrane for destruction. Recently, new avenues of research and some issues of controversy have been opened by the discovery that lectinoligosaccharide interactions stabilize supramolecular complexes between regulators of ERassociated degradation (ERAD). In this Opinion, we propose a unified model that depicts carbohydrates acting both as flags signaling the fitness of a maturing protein, and as docking sites that regulate assembly and stability of the ERAD machinery.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Nascent polypeptides entering the endoplasmic reticulum ( ER ) are covalently modified with preassembled oligosaccharides .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The terminal glucose and mannose residues are immediately removed after the transfer of the oligosaccharide onto newly synthesized polypeptides .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This processing determines whether the polypeptide will be retained in the ER ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "transported along the secretory pathway ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "or dislocated across the ER membrane for destruction .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recently , new avenues of research and some issues of controversy have been opened by the discovery that lectinoligosaccharide interactions stabilize supramolecular complexes between regulators of ERassociated degradation ( ERAD ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this Opinion , we propose a unified model that depicts carbohydrates acting both as flags signaling the fitness of a maturing protein ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and as docking sites that regulate assembly and stability of the ERAD machinery .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Keywords secretory pathway; carbohydrates; endoplasmic reticulum",
+      "sentences": [
+        [
+          {
+            "segment_text": "Keywords secretory pathway ; carbohydrates ; endoplasmic reticulum",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Proteins that pass through the eukaryotic secretory pathway are glycosylated on Asn residues (at Asn-Xxx-Ser/Thr or more rarely Asn-Xxx-Cys, Asn-Xxx-Val, or Asn-Gly sequons) upon emergence into the ER 1 . Pre-assembled N-Acetylglucosamine 2 -Mannose 9 -Glucose 3 moieties are transferred en bloc from a lipid donor onto nascent polypeptide chains by the oligosaccharyltransferase complex. N-linked oligosaccharides are hydrophilic, therefore, they increase the solubility and inhibit the aggregation of unstructured nascent chains 2 . The processing of these added glycans determines the fate of the associated cargo protein by determining which folding, quality control or degradation factors will be engaged. These factors are present in the ER at delicately balanced and highly controlled concentrations. How N-glycan modifications retain immature or aberrant cargo proteins in the folding environment, control the incorporation of native glycoproteins into secretory",
+      "sentences": [
+        [
+          {
+            "segment_text": "Proteins that pass through the eukaryotic secretory pathway are glycosylated on Asn residues ( at Asn-Xxx-Ser/Thr or more rarely Asn-Xxx-Cys , Asn-Xxx-Val , or Asn-Gly sequons ) upon emergence into the ER 1 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Pre-assembled N-Acetylglucosamine 2 - Mannose 9 - Glucose 3 moieties are transferred en bloc from a lipid donor onto nascent polypeptide chains by the oligosaccharyltransferase complex .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "N-linked oligosaccharides are hydrophilic , therefore ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "they increase the solubility and inhibit the aggregation of unstructured nascent chains 2 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The processing of these added glycans determines the fate of the associated cargo protein by determining which folding ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "quality control or degradation factors will be engaged .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These factors are present in the ER at delicately balanced and highly controlled concentrations .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "How N-glycan modifications retain immature or aberrant cargo proteins in the folding environment ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "control the incorporation of native glycoproteins into secretory",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "12",
+    "segment_num": "18",
+    "token_num": "289"
+  }
+}

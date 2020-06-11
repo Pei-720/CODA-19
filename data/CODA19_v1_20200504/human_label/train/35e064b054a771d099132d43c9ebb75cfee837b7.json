@@ -1,0 +1,111 @@
+{
+  "paper_id": "35e064b054a771d099132d43c9ebb75cfee837b7",
+  "metadata": {
+    "title": "Ecological niche modeling of rabies in the changing Arctic of Alaska",
+    "coda_data_split": "train",
+    "coda_paper_id": 2124,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Rabies is a disease of global significance including in the circumpolar Arctic. In Alaska enzootic rabies persist in northern and western coastal areas. Only sporadic cases have occurred in areas outside of the regions considered enzootic for the virus, such as the interior of the state and urbanized regions.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Rabies is a disease of global significance including in the circumpolar Arctic .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In Alaska enzootic rabies persist in northern and western coastal areas .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Only sporadic cases have occurred in areas outside of the regions considered enzootic for the virus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as the interior of the state and urbanized regions .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Here we examine the distribution of diagnosed rabies cases in Alaska, explicit in space and time. We use a geographic information system (GIS), 20 environmental data layers and provide a quantitative non-parsimonious estimate of the predicted ecological niche, based on data mining, machine learning and open access data. We identify ecological correlates and possible drivers that determine the ecological niche of rabies virus in Alaska. More specifically, our models show that rabies cases are closely associated with human infrastructure, and reveal an ecological niche in remote northern wilderness areas. Furthermore a model utilizing climate modeling suggests a reduction of the current ecological niche for detection of rabies virus in Alaska, a state that is disproportionately affected by a changing climate.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Here we examine the distribution of diagnosed rabies cases in Alaska ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "explicit in space and time .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We use a geographic information system ( GIS ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "20 environmental data layers and provide a quantitative non-parsimonious estimate of the predicted ecological niche ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "based on data mining , machine learning and open access data .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We identify ecological correlates and possible drivers that determine the ecological niche of rabies virus in Alaska .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "More specifically , our models show that rabies cases are closely associated with human infrastructure ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and reveal an ecological niche in remote northern wilderness areas .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore a model utilizing climate modeling suggests a reduction of the current ecological niche for detection of rabies virus in Alaska ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a state that is disproportionately affected by a changing climate .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Our results may help to better inform public health decisions in the future and guide further studies on individual drivers of rabies distribution in the Arctic.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Our results may help to better inform public health decisions in the future and guide further studies on individual drivers of rabies distribution in the Arctic .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "9",
+    "segment_num": "15",
+    "token_num": "216"
+  }
+}

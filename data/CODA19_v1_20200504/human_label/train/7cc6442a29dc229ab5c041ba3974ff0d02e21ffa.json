@@ -1,0 +1,272 @@
+{
+  "paper_id": "7cc6442a29dc229ab5c041ba3974ff0d02e21ffa",
+  "metadata": {
+    "title": "High-Throughput Screening Identifies Inhibitors of the SARS Coronavirus Main Proteinase in the first step of the formation of the crucial replication- transcription complex. The activity of 3CL pro , so named for its similarity to 3C proteinases of Picornaviridae [14]",
+    "coda_data_split": "train",
+    "coda_paper_id": 5477,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "is an attractive target for the development of therapeutics against SARS due to its fundamental role in viral 1 McMaster High Throughput Screening Laboratory Department of Biochemistry replication. Homology modeling with other 3CL pro \u0027s [12, 15], X-ray crystallography [13], and a recent mutagene-McMaster University Hamilton, Ontario L8N 3Z5 sis study [16] have identified 3CL pro as a cysteine protease with a Cys-His catalytic dyad in the active site. Canada 2 Departments of Microbiology and Biochemistry Structure-based sequence alignments of pp1a and pp1ab of SARS-CoV with the equivalent polyproteins University of British Columbia Vancouver, British Columbia V6T 1Z3 from human coronavirus 229E (HCoV), porcine transmissible gastroenteritis virus (TGEV), bovine coronavirus Canada (BCoV), and avian infectious bronchitis virus (IBV) have identified the consensus sequence for proteolysis as (S, T, V, P, A)-(L, I, V, F, M)-Q/(A, S, G, N, C) [12]. In vitro Summary studies have confirmed the ability of 3CL pro to process sites of this type, and that the proteinase has the highest The causative agent of severe acute respiratory syndrome (SARS) has been identified as a novel coronavi-specificity for the cleavage sites flanking 3CL pro in the pp1a/pp1ab polyprotein [11, 17]. rus, SARS-CoV. The main proteinase of SARS-CoV, 3CL pro , is an attractive target for therapeutics against A structural model of 3CL pro based on sequence homology with TGEV [12] as well as the solved crystal SARS owing to its fundamental role in viral replication. We sought to identify novel inhibitors of 3CL pro to ad-structure [13] have both been used in a number of studies to dock substrate mimics [12, 13, 18] and for virtual vance the development of appropriate therapies in the treatment of SARS. 3CL pro was cloned, expressed, and screening of collections of synthetic compounds, natural products, and approved antiviral therapies to evalu-purified from the Tor2 isolate. A quenched fluorescence resonance energy transfer assay was devel-ate their ability to inhibit 3CL pro [15, 19-22]. Compounds identified as potential inhibitors of 3CL pro from these oped for 3CL pro to screen the proteinase against 50,000 drug-like small molecules on a fully automated sys-studies include the HIV-1 protease inhibitor L-700,417 [15], the reverse transcriptase inhibitors calanolide A tem. The primary screen identified 572 hits; through a series of virtual and experimental filters, this number and nevirapine [20], glycovir, an ␣-glucosidase inhibitor [20], sabadinine, a natural product [21], and the general was reduced to five novel small molecules that show potent inhibitory activity (IC 50 ϭ 0.5-7 M) toward antiviral ribavirin [20]",
+      "sentences": [
+        [
+          {
+            "segment_text": "is an attractive target for the development of therapeutics against SARS due to its fundamental role in viral 1 McMaster High Throughput Screening Laboratory Department of Biochemistry replication .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Homology modeling with other 3CL pro \u0027s ( 12 , 15 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "X-ray crystallography ( 13 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and a recent mutagene-McMaster University Hamilton ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Ontario L8N 3Z5 sis study ( 16 ) have identified 3CL pro as a cysteine protease with a Cys-His catalytic dyad in the active site .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Canada 2 Departments of Microbiology and Biochemistry Structure-based sequence alignments of pp1a and pp1ab of SARS-CoV with the equivalent polyproteins University of British Columbia Vancouver ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "British Columbia V6T 1Z3 from human coronavirus 229E ( HCoV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "porcine transmissible gastroenteritis virus ( TGEV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "bovine coronavirus Canada ( BCoV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and avian infectious bronchitis virus ( IBV ) have identified the consensus sequence for proteolysis as ( S , T , V , P , A ) - ( L , I , V , F , M ) - Q / ( A , S , G , N , C ) ( 12 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In vitro Summary studies have confirmed the ability of 3CL pro to process sites of this type ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and that the proteinase has the highest The causative agent of severe acute respiratory syndrome ( SARS ) has been identified as a novel coronavi-specificity for the cleavage sites flanking 3CL pro in the pp1a/pp1ab polyprotein ( 11 , 17 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "rus , SARS-CoV .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The main proteinase of SARS-CoV ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "3CL pro , is an attractive target for therapeutics against A structural model of 3CL pro based on sequence homology with TGEV ( 12 ) as well as the solved crystal SARS owing to its fundamental role in viral replication .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We sought to identify novel inhibitors of 3CL pro to ad-structure ( 13 ) have both been used in a number of studies to dock substrate mimics ( 12 , 13 , 18 ) and for virtual vance the development of appropriate therapies in the treatment of SARS .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "3CL pro was cloned , expressed ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and screening of collections of synthetic compounds ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "natural products , and approved antiviral therapies to evalu-purified from the Tor2 isolate .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A quenched fluorescence resonance energy transfer assay was devel-ate their ability to inhibit 3CL pro ( 15 , 19-22 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Compounds identified as potential inhibitors of 3CL pro from these oped for 3CL pro to screen the proteinase against 50,000 drug-like small molecules on a fully automated sys-studies include the HIV-1 protease inhibitor L-700,417 ( 15 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the reverse transcriptase inhibitors calanolide A tem .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The primary screen identified 572 hits ; through a series of virtual and experimental filters ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "this number and nevirapine ( 20 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "glycovir , an ␣ - glucosidase inhibitor ( 20 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "sabadinine , a natural product ( 21 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the general was reduced to five novel small molecules that show potent inhibitory activity ( IC 50 ϭ 0.5-7 M ) toward antiviral ribavirin ( 20 )",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": ". Ribavirin has been shown to exhibit anti-SARS-CoV activity in vitro, but at concentra-",
+      "sentences": [
+        [
+          {
+            "segment_text": ".",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Ribavirin has been shown to exhibit anti-SARS-CoV activity in vitro , but at concentra -",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "[3-7]. The reemergence ities. of SARS in the Guangdong province of China in Decem-Several in vitro screens have also been recently reber 2003 [8] and the spring of 2004 [9], while not necesported that have assessed the ability of existing proteinsarily indicative of another global outbreak, illustrates ase inhibitors to inhibit replication of SARS-CoV and, the need to continue efforts to study this virus and dein some cases, 3CL pro specifically. The HIV-1 protease velop appropriate therapeutics for its treatment. inhibitors indinavir, saquinavir, ritonavir, lopinavir, TYA5, SARS-CoV is an enveloped, positive-stranded RNA TYB5, and KNI-272 were shown to be ineffective at inhibvirus whose genome is predominated by two open readiting replication of SARS-CoV in vitro [23, 28]. Another ing frames that are connected by a ribosomal frameshift HIV-1 protease inhibitor, nelfinavir, was shown to inhibit site and that encode the two replicase proteins, pp1a SARS-CoV replication with an EC 50 of 48 nM [28], yet it and pp1ab [10, 11]. These polyproteins are cleaved by has also been reported that complete inhibition of viral the main proteinase 3CL pro [11] (also called M pro [12, 13]) replication was not seen with compound concentrations up to 10 M [23]. Another in vitro screen that similarly *Correspondence: ebrown@mcmaster.ca (E.D.B.); leltis@interchange. tested a library of 500 protease inhibitors resulted in ubc.ca (L.D.E.) 3 These authors contributed equally to this work.",
+      "sentences": [
+        [
+          {
+            "segment_text": "( 3-7 ) .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "The reemergence ities .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "of SARS in the Guangdong province of China in Decem-Several in vitro screens have also been recently reber 2003 ( 8 ) and the spring of 2004 ( 9 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "while not necesported that have assessed the ability of existing proteinsarily indicative of another global outbreak ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "illustrates ase inhibitors to inhibit replication of SARS-CoV and ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the need to continue efforts to study this virus and dein some cases , 3CL pro specifically .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The HIV-1 protease velop appropriate therapeutics for its treatment .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "inhibitors indinavir , saquinavir , ritonavir ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "lopinavir , TYA5 , SARS-CoV is an enveloped ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "positive-stranded RNA TYB5 , and KNI-272 were shown to be ineffective at inhibvirus whose genome is predominated by two open readiting replication of SARS-CoV in vitro ( 23 , 28 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Another ing frames that are connected by a ribosomal frameshift HIV-1 protease inhibitor ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "nelfinavir , was shown to inhibit site and that encode the two replicase proteins ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "pp1a SARS-CoV replication with an EC 50 of 48 nM ( 28 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "yet it and pp1ab ( 10 , 11 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These polyproteins are cleaved by has also been reported that complete inhibition of viral the main proteinase 3CL pro ( 11 ) ( also called M pro ( 12 , 13 ) ) replication was not seen with compound concentrations up to 10 M ( 23 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Another in vitro screen that similarly * Correspondence : ebrown@mcmaster.ca ( E.D.B. ) ; leltis@interchange .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "tested a library of 500 protease inhibitors resulted in ubc.ca ( L.D.E. ) 3 These authors contributed equally to this work .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "only one compound that inhibited 3CL pro ; this molecule",
+      "sentences": [
+        [
+          {
+            "segment_text": "only one compound that inhibited 3CL pro ; this molecule",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "23",
+    "segment_num": "47",
+    "token_num": "826"
+  }
+}

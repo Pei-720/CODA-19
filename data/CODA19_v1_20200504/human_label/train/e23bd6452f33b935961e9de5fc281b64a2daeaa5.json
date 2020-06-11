@@ -1,0 +1,319 @@
+{
+  "paper_id": "e23bd6452f33b935961e9de5fc281b64a2daeaa5",
+  "metadata": {
+    "title": "Coronaviruses: An Overview of Their Replication and Pathogenesis HHS Public Access",
+    "coda_data_split": "train",
+    "coda_paper_id": 5520,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Coronaviruses (CoVs), enveloped positive-sense RNA viruses, are characterized by club-like spikes that project from their surface, an unusually large RNA genome, and a unique replication strategy. Coronaviruses cause a variety of diseases in mammals and birds ranging from enteritis in cows and pigs and upper respiratory disease chickens to potentially lethal human respiratory infections. Here we provide a brief introduction to coronaviruses discussing their replication and pathogenicity, and current prevention and treatment strategies. We will also discuss the outbreaks of the highly pathogenic Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV) and the recently identified Middle Eastern Respiratory Syndrome Coronavirus (MERS-CoV).",
+      "sentences": [
+        [
+          {
+            "segment_text": "Coronaviruses ( CoVs ) , enveloped positive-sense RNA viruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "are characterized by club-like spikes that project from their surface ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "an unusually large RNA genome ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and a unique replication strategy .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Coronaviruses cause a variety of diseases in mammals and birds ranging from enteritis in cows and pigs and upper respiratory disease chickens to potentially lethal human respiratory infections .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we provide a brief introduction to coronaviruses discussing their replication and pathogenicity ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and current prevention and treatment strategies .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We will also discuss the outbreaks of the highly pathogenic Severe Acute Respiratory Syndrome Coronavirus ( SARS-CoV ) and the recently identified Middle Eastern Respiratory Syndrome Coronavirus ( MERS-CoV ) .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Coronaviruses (CoVs) are the largest group of viruses belonging to the Nidovirales order, which includes Coronaviridae, Arteriviridae, and Roniviridae families. The Coronavirinae comprise one of two subfamilies in the Coronaviridae family, with the other being the Torovirinae. The Coronavirinae are further subdivided into four groups, the alpha, beta, gamma and delta coronaviruses. The viruses were initially sorted into these groups based on serology but are now divided by phylogenetic clustering.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Coronaviruses ( CoVs ) are the largest group of viruses belonging to the Nidovirales order ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which includes Coronaviridae , Arteriviridae , and Roniviridae families .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The Coronavirinae comprise one of two subfamilies in the Coronaviridae family ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with the other being the Torovirinae .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The Coronavirinae are further subdivided into four groups ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the alpha , beta , gamma and delta coronaviruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The viruses were initially sorted into these groups based on serology but are now divided by phylogenetic clustering .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "All viruses in the Nidovirales order are enveloped, non-segmented positive-sense RNA viruses. They all contain very large genomes for RNA viruses, with Coronavirinae having the largest identified RNA genomes, containing approximately 30 kilobase (kb) genomes. Other common features within the Nidovirales order include: i) a highly conserved genomic organization, with a large replicase gene preceding structural and accessory genes; ii) expression of many nonstructural genes by ribosomal frameshifting; iii) several unique or unusual enzymatic activities encoded within the large replicase-transcriptase polyprotein; and iv) expression of downstream genes by synthesis of 3′ nested sub-genomic mRNAs. In fact, the Nidovirales order name is derived from these nested 3′ mRNAs as nido is Latin for \"nest\". The major differences within the Nidovirus families are in the number, type, and",
+      "sentences": [
+        [
+          {
+            "segment_text": "All viruses in the Nidovirales order are enveloped , non-segmented positive-sense RNA viruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "They all contain very large genomes for RNA viruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with Coronavirinae having the largest identified RNA genomes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "containing approximately 30 kilobase ( kb ) genomes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Other common features within the Nidovirales order include : i ) a highly conserved genomic organization ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with a large replicase gene preceding structural and accessory genes ; ii ) expression of many nonstructural genes by ribosomal frameshifting ; iii ) several unique or unusual enzymatic activities encoded within the large replicase-transcriptase polyprotein ; and iv ) expression of downstream genes by synthesis of 3 ′ nested sub-genomic mRNAs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In fact , the Nidovirales order name is derived from these nested 3 ′ mRNAs as nido is Latin for `` nest \u0027\u0027 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The major differences within the Nidovirus families are in the number , type , and",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Coronavirus virions are spherical with diameters of approximately 125 nm as depicted in recent studies by cryo-electron tomography and cryo-electron microscopy [2,3]. The most prominent feature of coronaviruses is the club-shape spike projections emanating from the surface of the virion. These spikes are a defining feature of the virion and give them the appearance of a solar corona, prompting the name, coronaviruses. Within the envelope of the virion is the nucleocapsid. Coronaviruses have helically symmetrical nucleocapsids, which is uncommon among positive-sense RNA viruses, but far more common for negativesense RNA viruses.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Coronavirus virions are spherical with diameters of approximately 125 nm as depicted in recent studies by cryo-electron tomography and cryo-electron microscopy ( 2,3 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The most prominent feature of coronaviruses is the club-shape spike projections emanating from the surface of the virion .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These spikes are a defining feature of the virion and give them the appearance of a solar corona ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "prompting the name , coronaviruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Within the envelope of the virion is the nucleocapsid .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Coronaviruses have helically symmetrical nucleocapsids ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which is uncommon among positive-sense RNA viruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but far more common for negativesense RNA viruses .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Coronavirus virus particles contain four main structural proteins. These are the spike (S), membrane (M), envelope (E), and nucleocapsid (N) proteins, all of which are encoded within the 3′ end of the viral genome. The S protein (∼150 kDa), utilizes an N-terminal signal sequence to gain access to the ER, and is heavily N-linked glycosylated. Homotrimers of the virus encoded S protein make up the distinctive spike structure on the surface of the virus [4, 5] . The trimeric S glycoprotein is a class I fusion protein [6] and mediates attachment to the host receptor [7] . In most, but not all, coronaviruses, S is cleaved by a host cell furin-like protease into two separate polypeptides noted S1 and S2 [8, 9] . S1 makes up the large receptor-binding domain of the S protein while S2 forms the stalk of the spike molecule [10] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Coronavirus virus particles contain four main structural proteins .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These are the spike ( S ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "membrane ( M ) , envelope ( E ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and nucleocapsid ( N ) proteins ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "all of which are encoded within the 3 ′ end of the viral genome .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The S protein ( ∼ 150 kDa ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "utilizes an N-terminal signal sequence to gain access to the ER ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and is heavily N-linked glycosylated .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Homotrimers of the virus encoded S protein make up the distinctive spike structure on the surface of the virus ( 4 , 5 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The trimeric S glycoprotein is a class I fusion protein ( 6 ) and mediates attachment to the host receptor ( 7 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In most , but not all ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "coronaviruses , S is cleaved by a host cell furin-like protease into two separate polypeptides noted S1 and S2 ( 8 , 9 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "S1 makes up the large receptor-binding domain of the S protein while S2 forms the stalk of the spike molecule ( 10 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The M protein is the most abundant structural protein in the virion. It is a small (∼25-30 kDa) protein with 3 transmembrane domains [11] and is thought to give the virion its shape. It has a small N-terminal glycosylated ectodomain and a much larger C-terminal Fehr and Perlman",
+      "sentences": [
+        [
+          {
+            "segment_text": "The M protein is the most abundant structural protein in the virion .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is a small ( ∼ 25-30 kDa ) protein with 3 transmembrane domains ( 11 ) and is thought to give the virion its shape .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It has a small N-terminal glycosylated ectodomain and a much larger C-terminal Fehr and Perlman",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The initial attachment of the virion to the host cell is initiated by interactions between the S protein and its receptor. The sites of receptor binding domains (RBD) within the S1 region of a coronavirus S protein vary depending on the virus, with some having the RBD at the Nterminus of S1 (MHV) while others (SARS-CoV) have the RBD at the C-terminus of S1 [29, 30] . The S-protein/receptor interaction is the primary determinant for a coronavirus to Fehr and Perlman ",
+      "sentences": [
+        [
+          {
+            "segment_text": "The initial attachment of the virion to the host cell is initiated by interactions between the S protein and its receptor .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The sites of receptor binding domains ( RBD ) within the S1 region of a coronavirus S protein vary depending on the virus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with some having the RBD at the Nterminus of S1 ( MHV ) while others ( SARS-CoV ) have the RBD at the C-terminus of S1 ( 29 , 30 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The S-protein/receptor interaction is the primary determinant for a coronavirus to Fehr and Perlman",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "7",
+    "sentence_num": "31",
+    "segment_num": "51",
+    "token_num": "778"
+  }
+}

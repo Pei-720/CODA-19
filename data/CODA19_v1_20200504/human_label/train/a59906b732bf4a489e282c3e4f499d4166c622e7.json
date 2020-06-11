@@ -1,0 +1,224 @@
+{
+  "paper_id": "a59906b732bf4a489e282c3e4f499d4166c622e7",
+  "metadata": {
+    "title": "Evaluating performance of metagenomic characterization algorithms using in silico datasets generated with FASTQSim",
+    "coda_data_split": "train",
+    "coda_paper_id": 7706,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Background 3",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background 3",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In silico bacterial, viral, and human truth datasets were generated to evaluate available metagenomics 4 algorithms. Sequenced datasets include background organisms, creating ambiguity in the true 5 source organism for each read. Bacterial and viral datasets were created with even and staggered 6 coverage to evaluate organism identification, read mapping, and gene identification capabilities of 7 available algorithms. These truth datasets are provided as a resource for the development and 8 refinement of metagenomic algorithms. Algorithm performance on these truth datasets can inform 9 decision makers on strengths and weaknesses of available algorithms and how the results may be best 10 leveraged for bacterial and viral organism identification and characterization. 11 12",
+      "sentences": [
+        [
+          {
+            "segment_text": "In silico bacterial , viral ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and human truth datasets were generated to evaluate available metagenomics 4 algorithms .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Sequenced datasets include background organisms ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "creating ambiguity in the true 5 source organism for each read .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Bacterial and viral datasets were created with even and staggered 6 coverage to evaluate organism identification ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "read mapping , and gene identification capabilities of 7 available algorithms .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These truth datasets are provided as a resource for the development and 8 refinement of metagenomic algorithms .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Algorithm performance on these truth datasets can inform 9 decision makers on strengths and weaknesses of available algorithms and how the results may be best 10 leveraged for bacterial and viral organism identification and characterization .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "11 12",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Source organisms were selected to mirror communities described in the Human Microbiome Project as 13 well as the emerging pathogens listed by the National Institute of Allergy and Infectious Diseases. The 14 six in silico datasets were used to evaluate the performance of six leading metagenomics algorithms: 15",
+      "sentences": [
+        [
+          {
+            "segment_text": "Source organisms were selected to mirror communities described in the Human Microbiome Project as 13 well as the emerging pathogens listed by the National Institute of Allergy and Infectious Diseases .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The 14 six in silico datasets were used to evaluate the performance of six leading metagenomics algorithms : 15",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "MetaScope, Kraken, LMAT, MetaPhlAn, MetaCV, and MetaPhyler. 16",
+      "sentences": [
+        [
+          {
+            "segment_text": "MetaScope , Kraken , LMAT ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "MetaPhlAn , MetaCV , and MetaPhyler .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "16",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Algorithms were evaluated on runtime, true positive organisms identified to the genus and species 19 levels, false positive organisms identified to genus and species level, read mapping, relative abundance 20 estimation, and gene calling. No algorithm out performed the others in all categories, and the 21 algorithm or algorithms of choice strongly depends on analysis goals. MetaPhlAn excels for bacteria 22",
+      "sentences": [
+        [
+          {
+            "segment_text": "Algorithms were evaluated on runtime ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "true positive organisms identified to the genus and species 19 levels ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "false positive organisms identified to genus and species level ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "read mapping , relative abundance 20 estimation , and gene calling .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "No algorithm out performed the others in all categories ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the 21 algorithm or algorithms of choice strongly depends on analysis goals .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "MetaPhlAn excels for bacteria 22",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "and LMAT for viruses. The algorithms were ranked by overall performance using a normalized 23 weighted sum of the above metrics, and MetaScope emerged as the overall winner, followed by Kraken 24 and LMAT. 25",
+      "sentences": [
+        [
+          {
+            "segment_text": "and LMAT for viruses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The algorithms were ranked by overall performance using a normalized 23 weighted sum of the above metrics ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and MetaScope emerged as the overall winner ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "followed by Kraken 24 and LMAT .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "25",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Conclusions 27 Simulated FASTQ datasets with well--characterized truth data about microbial community composition 28 reveal numerous insights about the relative strengths and weaknesses of the metagenomics algorithms 29 evaluated. The simulated datasets are available to download from the Sequence Read Archive 30 (SRP062063). 31 32",
+      "sentences": [
+        [
+          {
+            "segment_text": "Conclusions 27 Simulated FASTQ datasets with well -- characterized truth data about microbial community composition 28 reveal numerous insights about the relative strengths and weaknesses of the metagenomics algorithms 29 evaluated .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The simulated datasets are available to download from the Sequence Read Archive 30 ( SRP062063 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "31 32",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "8",
+    "sentence_num": "21",
+    "segment_num": "31",
+    "token_num": "348"
+  }
+}

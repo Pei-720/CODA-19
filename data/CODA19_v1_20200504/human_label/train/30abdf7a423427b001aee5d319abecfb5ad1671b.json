@@ -1,0 +1,407 @@
+{
+  "paper_id": "30abdf7a423427b001aee5d319abecfb5ad1671b",
+  "metadata": {
+    "title": "Human Coronaviruses: A Review of Virus-Host Interactions",
+    "coda_data_split": "train",
+    "coda_paper_id": 10446,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Human coronaviruses (HCoVs) are known respiratory pathogens associated with a range of respiratory outcomes. In the past 14 years, the onset of severe acute respiratory syndrome coronavirus (SARS-CoV) and Middle East respiratory syndrome coronavirus (MERS-CoV) have thrust HCoVs into spotlight of the research community due to their high pathogenicity in humans. The study of HCoV-host interactions has contributed extensively to our understanding of HCoV pathogenesis. In this review, we discuss some of the recent findings of host cell factors that might be exploited by HCoVs to facilitate their own replication cycle. We also discuss various cellular processes, such as apoptosis, innate immunity, ER stress response, mitogen-activated protein kinase (MAPK) pathway and nuclear factor kappa B (NF-κB) pathway that may be modulated by HCoVs.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Human coronaviruses ( HCoVs ) are known respiratory pathogens associated with a range of respiratory outcomes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the past 14 years ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the onset of severe acute respiratory syndrome coronavirus ( SARS-CoV ) and Middle East respiratory syndrome coronavirus ( MERS-CoV ) have thrust HCoVs into spotlight of the research community due to their high pathogenicity in humans .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The study of HCoV-host interactions has contributed extensively to our understanding of HCoV pathogenesis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this review , we discuss some of the recent findings of host cell factors that might be exploited by HCoVs to facilitate their own replication cycle .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also discuss various cellular processes ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "such as apoptosis , innate immunity ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "ER stress response , mitogen-activated protein kinase ( MAPK ) pathway and nuclear factor kappa B ( NF-κB ) pathway that may be modulated by HCoVs .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Diseases 2016, 4, 26 2 of 28 but with a much higher mortality rate of about 35% [17] . Unlike SARS-CoV, which exhibits super-spreader events, transmission of MERS-CoV is geographically limited [12] . In fact, reported cases of MERS-CoV often stem from outbreaks within the Middle Eastern countries or recent travel to the region [18, 19] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Diseases 2016 , 4 , 26 2 of 28 but with a much higher mortality rate of about 35 % ( 17 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Unlike SARS-CoV , which exhibits super-spreader events ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "transmission of MERS-CoV is geographically limited ( 12 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In fact , reported cases of MERS-CoV often stem from outbreaks within the Middle Eastern countries or recent travel to the region ( 18 , 19 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "CoVs are a group of large enveloped RNA viruses under the Coronaviridae family. Together with Artierivirdae and Roniviridae, Coronaviridae is classified under the Nidovirale order [20] . As proposed by the International Committee for Taxonomy of Viruses, CoVs are further categorized into four main genera, Alpha-, Beta-, Gammaand Deltacoronaviruses based on sequence comparisons of entire viral genomes [21, 22] . These CoVs can infect a wide variety of hosts, including avian, swine and humans. HCoVs are identified to be either in the Alphaor Betacoronavirus genera, including Alphacoronaviruses, HCoV-229E and HCoV-NL63, and Betacoronaviruses, HCoV-HKU1, SARS-CoV, MERS-CoV and HCoV-OC43 (Table 1) .",
+      "sentences": [
+        [
+          {
+            "segment_text": "CoVs are a group of large enveloped RNA viruses under the Coronaviridae family .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Together with Artierivirdae and Roniviridae ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Coronaviridae is classified under the Nidovirale order ( 20 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As proposed by the International Committee for Taxonomy of Viruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "CoVs are further categorized into four main genera ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Alpha - , Beta - ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Gammaand Deltacoronaviruses based on sequence comparisons of entire viral genomes ( 21 , 22 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These CoVs can infect a wide variety of hosts ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including avian , swine and humans .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "HCoVs are identified to be either in the Alphaor Betacoronavirus genera ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including Alphacoronaviruses , HCoV-229E and HCoV-NL63 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and Betacoronaviruses , HCoV-HKU1 , SARS-CoV ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "MERS-CoV and HCoV-OC43 ( Table 1 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Under the electron microscope, the CoV virions appear to be roughly spherical or moderately pleomorphic, with distinct \"club-like\" projections formed by the spike (S) protein [23, 24] . Within the virion interior lies a helically symmetrical nucleocapsid that encloses a single-stranded and positive sense RNA viral genome of an extraordinarily large size of about 26 to 32 kilobases [20] . The positive sense viral genomic RNA acts as a messenger RNA (mRNA), comprising a 5 1 terminal cap structure and a 3 1 poly A tail. This genomic RNA acts in three capacities during the viral life cycle: (1) as an initial RNA of the infectious cycle; (2) as a template for replication and transcription; and (3) as a substrate for packaging into the progeny virus. The replicase-transcriptase is the only protein translated from the genome, while the viral products of all downstream open reading frames are derived from subgenomic mRNAs. In all CoVs, the replicase gene makes up approximately 5 1 two-thirds of the genome and is comprised of two overlapping open reading frames (ORFs), ORF1a and ORF1b, which encodes 16 non-structural proteins. The final one-third of the CoV genomic RNA encodes CoV canonical set of four structural protein genes, in the order of spike (S), envelope (E), membrane (M) and nucleocapsid (N). In addition, several accessory ORFs are also interspersed along the structural protein genes and the number and location varies among CoV species [25] (Figure 1).",
+      "sentences": [
+        [
+          {
+            "segment_text": "Under the electron microscope , the CoV virions appear to be roughly spherical or moderately pleomorphic ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with distinct `` club-like \u0027\u0027 projections formed by the spike ( S ) protein ( 23 , 24 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Within the virion interior lies a helically symmetrical nucleocapsid that encloses a single-stranded and positive sense RNA viral genome of an extraordinarily large size of about 26 to 32 kilobases ( 20 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The positive sense viral genomic RNA acts as a messenger RNA ( mRNA ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "comprising a 5 1 terminal cap structure and a 3 1 poly A tail .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This genomic RNA acts in three capacities during the viral life cycle : ( 1 ) as an initial RNA of the infectious cycle ; ( 2 ) as a template for replication and transcription ; and ( 3 ) as a substrate for packaging into the progeny virus .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The replicase-transcriptase is the only protein translated from the genome ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "while the viral products of all downstream open reading frames are derived from subgenomic mRNAs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In all CoVs , the replicase gene makes up approximately 5 1 two-thirds of the genome and is comprised of two overlapping open reading frames ( ORFs ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "ORF1a and ORF1b , which encodes 16 non-structural proteins .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The final one-third of the CoV genomic RNA encodes CoV canonical set of four structural protein genes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "in the order of spike ( S ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "envelope ( E ) , membrane ( M ) and nucleocapsid ( N ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , several accessory ORFs are also interspersed along the structural protein genes and the number and location varies among CoV species ( 25 ) ( Figure 1 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Diseases 2016, 4, 26 2 of 27 SARS-CoV but with a much higher mortality rate of about 35% [17]. Unlike SARS-CoV, which exhibits super-spreader events, transmission of MERS-CoV is geographically limited [12]. In fact, reported cases of MERS-CoV often stem from outbreaks within the Middle Eastern countries or recent travel to the region [18,19].",
+      "sentences": [
+        [
+          {
+            "segment_text": "Diseases 2016 , 4 , 26 2 of 27 SARS-CoV but with a much higher mortality rate of about 35 % ( 17 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Unlike SARS-CoV , which exhibits super-spreader events ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "transmission of MERS-CoV is geographically limited ( 12 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In fact , reported cases of MERS-CoV often stem from outbreaks within the Middle Eastern countries or recent travel to the region ( 18,19 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "CoVs are a group of large enveloped RNA viruses under the Coronaviridae family. Together with Artierivirdae and Roniviridae, Coronaviridae is classified under the Nidovirale order [20] . As proposed by the International Committee for Taxonomy of Viruses, CoVs are further categorized into four main genera, Alpha-, Beta-, Gamma-and Deltacoronaviruses based on sequence comparisons of entire viral genomes [21, 22] . These CoVs can infect a wide variety of hosts, including avian, swine and humans. HCoVs are identified to be either in the Alpha-or Betacoronavirus genera, including Alphacoronaviruses, HCoV-229E and HCoV-NL63, and Betacoronaviruses, HCoV-HKU1, SARS-CoV, MERS-CoV and HCoV-OC43 (Table 1) .",
+      "sentences": [
+        [
+          {
+            "segment_text": "CoVs are a group of large enveloped RNA viruses under the Coronaviridae family .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Together with Artierivirdae and Roniviridae ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Coronaviridae is classified under the Nidovirale order ( 20 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As proposed by the International Committee for Taxonomy of Viruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "CoVs are further categorized into four main genera ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Alpha - , Beta - ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Gamma-and Deltacoronaviruses based on sequence comparisons of entire viral genomes ( 21 , 22 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These CoVs can infect a wide variety of hosts ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including avian , swine and humans .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "HCoVs are identified to be either in the Alpha-or Betacoronavirus genera ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including Alphacoronaviruses , HCoV-229E and HCoV-NL63 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and Betacoronaviruses , HCoV-HKU1 , SARS-CoV ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "MERS-CoV and HCoV-OC43 ( Table 1 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Under the electron microscope, the CoV virions appear to be roughly spherical or moderately pleomorphic, with distinct \"club-like\" projections formed by the spike (S) protein [23, 24] . Within the virion interior lies a helically symmetrical nucleocapsid that encloses a single-stranded and positive sense RNA viral genome of an extraordinarily large size of about 26 to 32 kilobases [20] . The positive sense viral genomic RNA acts as a messenger RNA (mRNA), comprising a 5′ terminal cap structure and a 3′ poly A tail. This genomic RNA acts in three capacities during the viral life cycle: (1) as an initial RNA of the infectious cycle; (2) as a template for replication and transcription; and (3) as a substrate for packaging into the progeny virus. The replicase-transcriptase is the only protein translated from the genome, while the viral products of all downstream open reading frames are derived from subgenomic mRNAs. In all CoVs, the replicase gene makes up approximately 5′ twothirds of the genome and is comprised of two overlapping open reading frames (ORFs), ORF1a and ORF1b, which encodes 16 non-structural proteins. The final one-third of the CoV genomic RNA encodes CoV canonical set of four structural protein genes, in the order of spike (S), envelope (E), membrane (M) and nucleocapsid (N). In addition, several accessory ORFs are also interspersed along the structural protein genes and the number and location varies among CoV species [25] (Figure 1 ).",
+      "sentences": [
+        [
+          {
+            "segment_text": "Under the electron microscope , the CoV virions appear to be roughly spherical or moderately pleomorphic ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with distinct `` club-like \u0027\u0027 projections formed by the spike ( S ) protein ( 23 , 24 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Within the virion interior lies a helically symmetrical nucleocapsid that encloses a single-stranded and positive sense RNA viral genome of an extraordinarily large size of about 26 to 32 kilobases ( 20 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The positive sense viral genomic RNA acts as a messenger RNA ( mRNA ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "comprising a 5 ′ terminal cap structure and a 3 ′ poly A tail .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This genomic RNA acts in three capacities during the viral life cycle : ( 1 ) as an initial RNA of the infectious cycle ; ( 2 ) as a template for replication and transcription ; and ( 3 ) as a substrate for packaging into the progeny virus .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The replicase-transcriptase is the only protein translated from the genome ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "while the viral products of all downstream open reading frames are derived from subgenomic mRNAs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In all CoVs , the replicase gene makes up approximately 5 ′ twothirds of the genome and is comprised of two overlapping open reading frames ( ORFs ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "ORF1a and ORF1b , which encodes 16 non-structural proteins .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The final one-third of the CoV genomic RNA encodes CoV canonical set of four structural protein genes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "in the order of spike ( S ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "envelope ( E ) , membrane ( M ) and nucleocapsid ( N ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , several accessory ORFs are also interspersed along the structural protein genes and the number and location varies among CoV species ( 25 ) ( Figure 1 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "7",
+    "sentence_num": "37",
+    "segment_num": "70",
+    "token_num": "1111"
+  }
+}

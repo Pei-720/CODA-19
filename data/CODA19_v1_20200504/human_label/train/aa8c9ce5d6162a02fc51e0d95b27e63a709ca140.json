@@ -1,0 +1,147 @@
+{
+  "paper_id": "aa8c9ce5d6162a02fc51e0d95b27e63a709ca140",
+  "metadata": {
+    "title": "Alveolar Macrophage Dysfunction and Increased PD-1 Expression During Chronic SIV Infection of Rhesus Macaques",
+    "coda_data_split": "train",
+    "coda_paper_id": 10074,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "HIV infected individuals have been shown to be pre-disposed to pulmonary infections even while receiving anti-retroviral therapy. Alveolar macrophages (AMs) play a critical role in lung innate immunity, but contradictory results have been reported regarding their functionality following HIV infection. Here, using the SIV rhesus macaque model, we document the effect of SIV infection on the phenotypic and functional properties of AMs. Following infection with SIV mac251 , AMs in bronchoalveolar lavage (BAL) sampled over 2-to 20-weeks post-infection (wpi) were compared to those in BAL samples from naïve macaques. AM expression of proinflammatory cytokines TNF-α, IL-6, IL-1β, and chemokine RANTES drastically increased 2-wpi compared to AMs of naïve macaques (p \u003c 0.0001 for all), but dropped significantly with progression to chronic infection. Phagocytic activity of AMs 2-and 4-wpi was elevated compared to AMs of naive animals (p \u003d 0.0005, p \u003d 0.0004, respectively) but significantly decreased by 12-wpi (p \u003d 0.0022, p \u003d 0.0019, respectively). By 20-wpi the ability of AMs from chronically infected animals to perform SIV-specific antibody-dependent phagocytosis (ADP) was also diminished (p \u003d 0.028). Acute SIV infection was associated with increased FcγRIII expression which subsequently declined with disease progression. Frequency of FcγRIII + AMs showed a strong trend toward correlation with SIV-specific ADP, and at 2-wpi FcγRIII expression negatively correlated with viral load (r \u003d −0.6819; p \u003d 0.0013), suggesting a contribution to viremia control. Importantly, PD-1 was found to be expressed on AMs and showed a strong trend toward correlation with plasma viral load (r \u003d 0.8266; p \u003d 0.058), indicating that similar to over-expression on T-cells, PD-1 expression on AMs may also be associated with disease progression. Further, AMs predominantly expressed PD-L2, which remained consistent over the course of infection. PD-1 blockade enhanced SIV-specific ADP by AMs from chronic infection indicating that the PD-1/PD-L2 pathway may modulate functional activity of AMs at that stage. These findings provide new insight into the dynamics of SIV infection leading to AM dysfunction and alteration of pulmonary innate immunity. Our results suggest new pathways to exploit in developing therapies targeting pulmonary disease susceptibility in HIV-infected individuals.",
+      "sentences": [
+        [
+          {
+            "segment_text": "HIV infected individuals have been shown to be pre-disposed to pulmonary infections even while receiving anti-retroviral therapy .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Alveolar macrophages ( AMs ) play a critical role in lung innate immunity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but contradictory results have been reported regarding their functionality following HIV infection .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , using the SIV rhesus macaque model ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we document the effect of SIV infection on the phenotypic and functional properties of AMs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Following infection with SIV mac251 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "AMs in bronchoalveolar lavage ( BAL ) sampled over 2-to 20-weeks post-infection ( wpi ) were compared to those in BAL samples from naïve macaques .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "AM expression of proinflammatory cytokines TNF-α ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "IL-6 , IL-1β , and chemokine RANTES drastically increased 2-wpi compared to AMs of naïve macaques ( p \u003c 0.0001 for all ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but dropped significantly with progression to chronic infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Phagocytic activity of AMs 2-and 4-wpi was elevated compared to AMs of naive animals ( p \u003d 0.0005 , p \u003d 0.0004 , respectively ) but significantly decreased by 12-wpi ( p \u003d 0.0022 , p \u003d 0.0019 , respectively ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "By 20-wpi the ability of AMs from chronically infected animals to perform SIV-specific antibody-dependent phagocytosis ( ADP ) was also diminished ( p \u003d 0.028 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Acute SIV infection was associated with increased FcγRIII expression which subsequently declined with disease progression .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Frequency of FcγRIII + AMs showed a strong trend toward correlation with SIV-specific ADP ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and at 2-wpi FcγRIII expression negatively correlated with viral load ( r \u003d − 0.6819 ; p \u003d 0.0013 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "suggesting a contribution to viremia control .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Importantly , PD-1 was found to be expressed on AMs and showed a strong trend toward correlation with plasma viral load ( r \u003d 0.8266 ; p \u003d 0.058 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "indicating that similar to over-expression on T-cells ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "PD-1 expression on AMs may also be associated with disease progression .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Further , AMs predominantly expressed PD-L2 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which remained consistent over the course of infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "PD-1 blockade enhanced SIV-specific ADP by AMs from chronic infection indicating that the PD-1 / PD-L2 pathway may modulate functional activity of AMs at that stage .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These findings provide new insight into the dynamics of SIV infection leading to AM dysfunction and alteration of pulmonary innate immunity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our results suggest new pathways to exploit in developing therapies targeting pulmonary disease susceptibility in HIV-infected individuals .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "14",
+    "segment_num": "24",
+    "token_num": "404"
+  }
+}

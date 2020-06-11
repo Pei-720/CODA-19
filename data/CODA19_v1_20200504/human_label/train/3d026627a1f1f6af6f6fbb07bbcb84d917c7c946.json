@@ -1,0 +1,83 @@
+{
+  "paper_id": "3d026627a1f1f6af6f6fbb07bbcb84d917c7c946",
+  "metadata": {
+    "title": "CodSeqGen: A tool for generating synonymous coding sequences with desired GC-contents",
+    "coda_data_split": "train",
+    "coda_paper_id": 10753,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Identification of regulatory elements is essential for understanding the mechanism behind regulating gene expression. These regulatory elements-located in or near gene-bind to proteins called transcription factors to initiate the transcription process. Their occurrences are influenced by the GC-content or nucleotide composition. For generating synthetic coding sequences with pre-specified amino acid sequence and desired GC-content, there exist two stochastic methods, multinomial and maximum entropy. Both methods rely on the probability of choosing the codon synonymous for usage in regard to a specific amino acid. In spite the latter exhibited unbiased manner, the produced sequences are not exactly obeying the GC-content constraint. In this paper, we present an algorithmic solution to produce coding sequences that follow exactly a primary amino acid sequence and a desired GC-content. The proposed tool, namely CodSeqGen, depends on random selection for smaller subsets to be traversed using the backtracking approach.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Identification of regulatory elements is essential for understanding the mechanism behind regulating gene expression .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These regulatory elements-located in or near gene-bind to proteins called transcription factors to initiate the transcription process .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Their occurrences are influenced by the GC-content or nucleotide composition .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "For generating synthetic coding sequences with pre-specified amino acid sequence and desired GC-content ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "there exist two stochastic methods , multinomial and maximum entropy .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Both methods rely on the probability of choosing the codon synonymous for usage in regard to a specific amino acid .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In spite the latter exhibited unbiased manner ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the produced sequences are not exactly obeying the GC-content constraint .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this paper , we present an algorithmic solution to produce coding sequences that follow exactly a primary amino acid sequence and a desired GC-content .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The proposed tool , namely CodSeqGen ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "depends on random selection for smaller subsets to be traversed using the backtracking approach .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "11",
+    "token_num": "157"
+  }
+}

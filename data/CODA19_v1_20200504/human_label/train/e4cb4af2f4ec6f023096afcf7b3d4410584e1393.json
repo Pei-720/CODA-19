@@ -1,0 +1,81 @@
+{
+  "paper_id": "e4cb4af2f4ec6f023096afcf7b3d4410584e1393",
+  "metadata": {
+    "title": "Designing Effective small interfering RNA for Post-Transcriptional Silencing of Human GREM1: A Comprehensive Bioinformatics Approach",
+    "coda_data_split": "train",
+    "coda_paper_id": 8480,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Human gremlin-1 is a physiologically versatile signaling molecule that has been associated with several human diseases including cancer. The ability of gremlin-1 to induce fibrosis in organs and transduce angiogenesis makes it a target for cancer therapy. RNAi-based therapy has proven to be very efficient and specific in tumor growth inhibition. The efficacy and specificity of siRNA-mediated gene silencing depends on the designing approaches. Here, empirical guidelines for siRNA design and comprehensive target site availability analysis were used to select effective siRNA from a plethora of potential candidates designed using several computation algorithms. Then, the selected siRNA candidates were subjected to stringent similarity searches in order to obtain siRNA candidates with reduced off-target effects (high specificity). The best candidates were compared to experimentally successful gremlin-1 siRNAs in order to predict the silencing potency of the selected siRNAs. siRNA-6 (sense strand: 5\u0027-CCAAGAAAUUCACUACCAU-3\u0027), siRNA-7 (sense strand: 5\u0027-CCAUGAUGGUCACACUCAA-3\u0027) and siRNA-47 (sense strand: 5\u0027-GGCCCAGCACAAUGACUCA-3\u0027) were predicted to be highly effective siRNA candidates for gremlin-1 silencing. These siRNAs can be considered for RNAi-based therapy because off-target effects are predicted to be minimal.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Human gremlin-1 is a physiologically versatile signaling molecule that has been associated with several human diseases including cancer .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The ability of gremlin-1 to induce fibrosis in organs and transduce angiogenesis makes it a target for cancer therapy .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "RNAi-based therapy has proven to be very efficient and specific in tumor growth inhibition .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The efficacy and specificity of siRNA-mediated gene silencing depends on the designing approaches .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , empirical guidelines for siRNA design and comprehensive target site availability analysis were used to select effective siRNA from a plethora of potential candidates designed using several computation algorithms .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Then , the selected siRNA candidates were subjected to stringent similarity searches in order to obtain siRNA candidates with reduced off-target effects ( high specificity ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The best candidates were compared to experimentally successful gremlin-1 siRNAs in order to predict the silencing potency of the selected siRNAs .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "siRNA-6 ( sense strand : 5 \u0027 - CCAAGAAAUUCACUACCAU-3 \u0027 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "siRNA-7 ( sense strand : 5 \u0027 - CCAUGAUGGUCACACUCAA-3 \u0027 ) and siRNA-47 ( sense strand : 5 \u0027 - GGCCCAGCACAAUGACUCA-3 \u0027 ) were predicted to be highly effective siRNA candidates for gremlin-1 silencing .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These siRNAs can be considered for RNAi-based therapy because off-target effects are predicted to be minimal .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "9",
+    "segment_num": "10",
+    "token_num": "212"
+  }
+}

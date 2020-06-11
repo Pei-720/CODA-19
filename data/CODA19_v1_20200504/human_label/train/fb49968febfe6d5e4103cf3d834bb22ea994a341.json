@@ -1,0 +1,63 @@
+{
+  "paper_id": "fb49968febfe6d5e4103cf3d834bb22ea994a341",
+  "metadata": {
+    "title": "Protein sequence analysis based on hydropathy profile of amino acids *",
+    "coda_data_split": "train",
+    "coda_paper_id": 7772,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Biology sequence comparison is a fundamental task in computational biology. According to the hydropathy profile of amino acids, a protein sequence is taken as a string with three letters. Three curves of the new protein sequence were defined to describe the protein sequence. A new method to analyze the similarity/dissimilarity of protein sequence was proposed based on the conditional probability of the protein sequence. Finally, the protein sequences of ND6 (NADH dehydrogenase subunit 6) protein of eight species were taken as an example to illustrate the new approach. The results demonstrated that the method is convenient and efficient.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Biology sequence comparison is a fundamental task in computational biology .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "According to the hydropathy profile of amino acids ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a protein sequence is taken as a string with three letters .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Three curves of the new protein sequence were defined to describe the protein sequence .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A new method to analyze the similarity/dissimilarity of protein sequence was proposed based on the conditional probability of the protein sequence .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , the protein sequences of ND6 ( NADH dehydrogenase subunit 6 ) protein of eight species were taken as an example to illustrate the new approach .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results demonstrated that the method is convenient and efficient .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "7",
+    "token_num": "108"
+  }
+}

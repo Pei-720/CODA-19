@@ -1,0 +1,72 @@
+{
+  "paper_id": "d19c615dfde89eb8fe4ff7fc0aa797fcc8d04c2c",
+  "metadata": {
+    "title": "UvA-DARE (Digital Academic Repository) Link to publication Creative Commons License (see https://creativecommons.org/use-remix/cc-licenses): CC BY-NC-ND Citation for published version (APA): A Simulation Framework to Investigate in vitro Viral Infection Dynamics",
+    "coda_data_split": "train",
+    "coda_paper_id": 7938,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "A simulation framework to investigate in vitro viral infection dynamics Bankhead, A.; Mancini, E.; Sims, A.C.; Baric, R.S.; McWeeney, S.; Sloot, P.M.A.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A simulation framework to investigate in vitro viral infection dynamics Bankhead ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "A. ; Mancini , E. ; Sims ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "A.C. ; Baric , R.S. ; McWeeney , S. ; Sloot , P.M.A.",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Virus infection is a complex biological phenomenon for which in vitro experiments provide a uniquely concise view where data is often obtained from a single population of cells, under controlled environmental conditions. Nonetheless, data interpretation and real understanding of viral dynamics is still hampered by the sheer complexity of the various intertwined spatio-temporal processes. In this paper we present a tool to address these issues: a cellular automata model describing critical aspects of in vitro viral infections taking into account spatial characteristics of virus spreading within a culture well. The aim of the model is to understand the key mechanisms of SARS-CoV infection dynamics during the first 24 hours post infection. We interrogate the model using a Latin Hypercube sensitivity analysis to identify which mechanisms are critical to the observed infection of host cells and the release of measured virus particles.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Virus infection is a complex biological phenomenon for which in vitro experiments provide a uniquely concise view where data is often obtained from a single population of cells , under controlled environmental conditions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Nonetheless , data interpretation and real understanding of viral dynamics is still hampered by the sheer complexity of the various intertwined spatio-temporal processes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this paper we present a tool to address these issues : a cellular automata model describing critical aspects of in vitro viral infections taking into account spatial characteristics of virus spreading within a culture well .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The aim of the model is to understand the key mechanisms of SARS-CoV infection dynamics during the first 24 hours post infection .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We interrogate the model using a Latin Hypercube sensitivity analysis to identify which mechanisms are critical to the observed infection of host cells and the release of measured virus particles .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "6",
+    "segment_num": "8",
+    "token_num": "182"
+  }
+}

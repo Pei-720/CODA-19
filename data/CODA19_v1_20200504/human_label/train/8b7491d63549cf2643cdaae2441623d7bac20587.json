@@ -1,0 +1,135 @@
+{
+  "paper_id": "8b7491d63549cf2643cdaae2441623d7bac20587",
+  "metadata": {
+    "title": "Processing of the Coronavirus MHV-JHM Polymerase Polyprotein: Identification of Precursors and Proteolytic Products Spanning 400 Kilodaltons of ORF1a",
+    "coda_data_split": "train",
+    "coda_paper_id": 5626,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The replicase of mouse hepatitis virus strain JHM (MHV-JHM) is encoded by two overlapping open reading frames, ORF1a and ORF1b, which are translated to produce a 750-kDa precursor polyprotein. The polyprotein is proposed to be processed by viral proteinases to generate the functional replicase complex. To date, only the MHV-JHM amino-terminal proteins p28 and p72, which is processed to p65, have been identified. To further elucidate the biogenesis of the MHV-JHM replicase, we cloned and expressed five regions of ORF1a in bacteria and prepared rabbit antisera to each region. Using the immune sera to immunoprecipitate radiolabeled proteins from MHV-JHM infected cells, we determined that the MHV-JHM ORF1a is initially processed to generate p28, p72, p250, and p150. Pulse±chase analysis revealed that these intermediates are further processed to generate p65, p210, p40, p27, the MHV 3C-like proteinase, and p15. A putative replicase complex consisting of p250, p210, p40, p150, and a large protein (Ͼ300 kDa) coprecipitate from infected cells disrupted with NP-40, indicating that these proteins are closely associated even after initial proteolytic processing. Immunofluorescence studies revealed punctate labeling of ORF1a proteins in the perinuclear region of infected cells, consistent with a membrane-association of the replicase complex. Furthermore, in vitro transcription/translation studies of the MHV-JHM 3Cpro and flanking hydrophobic domains confirm that 3C protease activity is significantly enhanced in the presence of canine microsomal membranes. Overall, our results demonstrate that the MHV-JHM ORF1a polyprotein: (1) is processed into more than 10 protein intermediates and products, (2) requires membranes for efficient biogenesis, and (3) is detected in discrete membranous regions in the cytoplasm of infected cells.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The replicase of mouse hepatitis virus strain JHM ( MHV-JHM ) is encoded by two overlapping open reading frames ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "ORF1a and ORF1b , which are translated to produce a 750-kDa precursor polyprotein .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The polyprotein is proposed to be processed by viral proteinases to generate the functional replicase complex .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To date , only the MHV-JHM amino-terminal proteins p28 and p72 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which is processed to p65 , have been identified .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To further elucidate the biogenesis of the MHV-JHM replicase ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "we cloned and expressed five regions of ORF1a in bacteria and prepared rabbit antisera to each region .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using the immune sera to immunoprecipitate radiolabeled proteins from MHV-JHM infected cells ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we determined that the MHV-JHM ORF1a is initially processed to generate p28 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "p72 , p250 , and p150 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Pulse ± chase analysis revealed that these intermediates are further processed to generate p65 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "p210 , p40 , p27 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the MHV 3C-like proteinase , and p15 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A putative replicase complex consisting of p250 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "p210 , p40 , p150 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and a large protein ( Ͼ300 kDa ) coprecipitate from infected cells disrupted with NP-40 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "indicating that these proteins are closely associated even after initial proteolytic processing .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Immunofluorescence studies revealed punctate labeling of ORF1a proteins in the perinuclear region of infected cells ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "consistent with a membrane-association of the replicase complex .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , in vitro transcription/translation studies of the MHV-JHM 3Cpro and flanking hydrophobic domains confirm that 3C protease activity is significantly enhanced in the presence of canine microsomal membranes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Overall , our results demonstrate that the MHV-JHM ORF1a polyprotein : ( 1 ) is processed into more than 10 protein intermediates and products ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "( 2 ) requires membranes for efficient biogenesis ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and ( 3 ) is detected in discrete membranous regions in the cytoplasm of infected cells .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "10",
+    "segment_num": "23",
+    "token_num": "312"
+  }
+}

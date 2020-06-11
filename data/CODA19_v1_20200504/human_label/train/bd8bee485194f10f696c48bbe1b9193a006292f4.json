@@ -1,0 +1,71 @@
+{
+  "paper_id": "bd8bee485194f10f696c48bbe1b9193a006292f4",
+  "metadata": {
+    "title": "Bahri), f.tabataba@ec.iut.ac.ir (F.S. Tabataba)",
+    "coda_data_split": "train",
+    "coda_paper_id": 10262,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The Shortest Common Supersequence Problem asks to obtain a shortest string that is a supersequence of every member of a given set of strings. It has applications, among others, in data compression and oligonucleotide microarray production. The problem is NP-hard, and the existing exact solutions are impractical for large instances. In this paper, a new beam search algorithm is proposed for the problem, which employs a probabilistic heuristic and uses the dominance property to further prune the search space. The proposed algorithm is compared with three recent algorithms proposed for the problem on both random and biological sequences, outperforming them all by quickly providing solutions of higher average quality in all the experimental cases. The Java source and binary files of the proposed IBS_SCS algorithm and our implementation of the DR algorithm and all the random and real datasets used in this paper are freely available upon request.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The Shortest Common Supersequence Problem asks to obtain a shortest string that is a supersequence of every member of a given set of strings .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It has applications , among others ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "in data compression and oligonucleotide microarray production .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The problem is NP-hard , and the existing exact solutions are impractical for large instances .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this paper , a new beam search algorithm is proposed for the problem ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "which employs a probabilistic heuristic and uses the dominance property to further prune the search space .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The proposed algorithm is compared with three recent algorithms proposed for the problem on both random and biological sequences ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "outperforming them all by quickly providing solutions of higher average quality in all the experimental cases .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The Java source and binary files of the proposed IBS _ SCS algorithm and our implementation of the DR algorithm and all the random and real datasets used in this paper are freely available upon request .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "9",
+    "token_num": "162"
+  }
+}

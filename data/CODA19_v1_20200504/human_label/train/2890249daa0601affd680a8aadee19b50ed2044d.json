@@ -1,0 +1,130 @@
+{
+  "paper_id": "2890249daa0601affd680a8aadee19b50ed2044d",
+  "metadata": {
+    "title": "Kinome-Wide siRNA Screening Identifies Src-Enhanced Resistance of Chemotherapeutic Drugs in Triple-Negative Breast Cancer Cells",
+    "coda_data_split": "train",
+    "coda_paper_id": 8470,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Chemotherapy is the main treatment for triple-negative breast cancer (TNBC), which lack molecular markers for diagnosis and therapy. Cancer cells activate chemoresistant pathways and lead to therapeutic failure for patients with TNBC. Several kinases have been identified as chemoresistant genes. However, the involvement of kinases in the chemoresistance in TNBC cells is not fully understood.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Chemotherapy is the main treatment for triple-negative breast cancer ( TNBC ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which lack molecular markers for diagnosis and therapy .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Cancer cells activate chemoresistant pathways and lead to therapeutic failure for patients with TNBC .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Several kinases have been identified as chemoresistant genes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the involvement of kinases in the chemoresistance in TNBC cells is not fully understood .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We employed a kinome siRNA library to screen whether targeting any kinases could increase the chemosensitivity of TNBC cell lines. The effects of kinase on cell viability in various breast cancer cells were validated with ATP level and colony formation. Protein expression and phosphorylation were determined by immunoblotting. The Cancer Genome Atlas (TCGA) dataset was collected to analyze the correlation of Src expression with prognosis of TNBC patients.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We employed a kinome siRNA library to screen whether targeting any kinases could increase the chemosensitivity of TNBC cell lines .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The effects of kinase on cell viability in various breast cancer cells were validated with ATP level and colony formation .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Protein expression and phosphorylation were determined by immunoblotting .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The Cancer Genome Atlas ( TCGA ) dataset was collected to analyze the correlation of Src expression with prognosis of TNBC patients .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results: Primary screening and validation for the initial hits showed that Src kinase was a potential doxorubicin-resistant kinase in the TNBC cell lines MDA-MB-231 and Hs578T. Both siRNA against Src and the Src inhibitor dasatinib enhanced the cytotoxic effects of doxorubicin in TNBC cells. Moreover, phosphorylation of AKT and signal transducer and activator of transcription 3 (STAT3), downstream effectors of Src, were accordingly decreased in Src-silenced or -inhibited TNBC cells. Additionally, TCGA data analysis indicated that Src expression levels in tumor tissues were higher than those in tumor-adjacent normal tissues in patients with TNBC. High co-expression level of Src and STAT3 was also significantly correlated with poor prognosis in patients.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results : Primary screening and validation for the initial hits showed that Src kinase was a potential doxorubicin-resistant kinase in the TNBC cell lines MDA-MB-231 and Hs578T .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Both siRNA against Src and the Src inhibitor dasatinib enhanced the cytotoxic effects of doxorubicin in TNBC cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , phosphorylation of AKT and signal transducer and activator of transcription 3 ( STAT3 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "downstream effectors of Src , were accordingly decreased in Src-silenced or - inhibited TNBC cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Additionally , TCGA data analysis indicated that Src expression levels in tumor tissues were higher than those in tumor-adjacent normal tissues in patients with TNBC .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "High co-expression level of Src and STAT3 was also significantly correlated with poor prognosis in patients .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Our results showed that Src-STAT3 axis might be involved in chemoresistance of TNBC cells.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Our results showed that Src-STAT3 axis might be involved in chemoresistance of TNBC cells .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "14",
+    "segment_num": "16",
+    "token_num": "277"
+  }
+}

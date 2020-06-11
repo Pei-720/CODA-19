@@ -1,0 +1,83 @@
+{
+  "paper_id": "f41bba1e37e13b899c10c8f2c21b10fdc91930c2",
+  "metadata": {
+    "title": "Peptide Mimicrying Between SARS Coronavirus Spike Protein and Human Proteins Reacts with SARS Patient Serum",
+    "coda_data_split": "train",
+    "coda_paper_id": 5919,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Molecular mimicry, defined as similar structures shared by molecules from dissimilar genes or proteins, is a general strategy used by pathogens to infect host cells. Severe acute respiratory syndrome (SARS) is a new human respiratory infectious disease caused by SARS coronavirus (SARS-CoV). The spike (S) protein of SARS-CoV plays an important role in the virus entry into a cell. In this study, eleven synthetic peptides from the S protein were selected based on its sequence homology with human proteins. Two of the peptides D07 (residues 927-937) and D08 (residues 942-951) were recognized by the sera of SARS patients. Murine hyperimmune sera against these peptides bound to proteins of human lung epithelial cells A549. Another peptide D10 (residues 490-502) stimulated A549 to proliferate and secrete IL-8. The present results suggest that the selected S protein regions, which share sequence homology with human proteins, may play important roles in SARS-CoV infection.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Molecular mimicry , defined as similar structures shared by molecules from dissimilar genes or proteins ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "is a general strategy used by pathogens to infect host cells .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Severe acute respiratory syndrome ( SARS ) is a new human respiratory infectious disease caused by SARS coronavirus ( SARS-CoV ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The spike ( S ) protein of SARS-CoV plays an important role in the virus entry into a cell .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , eleven synthetic peptides from the S protein were selected based on its sequence homology with human proteins .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Two of the peptides D07 ( residues 927-937 ) and D08 ( residues 942-951 ) were recognized by the sera of SARS patients .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Murine hyperimmune sera against these peptides bound to proteins of human lung epithelial cells A549 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Another peptide D10 ( residues 490-502 ) stimulated A549 to proliferate and secrete IL-8 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The present results suggest that the selected S protein regions ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which share sequence homology with human proteins ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "may play important roles in SARS-CoV infection .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "11",
+    "token_num": "174"
+  }
+}

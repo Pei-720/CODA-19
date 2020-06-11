@@ -1,0 +1,137 @@
+{
+  "paper_id": "1dde5e8732db502834dbde7960ee2615c677b6e3",
+  "metadata": {
+    "title": "Therapeutic Value of Small Molecule Inhibitor to Plasminogen Activator Inhibitor-1 for Lung Fibrosis",
+    "coda_data_split": "train",
+    "coda_paper_id": 3561,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Fibrosis is a final stage of many lung diseases, with no effective treatment. Plasminogen activator inhibitor-1 (PAI-1), a primary inhibitor of tissue-type and urokinase-type plasminogen activators (tPA and uPA, respectively), plays a critical role in the development of fibrosis. In this study, we explored the therapeutic potential of an orally effective small molecule PAI-1 inhibitor, TM5275, in a model of lung fibrosis induced by transforming growth factor-b1 (TGF-b1), the most potent and ubiquitous profibrogenic cytokine, and in human lung fibroblasts (CCL-210 cells). The results show that an intranasal instillation of AdTGF-b1 223/225 , an adenovirus expressing constitutively active TGF-b1, increased the expression of PAI-1 and induced fibrosis in murine lung tissue. On the other hand, treating mice with 40 mg/kg of TM5275 for 10 days, starting 4 days after the instillation of AdTGF-b1 223/225 , restored the activities of uPA and tPA and almost completely blocked TGF-b1-induced lung fibrosis, as shown by collagen staining, Western blotting, and the measurement of hydroxyproline. No loss of body weight was evident under these treatment conditions with TM5275. Furthermore, we show that TM5275 induced apoptosis in both myofibroblasts (TGF-b1-treated) and naive (TGF-b1-untreated) human lung fibroblasts, and this apoptosis was associated with the activation of caspase-3/7, the induction of p53, and the inhibition of a-smooth muscle actin, fibronectin, and PAI-1 expression. Such an inhibition of fibrotic responses by TM5275 occurred even in cells pretreated with TGF-b1 for 6 hours. Together, the results suggest that TM5275 is a relatively safe and potent antifibrotic agent, with therapeutic potential in fibrotic lung disease.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Fibrosis is a final stage of many lung diseases , with no effective treatment .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Plasminogen activator inhibitor-1 ( PAI-1 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a primary inhibitor of tissue-type and urokinase-type plasminogen activators ( tPA and uPA , respectively ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "plays a critical role in the development of fibrosis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we explored the therapeutic potential of an orally effective small molecule PAI-1 inhibitor ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "TM5275 , in a model of lung fibrosis induced by transforming growth factor-b1 ( TGF-b1 ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the most potent and ubiquitous profibrogenic cytokine ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and in human lung fibroblasts ( CCL-210 cells ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results show that an intranasal instillation of AdTGF-b1 223/225 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "an adenovirus expressing constitutively active TGF-b1 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "increased the expression of PAI-1 and induced fibrosis in murine lung tissue .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "On the other hand , treating mice with 40 mg/kg of TM5275 for 10 days ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "starting 4 days after the instillation of AdTGF-b1 223/225 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "restored the activities of uPA and tPA and almost completely blocked TGF-b1-induced lung fibrosis ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as shown by collagen staining ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Western blotting , and the measurement of hydroxyproline .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "No loss of body weight was evident under these treatment conditions with TM5275 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , we show that TM5275 induced apoptosis in both myofibroblasts ( TGF-b1-treated ) and naive ( TGF-b1-untreated ) human lung fibroblasts ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and this apoptosis was associated with the activation of caspase-3 / 7 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the induction of p53 , and the inhibition of a-smooth muscle actin ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "fibronectin , and PAI-1 expression .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Such an inhibition of fibrotic responses by TM5275 occurred even in cells pretreated with TGF-b1 for 6 hours .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Together , the results suggest that TM5275 is a relatively safe and potent antifibrotic agent ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with therapeutic potential in fibrotic lung disease .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "9",
+    "segment_num": "24",
+    "token_num": "301"
+  }
+}

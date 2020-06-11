@@ -1,0 +1,185 @@
+{
+  "paper_id": "f2f841ce20aa58b0dfdbee95941c7b20970752aa",
+  "metadata": {
+    "title": "P001 IFN-K4 HAS A POTENT ANTIPROLIFERATIVE ACTIVITY IN B-CELL LYMPHOMA AND HEPATOMA CELL LINES HCV CORE PROTEIN TRIGGERS IL-1B PRODUCTION VIA THE NLRP3 INFLAMMASOME P004 LOSS OF IRF5 INDUCES SPONTANEOUS MAMMARY TUMORIGEN- ESIS P005 PROTEOLYTIC ORIGIN OF THE SOLUBLE HUMAN IL-6R IN VIVO AND A DECISIVE ROLE OF N-GLYCOSYLATION DISTINCT ROLES FOR IRF5 IN MAMMARY EPITHELIAL CELLS AND HOST TUMOR IMMUNITY: LOSS OF IRF5 IN EITHER COMPART- MENT LEADS TO TUMORIGENESIS SEXUALLY DIMORPHIC ROLES OF STAT3 IN PEDIATRIC BRAIN CANCER P008 DISRUPTION OF PD-1/PD-L1 SIGNALING IN 2D VS. 3D COLORECTAL CANCER COCULTURE MODEL REVEALED BY RNAI HIGH THROUGH- PUT SCREEN",
+    "coda_data_split": "train",
+    "coda_paper_id": 4986,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Introduction: Type-I interferons (IFNs) have been used to treat several types of cancers including follicular lymphoma, hairy cell leukemia and chronic myeloid leukemia. Treatment with type-I IFNs is however associated with significant toxic side effects due to the ubiquitous expression of type-I IFN receptors. Type-III IFNs elicit similar cellular responses as type-I IFNs, but restricted expression of type-III receptors may limit potential side effects of treatment with type-III IFNs. A number of studies are now exploring the use of type-III IFNs, specifically IFN-k3, as anticancer agents. IFN-k4 is a newly discovered type-III IFN that is genetically regulated and produced in a subset of individuals. Previously, we showed that IFN-k4 inhibits proliferation in a hepatoma cell line, however its anticancer potential has not been explored in comparison to other type-III IFNs.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Introduction : Type-I interferons ( IFNs ) have been used to treat several types of cancers including follicular lymphoma ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "hairy cell leukemia and chronic myeloid leukemia .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Treatment with type-I IFNs is however associated with significant toxic side effects due to the ubiquitous expression of type-I IFN receptors .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Type-III IFNs elicit similar cellular responses as type-I IFNs ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but restricted expression of type-III receptors may limit potential side effects of treatment with type-III IFNs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A number of studies are now exploring the use of type-III IFNs ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "specifically IFN-k3 , as anticancer agents .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "IFN-k4 is a newly discovered type-III IFN that is genetically regulated and produced in a subset of individuals .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Previously , we showed that IFN-k4 inhibits proliferation in a hepatoma cell line ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "however its anticancer potential has not been explored in comparison to other type-III IFNs .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Methods: We developed stable human hepatoma (HepG2) and B-cell lymphoma (Raji) cell lines, engineered to express either IFN-k4-GFP or IFN-k3-GFP upon induction by doxycycline. We compared antiproliferative activity of IFN-k3 and IFN-k4 by measuring BRDU incorporation before and after induction of IFN-k expression. We also compared cell viability, apoptosis, and changes in cell cycle between IFN-k3 and IFN-k4 expressing cell lines. RNAseq and pathway analysis were used to explore the antiproliferative effect induced by IFN-k4.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Methods : We developed stable human hepatoma ( HepG2 ) and B-cell lymphoma ( Raji ) cell lines ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "engineered to express either IFN-k4-GFP or IFN-k3-GFP upon induction by doxycycline .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We compared antiproliferative activity of IFN-k3 and IFN-k4 by measuring BRDU incorporation before and after induction of IFN-k expression .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also compared cell viability ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "apoptosis , and changes in cell cycle between IFN-k3 and IFN-k4 expressing cell lines .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "RNAseq and pathway analysis were used to explore the antiproliferative effect induced by IFN-k4 .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We show that IFN-k4 has higher antiproliferative activity compared to IFN-k3 in Raji and HepG2 cell lines and this can be explained by inhibition of the cell cycle. IFN-k4 expressing cell lines showed increased apoptotic cell death compared to IFN-k3 expressing cell lines. We also show that antiproliferative activity of IFN-k4 may be a result of inhibition of the MAPK pathway.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We show that IFN-k4 has higher antiproliferative activity compared to IFN-k3 in Raji and HepG2 cell lines and this can be explained by inhibition of the cell cycle .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "IFN-k4 expressing cell lines showed increased apoptotic cell death compared to IFN-k3 expressing cell lines .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also show that antiproliferative activity of IFN-k4 may be a result of inhibition of the MAPK pathway .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Conclusion: This study demonstrates that IFN-k4 has a more potent antiproliferative activity than IFN-k3 in hepatoma and B cell lymphoma cell lines and the anticancer potential of IFN-k4 should be further explored.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Conclusion : This study demonstrates that IFN-k4 has a more potent antiproliferative activity than IFN-k3 in hepatoma and B cell lymphoma cell lines and the anticancer potential of IFN-k4 should be further explored .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Introduction: Interleukin-1b (IL-1b) is a potent proinflammatory cytokine that is implicated both in acute and chronic viral infection. Persistent hepatic inflammation is the hallmark of hepatitis C virus (HCV) infection wherein it serves as a platform for progressive liver injury and onset of liver cancer.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Introduction : Interleukin-1b ( IL-1b ) is a potent proinflammatory cytokine that is implicated both in acute and chronic viral infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Persistent hepatic inflammation is the hallmark of hepatitis C virus ( HCV ) infection wherein it serves as a platform for progressive liver injury and onset of liver cancer .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We examined the role of IL-1b role in HCV-induced hepatic inflammation by first assessing the transcriptional profile of chronic HCV patient liver by next-gen sequencing (RNAseq) staged by inflammation and fibrosis score.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We examined the role of IL-1b role in HCV-induced hepatic inflammation by first assessing the transcriptional profile of chronic HCV patient liver by next-gen sequencing ( RNAseq ) staged by inflammation and fibrosis score .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "(microenvironment) role of IRF5 in mammary tumor initiation and progression.",
+      "sentences": [
+        [
+          {
+            "segment_text": "( microenvironment ) role of IRF5 in mammary tumor initiation and progression .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "7",
+    "sentence_num": "18",
+    "segment_num": "24",
+    "token_num": "430"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "paper_id": "b0407f35d4c09d63357ff8a5d89e274bbbdbba0c",
+  "metadata": {
+    "title": "Article Autoadaptive ER-Associated Degradation Defines a Preemptive Unfolded Protein Response Pathway",
+    "coda_data_split": "train",
+    "coda_paper_id": 4748,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Folding-defective proteins must be cleared efficiently from the endoplasmic reticulum (ER) to prevent perturbation of the folding environment and to maintain cellular proteostasis. Misfolded proteins engage dislocation machineries (dislocons) built around E3 ubiquitin ligases that promote their transport across the ER membrane, their polyubiquitylation, and their proteasomal degradation. Here, we report on the intrinsic instability of the HRD1 dislocon and the constitutive, rapid turnover of the scaffold protein HERP. We show that HRD1 dislocon integrity relies on the presence of HRD1 clients that interrupt, in a dose-dependent manner, the UBC6e/RNF5/p97/ proteasome-controlled relay that controls HERP turnover. We propose that ER-associated degradation (ERAD) deploys autoadaptive regulatory pathways, collectively defined as ERAD tuning, to rapidly adapt degradation activity to misfolded protein load and to preempt the unfolded protein response (UPR) activation.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Folding-defective proteins must be cleared efficiently from the endoplasmic reticulum ( ER ) to prevent perturbation of the folding environment and to maintain cellular proteostasis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Misfolded proteins engage dislocation machineries ( dislocons ) built around E3 ubiquitin ligases that promote their transport across the ER membrane ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "their polyubiquitylation , and their proteasomal degradation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we report on the intrinsic instability of the HRD1 dislocon and the constitutive ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "rapid turnover of the scaffold protein HERP .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We show that HRD1 dislocon integrity relies on the presence of HRD1 clients that interrupt ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "in a dose-dependent manner , the UBC6e/RNF5/p97 / proteasome-controlled relay that controls HERP turnover .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We propose that ER-associated degradation ( ERAD ) deploys autoadaptive regulatory pathways ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "collectively defined as ERAD tuning ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "to rapidly adapt degradation activity to misfolded protein load and to preempt the unfolded protein response ( UPR ) activation .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "10",
+    "token_num": "151"
+  }
+}

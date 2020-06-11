@@ -1,0 +1,278 @@
+{
+  "paper_id": "80747f397615967a430214adcd1541728934daae",
+  "metadata": {
+    "title": "Estimation of protection for COVID-19 in children from epidemiological information and estimate effect of policy in Japan",
+    "coda_data_split": "train",
+    "coda_paper_id": 8821,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Incidence in children was much less than in adults during the COVID-19 outbreak. Sports and entertainment events were canceled (VEC) in Japan for two weeks during 26 February -13 March. Most schools were closed (SC).",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Incidence in children was much less than in adults during the COVID-19 outbreak .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Sports and entertainment events were canceled ( VEC ) in Japan for two weeks during 26 February -13 March .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Most schools were closed ( SC ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Object: We construct a susceptible-infected-recovered model using three age classes and estimate the basic reproduction number (R 0 ) and protection level among children simultaneously. Then we simulate SC and VEC effects.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Object : We construct a susceptible-infected-recovered model using three age classes and estimate the basic reproduction number ( R 0 ) and protection level among children simultaneously .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Then we simulate SC and VEC effects .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Method: We used data of patients with symptoms in Japan during 14 January to assess SC and VEC introduction. Effects of SC and VEC were incorporated into the model through change in the contact pattern or frequencies among age classes.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Method : We used data of patients with symptoms in Japan during 14 January to assess SC and VEC introduction .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Effects of SC and VEC were incorporated into the model through change in the contact pattern or frequencies among age classes .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": ": Results suggest R 0 as 2.86 [95%CI of 2.73, 2.97]. The protection level was estimated as 0.4 [0.2, 0.7]. SC and VEC can reduce the total number of patients significantly, by 6-7%.",
+      "sentences": [
+        [
+          {
+            "segment_text": ": Results suggest R 0 as 2.86 ( 95 % CI of 2.73 , 2.97 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The protection level was estimated as 0.4 ( 0.2 , 0.7 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "SC and VEC can reduce the total number of patients significantly , by 6-7 % .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Discussion and Conclusion: The estimated R 0 was similar to that found from other studies in China and Japan. We found a significant protection level among children, and by effects of SC and VEC. Introduction All rights reserved. No reuse allowed without permission.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Discussion and Conclusion : The estimated R 0 was similar to that found from other studies in China and Japan .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We found a significant protection level among children ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and by effects of SC and VEC .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Introduction All rights reserved .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "No reuse allowed without permission .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "author/funder, who has granted medRxiv a license to display the preprint in perpetuity. : medRxiv preprint presumed to be not community-acquired in Japan.",
+      "sentences": [
+        [
+          {
+            "segment_text": "author/funder , who has granted medRxiv a license to display the preprint in perpetuity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": ": medRxiv preprint presumed to be not community-acquired in Japan .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Published information about COVID-19 patients with symptoms from the Ministry of Labour, Health and Welfare (MLHW) Japan was usually affected adversely by some delay because of uncertainty during onset to visiting a doctor or in the timing of a physician\u0027s suspicion of COVID-19. Therefore, published data of patients must be adjusted at least a few days. To adjust the data, we applied the following regression. We denote Xt-k|t as the number of patients for whom the onset date was t-k published on day t. The dependent variables are the degree of reporting delay,",
+      "sentences": [
+        [
+          {
+            "segment_text": "Published information about COVID-19 patients with symptoms from the Ministry of Labour ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Health and Welfare ( MLHW ) Japan was usually affected adversely by some delay because of uncertainty during onset to visiting a doctor or in the timing of a physician \u0027s suspicion of COVID-19 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , published data of patients must be adjusted at least a few days .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "To adjust the data , we applied the following regression .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We denote Xt-k | t as the number of patients for whom the onset date was t-k published on day t .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The dependent variables are the degree of reporting delay ,",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "where k\u003em in several m and k. Here, m denotes the difference of the publishing dates between the two published. Date t represents the publishing date of the latest publishing.",
+      "sentences": [
+        [
+          {
+            "segment_text": "where k \u003e m in several m and k. Here ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "m denotes the difference of the publishing dates between the two published .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Date t represents the publishing date of the latest publishing .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The explanatory variables were 1/k, 1/m, and 1/km. The degree of reporting delay was estimated as [estimated coefficient of constant term] + [estimated coefficient of 1/k]/k, when m was sufficiently large and time had passed. Therefore, this estimated degree of reporting delay multiplied by the latest published data is expected to be a prediction of the number of patients for whom the onset date was t-k. We used this adjusted number of patients in the latest few days including those after VEC was adopted. We used published data of 2, 5, 6 and 9-17 March, 2020 provided by MLHW [1].",
+      "sentences": [
+        [
+          {
+            "segment_text": "The explanatory variables were 1/k , 1/m , and 1/km .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The degree of reporting delay was estimated as ( estimated coefficient of constant term ) + ( estimated coefficient of 1/k ) / k ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "when m was sufficiently large and time had passed .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , this estimated degree of reporting delay multiplied by the latest published data is expected to be a prediction of the number of patients for whom the onset date was t-k .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We used this adjusted number of patients in the latest few days including those after VEC was adopted .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We used published data of 2 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "5 , 6 and 9-17 March ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "2020 provided by MLHW ( 1 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "First, we estimated the joint distribution of R 0 and the protection rate in children in All rights reserved. No reuse allowed without permission. author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "First , we estimated the joint distribution of R 0 and the protection rate in children in All rights reserved .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "No reuse allowed without permission .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "author/funder , who has granted medRxiv a license to display the preprint in perpetuity .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "10",
+    "sentence_num": "31",
+    "segment_num": "37",
+    "token_num": "547"
+  }
+}

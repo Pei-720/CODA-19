@@ -1,0 +1,146 @@
+{
+  "paper_id": "d48ae48fa33c489b576489afc16c00f5b1532178",
+  "metadata": {
+    "title": "Virome Capture Sequencing Enables Sensitive Viral Diagnosis and Comprehensive Virome Analysis",
+    "coda_data_split": "train",
+    "coda_paper_id": 5541,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Insensitivity and technical complexity have impeded the implementation of high-throughput nucleic acid sequencing in differential diagnosis of viral infections in clinical laboratories. Here, we describe the development of a virome capture sequencing platform for vertebrate viruses (VirCapSeq-VERT) that increases the sensitivity of sequence-based virus detection and characterization. The system uses~2 million probes that cover the genomes of members of the 207 viral taxa known to infect vertebrates, including humans. A biotinylated oligonucleotide library was synthesized on the NimbleGen cleavable array platform and used for solution-based capture of viral nucleic acids present in complex samples containing variable proportions of viral and host nucleic acids. The use of VirCapSeq-VERT resulted in a 100-to 10,000-fold increase in viral reads from blood and tissue homogenates compared to conventional Illumina sequencing using established virus enrichment procedures, including filtration, nuclease treatments, and RiboZero rRNA subtraction. VirCapSeq-VERT had a limit of detection comparable to that of agent-specific real-time PCR in serum, blood, and tissue extracts. Furthermore, the method identified novel viruses whose genomes were approximately 40% different from the known virus genomes used for designing the probe library. The VirCapSeq-VERT platform is ideally suited for analyses of virome composition and dynamics. IMPORTANCE VirCapSeq-VERT enables detection of viral sequences in complex sample backgrounds, including those found in clinical specimens, such as serum, blood, and tissue. The highly multiplexed nature of the system allows both the simultaneous identification and the comprehensive genetic characterization of all known vertebrate viruses, their genetic variants, and novel viruses. The operational simplicity and efficiency of the VirCapSeq-VERT platform may facilitate transition of high-throughput sequencing to clinical diagnostic as well as research applications.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Insensitivity and technical complexity have impeded the implementation of high-throughput nucleic acid sequencing in differential diagnosis of viral infections in clinical laboratories .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we describe the development of a virome capture sequencing platform for vertebrate viruses ( VirCapSeq-VERT ) that increases the sensitivity of sequence-based virus detection and characterization .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The system uses ~ 2 million probes that cover the genomes of members of the 207 viral taxa known to infect vertebrates , including humans .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A biotinylated oligonucleotide library was synthesized on the NimbleGen cleavable array platform and used for solution-based capture of viral nucleic acids present in complex samples containing variable proportions of viral and host nucleic acids .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The use of VirCapSeq-VERT resulted in a 100-to 10,000-fold increase in viral reads from blood and tissue homogenates compared to conventional Illumina sequencing using established virus enrichment procedures ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "including filtration , nuclease treatments , and RiboZero rRNA subtraction .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "VirCapSeq-VERT had a limit of detection comparable to that of agent-specific real-time PCR in serum ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "blood , and tissue extracts .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , the method identified novel viruses whose genomes were approximately 40 % different from the known virus genomes used for designing the probe library .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The VirCapSeq-VERT platform is ideally suited for analyses of virome composition and dynamics .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "IMPORTANCE VirCapSeq-VERT enables detection of viral sequences in complex sample backgrounds ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "including those found in clinical specimens ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "such as serum , blood , and tissue .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The highly multiplexed nature of the system allows both the simultaneous identification and the comprehensive genetic characterization of all known vertebrate viruses ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "their genetic variants , and novel viruses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The operational simplicity and efficiency of the VirCapSeq-VERT platform may facilitate transition of high-throughput sequencing to clinical diagnostic as well as research applications .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Citation Briese T, Kapoor A, Mishra N, Jain K, Kumar A, Jabado OJ, Lipkin WI. 2015. Virome capture sequencing enables sensitive viral diagnosis and comprehensive virome analysis. mBio 6(5):e01491-15.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Citation Briese T , Kapoor A ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "Mishra N , Jain K ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "Kumar A , Jabado OJ , Lipkin WI .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "2015 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Virome capture sequencing enables sensitive viral diagnosis and comprehensive virome analysis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "mBio 6 ( 5 ) : e01491-15 .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "15",
+    "segment_num": "22",
+    "token_num": "342"
+  }
+}

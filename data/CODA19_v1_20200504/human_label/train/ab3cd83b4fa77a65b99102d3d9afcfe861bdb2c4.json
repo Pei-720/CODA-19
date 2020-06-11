@@ -1,0 +1,110 @@
+{
+  "paper_id": "ab3cd83b4fa77a65b99102d3d9afcfe861bdb2c4",
+  "metadata": {
+    "title": "Simulate_PCR for amplicon prediction and annotation from multiplex, degenerate primers and probes",
+    "coda_data_split": "train",
+    "coda_paper_id": 7625,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Pairing up primers to amplify desired targets and avoid undesired cross reactions can be a combinatorial challenge. Effective prediction of specificity and inclusivity from multiplexed primers and TaqMan®/ Luminex® probes is a critical step in PCR design. Results: Code is described to identify all primer and probe combinations from a list of unpaired, unordered candidates that should produce a product. It predicts and extracts all amplicon sequences in a large sequence database from a list of primers and probes, allowing degenerate bases and user-specified levels of primer-target mismatch tolerance. Amplicons hit by TaqMan®/Luminex® probes are indicated, and products may be annotated with gene information from NCBI. Fragment length distributions are calculated to predict electrophoretic gel banding patterns.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Pairing up primers to amplify desired targets and avoid undesired cross reactions can be a combinatorial challenge .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Effective prediction of specificity and inclusivity from multiplexed primers and TaqMan ® / Luminex ® probes is a critical step in PCR design .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results : Code is described to identify all primer and probe combinations from a list of unpaired ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "unordered candidates that should produce a product .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It predicts and extracts all amplicon sequences in a large sequence database from a list of primers and probes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "allowing degenerate bases and user-specified levels of primer-target mismatch tolerance .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Amplicons hit by TaqMan ® / Luminex ® probes are indicated ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and products may be annotated with gene information from NCBI .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Fragment length distributions are calculated to predict electrophoretic gel banding patterns .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Simulate_PCR is the only freely available software that can be run from the command line for high throughput applications which can calculate all products from large lists of primers and probes compared to a large sequence database such as nt. It requires no prior knowledge of how primers should be paired. Degenerate bases are allowed and entire amplicon sequences are extracted and annotated with gene information. Examples are provided for sets of TaqMan®/Luminex® PCR signatures predicted to amplify all HIV-1 genomes, all Coronaviridae genomes, and a group of antibiotic resistance genes. The software is a command line perl script freely available as open source.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Simulate _ PCR is the only freely available software that can be run from the command line for high throughput applications which can calculate all products from large lists of primers and probes compared to a large sequence database such as nt .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It requires no prior knowledge of how primers should be paired .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Degenerate bases are allowed and entire amplicon sequences are extracted and annotated with gene information .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Examples are provided for sets of TaqMan ® / Luminex ® PCR signatures predicted to amplify all HIV-1 genomes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "all Coronaviridae genomes , and a group of antibiotic resistance genes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The software is a command line perl script freely available as open source .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "11",
+    "segment_num": "15",
+    "token_num": "253"
+  }
+}

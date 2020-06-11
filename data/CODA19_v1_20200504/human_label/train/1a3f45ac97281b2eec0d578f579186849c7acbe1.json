@@ -1,0 +1,127 @@
+{
+  "paper_id": "1a3f45ac97281b2eec0d578f579186849c7acbe1",
+  "metadata": {
+    "title": "Using thermodynamic parameters to calibrate a mechanistic dose-response for infection of a host by a virus A R T I C L E I N F O",
+    "coda_data_split": "train",
+    "coda_paper_id": 3557,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Assessing the risk of infection from emerging viruses or of existing viruses jumping the species barrier into novel hosts is limited by the lack of dose response data. The initial stages of the infection of a host by a virus involve a series of specific contact interactions between molecules in the host and on the virus surface. The strength of the interaction is quantified in the literature by the dissociation constant (K d ) which is determined experimentally and is specific for a given virus molecule/host molecule combination. Here, two stages of the initial infection process of host intestinal cells are modelled, namely escape of the virus in the oral challenge dose from the innate host defenses (e.g. mucin proteins in mucus) and the subsequent binding of any surviving virus to receptor molecules on the surface of the host epithelial cells. The strength of virus binding to host cells and to mucins may be quantified by the association constants, K a and K mucin , respectively. Here, a mechanistic dose-response model for the probability of infection of a host by a given virus dose is constructed using K a and K mucin which may be derived from published K d values taking into account the number of specific molecular interactions. It is shown that the effectiveness of the mucus barrier is determined not only by the amount of mucin but also by the magnitude of K mucin . At very high K mucin values, slight excesses of mucin over virus are sufficient to remove all the virus according to the model. At lower K mucin values, high numbers of virus may escape even with large excesses of mucin. The output from the mechanistic model is the probability (p 1 ) of infection by a single virion which is the parameter used in conventional dose-response models to predict the risk of infection of the host from the ingested dose. It is shown here how differences in K a (due to molecular differences in an emerging virus strain or new host) affect p 1 , and how these differences in K a may be quantified in terms of two thermodynamic parameters, namely enthalpy and entropy. This provides the theoretical link between sequencing data and risk of infection. Lack of data on entropy is a limitation at present and may also affect our interpretation of K d in terms of infectivity. It is concluded that thermodynamic approaches have a major contribution to make in developing dose-response models for emerging viruses.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Assessing the risk of infection from emerging viruses or of existing viruses jumping the species barrier into novel hosts is limited by the lack of dose response data .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The initial stages of the infection of a host by a virus involve a series of specific contact interactions between molecules in the host and on the virus surface .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The strength of the interaction is quantified in the literature by the dissociation constant ( K d ) which is determined experimentally and is specific for a given virus molecule/host molecule combination .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , two stages of the initial infection process of host intestinal cells are modelled ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "namely escape of the virus in the oral challenge dose from the innate host defenses ( e.g. mucin proteins in mucus ) and the subsequent binding of any surviving virus to receptor molecules on the surface of the host epithelial cells .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The strength of virus binding to host cells and to mucins may be quantified by the association constants ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "K a and K mucin , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , a mechanistic dose-response model for the probability of infection of a host by a given virus dose is constructed using K a and K mucin which may be derived from published K d values taking into account the number of specific molecular interactions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is shown that the effectiveness of the mucus barrier is determined not only by the amount of mucin but also by the magnitude of K mucin .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "At very high K mucin values ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "slight excesses of mucin over virus are sufficient to remove all the virus according to the model .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "At lower K mucin values ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "high numbers of virus may escape even with large excesses of mucin .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The output from the mechanistic model is the probability ( p 1 ) of infection by a single virion which is the parameter used in conventional dose-response models to predict the risk of infection of the host from the ingested dose .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is shown here how differences in K a ( due to molecular differences in an emerging virus strain or new host ) affect p 1 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and how these differences in K a may be quantified in terms of two thermodynamic parameters , namely enthalpy and entropy .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This provides the theoretical link between sequencing data and risk of infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Lack of data on entropy is a limitation at present and may also affect our interpretation of K d in terms of infectivity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is concluded that thermodynamic approaches have a major contribution to make in developing dose-response models for emerging viruses .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "14",
+    "segment_num": "19",
+    "token_num": "443"
+  }
+}

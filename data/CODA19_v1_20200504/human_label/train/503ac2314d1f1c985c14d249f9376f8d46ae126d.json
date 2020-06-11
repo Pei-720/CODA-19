@@ -1,0 +1,59 @@
+{
+  "paper_id": "503ac2314d1f1c985c14d249f9376f8d46ae126d",
+  "metadata": {
+    "title": "Optimal control analysis of a tuberculosis model R , RR",
+    "coda_data_split": "train",
+    "coda_paper_id": 9011,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "In this paper, we extend the model of Liu and Zhang (Math Comput Model 54:836-845, 2011) by incorporating three control terms and apply optimal control theory to the resulting model. Optimal control strategies are proposed to minimize both the disease burden and the intervention cost. We prove the existence and uniqueness of optimal control paths and obtain these optimal paths analytically using Pontryagin\u0027s Maximum Principle. We analyse our results numerically to compare various strategies of proposed controls. It is observed that implementation of three controls is most effective and less expensive among all the strategies. Thus, we conclude that in order to reduce tuberculosis threat all the three controls must be taken into consideration concurrently.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this paper , we extend the model of Liu and Zhang ( Math Comput Model 54:836-845 , 2011 ) by incorporating three control terms and apply optimal control theory to the resulting model .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Optimal control strategies are proposed to minimize both the disease burden and the intervention cost .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We prove the existence and uniqueness of optimal control paths and obtain these optimal paths analytically using Pontryagin \u0027s Maximum Principle .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We analyse our results numerically to compare various strategies of proposed controls .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is observed that implementation of three controls is most effective and less expensive among all the strategies .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , we conclude that in order to reduce tuberculosis threat all the three controls must be taken into consideration concurrently .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "6",
+    "token_num": "127"
+  }
+}

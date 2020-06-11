@@ -1,0 +1,73 @@
+{
+  "paper_id": "45dad2e0a82a6a22df9c573f868655018d5233f5",
+  "metadata": {
+    "title": "Use of Unstructured Event-Based Reports for Global Infectious Disease Surveillance",
+    "coda_data_split": "train",
+    "coda_paper_id": 4536,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Free or low-cost sources of unstructured information, such as Internet news and online discussion sites, provide detailed local and near real-time data on disease outbreaks, even in countries that lack traditional public health surveillance. To improve public health surveillance and, ultimately, interventions, we examined 3 primary systems that process event-based outbreak information: Global Public Health Intelligence Network, HealthMap, and EpiSPIDER. Despite similarities among them, these systems are highly complementary because they monitor different data types, rely on varying levels of automation and human analysis, and distribute distinct information. Future development should focus on linking these systems more closely to public health practitioners in the fi eld and establishing collaborative networks for alert verifi cation and dissemination. Such development would further establish event-based monitoring as an invaluable public health resource that provides critical context and an alternative to traditional indicator-based outbreak reporting.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Free or low-cost sources of unstructured information ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as Internet news and online discussion sites ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "provide detailed local and near real-time data on disease outbreaks ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "even in countries that lack traditional public health surveillance .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To improve public health surveillance and ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "ultimately , interventions , we examined 3 primary systems that process event-based outbreak information : Global Public Health Intelligence Network , HealthMap , and EpiSPIDER .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Despite similarities among them , these systems are highly complementary because they monitor different data types ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "rely on varying levels of automation and human analysis , and distribute distinct information .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Future development should focus on linking these systems more closely to public health practitioners in the fi eld and establishing collaborative networks for alert verifi cation and dissemination .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Such development would further establish event-based monitoring as an invaluable public health resource that provides critical context and an alternative to traditional indicator-based outbreak reporting .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "10",
+    "token_num": "158"
+  }
+}

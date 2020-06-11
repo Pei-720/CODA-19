@@ -1,0 +1,106 @@
+{
+  "paper_id": "f787f681d002077ccf52bcea98f4e708d71fd41d",
+  "metadata": {
+    "title": "The Effect of Contact Investigations and Public Health Interventions in the Control and Prevention of Measles Transmission: A Simulation Study",
+    "coda_data_split": "test",
+    "coda_paper_id": 996,
+    "coda_has_expert_labels": true,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Measles cases continue to occur despite its elimination status in the United States. To control transmission, public health officials confirm the measles diagnosis, identify close contacts of infectious cases, deliver public health interventions (i.e., post-exposure prophylaxis) among those who are eligible, and follow-up with the close contacts to determine overall health outcomes. A stochastic network simulation of measles contact tracing was conducted using existing agent-based modeling software and a synthetic population with high levels of immunity in order to estimate the impact of different interventions in controlling measles transmission.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Measles cases continue to occur despite its elimination status in the United States .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To control transmission , public health officials confirm the measles diagnosis ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "identify close contacts of infectious cases ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "deliver public health interventions ( i.e. , post-exposure prophylaxis ) among those who are eligible ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and follow-up with the close contacts to determine overall health outcomes .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "A stochastic network simulation of measles contact tracing was conducted using existing agent-based modeling software and a synthetic population with high levels of immunity in order to estimate the impact of different interventions in controlling measles transmission .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The synthetic population was created to simulate California\u0027s population in terms of population demographics, household, workplace, school, and neighborhood characteristics using California Department of Finance 2010 census data. Parameters for the model were obtained from a review of the literature, California measles case surveillance data, and expert opinion. Eight different scenarios defined by the use of three different public health interventions were evaluated: (a) post-exposure measles, mumps, and rubella (MMR) vaccine, (b) post-exposure immune globulin (IG), and (c) voluntary isolation and home quarantine in the presence or absence of public health response delays. Voluntary isolation and home quarantine coupled with one or two other interventions had the greatest reduction in the number of secondary cases infected by the index case and the probability of escape situations (i.e., the outbreak continues after 90 days).",
+      "sentences": [
+        [
+          {
+            "segment_text": "The synthetic population was created to simulate California \u0027s population in terms of population demographics ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "household , workplace , school ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and neighborhood characteristics using California Department of Finance 2010 census data .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Parameters for the model were obtained from a review of the literature ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "California measles case surveillance data , and expert opinion .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Eight different scenarios defined by the use of three different public health interventions were evaluated : ( a ) post-exposure measles ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "mumps , and rubella ( MMR ) vaccine ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "( b ) post-exposure immune globulin ( IG ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and ( c ) voluntary isolation and home quarantine in the presence or absence of public health response delays .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Voluntary isolation and home quarantine coupled with one or two other interventions had the greatest reduction in the number of secondary cases infected by the index case and the probability of escape situations ( i.e. , the outbreak continues after 90 days ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "7",
+    "segment_num": "16",
+    "token_num": "261"
+  }
+}

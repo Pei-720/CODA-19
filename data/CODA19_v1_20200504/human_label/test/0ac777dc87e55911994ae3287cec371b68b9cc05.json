@@ -1,0 +1,85 @@
+{
+  "paper_id": "0ac777dc87e55911994ae3287cec371b68b9cc05",
+  "metadata": {
+    "title": "Autoregulatory Frameshifting in Decoding Mammalian Ornithine Decarboxylase Antizyme",
+    "coda_data_split": "test",
+    "coda_paper_id": 633,
+    "coda_has_expert_labels": true,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Rat antizyme gene expression requires programmed, ribosomal frameshiffing. A novel autoregulatory mechanism enables modulation of frameshiffing according to the cellular concentration of polyamines. Antizyme binds to, and destabilizes, ornithine decarboxylase, a key enzyme in polyamine synthesis. Rapid degradation ensues, thus completing a regulatory circuit. In vitro experiments with a fusion construct using reticu-Iocyte lysates demonstrate polyamine-dependent expression with a frameshift efficiency of 19% at the optimal concentration of spermidine. The frameshift is +1 and occurs at the codon just preceding the terminator of the initiating frame. Both the termination codon of the initiating frame and a pseudoknot downstream in the mRNA have a stimulatory effect. The shift site sequence, UCC-UGA-U, is not similar to other known frameshift sites. The mechanism does not seem to involve re-pairing of peptidyl-tRNA in the new frame but rather reading or occlusion of a fourth base.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Rat antizyme gene expression requires programmed , ribosomal frameshiffing .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A novel autoregulatory mechanism enables modulation of frameshiffing according to the cellular concentration of polyamines .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Antizyme binds to , and destabilizes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "ornithine decarboxylase , a key enzyme in polyamine synthesis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Rapid degradation ensues , thus completing a regulatory circuit .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In vitro experiments with a fusion construct using reticu-Iocyte lysates demonstrate polyamine-dependent expression with a frameshift efficiency of 19 % at the optimal concentration of spermidine .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The frameshift is +1 and occurs at the codon just preceding the terminator of the initiating frame .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Both the termination codon of the initiating frame and a pseudoknot downstream in the mRNA have a stimulatory effect .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The shift site sequence , UCC-UGA-U ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "is not similar to other known frameshift sites .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The mechanism does not seem to involve re-pairing of peptidyl-tRNA in the new frame but rather reading or occlusion of a fourth base .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "9",
+    "segment_num": "11",
+    "token_num": "158"
+  }
+}

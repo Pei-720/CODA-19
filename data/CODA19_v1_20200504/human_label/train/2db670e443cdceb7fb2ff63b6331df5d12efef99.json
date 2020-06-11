@@ -1,0 +1,77 @@
+{
+  "paper_id": "2db670e443cdceb7fb2ff63b6331df5d12efef99",
+  "metadata": {
+    "title": "A Quantitative Method for the Specific Assessment of Caspase-6 Activity in Cell Culture",
+    "coda_data_split": "train",
+    "coda_paper_id": 3642,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Aberrant activation of caspase-6 has recently emerged as a major contributor to the pathogeneses of neurodegenerative disorders such as Alzheimer\u0027s and Huntington disease. Commercially available assays to measure caspase-6 activity commonly use the VEID peptide as a substrate. However these methods are not well suited to specifically assess caspase-6 activity in the presence of other, confounding protease activities, as often encountered in cell and tissue samples. Here we report the development of a method that overcomes this limitation by using a protein substrate, lamin A, which is highly specific for caspase-6 cleavage at amino acid 230. Using a neo-epitope antibody against cleaved lamin A, we developed an electrochemiluminescence-based ELISA assay that is suitable to specifically detect and quantify caspase-6 activity in highly apoptotic cell extracts. The method is more sensitive than VEID-based assays and can be adapted to a high-content imaging platform for high-throughput screening. This method should be useful to screen for and characterize caspase-6 inhibitor compounds and other interventions to decrease intracellular caspase-6 activity for applications in neurodegenerative disorders.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Aberrant activation of caspase-6 has recently emerged as a major contributor to the pathogeneses of neurodegenerative disorders such as Alzheimer \u0027s and Huntington disease .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Commercially available assays to measure caspase-6 activity commonly use the VEID peptide as a substrate .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However these methods are not well suited to specifically assess caspase-6 activity in the presence of other ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "confounding protease activities , as often encountered in cell and tissue samples .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we report the development of a method that overcomes this limitation by using a protein substrate ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "lamin A , which is highly specific for caspase-6 cleavage at amino acid 230 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using a neo-epitope antibody against cleaved lamin A ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we developed an electrochemiluminescence-based ELISA assay that is suitable to specifically detect and quantify caspase-6 activity in highly apoptotic cell extracts .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The method is more sensitive than VEID-based assays and can be adapted to a high-content imaging platform for high-throughput screening .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This method should be useful to screen for and characterize caspase-6 inhibitor compounds and other interventions to decrease intracellular caspase-6 activity for applications in neurodegenerative disorders .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "10",
+    "token_num": "184"
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "paper_id": "aeb0c3a2994cf6075961a930c84245563aedea3e",
+  "metadata": {
+    "title": "Simulation-based Estimation of the Spread of COVID-19 in Iran",
+    "coda_data_split": "train",
+    "coda_paper_id": 10023,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "This is a preprint version, not peer-reviewed yet, and readers should treat it accordingly. 2 Summary Background: The COVID-19 disease has turned into a global pandemic with unprecedented challenges for the global community. Understanding the state of the disease and planning for future trajectories relies heavily on data on the spread and mortality. Yet official data coming from various countries are highly unreliable: symptoms similar to common cold in majority of cases and limited screening resources and delayed testing procedures may contribute to underestimation of the burden of disease. Anecdotal and more limited data are available, but few have systematically combined those with official statistics into a coherent view of the epidemic. This study is a modeling-in-real-time of the emerging outbreak for understanding the state of the disease. Our focus is on the case of the spread of disease in Iran, as one of the epicenters of the disease in the first months of 2020.",
+      "sentences": [
+        [
+          {
+            "segment_text": "This is a preprint version ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "not peer-reviewed yet , and readers should treat it accordingly .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "2 Summary Background : The COVID-19 disease has turned into a global pandemic with unprecedented challenges for the global community .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Understanding the state of the disease and planning for future trajectories relies heavily on data on the spread and mortality .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Yet official data coming from various countries are highly unreliable : symptoms similar to common cold in majority of cases and limited screening resources and delayed testing procedures may contribute to underestimation of the burden of disease .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Anecdotal and more limited data are available ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but few have systematically combined those with official statistics into a coherent view of the epidemic .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study is a modeling-in-real-time of the emerging outbreak for understanding the state of the disease .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our focus is on the case of the spread of disease in Iran ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "as one of the epicenters of the disease in the first months of 2020 .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We develop a simple dynamic model of the epidemic to provide a more reliable picture of the state of the disease based on existing data. Building on the generic SEIR (Susceptible, Exposed, Infected, and Recovered) framework we incorporate two behavioral and logistical considerations. First we capture the endogenous changes in contact rate (average contact per person) as more death are reported. As a result the reproduction number changes endogenously in the model. Second we differentiate reported and true cases by including simple formulations for how only a fraction of cases might be diagnosed, and how that fraction changes in response to epidemic\u0027s progression. In estimating the model we use both the official data as well as the discovered infected travelers and unofficial medical community estimates and triangulate these sources to build a more complete picture. Calibration is completed by forming a likelihood function for observing the actual time series data conditional on model parameters, and conducting a Markov Chain Monte Carlo simulations. The model is used to estimate current \"true\" cases of infection and death. We analyze the future trajectory of the disease under six conditions related to the seasonal effects and policy measures targeting social distancing.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We develop a simple dynamic model of the epidemic to provide a more reliable picture of the state of the disease based on existing data .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Building on the generic SEIR ( Susceptible , Exposed , Infected , and Recovered ) framework we incorporate two behavioral and logistical considerations .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "First we capture the endogenous changes in contact rate ( average contact per person ) as more death are reported .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "As a result the reproduction number changes endogenously in the model .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Second we differentiate reported and true cases by including simple formulations for how only a fraction of cases might be diagnosed ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and how that fraction changes in response to epidemic \u0027s progression .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In estimating the model we use both the official data as well as the discovered infected travelers and unofficial medical community estimates and triangulate these sources to build a more complete picture .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Calibration is completed by forming a likelihood function for observing the actual time series data conditional on model parameters ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and conducting a Markov Chain Monte Carlo simulations .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The model is used to estimate current `` true \u0027\u0027 cases of infection and death .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We analyze the future trajectory of the disease under six conditions related to the seasonal effects and policy measures targeting social distancing .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The model closely replicates the past data but also shows the true number of cases is likely far larger. We estimate about 493,000 current infected cases (90% CI: 271K-810K) as 1 A Persian summary of the article is provided as an appendix. ‫است‬ ‫موجود‬ ‫انتها‬ ‫ضمیمه‬ ‫در‬ ‫فارسی‬ ‫به‬ ‫مقاله‬ ‫خالصه‬",
+      "sentences": [
+        [
+          {
+            "segment_text": "The model closely replicates the past data but also shows the true number of cases is likely far larger .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We estimate about 493,000 current infected cases ( 90 % CI : 271K-810K ) as 1 A Persian summary of the article is provided as an appendix .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "است موجود انتها ضمیمه در فارسی به مقاله خالصه",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "19",
+    "segment_num": "24",
+    "token_num": "443"
+  }
+}

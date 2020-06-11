@@ -1,0 +1,116 @@
+{
+  "paper_id": "4be5e5e95884bbd33c489335d131e98674af006c",
+  "metadata": {
+    "title": "Viral proteome size and CD8+ T cell epitope density are correlated: The effect of complexity on selection",
+    "coda_data_split": "train",
+    "coda_paper_id": 2442,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The relation between the complexity of organisms and proteins and their evolution rates has been discussed in the context of multiple generic models. The main robust claim from most such models is the negative relation between complexity and the accumulation rate of mutations.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The relation between the complexity of organisms and proteins and their evolution rates has been discussed in the context of multiple generic models .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The main robust claim from most such models is the negative relation between complexity and the accumulation rate of mutations .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Viruses accumulate escape mutations in their epitopes to avoid detection and destruction of their host cell by CD8+ T cells. The extreme regime of immune escape, namely, strong selection and high mutation rate, provide an opportunity to extend and validate the existing models of relation between complexity and evolution rate as proposed by Fisher and Kimura.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Viruses accumulate escape mutations in their epitopes to avoid detection and destruction of their host cell by CD8 + T cells .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The extreme regime of immune escape ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "namely , strong selection and high mutation rate ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "provide an opportunity to extend and validate the existing models of relation between complexity and evolution rate as proposed by Fisher and Kimura .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Using epitope prediction algorithms to compute the epitopes presented on the most frequent human HLA alleles in over 100 fully sequenced human viruses, and over 900 non-human viruses, we here study the correlation between viruses/proteins complexity (as measured by the number of proteins in the virus and the length of each protein, respectively) and the rate of accumulation of escape mutation. The latter is evaluated by measuring the normalized epitope density of viral proteins.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Using epitope prediction algorithms to compute the epitopes presented on the most frequent human HLA alleles in over 100 fully sequenced human viruses ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and over 900 non-human viruses ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we here study the correlation between viruses/proteins complexity ( as measured by the number of proteins in the virus and the length of each protein , respectively ) and the rate of accumulation of escape mutation .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The latter is evaluated by measuring the normalized epitope density of viral proteins .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "If the virus/protein complexity prevents the accumulation of escape mutations, the epitope density is expected to be positively correlated with both the number of proteins in the virus and the length of proteins. We show that such correlations are indeed observed for most human viruses. For non-human viruses the correlations were much less significant, indicating that the correlation is indeed induced by human HLA molecules.",
+      "sentences": [
+        [
+          {
+            "segment_text": "If the virus/protein complexity prevents the accumulation of escape mutations ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the epitope density is expected to be positively correlated with both the number of proteins in the virus and the length of proteins .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We show that such correlations are indeed observed for most human viruses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "For non-human viruses the correlations were much less significant ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "indicating that the correlation is indeed induced by human HLA molecules .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "9",
+    "segment_num": "15",
+    "token_num": "258"
+  }
+}

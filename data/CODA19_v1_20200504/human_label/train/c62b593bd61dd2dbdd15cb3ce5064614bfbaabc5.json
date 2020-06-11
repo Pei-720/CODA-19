@@ -1,0 +1,255 @@
+{
+  "paper_id": "c62b593bd61dd2dbdd15cb3ce5064614bfbaabc5",
+  "metadata": {
+    "title": "",
+    "coda_data_split": "train",
+    "coda_paper_id": 2269,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) was first reported in China, which caused a respiratory disease known as Coronavirus Disease 2019 . Since its discovery, the virus has spread to over 160 countries and claimed more than 9800 deaths. This study aimed to assess the effectiveness and cost-effectiveness of various response public health measures.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The Severe Acute Respiratory Syndrome Coronavirus 2 ( SARS-CoV-2 ) was first reported in China ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which caused a respiratory disease known as Coronavirus Disease 2019 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Since its discovery , the virus has spread to over 160 countries and claimed more than 9800 deaths .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study aimed to assess the effectiveness and cost-effectiveness of various response public health measures .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The stochastic agent-based model was used to simulate the process of COVID-19 outbreak in scenario I (imported one case) and II (imported four cases) with a series of public health measures, involving the personal protection, : medRxiv preprint 2 isolation-and-quarantine, gathering restriction, and community containment. The virtual community was constructed following the susceptible-latent-infectious-recovered framework. The epidemiological and economic parameters derived from the previous literature and field investigation.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The stochastic agent-based model was used to simulate the process of COVID-19 outbreak in scenario I ( imported one case ) and II ( imported four cases ) with a series of public health measures ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "involving the personal protection , : medRxiv preprint 2 isolation-and-quarantine ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "gathering restriction , and community containment .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The virtual community was constructed following the susceptible-latent-infectious-recovered framework .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The epidemiological and economic parameters derived from the previous literature and field investigation .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The main outcomes included avoided infectors, cost-effectiveness ratios (CERs), and incremental cost-effectiveness ratios (ICERs). The sensitivity analyses were undertaken to assess uncertainty.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The main outcomes included avoided infectors ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "cost-effectiveness ratios ( CERs ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and incremental cost-effectiveness ratios ( ICERs ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The sensitivity analyses were undertaken to assess uncertainty .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In scenario I and II, the isolation-and-quarantine averted 1696 and 1990 humans infected respectively at the cost of US$12 428 and US$58 555, both with negative value of ICERs. The joint strategy of personal protection and isolation-and-quarantine could avert one more case than single isolation-and-quarantine with additional cost of US$166 871 and US$180 140",
+      "sentences": [
+        [
+          {
+            "segment_text": "In scenario I and II ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the isolation-and-quarantine averted 1696 and 1990 humans infected respectively at the cost of US$ 12 428 and US$ 58 555 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "both with negative value of ICERs .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The joint strategy of personal protection and isolation-and-quarantine could avert one more case than single isolation-and-quarantine with additional cost of US$ 166 871 and US$ 180 140",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "respectively. The effectiveness of isolation-and-quarantine decreased as lowering quarantine probability and increasing delay-time. Especially in scenario II, when the quarantine probability was less than 25%, the number of infections raised sharply;",
+      "sentences": [
+        [
+          {
+            "segment_text": "respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The effectiveness of isolation-and-quarantine decreased as lowering quarantine probability and increasing delay-time .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Especially in scenario II , when the quarantine probability was less than 25 % ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the number of infections raised sharply ;",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "when the quarantine delay-time reached six days, more than a quarter of individuals would be infected in the community. The strategy including community containment could protect more lives and was cost-effective, when the number of imported cases was no less than 65, or the delay-time of quarantine was more than five days, or the quarantine probability was below 25%, based on current assumptions.",
+      "sentences": [
+        [
+          {
+            "segment_text": "when the quarantine delay-time reached six days ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "more than a quarter of individuals would be infected in the community .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The strategy including community containment could protect more lives and was cost-effective ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "when the number of imported cases was no less than 65 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "or the delay-time of quarantine was more than five days ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "or the quarantine probability was below 25 % , based on current assumptions .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The isolation-and-quarantine was the most cost-effective intervention.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The isolation-and-quarantine was the most cost-effective intervention .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "However, personal protection and isolation-and-quarantine was the optimal strategy . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "However , personal protection and isolation-and-quarantine was the optimal strategy .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "CC-BY-NC-ND 4.0 International license It is made available under a author/funder ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "who has granted medRxiv a license to display the preprint in perpetuity .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10. 1101 /2020 averting more infectors than single isolation-and-quarantine. Certain restrictions should be considered, such as more initial imported cases, longer quarantine delay-time and lower quarantine probability.",
+      "sentences": [
+        [
+          {
+            "segment_text": "is the ( which was not peer-reviewed ) The copyright holder for this preprint .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "https://doi.org/10 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "1101 / 2020 averting more infectors than single isolation-and-quarantine .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Certain restrictions should be considered ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "such as more initial imported cases ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "longer quarantine delay-time and lower quarantine probability .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "9",
+    "sentence_num": "22",
+    "segment_num": "37",
+    "token_num": "431"
+  }
+}

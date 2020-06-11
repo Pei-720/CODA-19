@@ -1,0 +1,63 @@
+{
+  "paper_id": "ecd106f4fb36a44a5c8fcbc2a2bc7f86ce5fd7cb",
+  "metadata": {
+    "title": "",
+    "coda_data_split": "test",
+    "coda_paper_id": 651,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "publicly funded repositories, such as the WHO COVID database with rights for unrestricted research re-use and analyses in any form or by any means with acknowledgement of the original source. These permissions are granted for free by Elsevier for as long as the COVID-19 resource centre remains active. C, Cats; D, dogs. * Only clinical signs/disease syndromes from animals with natural infection listed. Data compiled from references 26,35,44,66-71,75-77,83-86. † Seroreactivity reported in cats, but no confirmed cases of infection (see text).",
+      "sentences": [
+        [
+          {
+            "segment_text": "publicly funded repositories , such as the WHO COVID database with rights for unrestricted research re-use and analyses in any form or by any means with acknowledgement of the original source .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These permissions are granted for free by Elsevier for as long as the COVID-19 resource centre remains active .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "C , Cats ; D , dogs .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "* Only clinical signs/disease syndromes from animals with natural infection listed .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Data compiled from references 26,35,44,66-71,75-77,83-86 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "† Seroreactivity reported in cats ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but no confirmed cases of infection ( see text ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "7",
+    "token_num": "94"
+  }
+}

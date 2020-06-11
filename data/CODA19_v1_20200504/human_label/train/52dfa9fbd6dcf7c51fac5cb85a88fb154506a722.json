@@ -1,0 +1,83 @@
+{
+  "paper_id": "52dfa9fbd6dcf7c51fac5cb85a88fb154506a722",
+  "metadata": {
+    "title": "RNA based mNGS approach identifies a novel human coronavirus from two individual pneumonia cases in 2019 Wuhan outbreak",
+    "coda_data_split": "train",
+    "coda_paper_id": 9367,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "From December 2019, an outbreak of unusual pneumonia was reported in Wuhan with many cases linked to Huanan Seafood Market that sells seafood as well as live exotic animals. We investigated two patients who developed acute respiratory syndromes after independent contact history with this market. The two patients shared common clinical features including fever, cough, and multiple ground-glass opacities in the bilateral lung field with patchy infiltration. Here, we highlight the use of a low-input metagenomic next-generation sequencing (mNGS) approach on RNA extracted from bronchoalveolar lavage fluid (BALF). It rapidly identified a novel coronavirus (named 2019-nCoV according to World Health Organization announcement) which was the sole pathogens in the sample with very high abundance level (1.5% and 0.62% of total RNA sequenced). The entire viral genome is 29,881 nt in length (GenBank MN988668 and MN988669, Sequence Read Archive database Bioproject accession PRJNA601736) and is classified into β-coronavirus genus. Phylogenetic analysis indicates that 2019-nCoV is close to coronaviruses (CoVs) circulating in Rhinolophus (Horseshoe bats), such as 98.7% nucleotide identity to partial RdRp gene of bat coronavirus strain BtCoV/ 4991 (GenBank KP876546, 370 nt sequence of RdRp and lack of other genome sequence) and 87.9% nucleotide identity to bat coronavirus strain bat-SL-CoVZC45 and bat-SL-CoVZXC21. Evolutionary analysis based on ORF1a/1b, S, and N genes also suggests 2019-nCoV is more likely a novel CoV independently introduced from animals to humans.",
+      "sentences": [
+        [
+          {
+            "segment_text": "From December 2019 , an outbreak of unusual pneumonia was reported in Wuhan with many cases linked to Huanan Seafood Market that sells seafood as well as live exotic animals .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We investigated two patients who developed acute respiratory syndromes after independent contact history with this market .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The two patients shared common clinical features including fever ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "cough , and multiple ground-glass opacities in the bilateral lung field with patchy infiltration .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we highlight the use of a low-input metagenomic next-generation sequencing ( mNGS ) approach on RNA extracted from bronchoalveolar lavage fluid ( BALF ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "It rapidly identified a novel coronavirus ( named 2019-nCoV according to World Health Organization announcement ) which was the sole pathogens in the sample with very high abundance level ( 1.5 % and 0.62 % of total RNA sequenced ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The entire viral genome is 29,881 nt in length ( GenBank MN988668 and MN988669 , Sequence Read Archive database Bioproject accession PRJNA601736 ) and is classified into β-coronavirus genus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Phylogenetic analysis indicates that 2019-nCoV is close to coronaviruses ( CoVs ) circulating in Rhinolophus ( Horseshoe bats ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "such as 98.7 % nucleotide identity to partial RdRp gene of bat coronavirus strain BtCoV / 4991 ( GenBank KP876546 , 370 nt sequence of RdRp and lack of other genome sequence ) and 87.9 % nucleotide identity to bat coronavirus strain bat-SL-CoVZC45 and bat-SL-CoVZXC21 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Evolutionary analysis based on ORF1a/1b ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "S , and N genes also suggests 2019-nCoV is more likely a novel CoV independently introduced from animals to humans .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "11",
+    "token_num": "264"
+  }
+}

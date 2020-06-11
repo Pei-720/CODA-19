@@ -1,0 +1,101 @@
+{
+  "paper_id": "fd1910cd1f9847cf0b72bbcf0d94447807c9de66",
+  "metadata": {
+    "title": "ELM: enhanced lowest common ancestor based method for detecting a pathogenic virus from a large sequence dataset",
+    "coda_data_split": "train",
+    "coda_paper_id": 8460,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Emerging viral diseases, most of which are caused by the transmission of viruses from animals to humans, pose a threat to public health. Discovering pathogenic viruses through surveillance is the key to preparedness for this potential threat. Next generation sequencing (NGS) helps us to identify viruses without the design of a specific PCR primer. The major task in NGS data analysis is taxonomic identification for vast numbers of sequences. However, taxonomic identification via a BLAST search against all the known sequences is a computational bottleneck. Description: Here we propose an enhanced lowest-common-ancestor based method (ELM) to effectively identify viruses from massive sequence data. To reduce the computational cost, ELM uses a customized database composed only of viral sequences for the BLAST search. At the same time, ELM adopts a novel criterion to suppress the rise in false positive assignments caused by the small database. As a result, identification by ELM is more than 1,000 times faster than the conventional methods without loss of accuracy. Conclusions: We anticipate that ELM will contribute to direct diagnosis of viral infections. The web server and the customized viral database are freely available at http://bioinformatics.czc.hokudai.ac.jp/ELM/.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Emerging viral diseases ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "most of which are caused by the transmission of viruses from animals to humans ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "pose a threat to public health .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Discovering pathogenic viruses through surveillance is the key to preparedness for this potential threat .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Next generation sequencing ( NGS ) helps us to identify viruses without the design of a specific PCR primer .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The major task in NGS data analysis is taxonomic identification for vast numbers of sequences .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , taxonomic identification via a BLAST search against all the known sequences is a computational bottleneck .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Description : Here we propose an enhanced lowest-common-ancestor based method ( ELM ) to effectively identify viruses from massive sequence data .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "To reduce the computational cost ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "ELM uses a customized database composed only of viral sequences for the BLAST search .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "At the same time , ELM adopts a novel criterion to suppress the rise in false positive assignments caused by the small database .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "As a result , identification by ELM is more than 1,000 times faster than the conventional methods without loss of accuracy .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Conclusions : We anticipate that ELM will contribute to direct diagnosis of viral infections .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The web server and the customized viral database are freely available at http://bioinformatics.czc.hokudai.ac.jp/ELM/ .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "11",
+    "segment_num": "14",
+    "token_num": "215"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "paper_id": "a751eee7f538e9e54dbf1b65b0f90cc4579faec8",
+  "metadata": {
+    "title": "SARS-CoV-2 detection from nasopharyngeal swab samples without RNA extraction",
+    "coda_data_split": "train",
+    "coda_paper_id": 6175,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The ongoing COVID-19 pandemic has reached more than 200 countries and territories worldwide. Given the large requirement of SARS-CoV-2 diagnosis and considering that RNA extraction kits are in short supply, we investigated whether two commercial RT-qPCR kits were compatible with direct SARS-CoV-2 detection from nasopharyngeal swab samples. We show that one of the tested kits is fully compatible with direct SARS-CoV-2 detection suggesting that omission of an RNA extraction step should be considered in SARS-CoV-2 diagnosis.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The ongoing COVID-19 pandemic has reached more than 200 countries and territories worldwide .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Given the large requirement of SARS-CoV-2 diagnosis and considering that RNA extraction kits are in short supply ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we investigated whether two commercial RT-qPCR kits were compatible with direct SARS-CoV-2 detection from nasopharyngeal swab samples .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We show that one of the tested kits is fully compatible with direct SARS-CoV-2 detection suggesting that omission of an RNA extraction step should be considered in SARS-CoV-2 diagnosis .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Two coronaviruses, SARS-CoV (severe acute respiratory syndrome coronavirus) and MERS-CoV (Middle East respiratory syndrome coronavirus) caused large-scale severe respiratory syndromes in humans in 2002 and 2013, respectively 1, 2 . A recent outbreak of pneumonia in Wuhan, China declared in December 12 th 2019 led to the isolation and identification of a new human coronavirus, 2019-nCoV (SARS-CoV-2), as the responsible agent of this new acute respiratory syndrome 3 . Since, SARS-CoV-2 and the Coronavirus disease 19 (COVID-19) have spread to more than 200 countries and territories worldwide affecting more than 600,000 people (laboratory-confirmed cases) from which around 28,000 have died by COVID-19 4 . As such, the WHO declared COVID-19 outbreak as a pandemic on March 11 th 2020 5 . Given the rapid spread of the SARS-CoV-2 virus and that an important fraction of the infected individuals remains asymptomatic but still spread the virus 6 , rapid and extensive diagnosis together with the isolation of infected individuals remains as one of the most powerful ways to avoid the spread of new COVID-19 cases. There are several RT-qPCR protocols from different countries that are currently approved by the WHO in order to detect SARS-CoV-2 7 . However, one of the limiting steps of such protocols is RNA extraction from clinical samples, which is currently performed by the use of a limited quantity of approved RNA extraction kits. Since the current demand for those kits largely exceeds their offer, it is necessary to develop alternative strategies allowing a rapid detection of the virus. This becomes more important in middle-and low-income countries, which will not have massive access to kit-based diagnosis 8, 9 . In this sense, it was recently reported that the detection of SARS-CoV-2 by RT-qPCR from a mixed sample could be achieved with non-approved kits but also in the absence of an RNA extraction process 10 . Here, we have extended these preliminary observations by using an RNA extraction-free SARS-CoV-2 detection protocol from nasopharyngeal swab samples from two COVID-19 diagnosed individuals using two commercially available and broadly used RT-qPCR kits. Our data indicate that RNA extraction can be omitted from the protocol at least with one of the tested kits allowing the rapid and reliable detection of SARS-CoV-2 directly from nasopharyngeal swabs samples.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Two coronaviruses , SARS-CoV ( severe acute respiratory syndrome coronavirus ) and MERS-CoV ( Middle East respiratory syndrome coronavirus ) caused large-scale severe respiratory syndromes in humans in 2002 and 2013 , respectively 1 , 2 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A recent outbreak of pneumonia in Wuhan ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "China declared in December 12 th 2019 led to the isolation and identification of a new human coronavirus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "2019-nCoV ( SARS-CoV-2 ) , as the responsible agent of this new acute respiratory syndrome 3 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Since , SARS-CoV-2 and the Coronavirus disease 19 ( COVID-19 ) have spread to more than 200 countries and territories worldwide affecting more than 600,000 people ( laboratory-confirmed cases ) from which around 28,000 have died by COVID-19 4 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As such , the WHO declared COVID-19 outbreak as a pandemic on March 11 th 2020 5 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Given the rapid spread of the SARS-CoV-2 virus and that an important fraction of the infected individuals remains asymptomatic but still spread the virus 6 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "rapid and extensive diagnosis together with the isolation of infected individuals remains as one of the most powerful ways to avoid the spread of new COVID-19 cases .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "There are several RT-qPCR protocols from different countries that are currently approved by the WHO in order to detect SARS-CoV-2 7 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , one of the limiting steps of such protocols is RNA extraction from clinical samples ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which is currently performed by the use of a limited quantity of approved RNA extraction kits .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Since the current demand for those kits largely exceeds their offer ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "it is necessary to develop alternative strategies allowing a rapid detection of the virus .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This becomes more important in middle-and low-income countries ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which will not have massive access to kit-based diagnosis 8 , 9 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this sense , it was recently reported that the detection of SARS-CoV-2 by RT-qPCR from a mixed sample could be achieved with non-approved kits but also in the absence of an RNA extraction process 10 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we have extended these preliminary observations by using an RNA extraction-free SARS-CoV-2 detection protocol from nasopharyngeal swab samples from two COVID-19 diagnosed individuals using two commercially available and broadly used RT-qPCR kits .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our data indicate that RNA extraction can be omitted from the protocol at least with one of the tested kits allowing the rapid and reliable detection of SARS-CoV-2 directly from nasopharyngeal swabs samples .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "15",
+    "segment_num": "22",
+    "token_num": "484"
+  }
+}

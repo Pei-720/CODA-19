@@ -1,0 +1,157 @@
+{
+  "paper_id": "e5fe8631b7f7e99f1e71c0cffc582d135c7181a2",
+  "metadata": {
+    "title": "Probing the antigenicity of hepatitis C virus envelope glycoprotein complex by high- throughput mutagenesis Author summary",
+    "coda_data_split": "train",
+    "coda_paper_id": 10335,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "The hepatitis C virus (HCV) envelope glycoproteins E1 and E2 form a non-covalently linked heterodimer on the viral surface that mediates viral entry. E1, E2 and the heterodimer complex E1E2 are candidate vaccine antigens, but are technically challenging to study because of difficulties in producing natively folded proteins by standard protein expression and purification methods. To better comprehend the antigenicity of these proteins, a library of alanine scanning mutants comprising the entirety of E1E2 (555 residues) was created for evaluating the role of each residue in the glycoproteins. The mutant library was probed, by a highthroughput flow cytometry-based assay, for binding with the co-receptor CD81, and a panel of 13 human and mouse monoclonal antibodies (mAbs) that target continuous and discontinuous epitopes of E1, E2, and the E1E2 complex. Together with the recently determined crystal structure of E2 core domain (E2c), we found that several residues in the E2 back layer region indirectly impact binding of CD81 and mAbs that target the conserved neutralizing face of E2. These findings highlight an unexpected role for the E2 back layer in interacting with the E2 front layer for its biological function. We also identified regions of E1 and E2 that likely located at or near the interface of the E1E2 complex, and determined that the E2 back layer also plays an important role in E1E2 complex formation. The conformationdependent reactivity of CD81 and the antibody panel to the E1E2 mutant library provides a global view of the influence of each amino acid (aa) on E1E2 expression and folding. This information is valuable for guiding protein engineering efforts to enhance the antigenic properties and stability of E1E2 for vaccine antigen development and structural studies.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The hepatitis C virus ( HCV ) envelope glycoproteins E1 and E2 form a non-covalently linked heterodimer on the viral surface that mediates viral entry .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "E1 , E2 and the heterodimer complex E1E2 are candidate vaccine antigens ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but are technically challenging to study because of difficulties in producing natively folded proteins by standard protein expression and purification methods .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To better comprehend the antigenicity of these proteins ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a library of alanine scanning mutants comprising the entirety of E1E2 ( 555 residues ) was created for evaluating the role of each residue in the glycoproteins .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The mutant library was probed ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "by a highthroughput flow cytometry-based assay ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "for binding with the co-receptor CD81 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and a panel of 13 human and mouse monoclonal antibodies ( mAbs ) that target continuous and discontinuous epitopes of E1 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "E2 , and the E1E2 complex .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Together with the recently determined crystal structure of E2 core domain ( E2c ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we found that several residues in the E2 back layer region indirectly impact binding of CD81 and mAbs that target the conserved neutralizing face of E2 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These findings highlight an unexpected role for the E2 back layer in interacting with the E2 front layer for its biological function .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also identified regions of E1 and E2 that likely located at or near the interface of the E1E2 complex ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and determined that the E2 back layer also plays an important role in E1E2 complex formation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The conformationdependent reactivity of CD81 and the antibody panel to the E1E2 mutant library provides a global view of the influence of each amino acid ( aa ) on E1E2 expression and folding .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This information is valuable for guiding protein engineering efforts to enhance the antigenic properties and stability of E1E2 for vaccine antigen development and structural studies .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The function and structure of the hepatitis C virus envelope glycoprotein complex E1E2 is poorly understood because of difficulties in producing pure and correctly folded proteins for biochemical and structural analysis. Here, we use monoclonal antibodies to non-overlapping epitopes on E1E2, as well as the CD81 co-receptor, to probe a complete alaninescanning library of the E1E2 protein. This comprehensive binding study delineates the antigenic regions of E1E2. This information is valuable for understanding the folding of E1E2 and for vaccine antigen design efforts.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The function and structure of the hepatitis C virus envelope glycoprotein complex E1E2 is poorly understood because of difficulties in producing pure and correctly folded proteins for biochemical and structural analysis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we use monoclonal antibodies to non-overlapping epitopes on E1E2 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as well as the CD81 co-receptor ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "to probe a complete alaninescanning library of the E1E2 protein .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This comprehensive binding study delineates the antigenic regions of E1E2 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This information is valuable for understanding the folding of E1E2 and for vaccine antigen design efforts .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "High-throughput mutagenesis analysis of HCV E1E2 antigenicity PLOS Pathogens | https://doi.High-throughput mutagenesis analysis of HCV E1E2 antigenicity PLOS Pathogens | https://doi.High-throughput mutagenesis analysis of HCV E1E2 antigenicity PLOS Pathogens | https://doi.",
+      "sentences": [
+        [
+          {
+            "segment_text": "High-throughput mutagenesis analysis of HCV E1E2 antigenicity PLOS Pathogens | https://doi.High-throughput mutagenesis analysis of HCV E1E2 antigenicity PLOS Pathogens | https://doi.High-throughput mutagenesis analysis of HCV E1E2 antigenicity PLOS Pathogens | https://doi .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "14",
+    "segment_num": "24",
+    "token_num": "432"
+  }
+}

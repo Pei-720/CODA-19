@@ -1,0 +1,35 @@
+{
+  "paper_id": "eb4ea7245691cd679aa73cb84050826db5531394",
+  "metadata": {
+    "title": "Decontamination of rooms, medical equipment and ambulances using an aerosol of hydrogen peroxide disinfectant",
+    "coda_data_split": "train",
+    "coda_paper_id": 8779,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "time and the number of cycles of H 2 O 2 . This is especially important for inner parts of medical equipment that cannot be ventilated during the decontamination process.",
+      "sentences": [
+        [
+          {
+            "segment_text": "time and the number of cycles of H 2 O 2 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This is especially important for inner parts of medical equipment that can not be ventilated during the decontamination process .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "2",
+    "segment_num": "2",
+    "token_num": "32"
+  }
+}

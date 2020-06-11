@@ -1,0 +1,99 @@
+{
+  "paper_id": "b0a0f45be3069a32ba190502ab88b6df6d520199",
+  "metadata": {
+    "title": "Positional clustering improves computational binding site detection and identifies novel cis-regulatory sites in mammalian GABA A receptor subunit genes",
+    "coda_data_split": "train",
+    "coda_paper_id": 5399,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Understanding transcription factor (TF) mediated control of gene expression remains a major challenge at the interface of computational and experimental biology. Computational techniques predicting TF-binding site specificity are frequently unreliable. On the other hand, comprehensive experimental validation is difficult and time consuming. We introduce a simple strategy that dramatically improves robustness and accuracy of computational binding site prediction. First, we evaluate the rate of recurrence of computational TFBS predictions by commonly used sampling procedures. We find that the vast majority of results are biologically meaningless. However clustering results based on nucleotide position improves predictive power. Additionally, we find that positional clustering increases robustness to long or imperfectly selected input sequences. Positional clustering can also be used as a mechanism to integrate results from multiple sampling approaches for improvements in accuracy over each one alone. Finally, we predict and validate regulatory sequences partially responsible for transcriptional control of the mammalian type A g-aminobutyric acid receptor (GABA A R) subunit genes. Positional clustering is useful for improving computational binding site predictions, with potential application to improving our understanding of mammalian gene expression. In particular, predicted regulatory mechanisms in the mammalian GABA A R subunit gene family may open new avenues of research towards understanding this pharmacologically important neurotransmitter receptor system.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Understanding transcription factor ( TF ) mediated control of gene expression remains a major challenge at the interface of computational and experimental biology .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Computational techniques predicting TF-binding site specificity are frequently unreliable .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "On the other hand , comprehensive experimental validation is difficult and time consuming .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We introduce a simple strategy that dramatically improves robustness and accuracy of computational binding site prediction .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "First , we evaluate the rate of recurrence of computational TFBS predictions by commonly used sampling procedures .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We find that the vast majority of results are biologically meaningless .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However clustering results based on nucleotide position improves predictive power .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Additionally , we find that positional clustering increases robustness to long or imperfectly selected input sequences .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Positional clustering can also be used as a mechanism to integrate results from multiple sampling approaches for improvements in accuracy over each one alone .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , we predict and validate regulatory sequences partially responsible for transcriptional control of the mammalian type A g-aminobutyric acid receptor ( GABA A R ) subunit genes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Positional clustering is useful for improving computational binding site predictions ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with potential application to improving our understanding of mammalian gene expression .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In particular , predicted regulatory mechanisms in the mammalian GABA A R subunit gene family may open new avenues of research towards understanding this pharmacologically important neurotransmitter receptor system .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "12",
+    "segment_num": "13",
+    "token_num": "230"
+  }
+}

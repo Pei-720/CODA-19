@@ -1,0 +1,122 @@
+{
+  "paper_id": "d48449ff827937b1f17f84eaa5ce9e12e34333a3",
+  "metadata": {
+    "title": "Risikomanagement besonderer Infektionssituationen Risk management of special infections",
+    "coda_data_split": "train",
+    "coda_paper_id": 2646,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Die WHO schätz die Gefahr einer Influenzapandemie sehr hoch ein. Durch die Globalisierung gelangen aber auch andere seuchengefährliche Krankheiten wie SARS oder Ebola nach Deutschland. Hinzu kommt, dass auch bioterroristische Angriffe nicht mehr ausgeschlossen werden können. Hiergegen müssen sich neben allen anderen Fachdisziplinen auch die chirurgischen Abteilungen in den Krankenhäusern wappnen. Am Beispiel der nationalen Pandemieplanung wird die krankenhausinterne Notfallplanung für solche besonderen Infektionssituationen dargestellt.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Die WHO schätz die Gefahr einer Influenzapandemie sehr hoch ein .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Durch die Globalisierung gelangen aber auch andere seuchengefährliche Krankheiten wie SARS oder Ebola nach Deutschland .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hinzu kommt , dass auch bioterroristische Angriffe nicht mehr ausgeschlossen werden können .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hiergegen müssen sich neben allen anderen Fachdisziplinen auch die chirurgischen Abteilungen in den Krankenhäusern wappnen .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Am Beispiel der nationalen Pandemieplanung wird die krankenhausinterne Notfallplanung für solche besonderen Infektionssituationen dargestellt .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Schlüsselwörter",
+      "sentences": [
+        [
+          {
+            "segment_text": "Schlüsselwörter",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Influenza · SARS · Ebola · Bioterorrismus · Pandemienotfallplanung",
+      "sentences": [
+        [
+          {
+            "segment_text": "Influenza · SARS · Ebola · Bioterorrismus · Pandemienotfallplanung",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The WHO considers that there is considerable danger of an influenza pandemic. One result of globalisation is that other highly contagious infectious diseases, such as SARS or Ebola, which are potentially endemic, can also be brought into Germany. Bioterorrism must also be considered. As well as all other medical disciplines, hospital surgical departments must be armed against this now. National pandemic planning will be taken as an example to illustrate the planning needed in hospitals to prepare for emergencies arising from infections in such specific situations.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The WHO considers that there is considerable danger of an influenza pandemic .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "One result of globalisation is that other highly contagious infectious diseases ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "such as SARS or Ebola ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which are potentially endemic , can also be brought into Germany .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Bioterorrism must also be considered .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As well as all other medical disciplines ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "hospital surgical departments must be armed against this now .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "National pandemic planning will be taken as an example to illustrate the planning needed in hospitals to prepare for emergencies arising from infections in such specific situations .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "12",
+    "segment_num": "15",
+    "token_num": "176"
+  }
+}

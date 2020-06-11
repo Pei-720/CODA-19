@@ -1,0 +1,91 @@
+{
+  "paper_id": "3e2e2a0b86f45e26fbd4724a26d74b62a5f7b0e3",
+  "metadata": {
+    "title": "A Pathway for Targeting Soluble Misfolded Proteins to the Yeast Vacuole",
+    "coda_data_split": "train",
+    "coda_paper_id": 2632,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "We have evaluated the fate of misfolded protein domains in the Saccharomyces cerevisiae secretory pathway by fusing mutant forms of the NH2-terminal domain of h repressor protein to the secreted protein invertase. The hybrid protein carrying the wild-type repressor domain is mostly secreted to the cell surface, whereas hybrid proteins with amino acid substitutions that cause the repressor domain to be thermodynamically unstable are retained intracellularly. Surprisingly, the retained hybrids are found in the vacuole, where the repressor moiety is degraded by vacuolar proteases. The following observations indicate that receptor-mediated recognition of the mutant repressor domain in the Golgi lumen targets these hybrid fusions to the vacuole. (a) The invertase-repressor fusions, like wild-type invertase, behave as soluble proteins in the ER lumen. (b) Targeting to the vacuole is saturable since overexpression of the hybrids carrying mutant repressor increases the fraction of fusion protein that appears at the cell surface. (c) Finally, deletion of the VPSIO gene, which encodes the transmembrane Golgi receptor responsible for targeting carboxypeptidase Y to the vacuole, causes the mutant hybrids to be diverted to the cell surface. Together these findings suggest that yeast have a salvage pathway for degradation of nonnative luminal proteins by receptor-mediated transport to the vacuole.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We have evaluated the fate of misfolded protein domains in the Saccharomyces cerevisiae secretory pathway by fusing mutant forms of the NH2-terminal domain of h repressor protein to the secreted protein invertase .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The hybrid protein carrying the wild-type repressor domain is mostly secreted to the cell surface ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "whereas hybrid proteins with amino acid substitutions that cause the repressor domain to be thermodynamically unstable are retained intracellularly .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Surprisingly , the retained hybrids are found in the vacuole ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "where the repressor moiety is degraded by vacuolar proteases .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The following observations indicate that receptor-mediated recognition of the mutant repressor domain in the Golgi lumen targets these hybrid fusions to the vacuole .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( a ) The invertase-repressor fusions ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "like wild-type invertase , behave as soluble proteins in the ER lumen .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( b ) Targeting to the vacuole is saturable since overexpression of the hybrids carrying mutant repressor increases the fraction of fusion protein that appears at the cell surface .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( c ) Finally , deletion of the VPSIO gene ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which encodes the transmembrane Golgi receptor responsible for targeting carboxypeptidase Y to the vacuole ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "causes the mutant hybrids to be diverted to the cell surface .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Together these findings suggest that yeast have a salvage pathway for degradation of nonnative luminal proteins by receptor-mediated transport to the vacuole .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "13",
+    "token_num": "225"
+  }
+}

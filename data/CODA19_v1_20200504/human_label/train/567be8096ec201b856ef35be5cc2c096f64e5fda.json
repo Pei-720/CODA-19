@@ -1,0 +1,312 @@
+{
+  "paper_id": "567be8096ec201b856ef35be5cc2c096f64e5fda",
+  "metadata": {
+    "title": "molecules Human Lectins and Their Roles in Viral Infections",
+    "coda_data_split": "train",
+    "coda_paper_id": 2546,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Innate recognition of virus proteins is an important component of the immune response to viral pathogens. A component of this immune recognition is the family of lectins; pattern recognition receptors (PRRs) that recognise viral pathogen-associated molecular patterns (PAMPs) including viral glycoproteins. In this review we discuss the contribution of soluble and membrane-associated PRRs to immunity against virus pathogens, and the potential role of these molecules in facilitating virus replication. These processes are illustrated with examples of viruses including human immunodeficiency virus (HIV), hepatitis C virus (HCV) and Ebola virus (EBOV). We focus on the structure, function and genetics of the well-characterised C-type lectin mannose-binding lectin, the ficolins, and the membrane-bound CD209 proteins expressed on dendritic cells. The potential for lectin-based antiviral therapies is also discussed. 2230 the primitive immune system depended on lectin-protease-mediated opsonophagocytosis [2] . Lectins differ in tissue expression, ligand affinities, structure and function, and are classified by the phylogeny and primary and tertiary amino acid structures of their carbohydrate-recognition domains (CRD). However there are several inconsistencies in this classification system (reviewed in [3] ).",
+      "sentences": [
+        [
+          {
+            "segment_text": "Innate recognition of virus proteins is an important component of the immune response to viral pathogens .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A component of this immune recognition is the family of lectins ; pattern recognition receptors ( PRRs ) that recognise viral pathogen-associated molecular patterns ( PAMPs ) including viral glycoproteins .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this review we discuss the contribution of soluble and membrane-associated PRRs to immunity against virus pathogens ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and the potential role of these molecules in facilitating virus replication .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "These processes are illustrated with examples of viruses including human immunodeficiency virus ( HIV ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "hepatitis C virus ( HCV ) and Ebola virus ( EBOV ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We focus on the structure ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "function and genetics of the well-characterised C-type lectin mannose-binding lectin ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the ficolins , and the membrane-bound CD209 proteins expressed on dendritic cells .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The potential for lectin-based antiviral therapies is also discussed .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "2230 the primitive immune system depended on lectin-protease-mediated opsonophagocytosis ( 2 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Lectins differ in tissue expression ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "ligand affinities , structure and function ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and are classified by the phylogeny and primary and tertiary amino acid structures of their carbohydrate-recognition domains ( CRD ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However there are several inconsistencies in this classification system ( reviewed in ( 3 ) ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Glycosylation is a form of post-translational modification in which glycans-monosaccharides or oligosaccharides-are glycosidically bonded to an organic molecule (reviewed in [4] ). This modification plays an essential role in the expression and function of many proteins in eukaryotes and prokaryote cells, with roles in, for example, inter-compound interaction and pathogenic immune evasion. Eukaryotic and viral glycosylation occurs in the host cell endoplasmic reticulum (ER) and Golgi apparatus. Lectin-glycan interactions are generally achieved by hydrogen bonding and Van der Waals forces, and often depend on cations and multivalent interactions between multiple CRDs and multiple, clustered target glycans in order to achieve sufficient affinities for lectin activity [3] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Glycosylation is a form of post-translational modification in which glycans-monosaccharides or oligosaccharides-are glycosidically bonded to an organic molecule ( reviewed in ( 4 ) ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This modification plays an essential role in the expression and function of many proteins in eukaryotes and prokaryote cells ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with roles in , for example ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "inter-compound interaction and pathogenic immune evasion .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Eukaryotic and viral glycosylation occurs in the host cell endoplasmic reticulum ( ER ) and Golgi apparatus .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Lectin-glycan interactions are generally achieved by hydrogen bonding and Van der Waals forces ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and often depend on cations and multivalent interactions between multiple CRDs and multiple ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "clustered target glycans in order to achieve sufficient affinities for lectin activity ( 3 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The roles of human lectins include protein modulation, cell growth and homeostasis [4] . As glycoproteins are found on the surfaces of several pathogens to a diverse and widespread degree, some lectins act as pattern-recognition receptors (PRRs), recognising pathogen-associated molecular patterns (PAMPs)-including glycans and nucleic acid-related to invading microorganisms and malignant, apoptotic or dead host cells. This can lead to the induction of an immune response against the invading pathogen. However, the relationship between lectins and viruses is complex. In addition to immune evasion, glycosylation is essential for protein expression, assembly and entry steps in virus replication cycles [5] , and many viruses have evolved mechanisms to exploit lectins to enhance infection.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The roles of human lectins include protein modulation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "cell growth and homeostasis ( 4 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As glycoproteins are found on the surfaces of several pathogens to a diverse and widespread degree ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "some lectins act as pattern-recognition receptors ( PRRs ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "recognising pathogen-associated molecular patterns ( PAMPs ) - including glycans and nucleic acid-related to invading microorganisms and malignant ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "apoptotic or dead host cells .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This can lead to the induction of an immune response against the invading pathogen .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the relationship between lectins and viruses is complex .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition to immune evasion ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "glycosylation is essential for protein expression ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "assembly and entry steps in virus replication cycles ( 5 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and many viruses have evolved mechanisms to exploit lectins to enhance infection .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "This review focuses on human lectins and their roles during viral infections, concentrating on the well-described lectins mannose-binding lectin (MBL), ficolins and dendritic cell-specific ICAM-3 grabbing non-integrin (DC-SIGN). It highlights the different effects of lectins on viral infections and the consequences of genetic variation in lectin genes on susceptibility to virus infections.",
+      "sentences": [
+        [
+          {
+            "segment_text": "This review focuses on human lectins and their roles during viral infections ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "concentrating on the well-described lectins mannose-binding lectin ( MBL ) ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "ficolins and dendritic cell-specific ICAM-3 grabbing non-integrin ( DC-SIGN ) .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "It highlights the different effects of lectins on viral infections and the consequences of genetic variation in lectin genes on susceptibility to virus infections .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Complement contributes towards the initial defence against viral infections through a sequential protein activation cascade (reviewed in [6] ). There are three known complement activation pathways. Each pathway converges at the formation of C3 convertase, which activates downstream complement factors to constitute the membrane attack complex (MAC). The MAC subsequently forms pores in the lipid membranes of pathogens and infected cells, causing osmotic lysis. Parallel to the cascade, some complement cleavage products mediate inflammation and opsonise pathogens, attracting phagocytes, encouraging antigen aggregation and preventing viral entry. To avoid potentially damaging, excessive complement activity, stringent regulation mechanisms have evolved, including complement factor cleavage and endocytotic shedding of MACs.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Complement contributes towards the initial defence against viral infections through a sequential protein activation cascade ( reviewed in ( 6 ) ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "There are three known complement activation pathways .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Each pathway converges at the formation of C3 convertase ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which activates downstream complement factors to constitute the membrane attack complex ( MAC ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The MAC subsequently forms pores in the lipid membranes of pathogens and infected cells , causing osmotic lysis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Parallel to the cascade , some complement cleavage products mediate inflammation and opsonise pathogens ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "attracting phagocytes , encouraging antigen aggregation and preventing viral entry .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To avoid potentially damaging , excessive complement activity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "stringent regulation mechanisms have evolved ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including complement factor cleavage and endocytotic shedding of MACs .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The alternate and classical complement pathways are triggered by foreign surface molecules and antigen:antibody complexes, respectively. The lectin pathway involves the binding of microbial surface carbohydrate moieties to serum lectins, which activates lectin-bound MBL-associated serine proteases (MASPs) and proteins (MAPs) (Figure 1 ).",
+      "sentences": [
+        [
+          {
+            "segment_text": "The alternate and classical complement pathways are triggered by foreign surface molecules and antigen : antibody complexes , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The lectin pathway involves the binding of microbial surface carbohydrate moieties to serum lectins ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which activates lectin-bound MBL-associated serine proteases ( MASPs ) and proteins ( MAPs ) ( Figure 1 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "6",
+    "sentence_num": "28",
+    "segment_num": "52",
+    "token_num": "706"
+  }
+}

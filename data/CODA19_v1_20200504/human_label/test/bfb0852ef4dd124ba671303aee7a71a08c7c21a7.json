@@ -1,0 +1,152 @@
+{
+  "paper_id": "bfb0852ef4dd124ba671303aee7a71a08c7c21a7",
+  "metadata": {
+    "title": "An automated data processing and analysis pipeline for transmembrane proteins in detergent solutions",
+    "coda_data_split": "test",
+    "coda_paper_id": 900,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The application of small angle X-ray scattering (SAXS) to the structural characterization of transmembrane proteins (MPs) in detergent solutions has become a routine procedure at the most synchrotron BioSAXS beamlines around the world. SAXS provides overall parameters and low resolution shapes of solubilized MPs, but is also meaningfully employed in hybrid modeling procedures that combine scattering data with information provided by high-resolution techniques (eg. macromolecular crystallography, nuclear magnetic resonance and cryo-electron microscopy). Structural modeling of MPs from SAXS data is non-trivial, and the necessary computational procedures require further formalization and facilitation. We propose an automated pipeline integrated with the laboratory-information management system ISPyB, aimed at preliminary SAXS analysis and the first-step reconstruction of MPs in detergent solutions, in order to streamline high-throughput studies, especially at synchrotron beamlines. The pipeline queries an ISPyB database for available a priori information via dedicated services, estimates model-free SAXS parameters and generates preliminary models utilizing either ab initio, high-resolution-based, or mixed/hybrid methods. The results of the automated analysis can be inspected online using the standard ISPyB interface and the estimated modeling parameters may be utilized for further in-depth modeling beyond the pipeline. Examples of the pipeline results for the modelling of the tetrameric alpha-helical membrane channel Aquaporin0 and mechanosensitive channel T2, solubilized by n-Dodecyl β-D-maltoside are presented. We demonstrate how the increasing amount a priori information improves the model resolution and enables deeper insights into the molecular structure of protein-detergent complexes.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The application of small angle X-ray scattering ( SAXS ) to the structural characterization of transmembrane proteins ( MPs ) in detergent solutions has become a routine procedure at the most synchrotron BioSAXS beamlines around the world .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "SAXS provides overall parameters and low resolution shapes of solubilized MPs ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but is also meaningfully employed in hybrid modeling procedures that combine scattering data with information provided by high-resolution techniques ( eg .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "macromolecular crystallography , nuclear magnetic resonance and cryo-electron microscopy ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Structural modeling of MPs from SAXS data is non-trivial ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and the necessary computational procedures require further formalization and facilitation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We propose an automated pipeline integrated with the laboratory-information management system ISPyB ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "aimed at preliminary SAXS analysis and the first-step reconstruction of MPs in detergent solutions ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "in order to streamline high-throughput studies , especially at synchrotron beamlines .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The pipeline queries an ISPyB database for available a priori information via dedicated services ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "estimates model-free SAXS parameters and generates preliminary models utilizing either ab initio ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "high-resolution-based , or mixed/hybrid methods .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results of the automated analysis can be inspected online using the standard ISPyB interface and the estimated modeling parameters may be utilized for further in-depth modeling beyond the pipeline .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Examples of the pipeline results for the modelling of the tetrameric alpha-helical membrane channel Aquaporin0 and mechanosensitive channel T2 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "solubilized by n-Dodecyl β-D-maltoside are presented .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We demonstrate how the increasing amount a priori information improves the model resolution and enables deeper insights into the molecular structure of protein-detergent complexes .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Small angle X-ray scattering (SAXS) using synchrotron radiation is a powerful technique for the structural characterization of transmembrane proteins (MPs) in detergent solutions Overall structural characterization and modeling of MPs from SAXS data is non-trivial, and the necessary computational procedures require further formalization and facilitation. We propose an automated pipeline integrated with the laboratory-information management system ISPyB, aimed at preliminary SAXS analysis and modelling of MPs in detergent solutions, in order to streamline high-throughput studies, especially at synchrotron beamlines. author/funder. All rights reserved. No reuse allowed without permission.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Small angle X-ray scattering ( SAXS ) using synchrotron radiation is a powerful technique for the structural characterization of transmembrane proteins ( MPs ) in detergent solutions Overall structural characterization and modeling of MPs from SAXS data is non-trivial ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the necessary computational procedures require further formalization and facilitation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We propose an automated pipeline integrated with the laboratory-information management system ISPyB ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "aimed at preliminary SAXS analysis and modelling of MPs in detergent solutions ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "in order to streamline high-throughput studies , especially at synchrotron beamlines .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "author/funder .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "All rights reserved .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "No reuse allowed without permission .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "14",
+    "segment_num": "24",
+    "token_num": "362"
+  }
+}

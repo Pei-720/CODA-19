@@ -1,0 +1,73 @@
+{
+  "paper_id": "cc7d924053530c0856e59387595309b8b1ea918e",
+  "metadata": {
+    "title": "A multicompartment SIS stochastic model with zonal ventilation for the spread of nosocomial infections: detection, outbreak management and infection control Supplementary Material",
+    "coda_data_split": "train",
+    "coda_paper_id": 8117,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "In this supplementary material we show how our methodology can be implemented for a different hospital ward to that in [1, Figure 2 ]. We consider a hospital ward with six rooms with patients allocated across these rooms in an asymmetrical way. In particular, rooms 1, 3 and 5 contain one patient each, while rooms 2, 4 and 6 contain three patients each. We consider a number of ventilation settings (SA, SB, SC and SD), and carry out a number of numerical simulations to explore how airflow dynamics interplay with other factors related to infection spread, such as outbreak detection. The main aim is: (i) to show how our methodology can easily be extended to any hospital ward structure by appropriately modifying the ventilation matrix V; and (ii) to show how, while some of our conclusions in [1] seem to be valid also for the hospital ward structure considered in this supplementary material, others might highly depend on the particular ward structure under study.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this supplementary material we show how our methodology can be implemented for a different hospital ward to that in ( 1 , Figure 2 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We consider a hospital ward with six rooms with patients allocated across these rooms in an asymmetrical way .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In particular , rooms 1 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "3 and 5 contain one patient each ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "while rooms 2 , 4 and 6 contain three patients each .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We consider a number of ventilation settings ( SA , SB , SC and SD ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and carry out a number of numerical simulations to explore how airflow dynamics interplay with other factors related to infection spread , such as outbreak detection .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The main aim is : ( i ) to show how our methodology can easily be extended to any hospital ward structure by appropriately modifying the ventilation matrix V ; and ( ii ) to show how ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "while some of our conclusions in ( 1 ) seem to be valid also for the hospital ward structure considered in this supplementary material ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "others might highly depend on the particular ward structure under study .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "10",
+    "token_num": "191"
+  }
+}

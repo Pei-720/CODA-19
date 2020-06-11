@@ -1,0 +1,53 @@
+{
+  "paper_id": "b676de09cf12905dea5d204930150599d5256cde",
+  "metadata": {
+    "title": "A Bayesian approach for detecting a disease that is not being modeled",
+    "coda_data_split": "train",
+    "coda_paper_id": 5374,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Over the past decade, outbreaks of new or reemergent viruses such as severe acute respiratory syndrome (SARS) virus, Middle East respiratory syndrome (MERS) virus, and Zika have claimed thousands of lives and cost governments and healthcare systems billions of dollars. Because the appearance of new or transformed diseases is likely to continue, the detection and characterization of emergent diseases is an important problem. We describe a Bayesian statistical model that can detect and characterize previously unknown and unmodeled diseases from patient-care reports and evaluate its performance on historical data.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Over the past decade , outbreaks of new or reemergent viruses such as severe acute respiratory syndrome ( SARS ) virus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Middle East respiratory syndrome ( MERS ) virus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and Zika have claimed thousands of lives and cost governments and healthcare systems billions of dollars .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Because the appearance of new or transformed diseases is likely to continue ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the detection and characterization of emergent diseases is an important problem .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We describe a Bayesian statistical model that can detect and characterize previously unknown and unmodeled diseases from patient-care reports and evaluate its performance on historical data .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "3",
+    "segment_num": "6",
+    "token_num": "100"
+  }
+}

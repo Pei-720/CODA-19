@@ -1,0 +1,84 @@
+{
+  "paper_id": "786dfd7066fdf703c2dad45d9a22e94f8662533d",
+  "metadata": {
+    "title": "History and Examination",
+    "coda_data_split": "train",
+    "coda_paper_id": 3863,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "You received a referral from a chest physician who has been dealing with the respiratory sequelae of the SARS virus in a 32-year-old lady, Mrs Smith, who complained of dyspnea and diffuse musculo-skeletal aches and pains, which are most severe around the left knee. Mrs Smith contracted the SARS virus 1 year ago while in Asia, had severe pneumonitis that responded to high-dose steroids. There was bilateral hip and knee pain during her stay in the acute medical ward, and MRI of both hips and knees only revealed \"non-specific subchondral anomalies\" of both knees, but no mention of avascular necrotic patches at the femoral head or around the knees was made. Repeat MRI of both knees were done last month when she flew back to the USA in view of increasing symptoms of the left knee and showed segmental AVN at the left femoral condyle. What is your plan for management?",
+      "sentences": [
+        [
+          {
+            "segment_text": "You received a referral from a chest physician who has been dealing with the respiratory sequelae of the SARS virus in a 32-year-old lady ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Mrs Smith , who complained of dyspnea and diffuse musculo-skeletal aches and pains ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which are most severe around the left knee .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Mrs Smith contracted the SARS virus 1 year ago while in Asia ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "had severe pneumonitis that responded to high-dose steroids .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "There was bilateral hip and knee pain during her stay in the acute medical ward ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and MRI of both hips and knees only revealed `` non-specific subchondral anomalies \u0027\u0027 of both knees ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but no mention of avascular necrotic patches at the femoral head or around the knees was made .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Repeat MRI of both knees were done last month when she flew back to the USA in view of increasing symptoms of the left knee and showed segmental AVN at the left femoral condyle .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "What is your plan for management ?",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Discussion",
+      "sentences": [
+        [
+          {
+            "segment_text": "Discussion",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "6",
+    "segment_num": "11",
+    "token_num": "165"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "paper_id": "8523dfd91186b79098212e654718c3913d2fb968",
+  "metadata": {
+    "title": "Functional genomics reveals that tumors with activating phosphoinositide 3-kinase mutations are dependent on accelerated protein turnover",
+    "coda_data_split": "train",
+    "coda_paper_id": 7720,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Activating mutations in the phosphoinositide 3-kinase (PI3K) signaling pathway are frequently identified in cancer. To identify pathways that support PI3K oncogenesis, we performed a genome-wide RNAi screen in isogenic cell lines harboring wild-type or mutant PIK3CA to search for PI3K synthetic-lethal (SL) genes. A combined analysis of these results with a meta-analysis of two other large-scale RNAi screening data sets in PI3K mutant cancer cell lines converged on ribosomal protein translation and proteasomal protein degradation as critical nononcogene dependencies for PI3K-driven tumors. Genetic or pharmacologic inhibition of either pathway alone, but not together, selectively killed PI3K mutant tumor cells in an mTOR-dependent manner. The expression of ribosomal and proteasomal components was significantly up-regulated in primary human colorectal tumors harboring PI3K pathway activation. Importantly, a PI3K SL gene signature containing the top hits of the SL genes identified in our metaanalysis robustly predicted overall patient survival in colorectal cancer, especially among patients with tumors with an activated PI3K pathway. These results suggest that disruption of protein turnover homeostasis via ribosome or proteasome inhibition may be a novel treatment strategy for PI3K mutant human tumors.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Activating mutations in the phosphoinositide 3-kinase ( PI3K ) signaling pathway are frequently identified in cancer .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To identify pathways that support PI3K oncogenesis ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we performed a genome-wide RNAi screen in isogenic cell lines harboring wild-type or mutant PIK3CA to search for PI3K synthetic-lethal ( SL ) genes .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A combined analysis of these results with a meta-analysis of two other large-scale RNAi screening data sets in PI3K mutant cancer cell lines converged on ribosomal protein translation and proteasomal protein degradation as critical nononcogene dependencies for PI3K-driven tumors .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Genetic or pharmacologic inhibition of either pathway alone ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but not together , selectively killed PI3K mutant tumor cells in an mTOR-dependent manner .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The expression of ribosomal and proteasomal components was significantly up-regulated in primary human colorectal tumors harboring PI3K pathway activation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Importantly , a PI3K SL gene signature containing the top hits of the SL genes identified in our metaanalysis robustly predicted overall patient survival in colorectal cancer ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "especially among patients with tumors with an activated PI3K pathway .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These results suggest that disruption of protein turnover homeostasis via ribosome or proteasome inhibition may be a novel treatment strategy for PI3K mutant human tumors .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "10",
+    "token_num": "199"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "paper_id": "0624a12abfe85c8b5070850d912a2db4cd453236",
+  "metadata": {
+    "title": "TALC: Transcription Aware Long Read Correction",
+    "coda_data_split": "train",
+    "coda_paper_id": 7411,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Long-read sequencing technologies are invaluable for determining complex RNA transcript architectures but are error-prone. Numerous \"hybrid correction\" algorithms have been developed for genomic data that correct long reads by exploiting the accuracy and depth of short reads sequenced from the same sample. These algorithms are not suited for correcting more complex transcriptome sequencing data.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Long-read sequencing technologies are invaluable for determining complex RNA transcript architectures but are error-prone .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Numerous `` hybrid correction \u0027\u0027 algorithms have been developed for genomic data that correct long reads by exploiting the accuracy and depth of short reads sequenced from the same sample .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These algorithms are not suited for correcting more complex transcriptome sequencing data .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We have created a novel algorithm called TALC (Transcription Aware Long Read Correction) which models changes in RNA expression and isoform representation in a weighted De-Bruijn graph to correct long reads from transcriptome studies. We show that transcription aware correction by TALC improves the accuracy of the whole spectrum of downstream RNA-seq applications and is thus necessary for transcriptome analyses that use long read technology.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We have created a novel algorithm called TALC ( Transcription Aware Long Read Correction ) which models changes in RNA expression and isoform representation in a weighted De-Bruijn graph to correct long reads from transcriptome studies .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We show that transcription aware correction by TALC improves the accuracy of the whole spectrum of downstream RNA-seq applications and is thus necessary for transcriptome analyses that use long read technology .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "5",
+    "segment_num": "5",
+    "token_num": "128"
+  }
+}

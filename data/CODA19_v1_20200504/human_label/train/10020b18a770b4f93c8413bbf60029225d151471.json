@@ -1,0 +1,159 @@
+{
+  "paper_id": "10020b18a770b4f93c8413bbf60029225d151471",
+  "metadata": {
+    "title": "In Vitro Antiviral Activity and Projection of Optimized Dosing Design of Hydroxychloroquine for the Treatment of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2)",
+    "coda_data_split": "train",
+    "coda_paper_id": 7419,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Main point: Hydroxychloroquine was found to be more potent than chloroquine at inhibiting SARS-CoV-2 in vitro. Hydroxychloroquine sulfate 400 mg given twice daily for 1 day, followed by 200 mg twice daily for 4 more days is recommended to treat SARS-CoV-2 infection.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Main point : Hydroxychloroquine was found to be more potent than chloroquine at inhibiting SARS-CoV-2 in vitro .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hydroxychloroquine sulfate 400 mg given twice daily for 1 day ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "followed by 200 mg twice daily for 4 more days is recommended to treat SARS-CoV-2 infection .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Abstract Background. The Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) first broke out in Wuhan (China) and subsequently spread worldwide. Chloroquine has been sporadically used in treating SARS-CoV-2 infection. Hydroxychloroquine shares the same mechanism of action as chloroquine, but its more tolerable safety profile makes it the preferred drug to treat malaria and autoimmune conditions. We propose that the immunomodulatory effect of hydroxychloroquine also may be useful in controlling the cytokine storm that occurs late-phase in critically ill SARS-CoV-2 infected patients. Currently, there is no evidence to support the use of hydroxychloroquine in SARS-CoV-2 infection.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Abstract Background .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The Severe Acute Respiratory Syndrome Coronavirus 2 ( SARS-CoV-2 ) first broke out in Wuhan ( China ) and subsequently spread worldwide .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Chloroquine has been sporadically used in treating SARS-CoV-2 infection .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hydroxychloroquine shares the same mechanism of action as chloroquine ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but its more tolerable safety profile makes it the preferred drug to treat malaria and autoimmune conditions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We propose that the immunomodulatory effect of hydroxychloroquine also may be useful in controlling the cytokine storm that occurs late-phase in critically ill SARS-CoV-2 infected patients .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Currently , there is no evidence to support the use of hydroxychloroquine in SARS-CoV-2 infection .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Methods. The pharmacological activity of chloroquine and hydroxychloroquine was tested using SARS-CoV-2 infected Vero cells. Physiologically-based pharmacokinetic models (PBPK) were implemented for both drugs separately by integrating their in vitro data. Using the PBPK models, hydroxychloroquine concentrations in lung fluid were simulated under 5 different dosing regimens to explore the most effective regimen whilst considering the drug\u0027s safety profile.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Methods .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The pharmacological activity of chloroquine and hydroxychloroquine was tested using SARS-CoV-2 infected Vero cells .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Physiologically-based pharmacokinetic models ( PBPK ) were implemented for both drugs separately by integrating their in vitro data .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using the PBPK models , hydroxychloroquine concentrations in lung fluid were simulated under 5 different dosing regimens to explore the most effective regimen whilst considering the drug \u0027s safety profile .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results. Hydroxychloroquine (EC50\u003d0.72 μM) was found to be more potent than chloroquine (EC50\u003d5.47 μM) in vitro. Based on PBPK models results, a loading dose of 400 mg twice daily of hydroxychloroquine sulfate given orally, followed by a maintenance dose of 200 mg given twice daily for 4 days is recommended for SARS-CoV-2 infection, as it reached three times the potency of chloroquine phosphate when given 500 mg twice daily 5 days in advance.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hydroxychloroquine ( EC50 \u003d 0.72 μM ) was found to be more potent than chloroquine ( EC50 \u003d 5.47 μM ) in vitro .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Based on PBPK models results ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a loading dose of 400 mg twice daily of hydroxychloroquine sulfate given orally ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "followed by a maintenance dose of 200 mg given twice daily for 4 days is recommended for SARS-CoV-2 infection ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as it reached three times the potency of chloroquine phosphate when given 500 mg twice daily 5 days in advance .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Hydroxychloroquine was found to be more potent than chloroquine to 4 / 25 inhibit SARS-CoV-2 in vitro.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Hydroxychloroquine was found to be more potent than chloroquine to 4 / 25 inhibit SARS-CoV-2 in vitro .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "16",
+    "segment_num": "21",
+    "token_num": "325"
+  }
+}

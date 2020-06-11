@@ -1,0 +1,245 @@
+{
+  "paper_id": "5798129b3a4e279c12b7ff13ef9f8739eb214128",
+  "metadata": {
+    "title": "Diarrhea Leads to Pneumonia and Hematuria in the Intensive Care Unit",
+    "coda_data_split": "train",
+    "coda_paper_id": 10217,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "A 26-year-old male with a past medical history of Crohn\u0027s disease, in remission for more than 10 years, presented to the Medical Intensive Care Unit (MICU) with diarrhea, hematuria, left-sided pulmonary infiltrates, transaminitis, and rapid-onset respiratory failure with acute kidney injury (AKI). The patient was well until 7 days prior to ICU admission, when he developed severe non-bloody diarrhea, approximately 20 times daily. Three days prior, he presented to an emergency department (ED) and was sent home after rehydration with normal saline with a reportedly normal chest x-ray (CXR). Two days prior, he presented to his primary care provider with continued diarrhea and fever to 39.4 °C, and he was sent home with anti-diarrheal medications. One day prior, he returned to the ED with chest tightness, shortness of breath, and cough productive of dark sputum, and he was found to have a new left-sided infiltrate on CXR, consistent with a pneumonia. He also reported dark urine and anorexia. He denied nausea, vomiting, abdominal pain, rash, or dysuria. In the ED, he was noted to be febrile with a temperature of 40.6 °C, tachycardic with a heart rate of 140 beats per minute, tachypneic with a respiratory rate of 29 breaths per minute and blood pressure of 115/65 mmHg, and hypoxic with an oxygen saturation of 93% on 4 L per minute of oxygen supplementation. He was transitioned to bilevel positive airway pressure (BIPAP) due to his increased work of breathing and hypoxia and received empiric antibiotic therapy and steroids, including intravenous (IV) ceftriaxone, azithromycin, and linezolid. He was then transferred to the University of Chicago Medicine MICU. His respiratory status worsened, and after about 5 h he was intubated. The patient had eaten no recent restaurant foods and had no known sick contacts. He worked as a pipe fitter. He denied having pets, unusual hobbies, or travel within the previous 6 months.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A 26-year-old male with a past medical history of Crohn \u0027s disease ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "in remission for more than 10 years ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "presented to the Medical Intensive Care Unit ( MICU ) with diarrhea ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "hematuria , left-sided pulmonary infiltrates ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "transaminitis , and rapid-onset respiratory failure with acute kidney injury ( AKI ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The patient was well until 7 days prior to ICU admission ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "when he developed severe non-bloody diarrhea , approximately 20 times daily .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Three days prior , he presented to an emergency department ( ED ) and was sent home after rehydration with normal saline with a reportedly normal chest x-ray ( CXR ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Two days prior , he presented to his primary care provider with continued diarrhea and fever to 39.4 °C ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and he was sent home with anti-diarrheal medications .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "One day prior , he returned to the ED with chest tightness ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "shortness of breath , and cough productive of dark sputum ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and he was found to have a new left-sided infiltrate on CXR , consistent with a pneumonia .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "He also reported dark urine and anorexia .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "He denied nausea , vomiting ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "abdominal pain , rash , or dysuria .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the ED , he was noted to be febrile with a temperature of 40.6 °C ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "tachycardic with a heart rate of 140 beats per minute ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "tachypneic with a respiratory rate of 29 breaths per minute and blood pressure of 115/65 mmHg ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and hypoxic with an oxygen saturation of 93 % on 4 L per minute of oxygen supplementation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "He was transitioned to bilevel positive airway pressure ( BIPAP ) due to his increased work of breathing and hypoxia and received empiric antibiotic therapy and steroids ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including intravenous ( IV ) ceftriaxone , azithromycin , and linezolid .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "He was then transferred to the University of Chicago Medicine MICU .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "His respiratory status worsened , and after about 5 h he was intubated .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The patient had eaten no recent restaurant foods and had no known sick contacts .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "He worked as a pipe fitter .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "He denied having pets , unusual hobbies ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "or travel within the previous 6 months .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "On physical examination, his heart rate was 150 beats per minute, blood pressure 100/50 mmHg, temperature 39.1 °C, and respiratory rate 28 breaths per minute. He was intubated and sedated. He did not have any cervical adenopathy, and his conjunctivae were injected. His pulmonary exam demonstrated crackles bilaterally, and cardiovascular exam revealed a normal S1 and S2 with no murmurs. Pulses were equal, but capillary refill was slow, approximately 3 s. Abdominal exam showed normal liver and spleen to palpation and was nontender. He did not have any rashes.",
+      "sentences": [
+        [
+          {
+            "segment_text": "On physical examination , his heart rate was 150 beats per minute ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "blood pressure 100/50 mmHg , temperature 39.1 °C ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and respiratory rate 28 breaths per minute .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "He was intubated and sedated .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "He did not have any cervical adenopathy ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and his conjunctivae were injected .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "His pulmonary exam demonstrated crackles bilaterally ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and cardiovascular exam revealed a normal S1 and S2 with no murmurs .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Pulses were equal , but capillary refill was slow ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "approximately 3 s. Abdominal exam showed normal liver and spleen to palpation and was nontender .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "He did not have any rashes .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Initial serum laboratory results on transfer to the MICU included white blood cell (WBC) count of 11,900/μL (92% neutrophils, 3% lymphocytes), hemoglobin of 14.1 g/dL, and platelet count of 195,000/μL. The basic metabolic panel was within",
+      "sentences": [
+        [
+          {
+            "segment_text": "Initial serum laboratory results on transfer to the MICU included white blood cell ( WBC ) count of 11,900 / μL ( 92 % neutrophils , 3 % lymphocytes ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "hemoglobin of 14.1 g/dL , and platelet count of 195,000 / μL .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The basic metabolic panel was within",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "22",
+    "segment_num": "42",
+    "token_num": "523"
+  }
+}

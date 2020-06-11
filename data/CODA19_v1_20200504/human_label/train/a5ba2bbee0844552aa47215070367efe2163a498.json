@@ -1,0 +1,131 @@
+{
+  "paper_id": "a5ba2bbee0844552aa47215070367efe2163a498",
+  "metadata": {
+    "title": "Resilience of biochemical activity in protein domains in the face of structural divergence",
+    "coda_data_split": "train",
+    "coda_paper_id": 9407,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Recent studies point to the prevalence of the evolutionary phenomenon of drastic structural transformation of protein domains while continuing to preserve their basic biochemical function. These transformations span a wide spectrum, including simple domains incorporated into larger structural scaffolds, changes in the structural core, major active site shifts, topological rewiring and extensive structural transmogrifications. Proteins from biological conflict systems, such as toxinantitoxin, restriction-modification, CRISPR/Cas, polymorphic toxin and secondary metabolism systems commonly display such transformations. These include endoDNases, metalindependent RNases, deaminases, ADP ribosyltransferases, immunity proteins, kinases and E1like enzymes. In eukaryotes such transformations are seen in domains involved in chromatinrelated peptide recognition and protein/DNA-modification. Intense selective pressures from \"armrace\"-like situations in conflict and macromolecular modification systems could favor drastic structural divergence while preserving function.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Recent studies point to the prevalence of the evolutionary phenomenon of drastic structural transformation of protein domains while continuing to preserve their basic biochemical function .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These transformations span a wide spectrum ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including simple domains incorporated into larger structural scaffolds ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "changes in the structural core ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "major active site shifts , topological rewiring and extensive structural transmogrifications .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Proteins from biological conflict systems ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as toxinantitoxin , restriction-modification ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "CRISPR/Cas , polymorphic toxin and secondary metabolism systems commonly display such transformations .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These include endoDNases , metalindependent RNases ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "deaminases , ADP ribosyltransferases , immunity proteins , kinases and E1like enzymes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In eukaryotes such transformations are seen in domains involved in chromatinrelated peptide recognition and protein/DNA-modification .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Intense selective pressures from `` armrace \u0027\u0027 - like situations in conflict and macromolecular modification systems could favor drastic structural divergence while preserving function .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Drastic structural transformation of protein domains while retaining their basic biochemical function is a notable phenomenon in protein evolution.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Drastic structural transformation of protein domains while retaining their basic biochemical function is a notable phenomenon in protein evolution .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "These transformations span a wide spectrum of structural changes including complex modifications of domain structure.",
+      "sentences": [
+        [
+          {
+            "segment_text": "These transformations span a wide spectrum of structural changes including complex modifications of domain structure .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Domains displaying these transformations are most commonly observed in systems involved in biological conflicts, eukaryotic chromatin-related protein/DNA modification and peptide recognition.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Domains displaying these transformations are most commonly observed in systems involved in biological conflicts ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "eukaryotic chromatin-related protein/DNA modification and peptide recognition .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "These systems show \"arm-race\"-like situations that could favor drastic structural divergence while preserving function Zhang et al.",
+      "sentences": [
+        [
+          {
+            "segment_text": "These systems show `` arm-race \u0027\u0027 - like situations that could favor drastic structural divergence while preserving function Zhang et al. .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "10",
+    "segment_num": "17",
+    "token_num": "227"
+  }
+}

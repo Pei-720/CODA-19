@@ -1,0 +1,69 @@
+{
+  "paper_id": "341e599a492ec39b7da0d66110a6c2a0e82da67c",
+  "metadata": {
+    "title": "Sequence Analysis and Structural Prediction of the Severe Acute Respiratory Syndrome Coronavirus nsp5",
+    "coda_data_split": "train",
+    "coda_paper_id": 6852,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The non-structural proteins (nsp or replicase proteins) of coronaviruses are relatively conserved and can be effective targets for drugs. Few studies have been conducted into the function of the severe acute respiratory syndrome coronavirus (SARS-CoV) nsp5. In this study, bioinformatics methods were employed to predict the secondary structure and construct 3-D models of the SARS-CoV GD strain nsp5. Sequencing and sequential comparison was performed to analyze the mutation trend of the polymerase nsp5 gene during the epidemic process using a nucleotide-nucleotide basic local alignment search tool (BLASTN) and a protein-protein basic local alignment search tool (BLASTP). The results indicated that the nsp5 gene was steady during the epidemic process and the protein was homologous with other coronavirus nsp5 proteins. The protein encoded by the nsp5 gene was expressed in COS-7 cells and analyzed by sodium dodecylsulfate-polyacrylamide gel electrophoresis (SDS-PAGE). This study provided the foundation for further exploration of the protein\u0027s biological function, and contributed to the search for anti-SARS-CoV drugs.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The non-structural proteins ( nsp or replicase proteins ) of coronaviruses are relatively conserved and can be effective targets for drugs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Few studies have been conducted into the function of the severe acute respiratory syndrome coronavirus ( SARS-CoV ) nsp5 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , bioinformatics methods were employed to predict the secondary structure and construct 3-D models of the SARS-CoV GD strain nsp5 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Sequencing and sequential comparison was performed to analyze the mutation trend of the polymerase nsp5 gene during the epidemic process using a nucleotide-nucleotide basic local alignment search tool ( BLASTN ) and a protein-protein basic local alignment search tool ( BLASTP ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results indicated that the nsp5 gene was steady during the epidemic process and the protein was homologous with other coronavirus nsp5 proteins .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The protein encoded by the nsp5 gene was expressed in COS-7 cells and analyzed by sodium dodecylsulfate-polyacrylamide gel electrophoresis ( SDS-PAGE ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study provided the foundation for further exploration of the protein \u0027s biological function ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and contributed to the search for anti-SARS-CoV drugs .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "8",
+    "token_num": "180"
+  }
+}

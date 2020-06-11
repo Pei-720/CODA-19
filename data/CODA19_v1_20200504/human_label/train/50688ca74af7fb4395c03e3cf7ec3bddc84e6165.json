@@ -1,0 +1,425 @@
+{
+  "paper_id": "50688ca74af7fb4395c03e3cf7ec3bddc84e6165",
+  "metadata": {
+    "title": "In-vivo targeted tagging of RNA isolates cell specific transcriptional responses to environmental stimuli and identifies liver-to-adipose RNA transfer 2 3",
+    "coda_data_split": "train",
+    "coda_paper_id": 4237,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Bio-fluids contain various circulating cell-free RNA transcripts (ccfRNAs). The composition of 20 these ccfRNAs varies between bio-fluids and constitute tantalizing biomarker candidates for 21 several pathologies. ccfRNAs have also been demonstrated as mediators of cellular 22 communication, yet little is known about their function in physiological and developmental 23 settings and most works are limited to in-vitro studies. Here, we have developed iTAG-RNA, a 24 novel method for the unbiased tagging of RNA transcripts in mice in-vivo. We used this method 25 to isolate hepatocytes and kidney proximal epithelial cells-specific transcriptional response to a 26 dietary challenge without interfering with the tissue architecture, and to identify multiple 27 hepatocyte-secreted ccfRNAs in plasma. We also identified transfer of these hepatic derived 28 ccfRNAs to adipose tissue, where they likely serve as a buffering mechanism to maintain 29 cholesterol and lipid homeostasis. Our findings directly demonstrate in-vivo transfer of RNAs 30 between tissues and highlight its implications for endocrine signaling and homeostasis.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Bio-fluids contain various circulating cell-free RNA transcripts ( ccfRNAs ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The composition of 20 these ccfRNAs varies between bio-fluids and constitute tantalizing biomarker candidates for 21 several pathologies .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "ccfRNAs have also been demonstrated as mediators of cellular 22 communication ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "yet little is known about their function in physiological and developmental 23 settings and most works are limited to in-vitro studies .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we have developed iTAG-RNA ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "a 24 novel method for the unbiased tagging of RNA transcripts in mice in-vivo .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We used this method 25 to isolate hepatocytes and kidney proximal epithelial cells-specific transcriptional response to a 26 dietary challenge without interfering with the tissue architecture ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and to identify multiple 27 hepatocyte-secreted ccfRNAs in plasma .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also identified transfer of these hepatic derived 28 ccfRNAs to adipose tissue ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "where they likely serve as a buffering mechanism to maintain 29 cholesterol and lipid homeostasis .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our findings directly demonstrate in-vivo transfer of RNAs 30 between tissues and highlight its implications for endocrine signaling and homeostasis .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Little is known about the biological function of circulating cell-free RNAs (ccfRNA). Found to be 34 associated with exosomes, lipoproteins, ribonucleoproteins and more, these transcripts can be 35 isolated and sequenced from multiple bio-fluids such as plasma, lymph, cerebral fluids, breast milk 36 and more [1, 2]. ccfRNAs are directly implicated in the development of several pathologies 37 including cancer and obesity [3][4][5] and are intensively studied as disease biomarkers [6, 7]. Despite 38 this, the role they play in physiological and developmental settings and in mediating cell-to-cell 39 communication remains largely unknown. In-vitro, a growing number of works demonstrate the 40 relevance of RNA based cellular communication [8][9][10][11], however in-vivo evidence is still limited.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Little is known about the biological function of circulating cell-free RNAs ( ccfRNA ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Found to be 34 associated with exosomes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "lipoproteins , ribonucleoproteins and more ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "these transcripts can be 35 isolated and sequenced from multiple bio-fluids such as plasma ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "lymph , cerebral fluids , breast milk 36 and more ( 1 , 2 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "ccfRNAs are directly implicated in the development of several pathologies 37 including cancer and obesity ( 3 ) ( 4 ) ( 5 ) and are intensively studied as disease biomarkers ( 6 , 7 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Despite 38 this , the role they play in physiological and developmental settings and in mediating cell-to-cell 39 communication remains largely unknown .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In-vitro , a growing number of works demonstrate the 40 relevance of RNA based cellular communication ( 8 ) ( 9 ) ( 10 ) ( 11 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "however in-vivo evidence is still limited .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "This discrepancy is partly due to the difficulties posed to tracking ccfRNAs from transcriptional 42 source to potential sites of action in-vivo. Indeed the tools available to study ccfRNAs in 43 physiological settings are limited and very few studies attempt to tackle this problem directly.",
+      "sentences": [
+        [
+          {
+            "segment_text": "This discrepancy is partly due to the difficulties posed to tracking ccfRNAs from transcriptional 42 source to potential sites of action in-vivo .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Indeed the tools available to study ccfRNAs in 43 physiological settings are limited and very few studies attempt to tackle this problem directly .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "One work found evidence to suggest that the majority of circulating miRNAs originate in adipose 45 tissue and that some of the adipose derived miRNAs may play a role in the regulation of liver 46 Fgf21 levels [12]. However, this work focuses on miRNA and does not directly demonstrate 47 transfer of RNAs between tissues nor directly identify adipose secreted RNAs.",
+      "sentences": [
+        [
+          {
+            "segment_text": "One work found evidence to suggest that the majority of circulating miRNAs originate in adipose 45 tissue and that some of the adipose derived miRNAs may play a role in the regulation of liver 46 Fgf21 levels ( 12 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , this work focuses on miRNA and does not directly demonstrate 47 transfer of RNAs between tissues nor directly identify adipose secreted RNAs .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Transfer of miRNAs was also demonstrated between epithelial cells of the caput epididymis to 49 maturing spermatozoa, leading to a shift in sperm RNA content during its maturation [13]. This 50 study made use of 4-thiouracil-tagging (TU-tagging) [14] combined with SLAM-Seq [15] to 51 demonstrate loading of miRNAs transcribed in caput epididymis into maturing spermatozoa. TU-52 tagging entails cell-type specific expression of uracil phosphoribosyltransferase (UPRT) and 53 administration of 4-thiouracil, with the assumption that only cells expressing UPRT would 54 incorporate 4-thiouracil into transcribing RNA. Thio-RNA can then be purified and used for 55 downstream gene expression analyses, or alternatively combined with SLAM-Seq to identify 56 labeled transcripts. TU-tagging has proven useful in several additional systems [14, 16, 17], 57 however, given endogenous [18] and alternative [19] pathways for uracil incorporation, the 58 labeling specificity in this method remains unclear. In addition, as is demonstrated in Herzog et.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Transfer of miRNAs was also demonstrated between epithelial cells of the caput epididymis to 49 maturing spermatozoa ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "leading to a shift in sperm RNA content during its maturation ( 13 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This 50 study made use of 4-thiouracil-tagging ( TU-tagging ) ( 14 ) combined with SLAM-Seq ( 15 ) to 51 demonstrate loading of miRNAs transcribed in caput epididymis into maturing spermatozoa .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "TU-52 tagging entails cell-type specific expression of uracil phosphoribosyltransferase ( UPRT ) and 53 administration of 4-thiouracil ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "with the assumption that only cells expressing UPRT would 54 incorporate 4-thiouracil into transcribing RNA .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thio-RNA can then be purified and used for 55 downstream gene expression analyses ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "or alternatively combined with SLAM-Seq to identify 56 labeled transcripts .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "TU-tagging has proven useful in several additional systems ( 14 , 16 , 17 ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "57 however , given endogenous ( 18 ) and alternative ( 19 ) pathways for uracil incorporation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the 58 labeling specificity in this method remains unclear .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , as is demonstrated in Herzog et .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "59 al [15] and by Sharma et. al [13], labeling with TU-tagging of PolI and PolIII transcripts is 60 inefficient, rendering tRNAs and ribosomal transcripts unlabeled. Indeed there are only a limited number of techniques enabling in-vivo targeted labeling of RNAs. 62 In addition to TU-tagging, 5-ethynylcytosine-tagging (EC-tagging) [20] is a new method, which 63 utilizes cell-type specific co-expression of cytosine deaminase (CD) with UPRT to achieve RNA 64 labeling with 5-ethynyluridine (5EU) following administration of 5-ethynylcytosine. Both TU and 65 EC tagging use cre-recombination to express the relevant enzymes in a tissue specific manner and 66 stochastic expression from the cre-promoter may lead to unwanted expression of the enzymes in 67 different tissues [21]. Finally, one recently developed method called Mime-seq allows for cell type 68 specific labeling of microRNA [22]. In this method, tissue specific expression of a plant derived 69 methyltransferase mediates a 3′-terminal 2′-O-methylation of microRNAs that, when combined 70 with a methylation dependent library construction, allows for sequencing of tissue specific 71 microRNAs. Mime-seq allows labeling of miRNAs alone leaving other RNA biotypes unlabeled. 72 Given the need for a technique that allows for a Cre-independent and unbiased labeling of total 73 RNA transcription in-vivo, we developed iTAG-RNA [For In-vivo Targeted Tagging of RNA]. 74 This method incorporates mouse genetics with a novel uridine analog and an established RNA 75 labeling chemistry to allow tagging of total RNA in target cells in-vivo. Using iTAG-RNA we are 76 able to identify transcriptional re-programming of hepatocytes in-vivo following an acute high fat 77 diet stress and to enrich for and identify hepatocyte derived plasma ccfRNAs. Moreover, we are 78 able to identify RNA-based liver-to-adipose RNA transfer. These liver derived ccfRNAs include 79 variable coding and non-coding RNAs such as miRNAs and tRNAs. Among the miRNAs 80 transferred from liver to adipose tissue we find mir-33, mir-10b and mir130a, which target major 81 regulators of cholesterol and lipid efflux and bio-synthesis such as Srebf1 [23], Abca1 [23, 24], 82 Ppara [25] and Pparg [26] respectively. 83 Our study demonstrates for the first time an unbiased technique that allows labelling, tracking and 84 quantification of variable types of ccfRNAs from their transcriptional source to downstream 85 tissues, in which they can potentially act to regulate expression of target genes. We demonstrate 86 RNA-based liver-to-adipose transfer of a myriad of RNA transcripts and their response to an 87 environmental challenge. The continued identification and characterization of RNA based 88 signaling in-vivo is imperative for the understanding of developmental, physiological and 89 pathological processes, and can aid in the future development of relevant disease biomarkers.",
+      "sentences": [
+        [
+          {
+            "segment_text": "59 al ( 15 ) and by Sharma et .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "al ( 13 ) , labeling with TU-tagging of PolI and PolIII transcripts is 60 inefficient ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "rendering tRNAs and ribosomal transcripts unlabeled .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Indeed there are only a limited number of techniques enabling in-vivo targeted labeling of RNAs .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "62 In addition to TU-tagging ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "5-ethynylcytosine-tagging ( EC-tagging ) ( 20 ) is a new method ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which 63 utilizes cell-type specific co-expression of cytosine deaminase ( CD ) with UPRT to achieve RNA 64 labeling with 5-ethynyluridine ( 5EU ) following administration of 5-ethynylcytosine .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Both TU and 65 EC tagging use cre-recombination to express the relevant enzymes in a tissue specific manner and 66 stochastic expression from the cre-promoter may lead to unwanted expression of the enzymes in 67 different tissues ( 21 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , one recently developed method called Mime-seq allows for cell type 68 specific labeling of microRNA ( 22 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this method , tissue specific expression of a plant derived 69 methyltransferase mediates a 3 ′ - terminal 2 ′ - O-methylation of microRNAs that ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "when combined 70 with a methylation dependent library construction ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "allows for sequencing of tissue specific 71 microRNAs .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Mime-seq allows labeling of miRNAs alone leaving other RNA biotypes unlabeled .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "72 Given the need for a technique that allows for a Cre-independent and unbiased labeling of total 73 RNA transcription in-vivo ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we developed iTAG-RNA ( For In-vivo Targeted Tagging of RNA ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "74 This method incorporates mouse genetics with a novel uridine analog and an established RNA 75 labeling chemistry to allow tagging of total RNA in target cells in-vivo .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using iTAG-RNA we are 76 able to identify transcriptional re-programming of hepatocytes in-vivo following an acute high fat 77 diet stress and to enrich for and identify hepatocyte derived plasma ccfRNAs .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , we are 78 able to identify RNA-based liver-to-adipose RNA transfer .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These liver derived ccfRNAs include 79 variable coding and non-coding RNAs such as miRNAs and tRNAs .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Among the miRNAs 80 transferred from liver to adipose tissue we find mir-33 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "mir-10b and mir130a , which target major 81 regulators of cholesterol and lipid efflux and bio-synthesis such as Srebf1 ( 23 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Abca1 ( 23 , 24 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "82 Ppara ( 25 ) and Pparg ( 26 ) respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "83 Our study demonstrates for the first time an unbiased technique that allows labelling ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "tracking and 84 quantification of variable types of ccfRNAs from their transcriptional source to downstream 85 tissues ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "in which they can potentially act to regulate expression of target genes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We demonstrate 86 RNA-based liver-to-adipose transfer of a myriad of RNA transcripts and their response to an 87 environmental challenge .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The continued identification and characterization of RNA based 88 signaling in-vivo is imperative for the understanding of developmental ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "physiological and 89 pathological processes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and can aid in the future development of relevant disease biomarkers .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "90 91",
+      "sentences": [
+        [
+          {
+            "segment_text": "90 91",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": ". CC-BY-NC-ND 4.0 International license is made available under a",
+      "sentences": [
+        [
+          {
+            "segment_text": ".",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "CC-BY-NC-ND 4.0 International license is made available under a",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "9",
+    "sentence_num": "43",
+    "segment_num": "69",
+    "token_num": "1137"
+  }
+}

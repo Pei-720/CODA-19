@@ -1,0 +1,245 @@
+{
+  "paper_id": "dd0666547915ed1e7d32f25e8ac1600884275747",
+  "metadata": {
+    "title": "Two Distinct Conformations of a Rinderpest Virus Epitope Presented by Bovine Major Histocompatibility Complex Class I N*01801: a Host Strategy To Present Featured Peptides ᰔ †",
+    "coda_data_split": "train",
+    "coda_paper_id": 8201,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The presentation of viral peptide epitopes to host cytotoxic T lymphocytes (CTLs) is crucial for adaptive cellular immunity to clear the virus infection, especially for some chronic viral infections. Indeed, hosts have developed effective strategies to achieve this goal. The ideal scenario would be that the peptide epitopes stimulate a broad spectrum of CTL responses with diversified T-cell receptor (TCR) usage (the TCR repertoire). It is believed that a diversified TCR repertoire requires a \"featured\" peptide to be presented by the host major histocompatibility complex (MHC). A featured peptide can be processed and presented in a number of ways. Here, using the X-ray diffraction method, the crystal structures of an antigenic peptide derived from rinderpest virus presented by bovine MHC class I N*01801 (BoLA-A11) have been solved, and two distinct conformations of the presented peptide are clearly displayed. A detailed analysis of the structure and comparative sequences revealed that the polymorphic amino acid isoleucine 73 (Ile73) is extremely flexible, allowing the MHC groove to adopt different conformations to accommodate the rinderpest virus peptide. This makes the peptide more featured by exposing different amino acids for T-cell recognition. The crystal structures also demonstrated that the N*01801 molecule has an unusually large A pocket, resulting in the special conformation of the P1 residue at the N terminus of the peptide. We propose that this strategy of host peptide presentation might be beneficial for creating a diversified TCR repertoire, which is important for a moreeffective CTL response.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The presentation of viral peptide epitopes to host cytotoxic T lymphocytes ( CTLs ) is crucial for adaptive cellular immunity to clear the virus infection ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "especially for some chronic viral infections .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Indeed , hosts have developed effective strategies to achieve this goal .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The ideal scenario would be that the peptide epitopes stimulate a broad spectrum of CTL responses with diversified T-cell receptor ( TCR ) usage ( the TCR repertoire ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is believed that a diversified TCR repertoire requires a `` featured \u0027\u0027 peptide to be presented by the host major histocompatibility complex ( MHC ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A featured peptide can be processed and presented in a number of ways .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , using the X-ray diffraction method ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the crystal structures of an antigenic peptide derived from rinderpest virus presented by bovine MHC class I N * 01801 ( BoLA-A11 ) have been solved ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and two distinct conformations of the presented peptide are clearly displayed .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A detailed analysis of the structure and comparative sequences revealed that the polymorphic amino acid isoleucine 73 ( Ile73 ) is extremely flexible ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "allowing the MHC groove to adopt different conformations to accommodate the rinderpest virus peptide .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This makes the peptide more featured by exposing different amino acids for T-cell recognition .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The crystal structures also demonstrated that the N * 01801 molecule has an unusually large A pocket ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "resulting in the special conformation of the P1 residue at the N terminus of the peptide .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We propose that this strategy of host peptide presentation might be beneficial for creating a diversified TCR repertoire ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which is important for a moreeffective CTL response .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Viral diseases and other infections caused by intracellular pathogens of cattle result in large global economic losses every year. In the past several decades, rinderpest virus (RPV) (23, 40), foot-and-mouth disease virus (FMDV) (7), and bovine tuberculosis infection (62) have brought disastrous consequences, including social panic and even a threat to human health. Nearly 6 decades ago, most countries were committed to developing more-effective vaccines (46), and remarkable achievements were made in controlling threatening bovine viral infectious diseases and other zoonoses (23, 46). In the 1960s, British virologist Walter Plowright developed a live attenuated vaccine against rinderpest virus, which was widely used in rinderpest eradication efforts (40). However, it still remains extremely challenging for humans to completely eradicate a virus. The questions of how the bovine attenuated vaccine induces immune responses and how the viral peptides are presented and recognized by host immune molecules are still largely unanswered. Therefore, studies on bovine immunity against the rinderpest virus may provide clues for our battle against other viral infections.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Viral diseases and other infections caused by intracellular pathogens of cattle result in large global economic losses every year .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the past several decades ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "rinderpest virus ( RPV ) ( 23 , 40 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "foot-and-mouth disease virus ( FMDV ) ( 7 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and bovine tuberculosis infection ( 62 ) have brought disastrous consequences ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including social panic and even a threat to human health .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Nearly 6 decades ago , most countries were committed to developing more-effective vaccines ( 46 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and remarkable achievements were made in controlling threatening bovine viral infectious diseases and other zoonoses ( 23 , 46 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the 1960s , British virologist Walter Plowright developed a live attenuated vaccine against rinderpest virus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which was widely used in rinderpest eradication efforts ( 40 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , it still remains extremely challenging for humans to completely eradicate a virus .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The questions of how the bovine attenuated vaccine induces immune responses and how the viral peptides are presented and recognized by host immune molecules are still largely unanswered .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , studies on bovine immunity against the rinderpest virus may provide clues for our battle against other viral infections .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Generally speaking, effective vaccines have common characteristics: they are rich in T-cell and B-cell epitopes and can induce the immune system to generate protective immune responses (3, 36, 54) . During this process, major histocompatibility complex (MHC) molecules play a pivotal role in the host. MHC class I (MHC I) molecules form a heterotrimer complex composed of the heavy chain of MHC, the antigenic peptide, and ␤ 2 -microglobulin (␤ 2 m). Generally, MHC I loads endogenous peptides, including the virus-derived peptides. Briefly, at the initial stage of virus infection, antigenic proteins are processed in a proteasome-dependent or -independent manner. The resultant short peptides are then transported to the endoplasmic reticulum and are loaded onto the peptidebinding grooves of MHC I molecules. Consequently, the peptide-loading MHC I complexes are translocated to the cell surface and are recognized by cytotoxic T lymphocytes (CTLs) with specific T-cell receptors (TCRs) (49, 63). This immune recognition induces an MHC-restricted CD8 ϩ T-cell response that is characterized by the killing and elimination of the infected cells by effector T cells. The majority of virus-derived peptides are processed and presented through this pathway",
+      "sentences": [
+        [
+          {
+            "segment_text": "Generally speaking , effective vaccines have common characteristics : they are rich in T-cell and B-cell epitopes and can induce the immune system to generate protective immune responses ( 3 , 36 , 54 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "During this process , major histocompatibility complex ( MHC ) molecules play a pivotal role in the host .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "MHC class I ( MHC I ) molecules form a heterotrimer complex composed of the heavy chain of MHC ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the antigenic peptide , and ␤ 2 - microglobulin ( ␤ 2 m ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Generally , MHC I loads endogenous peptides , including the virus-derived peptides .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Briefly , at the initial stage of virus infection ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "antigenic proteins are processed in a proteasome-dependent or - independent manner .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The resultant short peptides are then transported to the endoplasmic reticulum and are loaded onto the peptidebinding grooves of MHC I molecules .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Consequently , the peptide-loading MHC I complexes are translocated to the cell surface and are recognized by cytotoxic T lymphocytes ( CTLs ) with specific T-cell receptors ( TCRs ) ( 49 , 63 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This immune recognition induces an MHC-restricted CD8 ϩ T-cell response that is characterized by the killing and elimination of the infected cells by effector T cells .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The majority of virus-derived peptides are processed and presented through this pathway",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "26",
+    "segment_num": "40",
+    "token_num": "705"
+  }
+}

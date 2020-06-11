@@ -1,0 +1,81 @@
+{
+  "paper_id": "3f842ddde61088937e203ddec6ace954e479499e",
+  "metadata": {
+    "title": "Detection of genetically modified organisms (GMOs) using isothermal amplification of target DNA sequences",
+    "coda_data_split": "test",
+    "coda_paper_id": 301,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "The most common method of GMO detection is based upon the amplification of GMO-specific DNA amplicons using the polymerase chain reaction (PCR). Here we have applied the loop-mediated isothermal amplification (LAMP) method to amplify GMO-related DNA sequences, \u0027internal\u0027 commonly-used motifs for controlling transgene expression and event-specific (plant-transgene) junctions.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The most common method of GMO detection is based upon the amplification of GMO-specific DNA amplicons using the polymerase chain reaction ( PCR ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we have applied the loop-mediated isothermal amplification ( LAMP ) method to amplify GMO-related DNA sequences ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "` internal \u0027 commonly-used motifs for controlling transgene expression and event-specific ( plant-transgene ) junctions .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We have tested the specificity and sensitivity of the technique for use in GMO studies. Results show that detection of 0.01% GMO in equivalent background DNA was possible and dilutions of template suggest that detection from single copies of the template may be possible using LAMP.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We have tested the specificity and sensitivity of the technique for use in GMO studies .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results show that detection of 0.01 % GMO in equivalent background DNA was possible and dilutions of template suggest that detection from single copies of the template may be possible using LAMP .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Conclusion: This work shows that GMO detection can be carried out using LAMP for routine screening as well as for specific events detection. Moreover, the sensitivity and ability to amplify targets, even with a high background of DNA, here demonstrated, highlights the advantages of this isothermal amplification when applied for GMO detection.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Conclusion : This work shows that GMO detection can be carried out using LAMP for routine screening as well as for specific events detection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , the sensitivity and ability to amplify targets ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "even with a high background of DNA ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "here demonstrated , highlights the advantages of this isothermal amplification when applied for GMO detection .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "6",
+    "segment_num": "9",
+    "token_num": "167"
+  }
+}

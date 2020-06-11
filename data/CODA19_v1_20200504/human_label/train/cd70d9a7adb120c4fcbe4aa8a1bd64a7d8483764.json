@@ -1,0 +1,98 @@
+{
+  "paper_id": "cd70d9a7adb120c4fcbe4aa8a1bd64a7d8483764",
+  "metadata": {
+    "title": "Temporal Relationship of Viral Load, Ribavirin, Interleukin (IL)-6, IL-8, and Clinical Progression in Patients with Severe Acute Respiratory Syndrome",
+    "coda_data_split": "train",
+    "coda_paper_id": 2504,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Although viral replication and overwhelming immune responses are believed to contribute to the progression of severe acute respiratory syndrome (SARS), little is known about the temporal relationship between viral load, ribavirin, proinflammatory cytokines, and clinical progression. We report that ribavirin was not effective in reducing the SARS coronavirus load in 3 of 8 probable cases studied and that elevated levels of interleukin (IL)-6 and IL-8 subsequent to the peak viral load were found in 8 and 6 cases, respectively. The nadir lymphocyte count during lymphopenia, the peak level of lactate dehydrogenase, and the peak density of pulmonary infiltrates lag further behind the peak viral load by a median of 4, 5, and 3.5 days, respectively. These findings provide important information for therapeutic strategies to treat SARS.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Although viral replication and overwhelming immune responses are believed to contribute to the progression of severe acute respiratory syndrome ( SARS ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "little is known about the temporal relationship between viral load ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "ribavirin , proinflammatory cytokines , and clinical progression .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We report that ribavirin was not effective in reducing the SARS coronavirus load in 3 of 8 probable cases studied and that elevated levels of interleukin ( IL ) -6 and IL-8 subsequent to the peak viral load were found in 8 and 6 cases , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The nadir lymphocyte count during lymphopenia ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the peak level of lactate dehydrogenase ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the peak density of pulmonary infiltrates lag further behind the peak viral load by a median of 4 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "5 , and 3.5 days , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These findings provide important information for therapeutic strategies to treat SARS .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Severe acute respiratory syndrome (SARS) is an emerging infectious disease that poses a major threat to the health of people worldwide [1, 2] . The etiological agent is a novel coronavirus: SARS-associated coronavirus (SARS-CoV) [2] [3] [4] . After infection with the SARS-CoV, there is an incubation period ranging from 2 to 10 days, followed by a wide spectrum of symptoms and signs with the characteristic presentations of fever, dyspnea,",
+      "sentences": [
+        [
+          {
+            "segment_text": "Severe acute respiratory syndrome ( SARS ) is an emerging infectious disease that poses a major threat to the health of people worldwide ( 1 , 2 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The etiological agent is a novel coronavirus : SARS-associated coronavirus ( SARS-CoV ) ( 2 ) ( 3 ) ( 4 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "After infection with the SARS-CoV ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "there is an incubation period ranging from 2 to 10 days ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "followed by a wide spectrum of symptoms and signs with the characteristic presentations of fever , dyspnea ,",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "7",
+    "segment_num": "14",
+    "token_num": "233"
+  }
+}

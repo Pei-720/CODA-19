@@ -1,0 +1,330 @@
+{
+  "paper_id": "3256ad6795fb323a3711f3d3d6f7ae85657fc5ff",
+  "metadata": {
+    "title": "Biochemical and structural characterization of the interface mediating interaction between the influenza A virus non-structural protein-1 and a monoclonal antibody OPEN",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1993,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "We have previously shown that a non-structural protein 1 (NS1)-binding monoclonal antibody, termed as 2H6, can significantly reduce influenza A virus (IAV) replication when expressed intracellularly. In this study, we further showed that 2H6 binds stronger to the NS1 of H5N1 than A/Puerto Rico/8/1934(H1N1) because of an amino acid difference at residue 48. A crystal structure of 2H6 fragment antigen-binding (Fab) has also been solved and docked onto the NS1 structure to reveal the contacts between specific residues at the interface of antibody-antigen complex. In one of the models, the predicted molecular contacts between residues in NS1 and 2H6-Fab correlate well with biochemical results. Taken together, residues N48 and T49 in H5N1 NS1 act cooperatively to maintain a strong interaction with mAb 2H6 by forming hydrogen bonds with residues found in the heavy chain of the antibody. Interestingly, the pandemic H1N1-2009 and the majority of seasonal H3N2 circulating in humans since 1968 has N48 in NS1, suggesting that mAb 2H6 could bind to most of the currently circulating seasonal influenza A virus strains. Consistent with the involvement of residue T49, which is well-conserved, in RNA binding, mAb 2H6 was also found to inhibit the interaction between NS1 and double-stranded RNA.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We have previously shown that a non-structural protein 1 ( NS1 ) - binding monoclonal antibody ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "termed as 2H6 , can significantly reduce influenza A virus ( IAV ) replication when expressed intracellularly .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we further showed that 2H6 binds stronger to the NS1 of H5N1 than A/Puerto Rico/8/1934 ( H1N1 ) because of an amino acid difference at residue 48 .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "A crystal structure of 2H6 fragment antigen-binding ( Fab ) has also been solved and docked onto the NS1 structure to reveal the contacts between specific residues at the interface of antibody-antigen complex .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In one of the models ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the predicted molecular contacts between residues in NS1 and 2H6-Fab correlate well with biochemical results .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Taken together , residues N48 and T49 in H5N1 NS1 act cooperatively to maintain a strong interaction with mAb 2H6 by forming hydrogen bonds with residues found in the heavy chain of the antibody .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Interestingly , the pandemic H1N1-2009 and the majority of seasonal H3N2 circulating in humans since 1968 has N48 in NS1 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "suggesting that mAb 2H6 could bind to most of the currently circulating seasonal influenza A virus strains .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Consistent with the involvement of residue T49 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which is well-conserved , in RNA binding ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "mAb 2H6 was also found to inhibit the interaction between NS1 and double-stranded RNA .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Influenza A viruses (IAVs) constantly circulate in animal hosts including birds, human and pigs. Seasonal IAVs are one of the major causes of respiratory tract infections and responsible for 3-5 million clinical infections and 250,000-500,000 fatal cases annually 1 . IAV is a negative sense single-stranded RNA virus with segmented genomes 2 , which belongs to the family Orthomyxoviridae and is subtyped based on its surface glycoproteins haemagglutinin (HA) and neuraminidase (NA). So far, 18 HA and 11 NA subtypes have been identified 3 , with the H1N1 and H3N2 subtypes being the seasonal IAVs currently circulating in human 4 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Influenza A viruses ( IAVs ) constantly circulate in animal hosts including birds , human and pigs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Seasonal IAVs are one of the major causes of respiratory tract infections and responsible for 3-5 million clinical infections and 250,000-500,000 fatal cases annually 1 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "IAV is a negative sense single-stranded RNA virus with segmented genomes 2 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which belongs to the family Orthomyxoviridae and is subtyped based on its surface glycoproteins haemagglutinin ( HA ) and neuraminidase ( NA ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "So far , 18 HA and 11 NA subtypes have been identified 3 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with the H1N1 and H3N2 subtypes being the seasonal IAVs currently circulating in human 4 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Currently, vaccination is still considered the first line of defence against influenza viral infection 5 , however it needs to be reformulated annually due to the genetic variability of the virus 6 . The conventional influenza vaccine aims to stimulate immunity to produce antibodies against the viral envelope HA protein. Unfortunately, these antibodies are mainly strain specific, in which case IAV might be able to evade the recognition of the antibody by constantly mutating the antigenic determinants 7 . Thus, one way to overcome this limitation is to produce and/or engineer antibodies that could neutralize most viral strains. Alternatively, another option to combat IAV is the use of antiviral compounds, which include two classes of drugs. One is directed against M2 ion channel protein to block the uncoating of virus after its entry into the host cells 8 and another is against NA to block the release of 1 newly formed virions to surrounding uninfected cells 9 . As resistance to these two classes of antiviral drugs has occurred in the circulating strains of the IAVs 10 , there is an urgent need to develop new therapeutic approaches.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Currently , vaccination is still considered the first line of defence against influenza viral infection 5 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "however it needs to be reformulated annually due to the genetic variability of the virus 6 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The conventional influenza vaccine aims to stimulate immunity to produce antibodies against the viral envelope HA protein .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Unfortunately , these antibodies are mainly strain specific ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "in which case IAV might be able to evade the recognition of the antibody by constantly mutating the antigenic determinants 7 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , one way to overcome this limitation is to produce and/or engineer antibodies that could neutralize most viral strains .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Alternatively , another option to combat IAV is the use of antiviral compounds ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which include two classes of drugs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "One is directed against M2 ion channel protein to block the uncoating of virus after its entry into the host cells 8 and another is against NA to block the release of 1 newly formed virions to surrounding uninfected cells 9 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As resistance to these two classes of antiviral drugs has occurred in the circulating strains of the IAVs 10 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "there is an urgent need to develop new therapeutic approaches .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Non-structural protein 1 (NS1) of IAV is a potent type I interferon (IFN) antagonist, although the mechanism of inhibiting the IFN response is strain dependent 11 . NS1 typically contains 230 amino acid residues (~26 kDa), although there are variations among various subtypes and strains 12 . NS1 has two functional domains, namely the N-terminal RNA binding domain (RBD) and C-terminal effector domain (ED), connected by a flexible linker 13 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Non-structural protein 1 ( NS1 ) of IAV is a potent type I interferon ( IFN ) antagonist ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "although the mechanism of inhibiting the IFN response is strain dependent 11 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "NS1 typically contains 230 amino acid residues ( ~ 26 kDa ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "although there are variations among various subtypes and strains 12 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "NS1 has two functional domains ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "namely the N-terminal RNA binding domain ( RBD ) and C-terminal effector domain ( ED ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "connected by a flexible linker 13 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "One of the most striking features of NS1 is its ability to bind to different species of RNA including double-stranded RNA (dsRNA), viral RNA (vRNA), 3′ poly-A tail of mRNAs and small nuclear RNAs (snRNA) 14-16 via its RBD. By binding to and sequestering dsRNA from 2′ -5′ oligo (A) synthetase (OAS)/RNase L pathway, NS1 protects IAV against the antiviral state induced by IFN-β 17 . NS1 could also inhibit ubiquitin ligase activity of Tripartite motif-containing protein 25 (TRIM25) to modulate retinoic acid-inducible gene I (RIG-I) induced IFN response 18 . Recently, the direct interaction between RIG-I and NS1 with strain specificity has been reported 19 , which provided the structural basis for how this interaction might modulate virulence during the infection. Besides, direct binding of NS1 to protein kinase R (PKR) could help IAVs counteract PKR-mediated anti-viral response 20 . NS1 has also been shown to interact directly with the p85β regulatory subunit of phosphoinositide 3-kinase (PI3K) but it is unclear how this interaction contributes to apoptosis regulation in infected cells 21, 22 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "One of the most striking features of NS1 is its ability to bind to different species of RNA including double-stranded RNA ( dsRNA ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "viral RNA ( vRNA ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "3 ′ poly-A tail of mRNAs and small nuclear RNAs ( snRNA ) 14-16 via its RBD .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "By binding to and sequestering dsRNA from 2 ′ -5 ′ oligo ( A ) synthetase ( OAS ) / RNase L pathway ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "NS1 protects IAV against the antiviral state induced by IFN-β 17 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "NS1 could also inhibit ubiquitin ligase activity of Tripartite motif-containing protein 25 ( TRIM25 ) to modulate retinoic acid-inducible gene I ( RIG-I ) induced IFN response 18 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recently , the direct interaction between RIG-I and NS1 with strain specificity has been reported 19 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which provided the structural basis for how this interaction might modulate virulence during the infection .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Besides , direct binding of NS1 to protein kinase R ( PKR ) could help IAVs counteract PKR-mediated anti-viral response 20 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "NS1 has also been shown to interact directly with the p85β regulatory subunit of phosphoinositide 3-kinase ( PI3K ) but it is unclear how this interaction contributes to apoptosis regulation in infected cells 21 , 22 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Given the multifunctional properties of the NS1 protein, much effort has been directed towards the development of NS1-based antiviral strategy 23,24 . For example, numerous novel inhibitors targeting NS1 proteins have been identified and demonstrated significant antiviral activities in vitro [25] [26] [27] . In our previous study, we used full-length NS1 protein of H5N1 IAV to generate a monoclonal antibody (mAb) 2H6 and found that it could cross-react with NS1 of H3N2 and H1N1 subtypes 28 . MAb 2H6 binds to the RBD of NS1(RBD) and the intracellular expression of 2H6-single-chain variable fragment (scFv) in mammalian cells reduced the replication of A/Puerto Rico/8/1934(H1N1) (H1N1-PR8) virus 29 . In the present study, we used biochemical, structural and modelling methods to define the molecular interface mediating the interaction between mAb 2H6 and NS1. An AlphaScreen assay was also set up to determine if mAb 2H6 could interfere with the interaction of NS1 with dsRNA.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Given the multifunctional properties of the NS1 protein ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "much effort has been directed towards the development of NS1-based antiviral strategy 23,24 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "For example , numerous novel inhibitors targeting NS1 proteins have been identified and demonstrated significant antiviral activities in vitro ( 25 ) ( 26 ) ( 27 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In our previous study , we used full-length NS1 protein of H5N1 IAV to generate a monoclonal antibody ( mAb ) 2H6 and found that it could cross-react with NS1 of H3N2 and H1N1 subtypes 28 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "MAb 2H6 binds to the RBD of NS1 ( RBD ) and the intracellular expression of 2H6-single-chain variable fragment ( scFv ) in mammalian cells reduced the replication of A/Puerto Rico/8/1934 ( H1N1 ) ( H1N1-PR8 ) virus 29 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the present study , we used biochemical ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "structural and modelling methods to define the molecular interface mediating the interaction between mAb 2H6 and NS1 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "An AlphaScreen assay was also set up to determine if mAb 2H6 could interfere with the interaction of NS1 with dsRNA .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "6",
+    "sentence_num": "33",
+    "segment_num": "54",
+    "token_num": "1007"
+  }
+}

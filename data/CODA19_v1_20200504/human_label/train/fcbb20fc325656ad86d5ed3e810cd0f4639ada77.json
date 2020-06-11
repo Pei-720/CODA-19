@@ -1,0 +1,105 @@
+{
+  "paper_id": "fcbb20fc325656ad86d5ed3e810cd0f4639ada77",
+  "metadata": {
+    "title": "Apoptotic signals induce specific degradation of ribosomal RNA in yeast",
+    "coda_data_split": "train",
+    "coda_paper_id": 3082,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Organisms exposed to reactive oxygen species, generated endogenously during respiration or by environmental conditions, undergo oxidative stress. Stress response can either repair the damage or activate one of the programmed cell death (PCD) mechanisms, for example apoptosis, and finally end in cell death. One striking characteristic, which accompanies apoptosis in both vertebrates and yeast, is a fragmentation of cellular DNA and mammalian apoptosis is often associated with degradation of different RNAs. We show that in yeast exposed to stimuli known to induce apoptosis, such as hydrogen peroxide, acetic acid, hyperosmotic stress and ageing, two large subunit ribosomal RNAs, 25S and 5.8S, became extensively degraded with accumulation of specific intermediates that differ slightly depending on cell death conditions. This process is most likely endonucleolytic, is correlated with stress response, and depends on the mitochondrial respiratory status: rRNA is less susceptible to degradation in respiring cells with functional defence against oxidative stress. In addition, RNA fragmentation is independent of two yeast apoptotic factors, metacaspase Yca1 and apoptosis-inducing factor Aif1, but it relies on the apoptotic chromatin condensation induced by histone H2B modifications. These data describe a novel phenotype for certain stress-and ageingrelated PCD pathways in yeast.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Organisms exposed to reactive oxygen species ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "generated endogenously during respiration or by environmental conditions , undergo oxidative stress .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Stress response can either repair the damage or activate one of the programmed cell death ( PCD ) mechanisms ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "for example apoptosis , and finally end in cell death .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "One striking characteristic , which accompanies apoptosis in both vertebrates and yeast ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "is a fragmentation of cellular DNA and mammalian apoptosis is often associated with degradation of different RNAs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We show that in yeast exposed to stimuli known to induce apoptosis ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "such as hydrogen peroxide , acetic acid ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "hyperosmotic stress and ageing , two large subunit ribosomal RNAs ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "25S and 5.8 S , became extensively degraded with accumulation of specific intermediates that differ slightly depending on cell death conditions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This process is most likely endonucleolytic ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "is correlated with stress response ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and depends on the mitochondrial respiratory status : rRNA is less susceptible to degradation in respiring cells with functional defence against oxidative stress .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , RNA fragmentation is independent of two yeast apoptotic factors ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "metacaspase Yca1 and apoptosis-inducing factor Aif1 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but it relies on the apoptotic chromatin condensation induced by histone H2B modifications .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These data describe a novel phenotype for certain stress-and ageingrelated PCD pathways in yeast .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "17",
+    "token_num": "222"
+  }
+}

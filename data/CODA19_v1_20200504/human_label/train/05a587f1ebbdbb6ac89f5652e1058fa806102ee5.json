@@ -1,0 +1,233 @@
+{
+  "paper_id": "05a587f1ebbdbb6ac89f5652e1058fa806102ee5",
+  "metadata": {
+    "title": "",
+    "coda_data_split": "train",
+    "coda_paper_id": 10787,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "An overview of the reversible reactions used for the generation of DCLs in protein-templated DCC is given in Scheme 1. 1,2 Most of these reversible reactions take place in water, which makes them biocompatible. DCL formation can be performed in the presence (adaptive) or in the absence (pre-equilibrated) of the protein target. However, the reversible reaction used for DCL formation should equilibrate fast enough to allow re-equilibration by the target on a timescale during which the target remains stable. The conditions applied should also match the criteria required by the protein, such as a certain pH and temperature and a given concentration of cosolvent(s). In order to speed up equilibration, a catalyst such as aniline 3 or the enzyme lipase 4 for reversible acylhydrazone or ester formation, respectively, might be added. To ensure formation of an unbiased DCL, the building blocks should be of comparable reactivity and energy. Furthermore, all building blocks and products need to be soluble, to prevent shifts in equilibria due to precipitation. Usually, a cosolvent such as dimethyl sulfoxide (DMSO) is used to maintain products and building blocks in solution. Additionally, it is important that reactions are chemoselective to avoid cross reactivity with functional groups of the building blocks or the protein (e.g., lysine residues at the surface of the protein).",
+      "sentences": [
+        [
+          {
+            "segment_text": "An overview of the reversible reactions used for the generation of DCLs in protein-templated DCC is given in Scheme 1 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "1,2 Most of these reversible reactions take place in water , which makes them biocompatible .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "DCL formation can be performed in the presence ( adaptive ) or in the absence ( pre-equilibrated ) of the protein target .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the reversible reaction used for DCL formation should equilibrate fast enough to allow re-equilibration by the target on a timescale during which the target remains stable .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The conditions applied should also match the criteria required by the protein ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as a certain pH and temperature and a given concentration of cosolvent ( s ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In order to speed up equilibration ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a catalyst such as aniline 3 or the enzyme lipase 4 for reversible acylhydrazone or ester formation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "respectively , might be added .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To ensure formation of an unbiased DCL ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the building blocks should be of comparable reactivity and energy .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , all building blocks and products need to be soluble ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "to prevent shifts in equilibria due to precipitation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Usually , a cosolvent such as dimethyl sulfoxide ( DMSO ) is used to maintain products and building blocks in solution .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Additionally , it is important that reactions are chemoselective to avoid cross reactivity with functional groups of the building blocks or the protein ( e.g. , lysine residues at the surface of the protein ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Given that the reactions in the DCL are reversible, it should be noted that the analytical method can influence the composition of the library (e.g., trace of acid in liquid chromatography (LC)). To avoid changes in equilibrium composition, libraries should first be \"frozen\" in the presence of the target protein, whereupon analysis can take place. The method of choice to \"freeze\" a DCL depends on the type of reaction that is used. Highly reversible imines, for example, can be reduced to the corresponding amines, rendering them irreversible. Acylhydrazones are easily formed and highly reversible under acidic conditions; as a result, the reversible reaction can be slowed down or stopped using an increase in pH. When a reaction is catalyzed, removal or deactivation of the catalyst will convert the DCL into a static mixture. In each case, carefully designed control experiments need to be carried out, to ensure an unbiased result. In case a reduction step is used to \"freeze\" the library, it should be studied in how far the binding pose and affinity are affected by this chemical modification. An amine-based inhibitor, for instance, has a lot more flexibility than its imine-based parent compound and an inverted hydrogen-bonding profile. Besides \"freezing\" the library, the parameters used for DCL generation will affect the equilibrium composition and amplification factors. Examples include the choice of building block and protein concentration, concentration and type of cosolvent (typically 1-10% DMSO), and temperature (typically room temperature).",
+      "sentences": [
+        [
+          {
+            "segment_text": "Given that the reactions in the DCL are reversible ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "it should be noted that the analytical method can influence the composition of the library ( e.g. , trace of acid in liquid chromatography ( LC ) ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To avoid changes in equilibrium composition ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "libraries should first be `` frozen \u0027\u0027 in the presence of the target protein ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "whereupon analysis can take place .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The method of choice to `` freeze \u0027\u0027 a DCL depends on the type of reaction that is used .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Highly reversible imines , for example ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "can be reduced to the corresponding amines , rendering them irreversible .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Acylhydrazones are easily formed and highly reversible under acidic conditions ; as a result ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the reversible reaction can be slowed down or stopped using an increase in pH. When a reaction is catalyzed ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "removal or deactivation of the catalyst will convert the DCL into a static mixture .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In each case , carefully designed control experiments need to be carried out ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "to ensure an unbiased result .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In case a reduction step is used to `` freeze \u0027\u0027 the library ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "it should be studied in how far the binding pose and affinity are affected by this chemical modification .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "An amine-based inhibitor , for instance ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "has a lot more flexibility than its imine-based parent compound and an inverted hydrogen-bonding profile .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Besides `` freezing \u0027\u0027 the library ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the parameters used for DCL generation will affect the equilibrium composition and amplification factors .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Examples include the choice of building block and protein concentration ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "concentration and type of cosolvent ( typically 1-10 % DMSO ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and temperature ( typically room temperature ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Scheme 1 Reversible reactions used in protein-templated DCC to identify bioactive compounds. 2",
+      "sentences": [
+        [
+          {
+            "segment_text": "Scheme 1 Reversible reactions used in protein-templated DCC to identify bioactive compounds .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "2",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "22",
+    "segment_num": "39",
+    "token_num": "547"
+  }
+}

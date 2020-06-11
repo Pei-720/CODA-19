@@ -1,0 +1,73 @@
+{
+  "paper_id": "72418e4e1c147f79dc7cc231dbb782fade7a280d",
+  "metadata": {
+    "title": "IgA1 protease",
+    "coda_data_split": "train",
+    "coda_paper_id": 8062,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "IgA1 proteases are proteolytic enzymes that cleave specific peptide bonds in the human immunoglobulin A1 (IgA1) hinge region sequence. Several species of pathogenic bacteria secrete IgA1 proteases at mucosal sites of infection to destroy the structure and function of human IgA1 thereby eliminating an important aspect of host defence.",
+      "sentences": [
+        [
+          {
+            "segment_text": "IgA1 proteases are proteolytic enzymes that cleave specific peptide bonds in the human immunoglobulin A1 ( IgA1 ) hinge region sequence .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Several species of pathogenic bacteria secrete IgA1 proteases at mucosal sites of infection to destroy the structure and function of human IgA1 thereby eliminating an important aspect of host defence .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "IgA1 proteases are known as autotransporter proteins as their gene structure encodes the information to direct their own secretion out of the bacterial cell. The iga gene structure is also thought to contribute to the antigenic heterogeneity demonstrated by the IgA1 proteases during infections and the cleavage specificity of the IgA1 proteases for human IgA1.",
+      "sentences": [
+        [
+          {
+            "segment_text": "IgA1 proteases are known as autotransporter proteins as their gene structure encodes the information to direct their own secretion out of the bacterial cell .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The iga gene structure is also thought to contribute to the antigenic heterogeneity demonstrated by the IgA1 proteases during infections and the cleavage specificity of the IgA1 proteases for human IgA1 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The IgA1 proteases have therefore been implicated as important virulence factors that contribute to bacterial infection and colonisation. The development of strategies to inactivate these IgA1 proteases has become the subject of recent research, as this has the potential to reduce bacterial colonisation at mucosal surfaces.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The IgA1 proteases have therefore been implicated as important virulence factors that contribute to bacterial infection and colonisation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The development of strategies to inactivate these IgA1 proteases has become the subject of recent research ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as this has the potential to reduce bacterial colonisation at mucosal surfaces .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "6",
+    "segment_num": "7",
+    "token_num": "159"
+  }
+}

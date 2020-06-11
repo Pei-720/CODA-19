@@ -1,0 +1,59 @@
+{
+  "paper_id": "2318d71622cd266fdbd9a9d80f25e689ff6f61ae",
+  "metadata": {
+    "title": "Detection of Viral Proteins in Human Cells Lines by Xeno- Proteomics: Elimination of the Last Valid Excuse for Not Testing Every Cellular Proteome Dataset for Viral Proteins",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1073,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Cell cultures used routinely in proteomic experiments may contain proteins from other species because of infection, transfection or just contamination. Since infection or contamination may affect the results of a biological experiment, it is important to test the samples for the presence of \u0027\u0027alien\u0027\u0027 proteins. Usually cells are tested only for the most common infections, and most of the existing tests are targeting specific contaminations. Here we describe a three-step procedure for reliable untargeted detection of viral proteins using proteomics data, and recommend this or similar procedure to be applied to every proteomics dataset submitted for publication.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Cell cultures used routinely in proteomic experiments may contain proteins from other species because of infection , transfection or just contamination .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Since infection or contamination may affect the results of a biological experiment ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "it is important to test the samples for the presence of `` alien \u0027\u0027 proteins .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Usually cells are tested only for the most common infections ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and most of the existing tests are targeting specific contaminations .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we describe a three-step procedure for reliable untargeted detection of viral proteins using proteomics data ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and recommend this or similar procedure to be applied to every proteomics dataset submitted for publication .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "4",
+    "segment_num": "7",
+    "token_num": "107"
+  }
+}

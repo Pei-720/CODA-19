@@ -1,0 +1,279 @@
+{
+  "paper_id": "f99ebb400112b2b75d8529424842c4d7af34619e",
+  "metadata": {
+    "title": "Two Complex, Adenovirus-Based Vaccines That Together Induce Immune Responses to All Four Dengue Virus Serotypes ᰔ Downloaded from",
+    "coda_data_split": "train",
+    "coda_paper_id": 6663,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Dengue virus infections can cause hemorrhagic fever, shock, encephalitis, and even death. Worldwide, approximately 2.5 billion people live in dengue-infested regions with about 100 million new cases each year, although many of these infections are believed to be silent. There are four antigenically distinct serotypes of dengue virus; thus, immunity from one serotype will not cross-protect from infection with the other three. The difficulties that hamper vaccine development include requirements of the natural conformation of the envelope glycoprotein to induce neutralizing immune responses and the necessity of presenting antigens of all four serotypes. Currently, the only way to meet these requirements is to use a mixture of four serotypes of live attenuated dengue viruses, but safety remains a major problem. In this study, we have developed the basis for a tetravalent dengue vaccine using a novel complex adenovirus platform that is capable of expressing multiple antigens de novo. This dengue vaccine is constructed as a pair of vectors that each expresses the premembrane and envelope genes of two different dengue virus serotypes.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Dengue virus infections can cause hemorrhagic fever ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "shock , encephalitis , and even death .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Worldwide , approximately 2.5 billion people live in dengue-infested regions with about 100 million new cases each year ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "although many of these infections are believed to be silent .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "There are four antigenically distinct serotypes of dengue virus ; thus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "immunity from one serotype will not cross-protect from infection with the other three .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The difficulties that hamper vaccine development include requirements of the natural conformation of the envelope glycoprotein to induce neutralizing immune responses and the necessity of presenting antigens of all four serotypes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Currently , the only way to meet these requirements is to use a mixture of four serotypes of live attenuated dengue viruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but safety remains a major problem .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we have developed the basis for a tetravalent dengue vaccine using a novel complex adenovirus platform that is capable of expressing multiple antigens de novo .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "This dengue vaccine is constructed as a pair of vectors that each expresses the premembrane and envelope genes of two different dengue virus serotypes .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Dengue fever is a widespread mosquito-borne illness affecting an estimated 100 million people worldwide each year (9). While a majority of dengue virus infections are asymptomatic and go unnoticed, the disease can occasionally present with symptoms, such as severe headache, retro-orbital pain, or joint and muscle pain. The most severe cases can lead to dengue hemorrhagic fever (DHF) and dengue shock syndrome (DSS), manifesting as hemorrhage in multiple organs, including the central nervous system, as well as massive vascular damage, bleeding, and shock. Fatality rates for DHF and DSS can reach up to 15%, the majority of which are in the pediatric demographic (23, 24).",
+      "sentences": [
+        [
+          {
+            "segment_text": "Dengue fever is a widespread mosquito-borne illness affecting an estimated 100 million people worldwide each year ( 9 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "While a majority of dengue virus infections are asymptomatic and go unnoticed ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the disease can occasionally present with symptoms ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as severe headache , retro-orbital pain ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "or joint and muscle pain .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The most severe cases can lead to dengue hemorrhagic fever ( DHF ) and dengue shock syndrome ( DSS ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "manifesting as hemorrhage in multiple organs ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including the central nervous system ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as well as massive vascular damage , bleeding , and shock .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Fatality rates for DHF and DSS can reach up to 15 % ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the majority of which are in the pediatric demographic ( 23 , 24 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Dengue viruses are members of the flavivirus family of viruses. All four serotypes (dengue virus [DEN] serotype 1 [DEN1] to DEN4) are identical in gene structure, consisting of three structural proteins, capsid (C), premembrane (prM), and envelope (E), and seven nonstructural proteins, NS1, NS2A, NS2B, NS3, NS4A, NS4B, and NS5 (14). These genes are translated from the positive-stranded RNA genome as a single polyprotein that is cleaved into individual proteins by cellular and viral proteases. Despite the structural similarities, there is variation in the genetic sequences of each serotype mainly in the membrane glycoproteins (prM and E) that results in antigenic distinction and lack of cross protection among the serotypes. Furthermore, subsequent infection with an alternate serotype may enhance disease severity, contributing to the onset of DHF or DSS. One possibility for this disease enhancement is that (nonneutralizing) antibodies may be aiding in viral entry into host cells, thereby enhancing the infection. Alternatively, broadly reactive cytotoxic T-lymphocyte (CTL) responses to DEN antigens, in the absence of neutralizing responses, may accelerate the destruction of host cells.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Dengue viruses are members of the flavivirus family of viruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "All four serotypes ( dengue virus ( DEN ) serotype 1 ( DEN1 ) to DEN4 ) are identical in gene structure ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "consisting of three structural proteins ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "capsid ( C ) , premembrane ( prM ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and envelope ( E ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and seven nonstructural proteins , NS1 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "NS2A , NS2B , NS3 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "NS4A , NS4B , and NS5 ( 14 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These genes are translated from the positive-stranded RNA genome as a single polyprotein that is cleaved into individual proteins by cellular and viral proteases .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Despite the structural similarities , there is variation in the genetic sequences of each serotype mainly in the membrane glycoproteins ( prM and E ) that results in antigenic distinction and lack of cross protection among the serotypes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , subsequent infection with an alternate serotype may enhance disease severity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "contributing to the onset of DHF or DSS .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "One possibility for this disease enhancement is that ( nonneutralizing ) antibodies may be aiding in viral entry into host cells , thereby enhancing the infection .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Alternatively , broadly reactive cytotoxic T-lymphocyte ( CTL ) responses to DEN antigens ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "in the absence of neutralizing responses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "may accelerate the destruction of host cells .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "There is currently no licensed vaccine available for dengue virus infection. Because of the immune enhancement associated with subsequent DEN infections, a successful DEN vaccine must induce neutralizing responses against all four DEN serotypes simultaneously (tetravalent). The difficulties that hamper vaccine development include the preservation of the neutralizing epitopes of the native DEN glycoprotein antigens and the necessity to present antigens from all serotypes. If a dengue vaccine does not offer tetravalent protection, a vaccinated individual would be susceptible to development of DHF or DSS if infected by a serotype not targeted by the vaccine.",
+      "sentences": [
+        [
+          {
+            "segment_text": "There is currently no licensed vaccine available for dengue virus infection .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Because of the immune enhancement associated with subsequent DEN infections ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a successful DEN vaccine must induce neutralizing responses against all four DEN serotypes simultaneously ( tetravalent ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The difficulties that hamper vaccine development include the preservation of the neutralizing epitopes of the native DEN glycoprotein antigens and the necessity to present antigens from all serotypes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "If a dengue vaccine does not offer tetravalent protection ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a vaccinated individual would be susceptible to development of DHF or DSS if infected by a serotype not targeted by the vaccine .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "A great amount of effort has focused on traditional approaches to dengue vaccine development; however, these approaches have yet to generate a licensed tetravalent dengue vaccine. For example, live attenuated DEN vaccines have shown protective immunity in animal models (3) but have been",
+      "sentences": [
+        [
+          {
+            "segment_text": "A great amount of effort has focused on traditional approaches to dengue vaccine development ; however ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "these approaches have yet to generate a licensed tetravalent dengue vaccine .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "For example , live attenuated DEN vaccines have shown protective immunity in animal models ( 3 ) but have been",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "24",
+    "segment_num": "47",
+    "token_num": "691"
+  }
+}

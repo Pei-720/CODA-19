@@ -1,0 +1,59 @@
+{
+  "paper_id": "96a9c6022fe8bbdac0c3f6df5c9fb986cab111d7",
+  "metadata": {
+    "title": "An Epidemic Patchy Model with Entry-Exit Screening",
+    "coda_data_split": "train",
+    "coda_paper_id": 7562,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "A multi-patch SEIQR epidemic model is formulated to investigate the longterm impact of entry-exit screening measures on the spread and control of infectious diseases. A threshold dynamics determined by the basic reproduction number 0 is established: The disease can be eradicated if 0 \u003c 1, while the disease persists if 0 \u003e 1. As an application, six different screening strategies are explored to examine the impacts of screening on the control of the 2009 influenza A (H1N1) pandemic. We find that it is crucial to screen travelers from and to high-risk patches, and it is not necessary to implement screening in all connected patches, and both the dispersal rates and the successful detection rate of screening play an important role on determining an effective and practical screening strategy.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A multi-patch SEIQR epidemic model is formulated to investigate the longterm impact of entry-exit screening measures on the spread and control of infectious diseases .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A threshold dynamics determined by the basic reproduction number 0 is established : The disease can be eradicated if 0 \u003c 1 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "while the disease persists if 0 \u003e 1 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As an application , six different screening strategies are explored to examine the impacts of screening on the control of the 2009 influenza A ( H1N1 ) pandemic .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We find that it is crucial to screen travelers from and to high-risk patches ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and it is not necessary to implement screening in all connected patches ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and both the dispersal rates and the successful detection rate of screening play an important role on determining an effective and practical screening strategy .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "4",
+    "segment_num": "7",
+    "token_num": "139"
+  }
+}

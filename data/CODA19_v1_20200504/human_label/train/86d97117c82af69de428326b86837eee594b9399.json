@@ -1,0 +1,97 @@
+{
+  "paper_id": "86d97117c82af69de428326b86837eee594b9399",
+  "metadata": {
+    "title": "An under-aisle air distribution system facilitating humidification of commercial aircraft cabins",
+    "coda_data_split": "train",
+    "coda_paper_id": 9839,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Air environment in aircraft cabins has long been criticized especially for the dryness of the air within. Low moisture content in cabins is known to be responsible for headache, tiredness and many other non-specific symptoms. In addition, current widely used air distribution systems on airplanes dilute internally generated pollutants by promoting air mixing and thus impose risks of infectious airborne disease transmission. To boost air humidity level while simultaneously restricting air mixing, this investigation uses a validated computational fluid dynamics (CFD) program to design a new under-aisle air distribution system for wide-body aircraft cabins. The new system supplies fully outside, dry air at low momentum through a narrow channel passage along both side cabin walls to middle height of the cabin just beneath the stowage bins, while simultaneously humidified air is supplied through both perforated under aisles. By comparing with the current mixing air distribution system in terms of distribution of relative humidity, CO 2 concentration, velocity, temperature and draught risk, the new system is found being able to improve the relative humidity from the existent 10% to the new level of 20% and lessen the inhaled CO 2 concentration by 30%, without causing moisture condensation on cabin interior and inducing draught risks for passengers. The water consumption rate in air humidification is only around 0.05 kg/h per person, which should be affordable by airliners.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Air environment in aircraft cabins has long been criticized especially for the dryness of the air within .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Low moisture content in cabins is known to be responsible for headache ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "tiredness and many other non-specific symptoms .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , current widely used air distribution systems on airplanes dilute internally generated pollutants by promoting air mixing and thus impose risks of infectious airborne disease transmission .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To boost air humidity level while simultaneously restricting air mixing ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "this investigation uses a validated computational fluid dynamics ( CFD ) program to design a new under-aisle air distribution system for wide-body aircraft cabins .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The new system supplies fully outside ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "dry air at low momentum through a narrow channel passage along both side cabin walls to middle height of the cabin just beneath the stowage bins ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "while simultaneously humidified air is supplied through both perforated under aisles .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "By comparing with the current mixing air distribution system in terms of distribution of relative humidity ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "CO 2 concentration , velocity ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "temperature and draught risk , the new system is found being able to improve the relative humidity from the existent 10 % to the new level of 20 % and lessen the inhaled CO 2 concentration by 30 % ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "without causing moisture condensation on cabin interior and inducing draught risks for passengers .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The water consumption rate in air humidification is only around 0.05 kg/h per person ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which should be affordable by airliners .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "15",
+    "token_num": "248"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "paper_id": "1f6b9042dccbbb2f608e8729140dd12d5eb7159e",
+  "metadata": {
+    "title": "",
+    "coda_data_split": "train",
+    "coda_paper_id": 10382,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "publicly funded repositories, such as the WHO COVID database with rights for unrestricted research re-use and analyses in any form or by any means with acknowledgement of the original source. These permissions are granted for free by Elsevier for as long as the COVID-19 resource centre remains active.",
+      "sentences": [
+        [
+          {
+            "segment_text": "publicly funded repositories , such as the WHO COVID database with rights for unrestricted research re-use and analyses in any form or by any means with acknowledgement of the original source .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These permissions are granted for free by Elsevier for as long as the COVID-19 resource centre remains active .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "During two successive winters, faecal extracts from 110 children under 3 years of age were examined by electron microscopy with negative contrast. In a first group of 22 children hospitalised for various medical disorders, no virus particles were detected. In the second group of 88 children with acute gastroenteritis, we found viruses in 31,8 % ot the faecal extracts, Rotavirus were detected in 22,7 % of the specimens and various particles (Adenovirus, Astrovirus, Coronavirus) in 9,1% of the specimens.",
+      "sentences": [
+        [
+          {
+            "segment_text": "During two successive winters , faecal extracts from 110 children under 3 years of age were examined by electron microscopy with negative contrast .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In a first group of 22 children hospitalised for various medical disorders ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "no virus particles were detected .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the second group of 88 children with acute gastroenteritis ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we found viruses in 31,8 % ot the faecal extracts ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Rotavirus were detected in 22,7 % of the specimens and various particles ( Adenovirus , Astrovirus , Coronavirus ) in 9,1 % of the specimens .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "5",
+    "segment_num": "8",
+    "token_num": "142"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "paper_id": "c616bf5e49c32e22667328eeba57a039b25d8d0c",
+  "metadata": {
+    "title": "Protein Expression Profiles Distinguish Between Experimental Invasive Pulmonary Aspergillosis and Pseudomonas Pneumonia NIH Public Access",
+    "coda_data_split": "train",
+    "coda_paper_id": 7474,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "We hypothesized that invasive pulmonary aspergillosis (IPA) may generate a distinctive proteomic signature in plasma and bronchoalveolar lavage (BAL). Proteins in plasma and BAL from two neutropenic rabbit models of IPA and Pseudomonas pneumonia were analyzed by SELDI-TOF MS. Hierarchical clustering analysis of plasma time course spectra demonstrated two clusters of peaks that were differentially regulated between IPA and Pseudomonas pneumonia (57 and 34 peaks, respectively, p\u003c0.001). PCA of plasma proteins demonstrated a time-dependent separation of the two infections. A random forest analysis that ranked the top 30 spectral points distinguished between late Aspergillus and Pseudomonas pneumonias with 100% sensitivity and specificity. Based on spectral data analysis, three proteins were identified using SDS-PAGE and LC/MS and quantified using reverse phase arrays. Differences in the temporal sequence of plasma haptoglobin (p \u003c0.001), apolipoprotein A1 (p\u003c0.001) and transthyretin (p\u003c0.038) were observed between IPA and Pseudomonas pneumonia, as was C-reactive protein (p\u003c0.001). In summary, proteomic analysis of plasma and BAL proteins of experimental Aspergillus and Pseudomonas pneumonias demonstrates unique protein profiles with principal components and spectral regions that are shared in early infection and diverge at later stages of infection. Haptoglobin, apolipoprotein A1, transthyretin and C-reactive protein are differentially expressed in these infections suggesting important contributions to host defense against IPA.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We hypothesized that invasive pulmonary aspergillosis ( IPA ) may generate a distinctive proteomic signature in plasma and bronchoalveolar lavage ( BAL ) .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Proteins in plasma and BAL from two neutropenic rabbit models of IPA and Pseudomonas pneumonia were analyzed by SELDI-TOF MS. Hierarchical clustering analysis of plasma time course spectra demonstrated two clusters of peaks that were differentially regulated between IPA and Pseudomonas pneumonia ( 57 and 34 peaks , respectively , p \u003c 0.001 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "PCA of plasma proteins demonstrated a time-dependent separation of the two infections .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A random forest analysis that ranked the top 30 spectral points distinguished between late Aspergillus and Pseudomonas pneumonias with 100 % sensitivity and specificity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Based on spectral data analysis ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "three proteins were identified using SDS-PAGE and LC/MS and quantified using reverse phase arrays .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Differences in the temporal sequence of plasma haptoglobin ( p \u003c 0.001 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "apolipoprotein A1 ( p \u003c 0.001 ) and transthyretin ( p \u003c 0.038 ) were observed between IPA and Pseudomonas pneumonia ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as was C-reactive protein ( p \u003c 0.001 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In summary , proteomic analysis of plasma and BAL proteins of experimental Aspergillus and Pseudomonas pneumonias demonstrates unique protein profiles with principal components and spectral regions that are shared in early infection and diverge at later stages of infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Haptoglobin , apolipoprotein A1 , transthyretin and C-reactive protein are differentially expressed in these infections suggesting important contributions to host defense against IPA .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "11",
+    "token_num": "248"
+  }
+}

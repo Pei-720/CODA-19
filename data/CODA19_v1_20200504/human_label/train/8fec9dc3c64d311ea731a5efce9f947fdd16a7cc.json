@@ -1,0 +1,170 @@
+{
+  "paper_id": "8fec9dc3c64d311ea731a5efce9f947fdd16a7cc",
+  "metadata": {
+    "title": "Stress Granules and Virus Replication HHS Public Access",
+    "coda_data_split": "train",
+    "coda_paper_id": 7481,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Viruses are dependent on the cellular translation machinery for protein synthesis. Part of the innate immune response to infection is activation of the stress kinase PKR which phosphorylates the alpha subunit of the initiation factor eIF2. This results in inhibition of translation and is intended to block virus replication. A downstream effect of translational shutoff involves the formation of cytoplasmic granules, termed stress granules (SGs), that contain mRNAs, initiation factors, ribosomal subunits, and other mRNA regulatory proteins. SGs hold mRNAs in a translationally inactive state until cells recover from stress. Recent studies have begun to elucidate the impact of SGs on virus replication. Not surprisingly, viruses from diverse families have been found to modulate SG formation in infected cells by associating with important SG effecter proteins. This review describes the current knowledge on SGs and their interaction with and impact on virus replication.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Viruses are dependent on the cellular translation machinery for protein synthesis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Part of the innate immune response to infection is activation of the stress kinase PKR which phosphorylates the alpha subunit of the initiation factor eIF2 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This results in inhibition of translation and is intended to block virus replication .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A downstream effect of translational shutoff involves the formation of cytoplasmic granules ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "termed stress granules ( SGs ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "that contain mRNAs , initiation factors ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "ribosomal subunits , and other mRNA regulatory proteins .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "SGs hold mRNAs in a translationally inactive state until cells recover from stress .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recent studies have begun to elucidate the impact of SGs on virus replication .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Not surprisingly , viruses from diverse families have been found to modulate SG formation in infected cells by associating with important SG effecter proteins .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This review describes the current knowledge on SGs and their interaction with and impact on virus replication .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The most highly regulated stage of protein synthesis occurs at the initiation step. The translation initation factor eIF2 plays a crucial role in this process. In non-stressed cells, eIF2 complexed with GDP associates with eIF2B, a nucleotide exchange factor, which exchanges GDP for GTP. This exchange allows the eIF2:GTP complex to associate with initiator methionine tRNA to form ternary complex (eIF2:GTP:tRNA Met ). Ternary complex brings the initiating methionine to the 43S ribosome pre-initiation complex. The 43S complex contains the 40S ribosome and a variety of additional initiation factors that play important roles in translation. The 43S complex then forms the 48S ribosomal complex by binding mRNA, which has itself been activated for translation via association with additional initiation factors. The 60S ribosomal subunit is then recruited, at which point GTP is hydrolyzed to GDP and eIF2:GDP is released from the ribosomal complex to again associate with eIF2B and be recharged with GTP to start the process anew [reviewed in [1, 2] ]. Following cellular stress, the alpha subunit of eIF2 is phosphorylated by one of four stress activated kinases; GCN, which is activated during nutrient starvation, PERK, which is activated following ER stress, HRI, which is activated following oxidative stress and heme deficiency, and PKR, which is activated following virus infection [reviewed in [3] ].",
+      "sentences": [
+        [
+          {
+            "segment_text": "The most highly regulated stage of protein synthesis occurs at the initiation step .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The translation initation factor eIF2 plays a crucial role in this process .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In non-stressed cells , eIF2 complexed with GDP associates with eIF2B ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a nucleotide exchange factor , which exchanges GDP for GTP .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This exchange allows the eIF2 : GTP complex to associate with initiator methionine tRNA to form ternary complex ( eIF2 : GTP : tRNA Met ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Ternary complex brings the initiating methionine to the 43S ribosome pre-initiation complex .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The 43S complex contains the 40S ribosome and a variety of additional initiation factors that play important roles in translation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The 43S complex then forms the 48S ribosomal complex by binding mRNA ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which has itself been activated for translation via association with additional initiation factors .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The 60S ribosomal subunit is then recruited ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "at which point GTP is hydrolyzed to GDP and eIF2 : GDP is released from the ribosomal complex to again associate with eIF2B and be recharged with GTP to start the process anew ( reviewed in ( 1 , 2 ) ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Following cellular stress , the alpha subunit of eIF2 is phosphorylated by one of four stress activated kinases ; GCN ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which is activated during nutrient starvation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "PERK , which is activated following ER stress ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "HRI , which is activated following oxidative stress and heme deficiency ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and PKR , which is activated following virus infection ( reviewed in ( 3 ) ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "17",
+    "segment_num": "27",
+    "token_num": "414"
+  }
+}

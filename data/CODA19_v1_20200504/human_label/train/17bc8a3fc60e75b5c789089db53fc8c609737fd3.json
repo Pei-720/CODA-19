@@ -1,0 +1,75 @@
+{
+  "paper_id": "17bc8a3fc60e75b5c789089db53fc8c609737fd3",
+  "metadata": {
+    "title": "VADR: validation and annotation of virus sequence submissions to GenBank",
+    "coda_data_split": "train",
+    "coda_paper_id": 7044,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: GenBank contains over 3 million viral sequences. The National Center for Biotechnology Information (NCBI) previously made available a tool for validating and annotating influenza virus sequences that is used to check submissions to GenBank. Before this project, there was no analogous tool in use for non-influenza viral sequence submissions. Results: We developed a system called VADR (Viral Annotation DefineR) that validates and annotates viral sequences in GenBank submissions. The annotation system is based on the analysis of the input nucleotide sequence using models built from curated RefSeqs. Hidden Markov models are used to classify sequences by determining the RefSeq they are most similar to, and feature annotation from the RefSeq is mapped based on a nucleotide alignment of the full sequence to a covariance model. Predicted proteins encoded by the sequence are validated with nucleotide-to-protein alignments using BLAST. The system identifies 43 types of \"alerts\" that (unlike the previous BLAST-based system) provide deterministic and rigorous feedback to researchers who submit sequences with unexpected characteristics",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : GenBank contains over 3 million viral sequences .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The National Center for Biotechnology Information ( NCBI ) previously made available a tool for validating and annotating influenza virus sequences that is used to check submissions to GenBank .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Before this project , there was no analogous tool in use for non-influenza viral sequence submissions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results : We developed a system called VADR ( Viral Annotation DefineR ) that validates and annotates viral sequences in GenBank submissions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The annotation system is based on the analysis of the input nucleotide sequence using models built from curated RefSeqs .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hidden Markov models are used to classify sequences by determining the RefSeq they are most similar to ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and feature annotation from the RefSeq is mapped based on a nucleotide alignment of the full sequence to a covariance model .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Predicted proteins encoded by the sequence are validated with nucleotide-to-protein alignments using BLAST .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The system identifies 43 types of `` alerts \u0027\u0027 that ( unlike the previous BLAST-based system ) provide deterministic and rigorous feedback to researchers who submit sequences with unexpected characteristics",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "9",
+    "token_num": "184"
+  }
+}

@@ -1,0 +1,404 @@
+{
+  "paper_id": "8607aac9046864becdec9a89df48524d61192e09",
+  "metadata": {
+    "title": "A Soluble Version of Nipah Virus Glycoprotein G Delivered by Vaccinia Virus MVA Activates Specific CD8 and CD4 T Cells in Mice",
+    "coda_data_split": "train",
+    "coda_paper_id": 10826,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Nipah virus (NiV) is an emerging zoonotic virus that is transmitted by bats to humans and to pigs, causing severe respiratory disease and often fatal encephalitis. Antibodies directed against the NiV-glycoprotein (G) protein are known to play a major role in clearing NiV infection and in providing vaccine-induced protective immunity. More recently, T cells have been also shown to be involved in recovery from NiV infection. So far, relatively little is known about the role of T cell responses and the antigenic targets of NiV-G that are recognized by CD8 T cells. In this study, NiV-G protein served as the target immunogen to activate NiV-specific cellular immune responses. Modified Vaccinia virus Ankara (MVA), a safety-tested strain of vaccinia virus for preclinical and clinical vaccine research, was used for the generation of MVA-NiV-G candidate vaccines expressing different versions of recombinant NiV-G. Overlapping peptides covering the entire NiV-G protein were used to identify major histocompatibility complex class I/II-restricted T cell responses in type I interferon receptor-deficient (IFNAR−/−) mice after vaccination with the MVA-NiV-G candidate vaccines. We have identified an H2-b-restricted nonamer peptide epitope with CD8 T cell antigenicity and a H2-b 15mer with CD4 T cell antigenicity in the NiV-G protein. The identification of this epitope and the availability of the MVA-NiV-G candidate vaccines will help to evaluate NiV-G-specific immune responses and the potential immune correlates of vaccine-mediated protection in the appropriate murine models of NiV-G infection. Of note, a soluble version of NiV-G was advantageous in activating NiV-G-specific cellular immune responses using these peptides. the first time NiV emerged in southern India [2] . Two strains of NiV have been identified, Malaysia and Bangladesh strains, which share 91.8% sequence homology [3] . NiV causes severe respiratory disease and encephalitis [4] [5] [6] , with average case fatality rates (CFR) of 40-75% [7] . Moreover, long-term neurological sequelae and even relapse of encephalitis are observed in many survivors of infections with both strains of NiV [8] [9] [10] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Nipah virus ( NiV ) is an emerging zoonotic virus that is transmitted by bats to humans and to pigs ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "causing severe respiratory disease and often fatal encephalitis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Antibodies directed against the NiV-glycoprotein ( G ) protein are known to play a major role in clearing NiV infection and in providing vaccine-induced protective immunity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "More recently , T cells have been also shown to be involved in recovery from NiV infection .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "So far , relatively little is known about the role of T cell responses and the antigenic targets of NiV-G that are recognized by CD8 T cells .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , NiV-G protein served as the target immunogen to activate NiV-specific cellular immune responses .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Modified Vaccinia virus Ankara ( MVA ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "a safety-tested strain of vaccinia virus for preclinical and clinical vaccine research ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "was used for the generation of MVA-NiV-G candidate vaccines expressing different versions of recombinant NiV-G .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Overlapping peptides covering the entire NiV-G protein were used to identify major histocompatibility complex class I/II-restricted T cell responses in type I interferon receptor-deficient ( IFNAR − / − ) mice after vaccination with the MVA-NiV-G candidate vaccines .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We have identified an H2-b-restricted nonamer peptide epitope with CD8 T cell antigenicity and a H2-b 15mer with CD4 T cell antigenicity in the NiV-G protein .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The identification of this epitope and the availability of the MVA-NiV-G candidate vaccines will help to evaluate NiV-G-specific immune responses and the potential immune correlates of vaccine-mediated protection in the appropriate murine models of NiV-G infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Of note , a soluble version of NiV-G was advantageous in activating NiV-G-specific cellular immune responses using these peptides .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "the first time NiV emerged in southern India ( 2 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Two strains of NiV have been identified ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Malaysia and Bangladesh strains , which share 91.8 % sequence homology ( 3 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "NiV causes severe respiratory disease and encephalitis ( 4 ) ( 5 ) ( 6 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with average case fatality rates ( CFR ) of 40-75 % ( 7 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , long-term neurological sequelae and even relapse of encephalitis are observed in many survivors of infections with both strains of NiV ( 8 ) ( 9 ) ( 10 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The natural reservoir of NiV and Hendra virus (HeV) are the fruit bats of the genus Pteropus, which are widely distributed in Asia, Australasia, and parts of Africa [11, 12] . Moreover, NiV has a broad species tropism and can cause disease in a many animal species [13] [14] [15] . NiV can infect humans via several routes, which include the consumption of food contaminated with bat secretions [16], transmission from amplification hosts such as pigs [4] , and direct human-to-human transmission between very close contacts [17] . Currently there are no licensed treatments or preventative vaccines available for use in humans, which make the development of effective prophylactic measures imperative.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The natural reservoir of NiV and Hendra virus ( HeV ) are the fruit bats of the genus Pteropus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which are widely distributed in Asia ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Australasia , and parts of Africa ( 11 , 12 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , NiV has a broad species tropism and can cause disease in a many animal species ( 13 ) ( 14 ) ( 15 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "NiV can infect humans via several routes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which include the consumption of food contaminated with bat secretions ( 16 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "transmission from amplification hosts such as pigs ( 4 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and direct human-to-human transmission between very close contacts ( 17 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Currently there are no licensed treatments or preventative vaccines available for use in humans ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which make the development of effective prophylactic measures imperative .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Evidence to date indicates that the Henipavirus glycoprotein G is a highly promising target of virus-neutralizing antibodies to counteract infections with highly pathogenic henipaviruses. The G glycoproteins of NiV and HeV share 83% amino acid sequence homology and are type II transmembrane proteins [18] . The glycoproteins of both viruses bind to the host cell receptors ephrin-B2 and ephrin-B3 [19] [20] [21] [22] , which are highly conserved across many species [23] . To date, the most promising therapeutic approach against Henipavirus infection is the one based on the application of the experimental human monoclonal antibody m102.4, which binds the ephrin-B2 and ephrin-B3 receptor-binding site on the glycoproteins of HeV (HeV-G) and NiV (NiV-G) [24] . The protective efficacy of m102.4 has been successfully evaluated in different preclinical models including ferrets and African green monkeys (AGM) [25] [26] [27] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Evidence to date indicates that the Henipavirus glycoprotein G is a highly promising target of virus-neutralizing antibodies to counteract infections with highly pathogenic henipaviruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The G glycoproteins of NiV and HeV share 83 % amino acid sequence homology and are type II transmembrane proteins ( 18 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The glycoproteins of both viruses bind to the host cell receptors ephrin-B2 and ephrin-B3 ( 19 ) ( 20 ) ( 21 ) ( 22 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which are highly conserved across many species ( 23 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To date , the most promising therapeutic approach against Henipavirus infection is the one based on the application of the experimental human monoclonal antibody m102 .4 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which binds the ephrin-B2 and ephrin-B3 receptor-binding site on the glycoproteins of HeV ( HeV-G ) and NiV ( NiV-G ) ( 24 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The protective efficacy of m102 .4 has been successfully evaluated in different preclinical models including ferrets and African green monkeys ( AGM ) ( 25 ) ( 26 ) ( 27 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Currently, several vaccines delivering NiV-G have been shown to protect against lethal challenge infections in preclinical testing. These candidate vaccines include recombinant viruses developed using vaccinia virus [28], canarypox [29], vesicular stomatitis virus (VSV) [30-34], rabies virus [35], measles virus [36], and adenovirus platforms [37, 38] . To date, the only licensed Henipavirus vaccine is the equine vaccine against HeV, Equivac ® HeV, which was approved for use in horses in Australia in 2012 [39]. This vaccine is a subunit vaccine, which comprises the soluble form of HeV-G (HeVsG) [19, [39] [40] [41] . The subunit HeVsG vaccine has been shown to protect against NiV in cats [42], ferrets [43] , and non-human primates [44], but not in pigs [45] . The ability of HeVsG to protect against NiV infection in some animal models warrants the evaluation of a vaccine that contains a soluble form of NiV glycoprotein G.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Currently , several vaccines delivering NiV-G have been shown to protect against lethal challenge infections in preclinical testing .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These candidate vaccines include recombinant viruses developed using vaccinia virus ( 28 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "canarypox ( 29 ) , vesicular stomatitis virus ( VSV ) ( 30-34 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "rabies virus ( 35 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "measles virus ( 36 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and adenovirus platforms ( 37 , 38 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To date , the only licensed Henipavirus vaccine is the equine vaccine against HeV ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Equivac ® HeV , which was approved for use in horses in Australia in 2012 ( 39 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This vaccine is a subunit vaccine ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which comprises the soluble form of HeV-G ( HeVsG ) ( 19 , ( 39 ) ( 40 ) ( 41 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The subunit HeVsG vaccine has been shown to protect against NiV in cats ( 42 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "ferrets ( 43 ) , and non-human primates ( 44 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but not in pigs ( 45 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The ability of HeVsG to protect against NiV infection in some animal models warrants the evaluation of a vaccine that contains a soluble form of NiV glycoprotein G.",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The role of antibodies in protective immunization against NiV infection has been widely reported, however there is limited information on NiV-specific T-cell-mediated immunity. Consequently, it is of interest to better understand the role of T cells in vaccine-induced protection against NiV. This, in turn, will aide in the development of new and improved vaccine candidates.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The role of antibodies in protective immunization against NiV infection has been widely reported ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "however there is limited information on NiV-specific T-cell-mediated immunity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Consequently , it is of interest to better understand the role of T cells in vaccine-induced protection against NiV .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "This , in turn , will aide in the development of new and improved vaccine candidates .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In this study, we investigated recombinant Modified Vaccinia virus Ankara (MVA) for delivery of NiV-G antigens [46] . We constructed two MVA-NiV-G vaccine candidates to express full-length NiV-G or the soluble form NiVsG. The candidate vaccines were genetically stable and efficiently replicated in primary chicken embryo fibroblasts, a cell culture system used for manufacturing of MVA vaccines. Importantly, vaccination of mice lacking the interferon alpha/beta receptor (IFNAR−/−) elicited readily detectable NiV-G-specific CD8 and CD4 T cells. We identified a potential H2-b-restricted epitope in the NiV-G that stimulated antigen-specific CD8 T cells and a potential H2-IAb-restricted epitope that stimulated antigen-specific CD4 T cells. Interestingly, in comparison with full-length NiV-G, the soluble antigen NiVsG induced significantly stronger epitope-specific T cell responses. Our work will be relevant for future studies characterizing NiV-G-specific T cell responses in NiV preclinical models.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this study , we investigated recombinant Modified Vaccinia virus Ankara ( MVA ) for delivery of NiV-G antigens ( 46 ) .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We constructed two MVA-NiV-G vaccine candidates to express full-length NiV-G or the soluble form NiVsG .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The candidate vaccines were genetically stable and efficiently replicated in primary chicken embryo fibroblasts ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "a cell culture system used for manufacturing of MVA vaccines .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Importantly , vaccination of mice lacking the interferon alpha/beta receptor ( IFNAR − / − ) elicited readily detectable NiV-G-specific CD8 and CD4 T cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We identified a potential H2-b-restricted epitope in the NiV-G that stimulated antigen-specific CD8 T cells and a potential H2-IAb-restricted epitope that stimulated antigen-specific CD4 T cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Interestingly , in comparison with full-length NiV-G ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the soluble antigen NiVsG induced significantly stronger epitope-specific T cell responses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our work will be relevant for future studies characterizing NiV-G-specific T cell responses in NiV preclinical models .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Materials and Methods",
+      "sentences": [
+        [
+          {
+            "segment_text": "Materials and Methods",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "IFNAR−/− mice [47] backcrossed more than 20-fold on the C57BL/6 background (were bred under specified-pathogen-free (SPF) conditions, housed in isolated cage units (IsoCage, Tecniplast,",
+      "sentences": [
+        [
+          {
+            "segment_text": "IFNAR − / − mice ( 47 ) backcrossed more than 20-fold on the C57BL/6 background ( were bred under specified-pathogen-free ( SPF ) conditions ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "housed in isolated cage units ( IsoCage , Tecniplast ,",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "8",
+    "sentence_num": "41",
+    "segment_num": "66",
+    "token_num": "1143"
+  }
+}

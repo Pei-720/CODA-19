@@ -1,0 +1,85 @@
+{
+  "paper_id": "d23df04e5c47a3266df989142798e424255f5c15",
+  "metadata": {
+    "title": "Conversion of operating theatre from positive to negative pressure environment",
+    "coda_data_split": "train",
+    "coda_paper_id": 8580,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The severe acute respiratory syndrome (SARS) crisis led to the construction of a negative pressure operating theatre at a hospital in Hong Kong. It is currently used for treatment of suspected or confirmed airborne infection cases, and was built in anticipation of a return of SARS, an outbreak of avian influenza or other respiratory epidemics. This article describes the physical conversion of a standard positive pressure operating theatre into a negative pressure environment, problems encountered, airflow design, and evaluation of performance. Since entering regular service, routine measurements and observations have indicated that the airflow performance has been satisfactory. This has also been confirmed by regular air sampling checks. Computational fluid dynamics, a computer modelling technique, was used to compare the distribution of room air before and after the design changes from positive to negative pressure. The simulation results show that the physical environment and the dispersion pattern of bacteria in the negative pressure theatre were as good as, if not better than, those in the original positive pressure design.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The severe acute respiratory syndrome ( SARS ) crisis led to the construction of a negative pressure operating theatre at a hospital in Hong Kong .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is currently used for treatment of suspected or confirmed airborne infection cases ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and was built in anticipation of a return of SARS ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "an outbreak of avian influenza or other respiratory epidemics .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This article describes the physical conversion of a standard positive pressure operating theatre into a negative pressure environment ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "problems encountered , airflow design , and evaluation of performance .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Since entering regular service , routine measurements and observations have indicated that the airflow performance has been satisfactory .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This has also been confirmed by regular air sampling checks .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Computational fluid dynamics , a computer modelling technique ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "was used to compare the distribution of room air before and after the design changes from positive to negative pressure .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The simulation results show that the physical environment and the dispersion pattern of bacteria in the negative pressure theatre were as good as ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "if not better than , those in the original positive pressure design .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "12",
+    "token_num": "188"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "paper_id": "82e33ea1413ab8560304175a8281348a156c2e47",
+  "metadata": {
+    "title": "Recalibrating disease parameters for increasing realism in modeling epidemics in closed settings",
+    "coda_data_split": "train",
+    "coda_paper_id": 4980,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: The homogeneous mixing assumption is widely adopted in epidemic modelling for its parsimony and represents the building block of more complex approaches, including very detailed agent-based models. The latter assume homogeneous mixing within schools, workplaces and households, mostly for the lack of detailed information on human contact behaviour within these settings. The recent data availability on high-resolution face-to-face interactions makes it now possible to assess the goodness of this simplified scheme in reproducing relevant aspects of the infection dynamics. Methods: We consider empirical contact networks gathered in different contexts, as well as synthetic data obtained through realistic models of contacts in structured populations. We perform stochastic spreading simulations on these contact networks and in populations of the same size under a homogeneous mixing hypothesis. We adjust the epidemiological parameters of the latter in order to fit the prevalence curve of the contact epidemic model. We quantify the agreement by comparing epidemic peak times, peak values, and epidemic sizes. Results: Good approximations of the peak times and peak values are obtained with the homogeneous mixing approach, with a median relative difference smaller than 20 % in all cases investigated. Accuracy in reproducing the peak time depends on the setting under study, while for the peak value it is independent of the setting. Recalibration is found to be linear in the epidemic parameters used in the contact data simulations, showing changes across empirical settings but robustness across groups and population sizes. Conclusions: An adequate rescaling of the epidemiological parameters can yield a good agreement between the epidemic curves obtained with a real contact network and a homogeneous mixing approach in a population of the same size. The use of such recalibrated homogeneous mixing approximations would enhance the accuracy and realism of agent-based simulations and limit the intrinsic biases of the homogeneous mixing.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : The homogeneous mixing assumption is widely adopted in epidemic modelling for its parsimony and represents the building block of more complex approaches ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including very detailed agent-based models .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The latter assume homogeneous mixing within schools ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "workplaces and households , mostly for the lack of detailed information on human contact behaviour within these settings .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The recent data availability on high-resolution face-to-face interactions makes it now possible to assess the goodness of this simplified scheme in reproducing relevant aspects of the infection dynamics .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Methods : We consider empirical contact networks gathered in different contexts ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "as well as synthetic data obtained through realistic models of contacts in structured populations .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We perform stochastic spreading simulations on these contact networks and in populations of the same size under a homogeneous mixing hypothesis .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We adjust the epidemiological parameters of the latter in order to fit the prevalence curve of the contact epidemic model .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We quantify the agreement by comparing epidemic peak times ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "peak values , and epidemic sizes .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results : Good approximations of the peak times and peak values are obtained with the homogeneous mixing approach ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with a median relative difference smaller than 20 % in all cases investigated .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Accuracy in reproducing the peak time depends on the setting under study ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while for the peak value it is independent of the setting .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recalibration is found to be linear in the epidemic parameters used in the contact data simulations ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "showing changes across empirical settings but robustness across groups and population sizes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Conclusions : An adequate rescaling of the epidemiological parameters can yield a good agreement between the epidemic curves obtained with a real contact network and a homogeneous mixing approach in a population of the same size .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The use of such recalibrated homogeneous mixing approximations would enhance the accuracy and realism of agent-based simulations and limit the intrinsic biases of the homogeneous mixing .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Mathematical models provide a theoretical framework that can be applied to improve our understanding of the spread of infectious diseases in a host population [1] [2] [3] [4] . A vast range of approaches has recently been developed for the analysis and interpretation of epidemic data,",
+      "sentences": [
+        [
+          {
+            "segment_text": "Mathematical models provide a theoretical framework that can be applied to improve our understanding of the spread of infectious diseases in a host population ( 1 ) ( 2 ) ( 3 ) ( 4 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A vast range of approaches has recently been developed for the analysis and interpretation of epidemic data ,",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "14",
+    "segment_num": "21",
+    "token_num": "381"
+  }
+}

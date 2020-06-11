@@ -1,0 +1,184 @@
+{
+  "paper_id": "20f424d56fe223b16552fce9261a1160fd50fb80",
+  "metadata": {
+    "title": "A relevance and quality-based ranking algorithm applied to evidence-base d me dicine",
+    "coda_data_split": "train",
+    "coda_paper_id": 9268,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: The amount of information available about millions of different subjects is growing every day. This has led to the birth of new search tools specialized in different domains, because classical information retrieval models have trouble dealing with the special characteristics of some of these domains. Evidence-based Medicine is a case of a complex domain where classical information retrieval models can help search engines retrieve documents by considering the presence or absence of terms, but these must be complemented with other specific strategies which allow retrieving and ranking documents including the best current evidence and methodological quality.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : The amount of information available about millions of different subjects is growing every day .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This has led to the birth of new search tools specialized in different domains ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "because classical information retrieval models have trouble dealing with the special characteristics of some of these domains .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Evidence-based Medicine is a case of a complex domain where classical information retrieval models can help search engines retrieve documents by considering the presence or absence of terms ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but these must be complemented with other specific strategies which allow retrieving and ranking documents including the best current evidence and methodological quality .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Objective: The goal is to present a ranking algorithm able to select the best documents for clinicians considering aspects related to the relevance and the quality of said documents.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Objective : The goal is to present a ranking algorithm able to select the best documents for clinicians considering aspects related to the relevance and the quality of said documents .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Methods: In order to assess the effectiveness of this proposal, an experimental methodology has been followed by using Medline as a data set and the Cochrane Library as a gold standard.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Methods : In order to assess the effectiveness of this proposal ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "an experimental methodology has been followed by using Medline as a data set and the Cochrane Library as a gold standard .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results: Applying the evaluation methodology proposed, and after submitting 40 queries on the platform developed, the MAP (Mean Average Precision) obtained was 20.26%.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results : Applying the evaluation methodology proposed ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and after submitting 40 queries on the platform developed ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the MAP ( Mean Average Precision ) obtained was 20.26 % .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Conclusions: Successful results have been achieved with the experiments, improving on other studies, but under different and even more complex circumstances. with real users [ 5 , 6 ]; nevertheless, there are studies that question whether technology applied to clinical information retrieval is useful and cast doubt on the ability of scientists to search appropriately [7] . Hence, it is necessary to develop algorithms to improve the quality of search results, especially as finding the best studies may suppose a better treatment for patients [8] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Conclusions : Successful results have been achieved with the experiments ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "improving on other studies , but under different and even more complex circumstances .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "with real users ( 5 , 6 ) ; nevertheless ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "there are studies that question whether technology applied to clinical information retrieval is useful and cast doubt on the ability of scientists to search appropriately ( 7 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hence , it is necessary to develop algorithms to improve the quality of search results ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "especially as finding the best studies may suppose a better treatment for patients ( 8 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "An example may be the algorithm proposed in [9] which models quality criteria through fuzzy prototypes in order to filter Personal Health Records (PHRs). This is only one example of documents in Medicine, but there are many other types of documents (review articles, original studies, case reports, etc.) that are important, especially in Evidence-based Medicine (EBM). According to [10] , EBM is \"the conscientious, explicit, and judicious use of current best evidence in making decisions about the care of individual patients.\" Therefore, EBM consists of integrating the best research evidence with clinical expertise and patient values. It is based on two main principles, the application of the best available evidence from the scientific method to medical decision making [11] and the assessment of the quality of evidence of the advantages and disadvantages of treatments [12] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "An example may be the algorithm proposed in ( 9 ) which models quality criteria through fuzzy prototypes in order to filter Personal Health Records ( PHRs ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This is only one example of documents in Medicine ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but there are many other types of documents ( review articles , original studies , case reports , etc. ) that are important ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "especially in Evidence-based Medicine ( EBM ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "According to ( 10 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "EBM is `` the conscientious ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "explicit , and judicious use of current best evidence in making decisions about the care of individual patients . \u0027\u0027",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , EBM consists of integrating the best research evidence with clinical expertise and patient values .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is based on two main principles ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the application of the best available evidence from the scientific method to medical decision making ( 11 ) and the assessment of the quality of evidence of the advantages and disadvantages of treatments ( 12 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "6",
+    "sentence_num": "14",
+    "segment_num": "27",
+    "token_num": "461"
+  }
+}

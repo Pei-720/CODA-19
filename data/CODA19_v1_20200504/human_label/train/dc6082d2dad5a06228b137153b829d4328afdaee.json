@@ -1,0 +1,77 @@
+{
+  "paper_id": "dc6082d2dad5a06228b137153b829d4328afdaee",
+  "metadata": {
+    "title": "Antiviral T-cell therapy",
+    "coda_data_split": "train",
+    "coda_paper_id": 4528,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Serious viral infections are a common cause of morbidity and mortality after allogeneic stem cell transplantation. They occur in the majority of allograft recipients and are fatal in 17-20%. These severe infections may be prolonged or recurrent and add substantially to the cost, both human and financial, of the procedure. Many features of allogeneic stem cell transplantation contribute to this high rate of viral disease. The cytotoxic and immunosuppressive drugs administered pre-transplant to eliminate the host hematopoietic/immune system and any associated malignancy, the delay in recapitulating immune ontogeny post-transplant, the immunosuppressive drugs given to prevent graft versus host disease (GvHD), and the effects of GvHD itself, all serve to make stem cell transplant recipients vulnerable to disease from endogenous (latent) and exogenous (community) viruses, and to be incapable of controlling them as quickly and effectively as most normal individuals.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Serious viral infections are a common cause of morbidity and mortality after allogeneic stem cell transplantation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "They occur in the majority of allograft recipients and are fatal in 17-20 % .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These severe infections may be prolonged or recurrent and add substantially to the cost ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "both human and financial , of the procedure .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Many features of allogeneic stem cell transplantation contribute to this high rate of viral disease .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The cytotoxic and immunosuppressive drugs administered pre-transplant to eliminate the host hematopoietic/immune system and any associated malignancy ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the delay in recapitulating immune ontogeny post-transplant ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the immunosuppressive drugs given to prevent graft versus host disease ( GvHD ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the effects of GvHD itself ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "all serve to make stem cell transplant recipients vulnerable to disease from endogenous ( latent ) and exogenous ( community ) viruses ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and to be incapable of controlling them as quickly and effectively as most normal individuals .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "11",
+    "token_num": "158"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "paper_id": "d6631a0f06bb98c73bfde3c98faf886c8be05522",
+  "metadata": {
+    "title": "Reporting errors in infectious disease outbreaks, with an application to Pandemic Influenza A/H1N1",
+    "coda_data_split": "train",
+    "coda_paper_id": 2831,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Effectively responding to infectious disease outbreaks requires a well-informed response. Quantitative methods for analyzing outbreak data and estimating key parameters to characterize the spread of the outbreak, including the reproductive number and the serial interval, often assume that the data collected is complete. In reality reporting delays, undetected cases or lack of sensitive and specific tests to diagnose disease lead to reporting errors in the case counts. Here we provide insight on the impact that such reporting errors might have on the estimation of these key parameters. Results: We show that when the proportion of cases reported is changing through the study period, the estimates of key epidemiological parameters are biased. Using data from the Influenza A/H1N1 outbreak in La Gloria, Mexico, we provide estimates of these parameters, accounting for possible reporting errors, and show that they can be biased by as much as 33%, if reporting issues are not accounted for. Conclusions: Failure to account for missing data can lead to misleading and inaccurate estimates of epidemic parameters.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Effectively responding to infectious disease outbreaks requires a well-informed response .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Quantitative methods for analyzing outbreak data and estimating key parameters to characterize the spread of the outbreak ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including the reproductive number and the serial interval ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "often assume that the data collected is complete .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In reality reporting delays , undetected cases or lack of sensitive and specific tests to diagnose disease lead to reporting errors in the case counts .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we provide insight on the impact that such reporting errors might have on the estimation of these key parameters .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results : We show that when the proportion of cases reported is changing through the study period ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the estimates of key epidemiological parameters are biased .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using data from the Influenza A/H1N1 outbreak in La Gloria ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Mexico , we provide estimates of these parameters ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "accounting for possible reporting errors ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and show that they can be biased by as much as 33 % ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "if reporting issues are not accounted for .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Conclusions : Failure to account for missing data can lead to misleading and inaccurate estimates of epidemic parameters .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "14",
+    "token_num": "190"
+  }
+}

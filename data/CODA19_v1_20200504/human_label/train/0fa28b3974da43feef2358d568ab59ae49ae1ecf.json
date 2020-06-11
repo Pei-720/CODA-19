@@ -1,0 +1,83 @@
+{
+  "paper_id": "0fa28b3974da43feef2358d568ab59ae49ae1ecf",
+  "metadata": {
+    "title": "Transient CFD simulation of the respiration process and inter-person exposure assessment",
+    "coda_data_split": "train",
+    "coda_paper_id": 6088,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "It is known that the person-to-person spreading of certain infectious diseases is related with the transmission of human exhaled air in the indoor environments, and this is suspected to be the case with the severe acute respiratory syndrome (SARS) outbreak. This paper presents the numerical analysis of the human respiration process and the transport of exhaled air by breathing, sneezing, and coughing and their potential impact on the adjacent person in a modeled room with displacement ventilation. In order to account for the influence of the thermal plume around the human body, a three-dimensional computational thermal manikin (CTM) with an accurate description of body geometry was applied. Some of the results were compared with those from former simulations and experiments. It was found that personal exposure to the exhaled air from the normal respiration process of other persons is very low in a modeled room with displacement ventilation. Personal exposure to pollution caused by sneezing or coughing is highly directional. When two occupants face each other the cross-infection may happen due to the long transport distance of the exhalation. r",
+      "sentences": [
+        [
+          {
+            "segment_text": "It is known that the person-to-person spreading of certain infectious diseases is related with the transmission of human exhaled air in the indoor environments ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and this is suspected to be the case with the severe acute respiratory syndrome ( SARS ) outbreak .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This paper presents the numerical analysis of the human respiration process and the transport of exhaled air by breathing ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "sneezing , and coughing and their potential impact on the adjacent person in a modeled room with displacement ventilation .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "In order to account for the influence of the thermal plume around the human body ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "a three-dimensional computational thermal manikin ( CTM ) with an accurate description of body geometry was applied .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Some of the results were compared with those from former simulations and experiments .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "It was found that personal exposure to the exhaled air from the normal respiration process of other persons is very low in a modeled room with displacement ventilation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Personal exposure to pollution caused by sneezing or coughing is highly directional .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "When two occupants face each other the cross-infection may happen due to the long transport distance of the exhalation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "r",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "11",
+    "token_num": "195"
+  }
+}

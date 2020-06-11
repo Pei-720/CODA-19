@@ -1,0 +1,154 @@
+{
+  "paper_id": "7677310b4e43cfaff6fd4ad53636fa80de589fd2",
+  "metadata": {
+    "title": "The effects of border control and quarantine measures on global spread of COVID-19",
+    "coda_data_split": "train",
+    "coda_paper_id": 10850,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The rapid expansion of coronavirus has been observed in many parts of the world. Many newly reported cases of this new coronavirus during early outbreak phases have been associated with travel history from an epidemic region (identified as imported cases). For those cases without travel history, the risk of wider spreads through community contact is even higher. However, most population models assume a homogeneous infected population without considering that the imported and secondary cases contracted by the imported cases can pose a different risk to community spread.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The rapid expansion of coronavirus has been observed in many parts of the world .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Many newly reported cases of this new coronavirus during early outbreak phases have been associated with travel history from an epidemic region ( identified as imported cases ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "For those cases without travel history ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the risk of wider spreads through community contact is even higher .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , most population models assume a homogeneous infected population without considering that the imported and secondary cases contracted by the imported cases can pose a different risk to community spread .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We have developed an \"easy-to-use\" mathematical framework extending from a meta-population model embedding city-to-city connections to stratify the dynamics of transmission waves caused by imported, secondary, and others from an outbreak source region when control measures are considered. Using the dynamics of the secondary cases, we are able to determine the probability of community spread.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We have developed an `` easy-to-use \u0027\u0027 mathematical framework extending from a meta-population model embedding city-to-city connections to stratify the dynamics of transmission waves caused by imported ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "secondary , and others from an outbreak source region when control measures are considered .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using the dynamics of the secondary cases ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we are able to determine the probability of community spread .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Using the top 10 visiting cities from Wuhan in China as an example, we first demonstrated that the arrival time and the dynamics of the outbreaks at these cities can be successfully predicted under the reproductive number R 0 \u003d 2.92 and latent period τ \u003d 5.2 days. Next, we showed that although control measures can gain extra 32.5 and 44.0 days in arrival time through a high intensive border control measure and a shorter time to quarantine under a low R 0 (1.4), if the R 0 is higher (2.92), only 10 extra days can be gained for each of the same measures.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Using the top 10 visiting cities from Wuhan in China as an example ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we first demonstrated that the arrival time and the dynamics of the outbreaks at these cities can be successfully predicted under the reproductive number R 0 \u003d 2.92 and latent period τ \u003d 5.2 days .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Next , we showed that although control measures can gain extra 32.5 and 44.0 days in arrival time through a high intensive border control measure and a shorter time to quarantine under a low R 0 ( 1.4 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "if the R 0 is higher ( 2.92 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "only 10 extra days can be gained for each of the same measures .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "This suggests the importance of lowering the incidence at source regions together with infectious disease control measures in susceptible regions. The study allows us to assess the effects of border control and quarantine measures on the emergence and the global spread in a fully connected world using the dynamics of the secondary cases.",
+      "sentences": [
+        [
+          {
+            "segment_text": "This suggests the importance of lowering the incidence at source regions together with infectious disease control measures in susceptible regions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The study allows us to assess the effects of border control and quarantine measures on the emergence and the global spread in a fully connected world using the dynamics of the secondary cases .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "2 . CC-BY-NC-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "2 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "CC-BY-NC-ND 4.0 International license It is made available under a is the author/funder ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "who has granted medRxiv a license to display the preprint in perpetuity .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "(which was not peer-reviewed) The copyright holder for this preprint .",
+      "sentences": [
+        [
+          {
+            "segment_text": "( which was not peer-reviewed ) The copyright holder for this preprint .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "6",
+    "sentence_num": "13",
+    "segment_num": "20",
+    "token_num": "368"
+  }
+}

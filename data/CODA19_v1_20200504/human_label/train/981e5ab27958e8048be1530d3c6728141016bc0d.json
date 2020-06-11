@@ -1,0 +1,51 @@
+{
+  "paper_id": "981e5ab27958e8048be1530d3c6728141016bc0d",
+  "metadata": {
+    "title": "Transgenic animal bioreactors",
+    "coda_data_split": "train",
+    "coda_paper_id": 7922,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The production of recombinant proteins is one of the major successes of biotechnology. Animal cells are required to synthesize proteins with the appropriate post-translational modifications. Transgenic animals are being used for this purpose. Milk, egg white, blood, urine, seminal plasma and silk worm cocoon from transgenic animals are candidates to be the source of recombinant proteins at an industrial scale.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The production of recombinant proteins is one of the major successes of biotechnology .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Animal cells are required to synthesize proteins with the appropriate post-translational modifications .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Transgenic animals are being used for this purpose .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Milk , egg white , blood ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "urine , seminal plasma and silk worm cocoon from transgenic animals are candidates to be the source of recombinant proteins at an industrial scale .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "4",
+    "segment_num": "5",
+    "token_num": "68"
+  }
+}

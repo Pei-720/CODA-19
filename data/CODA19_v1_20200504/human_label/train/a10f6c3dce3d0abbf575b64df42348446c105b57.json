@@ -1,0 +1,126 @@
+{
+  "paper_id": "a10f6c3dce3d0abbf575b64df42348446c105b57",
+  "metadata": {
+    "title": "Drug Design, Development and Therapy Dovepress Design of an epitope-based peptide vaccine against spike protein of human coronavirus: an in silico approach",
+    "coda_data_split": "train",
+    "coda_paper_id": 3054,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Human coronavirus (HCoV), a member of Coronaviridae family, is the causative agent of upper respiratory tract infections and \"atypical pneumonia\". Despite severe epidemic outbreaks on several occasions and lack of antiviral drug, not much progress has been made with regard to an epitope-based vaccine designed for HCoV. In this study, a computational approach was adopted to identify a multiepitope vaccine candidate against this virus that could be suitable to trigger a significant immune response. Sequences of the spike proteins were collected from a protein database and analyzed with an in silico tool, to identify the most immunogenic protein.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Human coronavirus ( HCoV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a member of Coronaviridae family ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "is the causative agent of upper respiratory tract infections and `` atypical pneumonia \u0027\u0027 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Despite severe epidemic outbreaks on several occasions and lack of antiviral drug ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "not much progress has been made with regard to an epitope-based vaccine designed for HCoV .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , a computational approach was adopted to identify a multiepitope vaccine candidate against this virus that could be suitable to trigger a significant immune response .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Sequences of the spike proteins were collected from a protein database and analyzed with an in silico tool ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "to identify the most immunogenic protein .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Both T cell immunity and B cell immunity were checked for the peptides to ensure that they had the capacity to induce both humoral and cell-mediated immunity. The peptide sequence from 88-94 amino acids and the sequence KSSTGFVYF were found as the most potential B cell and T cell epitopes, respectively. Furthermore, conservancy analysis was also done using in silico tools and showed a conservancy of 64.29% for all epitopes. The peptide sequence could interact with as many as 16 human leukocyte antigens (HLAs) and showed high cumulative population coverage, ranging from 75.68% to 90.73%. The epitope was further tested for binding against the HLA molecules, using in silico docking techniques, to verify the binding cleft epitope interaction. The allergenicity of the epitopes was also evaluated. This computational study of design of an epitope-based peptide vaccine against HCoVs allows us to determine novel peptide antigen targets in spike proteins on intuitive grounds, albeit the preliminary results thereof require validation by in vitro and in vivo experiments.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Both T cell immunity and B cell immunity were checked for the peptides to ensure that they had the capacity to induce both humoral and cell-mediated immunity .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The peptide sequence from 88-94 amino acids and the sequence KSSTGFVYF were found as the most potential B cell and T cell epitopes , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , conservancy analysis was also done using in silico tools and showed a conservancy of 64.29 % for all epitopes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The peptide sequence could interact with as many as 16 human leukocyte antigens ( HLAs ) and showed high cumulative population coverage ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "ranging from 75.68 % to 90.73 % .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The epitope was further tested for binding against the HLA molecules ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "using in silico docking techniques ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "to verify the binding cleft epitope interaction .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The allergenicity of the epitopes was also evaluated .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This computational study of design of an epitope-based peptide vaccine against HCoVs allows us to determine novel peptide antigen targets in spike proteins on intuitive grounds ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "albeit the preliminary results thereof require validation by in vitro and in vivo experiments .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "11",
+    "segment_num": "19",
+    "token_num": "295"
+  }
+}

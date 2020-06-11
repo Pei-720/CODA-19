@@ -1,0 +1,96 @@
+{
+  "paper_id": "32066b3658d96b8eca1b3411d7c440ee51e4a6f8",
+  "metadata": {
+    "title": "ACR Appropriateness Criteria ® on Acute Respiratory Illness",
+    "coda_data_split": "train",
+    "coda_paper_id": 4762,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "In a patient with acute respiratory illness (cough, sputum production, chest pain, and/or dyspnea), the need for chest imaging depends on the severity of illness, age of the patient, clinical history, physical and laboratory findings, and other risk factors. Chest radiographs seem warranted when one or more of the following are present: age Ն 40; dementia; a positive physical examination; hemoptysis; associated abnormalities (leukocytosis, hypoxemia); or other risk factors, including coronary artery disease, congestive heart failure, or druginduced acute respiratory failure. Chest CT may be warranted in complicated cases of severe pneumonia and in febrile neutropenic patients with normal or nonspecific chest radiographic findings. Literature on the indications and usefulness of radiologic studies for acute respiratory illness in different clinical settings is reviewed.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In a patient with acute respiratory illness ( cough , sputum production , chest pain , and/or dyspnea ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the need for chest imaging depends on the severity of illness ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "age of the patient , clinical history ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "physical and laboratory findings , and other risk factors .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Chest radiographs seem warranted when one or more of the following are present : age Ն 40 ; dementia ; a positive physical examination ; hemoptysis ; associated abnormalities ( leukocytosis , hypoxemia ) ; or other risk factors ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including coronary artery disease , congestive heart failure ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "or druginduced acute respiratory failure .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Chest CT may be warranted in complicated cases of severe pneumonia and in febrile neutropenic patients with normal or nonspecific chest radiographic findings .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Literature on the indications and usefulness of radiologic studies for acute respiratory illness in different clinical settings is reviewed .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Acute respiratory illness (ARI) is defined as Ն1 of the following: cough, sputum production, chest pain, or dyspnea (with or without fever). The workup of a patient with ARI, including the need for chest radiography and",
+      "sentences": [
+        [
+          {
+            "segment_text": "Acute respiratory illness ( ARI ) is defined as Ն1 of the following : cough ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "sputum production , chest pain ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "or dyspnea ( with or without fever ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The workup of a patient with ARI ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including the need for chest radiography and",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "6",
+    "segment_num": "14",
+    "token_num": "195"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "paper_id": "a135f7028fe8bfd36c791323bf28623c06c7b7fb",
+  "metadata": {
+    "title": "AVPdb: a database of experimentally validated antiviral peptides targeting medically important viruses",
+    "coda_data_split": "train",
+    "coda_paper_id": 3010,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Antiviral peptides (AVPs) have exhibited huge potential in inhibiting viruses by targeting various stages of their life cycle. Therefore, we have developed AVPdb, available online at http://crdd.osdd.net/ servers/avpdb, to provide a dedicated resource of experimentally verified AVPs targeting over 60 medically important viruses including Influenza, HCV, HSV, RSV, HBV, DENV, SARS, etc. However, we have separately provided HIV inhibiting peptides in \u0027HIPdb\u0027. AVPdb contains detailed information of 2683 peptides, including 624 modified peptides experimentally tested for antiviral activity. In modified peptides a chemical moiety is attached for increasing their efficacy and stability. Detailed information include: peptide sequence, length, source, virus targeted, virus family, cell line used, efficacy (qualitative/quantitative), target step/ protein, assay used in determining the efficacy and PubMed reference. The database also furnishes physicochemical properties and predicted structure for each peptide. We have provided user-friendly browsing and search facility along with other analysis tools to help the users. Entering of many synthetic peptide-based drugs in various stages of clinical trials reiterate the importance for the AVP resources. AVPdb is anticipated to cater to the needs of scientific community working for the development of antiviral therapeutics.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Antiviral peptides ( AVPs ) have exhibited huge potential in inhibiting viruses by targeting various stages of their life cycle .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , we have developed AVPdb ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "available online at http://crdd.osdd.net/ servers/avpdb ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "to provide a dedicated resource of experimentally verified AVPs targeting over 60 medically important viruses including Influenza ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "HCV , HSV , RSV ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "HBV , DENV , SARS , etc. .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , we have separately provided HIV inhibiting peptides in ` HIPdb \u0027 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "AVPdb contains detailed information of 2683 peptides ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including 624 modified peptides experimentally tested for antiviral activity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In modified peptides a chemical moiety is attached for increasing their efficacy and stability .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Detailed information include : peptide sequence ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "length , source , virus targeted ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "virus family , cell line used ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "efficacy ( qualitative/quantitative ) , target step / protein ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "assay used in determining the efficacy and PubMed reference .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The database also furnishes physicochemical properties and predicted structure for each peptide .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We have provided user-friendly browsing and search facility along with other analysis tools to help the users .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Entering of many synthetic peptide-based drugs in various stages of clinical trials reiterate the importance for the AVP resources .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "AVPdb is anticipated to cater to the needs of scientific community working for the development of antiviral therapeutics .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "10",
+    "segment_num": "19",
+    "token_num": "224"
+  }
+}

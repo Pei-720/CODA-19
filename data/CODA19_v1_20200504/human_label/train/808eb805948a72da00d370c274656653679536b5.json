@@ -1,0 +1,85 @@
+{
+  "paper_id": "808eb805948a72da00d370c274656653679536b5",
+  "metadata": {
+    "title": "Epitope Mapping of M36, a Human Antibody Domain with Potent and Broad HIV-1 Inhibitory Activity",
+    "coda_data_split": "train",
+    "coda_paper_id": 8920,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "M36 is the first member of a novel class of potent HIV-1 entry inhibitors based on human engineered antibody domains (eAds). It exhibits broad inhibitory activity suggesting that its CD4-induced epitope is highly conserved. Here, we describe fine mapping of its epitope by using several approaches. First, a panel of mimotopes was affinity-selected from a random peptide library and potential m36-binding residues were computationally predicted. Second, homology modeling of m36 and molecular docking of m36 onto gp120 revealed potentially important residues in gp120-m36 interactions. Third, the predicted contact residues were verified by site-directed mutagenesis. Taken together, m36 epitope comprising three discontinuous sites including six key gp120 residues (Site C1: Thr123 and Pro124; Site C3: Glu370 and Ile371; Site C4: Met426 and Trp427) were identified. In the 3D structure of gp120, the sites C1 and C4 are located in the bridging sheet and the site C3 is within the b15-a3 excursion, which play essential roles for the receptor-and coreceptor-binding and are major targets of neutralizing antibodies. Based on these results we propose a precise localization of the m36 epitope and suggest a mechanism of its broad inhibitory activity which could help in the development of novel HIV-1 therapeutics based on eAds.",
+      "sentences": [
+        [
+          {
+            "segment_text": "M36 is the first member of a novel class of potent HIV-1 entry inhibitors based on human engineered antibody domains ( eAds ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It exhibits broad inhibitory activity suggesting that its CD4-induced epitope is highly conserved .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we describe fine mapping of its epitope by using several approaches .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "First , a panel of mimotopes was affinity-selected from a random peptide library and potential m36-binding residues were computationally predicted .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Second , homology modeling of m36 and molecular docking of m36 onto gp120 revealed potentially important residues in gp120-m36 interactions .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Third , the predicted contact residues were verified by site-directed mutagenesis .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Taken together , m36 epitope comprising three discontinuous sites including six key gp120 residues ( Site C1 : Thr123 and Pro124 ; Site C3 : Glu370 and Ile371 ; Site C4 : Met426 and Trp427 ) were identified .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the 3D structure of gp120 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the sites C1 and C4 are located in the bridging sheet and the site C3 is within the b15-a3 excursion ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which play essential roles for the receptor-and coreceptor-binding and are major targets of neutralizing antibodies .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Based on these results we propose a precise localization of the m36 epitope and suggest a mechanism of its broad inhibitory activity which could help in the development of novel HIV-1 therapeutics based on eAds .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "9",
+    "segment_num": "11",
+    "token_num": "225"
+  }
+}

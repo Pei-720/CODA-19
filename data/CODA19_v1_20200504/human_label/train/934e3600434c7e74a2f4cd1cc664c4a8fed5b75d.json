@@ -1,0 +1,67 @@
+{
+  "paper_id": "934e3600434c7e74a2f4cd1cc664c4a8fed5b75d",
+  "metadata": {
+    "title": "Computational studies for the structure and function of mRPE65",
+    "coda_data_split": "train",
+    "coda_paper_id": 7284,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The mRPE65 protein is one form of the RPE65 protein and plays a very important role in the visual cycle. However, its 3D structure and detailed mechanism of function are still unclear because of difficulties with isolation and crystallization. This computational study reports a model for the mRPE65 protein structure derived from a model for sRPE65. The natural substrate for RPE65 has been shown to be a retinyl ester and, by utilizing the Autodock and the Ligplot programs, the interactions between the ester and the protein as well as the effects of several mutations on these interactions are studied. Finally, the position of the binding site is proposed based on an iterative process and the effects of the mutations on the binding site are also discussed. r",
+      "sentences": [
+        [
+          {
+            "segment_text": "The mRPE65 protein is one form of the RPE65 protein and plays a very important role in the visual cycle .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , its 3D structure and detailed mechanism of function are still unclear because of difficulties with isolation and crystallization .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This computational study reports a model for the mRPE65 protein structure derived from a model for sRPE65 .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The natural substrate for RPE65 has been shown to be a retinyl ester and ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "by utilizing the Autodock and the Ligplot programs ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the interactions between the ester and the protein as well as the effects of several mutations on these interactions are studied .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , the position of the binding site is proposed based on an iterative process and the effects of the mutations on the binding site are also discussed .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "r",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "8",
+    "token_num": "136"
+  }
+}

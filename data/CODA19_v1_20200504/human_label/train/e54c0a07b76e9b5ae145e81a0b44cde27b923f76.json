@@ -1,0 +1,65 @@
+{
+  "paper_id": "e54c0a07b76e9b5ae145e81a0b44cde27b923f76",
+  "metadata": {
+    "title": "Vaccinia Virus Produces Late mRNAs by Discontinuous Synthesis",
+    "coda_data_split": "train",
+    "coda_paper_id": 4176,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "We describe the unusual structure of a vaccinia virus late mRNA. In these molecules, the protein-coding sequences of a major late structural polypeptide are preceded by long leader RNAa, which In some cases are thousands of nucleotides long. These sequences map to different regions of the viral genome and in one instance are separated from the late gene by more than 100 kb of DNA. Moreover, the leader sequences map either upstream or downstream of the late gene, are transcribed from either DNA strand, and are fused to the late gene coding sequence via a poly(A) stretch. This demonstrates that vaccinia virus produces late mRNAs by tagging the protein-coding sequences onto the 3\u0027 end of other RNAa.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We describe the unusual structure of a vaccinia virus late mRNA .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "In these molecules , the protein-coding sequences of a major late structural polypeptide are preceded by long leader RNAa ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which In some cases are thousands of nucleotides long .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These sequences map to different regions of the viral genome and in one instance are separated from the late gene by more than 100 kb of DNA .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , the leader sequences map either upstream or downstream of the late gene ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "are transcribed from either DNA strand ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and are fused to the late gene coding sequence via a poly ( A ) stretch .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This demonstrates that vaccinia virus produces late mRNAs by tagging the protein-coding sequences onto the 3 \u0027 end of other RNAa .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "8",
+    "token_num": "131"
+  }
+}

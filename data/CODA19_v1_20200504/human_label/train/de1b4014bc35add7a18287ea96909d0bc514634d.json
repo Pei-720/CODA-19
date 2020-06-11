@@ -1,0 +1,103 @@
+{
+  "paper_id": "de1b4014bc35add7a18287ea96909d0bc514634d",
+  "metadata": {
+    "title": "Why Enveloped Viruses Need Cores-The Contribution of a Nucleocapsid Core to Viral Budding",
+    "coda_data_split": "train",
+    "coda_paper_id": 6593,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "During the lifecycle of many enveloped viruses, a nucleocapsid core buds through the cell membrane to acquire an outer envelope of lipid membrane and viral glycoproteins. However, the presence of a nucleocapsid core is not required for assembly of infectious particles. To determine the role of the nucleocapsid core, we develop a coarse-grained computational model with which we investigate budding dynamics as a function of glycoprotein and nucleocapsid interactions, as well as budding in the absence of a nucleocapsid. We find that there is a transition between glycoprotein-directed budding and nucleocapsid-directed budding that occurs above a threshold strength of nucleocapsid interactions. The simulations predict that glycoprotein-directed budding leads to significantly increased size polydispersity and particle polymorphism. This polydispersity can be explained by a theoretical model accounting for the competition between bending energy of the membrane and the glycoprotein shell. The simulations also show that the geometry of a budding particle leads to a barrier to subunit diffusion, which can result in a stalled, partially budded state. We present a phase diagram for this and other morphologies of budded particles. Comparison of these structures against experiments could establish bounds on whether budding is directed by glycoprotein or nucleocapsid interactions. Although our model is motivated by alphaviruses, we discuss implications of our results for other enveloped viruses.",
+      "sentences": [
+        [
+          {
+            "segment_text": "During the lifecycle of many enveloped viruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a nucleocapsid core buds through the cell membrane to acquire an outer envelope of lipid membrane and viral glycoproteins .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the presence of a nucleocapsid core is not required for assembly of infectious particles .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To determine the role of the nucleocapsid core ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "we develop a coarse-grained computational model with which we investigate budding dynamics as a function of glycoprotein and nucleocapsid interactions ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "as well as budding in the absence of a nucleocapsid .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We find that there is a transition between glycoprotein-directed budding and nucleocapsid-directed budding that occurs above a threshold strength of nucleocapsid interactions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The simulations predict that glycoprotein-directed budding leads to significantly increased size polydispersity and particle polymorphism .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This polydispersity can be explained by a theoretical model accounting for the competition between bending energy of the membrane and the glycoprotein shell .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The simulations also show that the geometry of a budding particle leads to a barrier to subunit diffusion ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which can result in a stalled , partially budded state .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We present a phase diagram for this and other morphologies of budded particles .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Comparison of these structures against experiments could establish bounds on whether budding is directed by glycoprotein or nucleocapsid interactions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although our model is motivated by alphaviruses ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we discuss implications of our results for other enveloped viruses .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "10",
+    "segment_num": "15",
+    "token_num": "232"
+  }
+}

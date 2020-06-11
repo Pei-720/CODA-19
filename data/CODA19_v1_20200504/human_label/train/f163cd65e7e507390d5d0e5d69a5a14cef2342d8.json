@@ -1,0 +1,53 @@
+{
+  "paper_id": "f163cd65e7e507390d5d0e5d69a5a14cef2342d8",
+  "metadata": {
+    "title": "Profiling and Searching for RNA Pseudoknot Structures in Genomes",
+    "coda_data_split": "train",
+    "coda_paper_id": 6784,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "A new method is developed that can profile and efficiently search for pseudoknot structures in noncoding RNA genes. It profiles interleaving stems in pseudoknot structures with independent Covariance Model (CM) components. The statistical alignment score for searching is obtained by combining the alignment scores from all CM components. Our experiments show that the model can achieve excellent accuracy on both random and biological data. The efficiency achieved by the method makes it possible to search for the pseudoknot structures in genomes of a variety of organisms.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A new method is developed that can profile and efficiently search for pseudoknot structures in noncoding RNA genes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It profiles interleaving stems in pseudoknot structures with independent Covariance Model ( CM ) components .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The statistical alignment score for searching is obtained by combining the alignment scores from all CM components .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our experiments show that the model can achieve excellent accuracy on both random and biological data .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The efficiency achieved by the method makes it possible to search for the pseudoknot structures in genomes of a variety of organisms .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "5",
+    "token_num": "93"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "paper_id": "6ed85009883d4825d70e2a35e69d192ee10bc9d0",
+  "metadata": {
+    "title": "Recent advances in the detection of base modifications using the Nanopore sequencer",
+    "coda_data_split": "train",
+    "coda_paper_id": 7198,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "DNA and RNA modifications have important functions, including the regulation of gene expression. Existing methods based on short-read sequencing for the detection of modifications show difficulty in determining the modification patterns of single chromosomes or an entire transcript sequence. Furthermore, the kinds of modifications for which detection methods are available are very limited. The Nanopore sequencer is a single-molecule, long-read sequencer that can directly sequence RNA as well as DNA. Moreover, the Nanopore sequencer detects modifications on long DNA and RNA molecules. In this review, we mainly focus on base modification detection in the DNA and RNA of mammals using the Nanopore sequencer. We summarize current studies of modifications using the Nanopore sequencer, detection tools using statistical tests or machine learning, and applications of this technology, such as analyses of open chromatin, DNA replication, and RNA metabolism.",
+      "sentences": [
+        [
+          {
+            "segment_text": "DNA and RNA modifications have important functions ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including the regulation of gene expression .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Existing methods based on short-read sequencing for the detection of modifications show difficulty in determining the modification patterns of single chromosomes or an entire transcript sequence .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , the kinds of modifications for which detection methods are available are very limited .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The Nanopore sequencer is a single-molecule ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "long-read sequencer that can directly sequence RNA as well as DNA .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , the Nanopore sequencer detects modifications on long DNA and RNA molecules .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this review , we mainly focus on base modification detection in the DNA and RNA of mammals using the Nanopore sequencer .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We summarize current studies of modifications using the Nanopore sequencer ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "detection tools using statistical tests or machine learning ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and applications of this technology ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "such as analyses of open chromatin ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "DNA replication , and RNA metabolism .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "13",
+    "token_num": "154"
+  }
+}

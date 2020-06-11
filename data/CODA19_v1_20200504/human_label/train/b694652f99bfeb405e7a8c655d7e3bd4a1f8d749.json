@@ -1,0 +1,124 @@
+{
+  "paper_id": "b694652f99bfeb405e7a8c655d7e3bd4a1f8d749",
+  "metadata": {
+    "title": "DNA vaccines for targeting bacterial infections NIH Public Access",
+    "coda_data_split": "train",
+    "coda_paper_id": 7369,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "DNA vaccination has been of great interest since its discovery in the 1990s due to its ability to elicit both humoral and cellular immune responses. DNA vaccines consist of a DNA plasmid containing a transgene that encodes the sequence of a target protein from a pathogen under the control of a eukaryotic promoter. This revolutionary technology has proven to be effective in animal models and four DNA vaccine products have recently been approved for veterinary use. Although few DNA vaccines against bacterial infections have been tested, the results are encouraging. Because of their versatility, safety and simplicity a wider range of organisms can be targeted by these vaccines, which shows their potential advantages to public health. This article describes the mechanism of action of DNA vaccines and their potential use for targeting bacterial infections. In addition, it provides an updated summary of the methods used to enhance immunogenicity from codon optimization and adjuvants to delivery techniques including electroporation and use of nanoparticles.",
+      "sentences": [
+        [
+          {
+            "segment_text": "DNA vaccination has been of great interest since its discovery in the 1990s due to its ability to elicit both humoral and cellular immune responses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "DNA vaccines consist of a DNA plasmid containing a transgene that encodes the sequence of a target protein from a pathogen under the control of a eukaryotic promoter .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This revolutionary technology has proven to be effective in animal models and four DNA vaccine products have recently been approved for veterinary use .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although few DNA vaccines against bacterial infections have been tested , the results are encouraging .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Because of their versatility , safety and simplicity a wider range of organisms can be targeted by these vaccines ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which shows their potential advantages to public health .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This article describes the mechanism of action of DNA vaccines and their potential use for targeting bacterial infections .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , it provides an updated summary of the methods used to enhance immunogenicity from codon optimization and adjuvants to delivery techniques including electroporation and use of nanoparticles .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Keywords bacterial vaccine; cellular and humoral immune responses; DNA vaccine; molecular adjuvants Times have changed since Edward Jenner immunized James Phipps against smallpox in 1796 and created what years later became known as a vaccine [1] . From the first live-attenuated or killed vaccines to the era of DNA vaccines in the early 1990s, molecular biology and microbiology have aided medical research in the development of vaccines against infectious diseases, cancer, allergies and autoimmune diseases by inducing rapid and robust immune responses or by creating immune tolerance [2] . From the time of Jenner\u0027s first vaccine until the present day, there have been over 60 licensed vaccines in the USA. These vaccines come in many forms: killed microorganisms, live-attenuated microorganisms, subunits, conjugate vaccines or toxoids. Although there are no US FDA-approved DNA vaccines for use in humans, they are the newest vaccine platform currently in development and have already had success in veterinary medicine [3] [4] [5] [6] [7] [8] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Keywords bacterial vaccine ; cellular and humoral immune responses ; DNA vaccine ; molecular adjuvants Times have changed since Edward Jenner immunized James Phipps against smallpox in 1796 and created what years later became known as a vaccine ( 1 ) .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "From the first live-attenuated or killed vaccines to the era of DNA vaccines in the early 1990s ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "molecular biology and microbiology have aided medical research in the development of vaccines against infectious diseases ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "cancer , allergies and autoimmune diseases by inducing rapid and robust immune responses or by creating immune tolerance ( 2 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "From the time of Jenner \u0027s first vaccine until the present day ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "there have been over 60 licensed vaccines in the USA .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These vaccines come in many forms : killed microorganisms ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "live-attenuated microorganisms , subunits , conjugate vaccines or toxoids .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although there are no US FDA-approved DNA vaccines for use in humans ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "they are the newest vaccine platform currently in development and have already had success in veterinary medicine ( 3 ) ( 4 ) ( 5 ) ( 6 ) ( 7 ) ( 8 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "12",
+    "segment_num": "18",
+    "token_num": "365"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "paper_id": "f4cd52975e6aa33e8c947082eda9b261952b0f8f",
+  "metadata": {
+    "title": "Metabolic engineering of Escherichia coli into a versatile glycosylation platform: production of bio-active quercetin glycosides",
+    "coda_data_split": "train",
+    "coda_paper_id": 2431,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Flavonoids are bio-active specialized plant metabolites which mainly occur as different glycosides. Due to the increasing market demand, various biotechnological approaches have been developed which use Escherichia coli as a microbial catalyst for the stereospecific glycosylation of flavonoids. Despite these efforts, most processes still display low production rates and titers, which render them unsuitable for large-scale applications.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Flavonoids are bio-active specialized plant metabolites which mainly occur as different glycosides .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Due to the increasing market demand ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "various biotechnological approaches have been developed which use Escherichia coli as a microbial catalyst for the stereospecific glycosylation of flavonoids .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Despite these efforts , most processes still display low production rates and titers ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which render them unsuitable for large-scale applications .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In this contribution, we expanded a previously developed in vivo glucosylation platform in E. coli W, into an efficient system for selective galactosylation and rhamnosylation. The rational of the novel metabolic engineering strategy constitutes of the introduction of an alternative sucrose metabolism in the form of a sucrose phosphorylase, which cleaves sucrose into fructose and glucose 1-phosphate as precursor for UDP-glucose. To preserve these intermediates for glycosylation purposes, metabolization reactions were knocked-out. Due to the pivotal role of UDP-glucose, overexpression of the interconverting enzymes galE and MUM4 ensured the formation of both UDP-galactose and UDP-rhamnose, respectively. By additionally supplying exogenously fed quercetin and overexpressing a flavonol galactosyltransferase (F3GT) or a rhamnosyltransferase (RhaGT), 0.94 g/L hyperoside (quercetin 3-O-galactoside) and 1.12 g/L quercitrin (quercetin 3-O-rhamnoside) could be produced, respectively. In addition, both strains showed activity towards other promising dietary flavonols like kaempferol, fisetin, morin and myricetin.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this contribution , we expanded a previously developed in vivo glucosylation platform in E. coli W ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "into an efficient system for selective galactosylation and rhamnosylation .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The rational of the novel metabolic engineering strategy constitutes of the introduction of an alternative sucrose metabolism in the form of a sucrose phosphorylase ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which cleaves sucrose into fructose and glucose 1-phosphate as precursor for UDP-glucose .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "To preserve these intermediates for glycosylation purposes , metabolization reactions were knocked-out .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Due to the pivotal role of UDP-glucose ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "overexpression of the interconverting enzymes galE and MUM4 ensured the formation of both UDP-galactose and UDP-rhamnose , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "By additionally supplying exogenously fed quercetin and overexpressing a flavonol galactosyltransferase ( F3GT ) or a rhamnosyltransferase ( RhaGT ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "0.94 g/L hyperoside ( quercetin 3-O-galactoside ) and 1.12 g/L quercitrin ( quercetin 3-O-rhamnoside ) could be produced , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , both strains showed activity towards other promising dietary flavonols like kaempferol ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "fisetin , morin and myricetin .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Conclusions: Two E. coli W mutants were engineered that could effectively produce the bio-active flavonol glycosides hyperoside and quercitrin starting from the cheap substrates sucrose and quercetin. This novel fermentationbased glycosylation strategy will allow the economically viable production of various glycosides.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Conclusions : Two E. coli W mutants were engineered that could effectively produce the bio-active flavonol glycosides hyperoside and quercitrin starting from the cheap substrates sucrose and quercetin .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This novel fermentationbased glycosylation strategy will allow the economically viable production of various glycosides .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "11",
+    "segment_num": "18",
+    "token_num": "278"
+  }
+}

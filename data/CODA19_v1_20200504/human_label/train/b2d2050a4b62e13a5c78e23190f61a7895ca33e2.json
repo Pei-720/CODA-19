@@ -1,0 +1,197 @@
+{
+  "paper_id": "b2d2050a4b62e13a5c78e23190f61a7895ca33e2",
+  "metadata": {
+    "title": "Distributed under Creative Commons CC-BY 4.0 Analysis of synonymous codon usage patterns in sixty-four different bivalve species",
+    "coda_data_split": "train",
+    "coda_paper_id": 6228,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Synonymous codon usage bias (CUB) is a defined as the non-random usage of codons encoding the same amino acid across different genomes. This phenomenon is common to all organisms and the real weight of the many factors involved in its shaping still remains to be fully determined. So far, relatively little attention has been put in the analysis of CUB in bivalve mollusks due to the limited genomic data available. Taking advantage of the massive sequence data generated from next generation sequencing projects, we explored codon preferences in 64 different species pertaining to the six major evolutionary lineages in Bivalvia. We detected remarkable differences across species, which are only partially dependent on phylogeny. While the intensity of CUB is mild in most organisms, a heterogeneous group of species (including Arcida and Mytilida, among the others) display higher bias and a strong preference for AT-ending codons. We show that the relative strength and direction of mutational bias, selection for translational efficiency and for translational accuracy contribute to the establishment of synonymous codon usage in bivalves. Although many aspects underlying bivalve CUB still remain obscure, we provide for the first time an overview of this phenomenon in this large, commercially and environmentally important, class of marine invertebrates. Fields et al., 2014). Details about the data used for the different species are provided in Table S1 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Synonymous codon usage bias ( CUB ) is a defined as the non-random usage of codons encoding the same amino acid across different genomes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This phenomenon is common to all organisms and the real weight of the many factors involved in its shaping still remains to be fully determined .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "So far , relatively little attention has been put in the analysis of CUB in bivalve mollusks due to the limited genomic data available .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Taking advantage of the massive sequence data generated from next generation sequencing projects ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we explored codon preferences in 64 different species pertaining to the six major evolutionary lineages in Bivalvia .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We detected remarkable differences across species ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which are only partially dependent on phylogeny .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "While the intensity of CUB is mild in most organisms ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a heterogeneous group of species ( including Arcida and Mytilida , among the others ) display higher bias and a strong preference for AT-ending codons .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We show that the relative strength and direction of mutational bias ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "selection for translational efficiency and for translational accuracy contribute to the establishment of synonymous codon usage in bivalves .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although many aspects underlying bivalve CUB still remain obscure ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we provide for the first time an overview of this phenomenon in this large ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "commercially and environmentally important , class of marine invertebrates .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Fields et al. , 2014 ) .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Details about the data used for the different species are provided in Table S1 .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Sequence data were processed as follows: predicted CDS from the fully sequenced genomes of C. gigas (release 9) and P. fucata were retrieved from http://oysterdb.cn and http://marinegenomics.oist.jp/pinctada fucata, respectively. De novo transcriptome assemblies were performed for all the other 62 bivalve species with the CLC Genomics Workbench (v.7.5, CLC Bio, Aarhus, Denmark) using the de novo assembly tool with \"automatic word size\" and \"automatic bubble size\" parameters selected, and setting the minimum allowed contig length to 300 bp.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Sequence data were processed as follows : predicted CDS from the fully sequenced genomes of C. gigas ( release 9 ) and P. fucata were retrieved from http://oysterdb.cn and http://marinegenomics.oist.jp/pinctada fucata , respectively .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "De novo transcriptome assemblies were performed for all the other 62 bivalve species with the CLC Genomics Workbench ( v. 7.5 , CLC Bio , Aarhus , Denmark ) using the de novo assembly tool with `` automatic word size \u0027\u0027 and `` automatic bubble size \u0027\u0027 parameters selected ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and setting the minimum allowed contig length to 300 bp .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In all transcriptomes, ORFs (Open Reading Frames) longer than 100 codons were predicted with TransDecoder (http://transdecoder.sourceforge.net). We selected the predicted CDS of C. gigas, and of one representative species for the Imparidentia (R. decussatus), Protobranchia (S. velum) and Palaeoheterodonta (P. grandis) lineages to identify a subset of evolutionarily conserved protein-coding genes with a 1:1 orthology ratio across Bivalvia. This was achieved by performing reciprocal tBLASTx searches (the e-value threshold was set a 1 × 10 −10 and only hits displaying sequence identity \u003e50% were considered). This procedure resulted in a selection of 2,846 conserved protein-coding genes, whose orthologous sequences were retrieved in the remaining 60 species. Due to the heterogeneous tissue and developmental stage origin, the different sequencing platforms and depth applied, several of these evolutionarily conserved sequences could not be identified or were fragmented in some transcriptomes. In order to ensure a minimum quality criteria, all the selected species had to display at least 25% of the sequences included in the dataset of evolutionarily conserved genes, with an average length \u003e500 nucleotides.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In all transcriptomes , ORFs ( Open Reading Frames ) longer than 100 codons were predicted with TransDecoder ( http://transdecoder.sourceforge.net ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We selected the predicted CDS of C. gigas ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and of one representative species for the Imparidentia ( R. decussatus ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "Protobranchia ( S. velum ) and Palaeoheterodonta ( P. grandis ) lineages to identify a subset of evolutionarily conserved protein-coding genes with a 1:1 orthology ratio across Bivalvia .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This was achieved by performing reciprocal tBLASTx searches ( the e-value threshold was set a 1 × 10 − 10 and only hits displaying sequence identity \u003e 50 % were considered ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This procedure resulted in a selection of 2,846 conserved protein-coding genes ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "whose orthologous sequences were retrieved in the remaining 60 species .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Due to the heterogeneous tissue and developmental stage origin ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the different sequencing platforms and depth applied ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "several of these evolutionarily conserved sequences could not be identified or were fragmented in some transcriptomes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In order to ensure a minimum quality criteria ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "all the selected species had to display at least 25 % of the sequences included in the dataset of evolutionarily conserved genes ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "with an average length \u003e 500 nucleotides .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "18",
+    "segment_num": "32",
+    "token_num": "547"
+  }
+}

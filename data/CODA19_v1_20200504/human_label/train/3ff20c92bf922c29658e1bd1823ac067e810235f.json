@@ -1,0 +1,87 @@
+{
+  "paper_id": "3ff20c92bf922c29658e1bd1823ac067e810235f",
+  "metadata": {
+    "title": "The antiviral activity of poly-g-glutamic acid, a polypeptide secreted by Bacillus sp., through induction of CD14-dependent type I interferon responses",
+    "coda_data_split": "train",
+    "coda_paper_id": 5046,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Poly-g-glutamic acid (g-PGA) is an anionic polypeptide secreted by Bacillus sp. that has been shown to activate immune cells through interactions with toll-like receptor 4 (TLR4). However, its ability to induce the type I interferon (IFN) response has not yet been characterized. Here, we demonstrate that g-PGA induces type I IFN signaling pathway via the TLR4 signaling pathway. The induction required both myeloid differentiation factor 2 (MD2) and the pattern-recognition receptor CD14, which are two TLR4associated accessory proteins. The g-PGA with high molecular weights (2000 and 5000 kDa) was able to activate the subsequent signals through TLR4/MD2 to result in dimerization of IRF-3, a transcription factor required for IFN gene expression, leading to increases in mRNA levels of the type I IFN-response genes, 2 0 e5 0 OAS and ISG56. Moreover, g-PGA (2000 kDa) displayed an antiviral activity against SARS coronavirus and hepatitis C virus. Our results identify high-molecular weight g-PGA as a TLR4 ligand and demonstrate that g-PGA requires both CD14 and MD2 for the activation of type I IFN responses. Our results suggest that the microbial biopolymer g-PGA may have therapeutic potential against a broad range of viruses sensitive to type I IFNs.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Poly-g-glutamic acid ( g-PGA ) is an anionic polypeptide secreted by Bacillus sp. that has been shown to activate immune cells through interactions with toll-like receptor 4 ( TLR4 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , its ability to induce the type I interferon ( IFN ) response has not yet been characterized .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we demonstrate that g-PGA induces type I IFN signaling pathway via the TLR4 signaling pathway .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The induction required both myeloid differentiation factor 2 ( MD2 ) and the pattern-recognition receptor CD14 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which are two TLR4associated accessory proteins .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The g-PGA with high molecular weights ( 2000 and 5000 kDa ) was able to activate the subsequent signals through TLR4/MD2 to result in dimerization of IRF-3 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a transcription factor required for IFN gene expression ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "leading to increases in mRNA levels of the type I IFN-response genes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "2 0 e5 0 OAS and ISG56 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , g-PGA ( 2000 kDa ) displayed an antiviral activity against SARS coronavirus and hepatitis C virus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our results identify high-molecular weight g-PGA as a TLR4 ligand and demonstrate that g-PGA requires both CD14 and MD2 for the activation of type I IFN responses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our results suggest that the microbial biopolymer g-PGA may have therapeutic potential against a broad range of viruses sensitive to type I IFNs .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "12",
+    "token_num": "222"
+  }
+}

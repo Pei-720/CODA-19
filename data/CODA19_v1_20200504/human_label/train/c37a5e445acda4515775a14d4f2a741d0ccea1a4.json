@@ -1,0 +1,121 @@
+{
+  "paper_id": "c37a5e445acda4515775a14d4f2a741d0ccea1a4",
+  "metadata": {
+    "title": "Spatio-temporal propagation of COVID-19 pandemics",
+    "coda_data_split": "train",
+    "coda_paper_id": 2238,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The new coronavirus known as COVID-19 is rapidly spreading since December 2019. Without any vaccination or medicine, the means of controlling it are limited to quarantine and social distancing.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The new coronavirus known as COVID-19 is rapidly spreading since December 2019 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Without any vaccination or medicine ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the means of controlling it are limited to quarantine and social distancing .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Here we study the spatio-temporal propagation of the COVID-19 virus in China and compare it to other global locations. Our results suggest that the disease propagation is highly related to population migration from Hubei resembling a Lévy flight which is characteristic of human mobility and thus could be controlled by efficient quarantines. Since quarantine is usually applied on a city level, more insight can be obtained in analyzing the epidemic in cities. Our results suggest that the disease spread in a city in China is characterized by two-stages process. At early times, at order of few days, the infection rate in the city is close to constant probably due to the lack of means to detect infected individuals before infection signs are observed and at later times it decays approximately exponentially due to quarantines. These two stages can explain the significant differences between the propagation in China and in other world-wide locations. While most Chinese cities control the disease which resulted in the decaying stage, in other world-wide countries the situation is still becoming worse probably due to less control.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Here we study the spatio-temporal propagation of the COVID-19 virus in China and compare it to other global locations .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our results suggest that the disease propagation is highly related to population migration from Hubei resembling a Lévy flight which is characteristic of human mobility and thus could be controlled by efficient quarantines .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Since quarantine is usually applied on a city level ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "more insight can be obtained in analyzing the epidemic in cities .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our results suggest that the disease spread in a city in China is characterized by two-stages process .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "At early times , at order of few days ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the infection rate in the city is close to constant probably due to the lack of means to detect infected individuals before infection signs are observed and at later times it decays approximately exponentially due to quarantines .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These two stages can explain the significant differences between the propagation in China and in other world-wide locations .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "While most Chinese cities control the disease which resulted in the decaying stage ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "in other world-wide countries the situation is still becoming worse probably due to less control .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "All rights reserved. No reuse allowed without permission. the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "All rights reserved .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "No reuse allowed without permission .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "the author/funder , who has granted medRxiv a license to display the preprint in perpetuity .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "12",
+    "segment_num": "16",
+    "token_num": "249"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "paper_id": "e48e8ea50962140de54fdef21dafcf44d21095a5",
+  "metadata": {
+    "title": "Identification of critical determinants on ACE2 for SARS-CoV entry and development of a potent entry inhibitor",
+    "coda_data_split": "train",
+    "coda_paper_id": 2170,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Severe acute respiratory syndrome (SARS) is caused by a novel coronavirus, SARS-CoV. Virus entry into cells is mediated through interactions between spike (S) glycoprotein and angiotensin-converting enzyme 2 (ACE2). Alanine scanning mutagenesis analysis was performed to identify determinants on ACE2 critical for SARS-CoV infection. Results indicated that charged amino acids between residues 22 and 57 were important, K26 and D30, in particular. Peptides representing various regions of ACE2 critical for virus infection were chemically synthesized and evaluated for antiviral activity. Two peptides (a.a. 22-44 and 22-57) exhibited a modest antiviral activity with IC 50 of about 50 μM and 6 μM, respectively. One peptide comprised of two discontinuous segments of ACE2 (a.a. 22-44 and 351-357) artificially linked together by glycine, exhibited a potent antiviral activity with IC 50 of about 0.1 μM. This novel peptide is a promising candidate as a therapeutic agent against this deadly emerging pathogen.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Severe acute respiratory syndrome ( SARS ) is caused by a novel coronavirus , SARS-CoV .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Virus entry into cells is mediated through interactions between spike ( S ) glycoprotein and angiotensin-converting enzyme 2 ( ACE2 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Alanine scanning mutagenesis analysis was performed to identify determinants on ACE2 critical for SARS-CoV infection .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results indicated that charged amino acids between residues 22 and 57 were important ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "K26 and D30 , in particular .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Peptides representing various regions of ACE2 critical for virus infection were chemically synthesized and evaluated for antiviral activity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Two peptides ( a.a. 22-44 and 22-57 ) exhibited a modest antiviral activity with IC 50 of about 50 μM and 6 μM , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "One peptide comprised of two discontinuous segments of ACE2 ( a.a. 22-44 and 351-357 ) artificially linked together by glycine ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "exhibited a potent antiviral activity with IC 50 of about 0.1 μM .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This novel peptide is a promising candidate as a therapeutic agent against this deadly emerging pathogen .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "10",
+    "token_num": "171"
+  }
+}

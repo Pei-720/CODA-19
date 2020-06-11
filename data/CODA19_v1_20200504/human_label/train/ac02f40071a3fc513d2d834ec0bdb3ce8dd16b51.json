@@ -1,0 +1,122 @@
+{
+  "paper_id": "ac02f40071a3fc513d2d834ec0bdb3ce8dd16b51",
+  "metadata": {
+    "title": "Estimation in emerging epidemics: biases and remedies",
+    "coda_data_split": "train",
+    "coda_paper_id": 8242,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "When analysing new emerging infectious disease outbreaks, one typically has observational data over a limited period of time and several parameters to estimate, such as growth rate, the basic reproduction number R 0 , the case fatality rate and distributions of serial intervals, generation times, latency and incubation times and times between onset of symptoms, notification, death and recovery/discharge. These parameters form the basis for predicting a future outbreak, planning preventive measures and monitoring the progress of the disease outbreak. We study inference problems during the emerging phase of an outbreak, and point out potential sources of bias, with emphasis on: contact tracing backwards in time, replacing generation times by serial intervals, multiple potential infectors and censoring effects amplified by exponential growth. These biases directly affect the estimation of, for example, the generation time distribution and the case fatality rate, but can then propagate to other estimates such as R 0 and growth rate. We propose methods to remove or at least reduce bias using statistical modelling. We illustrate the theory by numerical examples and simulations.",
+      "sentences": [
+        [
+          {
+            "segment_text": "When analysing new emerging infectious disease outbreaks ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "one typically has observational data over a limited period of time and several parameters to estimate ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as growth rate , the basic reproduction number R 0 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the case fatality rate and distributions of serial intervals ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "generation times , latency and incubation times and times between onset of symptoms ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "notification , death and recovery/discharge .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These parameters form the basis for predicting a future outbreak ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "planning preventive measures and monitoring the progress of the disease outbreak .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We study inference problems during the emerging phase of an outbreak ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and point out potential sources of bias ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "with emphasis on : contact tracing backwards in time ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "replacing generation times by serial intervals ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "multiple potential infectors and censoring effects amplified by exponential growth .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "These biases directly affect the estimation of ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "for example , the generation time distribution and the case fatality rate ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but can then propagate to other estimates such as R 0 and growth rate .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We propose methods to remove or at least reduce bias using statistical modelling .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We illustrate the theory by numerical examples and simulations .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "License http://creativecommons.org/licenses/by/4.0/, which permits unrestricted use, provided the original author and source are credited.",
+      "sentences": [
+        [
+          {
+            "segment_text": "License http://creativecommons.org/licenses/by/4.0/ , which permits unrestricted use ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "provided the original author and source are credited .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "7",
+    "segment_num": "20",
+    "token_num": "215"
+  }
+}

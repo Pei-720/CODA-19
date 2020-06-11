@@ -1,0 +1,173 @@
+{
+  "paper_id": "be45cd588caaa0d8e5cdcd0cb7a1a59ccfc85d51",
+  "metadata": {
+    "title": "Enhancement of accuracy and efficiency for RNA secondary structure prediction by sequence segmentation and MapReduce",
+    "coda_data_split": "train",
+    "coda_paper_id": 8094,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Ribonucleic acid (RNA) molecules play important roles in many biological processes including gene expression and regulation. Their secondary structures are crucial for the RNA functionality, and the prediction of the secondary structures is widely studied. Our previous research shows that cutting long sequences into shorter chunks, predicting secondary structures of the chunks independently using thermodynamic methods, and reconstructing the entire secondary structure from the predicted chunk structures can yield better accuracy than predicting the secondary structure using the RNA sequence as a whole. The chunking, prediction, and reconstruction processes can use different methods and parameters, some of which produce more accurate predictions than others. In this paper, we study the prediction accuracy and efficiency of three different chunking methods using seven popular secondary structure prediction programs that apply to two datasets of RNA with known secondary structures, which include both pseudoknotted and non-pseudoknotted sequences, as well as a family of viral genome RNAs whose structures have not been predicted before. Our modularized MapReduce framework based on Hadoop allows us to study the problem in a parallel and robust environment.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Ribonucleic acid ( RNA ) molecules play important roles in many biological processes including gene expression and regulation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Their secondary structures are crucial for the RNA functionality ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and the prediction of the secondary structures is widely studied .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our previous research shows that cutting long sequences into shorter chunks ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "predicting secondary structures of the chunks independently using thermodynamic methods ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and reconstructing the entire secondary structure from the predicted chunk structures can yield better accuracy than predicting the secondary structure using the RNA sequence as a whole .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The chunking , prediction , and reconstruction processes can use different methods and parameters ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "some of which produce more accurate predictions than others .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this paper , we study the prediction accuracy and efficiency of three different chunking methods using seven popular secondary structure prediction programs that apply to two datasets of RNA with known secondary structures ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "which include both pseudoknotted and non-pseudoknotted sequences ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "as well as a family of viral genome RNAs whose structures have not been predicted before .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our modularized MapReduce framework based on Hadoop allows us to study the problem in a parallel and robust environment .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results: On average, the maximum accuracy retention values are larger than one for our chunking methods and the seven prediction programs over 50 non-pseudoknotted sequences, meaning that the secondary structure predicted using chunking is more similar to the real structure than the secondary structure predicted by using the whole sequence. We observe similar results for the 23 pseudoknotted sequences, except for the NUPACK program using the centered chunking method. The performance analysis for 14 long RNA sequences from the Nodaviridae virus family outlines how the coarse-grained mapping of chunking and predictions in the MapReduce framework exhibits shorter turnaround times for short RNA sequences. However, as the lengths of the RNA sequences increase, the fine-grained mapping can surpass the coarse-grained mapping in performance.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results : On average , the maximum accuracy retention values are larger than one for our chunking methods and the seven prediction programs over 50 non-pseudoknotted sequences ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "meaning that the secondary structure predicted using chunking is more similar to the real structure than the secondary structure predicted by using the whole sequence .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We observe similar results for the 23 pseudoknotted sequences ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "except for the NUPACK program using the centered chunking method .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The performance analysis for 14 long RNA sequences from the Nodaviridae virus family outlines how the coarse-grained mapping of chunking and predictions in the MapReduce framework exhibits shorter turnaround times for short RNA sequences .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , as the lengths of the RNA sequences increase ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the fine-grained mapping can surpass the coarse-grained mapping in performance .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Conclusions: By using our MapReduce framework together with statistical analysis on the accuracy retention results, we observe how the inversion-based chunking methods can outperform predictions using the whole sequence. Our chunk-based approach also enables us to predict secondary structures for very long RNA sequences, which is not feasible with traditional methods alone. Figure 1 Basic elements in RNA secondary structures. The stem loop (a) and pseudoknot (b). Zhang et al. BMC Structural Biology 2013, 13(Suppl 1):S3",
+      "sentences": [
+        [
+          {
+            "segment_text": "Conclusions : By using our MapReduce framework together with statistical analysis on the accuracy retention results ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we observe how the inversion-based chunking methods can outperform predictions using the whole sequence .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our chunk-based approach also enables us to predict secondary structures for very long RNA sequences ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which is not feasible with traditional methods alone .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Figure 1 Basic elements in RNA secondary structures .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The stem loop ( a ) and pseudoknot ( b ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Zhang et al. .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "BMC Structural Biology 2013 , 13 ( Suppl 1 ) : S3",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "16",
+    "segment_num": "27",
+    "token_num": "424"
+  }
+}

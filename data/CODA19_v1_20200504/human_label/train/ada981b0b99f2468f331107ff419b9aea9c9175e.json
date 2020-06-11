@@ -1,0 +1,198 @@
+{
+  "paper_id": "ada981b0b99f2468f331107ff419b9aea9c9175e",
+  "metadata": {
+    "title": "Extensive coronavirus-induced membrane rearrangements are not a determinant of pathogenicity OPEN",
+    "coda_data_split": "train",
+    "coda_paper_id": 3861,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Beau-R with the pathogenic lab strain M41 to determine whether membrane rearrangements are strain dependent. Interestingly, M41 was found to have a low spherule phenotype. We then compared a panel of pathogenic, mild and attenuated IBV strains in ex vivo tracheal organ culture (TOC). Although the low spherule phenotype of M41 was conserved in TOCs, each of the other tested IBV strains produced DMVs, zippered ER and spherules. Furthermore, there was a significant correlation for the presence of DMVs with spherules, suggesting that these structures are spatially and temporally linked. Our data indicate that virus induced membrane rearrangements are fundamentally linked to the viral replicative machinery. However, coronavirus replicative apparatus clearly has the plasticity to function in different structural contexts.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Beau-R with the pathogenic lab strain M41 to determine whether membrane rearrangements are strain dependent .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Interestingly , M41 was found to have a low spherule phenotype .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We then compared a panel of pathogenic ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "mild and attenuated IBV strains in ex vivo tracheal organ culture ( TOC ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although the low spherule phenotype of M41 was conserved in TOCs ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "each of the other tested IBV strains produced DMVs , zippered ER and spherules .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , there was a significant correlation for the presence of DMVs with spherules ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "suggesting that these structures are spatially and temporally linked .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our data indicate that virus induced membrane rearrangements are fundamentally linked to the viral replicative machinery .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , coronavirus replicative apparatus clearly has the plasticity to function in different structural contexts .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "All positive-strand RNA (+ RNA) viruses studied to date induce the rearrangement of cellular membranes during infection to facilitate viral RNA synthesis and assembly of RNA synthesis machinery into replication-transcription complexes (reviewed in 1-4 ). The types of membrane structures that are induced varies between different families of + RNA viruses but includes single membrane and double membrane vesicles, contiguous vesicles, convoluted membranes (CM), paired membranes and spherules. The source of rearranged membranes also varies between different families of + RNA viruses and can be from intracellular vesicles, endoplasmic reticulum, mitochondria and the plasma membrane. It has long been observed that Betacoronaviruses induce the formation of double membrane vesicles (DMVs) during infection of a host cell, along with a reticular network of membranes called convoluted membrane 5-12 . During SARS-coronavirus (SARS-CoV) infection, both of these structures were shown to be derived from and linked to cellular ER, as well as linked to each other 10 . More recently, comparable structures were also found in cells infected with Alphacoronaviruses 13 . The Coronavirinae subfamily is divided into four genera, with an ancestral split giving rise to one progenitor for the Alpha-and Beta-genera and a second progenitor for the Gamma-and Delta-genera. Interestingly, in our recent work studying avian Gammacoronavirus infectious bronchitis virus (IBV), subtle, but potentially significant, differences in the nature of virus induced membrane rearrangements were reported. Specifically, CM was not observed to any great extent and instead regions of ER were found to become zippered together and tethered to this were pinched out spherules with a neck and channel connecting the spherule interior to the cytoplasm 14 . Consistent with observations from other coronaviruses, IBV infection also induced the formation of DMVs. Although detailed understanding of the function of rearranged membranes in the replication of coronaviruses and numerous other + RNA viruses remains to be determined, the conserved process of membrane rearrangement for the whole virus class, and the close association of replicase proteins and products of RNA synthesis with rearranged membranes strongly supports the hypothesis that they play a key role in viral RNA synthesis. Therefore, further study of these likely",
+      "sentences": [
+        [
+          {
+            "segment_text": "All positive-strand RNA ( + RNA ) viruses studied to date induce the rearrangement of cellular membranes during infection to facilitate viral RNA synthesis and assembly of RNA synthesis machinery into replication-transcription complexes ( reviewed in 1-4 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The types of membrane structures that are induced varies between different families of + RNA viruses but includes single membrane and double membrane vesicles ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "contiguous vesicles , convoluted membranes ( CM ) , paired membranes and spherules .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The source of rearranged membranes also varies between different families of + RNA viruses and can be from intracellular vesicles ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "endoplasmic reticulum , mitochondria and the plasma membrane .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It has long been observed that Betacoronaviruses induce the formation of double membrane vesicles ( DMVs ) during infection of a host cell ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "along with a reticular network of membranes called convoluted membrane 5-12 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "During SARS-coronavirus ( SARS-CoV ) infection ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "both of these structures were shown to be derived from and linked to cellular ER ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as well as linked to each other 10 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "More recently , comparable structures were also found in cells infected with Alphacoronaviruses 13 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The Coronavirinae subfamily is divided into four genera ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with an ancestral split giving rise to one progenitor for the Alpha-and Beta-genera and a second progenitor for the Gamma-and Delta-genera .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Interestingly , in our recent work studying avian Gammacoronavirus infectious bronchitis virus ( IBV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "subtle , but potentially significant ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "differences in the nature of virus induced membrane rearrangements were reported .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Specifically , CM was not observed to any great extent and instead regions of ER were found to become zippered together and tethered to this were pinched out spherules with a neck and channel connecting the spherule interior to the cytoplasm 14 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Consistent with observations from other coronaviruses ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "IBV infection also induced the formation of DMVs .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although detailed understanding of the function of rearranged membranes in the replication of coronaviruses and numerous other + RNA viruses remains to be determined ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the conserved process of membrane rearrangement for the whole virus class ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the close association of replicase proteins and products of RNA synthesis with rearranged membranes strongly supports the hypothesis that they play a key role in viral RNA synthesis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , further study of these likely",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "19",
+    "segment_num": "33",
+    "token_num": "525"
+  }
+}

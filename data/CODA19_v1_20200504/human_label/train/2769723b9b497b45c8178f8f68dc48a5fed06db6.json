@@ -1,0 +1,172 @@
+{
+  "paper_id": "2769723b9b497b45c8178f8f68dc48a5fed06db6",
+  "metadata": {
+    "title": "Full-Genome Characterization and Genetic Evolution of West African Isolates of Bagaza Virus",
+    "coda_data_split": "train",
+    "coda_paper_id": 8958,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Bagaza virus is a mosquito-borne flavivirus, first isolated in 1966 in Central African Republic. It has currently been identified in mosquito pools collected in the field in West and Central Africa. Emergence in wild birds in Europe and serological evidence in encephalitis patients in India raise questions on its genetic evolution and the diversity of isolates circulating in Africa. To better understand genetic diversity and evolution of Bagaza virus, we describe the full-genome characterization of 11 West African isolates, sampled from 1988 to 2014. Parameters such as genetic distances, N-glycosylation patterns, recombination events, selective pressures, and its codon adaptation to human genes are assessed. Our study is noteworthy for the observation of N-glycosylation and recombination in Bagaza virus and provides insight into its Indian origin from the 13th century. Interestingly, evidence of Bagaza virus codon adaptation to human house-keeping genes is also observed to be higher than those of other flaviviruses well known in human infections. Genetic variations on genome of West African Bagaza virus could play an important role in generating diversity and may promote Bagaza virus adaptation to other vertebrates and become an important threat in human health.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Bagaza virus is a mosquito-borne flavivirus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "first isolated in 1966 in Central African Republic .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It has currently been identified in mosquito pools collected in the field in West and Central Africa .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Emergence in wild birds in Europe and serological evidence in encephalitis patients in India raise questions on its genetic evolution and the diversity of isolates circulating in Africa .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To better understand genetic diversity and evolution of Bagaza virus ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "we describe the full-genome characterization of 11 West African isolates ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "sampled from 1988 to 2014 .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Parameters such as genetic distances ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "N-glycosylation patterns , recombination events ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "selective pressures , and its codon adaptation to human genes are assessed .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our study is noteworthy for the observation of N-glycosylation and recombination in Bagaza virus and provides insight into its Indian origin from the 13th century .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Interestingly , evidence of Bagaza virus codon adaptation to human house-keeping genes is also observed to be higher than those of other flaviviruses well known in human infections .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Genetic variations on genome of West African Bagaza virus could play an important role in generating diversity and may promote Bagaza virus adaptation to other vertebrates and become an important threat in human health .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "2 of 26 meningoencephalitis virus (ITV), a pathogen affecting poultry (turkeys) and close to West Nile virus (WNV) in several genomic regions [3, 11] . Although diverse studies have contributed greatly to our understanding of the transmission modes of BAGV [8, 12] and the pathogenesis of BAGV infection [13] , only one study has addressed BAGV genetic diversity, reporting a high homology \u003e90% between Central African Republic, Indian and Spanish BAGV isolates [9] . In West Africa, there is a lack of data on BAGV genetic diversity. To fill this gap and gain better insights into BAGV molecular evolution, we characterized the full-genome of 11 BAGV isolates, sampled from 1988 to 2014 in Senegal and Côte d\u0027Ivoire. Firstly, we assessed genetic distances, phylogenetically informative sites found in more than one sequence contributing to branch ordering, N-glycosylation patterns, recombination events, selective pressures on West African BAGV sequences and their evolutionary phylogenetic relationships with previously available BAGV genomes. Secondly, to assess evidence of future BAGV codon adaptation to human house-keeping genes, a bio-informatics approach was used for analysis of codon adaptation biases.",
+      "sentences": [
+        [
+          {
+            "segment_text": "2 of 26 meningoencephalitis virus ( ITV ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a pathogen affecting poultry ( turkeys ) and close to West Nile virus ( WNV ) in several genomic regions ( 3 , 11 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although diverse studies have contributed greatly to our understanding of the transmission modes of BAGV ( 8 , 12 ) and the pathogenesis of BAGV infection ( 13 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "only one study has addressed BAGV genetic diversity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "reporting a high homology \u003e 90 % between Central African Republic ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Indian and Spanish BAGV isolates ( 9 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In West Africa , there is a lack of data on BAGV genetic diversity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To fill this gap and gain better insights into BAGV molecular evolution ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we characterized the full-genome of 11 BAGV isolates ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "sampled from 1988 to 2014 in Senegal and Côte d\u0027Ivoire .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Firstly , we assessed genetic distances ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "phylogenetically informative sites found in more than one sequence contributing to branch ordering ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "N-glycosylation patterns , recombination events ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "selective pressures on West African BAGV sequences and their evolutionary phylogenetic relationships with previously available BAGV genomes .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Secondly , to assess evidence of future BAGV codon adaptation to human house-keeping genes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a bio-informatics approach was used for analysis of codon adaptation biases .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "14",
+    "segment_num": "29",
+    "token_num": "421"
+  }
+}

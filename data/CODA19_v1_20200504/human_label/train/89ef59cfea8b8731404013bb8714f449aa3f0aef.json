@@ -1,0 +1,166 @@
+{
+  "paper_id": "89ef59cfea8b8731404013bb8714f449aa3f0aef",
+  "metadata": {
+    "title": "A Network-based Analysis of the 1861 Hagelloch Measles Data HHS Public Access",
+    "coda_data_split": "train",
+    "coda_paper_id": 3548,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "In this article, we demonstrate a statistical method for fitting the parameters of a sophisticated network and epidemic model to disease data. The pattern of contacts between hosts is described by a class of dyadic independence Exponential-family Random Graph Models (ERGMs) while the transmission process that runs over the network is modeled as a stochastic Susceptible-Exposed-Infectious-Removed (SEIR) epidemic. We fit these models to very detailed data from the 1861 measles outbreak in Hagelloch, Germany. The network models include parameters for all recorded host covariates including age, sex, household and classroom membership and household location while the SEIR epidemic model has exponentially distributed transmission times with gamma distributed latent and infective periods. This approach allows us to make meaningful statements about the structure of the population-separate from the transmission process-as well as to provide estimates of various biological quantities of interest, such as the effective reproductive number, R. Using reversible jump Markov chain Monte Carlo, we produce samples from the joint posterior distribution of all the parameters of this model-the network, transmission tree, network parameters and SEIR parameters-and perform Bayesian model selection to find the best-fitting network model. We compare our results with those of previous analyses and show that the ERGM network model better fits the data than a Bernoulli network model previously used. We also provide a software package, written in R, that performs this type of analysis. (2008) and Groendyke et al. (2011) to deal with host covariate information. This means that known discrete or continuous properties of hosts, such as age, household, other group memberships and spatial distribution can be incorporated into an analysis and the relative importance to the spread of the disease of each of these properties quantified. Further, we show that a Bayesian model selection algorithm can be used to find the subset of covariates that best explains the contact structure within the population. Thus, for the first time, an explicit network model of plausible complexity can be estimated from disease data allowing us to more fully understand the mechanisms at play in the spread of epidemics through populations, and potentially offer better means of testing alternate strategies for containing these epidemics.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this article , we demonstrate a statistical method for fitting the parameters of a sophisticated network and epidemic model to disease data .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The pattern of contacts between hosts is described by a class of dyadic independence Exponential-family Random Graph Models ( ERGMs ) while the transmission process that runs over the network is modeled as a stochastic Susceptible-Exposed-Infectious-Removed ( SEIR ) epidemic .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We fit these models to very detailed data from the 1861 measles outbreak in Hagelloch , Germany .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The network models include parameters for all recorded host covariates including age ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "sex , household and classroom membership and household location while the SEIR epidemic model has exponentially distributed transmission times with gamma distributed latent and infective periods .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This approach allows us to make meaningful statements about the structure of the population-separate from the transmission process-as well as to provide estimates of various biological quantities of interest ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "such as the effective reproductive number ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "R. Using reversible jump Markov chain Monte Carlo ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we produce samples from the joint posterior distribution of all the parameters of this model-the network ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "transmission tree , network parameters and SEIR parameters-and perform Bayesian model selection to find the best-fitting network model .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We compare our results with those of previous analyses and show that the ERGM network model better fits the data than a Bernoulli network model previously used .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also provide a software package ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "written in R , that performs this type of analysis .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "( 2008 ) and Groendyke et al. ( 2011 ) to deal with host covariate information .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This means that known discrete or continuous properties of hosts ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "such as age , household ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "other group memberships and spatial distribution can be incorporated into an analysis and the relative importance to the spread of the disease of each of these properties quantified .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Further , we show that a Bayesian model selection algorithm can be used to find the subset of covariates that best explains the contact structure within the population .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , for the first time ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "an explicit network model of plausible complexity can be estimated from disease data allowing us to more fully understand the mechanisms at play in the spread of epidemics through populations ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and potentially offer better means of testing alternate strategies for containing these epidemics .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In the remainder of this section, we introduce the Hagelloch measles data set and summarize previous analyses of these data. Section 2 describes the models and methods used in our analysis. Section 3 presents results including parameter estimates, model selection, estimates of the effective reproduction number and an assessment of the model fit. Section 4 concludes with a discussion.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In the remainder of this section ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we introduce the Hagelloch measles data set and summarize previous analyses of these data .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Section 2 describes the models and methods used in our analysis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Section 3 presents results including parameter estimates ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "model selection , estimates of the effective reproduction number and an assessment of the model fit .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Section 4 concludes with a discussion .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "15",
+    "segment_num": "27",
+    "token_num": "461"
+  }
+}

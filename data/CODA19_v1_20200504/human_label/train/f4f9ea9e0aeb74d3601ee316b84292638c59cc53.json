@@ -1,0 +1,234 @@
+{
+  "paper_id": "f4f9ea9e0aeb74d3601ee316b84292638c59cc53",
+  "metadata": {
+    "title": "Prediction of lncRNA-protein interactions using HeteSim scores based on heterogeneous networks OPEN",
+    "coda_data_split": "train",
+    "coda_paper_id": 2359,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Massive studies have indicated that long non-coding RNAs (lncRNAs) are critical for the regulation of cellular biological processes by binding with RNA-related proteins. However, only a few experimentally supported lncRNA-protein associations have been reported. Existing network-based methods are typically focused on intrinsic features of lncRNA and protein but ignore the information implicit in the topologies of biological networks associated with lncRNAs. Considering the limitations in previous methods, we propose PLPIHS, an effective computational method for Predicting lncRNA-Protein Interactions using HeteSim Scores. PLPIHS uses the HeteSim measure to calculate the relatedness score for each lncRNA-protein pair in the heterogeneous network, which consists of lncRNA-lncRNA similarity network, lncRNA-protein association network and protein-protein interaction network. An SVM classifier to predict lncRNA-protein interactions is built with the HeteSim scores. The results show that PLPIHS performs significantly better than the existing state-of-the-art approaches and achieves an AUC score of 0.97 in the leave-one-out validation test. We also compare the performances of networks with different connectivity density and find that PLPIHS performs well across all the networks. Furthermore, we use the proposed method to identify the related proteins for lncRNA MALAT1. Highlyranked proteins are verified by the biological studies and demonstrate the effectiveness of our method.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Massive studies have indicated that long non-coding RNAs ( lncRNAs ) are critical for the regulation of cellular biological processes by binding with RNA-related proteins .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , only a few experimentally supported lncRNA-protein associations have been reported .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Existing network-based methods are typically focused on intrinsic features of lncRNA and protein but ignore the information implicit in the topologies of biological networks associated with lncRNAs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Considering the limitations in previous methods ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we propose PLPIHS , an effective computational method for Predicting lncRNA-Protein Interactions using HeteSim Scores .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "PLPIHS uses the HeteSim measure to calculate the relatedness score for each lncRNA-protein pair in the heterogeneous network ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which consists of lncRNA-lncRNA similarity network ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "lncRNA-protein association network and protein-protein interaction network .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "An SVM classifier to predict lncRNA-protein interactions is built with the HeteSim scores .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results show that PLPIHS performs significantly better than the existing state-of-the-art approaches and achieves an AUC score of 0.97 in the leave-one-out validation test .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also compare the performances of networks with different connectivity density and find that PLPIHS performs well across all the networks .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , we use the proposed method to identify the related proteins for lncRNA MALAT1 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Highlyranked proteins are verified by the biological studies and demonstrate the effectiveness of our method .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Long non-coding RNAs (lncRNAs) are becoming critically important for the understanding of life sciences. Studies have indicated that lncRNAs play critical roles in many important biological processes such as chromatin modification 1 , transcriptional and post-transcriptional regulation 2, 3 , and human diseases 4, 5 . Relating proteins with Long non-coding RNAs (lncRNAs) is a tremendous and meaningful task in human health with applications in understanding lncRNA mechanisms, diagnosis and therapy 6, 7 . In general, lncRNAs exert functions by interfacing with corresponding RNA-binding proteins. Thus, identifying lncRNA interacted proteins is significant to understand complex functions of lncRNA and molecular mechanism 8, 9 of disease progression and cellular circuitry 10, 11 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Long non-coding RNAs ( lncRNAs ) are becoming critically important for the understanding of life sciences .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Studies have indicated that lncRNAs play critical roles in many important biological processes such as chromatin modification 1 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "transcriptional and post-transcriptional regulation 2 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "3 , and human diseases 4 , 5 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Relating proteins with Long non-coding RNAs ( lncRNAs ) is a tremendous and meaningful task in human health with applications in understanding lncRNA mechanisms ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "diagnosis and therapy 6 , 7 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In general , lncRNAs exert functions by interfacing with corresponding RNA-binding proteins .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , identifying lncRNA interacted proteins is significant to understand complex functions of lncRNA and molecular mechanism 8 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "9 of disease progression and cellular circuitry 10 , 11 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Since experimental methods to detect lncRNA-protein interactions are time-consuming and costly, several computational approaches have been reported for predicting RNA-binding proteins (RBPs). For example, Pancaldi et al. 12 proposed a method to predict ncRNA-protein interactions in 2011 and a approach named RPISeq was presented by Muppirala et al. 13 at the same year, which was constructed by using the features derived from protein and RNA sequences. They trained Random Forest (RF) and Support Vector Machine (SVM) classifiers using 3-mer and 4-mer conjoint triad features for amino acid and nucleotide sequences, respectively 14 . Bellucci et al. created a method named catRAPID 15 by exploiting the physicochemical properties including secondary structure, hydrogen bonding and van der Waals propensities. Wang et al. proposed an approach based on Naíve Bayes (NB) and Extended NB (ENB) classifiers using the similar data and features supported in Muppirala et al. \u0027s work 16 . In 2013, IncPro 17 was created by Lu et al. using three types of classical protein secondary structures, hydrogen-bond and Van der Waals propensities, and six types of RNA secondary structures (RSS).",
+      "sentences": [
+        [
+          {
+            "segment_text": "Since experimental methods to detect lncRNA-protein interactions are time-consuming and costly ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "several computational approaches have been reported for predicting RNA-binding proteins ( RBPs ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "For example , Pancaldi et al. 12 proposed a method to predict ncRNA-protein interactions in 2011 and a approach named RPISeq was presented by Muppirala et al. 13 at the same year ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which was constructed by using the features derived from protein and RNA sequences .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "They trained Random Forest ( RF ) and Support Vector Machine ( SVM ) classifiers using 3-mer and 4-mer conjoint triad features for amino acid and nucleotide sequences , respectively 14 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Bellucci et al. created a method named catRAPID 15 by exploiting the physicochemical properties including secondary structure ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "hydrogen bonding and van der Waals propensities .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Wang et al. proposed an approach based on Naíve Bayes ( NB ) and Extended NB ( ENB ) classifiers using the similar data and features supported in Muppirala et al. \u0027s work 16 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In 2013 , IncPro 17 was created by Lu et al. using three types of classical protein secondary structures ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "hydrogen-bond and Van der Waals propensities ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and six types of RNA secondary structures ( RSS ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Nevertheless, all of these methods only focus on intrinsic features of lncRNA and protein but ignore the information implicit in the topologies of biological networks associated with lncRNAs. On the other hand, biological network-based methods was already widely used in many types of studies, such as disease gene prioritization 18 and drug-target interaction prediction and some of them have achieved good performances. One of the Published: xx xx xxxx OPEN www.nature.com/scientificreports/ 2 Scientific RepoRts | 7: 3664 |",
+      "sentences": [
+        [
+          {
+            "segment_text": "Nevertheless , all of these methods only focus on intrinsic features of lncRNA and protein but ignore the information implicit in the topologies of biological networks associated with lncRNAs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "On the other hand , biological network-based methods was already widely used in many types of studies ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as disease gene prioritization 18 and drug-target interaction prediction and some of them have achieved good performances .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "One of the Published : xx xx xxxx OPEN www.nature.com/scientificreports/ 2 Scientific RepoRts | 7 : 3664 |",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "24",
+    "segment_num": "37",
+    "token_num": "633"
+  }
+}

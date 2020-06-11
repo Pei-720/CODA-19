@@ -1,0 +1,289 @@
+{
+  "paper_id": "34b3c509de48e972c90694eebad3ff0537f3d10b",
+  "metadata": {
+    "title": "Metagenomic Sequencing of an Echovirus 30 Genome From Cerebrospinal Fluid of a Patient With Aseptic Meningitis and Orchitis",
+    "coda_data_split": "train",
+    "coda_paper_id": 3807,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Enteroviruses cause a wide spectrum of clinical disease. In this study, we describe the case of a young man with orchitis and aseptic meningitis who was diagnosed with enterovirus infection. Using unbiased \"metagenomic\" massively parallel sequencing, we assembled a near-complete viral genome, the first use of this method for full-genome viral sequencing from cerebrospinal fluid. We found that the genome belonged to the subgroup echovirus 30, which is a common cause of aseptic meningitis but has not been previously reported to cause orchitis.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Enteroviruses cause a wide spectrum of clinical disease .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we describe the case of a young man with orchitis and aseptic meningitis who was diagnosed with enterovirus infection .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using unbiased `` metagenomic \u0027\u0027 massively parallel sequencing ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we assembled a near-complete viral genome ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the first use of this method for full-genome viral sequencing from cerebrospinal fluid .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We found that the genome belonged to the subgroup echovirus 30 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which is a common cause of aseptic meningitis but has not been previously reported to cause orchitis .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "A previously healthy man in his 20s developed unilateral testicular pain and swelling. Four days later, he developed headache and fever. He presented to our institution, where he was febrile to 102.7°F with mild meningismus; testicular swelling and tenderness had resolved. The combination of symptoms raised concern for mumps in the setting of a local outbreak, although parotitis was absent. Cerebrospinal fluid (CSF) analysis showed 17 total nucleated cells/µL (79% neutrophils, 12% monocytes, 9% lymphocytes), glucose of 65 mg/dL (serum glucose of 109 mg/dL), and total protein of 31 mg/dL. He was treated empirically with vancomycin, ceftriaxone, and acyclovir. Cerebrospinal fluid enterovirus polymerase chain reaction (PCR) was positive, antimicrobials were discontinued, and the patient recovered fully. Mumps serology was positive for immunoglobulin (Ig)G and negative for IgM, consistent with his reported history of vaccination. A urine culture for mumps performed by the Massachusetts Department of Health State Laboratory was negative. Cerebrospinal fluid Gram stain and culture were negative, as were CSF herpes simplex virus 1 and 2 PCR, Lyme PCR, and testing for syphilis via the Venereal Disease Research Laboratory test. Given the relatively unusual presentation of orchitis and meningitis, we performed metagenomic sequencing to obtain additional genomic information about the particular strain of enterovirus and to identify any potential copathogens including mumps virus.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A previously healthy man in his 20s developed unilateral testicular pain and swelling .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Four days later , he developed headache and fever .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "He presented to our institution ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "where he was febrile to 102.7 °F with mild meningismus ; testicular swelling and tenderness had resolved .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The combination of symptoms raised concern for mumps in the setting of a local outbreak , although parotitis was absent .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Cerebrospinal fluid ( CSF ) analysis showed 17 total nucleated cells/µL ( 79 % neutrophils , 12 % monocytes , 9 % lymphocytes ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "glucose of 65 mg/dL ( serum glucose of 109 mg/dL ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and total protein of 31 mg/dL .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "He was treated empirically with vancomycin , ceftriaxone , and acyclovir .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Cerebrospinal fluid enterovirus polymerase chain reaction ( PCR ) was positive ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "antimicrobials were discontinued , and the patient recovered fully .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Mumps serology was positive for immunoglobulin ( Ig ) G and negative for IgM ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "consistent with his reported history of vaccination .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A urine culture for mumps performed by the Massachusetts Department of Health State Laboratory was negative .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Cerebrospinal fluid Gram stain and culture were negative ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as were CSF herpes simplex virus 1 and 2 PCR ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Lyme PCR , and testing for syphilis via the Venereal Disease Research Laboratory test .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Given the relatively unusual presentation of orchitis and meningitis ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we performed metagenomic sequencing to obtain additional genomic information about the particular strain of enterovirus and to identify any potential copathogens including mumps virus .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We performed metagenomic sequencing and enterovirus genome assembly using methods developed and validated by our group [1, 2] . Full methods are described in the Supplementary Appendix.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We performed metagenomic sequencing and enterovirus genome assembly using methods developed and validated by our group ( 1 , 2 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Full methods are described in the Supplementary Appendix .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Unbiased metagenomic sequencing allows detection of any potential pathogens in a sample. We performed metagenomic analysis of all sequencing reads from this patient\u0027s CSF and identified enterovirus; no other pathogen, including mumps virus, was found. We assembled a near-full-length enterovirus genome (7212 base pair [bp], median depth of coverage 10×), which included the 5\u0027-untranslated region (UTR) and near-complete coding region, but not the 3\u0027 end (21 bp) of the coding region or the 3\u0027-UTR. By comparing this genome to published enterovirus genomes, we found that this virus belongs to echovirus subgroup 30 ( Figure 1A) , a member of the highly diverse enterovirus B species group, which includes most echoviruses, coxsackie B viruses, and coxsackie A9 virus [3] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Unbiased metagenomic sequencing allows detection of any potential pathogens in a sample .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We performed metagenomic analysis of all sequencing reads from this patient \u0027s CSF and identified enterovirus ; no other pathogen ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including mumps virus , was found .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We assembled a near-full-length enterovirus genome ( 7212 base pair ( bp ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "median depth of coverage 10 × ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which included the 5 \u0027 - untranslated region ( UTR ) and near-complete coding region ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "but not the 3 \u0027 end ( 21 bp ) of the coding region or the 3 \u0027 - UTR .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "By comparing this genome to published enterovirus genomes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we found that this virus belongs to echovirus subgroup 30 ( Figure 1A ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a member of the highly diverse enterovirus B species group ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which includes most echoviruses , coxsackie B viruses ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and coxsackie A9 virus ( 3 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Echovirus 30 has not previously been associated with orchitis, but other enteroviruses have, including echovirus 6 [4] and coxsackieviruses A9 and B [5, 6]. Therefore, we investigated whether the virus we identified was a recombinant between echovirus 30 and a subgroup that is more commonly associated with orchitis, because recombination between enteroviruses occurs frequently [3] . We first examined the VP1 gene, which encodes a capsid protein that interacts with host cell receptors and may therefore confer tropism for specific tissue such as the testes. In phylogenetic analysis of the VP1 gene, our virus again clustered with echovirus 30, rather than a subgroup more Open Forum Infectious Diseases ®",
+      "sentences": [
+        [
+          {
+            "segment_text": "Echovirus 30 has not previously been associated with orchitis ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but other enteroviruses have , including echovirus 6 ( 4 ) and coxsackieviruses A9 and B ( 5 , 6 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , we investigated whether the virus we identified was a recombinant between echovirus 30 and a subgroup that is more commonly associated with orchitis ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "because recombination between enteroviruses occurs frequently ( 3 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We first examined the VP1 gene ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which encodes a capsid protein that interacts with host cell receptors and may therefore confer tropism for specific tissue such as the testes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In phylogenetic analysis of the VP1 gene ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "our virus again clustered with echovirus 30 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "rather than a subgroup more Open Forum Infectious Diseases ®",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "25",
+    "segment_num": "49",
+    "token_num": "658"
+  }
+}

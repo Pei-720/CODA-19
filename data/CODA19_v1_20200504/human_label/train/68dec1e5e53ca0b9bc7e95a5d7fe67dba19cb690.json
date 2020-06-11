@@ -1,0 +1,87 @@
+{
+  "paper_id": "68dec1e5e53ca0b9bc7e95a5d7fe67dba19cb690",
+  "metadata": {
+    "title": "A novel methodology for large-scale phylogeny partition on behalf of the ARCA collaborative group",
+    "coda_data_split": "train",
+    "coda_paper_id": 8984,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "understanding the determinants of virus transmission is a fundamental step for effective design of screening and intervention strategies to control viral epidemics. Phylogenetic analysis can be a valid approach for the identification of transmission chains, and very-large data sets can be analysed through parallel computation. Here we propose and validate a new methodology for the partition of large-scale phylogenies and the inference of transmission clusters. This approach, on the basis of a depth-first search algorithm, conjugates the evaluation of node reliability, tree topology and patristic distance analysis. The method has been applied to identify transmission clusters of a phylogeny of 11,541 human immunodeficiency virus-1 subtype B pol gene sequences from a large Italian cohort. molecular transmission chains were characterized by means of different clinical/demographic factors, such as the interaction between male homosexuals and male heterosexuals. our method takes an advantage of a flexible notion of transmission cluster and can become a general framework to analyse other epidemics. ,15 on behalf of the ARCA collaborative group ARTICLE nATuRE CommunICATIons |",
+      "sentences": [
+        [
+          {
+            "segment_text": "understanding the determinants of virus transmission is a fundamental step for effective design of screening and intervention strategies to control viral epidemics .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Phylogenetic analysis can be a valid approach for the identification of transmission chains ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and very-large data sets can be analysed through parallel computation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we propose and validate a new methodology for the partition of large-scale phylogenies and the inference of transmission clusters .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "This approach , on the basis of a depth-first search algorithm ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "conjugates the evaluation of node reliability ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "tree topology and patristic distance analysis .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The method has been applied to identify transmission clusters of a phylogeny of 11,541 human immunodeficiency virus-1 subtype B pol gene sequences from a large Italian cohort .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "molecular transmission chains were characterized by means of different clinical/demographic factors ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "such as the interaction between male homosexuals and male heterosexuals .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "our method takes an advantage of a flexible notion of transmission cluster and can become a general framework to analyse other epidemics .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": ",15 on behalf of the ARCA collaborative group ARTICLE nATuRE CommunICATIons |",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "12",
+    "token_num": "181"
+  }
+}

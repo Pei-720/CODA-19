@@ -1,0 +1,65 @@
+{
+  "paper_id": "5e360ac821a3c6a355b41140893934813ca37929",
+  "metadata": {
+    "title": "Predicting ribosomal frameshifting efficiency",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1256,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Many retroviruses use −1 ribosomal frameshifting as part of the mechanism in translational control of viral protein synthesis. Quantitative prediction of the efficiency of −1 frameshifting is crucial for understanding the viral gene expression. Here we investigate the free energy landscape for a minimal −1 programmed ribosomal frameshifting machinery, including the codon-anticodon base pairs at the slippery site, the downstream messenger RNA structure and the spacer between the slippery site and the downstream structure. The free energy landscape analysis leads to a quantitative relationship between the frameshifting efficiency and the tension force generated during the movement of codonanticodon complexes, which may occur in the A/T to A/A accommodation process or the translocation process. The analysis shows no consistent correlation between frameshifting efficiency and global stability of the downstream mRNA structure.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Many retroviruses use − 1 ribosomal frameshifting as part of the mechanism in translational control of viral protein synthesis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Quantitative prediction of the efficiency of − 1 frameshifting is crucial for understanding the viral gene expression .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we investigate the free energy landscape for a minimal − 1 programmed ribosomal frameshifting machinery ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "including the codon-anticodon base pairs at the slippery site ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "the downstream messenger RNA structure and the spacer between the slippery site and the downstream structure .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The free energy landscape analysis leads to a quantitative relationship between the frameshifting efficiency and the tension force generated during the movement of codonanticodon complexes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which may occur in the A/T to A/A accommodation process or the translocation process .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The analysis shows no consistent correlation between frameshifting efficiency and global stability of the downstream mRNA structure .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "8",
+    "token_num": "141"
+  }
+}

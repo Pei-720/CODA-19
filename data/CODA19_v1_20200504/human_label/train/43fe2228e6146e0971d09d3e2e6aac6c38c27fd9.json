@@ -1,0 +1,278 @@
+{
+  "paper_id": "43fe2228e6146e0971d09d3e2e6aac6c38c27fd9",
+  "metadata": {
+    "title": "Nuclear Reprogramming of Somatic Nucleus Hybridized With Embryonic Stem Cells by Electrofusion",
+    "coda_data_split": "train",
+    "coda_paper_id": 6023,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Cell fusion is a powerful tool for understanding the molecular mechanisms of epigenetic reprogramming. In hybrid cells of somatic cells and pluripotential stem cells, including embryonic stem (ES) and embryonic germ cells, somatic nuclei acquire pluripotential competence. ES and embryonic germ cells retain intrinsic trans activity to induce epigenetic reprogramming. For generating hybrid cells, we have used the technique of electrofusion. Electrofusion is a highly effective, reproducible, and biomedically safe in vitro system. For successful cell fusion, two sequential steps of electric pulse stimulation are required for the alignment (pearl chain formation) of two different types of cells between electrodes in response to alternating current stimulation and for the fusion of cytoplasmic membranes by direct current stimulation. Optimal conditions for electrofusion with a pulse generator are introduced for ES and somatic cell fusion. Topics in the field of stem cell research include the successful production of cloned animals via the epigenetic reprogramming of somatic cells and contribution of spontaneous cell fusion to generating intrinsic plasticity of tissue stem cells. Cell fusion technology may make important contributions to the fields of epigenetic reprogramming and regenerative medicine. derived from parental cells coordinately regulates the new phenotypes and functions of somatic hybrid cells.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Cell fusion is a powerful tool for understanding the molecular mechanisms of epigenetic reprogramming .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In hybrid cells of somatic cells and pluripotential stem cells ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including embryonic stem ( ES ) and embryonic germ cells ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "somatic nuclei acquire pluripotential competence .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "ES and embryonic germ cells retain intrinsic trans activity to induce epigenetic reprogramming .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "For generating hybrid cells , we have used the technique of electrofusion .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Electrofusion is a highly effective ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "reproducible , and biomedically safe in vitro system .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "For successful cell fusion , two sequential steps of electric pulse stimulation are required for the alignment ( pearl chain formation ) of two different types of cells between electrodes in response to alternating current stimulation and for the fusion of cytoplasmic membranes by direct current stimulation .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Optimal conditions for electrofusion with a pulse generator are introduced for ES and somatic cell fusion .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Topics in the field of stem cell research include the successful production of cloned animals via the epigenetic reprogramming of somatic cells and contribution of spontaneous cell fusion to generating intrinsic plasticity of tissue stem cells .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Cell fusion technology may make important contributions to the fields of epigenetic reprogramming and regenerative medicine .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "derived from parental cells coordinately regulates the new phenotypes and functions of somatic hybrid cells .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "One well-known cell fusion phenomenon occurring in vivo is fertilization. The union of two pronuclei from an MII oocyte and sperm creates the next generation with genetic diversity. Soon after fertilization, sperm chromatin is reprogrammed by nucleoplasmin because of the exchange of sperm-specific basic proteins to histones (2), almost resulting in the equalization of paternal and maternal chromatin through subsequent cell divisions. Cell fusion is also involved in the technique of animal cloning. The somatic donor nucleus is introduced into a recipient MII oocyte by cell fusion or direct injection. In the cloned embryos, the somatic type of cell phenotype and function is reprogrammed to the pluripotential type as a result of genomewide epigenetic modifications via the activity of trans-acting factors preserved in unfertilized oocytes. This phenomenon has been called nuclear reprogramming.",
+      "sentences": [
+        [
+          {
+            "segment_text": "One well-known cell fusion phenomenon occurring in vivo is fertilization .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The union of two pronuclei from an MII oocyte and sperm creates the next generation with genetic diversity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Soon after fertilization , sperm chromatin is reprogrammed by nucleoplasmin because of the exchange of sperm-specific basic proteins to histones ( 2 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "almost resulting in the equalization of paternal and maternal chromatin through subsequent cell divisions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Cell fusion is also involved in the technique of animal cloning .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The somatic donor nucleus is introduced into a recipient MII oocyte by cell fusion or direct injection .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the cloned embryos , the somatic type of cell phenotype and function is reprogrammed to the pluripotential type as a result of genomewide epigenetic modifications via the activity of trans-acting factors preserved in unfertilized oocytes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This phenomenon has been called nuclear reprogramming .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Using electrofusion between ES cells and adult somatic cells, it has been demonstrated that ES cells have an intrinsic capacity for the nuclear reprogramming of specialized somatic genomes (3,4) . In hybrid cells of ES cells and thymocytes, epigenetic modifications specific to somatic cells are fully reprogrammed to the ES epigenotype, as shown by (1) the successful contribution of the ES hybrid cells to the normal embryogenesis of chimeric embryos, (2) reactivation of the inactivated X chromosome derived from female thymocytes, (3) reactivation of pluripotential cellspecific genes (Oct4 and Tsix) derived from somatic cells, (4) tissue-specific gene expression from the reprogrammed somatic genomes after in vivo and in vitro differentiation, and (5) de-condensed chromatin formation in the reprogrammed somatic nuclei as marked by histone-tail modifications of H3 and H4 hyperacetylation and H3 lysine 4 hypermethylation (3,5,6) . Moreover, embryonic germ (EG) cells derived from gonadal primordial germ cells of mouse E11.5 and 12.5 embryos, in which the majority of parental imprints are erased (7), possess additional activity for inducing reprogramming of parental imprints on somatic genomes accompanied by DNA demethylation in the EG hybrid cells (8). Therefore, electrofusion between pluripotential stem cells and somatic cells will contribute to our understanding of the mechanisms of nuclear reprogramming involved in epigenetic modifications on DNA and chromatin.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Using electrofusion between ES cells and adult somatic cells ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "it has been demonstrated that ES cells have an intrinsic capacity for the nuclear reprogramming of specialized somatic genomes ( 3,4 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In hybrid cells of ES cells and thymocytes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "epigenetic modifications specific to somatic cells are fully reprogrammed to the ES epigenotype ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as shown by ( 1 ) the successful contribution of the ES hybrid cells to the normal embryogenesis of chimeric embryos ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "( 2 ) reactivation of the inactivated X chromosome derived from female thymocytes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "( 3 ) reactivation of pluripotential cellspecific genes ( Oct4 and Tsix ) derived from somatic cells ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "( 4 ) tissue-specific gene expression from the reprogrammed somatic genomes after in vivo and in vitro differentiation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and ( 5 ) de-condensed chromatin formation in the reprogrammed somatic nuclei as marked by histone-tail modifications of H3 and H4 hyperacetylation and H3 lysine 4 hypermethylation ( 3,5,6 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , embryonic germ ( EG ) cells derived from gonadal primordial germ cells of mouse E11 .5 and 12.5 embryos ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "in which the majority of parental imprints are erased ( 7 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "possess additional activity for inducing reprogramming of parental imprints on somatic genomes accompanied by DNA demethylation in the EG hybrid cells ( 8 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , electrofusion between pluripotential stem cells and somatic cells will contribute to our understanding of the mechanisms of nuclear reprogramming involved in epigenetic modifications on DNA and chromatin .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Cell fusion was first induced by the Sendai virus (HVJ) among Ehrlich\u0027s ascites tumor cells, resulting in the formation of giant polynuclear cells (9). Since Harris\u0027s group reported cell fusion between two different species, mouse and human, in 1965 (10), the technique has proven to be a powerful approach to analyzing biological interactions between differentiated cell types. Various techniques lead to cell fusion mediated by other viruses such as Paramyxoviruses, including Oncornavirus, Coronavirus, Herpesvirus, and Poxvirus and by treatment with various chemical agents such as calcium ions, lysolecithin, and polyethylene glycol (PEG). However, virus-and chemicalmediated cell fusion has difficulties with respect to the efficiency of inducing cell fusion and reproducibility and biomedical safety for clinical applications. Since the 1980s, efforts have been made to optimize many parameters of electrofusion, resulting in improvements in fusion efficiency, which is now significantly better than that of cell",
+      "sentences": [
+        [
+          {
+            "segment_text": "Cell fusion was first induced by the Sendai virus ( HVJ ) among Ehrlich \u0027s ascites tumor cells ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "resulting in the formation of giant polynuclear cells ( 9 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Since Harris \u0027s group reported cell fusion between two different species ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "mouse and human , in 1965 ( 10 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the technique has proven to be a powerful approach to analyzing biological interactions between differentiated cell types .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Various techniques lead to cell fusion mediated by other viruses such as Paramyxoviruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including Oncornavirus , Coronavirus , Herpesvirus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and Poxvirus and by treatment with various chemical agents such as calcium ions ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "lysolecithin , and polyethylene glycol ( PEG ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , virus-and chemicalmediated cell fusion has difficulties with respect to the efficiency of inducing cell fusion and reproducibility and biomedical safety for clinical applications .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Since the 1980s , efforts have been made to optimize many parameters of electrofusion ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "resulting in improvements in fusion efficiency ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which is now significantly better than that of cell",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "26",
+    "segment_num": "47",
+    "token_num": "786"
+  }
+}

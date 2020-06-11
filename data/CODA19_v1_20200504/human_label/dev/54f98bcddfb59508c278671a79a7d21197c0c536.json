@@ -1,0 +1,93 @@
+{
+  "paper_id": "54f98bcddfb59508c278671a79a7d21197c0c536",
+  "metadata": {
+    "title": "Amino Acid Substitution Matrices from an Information Theoretic Perspective",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1784,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Protein sequence alignments have become an important tool for molecular biologists. Local alignments are frequently constructed with the aid of a \"substitution score matrix\" that specifies a score for aligning each pair of amino acid residues. Over the years, many different substitution matrices have been proposed, based on a. wide variety of rationales. Statistical results, however, demonstrate that any such matrix is implicitly a \"log-odds\" matrix. with a specific target distribution for aligned pairs of amino acid residues. In the light of information theory, it is possible to express the scores of a substitution matrix in bits and to see that different matrices are better adapted to different purposes. The most widely used matrix for protein sequence comparison has been the PAM-250 matrix. It is argued that for database searches the PAM-120 matrix generally is more appropriate, while for comparing two specific proteins with suspected homology the PAM-200 matrix is indicated. Examples discussed include the lipocalins, human cr,B-glycoprotein, the cystic fibrosis transmembrane conductance regulator and the globins.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Protein sequence alignments have become an important tool for molecular biologists .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Local alignments are frequently constructed with the aid of a `` substitution score matrix \u0027\u0027 that specifies a score for aligning each pair of amino acid residues .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Over the years , many different substitution matrices have been proposed ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "based on a. wide variety of rationales .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Statistical results , however , demonstrate that any such matrix is implicitly a `` log-odds \u0027\u0027 matrix .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "with a specific target distribution for aligned pairs of amino acid residues .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the light of information theory ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "it is possible to express the scores of a substitution matrix in bits and to see that different matrices are better adapted to different purposes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The most widely used matrix for protein sequence comparison has been the PAM-250 matrix .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is argued that for database searches the PAM-120 matrix generally is more appropriate ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while for comparing two specific proteins with suspected homology the PAM-200 matrix is indicated .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Examples discussed include the lipocalins ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "human cr,B-glycoprotein , the cystic fibrosis transmembrane conductance regulator and the globins .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "9",
+    "segment_num": "13",
+    "token_num": "188"
+  }
+}

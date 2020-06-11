@@ -1,0 +1,144 @@
+{
+  "paper_id": "36db93a2311b6bac1f434724834f643ae8258902",
+  "metadata": {
+    "title": "A Multiagent-Based Model for Epidemic Disease Monitoring in DR Congo",
+    "coda_data_split": "train",
+    "coda_paper_id": 7322,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Any infectious diseases have been reported in sub-Saharan countries over the past decade due to the inefficiency of health structures to anticipate outbreaks. In a poorly-infrastructure country such as the Democratic Republic of Congo (DRC), with inadequate health staff and laboratories, it is difficult to respond rapidly to an epidemic, especially in rural areas. As the DRC\u0027s health system has three levels (peripheral, regional and national), from the production of health data at the peripheral level to the national level that makes the decision, meantime the disease can spread to many people. Lack of communication between health centres of the same health zone and Health zones of the same Health Provincial Division does not contribute to the regional response. This article, an extended version of [1], proposes a well elaborated solution track to deal with this problem by using an agent-centric approach to study by simulation how to improve the process. A new experiment is described by arranging twentyeight health zones of Kinshasa to show how their collaboration can provide unique health data source for all stakeholders and help reducing disease propagation. It concerns also 47 health centres, 1 medical laboratory, 1 Provincial Health Division and 4 Rapid Riposte Teams. The simulation data, provided by Provincial Health Division of Kinshasa, concerned cholera outbreak from January to December 2017. The interaction between these agents demonstrated that Health Zone Agent can automatically alert his neighbours whenever he encountered a confirmed case of an outbreak. This action can reduce disease propagation as population will be provided with prevention measures. These interactions between agents have provided models to propose to the current system in order to find out the best that can help reducing decision time.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Any infectious diseases have been reported in sub-Saharan countries over the past decade due to the inefficiency of health structures to anticipate outbreaks .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In a poorly-infrastructure country such as the Democratic Republic of Congo ( DRC ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with inadequate health staff and laboratories ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "it is difficult to respond rapidly to an epidemic , especially in rural areas .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As the DRC \u0027s health system has three levels ( peripheral , regional and national ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "from the production of health data at the peripheral level to the national level that makes the decision ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "meantime the disease can spread to many people .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Lack of communication between health centres of the same health zone and Health zones of the same Health Provincial Division does not contribute to the regional response .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This article , an extended version of ( 1 ) ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "proposes a well elaborated solution track to deal with this problem by using an agent-centric approach to study by simulation how to improve the process .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "A new experiment is described by arranging twentyeight health zones of Kinshasa to show how their collaboration can provide unique health data source for all stakeholders and help reducing disease propagation .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "It concerns also 47 health centres ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "1 medical laboratory , 1 Provincial Health Division and 4 Rapid Riposte Teams .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The simulation data , provided by Provincial Health Division of Kinshasa ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "concerned cholera outbreak from January to December 2017 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The interaction between these agents demonstrated that Health Zone Agent can automatically alert his neighbours whenever he encountered a confirmed case of an outbreak .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This action can reduce disease propagation as population will be provided with prevention measures .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These interactions between agents have provided models to propose to the current system in order to find out the best that can help reducing decision time .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Access to health care is a major concern in developing countries. The Democratic Republic of Congo ranks among the poorest countries according to its HDI 1 [2]. Despite its millions of hectares of arable land, this vast country of Central Africa is 1 Human Development Index.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Access to health care is a major concern in developing countries .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The Democratic Republic of Congo ranks among the poorest countries according to its HDI 1 ( 2 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Despite its millions of hectares of arable land ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "this vast country of Central Africa is 1 Human Development Index .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "14",
+    "segment_num": "22",
+    "token_num": "364"
+  }
+}

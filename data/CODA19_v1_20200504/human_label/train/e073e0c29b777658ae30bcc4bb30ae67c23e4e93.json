@@ -1,0 +1,287 @@
+{
+  "paper_id": "e073e0c29b777658ae30bcc4bb30ae67c23e4e93",
+  "metadata": {
+    "title": "ARF family G proteins and their regulators: roles in membrane transport, development and disease",
+    "coda_data_split": "train",
+    "coda_paper_id": 9171,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The ADP-ribosylation factor (ARF) family of low molecular weight guanine-nucleotide-binding (G) proteins controls membrane traffic and organelle structure, and each member is regulated through a cycle of GTP binding and GTP hydrolysis, which activate and inactivate the G protein, respectively 1,2 . ARFs have several important functions, including the recruitment of coat proteins that promote sorting of cargo into vesicles, the recruitment and activation of enzymes, such as the phosphatidylinositol (PtdIns) kinases, that alter membrane lipid composition, and interaction with cytoskeletal factors (TABLE 1) . There are six mammalian ARF proteins that can be divided into three classes based on sequence homology: Class I (ARF1, ARF2 and ARF3), Class II (ARF4 and ARF5) and Class III (ARF6) (FIG. 1) . The Class II ARFs arose late in animal cell evolution, possibly in metazoans, but Class I ARFs are highly conserved and are present in all eukaryotes examined to date. Hence, in Drosophila melanogaster and Caenorhabditis elegans, each class has a single ARF orthologue, but yeast lacks the Class II ARFs. Plants have Class I ARFs, and potentiall y also Class III ARFs (BOX 1).",
+      "sentences": [
+        [
+          {
+            "segment_text": "The ADP-ribosylation factor ( ARF ) family of low molecular weight guanine-nucleotide-binding ( G ) proteins controls membrane traffic and organelle structure ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and each member is regulated through a cycle of GTP binding and GTP hydrolysis ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which activate and inactivate the G protein , respectively 1,2 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "ARFs have several important functions ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including the recruitment of coat proteins that promote sorting of cargo into vesicles ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the recruitment and activation of enzymes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as the phosphatidylinositol ( PtdIns ) kinases ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "that alter membrane lipid composition ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and interaction with cytoskeletal factors ( TABLE 1 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "There are six mammalian ARF proteins that can be divided into three classes based on sequence homology : Class I ( ARF1 , ARF2 and ARF3 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Class II ( ARF4 and ARF5 ) and Class III ( ARF6 ) ( FIG. 1 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The Class II ARFs arose late in animal cell evolution ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "possibly in metazoans , but Class I ARFs are highly conserved and are present in all eukaryotes examined to date .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hence , in Drosophila melanogaster and Caenorhabditis elegans ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "each class has a single ARF orthologue ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but yeast lacks the Class II ARFs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Plants have Class I ARFs ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and potentiall y also Class III ARFs ( BOX 1 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In addition, there are over 20 ARF-like (ARL) proteins, which seem to have broader roles than ARFs. Some ARL proteins, including ARL1, ARL2 and ARF-related protein 1 (ARFRP1), are ancient and have homologues in plants, yeast and metazoans, whereas others, such as ARL11, arose later in evolution and are present only in vertebrates 2 . SAR1, which is present in all eukaryotes examined to date, is also considered to be a member of the ARF family, owing to the presence of an aminotermina l amphipathic helix and the functional similarit y of this protein to ARF1 in recruiting a coat complex durin g vesicle budding.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In addition , there are over 20 ARF-like ( ARL ) proteins ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which seem to have broader roles than ARFs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Some ARL proteins , including ARL1 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "ARL2 and ARF-related protein 1 ( ARFRP1 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "are ancient and have homologues in plants ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "yeast and metazoans , whereas others ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as ARL11 , arose later in evolution and are present only in vertebrates 2 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "SAR1 , which is present in all eukaryotes examined to date ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "is also considered to be a member of the ARF family ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "owing to the presence of an aminotermina l amphipathic helix and the functional similarit y of this protein to ARF1 in recruiting a coat complex durin g vesicle budding .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The study of ARF protein function was aided greatly by the early discovery of the regulators of ARF GTP binding and GTP hydrolysis. The ARF guanine nucleotid e exchange factors (GEFs) contain a conserved SEC7 domain that catalyses GDP release from, and GTP binding to, their substrate ARFs. The GTPase -activating proteins (GAPs) catalyse the hydrolysis of GTP-bound ARFs and are critically important because ARFs have negligible intrinsic GTP-hydrolysis activity. ARF GAPs contain a conserved zinc-finger GAP catalytic domain. The conserved, signature catalytic domains in the GEFs and GAPs are what facilitated the identification of these ARF regulators in all organisms from yeast to man. However, the ARF substrate specificity for these GEFs and GAPs remains unclear, and whether they also work on ARL proteins has yet to be determined.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The study of ARF protein function was aided greatly by the early discovery of the regulators of ARF GTP binding and GTP hydrolysis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The ARF guanine nucleotid e exchange factors ( GEFs ) contain a conserved SEC7 domain that catalyses GDP release from ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and GTP binding to , their substrate ARFs .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The GTPase - activating proteins ( GAPs ) catalyse the hydrolysis of GTP-bound ARFs and are critically important because ARFs have negligible intrinsic GTP-hydrolysis activity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "ARF GAPs contain a conserved zinc-finger GAP catalytic domain .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The conserved , signature catalytic domains in the GEFs and GAPs are what facilitated the identification of these ARF regulators in all organisms from yeast to man .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the ARF substrate specificity for these GEFs and GAPs remains unclear ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and whether they also work on ARL proteins has yet to be determined .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In the past, G protein activity was viewed as a linear signalling pathway, with the GDP-bound form being inactive and the GTP-bound form initiating effector functions until it returned to the inactive, GDP-bound state. The GEFs and GAPs were thought of as \u0027activators\u0027 and \u0027in activators\u0027 , respectively, that controlled this on-off switch (FIG. 1c) . However, work on ARF and ARL proteins over the past decade has revealed that their Abstract | Members of the ADP-ribosylation factor (ARF) family of guanine-nucleotidebindin g (G) proteins, including the ARF-like (ARL) proteins and SAR1, regulate membrane traffic and organelle structure by recruiting cargo-sorting coat proteins, modulating membrane lipid composition, and interacting with regulators of other G proteins. New roles of ARF and ARL proteins are emerging, including novel functions at the Golgi complex and in cilia formation. Their function is under tight spatial control, which is mediated by guanine nucleotide exchange factors (GEFs) and GTPase-activating proteins (GAPs) that catalyse GTP exchange and hydrolysis, respectively. Important advances are being gained in our understanding of the functional networks that are formed not only by the GEFs and GAPs themselves but also by the inactive forms of the ARF proteins.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In the past , G protein activity was viewed as a linear signalling pathway ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with the GDP-bound form being inactive and the GTP-bound form initiating effector functions until it returned to the inactive , GDP-bound state .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The GEFs and GAPs were thought of as ` activators \u0027 and ` in activators \u0027 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "respectively , that controlled this on-off switch ( FIG. 1c ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , work on ARF and ARL proteins over the past decade has revealed that their Abstract | Members of the ADP-ribosylation factor ( ARF ) family of guanine-nucleotidebindin g ( G ) proteins ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including the ARF-like ( ARL ) proteins and SAR1 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "regulate membrane traffic and organelle structure by recruiting cargo-sorting coat proteins ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "modulating membrane lipid composition , and interacting with regulators of other G proteins .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "New roles of ARF and ARL proteins are emerging ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including novel functions at the Golgi complex and in cilia formation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Their function is under tight spatial control ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which is mediated by guanine nucleotide exchange factors ( GEFs ) and GTPase-activating proteins ( GAPs ) that catalyse GTP exchange and hydrolysis , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Important advances are being gained in our understanding of the functional networks that are formed not only by the GEFs and GAPs themselves but also by the inactive forms of the ARF proteins .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "www.nature.com/reviews/molcellbio",
+      "sentences": [
+        [
+          {
+            "segment_text": "www.nature.com/reviews / molcellbio",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "22",
+    "segment_num": "50",
+    "token_num": "722"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "paper_id": "a99f02efcd401fc017aab682571c7af17c29b634",
+  "metadata": {
+    "title": "Bodo Plachter (a;d) and Klaus Wälde (a;c;e)",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1597,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "We model the evolution of the number of individuals that are reported to be sick with COVID-19 in Germany. Our theoretical framework builds on a continuous time Markov chain with four states: healthy without infection, sick, healthy after recovery or after infection but without symptoms and dead. Our quantitative solution matches the number of sick individuals up to the most recent observation and ends with a share of sick individuals following from infection rates and sickness probabilities. We employ this framework to study inter alia the expected peak of the number of sick individuals in a scenario without public regulation of social contacts. We also study the e¤ects of public regulations. For all scenarios we report the expected end of the CoV-2 epidemic.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We model the evolution of the number of individuals that are reported to be sick with COVID-19 in Germany .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our theoretical framework builds on a continuous time Markov chain with four states : healthy without infection ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "sick , healthy after recovery or after infection but without symptoms and dead .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our quantitative solution matches the number of sick individuals up to the most recent observation and ends with a share of sick individuals following from infection rates and sickness probabilities .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We employ this framework to study inter alia the expected peak of the number of sick individuals in a scenario without public regulation of social contacts .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also study the e ¤ ects of public regulations .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "For all scenarios we report the expected end of the CoV-2 epidemic .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We have four general …ndings: First, current epidemiological thinking implies that the long-run e¤ects of the epidemic only depend on the aggregate long-run infection rate and on the individual risk to turn sick after an infection. Any measures by individuals and the public therefore only in ‡uence the dynamics of spread of CoV-2. Second, predictions about the duration and level of the epidemic must strongly distinguish between the o¢ cially reported numbers (Robert Koch Institut, RKI) and actual numbers of sick individuals. Third, given the current (scarce) medical knowledge about long-run infection rate and individual risks to turn sick, any prediction on the length (duration in months) and strength (e.g. maximum numbers of sick individuals on a given day) is subject to a lot of uncertainty. Our predictions therefore o¤er robustness analyses that provide ranges on how long the epidemic will last and how strong it will be. Fourth, public interventions that are already in place and that are being discussed can lead to more and less severe outcomes of the epidemic. If an intervention takes place too early, the epidemic can actually be stronger than with an intervention that starts later. Interventions should therefore be contingent on current infection rates in regions or countries. of the modelling initiative of the Deutsche Gesellschaft für Epidemiologie for comments and discussions. We are deeply indebted to Damir Stijepic for the initial numerical solutions and the initial calibration. Our biggest debt of gratitude is owed to Matthias Birkner who has been advising and teaching us on stochastic models for many years.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We have four general ... ndings : First ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "current epidemiological thinking implies that the long-run e ¤ ects of the epidemic only depend on the aggregate long-run infection rate and on the individual risk to turn sick after an infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Any measures by individuals and the public therefore only in ‡ uence the dynamics of spread of CoV-2 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Second , predictions about the duration and level of the epidemic must strongly distinguish between the o ¢ cially reported numbers ( Robert Koch Institut , RKI ) and actual numbers of sick individuals .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Third , given the current ( scarce ) medical knowledge about long-run infection rate and individual risks to turn sick ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "any prediction on the length ( duration in months ) and strength ( e.g. maximum numbers of sick individuals on a given day ) is subject to a lot of uncertainty .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our predictions therefore o ¤ er robustness analyses that provide ranges on how long the epidemic will last and how strong it will be .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Fourth , public interventions that are already in place and that are being discussed can lead to more and less severe outcomes of the epidemic .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "If an intervention takes place too early ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the epidemic can actually be stronger than with an intervention that starts later .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Interventions should therefore be contingent on current infection rates in regions or countries .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "of the modelling initiative of the Deutsche Gesellschaft für Epidemiologie for comments and discussions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We are deeply indebted to Damir Stijepic for the initial numerical solutions and the initial calibration .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our biggest debt of gratitude is owed to Matthias Birkner who has been advising and teaching us on stochastic models for many years .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "17",
+    "segment_num": "21",
+    "token_num": "426"
+  }
+}

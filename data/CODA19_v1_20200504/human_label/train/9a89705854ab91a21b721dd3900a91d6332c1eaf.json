@@ -1,0 +1,236 @@
+{
+  "paper_id": "9a89705854ab91a21b721dd3900a91d6332c1eaf",
+  "metadata": {
+    "title": "Article 189 1 Citation: Yandamuri SS and Lane TE (2016) Imaging Axonal Degeneration and Repair in Preclinical Animal Models of Multiple Sclerosis",
+    "coda_data_split": "train",
+    "coda_paper_id": 6224,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Multiple sclerosis (MS) is a central nervous system (CNS) disease characterized by chronic neuroinflammation, demyelination, and axonal damage. Infiltration of activated lymphocytes and myeloid cells are thought to be primarily responsible for white matter damage and axonopathy. Over time, this neurologic damage manifests clinically as debilitating motor and cognitive symptoms. Existing MS therapies focus on symptom relief and delay of disease progression through reduction of neuroinflammation. However, long-term strategies to remyelinate, protect, or regenerate axons have remained elusive, posing a challenge to treating progressive forms of MS. Preclinical mouse models and techniques, such as immunohistochemistry, flow cytometry, and genomic and proteomic analysis have provided advances in our understanding of discrete time-points of pathology following disease induction. More recently, in vivo and in situ two-photon (2P) microscopy has made it possible to visualize continuous real-time cellular behavior and structural changes occurring within the CNS during neuropathology. Research utilizing 2P imaging to study axonopathy in neuroinflammatory demyelinating disease has focused on five areas: (1) axonal morphologic changes, (2) organelle transport and health, (3) relationship to inflammation, (4) neuronal excitotoxicity, and (5) regenerative therapies. 2P imaging may also be used to identify novel therapeutic targets via identification and clarification of dynamic cellular and molecular mechanisms of axonal regeneration and remyelination. Here, we review tools that have made 2P accessible for imaging neuropathologies and advances in our understanding of axonal degeneration and repair in preclinical models of demyelinating diseases.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Multiple sclerosis ( MS ) is a central nervous system ( CNS ) disease characterized by chronic neuroinflammation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "demyelination , and axonal damage .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Infiltration of activated lymphocytes and myeloid cells are thought to be primarily responsible for white matter damage and axonopathy .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Over time , this neurologic damage manifests clinically as debilitating motor and cognitive symptoms .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Existing MS therapies focus on symptom relief and delay of disease progression through reduction of neuroinflammation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , long-term strategies to remyelinate ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "protect , or regenerate axons have remained elusive ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "posing a challenge to treating progressive forms of MS. Preclinical mouse models and techniques ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as immunohistochemistry , flow cytometry ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and genomic and proteomic analysis have provided advances in our understanding of discrete time-points of pathology following disease induction .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "More recently , in vivo and in situ two-photon ( 2P ) microscopy has made it possible to visualize continuous real-time cellular behavior and structural changes occurring within the CNS during neuropathology .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Research utilizing 2P imaging to study axonopathy in neuroinflammatory demyelinating disease has focused on five areas : ( 1 ) axonal morphologic changes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "( 2 ) organelle transport and health ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "( 3 ) relationship to inflammation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "( 4 ) neuronal excitotoxicity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and ( 5 ) regenerative therapies .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "2P imaging may also be used to identify novel therapeutic targets via identification and clarification of dynamic cellular and molecular mechanisms of axonal regeneration and remyelination .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we review tools that have made 2P accessible for imaging neuropathologies and advances in our understanding of axonal degeneration and repair in preclinical models of demyelinating diseases .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Abbreviations: 2d2, MOG peptide 35-55 TCR transgenic; APP, amyloid precursor protein; ATP, adenosine triphosphate; CerTN-L15, troponin C expressing Ca 2+ sensing transgenic animal; CFP, cyan fluorescent protein; EAE, experimental autoimmune/allergic encephalomyelitis; EB3, end-binding protein 3; FAD, focal axonal degeneration; FRET, Förster resonance energy transfer; GECI, genetically encoded Ca 2+ indicator; GFP, green fluorescent protein; JHMV, John Howard Mueller strain of murine hepatitis virus; LFB, Luxol fast blue; MHC, major histocompatibility complex; MOG, myelin oligodendrocyte glycoprotein; MRI, magnetic resonance imaging; MRS, magnetic resonance spectroscopy; MS, multiple sclerosis; NAWM, normal appearing white matter; NPC, neural precursor cell; OT-2, ovalbumin peptide 323-339 TCR transgenic-binding MHC Class II; PLP, proteolipid protein (promoter for mature oligodendrocytes); RAG, recombination activating-gene; RFP, red fluorescent protein; RNS, reactive nitrogen species; ROS, reactive oxygen species; SMI31, Sternberger monoclonal incorporated monoclonal antibody 31; SMI32, Sternberger monoclonal incorporated monoclonal antibody 32; TCR, T-cell receptor; Thy1, thymocyte antigen 1 (promoter for neuron subset); TMEV, Theiler\u0027s murine encephalomyelitis virus; TN-XXL, troponin C expressing Ca 2+ sensing transgenic animal; XFP, \"X\" fluorescent protein (any spectral variant of GFP); YFP, yellow fluorescent protein.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Abbreviations : 2d2 , MOG peptide 35-55 TCR transgenic ; APP ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "amyloid precursor protein ; ATP ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "adenosine triphosphate ; CerTN-L15 , troponin C expressing Ca 2 + sensing transgenic animal ; CFP ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "cyan fluorescent protein ; EAE ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "experimental autoimmune/allergic encephalomyelitis ; EB3 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "end-binding protein 3 ; FAD ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "focal axonal degeneration ; FRET ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Förster resonance energy transfer ; GECI ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "genetically encoded Ca 2 + indicator ; GFP ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "green fluorescent protein ; JHMV ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "John Howard Mueller strain of murine hepatitis virus ; LFB ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "Luxol fast blue ; MHC ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "major histocompatibility complex ; MOG ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "myelin oligodendrocyte glycoprotein ; MRI ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "magnetic resonance imaging ; MRS ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "magnetic resonance spectroscopy ; MS ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "multiple sclerosis ; NAWM , normal appearing white matter ; NPC ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "neural precursor cell ; OT-2 ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "ovalbumin peptide 323-339 TCR transgenic-binding MHC Class II ; PLP ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "proteolipid protein ( promoter for mature oligodendrocytes ) ; RAG ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "recombination activating-gene ; RFP , red fluorescent protein ; RNS ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "reactive nitrogen species ; ROS ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "reactive oxygen species ; SMI31 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Sternberger monoclonal incorporated monoclonal antibody 31 ; SMI32 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Sternberger monoclonal incorporated monoclonal antibody 32 ; TCR ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "T-cell receptor ; Thy1 , thymocyte antigen 1 ( promoter for neuron subset ) ; TMEV ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Theiler \u0027s murine encephalomyelitis virus ; TN-XXL ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "troponin C expressing Ca 2 + sensing transgenic animal ; XFP ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "`` X \u0027\u0027 fluorescent protein ( any spectral variant of GFP ) ; YFP , yellow fluorescent protein .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "10",
+    "segment_num": "47",
+    "token_num": "536"
+  }
+}

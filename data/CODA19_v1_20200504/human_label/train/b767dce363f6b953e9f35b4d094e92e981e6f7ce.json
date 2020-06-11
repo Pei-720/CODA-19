@@ -1,0 +1,75 @@
+{
+  "paper_id": "b767dce363f6b953e9f35b4d094e92e981e6f7ce",
+  "metadata": {
+    "title": "Fever detection from free-text clinical records for biosurveillance",
+    "coda_data_split": "train",
+    "coda_paper_id": 9459,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Automatic detection of cases of febrile illness may have potential for early detection of outbreaks of infectious disease either by identification of anomalous numbers of febrile illness or in concert with other information in diagnosing specific syndromes, such as febrile respiratory syndrome. At most institutions, febrile information is contained only in free-text clinical records. We compared the sensitivity and specificity of three fever detection algorithms for detecting fever from free-text. Keyword CC and CoCo classified patients based on triage chief complaints; Keyword HP classified patients based on dictated emergency department reports. Keyword HP was the most sensitive (sensitivity 0.98, specificity 0.89), and Keyword CC was the most specific (sensitivity 0.61, specificity 1.0). Because chief complaints are available sooner than emergency department reports, we suggest a combined application that classifies patients based on their chief complaint followed by classification based on their emergency department report, once the report becomes available.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Automatic detection of cases of febrile illness may have potential for early detection of outbreaks of infectious disease either by identification of anomalous numbers of febrile illness or in concert with other information in diagnosing specific syndromes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as febrile respiratory syndrome .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "At most institutions , febrile information is contained only in free-text clinical records .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We compared the sensitivity and specificity of three fever detection algorithms for detecting fever from free-text .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Keyword CC and CoCo classified patients based on triage chief complaints ; Keyword HP classified patients based on dictated emergency department reports .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Keyword HP was the most sensitive ( sensitivity 0.98 , specificity 0.89 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and Keyword CC was the most specific ( sensitivity 0.61 , specificity 1.0 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Because chief complaints are available sooner than emergency department reports ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we suggest a combined application that classifies patients based on their chief complaint followed by classification based on their emergency department report ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "once the report becomes available .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "10",
+    "token_num": "167"
+  }
+}

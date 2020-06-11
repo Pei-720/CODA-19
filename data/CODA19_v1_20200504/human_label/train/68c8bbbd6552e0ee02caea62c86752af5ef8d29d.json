@@ -1,0 +1,65 @@
+{
+  "paper_id": "68c8bbbd6552e0ee02caea62c86752af5ef8d29d",
+  "metadata": {
+    "title": "A relative Lempel-Ziv complexity: Application to comparing biological sequences",
+    "coda_data_split": "train",
+    "coda_paper_id": 8450,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "One of the main tasks in biological sequence analysis is biological sequence comparison. Numerous efficient methods have been developed for sequence comparison. Traditional sequence comparison is based on sequence alignment. In this report, we propose a novel alignment-free method based on the relative Lempel-Ziv complexity to compare biological sequences. The vertebrate transferring genomes and the spike protein sequences are prepared and tested to evaluate the validity of the method. We use this method to build phylogenetic tree of two groups of the sequences. The result demonstrates that our method is powerful and efficient.",
+      "sentences": [
+        [
+          {
+            "segment_text": "One of the main tasks in biological sequence analysis is biological sequence comparison .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Numerous efficient methods have been developed for sequence comparison .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Traditional sequence comparison is based on sequence alignment .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this report , we propose a novel alignment-free method based on the relative Lempel-Ziv complexity to compare biological sequences .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The vertebrate transferring genomes and the spike protein sequences are prepared and tested to evaluate the validity of the method .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We use this method to build phylogenetic tree of two groups of the sequences .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The result demonstrates that our method is powerful and efficient .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "7",
+    "token_num": "101"
+  }
+}

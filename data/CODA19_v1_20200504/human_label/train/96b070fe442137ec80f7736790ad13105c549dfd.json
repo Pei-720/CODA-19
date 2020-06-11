@@ -1,0 +1,116 @@
+{
+  "paper_id": "96b070fe442137ec80f7736790ad13105c549dfd",
+  "metadata": {
+    "title": "A microbial detection array (MDA) for viral and bacterial detection",
+    "coda_data_split": "train",
+    "coda_paper_id": 4482,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Identifying the bacteria and viruses present in a complex sample is useful in disease diagnostics, product safety, environmental characterization, and research. Array-based methods have proven utility to detect in a single assay at a reasonable cost any microbe from the thousands that have been sequenced.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Identifying the bacteria and viruses present in a complex sample is useful in disease diagnostics ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "product safety , environmental characterization , and research .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Array-based methods have proven utility to detect in a single assay at a reasonable cost any microbe from the thousands that have been sequenced .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We designed a pan-Microbial Detection Array (MDA) to detect all known viruses (including phages), bacteria and plasmids and developed a novel statistical analysis method to identify mixtures of organisms from complex samples hybridized to the array. The array has broader coverage of bacterial and viral targets and is based on more recent sequence data and more probes per target than other microbial detection/discovery arrays in the literature. Family-specific probes were selected for all sequenced viral and bacterial complete genomes, segments, and plasmids. Probes were designed to tolerate some sequence variation to enable detection of divergent species with homology to sequenced organisms, and to have no significant matches to the human genome sequence.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We designed a pan-Microbial Detection Array ( MDA ) to detect all known viruses ( including phages ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "bacteria and plasmids and developed a novel statistical analysis method to identify mixtures of organisms from complex samples hybridized to the array .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The array has broader coverage of bacterial and viral targets and is based on more recent sequence data and more probes per target than other microbial detection/discovery arrays in the literature .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Family-specific probes were selected for all sequenced viral and bacterial complete genomes , segments , and plasmids .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Probes were designed to tolerate some sequence variation to enable detection of divergent species with homology to sequenced organisms ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and to have no significant matches to the human genome sequence .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results: In blinded testing on spiked samples with single or multiple viruses, the MDA was able to correctly identify species or strains. In clinical fecal, serum, and respiratory samples, the MDA was able to detect and characterize multiple viruses, phage, and bacteria in a sample to the family and species level, as confirmed by PCR.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results : In blinded testing on spiked samples with single or multiple viruses ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the MDA was able to correctly identify species or strains .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In clinical fecal , serum ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and respiratory samples , the MDA was able to detect and characterize multiple viruses ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "phage , and bacteria in a sample to the family and species level , as confirmed by PCR .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The MDA can be used to identify the suite of viruses and bacteria present in complex samples.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The MDA can be used to identify the suite of viruses and bacteria present in complex samples .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "9",
+    "segment_num": "15",
+    "token_num": "259"
+  }
+}

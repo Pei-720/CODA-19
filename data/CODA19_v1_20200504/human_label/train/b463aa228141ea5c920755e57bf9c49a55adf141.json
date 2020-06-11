@@ -1,0 +1,75 @@
+{
+  "paper_id": "b463aa228141ea5c920755e57bf9c49a55adf141",
+  "metadata": {
+    "title": "A Note on COVID-19 Diagnosis Number Prediction Model in China",
+    "coda_data_split": "train",
+    "coda_paper_id": 3451,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Importance: To predict the diagnosed COVID-19 patients and the trend of the epidemic in China. It may give the public some scientific information to ease the fear of the epidemic. Objective: In December 2019, pneumonia infected with the novel coronavirus burst in Wuhan, China. We aimed to use a mathematical model to predict number of diagnosed patients in future to ease anxiety on the emergent situation. Design: According to all diagnosis number from WHO website and combining with the transmission mode of infectious diseases, the mathematical model was fitted to predict future trend of outbreak. Setting: Our model was based on the epidemic situation in China, which could provide referential significance for disease prediction in other countries, and provide clues for prevention and intervention of relevant health authorities.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Importance : To predict the diagnosed COVID-19 patients and the trend of the epidemic in China .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It may give the public some scientific information to ease the fear of the epidemic .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Objective : In December 2019 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "pneumonia infected with the novel coronavirus burst in Wuhan , China .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We aimed to use a mathematical model to predict number of diagnosed patients in future to ease anxiety on the emergent situation .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Design : According to all diagnosis number from WHO website and combining with the transmission mode of infectious diseases ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the mathematical model was fitted to predict future trend of outbreak .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Setting : Our model was based on the epidemic situation in China ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which could provide referential significance for disease prediction in other countries ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and provide clues for prevention and intervention of relevant health authorities .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "10",
+    "token_num": "143"
+  }
+}

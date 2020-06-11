@@ -1,0 +1,117 @@
+{
+  "paper_id": "3a3c6a9ff71461bd81862fc711d5605cfbbb975d",
+  "metadata": {
+    "title": "outbreaker2: a modular platform for outbreak reconstruction",
+    "coda_data_split": "train",
+    "coda_paper_id": 8513,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Reconstructing individual transmission events in an infectious disease outbreak can provide valuable information and help inform infection control policy. Recent years have seen considerable progress in the development of methodologies for reconstructing transmission chains using both epidemiological and genetic data. However, only a few of these methods have been implemented in software packages, and with little consideration for customisability and interoperability. Users are therefore limited to a small number of alternatives, incompatible tools with fixed functionality, or forced to develop their own algorithms at considerable personal effort. Results: Here we present outbreaker2, a flexible framework for outbreak reconstruction. This R package re-implements and extends the original model introduced with outbreaker, but most importantly also provides a modular platform allowing users to specify custom models within an optimised inferential framework. As a proof of concept, we implement the within-host evolutionary model introduced with TransPhylo, which is very distinct from the original genetic model in outbreaker, and demonstrate how even complex model results can be successfully included with minimal effort. Conclusions: outbreaker2 provides a valuable starting point for future outbreak reconstruction tools, and represents a unifying platform that promotes customisability and interoperability. Implemented in the R software, outbreaker2 joins a growing body of tools for outbreak analysis.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Reconstructing individual transmission events in an infectious disease outbreak can provide valuable information and help inform infection control policy .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recent years have seen considerable progress in the development of methodologies for reconstructing transmission chains using both epidemiological and genetic data .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , only a few of these methods have been implemented in software packages ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and with little consideration for customisability and interoperability .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Users are therefore limited to a small number of alternatives ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "incompatible tools with fixed functionality ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "or forced to develop their own algorithms at considerable personal effort .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results : Here we present outbreaker2 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a flexible framework for outbreak reconstruction .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This R package re-implements and extends the original model introduced with outbreaker ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but most importantly also provides a modular platform allowing users to specify custom models within an optimised inferential framework .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "As a proof of concept ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we implement the within-host evolutionary model introduced with TransPhylo ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which is very distinct from the original genetic model in outbreaker ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and demonstrate how even complex model results can be successfully included with minimal effort .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Conclusions : outbreaker2 provides a valuable starting point for future outbreak reconstruction tools ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and represents a unifying platform that promotes customisability and interoperability .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Implemented in the R software ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "outbreaker2 joins a growing body of tools for outbreak analysis .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "9",
+    "segment_num": "19",
+    "token_num": "229"
+  }
+}

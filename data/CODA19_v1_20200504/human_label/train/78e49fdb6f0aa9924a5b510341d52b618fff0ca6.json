@@ -1,0 +1,121 @@
+{
+  "paper_id": "78e49fdb6f0aa9924a5b510341d52b618fff0ca6",
+  "metadata": {
+    "title": "A Multiscale and Comparative Model for Receptor Binding of 2019 Novel Coronavirus and the Implication of its Life Cycle in Host Cells",
+    "coda_data_split": "train",
+    "coda_paper_id": 9863,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The respiratory syndrome caused by a new type of coronavirus has been emerging from 2 China and caused more than 1000 death globally since December 2019. This new virus, 3 called 2019 novel coronavirus (2019-nCoV) uses the same receptor called Angiotensin-4 converting enzyme 2 (ACE2) to attack humans as the coronavirus that caused the severe 5 acute respiratory syndrome (SARS) seventeen years ago. Both viruses recognize ACE2 6 through the spike proteins (S-protein) on their surfaces. It was found that the S-protein 7 from the SARS coronavirus (SARS-CoV) bind stronger to ACE2 than 2019-nCoV. 8 However, function of a bio-system is often under kinetic, rather than thermodynamic, 9 control. To address this issue, we constructed a structural model for complex formed 10 between ACE2 and the S-protein from 2019-nCoV, so that the rate of their association 11 can be estimated and compared with the binding of S-protein from SARS-CoV by a 12 multiscale simulation method. Our simulation results suggest that the association of new 13 virus to the receptor is slower than SARS, which is consistent with the experimental data 14 obtained very recently. We further integrated this difference of association rate between 15 virus and receptor into a mathematical model which describes the life cycle of virus in 16 host cells and its interplay with the innate immune system. Interestingly, we found that 17 the slower association between virus and receptor can result in longer incubation period, 18 while still maintaining a relatively higher level of viral concentration in human body. Our 19 computational study therefore provides, from the molecular level, one possible 20 explanation that the new disease by far spread much faster than SARS. 21 22 23 24 25 26 27 author/funder. All rights reserved. No reuse allowed without permission.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The respiratory syndrome caused by a new type of coronavirus has been emerging from 2 China and caused more than 1000 death globally since December 2019 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This new virus , 3 called 2019 novel coronavirus ( 2019-nCoV ) uses the same receptor called Angiotensin-4 converting enzyme 2 ( ACE2 ) to attack humans as the coronavirus that caused the severe 5 acute respiratory syndrome ( SARS ) seventeen years ago .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Both viruses recognize ACE2 6 through the spike proteins ( S-protein ) on their surfaces .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It was found that the S-protein 7 from the SARS coronavirus ( SARS-CoV ) bind stronger to ACE2 than 2019-nCoV .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "8 However , function of a bio-system is often under kinetic ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "rather than thermodynamic , 9 control .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To address this issue , we constructed a structural model for complex formed 10 between ACE2 and the S-protein from 2019-nCoV ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "so that the rate of their association 11 can be estimated and compared with the binding of S-protein from SARS-CoV by a 12 multiscale simulation method .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our simulation results suggest that the association of new 13 virus to the receptor is slower than SARS ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which is consistent with the experimental data 14 obtained very recently .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We further integrated this difference of association rate between 15 virus and receptor into a mathematical model which describes the life cycle of virus in 16 host cells and its interplay with the innate immune system .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Interestingly , we found that 17 the slower association between virus and receptor can result in longer incubation period ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "18 while still maintaining a relatively higher level of viral concentration in human body .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our 19 computational study therefore provides ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "from the molecular level , one possible 20 explanation that the new disease by far spread much faster than SARS .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "21 22 23 24 25 26 27 author/funder .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "All rights reserved .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "No reuse allowed without permission .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "13",
+    "segment_num": "18",
+    "token_num": "327"
+  }
+}

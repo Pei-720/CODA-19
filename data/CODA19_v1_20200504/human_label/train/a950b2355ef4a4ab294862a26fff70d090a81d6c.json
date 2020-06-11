@@ -1,0 +1,73 @@
+{
+  "paper_id": "a950b2355ef4a4ab294862a26fff70d090a81d6c",
+  "metadata": {
+    "title": "Structural bioinformatics SKEMPI 2.0: an updated benchmark of changes in protein-protein binding energy, kinetics and thermodynamics upon mutation",
+    "coda_data_split": "train",
+    "coda_paper_id": 10873,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Motivation: Understanding the relationship between the sequence, structure, binding energy, binding kinetics and binding thermodynamics of protein-protein interactions is crucial to understanding cellular signaling, the assembly and regulation of molecular complexes, the mechanisms through which mutations lead to disease, and protein engineering. Results: We present SKEMPI 2.0, a major update to our database of binding free energy changes upon mutation for structurally resolved protein-protein interactions. This version now contains manually curated binding data for 7085 mutations, an increase of 133%, including changes in kinetics for 1844 mutations, enthalpy and entropy changes for 443 mutations, and 440 mutations, which abolish detectable binding.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Motivation : Understanding the relationship between the sequence ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "structure , binding energy , binding kinetics and binding thermodynamics of protein-protein interactions is crucial to understanding cellular signaling ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the assembly and regulation of molecular complexes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the mechanisms through which mutations lead to disease , and protein engineering .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results : We present SKEMPI 2.0 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a major update to our database of binding free energy changes upon mutation for structurally resolved protein-protein interactions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This version now contains manually curated binding data for 7085 mutations ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "an increase of 133 % ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including changes in kinetics for 1844 mutations ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "enthalpy and entropy changes for 443 mutations ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and 440 mutations , which abolish detectable binding .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "3",
+    "segment_num": "11",
+    "token_num": "119"
+  }
+}

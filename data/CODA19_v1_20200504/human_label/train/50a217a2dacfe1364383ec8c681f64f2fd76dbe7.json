@@ -1,0 +1,197 @@
+{
+  "paper_id": "50a217a2dacfe1364383ec8c681f64f2fd76dbe7",
+  "metadata": {
+    "title": "Demographic science aids in understanding the spread and fatality rates of COVID-19",
+    "coda_data_split": "train",
+    "coda_paper_id": 8136,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Governments around the world must rapidly mobilize and make difficult policy decisions to mitigate the COVID-19 pandemic. Because deaths have been concentrated at older ages, we highlight the important role of demography, particularly how the age structure of a population may help explain differences in fatality rates across countries and how transmission unfolds. We examine the role of age structure in deaths thus far in Italy and South Korea and illustrate how the pandemic could unfold in populations with similar population sizes but different age structures, showing a dramatically higher burden of mortality in countries with older versus younger populations. This powerful interaction of demography and current age-specific mortality for COVID-19 suggests that social distancing and other policies to slow transmission should consider both the age composition of local and national contexts as well as the social connectedness of older and younger generations. We also call for countries to provide case and fatality data disaggregated by age and sex to improve real-time targeted nowcasting.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Governments around the world must rapidly mobilize and make difficult policy decisions to mitigate the COVID-19 pandemic .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Because deaths have been concentrated at older ages ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we highlight the important role of demography ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "particularly how the age structure of a population may help explain differences in fatality rates across countries and how transmission unfolds .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We examine the role of age structure in deaths thus far in Italy and South Korea and illustrate how the pandemic could unfold in populations with similar population sizes but different age structures ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "showing a dramatically higher burden of mortality in countries with older versus younger populations .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This powerful interaction of demography and current age-specific mortality for COVID-19 suggests that social distancing and other policies to slow transmission should consider both the age composition of local and national contexts as well as the social connectedness of older and younger generations .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also call for countries to provide case and fatality data disaggregated by age and sex to improve real-time targeted nowcasting .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Governments are rapidly mobilizing to minimize transmission of COVID-19 through social distancing and travel restrictions to reduce fatalities and the outstripping of healthcare capacity. It is becoming clear that the pandemic\u0027s progression and impact may be strongly related to the demographic composition of the population, specifically population age structure. Demographic science can provide new insights into how the pandemic may unfold and the intensity and type of measures needed to slow it down.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Governments are rapidly mobilizing to minimize transmission of COVID-19 through social distancing and travel restrictions to reduce fatalities and the outstripping of healthcare capacity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is becoming clear that the pandemic \u0027s progression and impact may be strongly related to the demographic composition of the population , specifically population age structure .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Demographic science can provide new insights into how the pandemic may unfold and the intensity and type of measures needed to slow it down .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Currently, COVID-19 mortality risk is highly concentrated at older ages, particularly those aged 80+. In China, case-fatality rate (CFR) estimates range from 0.4% (40-49 years), jumping to 14.8% (80+ years).(1) This is consistent with the data from Italy as of March 16, where the reported CFR is 11.8% for those 70-79, 18.8% for 80-89, and 21.6% for those \u003e90. Thus far in Italy, only 1.5% of deaths have occurred in those under aged 60.(2) As testing becomes more widespread, these case fatality rates may come down due to an increase in the true denominator. Nonetheless, in South Korea where testing was broader and the health system not overtaxed, the current CFR for those 80+ is still an alarming 9.26%. (7) The Importance of Age Structure Population age structure may explain the remarkable variation in fatalities across countries and why countries such as Italy are especially vulnerable. The deluge of critical and fatal COVID-19 cases in Italy was unexpected given the health and wealth of the affected region. Italy is one of the oldest populations in the world with 23.3% its population over age 65, compared to 12% in China (3). Italy is also a country characterized by extensive intergenerational contacts which are supported by a high degree of residential proximity between adult children and their parents (4). Even when inter-generational families do not live together, daily contacts among non-co-resident parent-child pairs are frequent. Many Italians also often prefer to live close to their extended family and commute to work daily.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Currently , COVID-19 mortality risk is highly concentrated at older ages ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "particularly those aged 80 + .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In China , case-fatality rate ( CFR ) estimates range from 0.4 % ( 40-49 years ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "jumping to 14.8 % ( 80 + years ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "( 1 ) This is consistent with the data from Italy as of March 16 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "where the reported CFR is 11.8 % for those 70-79 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "18.8 % for 80-89 , and 21.6 % for those \u003e 90 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus far in Italy , only 1.5 % of deaths have occurred in those under aged 60 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "( 2 ) As testing becomes more widespread ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "these case fatality rates may come down due to an increase in the true denominator .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Nonetheless , in South Korea where testing was broader and the health system not overtaxed ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the current CFR for those 80 + is still an alarming 9.26 % .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "( 7 ) The Importance of Age Structure Population age structure may explain the remarkable variation in fatalities across countries and why countries such as Italy are especially vulnerable .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The deluge of critical and fatal COVID-19 cases in Italy was unexpected given the health and wealth of the affected region .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Italy is one of the oldest populations in the world with 23.3 % its population over age 65 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "compared to 12 % in China ( 3 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Italy is also a country characterized by extensive intergenerational contacts which are supported by a high degree of residential proximity between adult children and their parents ( 4 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Even when inter-generational families do not live together ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "daily contacts among non-co-resident parent-child pairs are frequent .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Many Italians also often prefer to live close to their extended family and commute to work daily .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "20",
+    "segment_num": "31",
+    "token_num": "556"
+  }
+}

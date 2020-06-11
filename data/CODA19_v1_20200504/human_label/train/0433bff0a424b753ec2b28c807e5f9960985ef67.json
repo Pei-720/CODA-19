@@ -1,0 +1,73 @@
+{
+  "paper_id": "0433bff0a424b753ec2b28c807e5f9960985ef67",
+  "metadata": {
+    "title": "Alignment-Free Analyses of Nucleic Acid Sequences Using Graphical Representation (with Special Reference to Pandemic Bird Flu and Swine Flu)",
+    "coda_data_split": "train",
+    "coda_paper_id": 7147,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The exponential growth in database of bio-molecular sequences have spawned many approaches towards storage, retrieval, classification and analyses requirements. Alignment-free techniques such as graphical representations and numerical characterisation (GRANCH) methods have enabled some detailed analyses of large sequences and found a number of different applications in the eukaryotic and prokaryotic domain. In particular, recalling the history of pandemic influenza in brief, we have followed the progress of viral infections such as bird flu of 1997 onwards and determined that the virus can spread conserved over space and time, that influenza virus can undergo fairly conspicuous recombination-like events in segmented genes, that certain segments of the neuraminidase and hemagglutinin surface proteins remain conserved and can be targeted for peptide vaccines. We recount in some detail a few of the representative GRANCH techniques to provide a glimpse of how these methods are used in formulating quantitative sequence descriptors to analyse DNA, RNA and protein sequences to derive meaningful results. Finally, we survey the surveillance techniques with a special reference to how the GRANCH techniques can be used for the purpose and recount the forecasts made of possible metamorphosis of pandemic bird flu to pandemic human infecting agents.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The exponential growth in database of bio-molecular sequences have spawned many approaches towards storage ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "retrieval , classification and analyses requirements .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Alignment-free techniques such as graphical representations and numerical characterisation ( GRANCH ) methods have enabled some detailed analyses of large sequences and found a number of different applications in the eukaryotic and prokaryotic domain .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In particular , recalling the history of pandemic influenza in brief ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we have followed the progress of viral infections such as bird flu of 1997 onwards and determined that the virus can spread conserved over space and time ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "that influenza virus can undergo fairly conspicuous recombination-like events in segmented genes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "that certain segments of the neuraminidase and hemagglutinin surface proteins remain conserved and can be targeted for peptide vaccines .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We recount in some detail a few of the representative GRANCH techniques to provide a glimpse of how these methods are used in formulating quantitative sequence descriptors to analyse DNA ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "RNA and protein sequences to derive meaningful results .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , we survey the surveillance techniques with a special reference to how the GRANCH techniques can be used for the purpose and recount the forecasts made of possible metamorphosis of pandemic bird flu to pandemic human infecting agents .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "10",
+    "token_num": "210"
+  }
+}

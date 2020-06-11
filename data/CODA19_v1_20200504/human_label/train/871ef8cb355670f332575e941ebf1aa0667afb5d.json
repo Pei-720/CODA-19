@@ -1,0 +1,116 @@
+{
+  "paper_id": "871ef8cb355670f332575e941ebf1aa0667afb5d",
+  "metadata": {
+    "title": "Assistant Professor of Internal Medicine, Pulmonary \u0026 Critical Care Medicine, 3A23 300 NIB, SPC 5419, 300 North Ingalls",
+    "coda_data_split": "train",
+    "coda_paper_id": 7940,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Purpose-Hospital-acquired infections with highly resistant organisms are an important problem among critically ill patients. Control of these organisms has largely focused within individual hospitals. We examine the extent to which transfers of critically ill patients could be a vector for wide spread of highly resistant organisms, and compare the efficiency of different approaches to targeting infection control resources.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Purpose-Hospital-acquired infections with highly resistant organisms are an important problem among critically ill patients .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Control of these organisms has largely focused within individual hospitals .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We examine the extent to which transfers of critically ill patients could be a vector for wide spread of highly resistant organisms ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and compare the efficiency of different approaches to targeting infection control resources .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "analyzed the network of interhospital transfers of intensive care unit patients in 2005 U.S. Medicare data and 2004-2006 Pennsylvania all-payer data. We simulated spread of highly resistant hospital-acquired infections by randomly choosing a single hospital to develop a highly resistant organism and following spread of infection or colonization throughout the network under varying strategies of infection control and varying levels of infectivity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "analyzed the network of interhospital transfers of intensive care unit patients in 2005 U.S. Medicare data and 2004-2006 Pennsylvania all-payer data .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We simulated spread of highly resistant hospital-acquired infections by randomly choosing a single hospital to develop a highly resistant organism and following spread of infection or colonization throughout the network under varying strategies of infection control and varying levels of infectivity .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results-Critical care transfers could spread a highly resistant organism between any two U.S. hospitals in a median of three years. Hospitals varied substantially in their importance to limiting potential spread. Targeting resources to a small subset of hospitals based on their position in the transfer network was 16 times more efficient than distributing infection control resources uniformly. Within any set of targeted hospitals, the best strategy for infection control heavily concentrated resources at a few particularly important hospitals, regardless of level of infectivity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results-Critical care transfers could spread a highly resistant organism between any two U.S. hospitals in a median of three years .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hospitals varied substantially in their importance to limiting potential spread .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Targeting resources to a small subset of hospitals based on their position in the transfer network was 16 times more efficient than distributing infection control resources uniformly .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Within any set of targeted hospitals ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the best strategy for infection control heavily concentrated resources at a few particularly important hospitals ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "regardless of level of infectivity .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Conclusions-Critical care transfers provide a plausible vector for wide-spread dissemination of highly resistant hospital-acquired microorganisms. Infection control efforts can be made more efficient by selectively targeting hospitals most important for transmission.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Conclusions-Critical care transfers provide a plausible vector for wide-spread dissemination of highly resistant hospital-acquired microorganisms .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Infection control efforts can be made more efficient by selectively targeting hospitals most important for transmission .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "11",
+    "segment_num": "14",
+    "token_num": "248"
+  }
+}

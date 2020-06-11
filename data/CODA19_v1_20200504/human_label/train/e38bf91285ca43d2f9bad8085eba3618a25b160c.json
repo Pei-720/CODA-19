@@ -1,0 +1,207 @@
+{
+  "paper_id": "e38bf91285ca43d2f9bad8085eba3618a25b160c",
+  "metadata": {
+    "title": "ER Stress, UPR and Virus Infections in Plants",
+    "coda_data_split": "train",
+    "coda_paper_id": 2103,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The endoplasmic reticulum (ER) endomembrane is a central site for protein synthesis. Perturbation of ER homeostasis can result in an accumulation of unfolded proteins within the ER lumen, causing ER stress and the unfolded protein response (UPR). In humans, ER stress and UPR are closely associated with a vast number of diseases, including viral diseases. In plants, two arms that govern the UPR signaling network have been described: one that contains two ER membrane-associated transcription factors (bZIP17 and bZIP28) and the other that encompasses a dual protein kinase (RNA-splicing factor IRE1) and its target RNA (bZIP60). Although early studies mainly focus on the essential roles of the UPR in abiotic stresses, the significance of UPR in plant diseases caused by virus infections has recently drawn much attention. This chapter summarizes the latest scenario of ER stress and UPR in virus-infected plant cells, highlights the emerging roles of the IRE1 pathway in virus infections, and outlines exciting future directions to spark more research interest in the UPR field in plants. Fig. 7.1 The UPR branches in eukaryotes. The PERK arm is identified only in animals. On ER stress induced by abiotic or biotic cues (such as virus infection), the PERK kinase oligomerizes in the ER membrane and is activated via trans-autophosphorylation. The activated PERK phosphorylates initiation factor 2 alpha (eIF2α), which inhibits the activities of eIF2B and the eIF2 complex. This accounts for all of the important consequences of PERK activity, such as translation inhibition of most mRNAs, which reduces protein synthesis and lowers ER loading. However, some mRNAs such as ATF4 gains a selective advantage for translation via phosphorylated eIF2α. ATF4 in turn contributes to the transcriptional activation of CHOP, XBP1, GADD34, and other genes involved in ROS signaling and apoptosis. The IRE1 arm is conserved in eukaryotes. IRE1 unconventionally splices the bZIP transcription factors XBP1, bZIP60 and HAC1 mRNA in mammals, plants, and yeast, respectively. The spliced bZIP transcription factors enter into the nucleus to regulate UPR, ERAD and autophagy target genes. In mammals, IRE1 arm also activates kinases such as JNK to initiate autophagy and apoptosis. ATF6 in animals and bZIP17/bZIP28 in plants reside in the ER membrane in unstressed cells. Upon ER stress, they are relocated from the ER to the Golgi apparatus, where they are subject to cleavage twice, first by the lumenal S1P and then the intra-membrane S2P, to release their cytosolic transcription factor domains. Subsequently, the transcription factor domains then enter into the nucleus and activate a subset of UPR target genes 7 ER Stress, UPR and Virus Infections in Plants 175",
+      "sentences": [
+        [
+          {
+            "segment_text": "The endoplasmic reticulum ( ER ) endomembrane is a central site for protein synthesis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Perturbation of ER homeostasis can result in an accumulation of unfolded proteins within the ER lumen ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "causing ER stress and the unfolded protein response ( UPR ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In humans , ER stress and UPR are closely associated with a vast number of diseases , including viral diseases .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In plants , two arms that govern the UPR signaling network have been described : one that contains two ER membrane-associated transcription factors ( bZIP17 and bZIP28 ) and the other that encompasses a dual protein kinase ( RNA-splicing factor IRE1 ) and its target RNA ( bZIP60 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although early studies mainly focus on the essential roles of the UPR in abiotic stresses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the significance of UPR in plant diseases caused by virus infections has recently drawn much attention .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This chapter summarizes the latest scenario of ER stress and UPR in virus-infected plant cells ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "highlights the emerging roles of the IRE1 pathway in virus infections ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and outlines exciting future directions to spark more research interest in the UPR field in plants .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Fig. 7.1 The UPR branches in eukaryotes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The PERK arm is identified only in animals .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "On ER stress induced by abiotic or biotic cues ( such as virus infection ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the PERK kinase oligomerizes in the ER membrane and is activated via trans-autophosphorylation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The activated PERK phosphorylates initiation factor 2 alpha ( eIF2α ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which inhibits the activities of eIF2B and the eIF2 complex .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This accounts for all of the important consequences of PERK activity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as translation inhibition of most mRNAs ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which reduces protein synthesis and lowers ER loading .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , some mRNAs such as ATF4 gains a selective advantage for translation via phosphorylated eIF2α .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "ATF4 in turn contributes to the transcriptional activation of CHOP ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "XBP1 , GADD34 , and other genes involved in ROS signaling and apoptosis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The IRE1 arm is conserved in eukaryotes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "IRE1 unconventionally splices the bZIP transcription factors XBP1 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "bZIP60 and HAC1 mRNA in mammals ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "plants , and yeast , respectively .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The spliced bZIP transcription factors enter into the nucleus to regulate UPR ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "ERAD and autophagy target genes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In mammals , IRE1 arm also activates kinases such as JNK to initiate autophagy and apoptosis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "ATF6 in animals and bZIP17/bZIP28 in plants reside in the ER membrane in unstressed cells .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Upon ER stress , they are relocated from the ER to the Golgi apparatus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "where they are subject to cleavage twice ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "first by the lumenal S1P and then the intra-membrane S2P ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "to release their cytosolic transcription factor domains .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Subsequently , the transcription factor domains then enter into the nucleus and activate a subset of UPR target genes 7 ER Stress ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "UPR and Virus Infections in Plants 175",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "20",
+    "segment_num": "36",
+    "token_num": "489"
+  }
+}

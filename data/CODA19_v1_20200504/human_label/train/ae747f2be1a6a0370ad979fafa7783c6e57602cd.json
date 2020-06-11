@@ -1,0 +1,91 @@
+{
+  "paper_id": "ae747f2be1a6a0370ad979fafa7783c6e57602cd",
+  "metadata": {
+    "title": "Hidden Cluster Detection for Infectious Disease Control and Quarantine Management",
+    "coda_data_split": "train",
+    "coda_paper_id": 7587,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Infectious diseases that are caused by pathogenic microorganisms can spread fast and far, from one person to another, directly or indirectly. Prompt quarantining of the infected from the rest, coupled with contact tracing, has been an effective measure to encounter outbreaks. However, urban life and international travel make containment difficult. Furthermore, the length of incubation periods of some contagious diseases like SARS enable infected passengers to elude health screenings before first symptoms appear and thus to carry the disease further. Detecting and visualizing contact-tracing networks, and immediately identifying the routes of infection, are thus important. We apply information visualization and hidden cluster detection for finding cliques of potentially infected people during incubation. Preemptive control and early quarantine are hence possible by our method. Our prototype Infectious Disease Detection and Quarantine Management System (IDDQMS), which can identify and trace clusters of infection by mining patients\u0027 history, is introduced in this paper.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Infectious diseases that are caused by pathogenic microorganisms can spread fast and far ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "from one person to another , directly or indirectly .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Prompt quarantining of the infected from the rest ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "coupled with contact tracing , has been an effective measure to encounter outbreaks .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , urban life and international travel make containment difficult .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , the length of incubation periods of some contagious diseases like SARS enable infected passengers to elude health screenings before first symptoms appear and thus to carry the disease further .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Detecting and visualizing contact-tracing networks ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and immediately identifying the routes of infection , are thus important .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We apply information visualization and hidden cluster detection for finding cliques of potentially infected people during incubation .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Preemptive control and early quarantine are hence possible by our method .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our prototype Infectious Disease Detection and Quarantine Management System ( IDDQMS ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which can identify and trace clusters of infection by mining patients \u0027 history ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "is introduced in this paper .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "13",
+    "token_num": "171"
+  }
+}

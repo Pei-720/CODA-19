@@ -1,0 +1,141 @@
+{
+  "paper_id": "1a6a41e67873d1a65e6f0db812d65c578ae2fcc2",
+  "metadata": {
+    "title": "Protein Microarray Technology Types of protein microarrays",
+    "coda_data_split": "train",
+    "coda_paper_id": 5483,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Protein chips have emerged as a promising approach for a wide variety of applications including the identification of protein-protein interactions, protein-phospholipid interactions, small molecule targets, and substrates of proteins kinases. They can also be used for clinical diagnostics and monitoring disease states. This article reviews current methods in the generation and applications of protein microarrays.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Protein chips have emerged as a promising approach for a wide variety of applications including the identification of protein-protein interactions ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "protein-phospholipid interactions , small molecule targets ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and substrates of proteins kinases .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "They can also be used for clinical diagnostics and monitoring disease states .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This article reviews current methods in the generation and applications of protein microarrays .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Understanding complex cellular systems will require the identification and analysis of each of its components and determining how they function together and are regulated. A critical step in this process is to determine the biochemical activities of the proteins and how these activities themselves are controlled and modified by other proteins. Traditionally, the biochemical activities of proteins have been elucidated by studying single molecules, one experiment at a time. This process is not optimal, as it is slow and labor intensive.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Understanding complex cellular systems will require the identification and analysis of each of its components and determining how they function together and are regulated .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A critical step in this process is to determine the biochemical activities of the proteins and how these activities themselves are controlled and modified by other proteins .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Traditionally , the biochemical activities of proteins have been elucidated by studying single molecules ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "one experiment at a time .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This process is not optimal ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as it is slow and labor intensive .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In contrast to this traditional approach, high-throughput scientific methods have been developed in the last decade to optimize the study of large numbers of molecules, including DNA, proteins and metabolites. DNA microarrays in particular have proved valuable in genomic research (Schena et al., 1995) . They have been used to study gene expression patterns, to locate transcription factor binding sites, and to detect sequence mutations and deletions on a grand scale. However, DNA microarrays tell us only about the genes themselves and provide little information regarding the functions of the proteins they encode. More recently high throughput approaches have been developed for the study of proteins, including profiling of proteins using mass spectrometry (Gavin et al.,",
+      "sentences": [
+        [
+          {
+            "segment_text": "In contrast to this traditional approach ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "high-throughput scientific methods have been developed in the last decade to optimize the study of large numbers of molecules ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including DNA , proteins and metabolites .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "DNA microarrays in particular have proved valuable in genomic research ( Schena et al. , 1995 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "They have been used to study gene expression patterns ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "to locate transcription factor binding sites ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and to detect sequence mutations and deletions on a grand scale .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , DNA microarrays tell us only about the genes themselves and provide little information regarding the functions of the proteins they encode .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "More recently high throughput approaches have been developed for the study of proteins ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including profiling of proteins using mass spectrometry ( Gavin et al. ,",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "12",
+    "segment_num": "21",
+    "token_num": "280"
+  }
+}

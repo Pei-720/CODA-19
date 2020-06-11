@@ -1,0 +1,101 @@
+{
+  "paper_id": "9b9019dad669bbcc63a938fb187d1d520a8b857a",
+  "metadata": {
+    "title": "CIRD-F: Spread and Influence of COVID-19 in China",
+    "coda_data_split": "train",
+    "coda_paper_id": 8881,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The outbreak of coronavirus disease 2019 has been spreading rapidly in China and the Chinese government took a series of policies to control the epidemic. Therefore, it will be helpful to predict the tendency of the epidemic and analyze the influence of official policies. Existing models for prediction, such as cabin models and individual-based models, are either oversimplified or too meticulous, and the influence of the epidemic was studied much more than that of official policies. To predict the epidemic tendency, we consider four groups of people, and establish a propagation dynamics model. We also create a negative feedback to quantify the public vigilance to the epidemic. We evaluate the tendency of epidemic in Hubei and China except Hubei separately to predict the situation of the whole country. Experiments show that the epidemic will terminate around 17 March 2020 and the final number of cumulative infections will be about 78 191 (prediction interval, 74 872 to 82 474). By changing the parameters of the model accordingly, we demonstrate the control effect of the policies of the government on the epidemic situation, which can reduce about 68% possible infections. At the same time, we use the capital asset pricing model with dummy variable to evaluate the effects of the epidemic and official policies on the revenue of multiple industries.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The outbreak of coronavirus disease 2019 has been spreading rapidly in China and the Chinese government took a series of policies to control the epidemic .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , it will be helpful to predict the tendency of the epidemic and analyze the influence of official policies .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Existing models for prediction , such as cabin models and individual-based models ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "are either oversimplified or too meticulous ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and the influence of the epidemic was studied much more than that of official policies .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To predict the epidemic tendency ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "we consider four groups of people ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and establish a propagation dynamics model .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also create a negative feedback to quantify the public vigilance to the epidemic .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We evaluate the tendency of epidemic in Hubei and China except Hubei separately to predict the situation of the whole country .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Experiments show that the epidemic will terminate around 17 March 2020 and the final number of cumulative infections will be about 78 191 ( prediction interval , 74 872 to 82 474 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "By changing the parameters of the model accordingly ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we demonstrate the control effect of the policies of the government on the epidemic situation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which can reduce about 68 % possible infections .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "At the same time , we use the capital asset pricing model with dummy variable to evaluate the effects of the epidemic and official policies on the revenue of multiple industries .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "9",
+    "segment_num": "15",
+    "token_num": "240"
+  }
+}

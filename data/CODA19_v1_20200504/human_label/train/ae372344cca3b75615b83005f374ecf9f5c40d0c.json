@@ -1,0 +1,131 @@
+{
+  "paper_id": "ae372344cca3b75615b83005f374ecf9f5c40d0c",
+  "metadata": {
+    "title": "Detection of mortality clusters associated with highly pathogenic avian influenza in poultry: a theoretical analysis",
+    "coda_data_split": "train",
+    "coda_paper_id": 7921,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Rapid detection of infectious disease outbreaks is often crucial for their effective control. One example is highly pathogenic avian influenza (HPAI ) such as H5N1 in commercial poultry flocks. There are no quantitative data, however, on how quickly the effects of HPAI infection in poultry flocks can be detected. Here, we study, using an individual-based mathematical model, time to detection in chicken flocks. Detection is triggered when mortality, food or water intake or egg production in layers pass recommended thresholds suggested from the experience of past HPAI outbreaks. We suggest a new threshold for caged flocks-the cage mortality detection threshold-as a more sensitive threshold than current ones. Time to detection is shown to depend nonlinearly on R 0 and is particularly sensitive for R 0 !10. It also depends logarithmically on flock size and number of birds per cage. We also examine how many false alarms occur in uninfected flocks when we vary detection thresholds owing to background mortality. The false alarm rate is shown to be sensitive to detection thresholds, dependent on flock size and background mortality and independent of the length of the production cycle. We suggest that current detection thresholds appear sufficient to rapidly detect the effects of a high R 0 HPAI strain such as H7N7 over a wide range of flock sizes. Time to detection of the effects of a low R 0 HPAI strain such as H5N1 can be significantly improved, particularly for large flocks, by lowering detection thresholds, and this can be accomplished without causing excessive false alarms in uninfected flocks. The results are discussed in terms of optimizing the design of disease surveillance programmes in general.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Rapid detection of infectious disease outbreaks is often crucial for their effective control .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "One example is highly pathogenic avian influenza ( HPAI ) such as H5N1 in commercial poultry flocks .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "There are no quantitative data ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "however , on how quickly the effects of HPAI infection in poultry flocks can be detected .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we study , using an individual-based mathematical model ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "time to detection in chicken flocks .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Detection is triggered when mortality ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "food or water intake or egg production in layers pass recommended thresholds suggested from the experience of past HPAI outbreaks .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We suggest a new threshold for caged flocks-the cage mortality detection threshold-as a more sensitive threshold than current ones .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Time to detection is shown to depend nonlinearly on R 0 and is particularly sensitive for R 0 !",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "10 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It also depends logarithmically on flock size and number of birds per cage .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also examine how many false alarms occur in uninfected flocks when we vary detection thresholds owing to background mortality .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The false alarm rate is shown to be sensitive to detection thresholds ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "dependent on flock size and background mortality and independent of the length of the production cycle .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We suggest that current detection thresholds appear sufficient to rapidly detect the effects of a high R 0 HPAI strain such as H7N7 over a wide range of flock sizes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Time to detection of the effects of a low R 0 HPAI strain such as H5N1 can be significantly improved ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "particularly for large flocks , by lowering detection thresholds ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and this can be accomplished without causing excessive false alarms in uninfected flocks .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results are discussed in terms of optimizing the design of disease surveillance programmes in general .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "14",
+    "segment_num": "20",
+    "token_num": "299"
+  }
+}

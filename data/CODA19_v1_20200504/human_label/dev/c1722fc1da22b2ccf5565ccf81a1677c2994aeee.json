@@ -1,0 +1,163 @@
+{
+  "paper_id": "c1722fc1da22b2ccf5565ccf81a1677c2994aeee",
+  "metadata": {
+    "title": "EGCG reverses human neutrophil elastase-induced migration in A549 cells by directly binding to HNE and by regulating α1-AT OPEN",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1411,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "In this study, we demonstrated a novel mechanism by which EGCG reverses the neutrophil elastase-induced migration of A549 cells. We found that neutrophil elastase directly triggered human adenocarcinoma A549 cell migration and that EGCG suppressed the elevation of tumor cell migration induced by neutrophil elastase. We observed that EGCG directly binds to neutrophil elastase and inhibits its enzymatic activity based on the CDOCKER algorithm, MD stimulation by GROMACS, SPR assay and elastase enzymatic activity assay. As the natural inhibitor of neutrophil elastase, α1-antitrypsin is synthesized in tumor cells. We further demonstrated that the expression of α1-antitrypsin was up-regulated after EGCG treatment in neutrophil elastasetreated A549 cells. We preliminarily discovered that the EGCG-mediated induction of α1-antitrypsin expression might be correlated with the regulatory effect of EGCG on the PI3K/Akt pathway. Overall, our results suggest that EGCG ameliorates the neutrophil elastase-induced migration of A549 cells. The mechanism underlying this effect may include two processes: EGCG directly binds to neutrophil elastase and inhibits its enzymatic activity; EGCG enhances the expression of α1-antitrypsin by regulating the PI3K/AKT pathway.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this study , we demonstrated a novel mechanism by which EGCG reverses the neutrophil elastase-induced migration of A549 cells .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We found that neutrophil elastase directly triggered human adenocarcinoma A549 cell migration and that EGCG suppressed the elevation of tumor cell migration induced by neutrophil elastase .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We observed that EGCG directly binds to neutrophil elastase and inhibits its enzymatic activity based on the CDOCKER algorithm ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "MD stimulation by GROMACS , SPR assay and elastase enzymatic activity assay .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "As the natural inhibitor of neutrophil elastase ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "α1-antitrypsin is synthesized in tumor cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We further demonstrated that the expression of α1-antitrypsin was up-regulated after EGCG treatment in neutrophil elastasetreated A549 cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We preliminarily discovered that the EGCG-mediated induction of α1-antitrypsin expression might be correlated with the regulatory effect of EGCG on the PI3K/Akt pathway .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Overall , our results suggest that EGCG ameliorates the neutrophil elastase-induced migration of A549 cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The mechanism underlying this effect may include two processes : EGCG directly binds to neutrophil elastase and inhibits its enzymatic activity ; EGCG enhances the expression of α1-antitrypsin by regulating the PI3K/AKT pathway .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Of the wide variety of cancer types, lung cancer is the first and the second leading cause of cancer death globally in males and females, respectively. The 5-year survival rate of lung cancer is only approximately 15% despite therapeutic advances in its diagnosis and treatment in recent decades 1 . The surrounding inflammation in the tumor microenvironment exerts many tumor-promoting effects that accelerate the proliferation, migration and survival of malignant cells and that promote angiogenesis and metastasis 2 . An improved understanding of the molecular mechanisms involved in tumor-associated inflammation may provide additional insight into the diagnosis of lung cancer and the development of drugs for its treatment.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Of the wide variety of cancer types ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "lung cancer is the first and the second leading cause of cancer death globally in males and females , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The 5-year survival rate of lung cancer is only approximately 15 % despite therapeutic advances in its diagnosis and treatment in recent decades 1 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The surrounding inflammation in the tumor microenvironment exerts many tumor-promoting effects that accelerate the proliferation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "migration and survival of malignant cells and that promote angiogenesis and metastasis 2 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "An improved understanding of the molecular mechanisms involved in tumor-associated inflammation may provide additional insight into the diagnosis of lung cancer and the development of drugs for its treatment .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "(− )-Epigallocatechin-3-gallate (EGCG), the most abundant and biologically active catechin, is well known to induce proliferation and apoptosis in many types of cancer, such as lung cancer 3 , pancreatic cancer 4 , and colon cancer 5-7 . Regarding its mechanisms of action, previous studies have shown that EGCG exerts its anti-tumor effects via the regulation of various protein kinases, including mitogen-activated protein kinase (MAPK) family members, especially Akt kinases 8 . EGCG regulates various major",
+      "sentences": [
+        [
+          {
+            "segment_text": "( − ) - Epigallocatechin-3-gallate ( EGCG ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the most abundant and biologically active catechin ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "is well known to induce proliferation and apoptosis in many types of cancer ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as lung cancer 3 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "pancreatic cancer 4 , and colon cancer 5-7 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Regarding its mechanisms of action ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "previous studies have shown that EGCG exerts its anti-tumor effects via the regulation of various protein kinases ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including mitogen-activated protein kinase ( MAPK ) family members , especially Akt kinases 8 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "EGCG regulates various major",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "15",
+    "segment_num": "25",
+    "token_num": "392"
+  }
+}

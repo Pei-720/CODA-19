@@ -1,0 +1,219 @@
+{
+  "paper_id": "59cf76e798b85f37841bc1fd7e181f9351144082",
+  "metadata": {
+    "title": "Chemical microarray: a new tool for drug screening and discovery NIH-PA Author Manuscript Chemical microarray with immobilization technology",
+    "coda_data_split": "train",
+    "coda_paper_id": 2287,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "HTS with microtiter plates has been the major tool used in the pharmaceutical industry to explore chemical diversity space and to identify active compounds and pharmacophores for specific biological targets. However, HTS faces a daunting challenge regarding the fast-growing numbers of drug targets arising from genomic and proteomic research, and large chemical libraries generated from high-throughput synthesis. There is an urgent need to find new ways to profile the activity of large numbers of chemicals against hundreds of biological targets in a fast, low-cost fashion. Chemical microarray can rise to this challenge because it has the capability of identifying and evaluating small molecules as potential therapeutic reagents. During the past few years, chemical microarray technology, with different surface chemistries and activation strategies, has generated many successes in the evaluation of chemical-protein interactions, enzyme activity inhibition, target identification, signal pathway elucidation and cell-based functional analysis. The success of chemical microarray technology will provide unprecedented possibilities and capabilities for parallel functional analysis of tremendous amounts of chemical compounds.",
+      "sentences": [
+        [
+          {
+            "segment_text": "HTS with microtiter plates has been the major tool used in the pharmaceutical industry to explore chemical diversity space and to identify active compounds and pharmacophores for specific biological targets .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , HTS faces a daunting challenge regarding the fast-growing numbers of drug targets arising from genomic and proteomic research ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and large chemical libraries generated from high-throughput synthesis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "There is an urgent need to find new ways to profile the activity of large numbers of chemicals against hundreds of biological targets in a fast , low-cost fashion .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Chemical microarray can rise to this challenge because it has the capability of identifying and evaluating small molecules as potential therapeutic reagents .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "During the past few years ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "chemical microarray technology , with different surface chemistries and activation strategies ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "has generated many successes in the evaluation of chemical-protein interactions ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "enzyme activity inhibition , target identification ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "signal pathway elucidation and cell-based functional analysis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The success of chemical microarray technology will provide unprecedented possibilities and capabilities for parallel functional analysis of tremendous amounts of chemical compounds .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The study of the interaction between chemical compounds and biological targets has dominated modern drug discovery research. Genomic and proteomic studies have indicated the potential existence of ~10,000 druggable targets; however, \u003c500 of these targets have corresponding FDA-approved drugs [1]. Therefore, finding drug candidates by screening large numbers of chemicals against the new targets in a quick and economical fashion has become one of the most challenging tasks for today\u0027s drug discovery process.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The study of the interaction between chemical compounds and biological targets has dominated modern drug discovery research .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Genomic and proteomic studies have indicated the potential existence of ~ 10,000 druggable targets ; however ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "\u003c 500 of these targets have corresponding FDA-approved drugs ( 1 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , finding drug candidates by screening large numbers of chemicals against the new targets in a quick and economical fashion has become one of the most challenging tasks for today \u0027s drug discovery process .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Over the past decade, HTS has become a powerful tool for the identification of active compounds and pharmacophores against specific biologicaltargets. At the same time, highthroughput synthesis of small molecules is also widely practiced to generate large numbers of chemicals in a short time period. As a result, different HTS methods have been introduced and widely utilized. To further increase the throughput and reduce the cost of chemicals and targets, the miniaturization of biological assays has been the trend in today\u0027s assay development and laboratory automation. The conventional microtiter-plate-based assays have moved away from the 96-well format to the 384-well system, or even the 1536-well (or more) platform, or microfluidic systems [2] . However, the cost associated with replacing old systems by highthroughput and high-precision automations is substantial.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Over the past decade , HTS has become a powerful tool for the identification of active compounds and pharmacophores against specific biologicaltargets .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "At the same time , highthroughput synthesis of small molecules is also widely practiced to generate large numbers of chemicals in a short time period .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As a result , different HTS methods have been introduced and widely utilized .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To further increase the throughput and reduce the cost of chemicals and targets ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the miniaturization of biological assays has been the trend in today \u0027s assay development and laboratory automation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The conventional microtiter-plate-based assays have moved away from the 96-well format to the 384-well system ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "or even the 1536-well ( or more ) platform ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "or microfluidic systems ( 2 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the cost associated with replacing old systems by highthroughput and high-precision automations is substantial .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The success of microarray technology in genomic and proteomic research has given new impetus to miniaturization, providing unprecedented possibilities and capabilities for parallel functional analyses of hundreds or even thousands of bioentities. Microarrays, such as DNA and protein microarrays, have played indispensable roles in genomic and proteomic research [3] [4] [5] [6] [7] . By contrast, the development of chemical microarrays, also called chemical compound microarrays or small-molecule microarrays, capable of evaluating a large number of chemical structures against hundreds of biological targets, has been a slow process [8] [9] [10] [11] [12] . One of the Corresponding author: Ma, H. (haiching@reactionbiology.com).",
+      "sentences": [
+        [
+          {
+            "segment_text": "The success of microarray technology in genomic and proteomic research has given new impetus to miniaturization ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "providing unprecedented possibilities and capabilities for parallel functional analyses of hundreds or even thousands of bioentities .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Microarrays , such as DNA and protein microarrays ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "have played indispensable roles in genomic and proteomic research ( 3 ) ( 4 ) ( 5 ) ( 6 ) ( 7 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "By contrast , the development of chemical microarrays ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "also called chemical compound microarrays or small-molecule microarrays ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "capable of evaluating a large number of chemical structures against hundreds of biological targets ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "has been a slow process ( 8 ) ( 9 ) ( 10 ) ( 11 ) ( 12 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "One of the Corresponding author : Ma , H. ( haiching@reactionbiology.com ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "NIH Public Access",
+      "sentences": [
+        [
+          {
+            "segment_text": "NIH Public Access",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "20",
+    "segment_num": "34",
+    "token_num": "548"
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "paper_id": "58b95b98f9016190301e31fa9809932a4d8169c2",
+  "metadata": {
+    "title": "Detection of Viral and Bacterial Pathogens in Hospitalized",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1647,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Acute respiratory infections (ARIs) cause large disease burden each year. The codetection of viral and bacterial pathogens is quite common; however, the significance for clinical severity remains controversial. We aimed to identify viruses and bacteria in hospitalized children with ARI and the impact of mixed detections.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Acute respiratory infections ( ARIs ) cause large disease burden each year .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The codetection of viral and bacterial pathogens is quite common ; however ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the significance for clinical severity remains controversial .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We aimed to identify viruses and bacteria in hospitalized children with ARI and the impact of mixed detections .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Hospitalized children with ARI aged 16 were recruited from 2009 to 2013 at the Children\u0027s . Nasopharyngeal aspirates (NPAs) were collected for detection of common respiratory viruses by reverse transcription polymerase chain reaction (RT-PCR) or PCR. Bacteria were isolated from NPAs by routine culture methods. Detection and codetection frequencies and clinical features and severity were compared.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Hospitalized children with ARI aged 16 were recruited from 2009 to 2013 at the Children \u0027s .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Nasopharyngeal aspirates ( NPAs ) were collected for detection of common respiratory viruses by reverse transcription polymerase chain reaction ( RT-PCR ) or PCR .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Bacteria were isolated from NPAs by routine culture methods .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Detection and codetection frequencies and clinical features and severity were compared .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Of the 3181 hospitalized children, 2375 (74.7%) were detected with !1 virus and 707 (22.2%) with !1 bacteria, 901 (28.3%) with !2 viruses, 57 (1.8%) with !2 bacteria, and 542 (17.0%) with both virus and bacteria. The most frequently detected were Streptococcus pneumoniae, respiratory syncytial virus, parainfluenza virus, and influenza virus. Clinical characteristics were similar among different pathogen infections for older group (!6 years old), with some significant difference for the younger. Cases with any codetection were more likely to present with fever; those with !2 virus detections had higher prevalence of cough; cases with virus and bacteria codetection were more likely to have cough and sputum. No significant difference in the risk of pneumonia, severe pneumonia, and intensive care unit admission were found for any codetection than monodetection.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Of the 3181 hospitalized children ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "2375 ( 74.7 % ) were detected with !",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "1 virus and 707 ( 22.2 % ) with !",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "1 bacteria , 901 ( 28.3 % ) with !",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "2 viruses , 57 ( 1.8 % ) with !",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "2 bacteria , and 542 ( 17.0 % ) with both virus and bacteria .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The most frequently detected were Streptococcus pneumoniae ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "respiratory syncytial virus , parainfluenza virus , and influenza virus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Clinical characteristics were similar among different pathogen infections for older group ( !",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "6 years old ) , with some significant difference for the younger .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Cases with any codetection were more likely to present with fever ; those with !",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "2 virus detections had higher prevalence of cough ; cases with virus and bacteria codetection were more likely to have cough and sputum .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "No significant difference in the risk of pneumonia ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "severe pneumonia , and intensive care unit admission were found for any codetection than monodetection .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "There was a high codetection rate of common respiratory pathogens among hospitalized pediatric ARI cases, with fever as a significant predictor. Cases with codetection showed no significant difference in severity than those with single pathogens. (Medicine 94(16):e742) Abbreviations: AdV \u003d adenovirus, ARI \u003d acute respiratory infection, BoV \u003d bocavirus, CoV \u003d coronavirus, ICU \u003d intensive care unit, IFVA \u003d influenza A virus, IFVB \u003d influenza B virus, MPV \u003d metapneumovirus, PIV \u003d parainfluenza virus, RSV \u003d respiratory syncytial virus, RV \u003d rhinovirus.",
+      "sentences": [
+        [
+          {
+            "segment_text": "There was a high codetection rate of common respiratory pathogens among hospitalized pediatric ARI cases ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with fever as a significant predictor .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Cases with codetection showed no significant difference in severity than those with single pathogens .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( Medicine 94 ( 16 ) : e742 ) Abbreviations : AdV \u003d adenovirus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "ARI \u003d acute respiratory infection ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "BoV \u003d bocavirus , CoV \u003d coronavirus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "ICU \u003d intensive care unit ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "IFVA \u003d influenza A virus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "IFVB \u003d influenza B virus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "MPV \u003d metapneumovirus , PIV \u003d parainfluenza virus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "RSV \u003d respiratory syncytial virus , RV \u003d rhinovirus .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "21",
+    "segment_num": "33",
+    "token_num": "390"
+  }
+}

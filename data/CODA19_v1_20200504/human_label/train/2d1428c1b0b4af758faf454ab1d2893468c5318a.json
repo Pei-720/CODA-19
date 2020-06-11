@@ -1,0 +1,71 @@
+{
+  "paper_id": "2d1428c1b0b4af758faf454ab1d2893468c5318a",
+  "metadata": {
+    "title": "vidence for Trans Splicing in Trypanosomes",
+    "coda_data_split": "train",
+    "coda_paper_id": 7643,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The 5\u0027 ends of trypanosome mRNAs consist of an identical sequence of 35 nucleotides. This \"mini-exon\" sequence is derived from the 5\u0027end of a 137 nucleotide RNA (medRNA). The remainder of each mRNA is derived from a protein-coding exon that is not linked to the mini-exon. We propose that medRNA is spliced in trans to de-novo-initiated transcripts of protein-coding genes. This frans splicing model predicts that the downstream portion of medRNA will be part of a branched structure and then be released as a free product (minRNA). We demonstrate that significant levels of minRNA exist in trypanosome RNA. Furthermore, minRNA can be released from high molecular weight RNA by a HeLa cell SlOO \"debranching\u0027lextract. Wa conclude that frans splicing is the physiological process by which mature mRNA molecules are synthesized in trypanosomes.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The 5 \u0027 ends of trypanosome mRNAs consist of an identical sequence of 35 nucleotides .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This `` mini-exon \u0027\u0027 sequence is derived from the 5 ` end of a 137 nucleotide RNA ( medRNA ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The remainder of each mRNA is derived from a protein-coding exon that is not linked to the mini-exon .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We propose that medRNA is spliced in trans to de-novo-initiated transcripts of protein-coding genes .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "This frans splicing model predicts that the downstream portion of medRNA will be part of a branched structure and then be released as a free product ( minRNA ) .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We demonstrate that significant levels of minRNA exist in trypanosome RNA .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , minRNA can be released from high molecular weight RNA by a HeLa cell SlOO `` debranching ` lextract .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Wa conclude that frans splicing is the physiological process by which mature mRNA molecules are synthesized in trypanosomes .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "8",
+    "token_num": "153"
+  }
+}

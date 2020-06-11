@@ -1,0 +1,126 @@
+{
+  "paper_id": "32272283047b962dd7b5e1f0dcd838e2511e9145",
+  "metadata": {
+    "title": "Searching the Tritryp Genomes for Drug Targets",
+    "coda_data_split": "train",
+    "coda_paper_id": 8998,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "T he recent publication of the complete genome sequences of Leishmania major, Trypanosoma brucei and Trypanosoma cruzi revealed that each genome contains 8300-12,000 protein-coding genes, of which -6500 are common to all three genomes, and ushers in a new, post-genomic, era for trypanosomatid drug discovery. This vast amount of new information makes possible more comprehensive and accurate target identification using several new computational approaches, including identification of metabolic \"choke-points\", searching the parasite proteomes for orthologues of known drug targets, and identification of parasite proteins likely to interact with known drugs and drug-like small molecules. In this chapter, we describe several databases (such as GENEDB, BRENDA, KEGG, METACYC, the THEM-PEUTIC TARGET DATABASE, and CHEMBaNK) and algorithms (including PATHOLOGIC, PATHWAY HUNTER TOOL, AND AUTODOCI0 which have been developed to facilitate the bioinformatic analyses underlying these approaches. While target identification is only the first step in the drug development pipeline, these new approaches give rise to renewed optimism for the discovery of new drugs to combat the devastating diseases caused by these parasites.",
+      "sentences": [
+        [
+          {
+            "segment_text": "T he recent publication of the complete genome sequences of Leishmania major ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Trypanosoma brucei and Trypanosoma cruzi revealed that each genome contains 8300-12,000 protein-coding genes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "of which -6500 are common to all three genomes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and ushers in a new ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "post-genomic , era for trypanosomatid drug discovery .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This vast amount of new information makes possible more comprehensive and accurate target identification using several new computational approaches ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including identification of metabolic `` choke-points \u0027\u0027 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "searching the parasite proteomes for orthologues of known drug targets ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and identification of parasite proteins likely to interact with known drugs and drug-like small molecules .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this chapter , we describe several databases ( such as GENEDB , BRENDA , KEGG , METACYC , the THEM-PEUTIC TARGET DATABASE , and CHEMBaNK ) and algorithms ( including PATHOLOGIC , PATHWAY HUNTER TOOL , AND AUTODOCI0 which have been developed to facilitate the bioinformatic analyses underlying these approaches .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "While target identification is only the first step in the drug development pipeline ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "these new approaches give rise to renewed optimism for the discovery of new drugs to combat the devastating diseases caused by these parasites .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Traditionally, drug discovery in the trypanosomatids (and other organisms) has proceeded from two different starting points: screening large numbers of existing compounds for activity against whole parasites or more focused screening of compounds for activity against defined molecular targets. Most existing anti-trypanosomatids drugs were developed using the former approach, although the latter has gained much attention in the last twenty years under the rubric of \"rational drug design\". Until recently, one of the major bottlenecks in anti-trypanosomatid drug development has been our ability to identify good targets, since only a very small percentage of the total number of trypanosomatid genes were known. That has now changed forever, with the recent (July, 2005) publication of the \"Tritryp\" (Trypanosoma brucei, Trypanosoma cruzi and Leishmania major) genome sequences. TM This vast amount of information now makes possible several new approaches for target identification and ushers in a post-genomic era for trypanosomatid drug discovery.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Traditionally , drug discovery in the trypanosomatids ( and other organisms ) has proceeded from two different starting points : screening large numbers of existing compounds for activity against whole parasites or more focused screening of compounds for activity against defined molecular targets .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Most existing anti-trypanosomatids drugs were developed using the former approach ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "although the latter has gained much attention in the last twenty years under the rubric of `` rational drug design \u0027\u0027 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Until recently , one of the major bottlenecks in anti-trypanosomatid drug development has been our ability to identify good targets ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "since only a very small percentage of the total number of trypanosomatid genes were known .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "That has now changed forever ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with the recent ( July , 2005 ) publication of the `` Tritryp \u0027\u0027 ( Trypanosoma brucei , Trypanosoma cruzi and Leishmania major ) genome sequences .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "TM This vast amount of information now makes possible several new approaches for target identification and ushers in a post-genomic era for trypanosomatid drug discovery .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "9",
+    "segment_num": "20",
+    "token_num": "369"
+  }
+}

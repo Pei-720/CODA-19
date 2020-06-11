@@ -1,0 +1,103 @@
+{
+  "paper_id": "493aa8aa2e9122620b1dcaf102ab62e643ad5632",
+  "metadata": {
+    "title": "Title: COVID-19 Progression Timeline and Effectiveness of Response-to-Spread Interventions across the United States",
+    "coda_data_split": "train",
+    "coda_paper_id": 10563,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Motivated by the rapid upsurge of COVID-19 cases in the United States beginning March 2020, we forecast the disease spread and assess the effectiveness of containment strategies by using an estalished network-driven epidemic dynamic model. Our model is initialized using the daily counts of active and confirmed COVID-19 cases across the US. Based on our model predictions for the March 14-16 timeframe, the national epidemic peak could be expected to arrive by early June, corresponding to a daily active count of ≈ 7% of the US population, if no containment plans are implemented. Epidemic peaks are expected to arrive in the states of Washington and New York by May 21 and 25, respectively. With a modest 25% reduction in COVID-19 transmissibility via community-level interventions, the epidemic progression could be delayed by up to 34 days. Wholesale interstate traffic restriction is ineffective in delaying the epidemic outbreak, but it does desynchronize the arrival of state-wise epidemic peaks, which could potentially alleviate the burden on limited available medical resources. In addition to forecasting the arrival timeline of the state-wise epidemic peaks, we attempt at informing the optimal timing necessary to enforce community-level interventions. Our findings underscore the pressing need for preparedness and timely interventions in states with a large fraction of the vulnerable uninsured and liquid-asset-poverty populations.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Motivated by the rapid upsurge of COVID-19 cases in the United States beginning March 2020 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we forecast the disease spread and assess the effectiveness of containment strategies by using an estalished network-driven epidemic dynamic model .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our model is initialized using the daily counts of active and confirmed COVID-19 cases across the US .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Based on our model predictions for the March 14-16 timeframe ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the national epidemic peak could be expected to arrive by early June ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "corresponding to a daily active count of ≈ 7 % of the US population ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "if no containment plans are implemented .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Epidemic peaks are expected to arrive in the states of Washington and New York by May 21 and 25 , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "With a modest 25 % reduction in COVID-19 transmissibility via community-level interventions ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the epidemic progression could be delayed by up to 34 days .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Wholesale interstate traffic restriction is ineffective in delaying the epidemic outbreak ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but it does desynchronize the arrival of state-wise epidemic peaks ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which could potentially alleviate the burden on limited available medical resources .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition to forecasting the arrival timeline of the state-wise epidemic peaks ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we attempt at informing the optimal timing necessary to enforce community-level interventions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our findings underscore the pressing need for preparedness and timely interventions in states with a large fraction of the vulnerable uninsured and liquid-asset-poverty populations .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "16",
+    "token_num": "234"
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "paper_id": "fb38bf1878de7abc24d8954d6851460d522cdeba",
+  "metadata": {
+    "title": "| 1041-1046 APPLIED",
+    "coda_data_split": "train",
+    "coda_paper_id": 3088,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Spatial heterogeneities and spatial separation of hosts are often seen as key factors when developing accurate predictive models of the spread of pathogens. The question we address in this paper is how coarse the resolution of the spatial data can be for a model to be a useful tool for informing control policies. We examine this problem using the specific case of foot-and-mouth disease spreading between farms using the formulation developed during the 2001 epidemic in the United Kingdom. We show that, if our model is carefully parameterized to match epidemic behavior, then using aggregate county-scale data from the United States is sufficient to closely determine optimal control measures (specifically ring culling). This result also holds when the approach is extended to theoretical distributions of farms where the spatial clustering can be manipulated to extremes. We have therefore shown that, although spatial structure can be critically important in allowing us to predict the emergent population-scale behavior from a knowledge of the individual-level dynamics, for this specific applied question, such structure is mostly subsumed in the parameterization allowing us to make policy predictions in the absence of high-quality spatial information. We believe that this approach will be of considerable benefit across a range of disciplines where data are only available at intermediate spatial scales.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Spatial heterogeneities and spatial separation of hosts are often seen as key factors when developing accurate predictive models of the spread of pathogens .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The question we address in this paper is how coarse the resolution of the spatial data can be for a model to be a useful tool for informing control policies .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We examine this problem using the specific case of foot-and-mouth disease spreading between farms using the formulation developed during the 2001 epidemic in the United Kingdom .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We show that , if our model is carefully parameterized to match epidemic behavior ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "then using aggregate county-scale data from the United States is sufficient to closely determine optimal control measures ( specifically ring culling ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This result also holds when the approach is extended to theoretical distributions of farms where the spatial clustering can be manipulated to extremes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We have therefore shown that ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "although spatial structure can be critically important in allowing us to predict the emergent population-scale behavior from a knowledge of the individual-level dynamics ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "for this specific applied question ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "such structure is mostly subsumed in the parameterization allowing us to make policy predictions in the absence of high-quality spatial information .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We believe that this approach will be of considerable benefit across a range of disciplines where data are only available at intermediate spatial scales .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "foot-and-mouth | modeling T he spatial distribution of organisms is viewed as critically important for determining population dynamics. Numerous examples from the epidemiological and ecological literature have shown that spatial structure has a profound impact on how population-level dynamics emerge from individual-level behavior (123-4). For infectious diseases in particular, where transmission generally occurs over relatively short distances, spatial structure (and in particular the spatial distribution of sessile hosts) plays three roles: hosts that are far from sources of infection are at very little risk, local transmission and depletion of susceptible hosts can dramatically reduce the speed of epidemic growth, and local control measures can be applied using spatial proximity as a method of targeting at-risk hosts. These three elements are present for any spatial distribution of hosts, but are generally amplified by clustering. The impact of spatial structure on the spread of infectious disease has been examined for humans (5), wildlife (6, 7), and livestock (8, 9), but the ability to make useful quantitative predictions relies on the availability of good quality spatial and epidemic data. In recent years, considerable research has focused on the spread of livestock infections due to the extreme vulnerability of the livestock industry, the potential economic costs, the variety of strategies that can be used as control measures, and the costs associated with such measures.",
+      "sentences": [
+        [
+          {
+            "segment_text": "foot-and-mouth | modeling T he spatial distribution of organisms is viewed as critically important for determining population dynamics .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Numerous examples from the epidemiological and ecological literature have shown that spatial structure has a profound impact on how population-level dynamics emerge from individual-level behavior ( 123-4 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "For infectious diseases in particular ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "where transmission generally occurs over relatively short distances ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "spatial structure ( and in particular the spatial distribution of sessile hosts ) plays three roles : hosts that are far from sources of infection are at very little risk ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "local transmission and depletion of susceptible hosts can dramatically reduce the speed of epidemic growth ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and local control measures can be applied using spatial proximity as a method of targeting at-risk hosts .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These three elements are present for any spatial distribution of hosts ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but are generally amplified by clustering .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The impact of spatial structure on the spread of infectious disease has been examined for humans ( 5 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "wildlife ( 6 , 7 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and livestock ( 8 , 9 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but the ability to make useful quantitative predictions relies on the availability of good quality spatial and epidemic data .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In recent years , considerable research has focused on the spread of livestock infections due to the extreme vulnerability of the livestock industry ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the potential economic costs , the variety of strategies that can be used as control measures ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and the costs associated with such measures .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The UK 2001 epidemic of foot-and-mouth disease (FMD) provides a prime example of what can be achieved when comprehensive spatial models, detailed host data, and detailed case data are brought together. This approach provided important insights and guidance during the 2001 epidemic (8, 9) and has been used ret-rospectively to investigate a range of alternative control strategies (1011-12). Whilst the location of livestock holdings in the United Kingdom is known, the same is not true for many other countries. In particular, in the United States, although the US Department of Agriculture holds an agricultural census every 5 years, most of the census data that reside in the public domain are aggregated to county-scale, preserving the anonymity of farmers but losing valuable spatial information. From the 2007 census, we find that the US\u0027s livestock industry is dominated by cattle, with 936,669 premises recorded as having cattle; 83,134 as having sheep; 75,442 as having pigs (or hogs); and 91,462 as having goats.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The UK 2001 epidemic of foot-and-mouth disease ( FMD ) provides a prime example of what can be achieved when comprehensive spatial models ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "detailed host data , and detailed case data are brought together .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This approach provided important insights and guidance during the 2001 epidemic ( 8 , 9 ) and has been used ret-rospectively to investigate a range of alternative control strategies ( 1011-12 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Whilst the location of livestock holdings in the United Kingdom is known ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the same is not true for many other countries .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In particular , in the United States ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "although the US Department of Agriculture holds an agricultural census every 5 years ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "most of the census data that reside in the public domain are aggregated to county-scale ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "preserving the anonymity of farmers but losing valuable spatial information .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "From the 2007 census , we find that the US \u0027s livestock industry is dominated by cattle ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with 936,669 premises recorded as having cattle ; 83,134 as having sheep ; 75,442 as having pigs ( or hogs ) ; and 91,462 as having goats .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In the event of an outbreak of FMD (or other livestock disease) in the United States, it is likely that predictions from mathematical models would be an integral part of policy making and would help advise regarding optimal control strategies to limit the size and duration of the outbreak. The likelihood of a particular farm being infected with FMD is based upon many factors, including the type and size of the holding in question, but the proximity to other infectious farms has been consistently demonstrated to be the main contributing factor (1314-15). It therefore seems vital to have complete information regarding the location and size of all farms in the region of an outbreak.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In the event of an outbreak of FMD ( or other livestock disease ) in the United States ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "it is likely that predictions from mathematical models would be an integral part of policy making and would help advise regarding optimal control strategies to limit the size and duration of the outbreak .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The likelihood of a particular farm being infected with FMD is based upon many factors ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including the type and size of the holding in question ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but the proximity to other infectious farms has been consistently demonstrated to be the main contributing factor ( 1314-15 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It therefore seems vital to have complete information regarding the location and size of all farms in the region of an outbreak .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Given that information is only available at the county-scale in the United States, we consider the impact of making the naive assumption that farms are distributed randomly within each county. This assumption still allows us to implement spatial models, but loses any clustering that is present in the distribution of farms. In particular, we consider how a model using a random distribution of farms would be parameterized to match the temporal profile of an observed epidemic and show that this approach has strong applied benefits even in the absence of fine-scale positional data.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Given that information is only available at the county-scale in the United States ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we consider the impact of making the naive assumption that farms are distributed randomly within each county .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This assumption still allows us to implement spatial models ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but loses any clustering that is present in the distribution of farms .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In particular , we consider how a model using a random distribution of farms would be parameterized to match the temporal profile of an observed epidemic and show that this approach has strong applied benefits even in the absence of fine-scale positional data .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The model used throughout this paper is an adaptation of the model developed by Keeling et al. (2001, 8) during the 2001 FMD epidemic and discussed in detail elsewhere (16). The rate at which an infectious farm i infects a susceptible farm j is given by",
+      "sentences": [
+        [
+          {
+            "segment_text": "The model used throughout this paper is an adaptation of the model developed by Keeling et al. ( 2001 , 8 ) during the 2001 FMD epidemic and discussed in detail elsewhere ( 16 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The rate at which an infectious farm i infects a susceptible farm j is given by",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "N s;i is the number of livestock species s recorded as being on farm i, S s and T s measure the species-specific susceptibility and trans-Author contributions: M.J.T. and M.J.K. designed research; M.J.T. and T.H. performed research; T.H., M.C.B., R.J.C., M.O., and J.L.E.A. contributed new reagents/analytic tools; M.J.T., T.H., G.S., and M.J.K. analyzed data; and M.J.T., T.H., G.S., and M.J.K. wrote the paper.",
+      "sentences": [
+        [
+          {
+            "segment_text": "N s ; i is the number of livestock species s recorded as being on farm i ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "S s and T s measure the species-specific susceptibility and trans-Author contributions : M.J.T. and M.J.K. designed research ; M.J.T. and T.H. performed research ; T.H. ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "M.C.B. , R.J.C. , M.O. ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "and J.L.E.A. contributed new reagents/analytic tools ; M.J.T. ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "T.H. , G.S. , and M.J.K. analyzed data ; and M.J.T. ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "T.H. , G.S. , and M.J.K. wrote the paper .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The authors declare no conflict of interest.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The authors declare no conflict of interest .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "8",
+    "sentence_num": "28",
+    "segment_num": "58",
+    "token_num": "1030"
+  }
+}

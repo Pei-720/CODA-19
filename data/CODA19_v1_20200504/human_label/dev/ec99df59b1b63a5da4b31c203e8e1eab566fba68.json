@@ -1,0 +1,342 @@
+{
+  "paper_id": "ec99df59b1b63a5da4b31c203e8e1eab566fba68",
+  "metadata": {
+    "title": "Mechanism of Fibronectin Binding to Human Trabecular Meshwork Exosomes and Its Modulation by Dexamethasone",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1412,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Exosomes are emerging as important mediators of cell-matrix interactions by means of specific adhesion proteins. Changes in the tissue-specific exosomal protein expression may underlie pathological conditions whereby extracellular matrix turnover and homeostasis is disrupted. Ocular hypertension due to extracellular matrix accumulation in the trabecular meshwork is a hallmark of glucocorticoid-induced glaucoma. In the trabecular meshwork, exosomal fibronectin mediates cell matrix interactions at cellular structures called \"invadosomes\". Trabecular meshwork cells use invadosomes to turn over their surrounding matrix and maintain passageways for flow of aqueous humor. In this study, we observed that human trabecular meshwork explants treated with dexamethasone released exosomes with significantly reduced amounts of fibronectin bound per exosome. Further, we found that exosome-fibronectin binding is heparan sulfate-dependent, consistent with our observation that trabecular meshwork exosomes are enriched in the heparin/heparan sulfate binding annexins A2 and A6. In this way, dexamethasone-treated explants released exosomes with a significant reduction in annexin A2 and A6 per exosome. Interestingly, we did not detect exosomal matrix metalloproteinases, but we identified abundant dipeptidyl peptidase 4, a serine protease whose activity was reduced on exosomes isolated from dexamethasone-treated explants. Together, our findings demonstrate mechanistically how corticosteroid-induced alterations in exosomal adhesion cargo and properties can account for the pathological matrix accumulation seen in many glaucoma patients. thought to be critically important in maintaining healthy IOP [3] . Further, aberrant accumulation of ECM is a characteristic of two major forms of glaucoma, primary open-angle glaucoma and corticosteroid-induced glaucoma [4, 5] . Currently there is no cure for glaucoma and the only effective therapy is lowering IOP [6] . Unfortunately, no clinically available IOP lowering drugs directly target the conventional drainage tissues or address the pathological ECM changes thought to impede drainage.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Exosomes are emerging as important mediators of cell-matrix interactions by means of specific adhesion proteins .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Changes in the tissue-specific exosomal protein expression may underlie pathological conditions whereby extracellular matrix turnover and homeostasis is disrupted .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Ocular hypertension due to extracellular matrix accumulation in the trabecular meshwork is a hallmark of glucocorticoid-induced glaucoma .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the trabecular meshwork , exosomal fibronectin mediates cell matrix interactions at cellular structures called `` invadosomes \u0027\u0027 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Trabecular meshwork cells use invadosomes to turn over their surrounding matrix and maintain passageways for flow of aqueous humor .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we observed that human trabecular meshwork explants treated with dexamethasone released exosomes with significantly reduced amounts of fibronectin bound per exosome .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Further , we found that exosome-fibronectin binding is heparan sulfate-dependent ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "consistent with our observation that trabecular meshwork exosomes are enriched in the heparin/heparan sulfate binding annexins A2 and A6 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this way , dexamethasone-treated explants released exosomes with a significant reduction in annexin A2 and A6 per exosome .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Interestingly , we did not detect exosomal matrix metalloproteinases ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but we identified abundant dipeptidyl peptidase 4 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a serine protease whose activity was reduced on exosomes isolated from dexamethasone-treated explants .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Together , our findings demonstrate mechanistically how corticosteroid-induced alterations in exosomal adhesion cargo and properties can account for the pathological matrix accumulation seen in many glaucoma patients .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "thought to be critically important in maintaining healthy IOP ( 3 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Further , aberrant accumulation of ECM is a characteristic of two major forms of glaucoma ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "primary open-angle glaucoma and corticosteroid-induced glaucoma ( 4 , 5 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Currently there is no cure for glaucoma and the only effective therapy is lowering IOP ( 6 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Unfortunately , no clinically available IOP lowering drugs directly target the conventional drainage tissues or address the pathological ECM changes thought to impede drainage .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Turnover of ECM in the TM is vigorous, with some protein half-lives being less than two days [7] . TM cells form highly dynamic, actin-rich organelles called \"invadosomes\" [8, 9] . In the TM and other tissues these structures are enriched with matrix metalloproteases (MMPs) and act as sites of focal ECM degradation and remodeling [10] . Inhibition or addition of MMPs to perfused human eye models, decreases or increases outflow respectively, demonstrating the critical role matrix degradation plays in regulating normal TM function [11] . However, MMPs are just one important component of these organelles contributing to the complex process of matrix remodeling. Recently, extracellular nanovesicles called exosomes have been localized to invadosome-like structures [12] and shown to be critical in the cell-specific invadosome function, such as invasiveness and migration of cancer cells, who also actively turnover ECM [13] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Turnover of ECM in the TM is vigorous ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with some protein half-lives being less than two days ( 7 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "TM cells form highly dynamic ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "actin-rich organelles called `` invadosomes \u0027\u0027 ( 8 , 9 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the TM and other tissues these structures are enriched with matrix metalloproteases ( MMPs ) and act as sites of focal ECM degradation and remodeling ( 10 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Inhibition or addition of MMPs to perfused human eye models ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "decreases or increases outflow respectively ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "demonstrating the critical role matrix degradation plays in regulating normal TM function ( 11 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , MMPs are just one important component of these organelles contributing to the complex process of matrix remodeling .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recently , extracellular nanovesicles called exosomes have been localized to invadosome-like structures ( 12 ) and shown to be critical in the cell-specific invadosome function ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "such as invasiveness and migration of cancer cells ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "who also actively turnover ECM ( 13 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Exosomes are released from TM cells in culture [14-16], yet their function in outflow physiology is unknown. Proteomic analysis of TM cell exosomes showed that fibronectin (Fn) is an abundant component [16] . This is consistent with a number of reports which have shown exosomal binding of Fn using a number of methods such as flowcytometry [17] , capture of exosomes on immobilized Fn[13] and density gradient ultracentrifugation [18, 19] . These results show exosomal affinity for Fn may be a common property of exosomes shared across a number of cell types. Recently, exosomes have been implicated in a number of cell-ECM interactions, including several that depend on exosomal Fn [18, 20] . These data suggest exosome-bound Fn plays an important role in cell-matrix interactions. Additionally, the amount of Fn bound to exosomes influences the magnitude of the cell-matrix interaction. For example, decreasing the amount of exosomal Fn decreases cell motility [18] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Exosomes are released from TM cells in culture ( 14-16 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "yet their function in outflow physiology is unknown .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Proteomic analysis of TM cell exosomes showed that fibronectin ( Fn ) is an abundant component ( 16 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This is consistent with a number of reports which have shown exosomal binding of Fn using a number of methods such as flowcytometry ( 17 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "capture of exosomes on immobilized Fn ( 13 ) and density gradient ultracentrifugation ( 18 , 19 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These results show exosomal affinity for Fn may be a common property of exosomes shared across a number of cell types .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recently , exosomes have been implicated in a number of cell-ECM interactions ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including several that depend on exosomal Fn ( 18 , 20 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These data suggest exosome-bound Fn plays an important role in cell-matrix interactions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Additionally , the amount of Fn bound to exosomes influences the magnitude of the cell-matrix interaction .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "For example , decreasing the amount of exosomal Fn decreases cell motility ( 18 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Experimentally, secretion of Fn from TM cells is dramatically elevated upon treatment with corticosteroids [21] . In fact, treatment of TM cells and tissues with corticosteroids has been used to identify the first glaucoma gene, MYOC [22], and as a reliable model to study ECM turnover by the TM in a controlled fashion. Here we used corticosteroid treatment of TM explants to determine whether released exosomes are altered by this glaucoma-inducing compound. We found that despite a Dexamethasone (Dex)-induced increase in Fn secretion by TM explants, the released exosomes had less bound Fn. Additionally, we show that TM exosome-Fn binding is dependent on the presence of the glycosaminoglycan heparan sulfate. Finally, we found that TM exosomes are enriched in the known heparin/heparan sulfate binding proteins annexin A2 and A6 [23, 24] , and that Dex treatment of the TM explants significantly reduced the amount of these annexins per exosome. Our findings are the first to demonstrate that a drug causing ECM accumulation in the TM [4], ocular hypertension [25] and glaucoma in humans and animal models, alters exosomal cargo and properties in a way that can account for the observed ocular phenotype.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Experimentally , secretion of Fn from TM cells is dramatically elevated upon treatment with corticosteroids ( 21 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In fact , treatment of TM cells and tissues with corticosteroids has been used to identify the first glaucoma gene ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "MYOC ( 22 ) , and as a reliable model to study ECM turnover by the TM in a controlled fashion .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we used corticosteroid treatment of TM explants to determine whether released exosomes are altered by this glaucoma-inducing compound .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We found that despite a Dexamethasone ( Dex ) - induced increase in Fn secretion by TM explants ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the released exosomes had less bound Fn .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Additionally , we show that TM exosome-Fn binding is dependent on the presence of the glycosaminoglycan heparan sulfate .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , we found that TM exosomes are enriched in the known heparin/heparan sulfate binding proteins annexin A2 and A6 ( 23 , 24 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and that Dex treatment of the TM explants significantly reduced the amount of these annexins per exosome .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our findings are the first to demonstrate that a drug causing ECM accumulation in the TM ( 4 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "ocular hypertension ( 25 ) and glaucoma in humans and animal models ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "alters exosomal cargo and properties in a way that can account for the observed ocular phenotype .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Materials and Methods",
+      "sentences": [
+        [
+          {
+            "segment_text": "Materials and Methods",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "De-identified human donor whole globes or corneal rims (following corneal button removal for transplant) were obtained from donors who gave consent for research (Miracles In Sight, Winston-Salem, NC) and the trabecular meshwork was isolated using a blunt dissection Exosome-Fibronectin Binding and Modulation by Dexamethasone PLOS ONE |",
+      "sentences": [
+        [
+          {
+            "segment_text": "De-identified human donor whole globes or corneal rims ( following corneal button removal for transplant ) were obtained from donors who gave consent for research ( Miracles In Sight , Winston-Salem , NC ) and the trabecular meshwork was isolated using a blunt dissection Exosome-Fibronectin Binding and Modulation by Dexamethasone PLOS ONE |",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "6",
+    "sentence_num": "37",
+    "segment_num": "55",
+    "token_num": "941"
+  }
+}

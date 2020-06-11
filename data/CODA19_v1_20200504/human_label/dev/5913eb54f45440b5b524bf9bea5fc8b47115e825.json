@@ -1,0 +1,124 @@
+{
+  "paper_id": "5913eb54f45440b5b524bf9bea5fc8b47115e825",
+  "metadata": {
+    "title": "SARS-CoV-2 receptor and entry genes are expressed by sustentacular cells in the human olfactory neuroepithelium",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1550,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The recent emergence of the pathogenic SARS-CoV-2 initiated a worldwide health crisis. The entry of the virus into cells is mediated by the binding of the viral Spike protein to the angiotensin-converting enzyme-2 (ACE2), followed by its priming by the TMPRSS2 serine protease, both present on the cellular membrane of the target cells. In the respiratory tract, these targets are ciliated cells. Interestingly, various reports indicate an association between SARS-CoV-2 infection and anosmia, suggesting an alteration not restricted to the respiratory tissue, but that might also include the olfactory sensory epithelium. We explored this possibility by generating RNA-seq libraries from human neuroepithelium, in which we found significant expression of ACE2 and TMPRSS2. To determine whether specific cell types of this chemosensory tissue may coexpress both of the virus entry genes, we analyzed a scRNA-seq dataset. We determined that sustentacular cells, which are in direct contact with the external world and maintain the integrity of olfactory sensory neurons, represents a prime candidate for SARS-CoV-2 infection via the nose, and possibly for SARS-CoV-2-induced anosmia.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The recent emergence of the pathogenic SARS-CoV-2 initiated a worldwide health crisis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The entry of the virus into cells is mediated by the binding of the viral Spike protein to the angiotensin-converting enzyme-2 ( ACE2 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "followed by its priming by the TMPRSS2 serine protease ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "both present on the cellular membrane of the target cells .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the respiratory tract , these targets are ciliated cells .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Interestingly , various reports indicate an association between SARS-CoV-2 infection and anosmia ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "suggesting an alteration not restricted to the respiratory tissue ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but that might also include the olfactory sensory epithelium .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We explored this possibility by generating RNA-seq libraries from human neuroepithelium ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "in which we found significant expression of ACE2 and TMPRSS2 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "To determine whether specific cell types of this chemosensory tissue may coexpress both of the virus entry genes ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "we analyzed a scRNA-seq dataset .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We determined that sustentacular cells ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which are in direct contact with the external world and maintain the integrity of olfactory sensory neurons ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "represents a prime candidate for SARS-CoV-2 infection via the nose ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and possibly for SARS-CoV-2-induced anosmia .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "author/funder. All rights reserved. No reuse allowed without permission.",
+      "sentences": [
+        [
+          {
+            "segment_text": "author/funder .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "All rights reserved .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "No reuse allowed without permission .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "10",
+    "segment_num": "19",
+    "token_num": "204"
+  }
+}

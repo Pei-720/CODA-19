@@ -1,0 +1,81 @@
+{
+  "paper_id": "9bddad5b8597afa80f799ae234986958e1628387",
+  "metadata": {
+    "title": "A Dual Protease Approach for Expression and Affinity Purification of Recombinant Proteins",
+    "coda_data_split": "train",
+    "coda_paper_id": 10673,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "We describe a new method for affinity purification of recombinant proteins using a dual protease protocol. Escherichia coli maltose binding protein (MBP) is employed as an N-terminal tag to increase the yield and solubility of its fusion partners. The MBP moiety is then removed by rhinovirus 3C protease, prior to purification, to yield an N-terminally His 6 -tagged protein. Proteins that are only temporarily rendered soluble by fusing them to MBP are readily identified at this stage because they will precipitate after the MBP tag is removed by 3C protease. The remaining soluble His 6 -tagged protein, if any, is subsequently purified by immobilized metal affinity chromatography (IMAC). Finally, the N-terminal His 6 tag is removed by His 6 -tagged tobacco etch virus (TEV) protease to yield the native recombinant protein, and the His 6 -tagged contaminants are removed by adsorption during a second round of IMAC, leaving only the untagged recombinant protein in the column effluent. The generic strategy described here saves time and effort by removing insoluble aggregates at an early stage in the process while also reducing the tendency of MBP to \"stick\" to its fusion partners during affinity purification.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We describe a new method for affinity purification of recombinant proteins using a dual protease protocol .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Escherichia coli maltose binding protein ( MBP ) is employed as an N-terminal tag to increase the yield and solubility of its fusion partners .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The MBP moiety is then removed by rhinovirus 3C protease ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "prior to purification , to yield an N-terminally His 6 - tagged protein .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Proteins that are only temporarily rendered soluble by fusing them to MBP are readily identified at this stage because they will precipitate after the MBP tag is removed by 3C protease .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The remaining soluble His 6 - tagged protein ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "if any , is subsequently purified by immobilized metal affinity chromatography ( IMAC ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , the N-terminal His 6 tag is removed by His 6 - tagged tobacco etch virus ( TEV ) protease to yield the native recombinant protein ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and the His 6 - tagged contaminants are removed by adsorption during a second round of IMAC ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "leaving only the untagged recombinant protein in the column effluent .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The generic strategy described here saves time and effort by removing insoluble aggregates at an early stage in the process while also reducing the tendency of MBP to `` stick \u0027\u0027 to its fusion partners during affinity purification .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "11",
+    "token_num": "219"
+  }
+}

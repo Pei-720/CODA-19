@@ -1,0 +1,136 @@
+{
+  "paper_id": "abc26ab2f832d98a682fc970b9b361e28f29d72c",
+  "metadata": {
+    "title": "Trends in 30-Day Readmission Rates for Medicare and Non-Medicare Patients in the Era of the Affordable Care Act",
+    "coda_data_split": "test",
+    "coda_paper_id": 652,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "BACKGROUND: Temporal changes in the readmission rates for patient groups and conditions that were not directly under the purview of the Hospital Readmissions Reduction Program (HRRP) can help assess whether efforts to lower readmissions extended beyond targeted patients and conditions. METHODS: Using the Nationwide Readmissions Database (2010-2015), we assessed trends in all-cause readmission rates for 1 of the 3 HRRP conditions (acute myocardial infarction, heart failure, pneumonia) or conditions not targeted by the HRRP in age-insurance groups defined by age group (65 years or \u003c65 years) and payer (Medicare, Medicaid, or private insurance). RESULTS: In the group aged 65 years, readmission rates for those covered by Medicare, Medicaid, and private insurance decreased annually for acute myocardial infarction (risk-adjusted odds ratio [OR; 95% confidence interval] among Medicare patients, 0.94 [0.94-0.95], among Medicaid patients, 0.93 [0.90-0.97], and among patients with private-insurance, 0.95 [0.93-0.97]); heart failure (ORs, 0.96 [0.96-0.97], 0.96 [0.94-0.98], and 0.97 [0.96-0.99], for the 3 payers, respectively), and pneumonia (ORs, 0.96 [0.96-0.97), 0.94 [0.92-0.96], and 0.96 [0.95-0.97], respectively). Readmission rates also decreased in the group aged \u003c65 years for acute myocardial infarction (ORs: Medicare 0.97 [0.96-0.98], Medicaid 0.94 [0.92-0.95], and private insurance 0.93 [0.92-0.94]), heart failure (ORs, 0.98 [0.97-0.98]: 0.96 [0.96-0.97], and 0.97 [0.95-0.98], for the 3 payers, respectively), and pneumonia (ORs, 0.98 [0.97-0.99], 0.98 [0.97-0.99], and 0.98 [0.97-1.00], respectively). Further, readmission rates decreased significantly for non-target conditions.",
+      "sentences": [
+        [
+          {
+            "segment_text": "BACKGROUND : Temporal changes in the readmission rates for patient groups and conditions that were not directly under the purview of the Hospital Readmissions Reduction Program ( HRRP ) can help assess whether efforts to lower readmissions extended beyond targeted patients and conditions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "METHODS : Using the Nationwide Readmissions Database ( 2010-2015 ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we assessed trends in all-cause readmission rates for 1 of the 3 HRRP conditions ( acute myocardial infarction , heart failure , pneumonia ) or conditions not targeted by the HRRP in age-insurance groups defined by age group ( 65 years or \u003c 65 years ) and payer ( Medicare , Medicaid , or private insurance ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "RESULTS : In the group aged 65 years ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "readmission rates for those covered by Medicare ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Medicaid , and private insurance decreased annually for acute myocardial infarction ( risk-adjusted odds ratio ( OR ; 95 % confidence interval ) among Medicare patients ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "0.94 ( 0.94-0.95 ) , among Medicaid patients ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "0.93 ( 0.90-0.97 ) , and among patients with private-insurance ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "0.95 ( 0.93-0.97 ) ) ; heart failure ( ORs , 0.96 ( 0.96-0.97 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "0.96 ( 0.94-0.98 ) , and 0.97 ( 0.96-0.99 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "for the 3 payers , respectively ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and pneumonia ( ORs , 0.96 ( 0.96-0.97 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "0.94 ( 0.92-0.96 ) , and 0.96 ( 0.95-0.97 ) , respectively ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Readmission rates also decreased in the group aged \u003c 65 years for acute myocardial infarction ( ORs : Medicare 0.97 ( 0.96-0.98 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Medicaid 0.94 ( 0.92-0.95 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and private insurance 0.93 ( 0.92-0.94 ) ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "heart failure ( ORs , 0.98 ( 0.97-0.98 ) : 0.96 ( 0.96-0.97 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and 0.97 ( 0.95-0.98 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "for the 3 payers , respectively ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and pneumonia ( ORs , 0.98 ( 0.97-0.99 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "0.98 ( 0.97-0.99 ) , and 0.98 ( 0.97-1.00 ) , respectively ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Further , readmission rates decreased significantly for non-target conditions .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "CONCLUSIONS: There appears to be a systematic improvement in readmission rates for patient groups beyond the population of fee-for-service, older, Medicare beneficiaries included in the HRRP.",
+      "sentences": [
+        [
+          {
+            "segment_text": "CONCLUSIONS : There appears to be a systematic improvement in readmission rates for patient groups beyond the population of fee-for-service ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "older , Medicare beneficiaries included in the HRRP .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "6",
+    "segment_num": "24",
+    "token_num": "368"
+  }
+}

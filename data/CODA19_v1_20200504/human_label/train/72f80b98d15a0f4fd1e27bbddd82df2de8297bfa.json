@@ -1,0 +1,69 @@
+{
+  "paper_id": "72f80b98d15a0f4fd1e27bbddd82df2de8297bfa",
+  "metadata": {
+    "title": "COVID19-Tracker: A shiny app to produce to produce comprehensive data visualization for SARS-CoV-2 epidemic in Spain",
+    "coda_data_split": "train",
+    "coda_paper_id": 2991,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Data visualization is an important tool for exploring and communicating findings in medical research, and specially in epidemiological surveillance. The COVID19-Tracker app systematically produces daily updated data visualization and analysis of SARS-CoV-2 epidemic in Spain. It collects automatically daily data on COVID-19 diagnosed cases, intensive care unit admissions, and mortality, from February 24 th , 2020 onwards. Two applications have already been developed; 1) to analyze data trends and estimating short-term projections; and 2) To assess the effect of the lockdown on the trend of incident data. We are currently planning to improve the app by uploading shortly new applications for data visualization and analysis, which may help for a better understanding of the SARS-CoV-2 epidemic data in Spain.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Data visualization is an important tool for exploring and communicating findings in medical research ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and specially in epidemiological surveillance .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The COVID19-Tracker app systematically produces daily updated data visualization and analysis of SARS-CoV-2 epidemic in Spain .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "It collects automatically daily data on COVID-19 diagnosed cases ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "intensive care unit admissions , and mortality ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "from February 24 th , 2020 onwards .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Two applications have already been developed ; 1 ) to analyze data trends and estimating short-term projections ; and 2 ) To assess the effect of the lockdown on the trend of incident data .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We are currently planning to improve the app by uploading shortly new applications for data visualization and analysis ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "which may help for a better understanding of the SARS-CoV-2 epidemic data in Spain .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "9",
+    "token_num": "133"
+  }
+}

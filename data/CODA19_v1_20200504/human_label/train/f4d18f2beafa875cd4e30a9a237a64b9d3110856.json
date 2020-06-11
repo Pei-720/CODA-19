@@ -1,0 +1,140 @@
+{
+  "paper_id": "f4d18f2beafa875cd4e30a9a237a64b9d3110856",
+  "metadata": {
+    "title": "Review Article Delivery Systems for the Direct Application of siRNAs to Induce RNA Interference (RNAi) In Vivo",
+    "coda_data_split": "train",
+    "coda_paper_id": 4773,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "RNA interference (RNAi) is a powerful method for specific gene silencing which may also lead to promising novel therapeutic strategies. It is mediated through small interfering RNAs (siRNAs) which sequence-specifically trigger the cleavage and subsequent degradation of their target mRNA. One critical factor is the ability to deliver intact siRNAs into target cells/organs in vivo. This review highlights the mechanism of RNAi and the guidelines for the design of optimal siRNAs. It gives an overview of studies based on the systemic or local application of naked siRNAs or the use of various nonviral siRNA delivery systems. One promising avenue is the the complexation of siRNAs with the polyethylenimine (PEI), which efficiently stabilizes siRNAs and, upon systemic administration, leads to the delivery of the intact siRNAs into different organs. The antitumorigenic effects of PEI/siRNA-mediated in vivo gene-targeting of tumor-relevant proteins like in mouse tumor xenograft models are described.",
+      "sentences": [
+        [
+          {
+            "segment_text": "RNA interference ( RNAi ) is a powerful method for specific gene silencing which may also lead to promising novel therapeutic strategies .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is mediated through small interfering RNAs ( siRNAs ) which sequence-specifically trigger the cleavage and subsequent degradation of their target mRNA .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "One critical factor is the ability to deliver intact siRNAs into target cells/organs in vivo .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This review highlights the mechanism of RNAi and the guidelines for the design of optimal siRNAs .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "It gives an overview of studies based on the systemic or local application of naked siRNAs or the use of various nonviral siRNA delivery systems .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "One promising avenue is the the complexation of siRNAs with the polyethylenimine ( PEI ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which efficiently stabilizes siRNAs and ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "upon systemic administration , leads to the delivery of the intact siRNAs into different organs .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The antitumorigenic effects of PEI/siRNA-mediated in vivo gene-targeting of tumor-relevant proteins like in mouse tumor xenograft models are described .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "RNAi is an evolutionarily conserved, sequence-specific, posttranscriptional gene silencing phenomenon. It is triggered by 2 Journal of Biomedicine and Biotechnology DNA DNA dsRNA dsRNA processing Dicer ATP siRNA ADP + P i Interferon response Nonspecific gene silencing RISC assembly RISC activation Binding of RISC to target mRNA mRNA degradation Cleavage Target mRNA Expression RISC ATP ADP + P i RISC £ Figure 1 : Mechanism of RNA interference (RNAi) in mammalian systems. Long double-stranded RNA molecules (dsRNA), which are expressed from DNA vectors (left red arrow) or directly enter the cell (center red arrow), are processed by the Dicer complex resulting in the formation of small inhibitory RNAs (siRNAs). Alternatively, to induce RNAi these small 21-23 bp duplexes are directly delivered into the cell (right red arrow). The siRNAs are incorporated into a nuclease-containing multiprotein complex called RISC, which becomes activated upon the ATP-dependent unwinding of the siRNA duplex by an RNA helicase. The now single-stranded siRNA guides the RISC complex to its complementary target mRNA which is then cleaved by the endonucleolytical activity of RISC. While the RISC complex is recovered for further cycles, the cleaved mRNA molecule is rapidly degraded due to its unprotected RNA ends.",
+      "sentences": [
+        [
+          {
+            "segment_text": "RNAi is an evolutionarily conserved ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "sequence-specific , posttranscriptional gene silencing phenomenon .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is triggered by 2 Journal of Biomedicine and Biotechnology DNA DNA dsRNA dsRNA processing Dicer ATP siRNA ADP + P i Interferon response Nonspecific gene silencing RISC assembly RISC activation Binding of RISC to target mRNA mRNA degradation Cleavage Target mRNA Expression RISC ATP ADP + P i RISC £ Figure 1 : Mechanism of RNA interference ( RNAi ) in mammalian systems .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Long double-stranded RNA molecules ( dsRNA ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which are expressed from DNA vectors ( left red arrow ) or directly enter the cell ( center red arrow ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "are processed by the Dicer complex resulting in the formation of small inhibitory RNAs ( siRNAs ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Alternatively , to induce RNAi these small 21-23 bp duplexes are directly delivered into the cell ( right red arrow ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The siRNAs are incorporated into a nuclease-containing multiprotein complex called RISC ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which becomes activated upon the ATP-dependent unwinding of the siRNA duplex by an RNA helicase .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The now single-stranded siRNA guides the RISC complex to its complementary target mRNA which is then cleaved by the endonucleolytical activity of RISC .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "While the RISC complex is recovered for further cycles ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the cleaved mRNA molecule is rapidly degraded due to its unprotected RNA ends .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "14",
+    "segment_num": "21",
+    "token_num": "387"
+  }
+}

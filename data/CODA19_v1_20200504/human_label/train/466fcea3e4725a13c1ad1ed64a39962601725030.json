@@ -1,0 +1,97 @@
+{
+  "paper_id": "466fcea3e4725a13c1ad1ed64a39962601725030",
+  "metadata": {
+    "title": "The utility of LASSO-based models for real time forecasts of endemic infectious diseases: A cross country comparison",
+    "coda_data_split": "train",
+    "coda_paper_id": 5012,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Introduction: Accurate and timely prediction for endemic infectious diseases is vital for public health agencies to plan and carry out any control methods at an early stage of disease outbreaks. Climatic variables has been identified as important predictors in models for infectious disease forecasts. Various approaches have been proposed in the literature to produce accurate and timely predictions and potentially improve public health response. Methods: We assessed how the machine learning LASSO method may be useful in providing useful forecasts for different pathogens in countries with different climates. Separate LASSO models were constructed for different disease/country/forecast window with different model complexity by including different sets of predictors to assess the importance of different predictors under various conditions. Results: There was a more apparent cyclicity for both climatic variables and incidence in regions further away from the equator. For most diseases, predictions made beyond 4 weeks ahead were increasingly discrepant from the actual scenario. Prediction models were more accurate in capturing the outbreak but less sensitive to predict the outbreak size. In different situations, climatic variables have different levels of importance in prediction accuracy. Conclusions: For LASSO models used for prediction, including different sets of predictors has varying effect in different situations. Short term predictions generally perform better than longer term predictions, suggesting public health agencies may need the capacity to respond at short-notice to early warnings.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Introduction : Accurate and timely prediction for endemic infectious diseases is vital for public health agencies to plan and carry out any control methods at an early stage of disease outbreaks .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Climatic variables has been identified as important predictors in models for infectious disease forecasts .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Various approaches have been proposed in the literature to produce accurate and timely predictions and potentially improve public health response .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Methods : We assessed how the machine learning LASSO method may be useful in providing useful forecasts for different pathogens in countries with different climates .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Separate LASSO models were constructed for different disease/country/forecast window with different model complexity by including different sets of predictors to assess the importance of different predictors under various conditions .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results : There was a more apparent cyclicity for both climatic variables and incidence in regions further away from the equator .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "For most diseases , predictions made beyond 4 weeks ahead were increasingly discrepant from the actual scenario .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Prediction models were more accurate in capturing the outbreak but less sensitive to predict the outbreak size .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In different situations , climatic variables have different levels of importance in prediction accuracy .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Conclusions : For LASSO models used for prediction ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including different sets of predictors has varying effect in different situations .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Short term predictions generally perform better than longer term predictions ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "suggesting public health agencies may need the capacity to respond at short-notice to early warnings .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "11",
+    "segment_num": "13",
+    "token_num": "245"
+  }
+}

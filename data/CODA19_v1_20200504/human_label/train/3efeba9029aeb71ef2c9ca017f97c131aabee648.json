@@ -1,0 +1,93 @@
+{
+  "paper_id": "3efeba9029aeb71ef2c9ca017f97c131aabee648",
+  "metadata": {
+    "title": "Ribosome structure: revisiting the connection between translational accuracy and unconventional decoding",
+    "coda_data_split": "train",
+    "coda_paper_id": 9991,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The ribosome is a molecular machine that converts genetic information in the form of RNA, into protein. Recent structural studies reveal a complex set of interactions between the ribosome and its ligands, mRNA and tRNA, that indicate ways in which the ribosome could avoid costly translational errors. Ribosomes must decode each successive codon accurately, and structural data provide a clear indication of how ribosomes limit recruitment of the wrong tRNA (sense errors). In a triplet-based genetic code there are three potential forward reading frames, only one of which encodes the correct protein. Errors in which the ribosome reads a codon out of the normal reading frame (frameshift errors) occur less frequently than sense errors, although it is not clear from structural data how these errors are avoided. Some mRNA sequences, termed programmed-frameshift sites, cause the ribosome to change reading frame. Based on recent work on these sites, this article proposes that the ribosome uses the structure of the codon-anticodon complex formed by the peptidyl-tRNA, especially its wobble interaction, to constrain the incoming aminoacyl-tRNA to the correct reading frame.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The ribosome is a molecular machine that converts genetic information in the form of RNA , into protein .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recent structural studies reveal a complex set of interactions between the ribosome and its ligands ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "mRNA and tRNA , that indicate ways in which the ribosome could avoid costly translational errors .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Ribosomes must decode each successive codon accurately ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and structural data provide a clear indication of how ribosomes limit recruitment of the wrong tRNA ( sense errors ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In a triplet-based genetic code there are three potential forward reading frames ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "only one of which encodes the correct protein .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Errors in which the ribosome reads a codon out of the normal reading frame ( frameshift errors ) occur less frequently than sense errors ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "although it is not clear from structural data how these errors are avoided .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Some mRNA sequences , termed programmed-frameshift sites ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "cause the ribosome to change reading frame .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Based on recent work on these sites ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "this article proposes that the ribosome uses the structure of the codon-anticodon complex formed by the peptidyl-tRNA ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "especially its wobble interaction , to constrain the incoming aminoacyl-tRNA to the correct reading frame .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "14",
+    "token_num": "200"
+  }
+}

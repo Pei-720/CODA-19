@@ -1,0 +1,61 @@
+{
+  "paper_id": "9c776ca426a931dbbd3e34cd0b817adb19add3f1",
+  "metadata": {
+    "title": "viruses How Polyomaviruses Exploit the ERAD Machinery to Cause Infection",
+    "coda_data_split": "train",
+    "coda_paper_id": 10544,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "To infect cells, polyomavirus (PyV) traffics from the cell surface to the endoplasmic reticulum (ER) where it hijacks elements of the ER-associated degradation (ERAD) machinery to penetrate the ER membrane and reach the cytosol. From the cytosol, the virus transports to the nucleus, enabling transcription and replication of the viral genome that leads to lytic infection or cellular transformation. How PyV exploits the ERAD machinery to cross the ER membrane and access the cytosol, a decisive infection step, remains enigmatic. However, recent studies have slowly unraveled many aspects of this process. These emerging insights should advance our efforts to develop more effective therapies against PyV-induced human diseases.",
+      "sentences": [
+        [
+          {
+            "segment_text": "To infect cells , polyomavirus ( PyV ) traffics from the cell surface to the endoplasmic reticulum ( ER ) where it hijacks elements of the ER-associated degradation ( ERAD ) machinery to penetrate the ER membrane and reach the cytosol .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "From the cytosol , the virus transports to the nucleus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "enabling transcription and replication of the viral genome that leads to lytic infection or cellular transformation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "How PyV exploits the ERAD machinery to cross the ER membrane and access the cytosol ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a decisive infection step , remains enigmatic .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , recent studies have slowly unraveled many aspects of this process .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These emerging insights should advance our efforts to develop more effective therapies against PyV-induced human diseases .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "7",
+    "token_num": "124"
+  }
+}

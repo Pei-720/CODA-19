@@ -1,0 +1,61 @@
+{
+  "paper_id": "a7960070f97e42542f5a3a758e454edffc32ad89",
+  "metadata": {
+    "title": "MERS-CoV spike nanoparticles protect mice from MERS-CoV infection",
+    "coda_data_split": "train",
+    "coda_paper_id": 2262,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The Middle East respiratory syndrome coronavirus (MERS-CoV) was first discovered in late 2012 and has gone on to cause over 1800 infections and 650 deaths. There are currently no approved therapeutics or vaccinations for MERS-CoV. The MERS-CoV spike (S) protein is responsible for receptor binding and virion entry to cells, is immunodominant and induces neutralizing antibodies in vivo, all of which, make the S protein an ideal target for anti-MERS-CoV vaccines. In this study, we demonstrate protection induced by vaccination with a recombinant MERS-CoV S nanoparticle vaccine and Matrix-M1 adjuvant combination in mice. The MERS-CoV S nanoparticle vaccine produced high titer anti-S neutralizing antibody and protected mice from MERS-CoV infection in vivo.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The Middle East respiratory syndrome coronavirus ( MERS-CoV ) was first discovered in late 2012 and has gone on to cause over 1800 infections and 650 deaths .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "There are currently no approved therapeutics or vaccinations for MERS-CoV .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The MERS-CoV spike ( S ) protein is responsible for receptor binding and virion entry to cells ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "is immunodominant and induces neutralizing antibodies in vivo ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "all of which , make the S protein an ideal target for anti-MERS-CoV vaccines .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we demonstrate protection induced by vaccination with a recombinant MERS-CoV S nanoparticle vaccine and Matrix-M1 adjuvant combination in mice .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The MERS-CoV S nanoparticle vaccine produced high titer anti-S neutralizing antibody and protected mice from MERS-CoV infection in vivo .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "7",
+    "token_num": "125"
+  }
+}

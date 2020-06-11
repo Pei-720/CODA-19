@@ -1,0 +1,67 @@
+{
+  "paper_id": "a7517a8506234e015417206358feca31adbf21a2",
+  "metadata": {
+    "title": "PLANT-Dx: A Molecular Diagnostic for Point-of-Use Detection of Plant Pathogens",
+    "coda_data_split": "train",
+    "coda_paper_id": 8855,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Synthetic biology based diagnostic technologies have improved upon gold standard diagnostic methodologies by decreasing cost, increasing accuracy, and enhancing portability. However, there has been little effort in adapting these technologies toward applications related to point-of-use monitoring of plant and crop health. Here, we take a step toward this vision by developing an approach that couples isothermal amplification of specific plant pathogen genomic sequences with customizable synthetic RNA regulators that are designed to trigger the production of a colorimetric output in cell-free gene expression reactions. We demonstrate our system can sense viral derived sequences with high sensitivity and specificity, and can be utilized to directly detect viruses from infected plant material. Furthermore, we demonstrate that the entire system can operate using only body heat and naked-eye visual analysis of outputs. We anticipate these strategies to be important components of user-friendly and deployable diagnostic systems that can be configured to detect a range of important plant pathogens.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Synthetic biology based diagnostic technologies have improved upon gold standard diagnostic methodologies by decreasing cost ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "increasing accuracy , and enhancing portability .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , there has been little effort in adapting these technologies toward applications related to point-of-use monitoring of plant and crop health .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we take a step toward this vision by developing an approach that couples isothermal amplification of specific plant pathogen genomic sequences with customizable synthetic RNA regulators that are designed to trigger the production of a colorimetric output in cell-free gene expression reactions .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We demonstrate our system can sense viral derived sequences with high sensitivity and specificity ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and can be utilized to directly detect viruses from infected plant material .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , we demonstrate that the entire system can operate using only body heat and naked-eye visual analysis of outputs .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We anticipate these strategies to be important components of user-friendly and deployable diagnostic systems that can be configured to detect a range of important plant pathogens .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "8",
+    "token_num": "167"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "paper_id": "dbc9bba0f4795257418516b74b3ee39a677f7455",
+  "metadata": {
+    "title": "Protein oligomerization mediated by the transmembrane carboxyl terminal domain of Bcl-XL",
+    "coda_data_split": "train",
+    "coda_paper_id": 9128,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Bcl-XL is a pro-survival member of the Bcl-2 family that can be found in the outer mitochondrial membrane and in soluble cytosolic homodimers. Bcl-XL can bind pro-apoptotic members of this family preventing them from activating the execution phase of apoptosis. Bcl-XL has been shown to homodimerize in different ways, although most binding and structural assays have been carried out in the absence of its carboxyl terminal transmembrane domain. We show here that this domain can by itself direct protein oligomerization, which could be related to its previously reported role in mitochondrial morphology alterations and apoptosis inhibition.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Bcl-XL is a pro-survival member of the Bcl-2 family that can be found in the outer mitochondrial membrane and in soluble cytosolic homodimers .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Bcl-XL can bind pro-apoptotic members of this family preventing them from activating the execution phase of apoptosis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Bcl-XL has been shown to homodimerize in different ways ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "although most binding and structural assays have been carried out in the absence of its carboxyl terminal transmembrane domain .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We show here that this domain can by itself direct protein oligomerization ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which could be related to its previously reported role in mitochondrial morphology alterations and apoptosis inhibition .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Vamp2 physically interacts with Vamp2 by blue native page (View interaction) Vamp2 physically interacts with Vamp2 by cross-linking study (View interaction) Bcl-Xl physically interacts with Bcl-Xl by blue native page (View interaction) Bcl-Xl physically interacts with Bcl-Xl by cross-linking study (View interaction) Ó",
+      "sentences": [
+        [
+          {
+            "segment_text": "Vamp2 physically interacts with Vamp2 by blue native page ( View interaction ) Vamp2 physically interacts with Vamp2 by cross-linking study ( View interaction ) Bcl-Xl physically interacts with Bcl-Xl by blue native page ( View interaction ) Bcl-Xl physically interacts with Bcl-Xl by cross-linking study ( View interaction ) Ó",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "5",
+    "segment_num": "7",
+    "token_num": "153"
+  }
+}

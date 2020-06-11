@@ -1,0 +1,89 @@
+{
+  "paper_id": "b411e12b20d883ef2ee5ca19d48eff9fccedf05f",
+  "metadata": {
+    "title": "CVTree update: a newly designed phylogenetic study platform using composition vectors and whole genomes",
+    "coda_data_split": "train",
+    "coda_paper_id": 7029,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "The CVTree web server (http://tlife.fudan.edu.cn/ cvtree) presented here is a new implementation of the whole genome-based, alignment-free composition vector (CV) method for phylogenetic analysis. It is more efficient and user-friendly than the previously published version in the 2004 web server issue of Nucleic Acids Research. The development of whole genome-based alignment-free CV method has provided an independent verification to the traditional phylogenetic analysis based on a single gene or a few genes. This new implementation attempts to meet the challenge of ever increasing amount of genome data and includes in its database more than 850 prokaryotic genomes which will be updated monthly from NCBI, and more than 80 fungal genomes collected manually from several sequencing centers. This new CVTree web server provides a faster and stable research platform. Users can upload their own sequences to find their phylogenetic position among genomes selected from the server\u0027s inbuilt database. All sequence data used in a session may be downloaded as a compressed file. In addition to standard phylogenetic trees, users can also choose to output trees whose monophyletic branches are collapsed to various taxonomic levels. This feature is particularly useful for comparing phylogeny with taxonomy when dealing with thousands of genomes.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The CVTree web server ( http://tlife.fudan.edu.cn/ cvtree ) presented here is a new implementation of the whole genome-based ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "alignment-free composition vector ( CV ) method for phylogenetic analysis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is more efficient and user-friendly than the previously published version in the 2004 web server issue of Nucleic Acids Research .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The development of whole genome-based alignment-free CV method has provided an independent verification to the traditional phylogenetic analysis based on a single gene or a few genes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This new implementation attempts to meet the challenge of ever increasing amount of genome data and includes in its database more than 850 prokaryotic genomes which will be updated monthly from NCBI ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and more than 80 fungal genomes collected manually from several sequencing centers .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This new CVTree web server provides a faster and stable research platform .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Users can upload their own sequences to find their phylogenetic position among genomes selected from the server \u0027s inbuilt database .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "All sequence data used in a session may be downloaded as a compressed file .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition to standard phylogenetic trees ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "users can also choose to output trees whose monophyletic branches are collapsed to various taxonomic levels .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This feature is particularly useful for comparing phylogeny with taxonomy when dealing with thousands of genomes .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "9",
+    "segment_num": "12",
+    "token_num": "216"
+  }
+}

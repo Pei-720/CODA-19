@@ -1,0 +1,266 @@
+{
+  "paper_id": "b15c32bd3c868074646a885b32a4a50f65b363c5",
+  "metadata": {
+    "title": "Statistical mechanical modeling of RNA folding: from free energy landscape to tertiary structural prediction",
+    "coda_data_split": "train",
+    "coda_paper_id": 8822,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "In spite of the success of computational methods for predicting RNA secondary structure, the problem of predicting RNA tertiary structure folding remains. Low-resolution structural models show promise as they allow for rigorous statistical mechanical computation for the conformational entropies, free energies, and the coarse-grained structures of tertiary folds. Molecular dynamics refinement of coarse-grained structures leads to all-atom 3D structures. Modeling based on statistical mechanics principles also has the unique advantage of predicting the full free energy landscape, including local minima and the global free energy minimum. The energy landscapes combined with the 3D structures form the basis for quantitative predictions of RNA functions. In this chapter, we present an overview of statistical mechanical models for RNA folding and then focus on a recently developed RNA statistical mechanical model --the Vfold model. The main emphasis is placed on the physics underpinning the models, the computational strategies, and the connections to RNA biology. shown success in predicting RNA 3D structures. However, RNA function is determined not only by the minimum free energy state of the RNA, but also by the its folding stability and the potentially large conformational changes it can undergo. Understanding RNA function requires models that predict the full free energy landscape.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In spite of the success of computational methods for predicting RNA secondary structure ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the problem of predicting RNA tertiary structure folding remains .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Low-resolution structural models show promise as they allow for rigorous statistical mechanical computation for the conformational entropies ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "free energies , and the coarse-grained structures of tertiary folds .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Molecular dynamics refinement of coarse-grained structures leads to all-atom 3D structures .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Modeling based on statistical mechanics principles also has the unique advantage of predicting the full free energy landscape ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including local minima and the global free energy minimum .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The energy landscapes combined with the 3D structures form the basis for quantitative predictions of RNA functions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this chapter , we present an overview of statistical mechanical models for RNA folding and then focus on a recently developed RNA statistical mechanical model -- the Vfold model .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The main emphasis is placed on the physics underpinning the models ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the computational strategies , and the connections to RNA biology .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "shown success in predicting RNA 3D structures .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , RNA function is determined not only by the minimum free energy state of the RNA ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but also by the its folding stability and the potentially large conformational changes it can undergo .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Understanding RNA function requires models that predict the full free energy landscape .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Recent developments in statistical mechanical modeling of RNA folding have led to successes in predicting RNA structures, folding stabilities and folding kinetics for structures with increasing complexity. The models provide quantitative predictions and novel insights for a variety of experiments and RNA functions such as programmed ribosomal frameshifting (Cao and Chen 2009), mRNA splicing (Cao and Chen 2006a), and microRNA gene regulation (Kertesz et al. 2007; Long et al. 2007) . Despite the success of this approach, several key issues remain. These issues include the computation of the entropy for RNA tertiary folds and the extraction of the energy/entropy parameters for non-canonical tertiary interactions from thermodynamic data and known structures. The primary focus of this chapter is the application of methods based on statistical mechanics to predict RNA 3D structures and folding energy landscapes and to gain quantitative understanding of RNA functions.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Recent developments in statistical mechanical modeling of RNA folding have led to successes in predicting RNA structures ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "folding stabilities and folding kinetics for structures with increasing complexity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The models provide quantitative predictions and novel insights for a variety of experiments and RNA functions such as programmed ribosomal frameshifting ( Cao and Chen 2009 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "mRNA splicing ( Cao and Chen 2006a ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and microRNA gene regulation ( Kertesz et al. 2007 ; Long et al. 2007 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Despite the success of this approach , several key issues remain .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These issues include the computation of the entropy for RNA tertiary folds and the extraction of the energy/entropy parameters for non-canonical tertiary interactions from thermodynamic data and known structures .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The primary focus of this chapter is the application of methods based on statistical mechanics to predict RNA 3D structures and folding energy landscapes and to gain quantitative understanding of RNA functions .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "An RNA structure, defined by the nested Watson-Crick base pairs and the tertiary contacts contained in the 3D structure, can be conveniently represented by a polymer graph (Fig. 1) . Such a graph (\u003d a 2D structure) usually corresponds to many 3D conformations due to the flexible conformations of the single-stranded regions. Following Chastain and Tinoco (Chastain and Tinoco 1991), tertiary and secondary (2D) structures can be classified as the polymer graphs with and without cross-links, respectively.",
+      "sentences": [
+        [
+          {
+            "segment_text": "An RNA structure , defined by the nested Watson-Crick base pairs and the tertiary contacts contained in the 3D structure ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "can be conveniently represented by a polymer graph ( Fig. 1 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Such a graph ( \u003d a 2D structure ) usually corresponds to many 3D conformations due to the flexible conformations of the single-stranded regions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Following Chastain and Tinoco ( Chastain and Tinoco 1991 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "tertiary and secondary ( 2D ) structures can be classified as the polymer graphs with and without cross-links , respectively .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Chemical and enzymatic reagents (Ehresmann et al. 1987 ) are highly effective structural probes for nucleic acids because the reactivity of a nucleotide can be sensitive to its local conformation and interactions, including base pairing and stacking, which are reflected in its solvent accessibility. Structure-probing experiments based on chemical and enzymatic reagents, such as the Selective 2′-Hydroxyl Acylation analyzed by Primer Extension (SHAPE) analysis (Watts et al. 2009 ) and synchrotron-generated hydroxyl radical footprinting (Petri and Brenowitz 1997) , give direct information about base pairing and local structures. The experimental data provide useful input as structural constraints for the computational modeling of complete 3D structures. In parallel with these the experimental developments, de novo computational modeling of RNA folding shows continuous improvements in the accuracy of the predictions of RNA structures, including the structures for long RNA sequences. Table 1 shows a list of the computational models for RNA structure prediction from single sequence input. For structure predictions from sequence CAO and CHEN The free energy for a pseudoknot is equal to the sum of the free energies for the helical stems and loops: ΔG pk \u003d ΔG S 1 + ΔG S 2 + ΔG CS − TΔS loops , where ΔG S 1 and ΔG S 2 are the free energies of stems S 1 and S 2 and ΔG CS is the coaxial stacking energy between stems S 1 and S 2 . While the helix free energies can be evaluated from the nearest-neighbor model based on the empirical thermodynamic parameters for base stacks, to determine the loop entropy ΔS loops requires a physical model. CAO and CHEN ",
+      "sentences": [
+        [
+          {
+            "segment_text": "Chemical and enzymatic reagents ( Ehresmann et al. 1987 ) are highly effective structural probes for nucleic acids because the reactivity of a nucleotide can be sensitive to its local conformation and interactions ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including base pairing and stacking ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which are reflected in its solvent accessibility .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Structure-probing experiments based on chemical and enzymatic reagents ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "such as the Selective 2 ′ - Hydroxyl Acylation analyzed by Primer Extension ( SHAPE ) analysis ( Watts et al. 2009 ) and synchrotron-generated hydroxyl radical footprinting ( Petri and Brenowitz 1997 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "give direct information about base pairing and local structures .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The experimental data provide useful input as structural constraints for the computational modeling of complete 3D structures .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In parallel with these the experimental developments ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "de novo computational modeling of RNA folding shows continuous improvements in the accuracy of the predictions of RNA structures ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including the structures for long RNA sequences .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Table 1 shows a list of the computational models for RNA structure prediction from single sequence input .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "For structure predictions from sequence CAO and CHEN The free energy for a pseudoknot is equal to the sum of the free energies for the helical stems and loops : ΔG pk \u003d ΔG S 1 + ΔG S 2 + ΔG CS − TΔS loops ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "where ΔG S 1 and ΔG S 2 are the free energies of stems S 1 and S 2 and ΔG CS is the coaxial stacking energy between stems S 1 and S 2 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "While the helix free energies can be evaluated from the nearest-neighbor model based on the empirical thermodynamic parameters for base stacks ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "to determine the loop entropy ΔS loops requires a physical model .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "CAO and CHEN",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "26",
+    "segment_num": "44",
+    "token_num": "763"
+  }
+}

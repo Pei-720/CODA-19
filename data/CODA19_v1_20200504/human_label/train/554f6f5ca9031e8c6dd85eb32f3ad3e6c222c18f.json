@@ -1,0 +1,179 @@
+{
+  "paper_id": "554f6f5ca9031e8c6dd85eb32f3ad3e6c222c18f",
+  "metadata": {
+    "title": "Epidemic spreading in multiplex networks influenced by opinion exchanges on vaccination",
+    "coda_data_split": "train",
+    "coda_paper_id": 3177,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Through years, the use of vaccines has always been a controversial issue. People in a society may have different opinions about how beneficial the vaccines are and as a consequence some of those individuals decide to vaccinate or not themselves and their relatives. This attitude in face of vaccines has clear consequences in the spread of diseases and their transformation in epidemics. Motivated by this scenario, we study, in a simultaneous way, the changes of opinions about vaccination together with the evolution of a disease. In our model we consider a multiplex network consisting of two layers. One of the layers corresponds to a social network where people share their opinions and influence others opinions. The social model that rules the dynamic is the M-model, which takes into account two different processes that occurs in a society: persuasion and compromise. This two processes are related through a parameter r, r \u003c 1 describes a moderate and committed society, for r \u003e 1 the society tends to have extremist opinions, while r \u003d 1 represents a neutral society. This social network may be of real or virtual contacts. On the other hand, the second layer corresponds to a network of physical contacts where the disease spreading is described by the SIR-Model. In this model the individuals may be in one of the following four states: Susceptible (S), Infected(I), Recovered (R) or Vaccinated (V). A Susceptible individual can: i) get vaccinated, if his opinion in the other layer is totally in favor of the vaccine, ii) get infected, with probability β if he is in contact with an infected neighbor. Those I individuals recover after a certain period t r \u003d 6. Vaccinated individuals have an extremist positive opinion that does not change. We consider that the vaccine has a certain effectiveness ω and as a consequence vaccinated nodes can be infected with probability β(1 − ω) if they are in contact with an infected neighbor. In this case, if the infection process is successful, the new infected individual changes his opinion from extremist positive to totally against the vaccine. We find that depending on the trend in the opinion of the society, which depends on r, different behaviors in the spread of the epidemic occurs. An epidemic threshold was found, in which below β* and above ω* the diseases never becomes an epidemic, and it varies with the opinion parameter r.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Through years , the use of vaccines has always been a controversial issue .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "People in a society may have different opinions about how beneficial the vaccines are and as a consequence some of those individuals decide to vaccinate or not themselves and their relatives .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This attitude in face of vaccines has clear consequences in the spread of diseases and their transformation in epidemics .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Motivated by this scenario , we study ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "in a simultaneous way , the changes of opinions about vaccination together with the evolution of a disease .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In our model we consider a multiplex network consisting of two layers .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "One of the layers corresponds to a social network where people share their opinions and influence others opinions .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The social model that rules the dynamic is the M-model ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which takes into account two different processes that occurs in a society : persuasion and compromise .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This two processes are related through a parameter r ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "r \u003c 1 describes a moderate and committed society ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "for r \u003e 1 the society tends to have extremist opinions ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while r \u003d 1 represents a neutral society .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This social network may be of real or virtual contacts .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "On the other hand , the second layer corresponds to a network of physical contacts where the disease spreading is described by the SIR-Model .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this model the individuals may be in one of the following four states : Susceptible ( S ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Infected ( I ) , Recovered ( R ) or Vaccinated ( V ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A Susceptible individual can : i ) get vaccinated ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "if his opinion in the other layer is totally in favor of the vaccine ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "ii ) get infected , with probability β if he is in contact with an infected neighbor .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Those I individuals recover after a certain period t r \u003d 6 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Vaccinated individuals have an extremist positive opinion that does not change .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We consider that the vaccine has a certain effectiveness ω and as a consequence vaccinated nodes can be infected with probability β ( 1 − ω ) if they are in contact with an infected neighbor .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this case , if the infection process is successful ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the new infected individual changes his opinion from extremist positive to totally against the vaccine .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We find that depending on the trend in the opinion of the society ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which depends on r , different behaviors in the spread of the epidemic occurs .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "An epidemic threshold was found ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "in which below β * and above ω * the diseases never becomes an epidemic ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and it varies with the opinion parameter r.",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "18",
+    "segment_num": "30",
+    "token_num": "456"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "paper_id": "529511c62c786dab397b5a3ab3859961a74c8cf8",
+  "metadata": {
+    "title": "A CRISPR screen identifies IFI6 as an ER-resident interferon effector that blocks flavivirus replication HHS Public Access Author manuscript",
+    "coda_data_split": "train",
+    "coda_paper_id": 7028,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The endoplasmic reticulum (ER) is an architecturally diverse organelle that serves as a membrane source for the replication of multiple viruses. Flaviviruses, including yellow fever virus, West Nile virus, dengue virus, and Zika virus, induce unique single-membrane ER invaginations that house the viral replication machinery 1 . Whether this virus-induced ER remodeling is vulnerable to antiviral pathways is unknown. Here, we show that flavivirus replication at the ER is targeted by the interferon (IFN) response. Through genome-scale CRISPR screening, we uncovered an antiviral mechanism mediated by a functional gene pairing between IFI6, an interferon-stimulated gene (ISG) cloned over 30 years ago 2 , and HSPA5, which encodes the ER-resident HSP70 chaperone BiP. We reveal that IFI6 is an ERlocalized integral membrane effector that is stabilized through interactions with BiP. Mechanistically, IFI6 prophylactically protects uninfected cells by preventing formation of virus-induced ER membrane invaginations. Notably, IFI6 has little effect on other mammalian RNA viruses, including the related Flaviviridae member hepatitis C virus, which replicates in double-membrane vesicles that protrude outward from the ER. These findings support a model in which the IFN response is armed with a membrane-targeted effector that discriminately blocks the establishment of virus-specific ER microenvironments required for replication.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The endoplasmic reticulum ( ER ) is an architecturally diverse organelle that serves as a membrane source for the replication of multiple viruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Flaviviruses , including yellow fever virus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "West Nile virus , dengue virus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and Zika virus , induce unique single-membrane ER invaginations that house the viral replication machinery 1 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Whether this virus-induced ER remodeling is vulnerable to antiviral pathways is unknown .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we show that flavivirus replication at the ER is targeted by the interferon ( IFN ) response .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Through genome-scale CRISPR screening , we uncovered an antiviral mechanism mediated by a functional gene pairing between IFI6 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "an interferon-stimulated gene ( ISG ) cloned over 30 years ago 2 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and HSPA5 , which encodes the ER-resident HSP70 chaperone BiP .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We reveal that IFI6 is an ERlocalized integral membrane effector that is stabilized through interactions with BiP .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Mechanistically , IFI6 prophylactically protects uninfected cells by preventing formation of virus-induced ER membrane invaginations .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Notably , IFI6 has little effect on other mammalian RNA viruses ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including the related Flaviviridae member hepatitis C virus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which replicates in double-membrane vesicles that protrude outward from the ER .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These findings support a model in which the IFN response is armed with a membrane-targeted effector that discriminately blocks the establishment of virus-specific ER microenvironments required for replication .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Users may view, print, copy, and download text and data-mine the content in such documents, for the purposes of academic research, subject always to the full Conditions of use:",
+      "sentences": [
+        [
+          {
+            "segment_text": "Users may view , print ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "copy , and download text and data-mine the content in such documents ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "for the purposes of academic research ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "subject always to the full Conditions of use :",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "10",
+    "segment_num": "19",
+    "token_num": "262"
+  }
+}

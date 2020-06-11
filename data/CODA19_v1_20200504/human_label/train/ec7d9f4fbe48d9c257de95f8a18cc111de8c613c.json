@@ -1,0 +1,101 @@
+{
+  "paper_id": "ec7d9f4fbe48d9c257de95f8a18cc111de8c613c",
+  "metadata": {
+    "title": "General Prediction of Peptide-MHC Binding Modes Using Incremental Docking: A Proof of Concept",
+    "coda_data_split": "train",
+    "coda_paper_id": 9194,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "The class I major histocompatibility complex (MHC) is capable of binding peptides derived from intracellular proteins and displaying them at the cell surface. The recognition of these peptide-MHC (pMHC) complexes by T-cells is the cornerstone of cellular immunity, enabling the elimination of infected or tumoral cells. T-cell-based immunotherapies against cancer, which leverage this mechanism, can greatly benefit from structural analyses of pMHC complexes. Several attempts have been made to use molecular docking for such analyses, but pMHC structure remains too challenging for even state-of-the-art docking tools. To overcome these limitations, we describe the use of an incremental meta-docking approach for structural prediction of pMHC complexes. Previous methods applied in this context used specific constraints to reduce the complexity of this prediction problem, at the expense of generality. Our strategy makes no assumption and can potentially be used to predict binding modes for any pMHC complex. Our method has been tested in a re-docking experiment, reproducing the binding modes of 25 pMHC complexes whose crystal structures are available. This study is a proof of concept that incremental docking strategies can lead to general geometry prediction of pMHC complexes, with potential applications for immunotherapy against cancer or infectious diseases.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The class I major histocompatibility complex ( MHC ) is capable of binding peptides derived from intracellular proteins and displaying them at the cell surface .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The recognition of these peptide-MHC ( pMHC ) complexes by T-cells is the cornerstone of cellular immunity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "enabling the elimination of infected or tumoral cells .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "T-cell-based immunotherapies against cancer , which leverage this mechanism ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "can greatly benefit from structural analyses of pMHC complexes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Several attempts have been made to use molecular docking for such analyses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but pMHC structure remains too challenging for even state-of-the-art docking tools .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To overcome these limitations , we describe the use of an incremental meta-docking approach for structural prediction of pMHC complexes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Previous methods applied in this context used specific constraints to reduce the complexity of this prediction problem ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "at the expense of generality .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our strategy makes no assumption and can potentially be used to predict binding modes for any pMHC complex .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our method has been tested in a re-docking experiment ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "reproducing the binding modes of 25 pMHC complexes whose crystal structures are available .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study is a proof of concept that incremental docking strategies can lead to general geometry prediction of pMHC complexes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with potential applications for immunotherapy against cancer or infectious diseases .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "9",
+    "segment_num": "15",
+    "token_num": "218"
+  }
+}

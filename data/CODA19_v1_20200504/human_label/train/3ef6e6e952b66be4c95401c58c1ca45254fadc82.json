@@ -1,0 +1,226 @@
+{
+  "paper_id": "3ef6e6e952b66be4c95401c58c1ca45254fadc82",
+  "metadata": {
+    "title": "ON-FARM MORTALITY IN SWEDISH DAIRY COWS 4354 ALVÅSEN ET AL",
+    "coda_data_split": "train",
+    "coda_paper_id": 3435,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "publicly funded repositories, such as the WHO COVID database with rights for unrestricted research re-use and analyses in any form or by any means with acknowledgement of the original source. These permissions are granted for free by Elsevier for as long as the COVID-19 resource centre remains active. J. Dairy Sci. 95 :4352-4362 http://dx.",
+      "sentences": [
+        [
+          {
+            "segment_text": "publicly funded repositories , such as the WHO COVID database with rights for unrestricted research re-use and analyses in any form or by any means with acknowledgement of the original source .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "These permissions are granted for free by Elsevier for as long as the COVID-19 resource centre remains active .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "J. Dairy Sci .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "95 : 4352-4362 http://dx .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "An increase in on-farm mortality (euthanasia and death) in dairy herds has been reported in several countries in the last decade. This does not only imply possible problems with animal welfare, but it also causes economic losses to the farmer. The objective of this study was to evaluate time trends in on-farm dairy cow mortality in Sweden and identify potential herd-level risk factors. Data were retrieved on all Swedish dairy herds enrolled in the milk recording scheme between 2002 and 2010. Herds with a herd size of \u003c20 cows or a mortality rate (MR) of \u003e40 dead or euthanized cows per 100 cow-years were excluded. Two different models were used: 1 multiple-year analysis, which included 6,898 herds during the period 2002 to 2010 and 1 single-year analysis including 4,252 herds for the year 2010, where other variables that were not present during the entire multiple year study were analyzed. The outcome variable was the number of euthanized and dead cows per year and season. A negative binomial regression model, adjusted for clustering within herd, was applied to both models. Fixed effects in the multiple-year analysis were breed, calving interval, herd size, milk yield, region, season, pasture period, and year. The fixed effects in the single-year analysis were breed, calving interval, conventional versus organic farming, herd size, housing system, milk yield, region, and season. The results demonstrated that MR gradually increased from 5.1 to 6.6 events per 100 cow-years during the study period. Swedish MR are consequently on par with, or even greater than, MR among dairy herds in other comparable countries. Higher mortality was associated with larger herd size, longer calving intervals, and herds that had Swedish Holstein as the predominant breed. Lower mortality was observed in herds with a higher herd average milk yield, during the fall and winter, and in organically managed herds. There were regional differences in mortality. An interaction between herd size and season was found in both models. Also, an interaction between housing system and milk yield was found in the single-year analysis. This first assessment of on-farm mortality in Swedish dairy herds confirmed that the MR has increased over the last few years. The study also identified some herd-level risk factors.",
+      "sentences": [
+        [
+          {
+            "segment_text": "An increase in on-farm mortality ( euthanasia and death ) in dairy herds has been reported in several countries in the last decade .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This does not only imply possible problems with animal welfare ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but it also causes economic losses to the farmer .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The objective of this study was to evaluate time trends in on-farm dairy cow mortality in Sweden and identify potential herd-level risk factors .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Data were retrieved on all Swedish dairy herds enrolled in the milk recording scheme between 2002 and 2010 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Herds with a herd size of \u003c 20 cows or a mortality rate ( MR ) of \u003e 40 dead or euthanized cows per 100 cow-years were excluded .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Two different models were used : 1 multiple-year analysis ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which included 6,898 herds during the period 2002 to 2010 and 1 single-year analysis including 4,252 herds for the year 2010 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "where other variables that were not present during the entire multiple year study were analyzed .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The outcome variable was the number of euthanized and dead cows per year and season .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A negative binomial regression model ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "adjusted for clustering within herd ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "was applied to both models .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Fixed effects in the multiple-year analysis were breed ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "calving interval , herd size ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "milk yield , region , season ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "pasture period , and year .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The fixed effects in the single-year analysis were breed ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "calving interval , conventional versus organic farming ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "herd size , housing system ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "milk yield , region , and season .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results demonstrated that MR gradually increased from 5.1 to 6.6 events per 100 cow-years during the study period .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Swedish MR are consequently on par with ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "or even greater than , MR among dairy herds in other comparable countries .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Higher mortality was associated with larger herd size ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "longer calving intervals , and herds that had Swedish Holstein as the predominant breed .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Lower mortality was observed in herds with a higher herd average milk yield ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "during the fall and winter ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and in organically managed herds .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "There were regional differences in mortality .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "An interaction between herd size and season was found in both models .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Also , an interaction between housing system and milk yield was found in the single-year analysis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This first assessment of on-farm mortality in Swedish dairy herds confirmed that the MR has increased over the last few years .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The study also identified some herd-level risk factors .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "23",
+    "segment_num": "38",
+    "token_num": "479"
+  }
+}

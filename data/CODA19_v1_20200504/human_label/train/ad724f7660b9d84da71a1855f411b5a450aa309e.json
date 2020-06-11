@@ -1,0 +1,154 @@
+{
+  "paper_id": "ad724f7660b9d84da71a1855f411b5a450aa309e",
+  "metadata": {
+    "title": "A Universal Next-Generation Sequencing Protocol To Generate Noninfectious Barcoded cDNA Libraries from High- Containment RNA Viruses",
+    "coda_data_split": "train",
+    "coda_paper_id": 2378,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Several biosafety level 3 and/or 4 (BSL-3/4) pathogens are highconsequence, single-stranded RNA viruses, and their genomes, when introduced into permissive cells, are infectious. Moreover, many of these viruses are select agents (SAs), and their genomes are also considered SAs. For this reason, cDNAs and/or their derivatives must be tested to ensure the absence of infectious virus and/or viral RNA before transfer out of the BSL-3/4 and/or SA laboratory. This tremendously limits the capacity to conduct viral genomic research, particularly the application of next-generation sequencing (NGS). Here, we present a sequence-independent method to rapidly amplify viral genomic RNA while simultaneously abolishing both viral and genomic RNA infectivity across multiple single-stranded positive-sense RNA (ssRNAϩ) virus families. The process generates barcoded DNA amplicons that range in length from 300 to 1,000 bp, which cannot be used to rescue a virus and are stable to transport at room temperature. Our barcoding approach allows for up to 288 barcoded samples to be pooled into a single library and run across various NGS platforms without potential reconstitution of the viral genome. Our data demonstrate that this approach provides full-length genomic sequence information not only from high-titer virion preparations but it can also recover specific viral sequence from samples with limited starting material in the background of cellular RNA, and it can be used to identify pathogens from unknown samples. In summary, we describe a rapid, universal standard operating procedure that generates highquality NGS libraries free of infectious virus and infectious viral RNA.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Several biosafety level 3 and/or 4 ( BSL-3 / 4 ) pathogens are highconsequence ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "single-stranded RNA viruses , and their genomes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "when introduced into permissive cells , are infectious .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , many of these viruses are select agents ( SAs ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and their genomes are also considered SAs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "For this reason , cDNAs and/or their derivatives must be tested to ensure the absence of infectious virus and/or viral RNA before transfer out of the BSL-3 / 4 and/or SA laboratory .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This tremendously limits the capacity to conduct viral genomic research ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "particularly the application of next-generation sequencing ( NGS ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we present a sequence-independent method to rapidly amplify viral genomic RNA while simultaneously abolishing both viral and genomic RNA infectivity across multiple single-stranded positive-sense RNA ( ssRNAϩ ) virus families .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The process generates barcoded DNA amplicons that range in length from 300 to 1,000 bp ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which can not be used to rescue a virus and are stable to transport at room temperature .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our barcoding approach allows for up to 288 barcoded samples to be pooled into a single library and run across various NGS platforms without potential reconstitution of the viral genome .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our data demonstrate that this approach provides full-length genomic sequence information not only from high-titer virion preparations but it can also recover specific viral sequence from samples with limited starting material in the background of cellular RNA ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and it can be used to identify pathogens from unknown samples .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In summary , we describe a rapid ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "universal standard operating procedure that generates highquality NGS libraries free of infectious virus and infectious viral RNA .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "This report establishes and validates a standard operating procedure (SOP) for select agents (SAs) and other biosafety level 3 and/or 4 (BSL-3/4) RNA viruses to rapidly generate noninfectious, barcoded cDNA amenable for nextgeneration sequencing (NGS). This eliminates the burden of testing all processed samples derived from high-consequence pathogens prior to transfer from highcontainment laboratories to lower-containment facilities for sequencing. Our established protocol can be scaled up for high-throughput sequencing of hundreds of samples simultaneously, which can dramatically reduce the cost and effort required for NGS library construction. NGS data from this SOP can provide complete genome coverage from viral stocks and can also detect virus-specific reads from limited start-TB, Shabman RS. 2016. A universal next-generation sequencing protocol to generate noninfectious barcoded cDNA libraries from high-containment RNA viruses. mSystems 1(3):e00039-15.",
+      "sentences": [
+        [
+          {
+            "segment_text": "This report establishes and validates a standard operating procedure ( SOP ) for select agents ( SAs ) and other biosafety level 3 and/or 4 ( BSL-3 / 4 ) RNA viruses to rapidly generate noninfectious ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "barcoded cDNA amenable for nextgeneration sequencing ( NGS ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This eliminates the burden of testing all processed samples derived from high-consequence pathogens prior to transfer from highcontainment laboratories to lower-containment facilities for sequencing .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our established protocol can be scaled up for high-throughput sequencing of hundreds of samples simultaneously ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which can dramatically reduce the cost and effort required for NGS library construction .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "NGS data from this SOP can provide complete genome coverage from viral stocks and can also detect virus-specific reads from limited start-TB , Shabman RS. 2016 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A universal next-generation sequencing protocol to generate noninfectious barcoded cDNA libraries from high-containment RNA viruses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "mSystems 1 ( 3 ) : e00039-15 .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "15",
+    "segment_num": "24",
+    "token_num": "434"
+  }
+}

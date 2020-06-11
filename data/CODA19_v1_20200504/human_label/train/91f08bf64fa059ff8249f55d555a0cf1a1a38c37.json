@@ -1,0 +1,165 @@
+{
+  "paper_id": "91f08bf64fa059ff8249f55d555a0cf1a1a38c37",
+  "metadata": {
+    "title": "An Ecological Framework for Modeling the Geography of Disease Transmission",
+    "coda_data_split": "train",
+    "coda_paper_id": 5590,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Ecological niche modeling (ENM) is widely employed in ecology to predict species\u0027 potential geographic distributions in relation to their environmental constraints and is rapidly becoming the gold-standard method for disease risk mapping. However, given the biological complexity of disease systems, the traditional ENM framework requires reevaluation. We provide an overview of the application of ENM to disease systems and propose a theoretical framework based on the biological properties of both hosts and parasites to produce reliable outputs resembling disease system distributions. Additionally, we discuss the differences between biological considerations when implementing ENM for distributional ecology and epidemiology. This new framework will help the field of disease ecology and applications of biogeography in the epidemiology of infectious diseases.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Ecological niche modeling ( ENM ) is widely employed in ecology to predict species \u0027 potential geographic distributions in relation to their environmental constraints and is rapidly becoming the gold-standard method for disease risk mapping .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , given the biological complexity of disease systems ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the traditional ENM framework requires reevaluation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We provide an overview of the application of ENM to disease systems and propose a theoretical framework based on the biological properties of both hosts and parasites to produce reliable outputs resembling disease system distributions .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Additionally , we discuss the differences between biological considerations when implementing ENM for distributional ecology and epidemiology .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "This new framework will help the field of disease ecology and applications of biogeography in the epidemiology of infectious diseases .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The recent rise of emerging infectious diseases (EIDs) (see Glossary) [1] has increased the burden of infectious diseases and negatively impacted the global economy [2][3][4] [5] . Approximately 60% of emerging human diseases are caused by pathogenic parasites of animal origin (zoonoses), particularly wildlife [6] . As human activities intensify, contact with wildlife and exposure to novel parasites increase, potentially driving zoonotic disease emergence [1, 7] . Given the threat that EIDs pose to human populations, understanding the underlying drivers of parasite geographic distribution and their spillover to humans is particularly relevant for epidemiologists, public-health practitioners, and policy makers [9] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "The recent rise of emerging infectious diseases ( EIDs ) ( see Glossary ) ( 1 ) has increased the burden of infectious diseases and negatively impacted the global economy ( 2 ) ( 3 ) ( 4 ) ( 5 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Approximately 60 % of emerging human diseases are caused by pathogenic parasites of animal origin ( zoonoses ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "particularly wildlife ( 6 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As human activities intensify , contact with wildlife and exposure to novel parasites increase ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "potentially driving zoonotic disease emergence ( 1 , 7 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Given the threat that EIDs pose to human populations ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "understanding the underlying drivers of parasite geographic distribution and their spillover to humans is particularly relevant for epidemiologists ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "public-health practitioners , and policy makers ( 9 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Ecological niche modeling (ENM) has proven useful to forecast the distribution of a vast number of organisms [10-13] and is increasingly employed to predict parasite distributions locally and globally [14] [15] [16] [17] . Despite great strides made in the implementation of ENM to forecast complex biological phenomena such as disease systems [18], traditional frameworks may render biologically unrealistic predictions and thus must be revised, as we show in this review. We provide an overview of the current state of disease ENM and propose a framework based on the biological properties of both parasites and hosts to produce reliable outputs resembling disease systems distributions. Specifically, our theoretical framework: (i) addresses the selection of an appropriate modeling approach and highlights the importance of including biologically sound predictor variables; (ii) proposes the concept of a microscale parasitic niche defined by host traits to identify relevant parasite-host associations; and (iii) integrates traditional parasite ENM with the proposed microscale niche to better understand geographic distributions and improve fine-scale predictions of disease transmission risk.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Ecological niche modeling ( ENM ) has proven useful to forecast the distribution of a vast number of organisms ( 10-13 ) and is increasingly employed to predict parasite distributions locally and globally ( 14 ) ( 15 ) ( 16 ) ( 17 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Despite great strides made in the implementation of ENM to forecast complex biological phenomena such as disease systems ( 18 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "traditional frameworks may render biologically unrealistic predictions and thus must be revised ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as we show in this review .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We provide an overview of the current state of disease ENM and propose a framework based on the biological properties of both parasites and hosts to produce reliable outputs resembling disease systems distributions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Specifically , our theoretical framework : ( i ) addresses the selection of an appropriate modeling approach and highlights the importance of including biologically sound predictor variables ; ( ii ) proposes the concept of a microscale parasitic niche defined by host traits to identify relevant parasite-host associations ; and ( iii ) integrates traditional parasite ENM with the proposed microscale niche to better understand geographic distributions and improve fine-scale predictions of disease transmission risk .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "ENM estimates the distributions of species by linking their geographic occurrence with their environmental constraints, often utilizing correlative approaches (detailed explanations in [18] ).",
+      "sentences": [
+        [
+          {
+            "segment_text": "ENM estimates the distributions of species by linking their geographic occurrence with their environmental constraints ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "often utilizing correlative approaches ( detailed explanations in ( 18 ) ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Highlights",
+      "sentences": [
+        [
+          {
+            "segment_text": "Highlights",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "15",
+    "segment_num": "23",
+    "token_num": "489"
+  }
+}

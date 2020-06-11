@@ -1,0 +1,95 @@
+{
+  "paper_id": "a7d6aeb7cd27e3f420ae9ca4711ad2ac77651089",
+  "metadata": {
+    "title": "Metagenomic sequencing complements routine diagnostics in identifying viral pathogens in lung transplant recipients with unknown etiology of respiratory infection",
+    "coda_data_split": "train",
+    "coda_paper_id": 5178,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Lung transplant patients are a vulnerable group of immunosuppressed patients that are prone to frequent respiratory infections. We studied 60 episodes of respiratory symptoms in 71 lung transplant patients. Almost half of these episodes were of unknown infectious etiology despite extensive routine diagnostic testing.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Lung transplant patients are a vulnerable group of immunosuppressed patients that are prone to frequent respiratory infections .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We studied 60 episodes of respiratory symptoms in 71 lung transplant patients .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Almost half of these episodes were of unknown infectious etiology despite extensive routine diagnostic testing .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We re-analyzed respiratory samples of all episodes with undetermined etiology in order to detect potential viral pathogens missed/not accounted for in routine diagnostics. Respiratory samples were enriched for viruses by filtration and nuclease digestion, whole nucleic acids extracted and randomly amplified before high throughput metagenomic virus sequencing. Viruses were identified by a bioinformatic pipeline and confirmed and quantified using specific real-time PCR.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We re-analyzed respiratory samples of all episodes with undetermined etiology in order to detect potential viral pathogens missed/not accounted for in routine diagnostics .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Respiratory samples were enriched for viruses by filtration and nuclease digestion ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "whole nucleic acids extracted and randomly amplified before high throughput metagenomic virus sequencing .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Viruses were identified by a bioinformatic pipeline and confirmed and quantified using specific real-time PCR .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In completion of routine diagnostics, we identified and confirmed a viral etiology of infection by our metagenomic approach in four patients (three Rhinovirus A, one Rhinovirus B infection) despite initial negative results in specific multiplex PCR. Notably, the majority of samples were also positive for Torque teno virus (TTV) and Human Herpesvirus 7 (HHV-7). While TTV viral loads increased with immunosuppression in both throat swabs and blood PLOS ONE | https://doi.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In completion of routine diagnostics ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we identified and confirmed a viral etiology of infection by our metagenomic approach in four patients ( three Rhinovirus A , one Rhinovirus B infection ) despite initial negative results in specific multiplex PCR .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Notably , the majority of samples were also positive for Torque teno virus ( TTV ) and Human Herpesvirus 7 ( HHV-7 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "While TTV viral loads increased with immunosuppression in both throat swabs and blood PLOS ONE | https://doi .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "9",
+    "segment_num": "11",
+    "token_num": "196"
+  }
+}

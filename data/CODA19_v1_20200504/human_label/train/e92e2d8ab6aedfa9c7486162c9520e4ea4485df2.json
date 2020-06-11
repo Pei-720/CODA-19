@@ -1,0 +1,156 @@
+{
+  "paper_id": "e92e2d8ab6aedfa9c7486162c9520e4ea4485df2",
+  "metadata": {
+    "title": "Host and viral traits predict zoonotic spillover from mammals HHS Public Access",
+    "coda_data_split": "train",
+    "coda_paper_id": 4823,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The majority of human emerging infectious diseases (EIDs) are zoonotic, with viruses originating in wild mammals of particular concern (e.g. HIV, Ebola, SARS) 1-3 . Understanding patterns of viral diversity in wildlife and determinants of successful cross-species transmission, or spillover, are therefore key goals for pandemic surveillance programs 4 . However, few analytical tools exist to identify which host species likely harbor the next human virus, or which viruses can cross species boundaries 5-7 . Here we conduct the most comprehensive analysis yet of mammalian hostvirus relationships and show that both the total number of viruses that infect a given species, and the proportion likely to be zoonotic are predictable. After controlling for research effort, the proportion of zoonotic viruses per species is predicted by phylogenetic relatedness to humans, host taxonomy, and human population within a species range -which may reflect human-wildlife contact. We demonstrate for the first time that bats harbor a significantly higher proportion of zoonotic viruses than all other mammalian orders. We identify the taxa and geographic regions with the largest estimated number of \u0027missing viruses\u0027 and \u0027missing zoonoses\u0027 and therefore of highest value for future surveillance. We then show that phylogenetic host breadth and other viral traits are significant predictors of zoonotic potential, providing a novel framework to assess if a newly discovered mammalian virus could infect people. Viral zoonoses are a serious threat to public health and global security, and have caused the majority of recent pandemics in people 4 , yet our understanding of the factors driving viral diversity in mammals, viral host range, and cross-species transmission to humans remain nascent. Recent studies have described broad patterns of pathogen host range 1,3 and various host or microbial factors that facilitate cross-species transmission 5,7,8 , or have focused on Users may view, print, copy, and download text and data-mine the content in such documents, for the purposes of academic research, subject always to the full Conditions of use: http://www.nature.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The majority of human emerging infectious diseases ( EIDs ) are zoonotic ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with viruses originating in wild mammals of particular concern ( e.g. HIV , Ebola , SARS ) 1-3 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Understanding patterns of viral diversity in wildlife and determinants of successful cross-species transmission ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "or spillover , are therefore key goals for pandemic surveillance programs 4 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , few analytical tools exist to identify which host species likely harbor the next human virus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "or which viruses can cross species boundaries 5-7 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we conduct the most comprehensive analysis yet of mammalian hostvirus relationships and show that both the total number of viruses that infect a given species ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and the proportion likely to be zoonotic are predictable .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "After controlling for research effort ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the proportion of zoonotic viruses per species is predicted by phylogenetic relatedness to humans ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "host taxonomy , and human population within a species range - which may reflect human-wildlife contact .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We demonstrate for the first time that bats harbor a significantly higher proportion of zoonotic viruses than all other mammalian orders .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We identify the taxa and geographic regions with the largest estimated number of ` missing viruses \u0027 and ` missing zoonoses \u0027 and therefore of highest value for future surveillance .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We then show that phylogenetic host breadth and other viral traits are significant predictors of zoonotic potential ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "providing a novel framework to assess if a newly discovered mammalian virus could infect people .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Viral zoonoses are a serious threat to public health and global security ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and have caused the majority of recent pandemics in people 4 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "yet our understanding of the factors driving viral diversity in mammals ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "viral host range , and cross-species transmission to humans remain nascent .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recent studies have described broad patterns of pathogen host range 1,3 and various host or microbial factors that facilitate cross-species transmission 5,7,8 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "or have focused on Users may view ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "print , copy , and download text and data-mine the content in such documents ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "for the purposes of academic research ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "subject always to the full Conditions of use : http://www.nature .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "All datasets (host traits, viral traits, full list of host-virus associations and associated references, phylogenetic trees, and phylogenetic distance matrices) along with the R code and R package dependencies needed to fully replicate and evaluate these analyses are provided at http://doi.org/10.5281/zenodo.569079. The top-level README.txt file in the directory details the file structure and metadata provided.",
+      "sentences": [
+        [
+          {
+            "segment_text": "All datasets ( host traits , viral traits , full list of host-virus associations and associated references , phylogenetic trees , and phylogenetic distance matrices ) along with the R code and R package dependencies needed to fully replicate and evaluate these analyses are provided at http://doi.org/10.5281/zenodo.569079 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "The top-level README.txt file in the directory details the file structure and metadata provided .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "12",
+    "segment_num": "26",
+    "token_num": "424"
+  }
+}

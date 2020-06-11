@@ -1,0 +1,89 @@
+{
+  "paper_id": "08c1093aa1c393ee5364089d26278781dc3a3405",
+  "metadata": {
+    "title": "Mapping overlapping functional elements embedded within the protein-coding regions of RNA viruses",
+    "coda_data_split": "train",
+    "coda_paper_id": 4547,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Identification of the full complement of genes and other functional elements in any virus is crucial to fully understand its molecular biology and guide the development of effective control strategies. RNA viruses have compact multifunctional genomes that frequently contain overlapping genes and non-coding functional elements embedded within protein-coding sequences. Overlapping features often escape detection because it can be difficult to disentangle the multiple roles of the constituent nucleotides via mutational analyses, while high-throughput experimental techniques are often unable to distinguish functional elements from incidental features. However, RNA viruses evolve very rapidly so that, even within a single species, substitutions rapidly accumulate at neutral or near-neutral sites providing great potential for comparative genomics to distinguish the signature of purifying selection. Computationally identified features can then be efficiently targeted for experimental analysis. Here we analyze alignments of protein-coding virus sequences to identify regions where there is a statistically significant reduction in the degree of variability at synonymous sites, a characteristic signature of overlapping functional elements. Having previously tested this technique by experimental verification of discoveries in selected viruses, we now analyze sequence alignments for ∼700 RNA virus species to identify hundreds of such regions, many of which have not been previously described.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Identification of the full complement of genes and other functional elements in any virus is crucial to fully understand its molecular biology and guide the development of effective control strategies .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "RNA viruses have compact multifunctional genomes that frequently contain overlapping genes and non-coding functional elements embedded within protein-coding sequences .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Overlapping features often escape detection because it can be difficult to disentangle the multiple roles of the constituent nucleotides via mutational analyses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "while high-throughput experimental techniques are often unable to distinguish functional elements from incidental features .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , RNA viruses evolve very rapidly so that ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "even within a single species ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "substitutions rapidly accumulate at neutral or near-neutral sites providing great potential for comparative genomics to distinguish the signature of purifying selection .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Computationally identified features can then be efficiently targeted for experimental analysis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we analyze alignments of protein-coding virus sequences to identify regions where there is a statistically significant reduction in the degree of variability at synonymous sites ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "a characteristic signature of overlapping functional elements .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Having previously tested this technique by experimental verification of discoveries in selected viruses ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we now analyze sequence alignments for ∼ 700 RNA virus species to identify hundreds of such regions ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "many of which have not been previously described .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "13",
+    "token_num": "215"
+  }
+}

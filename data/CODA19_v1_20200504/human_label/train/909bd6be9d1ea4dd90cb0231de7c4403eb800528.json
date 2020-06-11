@@ -1,0 +1,144 @@
+{
+  "paper_id": "909bd6be9d1ea4dd90cb0231de7c4403eb800528",
+  "metadata": {
+    "title": "Superiority of Transcriptional Profiling Over Procalcitonin for Distinguishing Bacterial From Viral Lower Respiratory Tract Infections in Hospitalized Adults",
+    "coda_data_split": "train",
+    "coda_paper_id": 5253,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Background. Distinguishing between bacterial and viral lower respiratory tract infection (LRTI) remains challenging. Transcriptional profiling is a promising tool for improving diagnosis in LRTI.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Distinguishing between bacterial and viral lower respiratory tract infection ( LRTI ) remains challenging .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Transcriptional profiling is a promising tool for improving diagnosis in LRTI .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Methods. We performed whole blood transcriptional analysis in 118 patients (median age [interquartile range], 61 [50-76] years) hospitalized with LRTI and 40 age-matched healthy controls (median age, 60 [46-70] years). We applied class comparisons, modular analysis, and class prediction algorithms to identify and validate diagnostic biosignatures for bacterial and viral LRTI.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Methods .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We performed whole blood transcriptional analysis in 118 patients ( median age ( interquartile range ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "61 ( 50-76 ) years ) hospitalized with LRTI and 40 age-matched healthy controls ( median age , 60 ( 46-70 ) years ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We applied class comparisons , modular analysis ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and class prediction algorithms to identify and validate diagnostic biosignatures for bacterial and viral LRTI .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results. Patients were classified as having bacterial (n \u003d 22), viral (n \u003d 71), or bacterial-viral LRTI (n \u003d 25) based on comprehensive microbiologic testing. Compared with healthy controls, statistical group comparisons (P \u003c .01; multiple-test corrections) identified 3376 differentially expressed genes in patients with bacterial LRTI, 2391 in viral LRTI, and 2628 in bacterial-viral LRTI. Patients with bacterial LRTI showed significant overexpression of inflammation and neutrophil genes (bacterial \u003e bacterial-viral \u003e viral), and those with viral LRTI displayed significantly greater overexpression of interferon genes (viral \u003e bacterial-viral \u003e bacterial). The K-nearest neighbors algorithm identified 10 classifier genes that discriminated between bacterial and viral LRTI with a 95% sensitivity (95% confidence interval, 77%-100%) and 92% specificity (77%-98%), compared with a sensitivity of 38% (18%-62%) and a specificity of 91% (76%-98%) for procalcitonin.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Patients were classified as having bacterial ( n \u003d 22 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "viral ( n \u003d 71 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "or bacterial-viral LRTI ( n \u003d 25 ) based on comprehensive microbiologic testing .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Compared with healthy controls , statistical group comparisons ( P \u003c .01 ; multiple-test corrections ) identified 3376 differentially expressed genes in patients with bacterial LRTI ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "2391 in viral LRTI , and 2628 in bacterial-viral LRTI .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Patients with bacterial LRTI showed significant overexpression of inflammation and neutrophil genes ( bacterial \u003e bacterial-viral \u003e viral ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and those with viral LRTI displayed significantly greater overexpression of interferon genes ( viral \u003e bacterial-viral \u003e bacterial ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The K-nearest neighbors algorithm identified 10 classifier genes that discriminated between bacterial and viral LRTI with a 95 % sensitivity ( 95 % confidence interval , 77 % -100 % ) and 92 % specificity ( 77 % -98 % ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "compared with a sensitivity of 38 % ( 18 % -62 % ) and a specificity of 91 % ( 76 % -98 % ) for procalcitonin .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Conclusions. Transcriptional profiling is a helpful tool for diagnosis of LRTI.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Conclusions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Transcriptional profiling is a helpful tool for diagnosis of LRTI .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "13",
+    "segment_num": "20",
+    "token_num": "293"
+  }
+}

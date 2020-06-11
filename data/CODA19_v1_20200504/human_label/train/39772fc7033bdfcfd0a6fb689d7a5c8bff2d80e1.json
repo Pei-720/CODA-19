@@ -1,0 +1,109 @@
+{
+  "paper_id": "39772fc7033bdfcfd0a6fb689d7a5c8bff2d80e1",
+  "metadata": {
+    "title": "In Vitro and In Vivo Studies Identify Important Features of Dengue Virus pr-E Protein Interactions",
+    "coda_data_split": "train",
+    "coda_paper_id": 5042,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Flaviviruses bud into the endoplasmic reticulum and are transported through the secretory pathway, where the mildly acidic environment triggers particle rearrangement and allows furin processing of the prM protein to pr and M. The peripheral pr peptide remains bound to virus at low pH and inhibits virus-membrane interaction. Upon exocytosis, the release of pr at neutral pH completes virus maturation to an infectious particle. Together this evidence suggests that pr may shield the flavivirus fusion protein E from the low pH environment of the exocytic pathway. Here we developed an in vitro system to reconstitute the interaction of dengue virus (DENV) pr with soluble truncated E proteins. At low pH recombinant pr bound to both monomeric and dimeric forms of E and blocked their membrane insertion. Exogenous pr interacted with mature infectious DENV and specifically inhibited virus fusion and infection. Alanine substitution of E H244, a highly conserved histidine residue in the pr-E interface, blocked pr-E interaction and reduced release of DENV virus-like particles. Folding, membrane insertion and trimerization of the H244A mutant E protein were preserved, and particle release could be partially rescued by neutralization of the low pH of the secretory pathway. Thus, pr acts to silence flavivirus fusion activity during virus secretion, and this function can be separated from the chaperone activity of prM. The sequence conservation of key residues involved in the flavivirus pr-E interaction suggests that this protein-protein interface may be a useful target for broad-spectrum inhibitors.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Flaviviruses bud into the endoplasmic reticulum and are transported through the secretory pathway ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "where the mildly acidic environment triggers particle rearrangement and allows furin processing of the prM protein to pr and M .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The peripheral pr peptide remains bound to virus at low pH and inhibits virus-membrane interaction .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Upon exocytosis , the release of pr at neutral pH completes virus maturation to an infectious particle .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Together this evidence suggests that pr may shield the flavivirus fusion protein E from the low pH environment of the exocytic pathway .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we developed an in vitro system to reconstitute the interaction of dengue virus ( DENV ) pr with soluble truncated E proteins .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "At low pH recombinant pr bound to both monomeric and dimeric forms of E and blocked their membrane insertion .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Exogenous pr interacted with mature infectious DENV and specifically inhibited virus fusion and infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Alanine substitution of E H244 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a highly conserved histidine residue in the pr-E interface ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "blocked pr-E interaction and reduced release of DENV virus-like particles .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Folding , membrane insertion and trimerization of the H244A mutant E protein were preserved ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and particle release could be partially rescued by neutralization of the low pH of the secretory pathway .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , pr acts to silence flavivirus fusion activity during virus secretion ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and this function can be separated from the chaperone activity of prM .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The sequence conservation of key residues involved in the flavivirus pr-E interaction suggests that this protein-protein interface may be a useful target for broad-spectrum inhibitors .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "11",
+    "segment_num": "16",
+    "token_num": "263"
+  }
+}

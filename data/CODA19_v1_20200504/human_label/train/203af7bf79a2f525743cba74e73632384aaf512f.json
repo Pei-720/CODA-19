@@ -1,0 +1,77 @@
+{
+  "paper_id": "203af7bf79a2f525743cba74e73632384aaf512f",
+  "metadata": {
+    "title": "A human coronavirus OC43 variant harboring persistence-associated mutations in the S glycoprotein differentially induces the unfolded protein response in human neurons as compared to wild-type virus",
+    "coda_data_split": "train",
+    "coda_paper_id": 2445,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "We have reported that human respiratory coronavirus OC43 (HCoV-OC43) is neurotropic and neuroinvasive in humans and mice, and that neurons are the primary target of infection in mice, leading to neurodegenerative disabilities. We now report that an HCoV-OC43 mutant harboring two persistenceassociated S glycoprotein point mutations (H183R and Y241H), induced a stronger unfolded protein response (UPR) and translation attenuation in infected human neurons. There was a major contribution of the IRE1/XBP1 pathway, followed by caspase-3 activation and nuclear fragmentation, with no significant role of the ATF6 and eIF2-alpha/ATF4 pathways. Our results show the importance of discrete molecular viral S determinants in virus-neuronal cell interactions that lead to increased production of viral proteins and infectious particles, enhanced UPR activation, and increased cytotoxicity and cell death. As this mutant virus is more neurovirulent in mice, our results also suggest that two mutations in the S glycoprotein could eventually modulate viral neuropathogenesis.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We have reported that human respiratory coronavirus OC43 ( HCoV-OC43 ) is neurotropic and neuroinvasive in humans and mice ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and that neurons are the primary target of infection in mice , leading to neurodegenerative disabilities .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We now report that an HCoV-OC43 mutant harboring two persistenceassociated S glycoprotein point mutations ( H183R and Y241H ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "induced a stronger unfolded protein response ( UPR ) and translation attenuation in infected human neurons .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "There was a major contribution of the IRE1/XBP1 pathway ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "followed by caspase-3 activation and nuclear fragmentation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with no significant role of the ATF6 and eIF2-alpha/ATF4 pathways .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our results show the importance of discrete molecular viral S determinants in virus-neuronal cell interactions that lead to increased production of viral proteins and infectious particles ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "enhanced UPR activation , and increased cytotoxicity and cell death .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "As this mutant virus is more neurovirulent in mice ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "our results also suggest that two mutations in the S glycoprotein could eventually modulate viral neuropathogenesis .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "11",
+    "token_num": "168"
+  }
+}

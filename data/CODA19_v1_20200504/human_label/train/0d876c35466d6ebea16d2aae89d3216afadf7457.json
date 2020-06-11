@@ -1,0 +1,77 @@
+{
+  "paper_id": "0d876c35466d6ebea16d2aae89d3216afadf7457",
+  "metadata": {
+    "title": "An ORF-2a protein is not present at a significant level in virions of the arterivirus lactate dehydrogenase-elevating virus",
+    "coda_data_split": "train",
+    "coda_paper_id": 7809,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "MRNA2 of the arteriviruses lactate dehydrogenase-elevating virus (LDV) and equine arteritis virus (EAV) encodes two proteins that are read in different frames, an about 26 kDa minor envelope glycoprotein and an about 8 kDa protein that lacks N-glycosylation sites and a signal peptide, but possesses a central hydrophobic segment. Recent studies have shown that both proteins of EAV are translated from mRNA 2 in EAV infected BHK cells, that the 8 kDa protein is membrane associated and that small amounts of it are recovered in purified virions (Snijder, E.J., van Tol, H., Pederson, K.W., Raamsman, M.J.B., de Vries, A.A.F., 1999. Identification of a novel structural protein of arteriviruses. J. Virol. 73, 6335-6345). The authors concluded that the 8 kDa protein is another arterivirus envelope protein and designated it E protein. However, we have not detected a significant level of an 8 kDa protein in LDV virions and thus conclude that it is not a structural virion component.",
+      "sentences": [
+        [
+          {
+            "segment_text": "MRNA2 of the arteriviruses lactate dehydrogenase-elevating virus ( LDV ) and equine arteritis virus ( EAV ) encodes two proteins that are read in different frames ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "an about 26 kDa minor envelope glycoprotein and an about 8 kDa protein that lacks N-glycosylation sites and a signal peptide ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but possesses a central hydrophobic segment .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recent studies have shown that both proteins of EAV are translated from mRNA 2 in EAV infected BHK cells ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "that the 8 kDa protein is membrane associated and that small amounts of it are recovered in purified virions ( Snijder , E.J. , van Tol , H. , Pederson , K.W. , Raamsman , M.J.B. , de Vries , A.A.F. , 1999 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Identification of a novel structural protein of arteriviruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "J. Virol .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "73 , 6335-6345 ) .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "The authors concluded that the 8 kDa protein is another arterivirus envelope protein and designated it E protein .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , we have not detected a significant level of an 8 kDa protein in LDV virions and thus conclude that it is not a structural virion component .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "10",
+    "token_num": "185"
+  }
+}

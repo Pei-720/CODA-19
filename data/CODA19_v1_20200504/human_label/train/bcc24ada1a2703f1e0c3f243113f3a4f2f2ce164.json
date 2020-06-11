@@ -1,0 +1,170 @@
+{
+  "paper_id": "bcc24ada1a2703f1e0c3f243113f3a4f2f2ce164",
+  "metadata": {
+    "title": "The impact of news exposure on collective attention in the United States during the 2016 Zika epidemic",
+    "coda_data_split": "train",
+    "coda_paper_id": 8941,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "In recent years, many studies have drawn attention to the important role of collective awareness and human behaviour during epidemic outbreaks. A number of modelling efforts have investigated the interaction between the disease transmission dynamics and human behaviour change mediated by news coverage and by information spreading in the population. Yet, given the scarcity of data on public awareness during an epidemic, few studies have relied on empirical data. Here, we use fine-grained, geo-referenced data from three online sources-Wikipedia, the GDELT Project and the Internet Archive-to quantify populationscale information seeking about the 2016 Zika virus epidemic in the U.S., explicitly linking such behavioural signal to epidemiological data. Geo-localized Wikipedia pageview data reveal that visiting patterns of Zika-related pages in Wikipedia were highly synchronized across the United States and largely explained by exposure to national television broadcast. Contrary to the assumption of some theoretical epidemic models, news volume and Wikipedia visiting patterns were not significantly correlated with the magnitude or the extent of the epidemic. Attention to Zika, in terms of Zika-related Wikipedia pageviews, was high at the beginning of the outbreak, when public health agencies raised an international alert and triggered media coverage, but subsequently exhibited an activity profile that suggests nonlinear dependencies and memory effects in the relation between information seeking, media pressure, and disease dynamics. This calls for a new and more general modelling framework to describe the interaction between media exposure, public awareness and disease dynamics during epidemic outbreaks. Data Availability Statement: Data are available from the Zenodo repository (https://doi.org/10. 5281/zenodo.3603916). data, and we compare it with mentions of Zika in US news outlets and TV shows. We also compare the collective attention received by the outbreak with the incidence of Zika reported by the US Centers for Disease Control and Prevention in each state. We find that the attention dynamics was highly synchronized across states, irrespective of the local risk of transmission of the virus. By building a linear regression model, we show that the dynamics of collective attention is highly predictable, even at state level, only based on the national media coverage received by the outbreak.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In recent years , many studies have drawn attention to the important role of collective awareness and human behaviour during epidemic outbreaks .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A number of modelling efforts have investigated the interaction between the disease transmission dynamics and human behaviour change mediated by news coverage and by information spreading in the population .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Yet , given the scarcity of data on public awareness during an epidemic ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "few studies have relied on empirical data .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we use fine-grained ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "geo-referenced data from three online sources-Wikipedia ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the GDELT Project and the Internet Archive-to quantify populationscale information seeking about the 2016 Zika virus epidemic in the U.S. ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "explicitly linking such behavioural signal to epidemiological data .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Geo-localized Wikipedia pageview data reveal that visiting patterns of Zika-related pages in Wikipedia were highly synchronized across the United States and largely explained by exposure to national television broadcast .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Contrary to the assumption of some theoretical epidemic models ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "news volume and Wikipedia visiting patterns were not significantly correlated with the magnitude or the extent of the epidemic .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Attention to Zika , in terms of Zika-related Wikipedia pageviews ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "was high at the beginning of the outbreak ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "when public health agencies raised an international alert and triggered media coverage ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but subsequently exhibited an activity profile that suggests nonlinear dependencies and memory effects in the relation between information seeking ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "media pressure , and disease dynamics .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This calls for a new and more general modelling framework to describe the interaction between media exposure ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "public awareness and disease dynamics during epidemic outbreaks .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Data Availability Statement : Data are available from the Zenodo repository ( https://doi.org/10 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "5281/zenodo .3603916 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "data , and we compare it with mentions of Zika in US news outlets and TV shows .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also compare the collective attention received by the outbreak with the incidence of Zika reported by the US Centers for Disease Control and Prevention in each state .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We find that the attention dynamics was highly synchronized across states ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "irrespective of the local risk of transmission of the virus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "By building a linear regression model ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we show that the dynamics of collective attention is highly predictable ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "even at state level , only based on the national media coverage received by the outbreak .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "News exposure and collective attention during epidemics PLOS Computational Biology | https://doi.org/10.",
+      "sentences": [
+        [
+          {
+            "segment_text": "News exposure and collective attention during epidemics PLOS Computational Biology | https://doi.org/10 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "15",
+    "segment_num": "28",
+    "token_num": "402"
+  }
+}

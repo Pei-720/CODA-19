@@ -1,0 +1,107 @@
+{
+  "paper_id": "a7acc44c040fdd6bef1788d78956061daf6e5da6",
+  "metadata": {
+    "title": "Targeting frameshifting in the human immunodeficiency virus",
+    "coda_data_split": "train",
+    "coda_paper_id": 10043,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Introduction-HIV-1 uses a programmed -1 ribosomal frameshift to generate Gag-Pol, the precursor of its enzymes, when its full-length mRNA is translated by the ribosomes of the infected cells. This change in the reading frame occurs at a so-called slippery sequence that is followed by a specific secondary structure, the frameshift stimulatory signal. This signal controls the frameshift efficiency. The synthesis of HIV-1 enzymes is critical for the virus replication and therefore, the -1 ribosomal frameshift could be the target of novel antiviral drugs.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Introduction-HIV-1 uses a programmed -1 ribosomal frameshift to generate Gag-Pol ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the precursor of its enzymes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "when its full-length mRNA is translated by the ribosomes of the infected cells .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This change in the reading frame occurs at a so-called slippery sequence that is followed by a specific secondary structure , the frameshift stimulatory signal .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This signal controls the frameshift efficiency .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The synthesis of HIV-1 enzymes is critical for the virus replication and therefore ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the -1 ribosomal frameshift could be the target of novel antiviral drugs .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Areas covered-This review examines various approaches used to select drugs interfering with the -1 frameshift of HIV-1. These include the selection and modification of chemical compounds that specifically bind to the frameshift stimulatory signal, the use of antisense oligonucleotides targeting this signal and the selection of compounds that modulate HIV-1 frameshift, by using bicistronic reporters where the expression of the second cistron depends upon HIV-1 frameshift.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Areas covered-This review examines various approaches used to select drugs interfering with the -1 frameshift of HIV-1 .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "These include the selection and modification of chemical compounds that specifically bind to the frameshift stimulatory signal ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the use of antisense oligonucleotides targeting this signal and the selection of compounds that modulate HIV-1 frameshift ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "by using bicistronic reporters where the expression of the second cistron depends upon HIV-1 frameshift .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Expert opinion-The most promising approach is the selection and modification of compounds specifically targeting HIV-1 frameshift stimulatory signal. The use of antisense oligonucleotides binding to the frameshift stimulatory signal is still questionable. The use of bicistronic reporters preferentially selects compounds that modulate the frameshift by targeting the ribosomes, which is less promising.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Expert opinion-The most promising approach is the selection and modification of compounds specifically targeting HIV-1 frameshift stimulatory signal .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The use of antisense oligonucleotides binding to the frameshift stimulatory signal is still questionable .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The use of bicistronic reporters preferentially selects compounds that modulate the frameshift by targeting the ribosomes , which is less promising .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "9",
+    "segment_num": "14",
+    "token_num": "217"
+  }
+}

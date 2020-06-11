@@ -1,0 +1,184 @@
+{
+  "paper_id": "7e34c1420f4792e792f0d2286d7a1683753d4ab1",
+  "metadata": {
+    "title": "Emerging Animal Coronaviruses: First SARS and Now MERS 4.2 Virology",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1191,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Coronaviruses are the largest RNA viruses and they are enveloped with positivestrand genomes of 26-32 kb, and they are distributed globally in a wide range of animals and humans [7] . The coronaviruses are classified in four genera based on phylogenetic analysis: alpha-coronaviruses, beta-coronaviruses, gammacoronaviruses, and delta-coronaviruses [7] . Some strains of coronaviruses, HCoV-OC43 [a beta-coronavirus] and HCoV-229E [an alpha-coronavirus], are causative agents of the common cold and rarely severe respiratory disease [8, 9] . Other newly discovered human coronaviruses, HCoV-NL634 and HCoV-HKU1, are occasionally associated with severe lower respiratory tract infection in infants and immunocompromised patients [10, 11] . SARS-CoV is a lineage B betacoronavirus and MERS-CoV is a novel beta-coronavirus of lineage C, and both these viruses appear to have crossed the species barrier from bats to humans [12, 13] . Bats are reservoirs for many mammalian coronaviruses [13] [14] [15] . Various SARS-like coronaviruses have been found in bats from China, Asia, and Europe, but none were considered as direct progenitor of SARS-CoV. Recently, however, investigators from China reported whole genome sequences of two novel bat coronaviruses from Chinese horseshoe bats closely related to SARS-CoV [16] . The receptor-binding domain of the spike protein was very similar to that of SARS-CoV, and one of the isolates [bat SL-CoV-w1V1] uses the angiotensin-converting enzyme 2 [ACE2] from humans, civets, and Chinese horseshoe bats for cell entry [16] . SARS-CoV was previously shown to use human ACE2 molecule as its entry receptor, an outstanding feature of its cross-species transmissibility [17] . Thus, the bat SL-CoV-WIVI may be the ancestor virus that precedes the evolution of SARS-CoV in humans.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Coronaviruses are the largest RNA viruses and they are enveloped with positivestrand genomes of 26-32 kb ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and they are distributed globally in a wide range of animals and humans ( 7 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The coronaviruses are classified in four genera based on phylogenetic analysis : alpha-coronaviruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "beta-coronaviruses , gammacoronaviruses , and delta-coronaviruses ( 7 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Some strains of coronaviruses , HCoV-OC43 ( a beta-coronavirus ) and HCoV-229E ( an alpha-coronavirus ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "are causative agents of the common cold and rarely severe respiratory disease ( 8 , 9 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Other newly discovered human coronaviruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "HCoV-NL634 and HCoV-HKU1 , are occasionally associated with severe lower respiratory tract infection in infants and immunocompromised patients ( 10 , 11 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "SARS-CoV is a lineage B betacoronavirus and MERS-CoV is a novel beta-coronavirus of lineage C ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and both these viruses appear to have crossed the species barrier from bats to humans ( 12 , 13 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Bats are reservoirs for many mammalian coronaviruses ( 13 ) ( 14 ) ( 15 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Various SARS-like coronaviruses have been found in bats from China ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Asia , and Europe , but none were considered as direct progenitor of SARS-CoV .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recently , however , investigators from China reported whole genome sequences of two novel bat coronaviruses from Chinese horseshoe bats closely related to SARS-CoV ( 16 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The receptor-binding domain of the spike protein was very similar to that of SARS-CoV ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and one of the isolates ( bat SL-CoV-w1V1 ) uses the angiotensin-converting enzyme 2 ( ACE2 ) from humans ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "civets , and Chinese horseshoe bats for cell entry ( 16 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "SARS-CoV was previously shown to use human ACE2 molecule as its entry receptor ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "an outstanding feature of its cross-species transmissibility ( 17 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , the bat SL-CoV-WIVI may be the ancestor virus that precedes the evolution of SARS-CoV in humans .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The respiratory epithelial cells of humans are the main targets of SARS-CoV, but the virus can also be found in immune cells in the circulation [lymphocytes and macrophages] and in various organs [18] . MERS-CoV, on the other hand, uses human and bat dipeptidyl peptidase-4 [DPP4] as receptor for cell entry [19] . Replication and RNA protein synthesis by MERS-CoV can occur in human airway epithelial cells, lung fibroblasts, microvascular endothelium, and alveolar type II pneumocytes [20] . Hence MERS-CoV has a broader tissue tropism than the SARS-CoV. The mechanism of the SARS-CoV and MERS-CoV interspecies transmission appears to be mediated by the S protein, by mediating receptor recognition and membrane fusion, a key factor in host specificity [21] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "The respiratory epithelial cells of humans are the main targets of SARS-CoV ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but the virus can also be found in immune cells in the circulation ( lymphocytes and macrophages ) and in various organs ( 18 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "MERS-CoV , on the other hand ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "uses human and bat dipeptidyl peptidase-4 ( DPP4 ) as receptor for cell entry ( 19 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Replication and RNA protein synthesis by MERS-CoV can occur in human airway epithelial cells ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "lung fibroblasts , microvascular endothelium ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and alveolar type II pneumocytes ( 20 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hence MERS-CoV has a broader tissue tropism than the SARS-CoV .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The mechanism of the SARS-CoV and MERS-CoV interspecies transmission appears to be mediated by the S protein ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "by mediating receptor recognition and membrane fusion ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a key factor in host specificity ( 21 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "16",
+    "segment_num": "31",
+    "token_num": "464"
+  }
+}

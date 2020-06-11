@@ -1,0 +1,84 @@
+{
+  "paper_id": "e1be35b4c835e9b982fe494d2d0b6e3fb1622d2e",
+  "metadata": {
+    "title": "The Rho ADP-ribosylating C3 exoenzyme binds cells via an Arg-Gly-Asp motif",
+    "coda_data_split": "train",
+    "coda_paper_id": 6629,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "The Rho ADP-ribosylating C3 exoenzyme (C3bot) is a bacterial protein toxin devoid of a cell-binding or -translocation domain. Nevertheless, C3 can efficiently enter intact cells, including neurons, but the mechanism of C3 binding and uptake is not yet understood. Previously, we identified the intermediate filament vimentin as an extracellular membranous interaction partner of C3.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The Rho ADP-ribosylating C3 exoenzyme ( C3bot ) is a bacterial protein toxin devoid of a cell-binding or - translocation domain .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Nevertheless , C3 can efficiently enter intact cells ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including neurons , but the mechanism of C3 binding and uptake is not yet understood .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Previously , we identified the intermediate filament vimentin as an extracellular membranous interaction partner of C3 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Our results indicate that the RGD motif of C3 is at least one essential C3 motif for binding to host cells and that integrin is an additional receptor for C3 besides vimentin. . 2 The abbreviations used are: C3, C3 exoenzyme derived from Clostridium botulinum; RGD, Arg-Gly-Asp; SARS, severe acute respiratory syndrome; ANOVA, analysis of variance; aa, amino acid(s).",
+      "sentences": [
+        [
+          {
+            "segment_text": "Our results indicate that the RGD motif of C3 is at least one essential C3 motif for binding to host cells and that integrin is an additional receptor for C3 besides vimentin .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": ".",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "2 The abbreviations used are : C3 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "C3 exoenzyme derived from Clostridium botulinum ; RGD ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Arg-Gly-Asp ; SARS , severe acute respiratory syndrome ; ANOVA ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "analysis of variance ; aa ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "amino acid ( s ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "6",
+    "segment_num": "11",
+    "token_num": "138"
+  }
+}

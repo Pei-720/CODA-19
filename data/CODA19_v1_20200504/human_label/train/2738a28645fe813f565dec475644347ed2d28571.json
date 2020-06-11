@@ -1,0 +1,87 @@
+{
+  "paper_id": "2738a28645fe813f565dec475644347ed2d28571",
+  "metadata": {
+    "title": "Moment closure of infectious diseases model on heterogeneous metapopulation network",
+    "coda_data_split": "train",
+    "coda_paper_id": 4384,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "The global transmission of infectious diseases poses huge threats to human. Traditional heterogeneous mean-field models on metapopulation networks ignore the heterogeneity of individuals who are in different disease states in subpopulations with the same degree, resulting in inaccuracy in predicting the spread of disease. In this paper, we take heterogeneity of susceptible and infectious individuals in subpopulations with the same degree into account, and propose a deterministic unclosed general model according to Markov process on metapopulation networks to curve the global transmission of diseases precisely. Then we make the general model closed by putting forward two common assumptions: a two-dimensional constant distribution and a two-dimensional log-normal distribution, where the former is equivalent to the heterogeneous mean-field model, and the latter is a system of weighted ordinary differential equations. Further we make a stability analysis for two closed models and illustrate the results by numerical simulations. Next, we conduct a series of numerical simulations and stochastic simulations. Results indicate that our general model extends and optimizes the mean-field model. Finally, we investigate the impacts of total mobility rate on disease transmission and find that timely and comprehensive travel restriction in the early stage is an effective prevention and control of infectious diseases.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The global transmission of infectious diseases poses huge threats to human .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Traditional heterogeneous mean-field models on metapopulation networks ignore the heterogeneity of individuals who are in different disease states in subpopulations with the same degree ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "resulting in inaccuracy in predicting the spread of disease .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this paper , we take heterogeneity of susceptible and infectious individuals in subpopulations with the same degree into account ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and propose a deterministic unclosed general model according to Markov process on metapopulation networks to curve the global transmission of diseases precisely .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Then we make the general model closed by putting forward two common assumptions : a two-dimensional constant distribution and a two-dimensional log-normal distribution ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "where the former is equivalent to the heterogeneous mean-field model ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and the latter is a system of weighted ordinary differential equations .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Further we make a stability analysis for two closed models and illustrate the results by numerical simulations .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Next , we conduct a series of numerical simulations and stochastic simulations .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results indicate that our general model extends and optimizes the mean-field model .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , we investigate the impacts of total mobility rate on disease transmission and find that timely and comprehensive travel restriction in the early stage is an effective prevention and control of infectious diseases .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "12",
+    "token_num": "217"
+  }
+}

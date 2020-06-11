@@ -1,0 +1,155 @@
+{
+  "paper_id": "2a17719f2c1d211a651060441bda8bc1c052e2aa",
+  "metadata": {
+    "title": "ELM-the database of eukaryotic linear motifs",
+    "coda_data_split": "train",
+    "coda_paper_id": 3969,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Linear motifs are short, evolutionarily plastic components of regulatory proteins and provide low-affinity interaction interfaces. These compact modules play central roles in mediating every aspect of the regulatory functionality of the cell. They are particularly prominent in mediating cell signaling, controlling protein turnover and directing protein localization. Given their importance, our understanding of motifs is surprisingly limited, largely as a result of the difficulty of discovery, both experimentally and computationally. The Eukaryotic Linear Motif (ELM) resource at http:// elm.eu.org provides the biological community with a comprehensive database of known experimentally validated motifs, and an exploratory tool to discover putative linear motifs in user-submitted protein sequences. The current update of the ELM database comprises 1800 annotated motif instances representing 170 distinct functional classes, including approximately 500 novel instances and 24 novel classes. Several older motif class entries have been also revisited, improving annotation and adding novel instances. Furthermore, addition of full-text search capabilities, an enhanced interface and simplified batch download has improved the overall accessibility of the ELM data. The motif discovery portion of the ELM resource has added conservation, and structural attributes have been incorporated to aid users to discriminate biologically relevant motifs from stochastically occurring non-functional instances. Figure 5 . Schema of the ELM resource and data life cycle. Annotated ELM classes, and instances thereof, can be searched by database query. Via sequence search by the motif detection pipeline, annotated ELM classes yield putative instances in query sequences. By adding experimental evidence and references, these putative instances become candidate instances for annotation, and, with further curation, ultimately become fully annotated instances.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Linear motifs are short , evolutionarily plastic components of regulatory proteins and provide low-affinity interaction interfaces .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These compact modules play central roles in mediating every aspect of the regulatory functionality of the cell .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "They are particularly prominent in mediating cell signaling ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "controlling protein turnover and directing protein localization .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Given their importance , our understanding of motifs is surprisingly limited ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "largely as a result of the difficulty of discovery , both experimentally and computationally .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The Eukaryotic Linear Motif ( ELM ) resource at http : / / elm.eu.org provides the biological community with a comprehensive database of known experimentally validated motifs ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and an exploratory tool to discover putative linear motifs in user-submitted protein sequences .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The current update of the ELM database comprises 1800 annotated motif instances representing 170 distinct functional classes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including approximately 500 novel instances and 24 novel classes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Several older motif class entries have been also revisited ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "improving annotation and adding novel instances .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , addition of full-text search capabilities ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "an enhanced interface and simplified batch download has improved the overall accessibility of the ELM data .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The motif discovery portion of the ELM resource has added conservation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and structural attributes have been incorporated to aid users to discriminate biologically relevant motifs from stochastically occurring non-functional instances .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Figure 5 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Schema of the ELM resource and data life cycle .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Annotated ELM classes , and instances thereof ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "can be searched by database query .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Via sequence search by the motif detection pipeline ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "annotated ELM classes yield putative instances in query sequences .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "By adding experimental evidence and references ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "these putative instances become candidate instances for annotation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and , with further curation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "ultimately become fully annotated instances .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "14",
+    "segment_num": "26",
+    "token_num": "298"
+  }
+}

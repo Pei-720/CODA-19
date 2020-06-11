@@ -1,0 +1,87 @@
+{
+  "paper_id": "a65c8ae43245adba3cfebd0db3c87f0e43b196be",
+  "metadata": {
+    "title": "A Knowledge Base for Predicting Protein Localization Sites in Eukaryotic Cells",
+    "coda_data_split": "train",
+    "coda_paper_id": 9039,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "To automate examination of massive amounts of sequence data for biological function, it is important to computerize interpretation based on empirical knowledge of sequence-function relationships. For this purpose, we have been constructing a knowledge base by organizing various experimental and computational observations as a collection of if-then rules. Here we report an expert system, which utilizes this knowledge base, for predicting localization sites of proteins only from the information on the amino acid sequence and the source origin. We collected data for 401 eukaryotic proteins with known localization sites (subcellular and extracellular) and divided them into training data and testing data. Fourteen localization sites were distinguished for animal cells and 17 for plant cells. When sorting signals were not well characterized experimentally, various sequence features were computationally derived from the training data. It was found that 66% of the training data and 59% of the testing data were correctly predicted by our expert system. This artificial intelligence approach is powerful and flexible enough to be used in genome analyses.",
+      "sentences": [
+        [
+          {
+            "segment_text": "To automate examination of massive amounts of sequence data for biological function ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "it is important to computerize interpretation based on empirical knowledge of sequence-function relationships .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "For this purpose , we have been constructing a knowledge base by organizing various experimental and computational observations as a collection of if-then rules .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we report an expert system ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "which utilizes this knowledge base ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "for predicting localization sites of proteins only from the information on the amino acid sequence and the source origin .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We collected data for 401 eukaryotic proteins with known localization sites ( subcellular and extracellular ) and divided them into training data and testing data .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Fourteen localization sites were distinguished for animal cells and 17 for plant cells .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "When sorting signals were not well characterized experimentally ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "various sequence features were computationally derived from the training data .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "It was found that 66 % of the training data and 59 % of the testing data were correctly predicted by our expert system .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This artificial intelligence approach is powerful and flexible enough to be used in genome analyses .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "12",
+    "token_num": "186"
+  }
+}

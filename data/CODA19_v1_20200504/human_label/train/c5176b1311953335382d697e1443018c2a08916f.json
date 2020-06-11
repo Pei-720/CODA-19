@@ -1,0 +1,99 @@
+{
+  "paper_id": "c5176b1311953335382d697e1443018c2a08916f",
+  "metadata": {
+    "title": "Sequential nearest-neighbor effects on computed 13 C α chemical shifts NIH Public Access",
+    "coda_data_split": "train",
+    "coda_paper_id": 4078,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "To evaluate sequential nearest-neighbor effects on quantum-chemical calculations of 13 C α chemical shifts, we selected the structure of the nucleic acid binding (NAB) protein from the SARS coronavirus determined by NMR in solution (PDB id 2K87). NAB is a 116-residue α/β protein, which contains 9 prolines and has 50% of its residues located in loops and turns. Overall, the results presented here show that sizeable nearest-neighbor effects are seen only for residues preceding proline, where Pro introduces an overestimation, on average, of 1.73 ppm in the computed 13 C α chemical shifts. A new ensemble of 20 conformers representing the NMR structure of the NAB, which was calculated with an input containing backbone torsion angle constraints derived from the theoretical 13 C α chemical shifts as supplementary data to the NOE distance constraints, exhibits very similar topology and comparable agreement with the NOE constraints as the published NMR structure. However, the two structures differ in the patterns of differences between observed and computed 13 C α chemical shifts, Δ ca,i , for the individual residues along the sequence. This indicates that the Δ ca,i -values for the NAB protein are primarily a consequence of the limited sampling by the bundles of 20 conformers used, as in common practice, to represent the two NMR structures, rather than of local flaws in the structures.",
+      "sentences": [
+        [
+          {
+            "segment_text": "To evaluate sequential nearest-neighbor effects on quantum-chemical calculations of 13 C α chemical shifts ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we selected the structure of the nucleic acid binding ( NAB ) protein from the SARS coronavirus determined by NMR in solution ( PDB id 2K87 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "NAB is a 116-residue α/β protein ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which contains 9 prolines and has 50 % of its residues located in loops and turns .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Overall , the results presented here show that sizeable nearest-neighbor effects are seen only for residues preceding proline ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "where Pro introduces an overestimation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "on average , of 1.73 ppm in the computed 13 C α chemical shifts .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A new ensemble of 20 conformers representing the NMR structure of the NAB ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which was calculated with an input containing backbone torsion angle constraints derived from the theoretical 13 C α chemical shifts as supplementary data to the NOE distance constraints ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "exhibits very similar topology and comparable agreement with the NOE constraints as the published NMR structure .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the two structures differ in the patterns of differences between observed and computed 13 C α chemical shifts ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Δ ca , i , for the individual residues along the sequence .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This indicates that the Δ ca ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "i - values for the NAB protein are primarily a consequence of the limited sampling by the bundles of 20 conformers used ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as in common practice , to represent the two NMR structures ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "rather than of local flaws in the structures .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "16",
+    "token_num": "252"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "paper_id": "9f5eb4cb37108793e2cf0ed3d5a68fea14620866",
+  "metadata": {
+    "title": "Neighborhood Properties Are Important Determinants of Temperature Sensitive Mutations",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1574,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Temperature-sensitive (TS) mutants are powerful tools to study gene function in vivo. These mutants exhibit wild-type activity at permissive temperatures and reduced activity at restrictive temperatures. Although random mutagenesis can be used to generate TS mutants, the procedure is laborious and unfeasible in multicellular organisms. Further, the underlying molecular mechanisms of the TS phenotype are poorly understood. To elucidate TS mechanisms, we used a machine learning method-logistic regression-to investigate a large number of sequence and structure features. We developed and tested 133 features, describing properties of either the mutation site or the mutation site neighborhood. We defined three types of neighborhood using sequence distance, Euclidean distance, and topological distance. We discovered that neighborhood features outperformed mutation site features in predicting TS mutations. The most predictive features suggest that TS mutations tend to occur at buried and rigid residues, and are located at conserved protein domains. The environment of a buried residue often determines the overall structural stability of a protein, thus may lead to reversible activity change upon temperature switch. We developed TS prediction models based on logistic regression and the Lasso regularized procedure. Through a ten-fold cross-validation, we obtained the area under the curve of 0.91 for the model using both sequence and structure features. Testing on independent datasets suggested that the model predicted TS mutations with a 50% precision. In summary, our study elucidated the molecular basis of TS mutants and suggested the importance of neighborhood properties in determining TS mutations. We further developed models to predict TS mutations derived from single amino acid substitutions. In this way, TS mutants can be efficiently obtained through experimentally introducing the predicted mutations.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Temperature-sensitive ( TS ) mutants are powerful tools to study gene function in vivo .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These mutants exhibit wild-type activity at permissive temperatures and reduced activity at restrictive temperatures .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although random mutagenesis can be used to generate TS mutants ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the procedure is laborious and unfeasible in multicellular organisms .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Further , the underlying molecular mechanisms of the TS phenotype are poorly understood .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To elucidate TS mechanisms , we used a machine learning method-logistic regression-to investigate a large number of sequence and structure features .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We developed and tested 133 features ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "describing properties of either the mutation site or the mutation site neighborhood .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We defined three types of neighborhood using sequence distance ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "Euclidean distance , and topological distance .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We discovered that neighborhood features outperformed mutation site features in predicting TS mutations .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The most predictive features suggest that TS mutations tend to occur at buried and rigid residues ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and are located at conserved protein domains .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The environment of a buried residue often determines the overall structural stability of a protein ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "thus may lead to reversible activity change upon temperature switch .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We developed TS prediction models based on logistic regression and the Lasso regularized procedure .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Through a ten-fold cross-validation , we obtained the area under the curve of 0.91 for the model using both sequence and structure features .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Testing on independent datasets suggested that the model predicted TS mutations with a 50 % precision .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In summary , our study elucidated the molecular basis of TS mutants and suggested the importance of neighborhood properties in determining TS mutations .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We further developed models to predict TS mutations derived from single amino acid substitutions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this way , TS mutants can be efficiently obtained through experimentally introducing the predicted mutations .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "16",
+    "segment_num": "21",
+    "token_num": "302"
+  }
+}

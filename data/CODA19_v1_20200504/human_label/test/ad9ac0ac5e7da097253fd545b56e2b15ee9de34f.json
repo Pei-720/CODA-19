@@ -1,0 +1,81 @@
+{
+  "paper_id": "ad9ac0ac5e7da097253fd545b56e2b15ee9de34f",
+  "metadata": {
+    "title": "Molecular dynamics simulations of human tRNA Lys,3 UUU : the role of modified bases in mRNA recognition",
+    "coda_data_split": "test",
+    "coda_paper_id": 971,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Accuracy in translation of the genetic code into proteins depends upon correct tRNA-mRNA recognition in the context of the ribosome. In human tRNA Lys;3 UUU three modified bases are present in the anticodon stem-loop-2-methylthio-N6-threonylcarbamoyladenosine at position 37 (ms 2 t 6 A37), 5-methoxycarbonylmethyl-2-thiouridine at position 34 (mcm 5 s 2 U34) and pseudouridine (c) at position 39-two of which, ms 2 t 6 A37 and mcm 5 s 2 U34, are required to achieve wild-type binding activity of wild-type human tRNA Lys;3 ]. Molecular dynamics simulations of nine tRNA anticodon stem-loops with different combinations of nonstandard bases were performed. The wild-type simulation exhibited a canonical anticodon stairstepped conformation. The ms 2 t 6 modification at position 37 is required for maintenance of this structure and reduces solvent accessibility of U36. Ms 2 t 6 A37 generally hydrogen bonds across the loop and may prevent U36 from rotating into solution. A water molecule does coordinate to c39 most of the simulation time but weakly, as most of the residence lifetimes are ,40 ps.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Accuracy in translation of the genetic code into proteins depends upon correct tRNA-mRNA recognition in the context of the ribosome .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In human tRNA Lys ; 3 UUU three modified bases are present in the anticodon stem-loop-2-methylthio-N6-threonylcarbamoyladenosine at position 37 ( ms 2 t 6 A37 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "5-methoxycarbonylmethyl-2-thiouridine at position 34 ( mcm 5 s 2 U34 ) and pseudouridine ( c ) at position 39-two of which ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "ms 2 t 6 A37 and mcm 5 s 2 U34 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "are required to achieve wild-type binding activity of wild-type human tRNA Lys ; 3 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Molecular dynamics simulations of nine tRNA anticodon stem-loops with different combinations of nonstandard bases were performed .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The wild-type simulation exhibited a canonical anticodon stairstepped conformation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The ms 2 t 6 modification at position 37 is required for maintenance of this structure and reduces solvent accessibility of U36 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Ms 2 t 6 A37 generally hydrogen bonds across the loop and may prevent U36 from rotating into solution .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A water molecule does coordinate to c39 most of the simulation time but weakly ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as most of the residence lifetimes are ,40 ps .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "11",
+    "token_num": "193"
+  }
+}

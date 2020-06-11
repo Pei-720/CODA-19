@@ -1,0 +1,150 @@
+{
+  "paper_id": "729a9faa0dd40ae0392c7590418583096673a5b4",
+  "metadata": {
+    "title": "Exponential damping: The key to successful containment of COVID-19",
+    "coda_data_split": "train",
+    "coda_paper_id": 10333,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Due to its excessively high capacity for human-to-human transmission, the 2019 novel coronavirus disease , first reported in Wuhan in China, spread rapidly to the entire nation and beyond, and has now been declared a global public health emergency.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Due to its excessively high capacity for human-to-human transmission ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the 2019 novel coronavirus disease ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "first reported in Wuhan in China ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "spread rapidly to the entire nation and beyond ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and has now been declared a global public health emergency .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Understanding the transmission pattern of the virus and the efficacy of transmission control measures is crucial to ensuring regional and global disease control. Here we propose a simple model based on exponential infectious growth, but with a timevarying, largely damping, transmission rate. This model provides an excellent fit to the existing data from the 102 countries and regions which have reported cases for more than 6 days, and, we think, has largely captured the transmission patterns of the COVID-19 outbreak under a variety of intervention and control measures. We found that the damping rate, defined as the rate of the exponential decline in transmission rate, ranged from -0.125 to 0.513 d -1 globally (a negative damping rate represents acceleration in spread). The estimated peak time (when the fastest spread occurs) and the final number of infections were found to be greatly affected by the damping rate. Successful control measures, such as those implemented in China and South Korea, have resulted in a clear pattern of exponential damping in the viral spread (also shown during the 2003 outbreak of Severe Acute Respiratory Syndrome, SARS). The damping rate, therefore, could be used as an indicator for the efficacy of implemented control measures. Our model suggests that the COVID-19 outbreak is currently accelerating worldwide, especially rapidly in certain countries (e.g. USA and Australia) where exponential damping is yet to emerge. Consistent with the message from the World Health Organisation (WHO), we thus strongly suggest all countries to take active measures to contain this global pandemic. Slight increments in the damping rate from additional control efforts, especially in countries showing weak or no exponential damping in COVID-19 transmission, could lead to a radically more positive outcome in the fight to contain the pandemic.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Understanding the transmission pattern of the virus and the efficacy of transmission control measures is crucial to ensuring regional and global disease control .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we propose a simple model based on exponential infectious growth ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "but with a timevarying , largely damping , transmission rate .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "This model provides an excellent fit to the existing data from the 102 countries and regions which have reported cases for more than 6 days ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and , we think , has largely captured the transmission patterns of the COVID-19 outbreak under a variety of intervention and control measures .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We found that the damping rate ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "defined as the rate of the exponential decline in transmission rate ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "ranged from -0.125 to 0.513 d -1 globally ( a negative damping rate represents acceleration in spread ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The estimated peak time ( when the fastest spread occurs ) and the final number of infections were found to be greatly affected by the damping rate .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Successful control measures , such as those implemented in China and South Korea ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "have resulted in a clear pattern of exponential damping in the viral spread ( also shown during the 2003 outbreak of Severe Acute Respiratory Syndrome , SARS ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The damping rate , therefore ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "could be used as an indicator for the efficacy of implemented control measures .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our model suggests that the COVID-19 outbreak is currently accelerating worldwide ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "especially rapidly in certain countries ( e.g. USA and Australia ) where exponential damping is yet to emerge .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Consistent with the message from the World Health Organisation ( WHO ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we thus strongly suggest all countries to take active measures to contain this global pandemic .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Slight increments in the damping rate from additional control efforts ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "especially in countries showing weak or no exponential damping in COVID-19 transmission ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "could lead to a radically more positive outcome in the fight to contain the pandemic .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "11",
+    "segment_num": "25",
+    "token_num": "369"
+  }
+}

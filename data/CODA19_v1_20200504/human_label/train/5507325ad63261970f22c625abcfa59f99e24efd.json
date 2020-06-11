@@ -1,0 +1,83 @@
+{
+  "paper_id": "5507325ad63261970f22c625abcfa59f99e24efd",
+  "metadata": {
+    "title": "Concerted 2-5A-Mediated mRNA Decay and Transcription Reprogram Protein Synthesis in dsRNA Response",
+    "coda_data_split": "train",
+    "coda_paper_id": 10539,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "RNA degradation by RNase L during 2-5A-mediated decay (2-5AMD) is a conserved mammalian stress response to viral and endogenous double-stranded RNA (dsRNA). 2-5AMD onsets rapidly and facilitates a switch of protein synthesis from homeostasis to production of interferons (IFNs). To understand the mechanism of this protein synthesis reprogramming, we examined 2-5AMD in human cells. 2-5AMD triggers polysome collapse characteristic of a translation initiation defect, but translation initiation complexes and ribosomes purified from the translation-arrested cells remain functional. Using spike-in RNA-seq we found that basal messenger RNAs (mRNAs) rapidly decay, while mRNAs encoding IFNs and IFN-stimulated genes evade 2-5AMD and accumulate. The IFN evasion results from the combined effect of better mRNA stability and positive feedback amplification in the IFN response. Therefore, 2-5AMD and transcription act in concert to revamp the cellular mRNA composition. The resulting preferential accumulation of innate immune mRNAs establishes \"prioritized\" synthesis of defense proteins.",
+      "sentences": [
+        [
+          {
+            "segment_text": "RNA degradation by RNase L during 2-5A-mediated decay ( 2-5AMD ) is a conserved mammalian stress response to viral and endogenous double-stranded RNA ( dsRNA ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "2-5AMD onsets rapidly and facilitates a switch of protein synthesis from homeostasis to production of interferons ( IFNs ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To understand the mechanism of this protein synthesis reprogramming ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "we examined 2-5AMD in human cells .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "2-5AMD triggers polysome collapse characteristic of a translation initiation defect ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "but translation initiation complexes and ribosomes purified from the translation-arrested cells remain functional .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using spike-in RNA-seq we found that basal messenger RNAs ( mRNAs ) rapidly decay ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while mRNAs encoding IFNs and IFN-stimulated genes evade 2-5AMD and accumulate .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The IFN evasion results from the combined effect of better mRNA stability and positive feedback amplification in the IFN response .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , 2-5AMD and transcription act in concert to revamp the cellular mRNA composition .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The resulting preferential accumulation of innate immune mRNAs establishes `` prioritized \u0027\u0027 synthesis of defense proteins .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "11",
+    "token_num": "169"
+  }
+}

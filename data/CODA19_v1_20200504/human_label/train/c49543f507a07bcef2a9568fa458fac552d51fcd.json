@@ -1,0 +1,362 @@
+{
+  "paper_id": "c49543f507a07bcef2a9568fa458fac552d51fcd",
+  "metadata": {
+    "title": "Novel coronavirus-like particles targeting cells lining the respiratory tract",
+    "coda_data_split": "train",
+    "coda_paper_id": 3555,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Virus like particles (VLPs) produced by the expression of viral structural proteins can serve as versatile nanovectors or potential vaccine candidates. In this study we describe for the first time the generation of HCoV-NL63 VLPs using baculovirus system. Major structural proteins of HCoV-NL63 have been expressed in tagged or native form, and their assembly to form VLPs was evaluated. Additionally, a novel procedure for chromatography purification of HCoV-NL63 VLPs was developed. Interestingly, we show that these nanoparticles may deliver cargo and selectively transduce cells expressing the ACE2 protein such as ciliated cells of the respiratory tract. Production of a specific delivery vector is a major challenge for research concerning targeting molecules. The obtained results show that HCoV-NL63 VLPs may be efficiently produced, purified, modified and serve as a delivery platform. This study constitutes an important basis for further development of a promising viral vector displaying narrow tissue tropism. mouse hepatitis virus (MHV) [9-13], avian infectious bronchitis virus (IBV) [14] , porcine transmissible gastroenteritis virus (TGEV) [15, 16] and porcine epidemic diarrhea virus (PEDV) [17] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Virus like particles ( VLPs ) produced by the expression of viral structural proteins can serve as versatile nanovectors or potential vaccine candidates .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study we describe for the first time the generation of HCoV-NL63 VLPs using baculovirus system .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Major structural proteins of HCoV-NL63 have been expressed in tagged or native form ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and their assembly to form VLPs was evaluated .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Additionally , a novel procedure for chromatography purification of HCoV-NL63 VLPs was developed .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Interestingly , we show that these nanoparticles may deliver cargo and selectively transduce cells expressing the ACE2 protein such as ciliated cells of the respiratory tract .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Production of a specific delivery vector is a major challenge for research concerning targeting molecules .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The obtained results show that HCoV-NL63 VLPs may be efficiently produced ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "purified , modified and serve as a delivery platform .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study constitutes an important basis for further development of a promising viral vector displaying narrow tissue tropism .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "mouse hepatitis virus ( MHV ) ( 9-13 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "avian infectious bronchitis virus ( IBV ) ( 14 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "porcine transmissible gastroenteritis virus ( TGEV ) ( 15 , 16 ) and porcine epidemic diarrhea virus ( PEDV ) ( 17 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The majority of studies describing the production of coronaviral like particles focus on two main threads-particle assembly and immunogenicity assessment. The propitious property of being tailorable and non-infectious renders VLPs a handy tool for studying not only requirements for efficient trafficking, assembly and release of viral particles, but also interactions with cellular receptors. Numerous studies using coronaviral like particles provided valuable data on structure of SARS [6, 8, 18] , MHV [9, 10, 12, 13, 19] , IBV [14] and TGEV [16] . The second branch of VLP investigation focuses on their use as vaccine candidates. Due to the repetitive exposition of surface antigens and their particulate structure, VLPs interact with the immune system similarly to native viruses, inducing humoral and cellular responses. Production of protective antibody titers, as well as induction of cell-mediated immunity induced by VLPs have been shown for animal and human coronaviruses, such as IBV [20, 21] , PEDV [17], TGEV [15], SARS [22, 23] and recently for middle east respiratory syndrome coronavirus (MERS--CoV) [24, 25] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "The majority of studies describing the production of coronaviral like particles focus on two main threads-particle assembly and immunogenicity assessment .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The propitious property of being tailorable and non-infectious renders VLPs a handy tool for studying not only requirements for efficient trafficking ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "assembly and release of viral particles ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but also interactions with cellular receptors .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Numerous studies using coronaviral like particles provided valuable data on structure of SARS ( 6 , 8 , 18 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "MHV ( 9 , 10 , 12 , 13 , 19 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "IBV ( 14 ) and TGEV ( 16 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The second branch of VLP investigation focuses on their use as vaccine candidates .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Due to the repetitive exposition of surface antigens and their particulate structure ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "VLPs interact with the immune system similarly to native viruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "inducing humoral and cellular responses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Production of protective antibody titers ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as well as induction of cell-mediated immunity induced by VLPs have been shown for animal and human coronaviruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as IBV ( 20 , 21 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "PEDV ( 17 ) , TGEV ( 15 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "SARS ( 22 , 23 ) and recently for middle east respiratory syndrome coronavirus ( MERS -- CoV ) ( 24 , 25 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In this work we describe the design, production and characterization of VLPs based on structural proteins of human coronavirus NL63 (HCoV-NL63). HCoV-NL63 is a wide-spread virus, causing infections of the lower and upper respiratory tract of varying severity [26] . The HCoV-NL63 virion is composed of membrane (M), envelope (E) and protruding spike (S) proteins, all three shaping the membrane to form the envelope protecting ribonucleocapsid [27] . Recently also ORF3 protein was identified as structural protein of HCoV-NL63, yet its function remains to be elucidated [28] . M is relatively small protein (26 kDa), which spans the viral membrane three or four times. It is essential for virus assembly and budding, as it forms the membrane curvature and interacts with the ribonucleoprotein and other structural proteins (E and S) [29] . E protein (9 kDa) is also engaged in virus assembly and egress [30, 31] . S protein (150 kDa) is anchored in the viral envelope by its C-terminal part, while its large ectodomain trimerize and forms characteristic spikes at the virion\u0027s surface [32] . S protein is responsible for receptor binding and virus entry into host cells [33] . HCoV-NL63 infects exclusively ciliated cells of human respiratory epithelium and for the penetration of the cell it requires interaction between spike protein and angiotensin converting enzyme 2 (ACE2) [34] . This narrow specificity and tropism to respiratory tissue render HCoV-NL63 an interesting basis for development of VLPs, that have not been described yet.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this work we describe the design ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "production and characterization of VLPs based on structural proteins of human coronavirus NL63 ( HCoV-NL63 ) .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "HCoV-NL63 is a wide-spread virus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "causing infections of the lower and upper respiratory tract of varying severity ( 26 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The HCoV-NL63 virion is composed of membrane ( M ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "envelope ( E ) and protruding spike ( S ) proteins ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "all three shaping the membrane to form the envelope protecting ribonucleocapsid ( 27 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recently also ORF3 protein was identified as structural protein of HCoV-NL63 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "yet its function remains to be elucidated ( 28 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "M is relatively small protein ( 26 kDa ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which spans the viral membrane three or four times .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is essential for virus assembly and budding ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as it forms the membrane curvature and interacts with the ribonucleoprotein and other structural proteins ( E and S ) ( 29 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "E protein ( 9 kDa ) is also engaged in virus assembly and egress ( 30 , 31 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "S protein ( 150 kDa ) is anchored in the viral envelope by its C-terminal part ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "while its large ectodomain trimerize and forms characteristic spikes at the virion \u0027s surface ( 32 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "S protein is responsible for receptor binding and virus entry into host cells ( 33 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "HCoV-NL63 infects exclusively ciliated cells of human respiratory epithelium and for the penetration of the cell it requires interaction between spike protein and angiotensin converting enzyme 2 ( ACE2 ) ( 34 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This narrow specificity and tropism to respiratory tissue render HCoV-NL63 an interesting basis for development of VLPs ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "that have not been described yet .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In this manuscript we present the design and production of HCoV-NL63-based VLPs. Several modifications of proteins forming HCoV-NL63 VLP were introduced and their influence on particle assembly and function was tested. Moreover, we have developed a chromatography purification method of HCoV-NL63 VLPs. Finally, we demonstrated that HCoV-NL63 VLPs may serve as highly specific delivery vectors to cells expressing the ACE2 protein.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this manuscript we present the design and production of HCoV-NL63-based VLPs .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Several modifications of proteins forming HCoV-NL63 VLP were introduced and their influence on particle assembly and function was tested .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , we have developed a chromatography purification method of HCoV-NL63 VLPs .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , we demonstrated that HCoV-NL63 VLPs may serve as highly specific delivery vectors to cells expressing the ACE2 protein .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Materials and methods",
+      "sentences": [
+        [
+          {
+            "segment_text": "Materials and methods",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Sf9 (Spodiptera frugiperda, ATCC: CRL-1711) and HF (High Five, Trichoplusia ni, ATCC: CRL-7701) cells were cultured in ESF (Expression Systems, CA, USA) medium supplemented with 2% FBS (fetal bovine serum) (ThermoFisher Scientific, Poland), 100 μg/ml streptomycin, 100 IU/ml penicillin, 10 μg/ml gentamycin, and 0.25 μg/ml amphotericin B. The culture was maintained in a humidified incubator at 27˚C. Sf9 cells were used for baculovirus (BVs) generation and amplification, while HF cells were used for recombinant proteins expression. Human coronavirus-NL63 virus like particles PLOS ONE | https://doi.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Sf9 ( Spodiptera frugiperda , ATCC : CRL-1711 ) and HF ( High Five , Trichoplusia ni , ATCC : CRL-7701 ) cells were cultured in ESF ( Expression Systems , CA , USA ) medium supplemented with 2 % FBS ( fetal bovine serum ) ( ThermoFisher Scientific , Poland ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "100 μg/ml streptomycin , 100 IU/ml penicillin ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "10 μg/ml gentamycin , and 0.25 μg/ml amphotericin B .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The culture was maintained in a humidified incubator at 27 ˚C .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Sf9 cells were used for baculovirus ( BVs ) generation and amplification ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "while HF cells were used for recombinant proteins expression .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Human coronavirus-NL63 virus like particles PLOS ONE | https://doi .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "6",
+    "sentence_num": "35",
+    "segment_num": "61",
+    "token_num": "900"
+  }
+}

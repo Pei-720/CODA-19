@@ -1,0 +1,79 @@
+{
+  "paper_id": "ca1a69ee197dec6b6bb23168cc6897249c234d52",
+  "metadata": {
+    "title": "Quantitative sense-specific determination of murine coronavirus RNA by reverse transcription polymerase chain reaction",
+    "coda_data_split": "train",
+    "coda_paper_id": 3827,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "In many applications, it is useful to know the sense and amount of viral RNAs present in a sample. In theory, sense-specific measurement of viral RNAs may be achieved by reverse transcription polymerase chain reaction (RT-PCR) assays which utilize primers of defined polarity during the RT step. However, in practice, it has been shown that such assays are prone to artifacts, such as non-specific priming, which drastically diminish their reliability. Using murine coronavirus MHV-4 as a model, we describe and validate several modifications of the RT-PCR procedure which eliminate these artifacts. Key RT-PCR parameters which were optimized include the design of tagged primers, DNase treatment of in vitro transcribed RNA standards, specification of temperature differences between RT and PCR annealing steps, and use of competitive RNA templates for quantitative assays. The assays described may be used to determine the sense and abundance of any viral or host RNA of interest in complex biological specimens.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In many applications , it is useful to know the sense and amount of viral RNAs present in a sample .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In theory , sense-specific measurement of viral RNAs may be achieved by reverse transcription polymerase chain reaction ( RT-PCR ) assays which utilize primers of defined polarity during the RT step .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , in practice , it has been shown that such assays are prone to artifacts ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as non-specific priming , which drastically diminish their reliability .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using murine coronavirus MHV-4 as a model ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we describe and validate several modifications of the RT-PCR procedure which eliminate these artifacts .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Key RT-PCR parameters which were optimized include the design of tagged primers ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "DNase treatment of in vitro transcribed RNA standards ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "specification of temperature differences between RT and PCR annealing steps ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and use of competitive RNA templates for quantitative assays .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The assays described may be used to determine the sense and abundance of any viral or host RNA of interest in complex biological specimens .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "11",
+    "token_num": "172"
+  }
+}

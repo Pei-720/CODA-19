@@ -1,0 +1,137 @@
+{
+  "paper_id": "db62bc4bb76fa5755a43e79b6da62374886f2439",
+  "metadata": {
+    "title": "Powerful Sequence Similarity Search Methods and In-Depth Manual Analyses Can Identify Remote Homologs in Many Apparently \"Orphan\" Viral Proteins",
+    "coda_data_split": "train",
+    "coda_paper_id": 5633,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "The genome sequences of new viruses often contain many \"orphan\" or \"taxon-specific\" proteins apparently lacking homologs. However, because viral proteins evolve very fast, commonly used sequence similarity detection methods such as BLAST may overlook homologs. We analyzed a data set of proteins from RNA viruses characterized as \"genus specific\" by BLAST. More powerful methods developed recently, such as HHblits or HHpred (available through web-based, user-friendly interfaces), could detect distant homologs of a quarter of these proteins, suggesting that these methods should be used to annotate viral genomes. In-depth manual analyses of a subset of the remaining sequences, guided by contextual information such as taxonomy, gene order, or domain cooccurrence, identified distant homologs of another third. Thus, a combination of powerful automated methods and manual analyses can uncover distant homologs of many proteins thought to be orphans. We expect these methodological results to be also applicable to cellular organisms, since they generally evolve much more slowly than RNA viruses. As an application, we reanalyzed the genome of a bee pathogen, Chronic bee paralysis virus (CBPV). We could identify homologs of most of its proteins thought to be orphans; in each case, identifying homologs provided functional clues. We discovered that CBPV encodes a domain homologous to the Alphavirus methyltransferase-guanylyltransferase; a putative membrane protein, SP24, with homologs in unrelated insect viruses and insect-transmitted plant viruses having different morphologies (cileviruses, higreviruses, blunerviruses, negeviruses); and a putative virion glycoprotein, ORF2, also found in negeviruses. SP24 and ORF2 are probably major structural components of the virions.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The genome sequences of new viruses often contain many `` orphan \u0027\u0027 or `` taxon-specific \u0027\u0027 proteins apparently lacking homologs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , because viral proteins evolve very fast ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "commonly used sequence similarity detection methods such as BLAST may overlook homologs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We analyzed a data set of proteins from RNA viruses characterized as `` genus specific \u0027\u0027 by BLAST .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "More powerful methods developed recently ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as HHblits or HHpred ( available through web-based , user-friendly interfaces ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "could detect distant homologs of a quarter of these proteins ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "suggesting that these methods should be used to annotate viral genomes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In-depth manual analyses of a subset of the remaining sequences ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "guided by contextual information such as taxonomy ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "gene order , or domain cooccurrence ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "identified distant homologs of another third .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , a combination of powerful automated methods and manual analyses can uncover distant homologs of many proteins thought to be orphans .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We expect these methodological results to be also applicable to cellular organisms ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "since they generally evolve much more slowly than RNA viruses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "As an application , we reanalyzed the genome of a bee pathogen ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Chronic bee paralysis virus ( CBPV ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We could identify homologs of most of its proteins thought to be orphans ; in each case ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "identifying homologs provided functional clues .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We discovered that CBPV encodes a domain homologous to the Alphavirus methyltransferase-guanylyltransferase ; a putative membrane protein ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "SP24 , with homologs in unrelated insect viruses and insect-transmitted plant viruses having different morphologies ( cileviruses , higreviruses , blunerviruses , negeviruses ) ; and a putative virion glycoprotein ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "ORF2 , also found in negeviruses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "SP24 and ORF2 are probably major structural components of the virions .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "11",
+    "segment_num": "23",
+    "token_num": "298"
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "paper_id": "88d9d333b7b85d34405f27fc2e469cad48a1f8c4",
+  "metadata": {
+    "title": "Glial cell type-specific changes in spinal dipeptidyl peptidase 4 expression and effects of its inhibitors in inflammatory and neuropatic pain OPEN",
+    "coda_data_split": "train",
+    "coda_paper_id": 6527,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Altered pain sensations such as hyperalgesia and allodynia are characteristic features of various pain states, and remain difficult to treat. We have shown previously that spinal application of dipeptidyl peptidase 4 (DPP4) inhibitors induces strong antihyperalgesic effect during inflammatory pain. In this study we observed low level of DPP4 mRNA in the rat spinal dorsal horn in physiological conditions, which did not change significantly either in carrageenan-induced inflammatory or partial nerve ligation-generated neuropathic states. In naïve animals, microglia and astrocytes expressed DPP4 protein with one and two orders of magnitude higher than neurons, respectively. DPP4 significantly increased in astrocytes during inflammation and in microglia in neuropathy. Intrathecal application of two DPP4 inhibitors tripeptide isoleucin-prolin-isoleucin (IPI) and the antidiabetic drug vildagliptin resulted in robust opioid-dependent antihyperalgesic effect during inflammation, and milder but significant opioid-independent antihyperalgesic action in the neuropathic model. The opioid-mediated antihyperalgesic effect of IPI was exclusively related to mu-opioid receptors, while vildagliptin affected mainly delta-receptor activity, although mu-and kappa-receptors were also involved. None of the inhibitors influenced allodynia. Our results suggest pathology and glia-type specific changes of DPP4 activity in the spinal cord, which contribute to the development and maintenance of hyperalgesia and interact with endogenous opioid systems.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Altered pain sensations such as hyperalgesia and allodynia are characteristic features of various pain states ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and remain difficult to treat .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We have shown previously that spinal application of dipeptidyl peptidase 4 ( DPP4 ) inhibitors induces strong antihyperalgesic effect during inflammatory pain .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study we observed low level of DPP4 mRNA in the rat spinal dorsal horn in physiological conditions ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which did not change significantly either in carrageenan-induced inflammatory or partial nerve ligation-generated neuropathic states .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In naïve animals , microglia and astrocytes expressed DPP4 protein with one and two orders of magnitude higher than neurons , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "DPP4 significantly increased in astrocytes during inflammation and in microglia in neuropathy .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Intrathecal application of two DPP4 inhibitors tripeptide isoleucin-prolin-isoleucin ( IPI ) and the antidiabetic drug vildagliptin resulted in robust opioid-dependent antihyperalgesic effect during inflammation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and milder but significant opioid-independent antihyperalgesic action in the neuropathic model .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The opioid-mediated antihyperalgesic effect of IPI was exclusively related to mu-opioid receptors ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while vildagliptin affected mainly delta-receptor activity ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "although mu-and kappa-receptors were also involved .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "None of the inhibitors influenced allodynia .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our results suggest pathology and glia-type specific changes of DPP4 activity in the spinal cord ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which contribute to the development and maintenance of hyperalgesia and interact with endogenous opioid systems .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "DPP4 is a type II integral transmembrane glycoprotein expressed on many cell types, but appears also in soluble form in body fluids including cerebrospinal fluid 1 . As a serine protease, DPP4 cleaves dipeptides from oligopeptides and proteins containing proline/alanine in the penultimate position. DPP4 processes neuropeptides, hormones, cytokines and chemokines leading to their biological activation or inactivation. Potential substrates include incretins (glucagon-like peptide-1 and -2, and glucose-dependent insulinotropic polypeptide), bradykinin, Substance P (SP), neuropeptide Y (NPY), vasoactive intestinal polypeptide (VIP) and tumour necrosis factor (TNF-α) 2-4 . In addition to the enzymatic activity, DPP4 has binding sites for adenosine deaminase (ADA) 5",
+      "sentences": [
+        [
+          {
+            "segment_text": "DPP4 is a type II integral transmembrane glycoprotein expressed on many cell types ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but appears also in soluble form in body fluids including cerebrospinal fluid 1 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As a serine protease , DPP4 cleaves dipeptides from oligopeptides and proteins containing proline/alanine in the penultimate position .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "DPP4 processes neuropeptides , hormones ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "cytokines and chemokines leading to their biological activation or inactivation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Potential substrates include incretins ( glucagon-like peptide-1 and -2 , and glucose-dependent insulinotropic polypeptide ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "bradykinin , Substance P ( SP ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "neuropeptide Y ( NPY ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "vasoactive intestinal polypeptide ( VIP ) and tumour necrosis factor ( TNF-α ) 2-4 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition to the enzymatic activity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "DPP4 has binding sites for adenosine deaminase ( ADA ) 5",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Published: xx xx xxxx OPEN www.nature.com/scientificreports/ 2 Scientific RePoRts | (2018) 8:3490 |",
+      "sentences": [
+        [
+          {
+            "segment_text": "Published : xx xx xxxx OPEN www.nature.com/scientificreports/ 2 Scientific RePoRts | ( 2018 ) 8:3490 |",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "15",
+    "segment_num": "27",
+    "token_num": "363"
+  }
+}

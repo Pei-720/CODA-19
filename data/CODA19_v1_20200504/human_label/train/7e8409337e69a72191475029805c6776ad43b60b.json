@@ -1,0 +1,237 @@
+{
+  "paper_id": "7e8409337e69a72191475029805c6776ad43b60b",
+  "metadata": {
+    "title": "Outbreak 2019-nCoV (Wuhan virus), a novel Coronavirus: human-to-human transmission, travel-related cases, and vaccine readiness",
+    "coda_data_split": "train",
+    "coda_paper_id": 8774,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "On 31 December 2019 the Wuhan Health Commission reported a cluster of atypical pneumonia cases that was linked to a wet market in the city of Wuhan, China. The first patients began experiencing symptoms of illness in mid-December 2019. Clinical isolates were found to contain a novel coronavirus with similarity to bat coronaviruses. As of 28 January 2020, there are in excess of 4,500 laboratory-confirmed cases, with \u003e 100 known deaths. As with the SARS-CoV, infections in children appear to be rare. Travel-related cases have been confirmed in multiple countries and regions outside and the United States, as well as Hong Kong and Taiwan. Domestically in China, the virus has also been noted in several cities and provinces with cases in all but one provinence. While zoonotic transmission appears to be the original source of infections, the most alarming development is that humanto-human transmission is now prevelant. Of particular concern is that many healthcare workers have been infected in the current epidemic. There are several critical clinical questions that need to be resolved, including how efficient is human-to-human transmission? What is the animal reservoir? Is there an intermediate animal reservoir? Do the vaccines generated to the SARS-CoV or MERS-CoV or their proteins offer protection against 2019-nCoV? We offer a research perspective on the next steps for the generation of vaccines. We also present data on the use of in silico docking in gaining insight into 2019-nCoV Spike-receptor binding to aid in therapeutic development. Diagnostic PCR protocols can be found at https://www.who.int/health-topics/coronavirus/laboratory-diagnostics-for-novel-coronavirus. A novel coronavirus (CoV) has emerged in Wuhan, China (Figure 1 ). This virus causes pneumonia of varying severity and has resulted in a high number of hospitalizations (\u003e 4,500) and at least 105 deaths (casefatality rate (CFR) estimated at 1.5-3%). This virus is currently referred to as 2019-nCoV (also Wuhan virus) and is related to Severe Acute Respiratory Syndrome coronavirus (SARS-CoV), although with only approximately 80% similarity at the nucleotide level. With a seemingly comparable chain of events as the origin of SARS-CoV, the initial infections with 2019-nCoV appears to be linked to contact with animals in wet markets. Even though human-to-human Ralph et al. -2019-nCoV Wuhan and human-to-human transmission J Infect Dev Ctries 2020; 14(1):3-17. Figure S1 . Interaction of RBD residues involved in species specificity and ACE2. The RBD homology models docked to ACE2 are shown with emphasis placed on three residues associated with SARS-CoV species specificity: Leu472, Asn479, and Thr487. ACE2 is shown in grey and ACE2 residues involved with each of the three RBD residues are shown in stick form. The SARS-CoV, WIV1-CoV, and 2019-nCoV RBD homology models are shown in magenta, cyan, and green, respectively. Amino acids involved in ACE2 binding are shown in stick representation in their respective colours. If a SARS-RBD amino acid is mutated in either WIV1-CoV RBD or 2019-nCoV, it is labelled in red. Hydrogen bonds are shown as dashed black lines.",
+      "sentences": [
+        [
+          {
+            "segment_text": "On 31 December 2019 the Wuhan Health Commission reported a cluster of atypical pneumonia cases that was linked to a wet market in the city of Wuhan , China .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The first patients began experiencing symptoms of illness in mid-December 2019 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Clinical isolates were found to contain a novel coronavirus with similarity to bat coronaviruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As of 28 January 2020 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "there are in excess of 4,500 laboratory-confirmed cases ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with \u003e 100 known deaths .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As with the SARS-CoV , infections in children appear to be rare .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Travel-related cases have been confirmed in multiple countries and regions outside and the United States ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as well as Hong Kong and Taiwan .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Domestically in China , the virus has also been noted in several cities and provinces with cases in all but one provinence .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "While zoonotic transmission appears to be the original source of infections ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the most alarming development is that humanto-human transmission is now prevelant .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Of particular concern is that many healthcare workers have been infected in the current epidemic .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "There are several critical clinical questions that need to be resolved ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including how efficient is human-to-human transmission ?",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "What is the animal reservoir ?",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Is there an intermediate animal reservoir ?",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Do the vaccines generated to the SARS-CoV or MERS-CoV or their proteins offer protection against 2019-nCoV ?",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We offer a research perspective on the next steps for the generation of vaccines .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also present data on the use of in silico docking in gaining insight into 2019-nCoV Spike-receptor binding to aid in therapeutic development .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Diagnostic PCR protocols can be found at https://www.who.int/health-topics/coronavirus/laboratory-diagnostics-for-novel-coronavirus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A novel coronavirus ( CoV ) has emerged in Wuhan ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "China ( Figure 1 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This virus causes pneumonia of varying severity and has resulted in a high number of hospitalizations ( \u003e 4,500 ) and at least 105 deaths ( casefatality rate ( CFR ) estimated at 1.5-3 % ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This virus is currently referred to as 2019-nCoV ( also Wuhan virus ) and is related to Severe Acute Respiratory Syndrome coronavirus ( SARS-CoV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "although with only approximately 80 % similarity at the nucleotide level .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "With a seemingly comparable chain of events as the origin of SARS-CoV ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the initial infections with 2019-nCoV appears to be linked to contact with animals in wet markets .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Even though human-to-human Ralph et al. -2019-nCoV Wuhan and human-to-human transmission J Infect Dev Ctries 2020 ; 14 ( 1 ) : 3-17 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Figure S1 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Interaction of RBD residues involved in species specificity and ACE2 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The RBD homology models docked to ACE2 are shown with emphasis placed on three residues associated with SARS-CoV species specificity : Leu472 , Asn479 , and Thr487 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "ACE2 is shown in grey and ACE2 residues involved with each of the three RBD residues are shown in stick form .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The SARS-CoV , WIV1-CoV , and 2019-nCoV RBD homology models are shown in magenta ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "cyan , and green , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Amino acids involved in ACE2 binding are shown in stick representation in their respective colours .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "If a SARS-RBD amino acid is mutated in either WIV1-CoV RBD or 2019-nCoV ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "it is labelled in red .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hydrogen bonds are shown as dashed black lines .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "29",
+    "segment_num": "39",
+    "token_num": "552"
+  }
+}

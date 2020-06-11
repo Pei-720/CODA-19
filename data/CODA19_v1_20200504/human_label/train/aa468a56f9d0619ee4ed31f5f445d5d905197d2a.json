@@ -1,0 +1,149 @@
+{
+  "paper_id": "aa468a56f9d0619ee4ed31f5f445d5d905197d2a",
+  "metadata": {
+    "title": "Role of Ceacam1 in VEGF induced vasculogenesis of murine embryonic stem cell-derived embryoid bodies in 3D culture NIH Public Access",
+    "coda_data_split": "train",
+    "coda_paper_id": 5464,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "CEACAM1 (carcinoembryonic antigen-related cell adhesion molecule 1), a type I transmembrane glycoprotein involved in cell-cell adhesion has been shown to act as an angiogenic factor for mouse and human endothelial cells. Based on the ability of CEACAM1 to initiate lumen formation in human mammary epithelial cells grown in 3D culture (Matrigel), we hypothesized that murine CEACAM1 may play a similar role in vasculogenesis. In order to test this hypothesis, murine embryonic stem (ES) cells stimulated with VEGF were differentiated into embryoid bodies (EB) for 8 days (−8-0 d) and transferred to Matrigel in the presence or absence of anti-CEACAM1 antibody for an additional 12 days (0-12 d). In the absence of anti-CEACAM1 antibody or in the presence of an isotype control antibody, the EB in Matrigel underwent extensive sprouting, generating lengthy vascular structures with well-defined lumina as demonstrated by confocal microscopy, electron microscopy, and immunohistochemical analysis. Both the length and architecture of the vascular tubes were inhibited by anti-CEACAM1 mAb CC1, a mAb that blocks the cell-cell adhesion functions of CEACAM1, thus demonstrating a critical role for this cell-cell adhesion molecule in generating and maintaining vasculogenesis. QRT-PCR analysis of the VEGF treated ES cells grown under conditions that convert them to EB revealed expression of Ceacam1 as early as −5 to −3 d reaching a maximum at day 0 at which time EBs were transferred to Matrigel, thereafter levels at first declined and then increased over time. Other markers of vasculogenesis including Pecam1, VE-Cad, and Tie-1 were not detected until day 0 when EBs were transferred to Matrigel followed by a steady increase in levels, indicating later roles in vasculogenesis. In contrast, Tie-2 and Flk-1 (VEGFR2) were detected on day five of EB formation reaching a maximum at day 0 on transfer to Matrigel, similar to Ceacam1, but after which Tie-2 declined over time, while Flk-1 increased over time. QRT-PCR analysis of the anti-CEACAM1 treated ES cells revealed a significant decrease in the expression of Ceacam1, Pecam1, Tie-1, and Flk-1, while VE-Cad and Tie-2 expression were unaffected. These results suggest that the expression and signaling of CEACAM1 may affect the expression of other factors known to play critical roles in vasculogenesis. Furthermore this 3D model of vasculogenesis in an environment of extracellular matrix may be a useful model for comparison to existing models of angiogenesis.",
+      "sentences": [
+        [
+          {
+            "segment_text": "CEACAM1 ( carcinoembryonic antigen-related cell adhesion molecule 1 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a type I transmembrane glycoprotein involved in cell-cell adhesion has been shown to act as an angiogenic factor for mouse and human endothelial cells .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Based on the ability of CEACAM1 to initiate lumen formation in human mammary epithelial cells grown in 3D culture ( Matrigel ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we hypothesized that murine CEACAM1 may play a similar role in vasculogenesis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In order to test this hypothesis ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "murine embryonic stem ( ES ) cells stimulated with VEGF were differentiated into embryoid bodies ( EB ) for 8 days ( − 8-0 d ) and transferred to Matrigel in the presence or absence of anti-CEACAM1 antibody for an additional 12 days ( 0-12 d ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the absence of anti-CEACAM1 antibody or in the presence of an isotype control antibody ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the EB in Matrigel underwent extensive sprouting ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "generating lengthy vascular structures with well-defined lumina as demonstrated by confocal microscopy ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "electron microscopy , and immunohistochemical analysis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Both the length and architecture of the vascular tubes were inhibited by anti-CEACAM1 mAb CC1 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a mAb that blocks the cell-cell adhesion functions of CEACAM1 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "thus demonstrating a critical role for this cell-cell adhesion molecule in generating and maintaining vasculogenesis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "QRT-PCR analysis of the VEGF treated ES cells grown under conditions that convert them to EB revealed expression of Ceacam1 as early as − 5 to − 3 d reaching a maximum at day 0 at which time EBs were transferred to Matrigel ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "thereafter levels at first declined and then increased over time .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Other markers of vasculogenesis including Pecam1 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "VE-Cad , and Tie-1 were not detected until day 0 when EBs were transferred to Matrigel followed by a steady increase in levels ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "indicating later roles in vasculogenesis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In contrast , Tie-2 and Flk-1 ( VEGFR2 ) were detected on day five of EB formation reaching a maximum at day 0 on transfer to Matrigel ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "similar to Ceacam1 , but after which Tie-2 declined over time ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while Flk-1 increased over time .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "QRT-PCR analysis of the anti-CEACAM1 treated ES cells revealed a significant decrease in the expression of Ceacam1 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Pecam1 , Tie-1 , and Flk-1 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while VE-Cad and Tie-2 expression were unaffected .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These results suggest that the expression and signaling of CEACAM1 may affect the expression of other factors known to play critical roles in vasculogenesis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore this 3D model of vasculogenesis in an environment of extracellular matrix may be a useful model for comparison to existing models of angiogenesis .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "11",
+    "segment_num": "26",
+    "token_num": "434"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "paper_id": "46a47d4d36302bbc26772c4cb9f3bf31789ce073",
+  "metadata": {
+    "title": "CD147 and AGR2 expression promote cellular proliferation and metastasis of Head and Neck Squamous Cell Carcinoma",
+    "coda_data_split": "train",
+    "coda_paper_id": 2380,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The signaling pathways facilitating metastasis of head and neck squamous cell carcinoma (HNSCC) cells are not fully understood. CD147 is a transmembrane glycoprotein known to induce cell migration and invasion. AGR2 is a secreted peptide also known to promote cell metastasis.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The signaling pathways facilitating metastasis of head and neck squamous cell carcinoma ( HNSCC ) cells are not fully understood .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "CD147 is a transmembrane glycoprotein known to induce cell migration and invasion .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "AGR2 is a secreted peptide also known to promote cell metastasis .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Here we describe their importance in the migration and invasion of HNSCC cells in vitro and in vivo. In vitro, knockdown of CD147 or AGR2 decreased cellular proliferation, migration and invasion. In vivo, knockdown of CD147 or AGR2 expression decreased primary tumor growth as well as regional and distant metastasis.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Here we describe their importance in the migration and invasion of HNSCC cells in vitro and in vivo .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "In vitro , knockdown of CD147 or AGR2 decreased cellular proliferation , migration and invasion .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In vivo , knockdown of CD147 or AGR2 expression decreased primary tumor growth as well as regional and distant metastasis .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "6",
+    "segment_num": "6",
+    "token_num": "102"
+  }
+}

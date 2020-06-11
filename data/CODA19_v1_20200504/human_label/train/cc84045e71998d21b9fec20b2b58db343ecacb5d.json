@@ -1,0 +1,129 @@
+{
+  "paper_id": "cc84045e71998d21b9fec20b2b58db343ecacb5d",
+  "metadata": {
+    "title": "Original papers",
+    "coda_data_split": "train",
+    "coda_paper_id": 6851,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "In commercial poultry production there are a number of diseases which are of particular importance due to the heavy economic losses that can arise if a flock becomes infected. The development of an automated and rapid disease detection system would therefore be of considerable benefit to both production and animal welfare. This study represents an intelligence device for diagnosing avian diseases by using Data-mining methods and Dempster-Shafer evidence theory (D-S). 14-day-old chickens were divided into four groups. Each group was deliberately infected with a disease: Newcastle Disease (ND), Bronchitis Virus (BV), Avian Influenenza (AI), and the last group was considered as control samples. Fast Fourier Transform (FFT) and Discrete Wavelet Transform (DWT) were used to process the chicken\u0027s sound signals in frequency and time-frequency domains, respectively. In order to achieve information, 25 statistical features from frequency domains, and 75 statistical features from time-frequency domains were extracted. During dimensionality reduction stage, the best features of the sound signals were selected, using improved distance evaluation (IDE) method. The chicken\u0027s sound signals were analyzed in two consecutive days after virus infection. Support vector machine (SVM) was used as the classifier in this study. The first classification was done with SVM and based on sound features in frequency and time-frequency domains with accuracy of 41.35 and 83.33%, respectively. The accuracy of the method based on D-S infusion of sound data reached 91.15%. The developed model based on achievement result could diagnose Newcastle Disease, Bronchitis Virus and Avian Influenza from sound signals.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In commercial poultry production there are a number of diseases which are of particular importance due to the heavy economic losses that can arise if a flock becomes infected .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The development of an automated and rapid disease detection system would therefore be of considerable benefit to both production and animal welfare .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study represents an intelligence device for diagnosing avian diseases by using Data-mining methods and Dempster-Shafer evidence theory ( D-S ) .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "14-day-old chickens were divided into four groups .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Each group was deliberately infected with a disease : Newcastle Disease ( ND ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "Bronchitis Virus ( BV ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "Avian Influenenza ( AI ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and the last group was considered as control samples .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Fast Fourier Transform ( FFT ) and Discrete Wavelet Transform ( DWT ) were used to process the chicken \u0027s sound signals in frequency and time-frequency domains , respectively .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In order to achieve information ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "25 statistical features from frequency domains ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and 75 statistical features from time-frequency domains were extracted .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "During dimensionality reduction stage , the best features of the sound signals were selected ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "using improved distance evaluation ( IDE ) method .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The chicken \u0027s sound signals were analyzed in two consecutive days after virus infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Support vector machine ( SVM ) was used as the classifier in this study .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The first classification was done with SVM and based on sound features in frequency and time-frequency domains with accuracy of 41.35 and 83.33 % , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The accuracy of the method based on D-S infusion of sound data reached 91.15 % .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The developed model based on achievement result could diagnose Newcastle Disease ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Bronchitis Virus and Avian Influenza from sound signals .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "13",
+    "segment_num": "20",
+    "token_num": "291"
+  }
+}

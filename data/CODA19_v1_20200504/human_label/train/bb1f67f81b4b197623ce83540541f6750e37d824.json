@@ -1,0 +1,159 @@
+{
+  "paper_id": "bb1f67f81b4b197623ce83540541f6750e37d824",
+  "metadata": {
+    "title": "A multisite, randomized field trial to evaluate the influence of lactoferrin on the morbidity and mortality of dairy calves with diarrhea",
+    "coda_data_split": "train",
+    "coda_paper_id": 10857,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Diarrhea is one of the most common causes of antimicrobial use and mortality in young calves. To reduce antimicrobial use and resistance on dairy farms, research on alternative therapies for calf diarrhea is necessary. Our laboratory previously conducted a randomized clinical trial investigating the effectiveness of lactoferrin, an iron-binding protein found in colostrum, as a treatment for calf diarrhea. The trial showed significantly reduced calf mortality in diarrheic calves that were administered lactoferrin. Thus, the objective of this study was to corroborate the results of our prior clinical trial across multiple farms and to investigate the effect of lactoferrin on the morbidity and mortality of preweaned calves with naturally occurring cases of diarrhea. This randomized field trial was conducted on 5 commercial dairy farms in Ohio. In total, 485 calves (≤21 d of age) were enrolled at first diarrhea diagnosis (fecal score ≥2 defined as loose to watery) and randomly assigned to receive an oral dose of lactoferrin (3 g of lactoferrin powder dissolved in 30 mL of water) or 30 mL of water (control) once daily for 3 consecutive days. Health assessments were conducted on the day of diarrhea diagnosis (d 0) and 1, 2, 3, 7, 14, 21, 28, and 35 d following diagnosis. Producer records of disease treatment and mortality were collected 120 d following diagnosis. A Poisson regression model was used to test differences between treatments in disease frequency through 35 d post-diarrhea diagnosis and the incidence risk of treatment and mortality risk 120 d post-diarrhea diagnosis; the model controlled for calf age at enrollment, farm, and treatment. Median calf age at enrollment was 11 d and ranged from 1 to 26 d of age. At study enrollment, 51.3% (123/240) and 52.2% (128/245) of calves in the control and lactoferrin treatment groups, respectively, were diagnosed with severe diarrhea (fecal score \u003d 3). The frequency of disease (diarrhea, dehydration, depression, signs of respiratory disease) through 35 d following diarrhea diagnosis was not significantly different for calves in the lactoferrin and control groups. Overall mortality risk for enrolled calves was 9.9%, and 10.7% (22/243) and 9.1% (26/242) of calves in the lactoferrin and control groups, respectively, died or were culled in the 120 d following diarrhea diagnosis. The relative risk of death or culling did not differ between treatment groups, however. Therefore, as performed in this study, lactoferrin as a treatment for calf diarrhea was not beneficial.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Diarrhea is one of the most common causes of antimicrobial use and mortality in young calves .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To reduce antimicrobial use and resistance on dairy farms ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "research on alternative therapies for calf diarrhea is necessary .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our laboratory previously conducted a randomized clinical trial investigating the effectiveness of lactoferrin ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "an iron-binding protein found in colostrum ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as a treatment for calf diarrhea .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The trial showed significantly reduced calf mortality in diarrheic calves that were administered lactoferrin .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , the objective of this study was to corroborate the results of our prior clinical trial across multiple farms and to investigate the effect of lactoferrin on the morbidity and mortality of preweaned calves with naturally occurring cases of diarrhea .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "This randomized field trial was conducted on 5 commercial dairy farms in Ohio .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In total , 485 calves ( ≤ 21 d of age ) were enrolled at first diarrhea diagnosis ( fecal score ≥ 2 defined as loose to watery ) and randomly assigned to receive an oral dose of lactoferrin ( 3 g of lactoferrin powder dissolved in 30 mL of water ) or 30 mL of water ( control ) once daily for 3 consecutive days .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Health assessments were conducted on the day of diarrhea diagnosis ( d 0 ) and 1 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "2 , 3 , 7 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "14 , 21 , 28 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and 35 d following diagnosis .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Producer records of disease treatment and mortality were collected 120 d following diagnosis .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A Poisson regression model was used to test differences between treatments in disease frequency through 35 d post-diarrhea diagnosis and the incidence risk of treatment and mortality risk 120 d post-diarrhea diagnosis ; the model controlled for calf age at enrollment , farm , and treatment .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Median calf age at enrollment was 11 d and ranged from 1 to 26 d of age .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "At study enrollment , 51.3 % ( 123/240 ) and 52.2 % ( 128/245 ) of calves in the control and lactoferrin treatment groups ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "respectively , were diagnosed with severe diarrhea ( fecal score \u003d 3 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The frequency of disease ( diarrhea , dehydration , depression , signs of respiratory disease ) through 35 d following diarrhea diagnosis was not significantly different for calves in the lactoferrin and control groups .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Overall mortality risk for enrolled calves was 9.9 % ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and 10.7 % ( 22/243 ) and 9.1 % ( 26/242 ) of calves in the lactoferrin and control groups ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "respectively , died or were culled in the 120 d following diarrhea diagnosis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The relative risk of death or culling did not differ between treatment groups , however .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , as performed in this study ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "lactoferrin as a treatment for calf diarrhea was not beneficial .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "16",
+    "segment_num": "26",
+    "token_num": "471"
+  }
+}

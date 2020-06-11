@@ -1,0 +1,133 @@
+{
+  "paper_id": "695abb67710c45651031cfddd591559c1a771015",
+  "metadata": {
+    "title": "A human behavior integrated hierarchical model of airborne disease transmission in a large city",
+    "coda_data_split": "train",
+    "coda_paper_id": 4882,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Epidemics of infectious diseases such as SARS, H1N1, and MERS threaten public health, particularly in large cities such as Hong Kong. We constructed a human behavior integrated hierarchical (HiHi) model based on the SIR (Susceptible, Infectious, and Recovered) model, the Wells-Riley equation, and population movement considering both spatial and temporal dimensions. The model considers more than 7 million people, 3 million indoor environments, and 2566 public transport routes in Hong Kong. Smallpox, which could be spread through airborne routes, is studied as an example. The simulation is based on people\u0027s daily commutes and indoor human behaviors, which were summarized by mathematical patterns. We found that 59.6%, 18.1%, and 13.4% of patients become infected in their homes, offices, and schools, respectively. If both work stoppage and school closure measures are taken when the number of infected people is greater than 1000, an infectious disease will be effectively controlled after 2 months. The peak number of infected people will be reduced by 25% compared to taking no action, and the time of peak infections will be delayed by about 40 days if 90% of the infected people go to hospital during the infectious period. When ventilation rates in indoor environments increase to five times their default settings, smallpox will be naturally controlled. Residents of Kowloon and the north part of Hong Kong Island have a high risk of infection from airborne infectious diseases. Our HiHi model reduces the calculation time for infection rates to an acceptable level while preserving accuracy.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Epidemics of infectious diseases such as SARS ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "H1N1 , and MERS threaten public health ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "particularly in large cities such as Hong Kong .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We constructed a human behavior integrated hierarchical ( HiHi ) model based on the SIR ( Susceptible , Infectious , and Recovered ) model ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the Wells-Riley equation , and population movement considering both spatial and temporal dimensions .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The model considers more than 7 million people ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "3 million indoor environments , and 2566 public transport routes in Hong Kong .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Smallpox , which could be spread through airborne routes ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "is studied as an example .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The simulation is based on people \u0027s daily commutes and indoor human behaviors ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which were summarized by mathematical patterns .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We found that 59.6 % ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "18.1 % , and 13.4 % of patients become infected in their homes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "offices , and schools , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "If both work stoppage and school closure measures are taken when the number of infected people is greater than 1000 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "an infectious disease will be effectively controlled after 2 months .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The peak number of infected people will be reduced by 25 % compared to taking no action ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the time of peak infections will be delayed by about 40 days if 90 % of the infected people go to hospital during the infectious period .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "When ventilation rates in indoor environments increase to five times their default settings ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "smallpox will be naturally controlled .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Residents of Kowloon and the north part of Hong Kong Island have a high risk of infection from airborne infectious diseases .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our HiHi model reduces the calculation time for infection rates to an acceptable level while preserving accuracy .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "11",
+    "segment_num": "22",
+    "token_num": "289"
+  }
+}

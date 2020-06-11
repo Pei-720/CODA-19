@@ -1,0 +1,267 @@
+{
+  "paper_id": "708f09061d062a04c457f164184a04d39f8fef25",
+  "metadata": {
+    "title": "Design, synthesis and evaluation of a series of acyclic fleximer nucleoside analogues with anti-coronavirus activity",
+    "coda_data_split": "train",
+    "coda_paper_id": 4726,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "A series of doubly flexible nucleoside analogues were designed based on the acyclic sugar scaffold of acyclovir and the flex-base moiety found in the fleximers. The target compounds were evaluated for their antiviral potential and found to inhibit several coronaviruses. Significantly, compound 2 displayed selective antiviral activity (CC 50 \u003e3Â EC 50 ) towards human coronavirus (HCoV)-NL63 and Middle East respiratory syndrome-coronavirus, but not severe acute respiratory syndrome-coronavirus. In the case of HCoV-NL63 the activity was highly promising with an EC 50 \u003c10 lM and a CC 50 \u003e100 lM. As such, these doubly flexible nucleoside analogues are viewed as a novel new class of drug candidates with potential for potent inhibition of coronaviruses.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A series of doubly flexible nucleoside analogues were designed based on the acyclic sugar scaffold of acyclovir and the flex-base moiety found in the fleximers .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The target compounds were evaluated for their antiviral potential and found to inhibit several coronaviruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Significantly , compound 2 displayed selective antiviral activity ( CC 50 \u003e 3Â EC 50 ) towards human coronavirus ( HCoV ) - NL63 and Middle East respiratory syndrome-coronavirus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but not severe acute respiratory syndrome-coronavirus .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the case of HCoV-NL63 the activity was highly promising with an EC 50 \u003c 10 lM and a CC 50 \u003e 100 lM .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As such , these doubly flexible nucleoside analogues are viewed as a novel new class of drug candidates with potential for potent inhibition of coronaviruses .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Ó 2015 Elsevier Ltd. All rights reserved.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Ó 2015 Elsevier Ltd. .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "All rights reserved .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Currently there are no approved treatments or vaccines for human coronaviruses (HCoVs) or potentially lethal zoonotic CoVs, such as severe acute respiratory syndrome (SARS) or Middle East respiratory syndrome (MERS). The current MERS outbreak has been ongoing for almost three years, with well over a thousand confirmed cases having been documented, with a mortality rate of about 40%. 1 Since the 2002-2003 SARS outbreak, there have been extensive efforts to target the coronavirus family, including the screening of libraries of already approved antiviral drugs such as acyclovir (ACV), ganciclovir, lamivudine, and zidovudine. Unfortunately, none of these well known antiviral drugs exhibited any activity against SARS-CoV or MERS-CoV in vitro. 2 The SARS-CoV screening efforts did, however, yield a small number of leads including the nucleoside analogue ribavirin, a guanosine-like analogue that has exhibited broad-spectrum antiviral activity. 2-7 Ribavirin was found to inhibit coronavirus replication in vitro, but with an inhibitory concentration much higher (500-5000 lg/ml) than that needed to inhibit other viruses (50-100 lg/ml). Consequently, it does not appear to represent a viable treatment option. Moreover, a recent study has suggested that in the case of the coronaviruses, ribavirin\u0027s antiviral activity is not primarily due to lethal mutagenesis, but rather to its effect on the cell\u0027s GTP biosynthesis. 8 Beyond these studies, there are very few reports of (novel) nucleoside inhibitors being studied or developed to combat coronavirus infection.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Currently there are no approved treatments or vaccines for human coronaviruses ( HCoVs ) or potentially lethal zoonotic CoVs ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as severe acute respiratory syndrome ( SARS ) or Middle East respiratory syndrome ( MERS ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The current MERS outbreak has been ongoing for almost three years ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with well over a thousand confirmed cases having been documented ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with a mortality rate of about 40 % .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "1 Since the 2002-2003 SARS outbreak ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "there have been extensive efforts to target the coronavirus family ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including the screening of libraries of already approved antiviral drugs such as acyclovir ( ACV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "ganciclovir , lamivudine , and zidovudine .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Unfortunately , none of these well known antiviral drugs exhibited any activity against SARS-CoV or MERS-CoV in vitro .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "2 The SARS-CoV screening efforts did ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "however , yield a small number of leads including the nucleoside analogue ribavirin ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a guanosine-like analogue that has exhibited broad-spectrum antiviral activity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "2-7 Ribavirin was found to inhibit coronavirus replication in vitro ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but with an inhibitory concentration much higher ( 500-5000 lg/ml ) than that needed to inhibit other viruses ( 50-100 lg/ml ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Consequently , it does not appear to represent a viable treatment option .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , a recent study has suggested that in the case of the coronaviruses ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "ribavirin \u0027s antiviral activity is not primarily due to lethal mutagenesis ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but rather to its effect on the cell \u0027s GTP biosynthesis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "8 Beyond these studies , there are very few reports of ( novel ) nucleoside inhibitors being studied or developed to combat coronavirus infection .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "HCoVs were first identified in the 1960s with only two species known at the time, HCoV-229E and HCoV-OC43. These viruses are known to cause a large number of common colds with typically mild symptoms, with the exception of those suffering from other illnesses, particularly immunocompromised systems. 9 In 2002 a new coronavirus pathogen associated with severe lung disease emerged in Guangzhou, and later spread to Southern China and Hong Kong. The new virus was named SARS-CoV, 10 and before the end of the outbreak over 8000 cases were confirmed in several countries, resulting in about 812 fatalities. Since then two additional coronaviruses, HCoV-NL63 and HCoV-HKU1, were discovered in humans and most recently, in 2012, MERS-CoV was identified as a second zoonotic coronavirus that can cause lethal respiratory infections in humans.",
+      "sentences": [
+        [
+          {
+            "segment_text": "HCoVs were first identified in the 1960s with only two species known at the time , HCoV-229E and HCoV-OC43 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These viruses are known to cause a large number of common colds with typically mild symptoms ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with the exception of those suffering from other illnesses , particularly immunocompromised systems .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "9 In 2002 a new coronavirus pathogen associated with severe lung disease emerged in Guangzhou ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and later spread to Southern China and Hong Kong .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The new virus was named SARS-CoV ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "10 and before the end of the outbreak over 8000 cases were confirmed in several countries ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "resulting in about 812 fatalities .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Since then two additional coronaviruses ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "HCoV-NL63 and HCoV-HKU1 , were discovered in humans and most recently ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "in 2012 , MERS-CoV was identified as a second zoonotic coronavirus that can cause lethal respiratory infections in humans .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Our laboratory has spent a number of years developing different series of flexible, or \u0027split\u0027 purine base analogues. These unique nucleoside analogues have been termed \u0027fleximers\u0027 and were designed to explore how nucleobase flexibility affects the recognition, binding, and activity of nucleoside(tide) analogues. 11-16 The http://dx.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Our laboratory has spent a number of years developing different series of flexible ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "or ` split \u0027 purine base analogues .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These unique nucleoside analogues have been termed ` fleximers \u0027 and were designed to explore how nucleobase flexibility affects the recognition ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "binding , and activity of nucleoside ( tide ) analogues .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "11-16 The http://dx .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "24",
+    "segment_num": "44",
+    "token_num": "616"
+  }
+}

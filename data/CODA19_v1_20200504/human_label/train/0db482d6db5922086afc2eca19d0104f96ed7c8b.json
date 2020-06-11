@@ -1,0 +1,216 @@
+{
+  "paper_id": "0db482d6db5922086afc2eca19d0104f96ed7c8b",
+  "metadata": {
+    "title": "A Meta-Analysis of Multiple Whole Blood Gene Expression Data Unveils a Diagnostic Host-Response Transcript Signature for Respiratory Syncytial Virus",
+    "coda_data_split": "train",
+    "coda_paper_id": 6772,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Respiratory syncytial virus (RSV) is one of the major causes of acute lower respiratory tract infection worldwide. The absence of a commercial vaccine and the limited success of current therapeutic strategies against RSV make further research necessary. We used a multi-cohort analysis approach to investigate host transcriptomic biomarkers and shed further light on the molecular mechanism underlying RSV-host interactions. We meta-analyzed seven transcriptome microarray studies from the public Gene Expression Omnibus (GEO) repository containing a total of 922 samples, including RSV, healthy controls, coronaviruses, enteroviruses, influenzas, rhinoviruses, and coinfections, from both adult and pediatric patients. We identified \u003e 1500 genes differentially expressed when comparing the transcriptomes of RSV-infected patients against healthy controls. Functional enrichment analysis showed several pathways significantly altered, including immunologic response mediated by RSV infection, pattern recognition receptors, cell cycle, and olfactory signaling. In addition, we identified a minimal 17-transcript host signature specific for RSV infection by comparing transcriptomic profiles against other respiratory viruses. These multi-genic signatures might help to investigate future drug targets against RSV infection. remain unknown [10] . The notable impact of pediatric respiratory diseases produced by RSV in the health system raises the need for a more in-depth understanding of the molecular mechanism responsible for the host susceptibility to the infection. This would improve the development of new preventive, diagnostic, and therapeutic strategies, which could reduce the social, medical, and economic burden of the disease [11] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Respiratory syncytial virus ( RSV ) is one of the major causes of acute lower respiratory tract infection worldwide .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The absence of a commercial vaccine and the limited success of current therapeutic strategies against RSV make further research necessary .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We used a multi-cohort analysis approach to investigate host transcriptomic biomarkers and shed further light on the molecular mechanism underlying RSV-host interactions .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We meta-analyzed seven transcriptome microarray studies from the public Gene Expression Omnibus ( GEO ) repository containing a total of 922 samples ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "including RSV , healthy controls ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "coronaviruses , enteroviruses , influenzas ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "rhinoviruses , and coinfections , from both adult and pediatric patients .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We identified \u003e 1500 genes differentially expressed when comparing the transcriptomes of RSV-infected patients against healthy controls .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Functional enrichment analysis showed several pathways significantly altered ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including immunologic response mediated by RSV infection ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "pattern recognition receptors , cell cycle , and olfactory signaling .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , we identified a minimal 17-transcript host signature specific for RSV infection by comparing transcriptomic profiles against other respiratory viruses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These multi-genic signatures might help to investigate future drug targets against RSV infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "remain unknown ( 10 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The notable impact of pediatric respiratory diseases produced by RSV in the health system raises the need for a more in-depth understanding of the molecular mechanism responsible for the host susceptibility to the infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This would improve the development of new preventive ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "diagnostic , and therapeutic strategies ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which could reduce the social ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "medical , and economic burden of the disease ( 11 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In the era of personalized medicine and molecular diagnostics, the study of host transcriptomics during infection is becoming an important tool not only for the study of the host-pathogen interaction but also for the diagnosis and prognosis of diseases. In the last few years, some host expression signatures related to both infectious [12] [13] [14] [15] [16] and non-infectious diseases [17, 18] have been reported. However, most of the studies are focused only on particular cohorts from a certain ethnicity or population group and restricted geographic areas, from a specific age group and the same epidemic period. Moreover, these studies compare patients against healthy controls without investigating the impact of other respiratory pathogens on the host transcriptome.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In the era of personalized medicine and molecular diagnostics ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the study of host transcriptomics during infection is becoming an important tool not only for the study of the host-pathogen interaction but also for the diagnosis and prognosis of diseases .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the last few years ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "some host expression signatures related to both infectious ( 12 ) ( 13 ) ( 14 ) ( 15 ) ( 16 ) and non-infectious diseases ( 17 , 18 ) have been reported .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , most of the studies are focused only on particular cohorts from a certain ethnicity or population group and restricted geographic areas ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "from a specific age group and the same epidemic period .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , these studies compare patients against healthy controls without investigating the impact of other respiratory pathogens on the host transcriptome .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Moreover, the technical noise inherent to microarray data, together with the usually small (underpowered) cohorts analyzed in individual studies, often lead to unreliable, inconsistent and non-reproducible results, probably due to type I and type II errors [19, 20] . Instead, a multi-cohort study allows increasing sample size and statistical power, leading to more accurate and conclusive findings and, thus, facilitating the implementation of the results into a molecular test [21] [22] [23] [24] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Moreover , the technical noise inherent to microarray data ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "together with the usually small ( underpowered ) cohorts analyzed in individual studies ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "often lead to unreliable , inconsistent and non-reproducible results ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "probably due to type I and type II errors ( 19 , 20 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Instead , a multi-cohort study allows increasing sample size and statistical power ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "leading to more accurate and conclusive findings and ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "thus , facilitating the implementation of the results into a molecular test ( 21 ) ( 22 ) ( 23 ) ( 24 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "By compiling different datasets from respiratory diseases-related host transcriptomic studies available in public resources we aimed at investigating specific expression signatures allowing to differentiate RSV respiratory infection from other viral respiratory infections and also healthy controls. We also explored the role of the differentially expressed genes (DEG) in RSV-infected patients and related pathways in the context of RSV infection.",
+      "sentences": [
+        [
+          {
+            "segment_text": "By compiling different datasets from respiratory diseases-related host transcriptomic studies available in public resources we aimed at investigating specific expression signatures allowing to differentiate RSV respiratory infection from other viral respiratory infections and also healthy controls .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also explored the role of the differentially expressed genes ( DEG ) in RSV-infected patients and related pathways in the context of RSV infection .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "19",
+    "segment_num": "35",
+    "token_num": "566"
+  }
+}

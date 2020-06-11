@@ -1,0 +1,50 @@
+{
+  "paper_id": "83a72c4895af29b20016856438a061890e5db562",
+  "metadata": {
+    "title": "",
+    "coda_data_split": "train",
+    "coda_paper_id": 2805,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "keeping with most other studies, although the recent report by Shah et al. (7 ) demonstrates that this can occur.",
+      "sentences": [
+        [
+          {
+            "segment_text": "keeping with most other studies ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "although the recent report by Shah et al. ( 7 ) demonstrates that this can occur .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In summary, we show that DHPLC can detect previously characterized and novel mutations associated with acquired resistance to imatinib. Each PCR product analysis is performed in less than 10 min in an automated instrumentation platform that has increased sensitivity over direct sequencing methods with considerably reduced labor and consumable costs.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In summary , we show that DHPLC can detect previously characterized and novel mutations associated with acquired resistance to imatinib .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Each PCR product analysis is performed in less than 10 min in an automated instrumentation platform that has increased sensitivity over direct sequencing methods with considerably reduced labor and consumable costs .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "3",
+    "segment_num": "4",
+    "token_num": "76"
+  }
+}

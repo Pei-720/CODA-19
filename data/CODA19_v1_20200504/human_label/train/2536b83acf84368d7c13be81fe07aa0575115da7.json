@@ -1,0 +1,77 @@
+{
+  "paper_id": "2536b83acf84368d7c13be81fe07aa0575115da7",
+  "metadata": {
+    "title": "Estimation of country-level basic reproductive ratios for novel Coronavirus (COVID-19) using synthetic contact matrices",
+    "coda_data_split": "train",
+    "coda_paper_id": 6249,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The outbreak of novel coronavirus has the potential for global spread, infecting large numbers in all countries. In this case, estimating the country-specific basic reproductive ratio is a vital first step in public-health planning. The basic reproductive ratio (R0) is determined by both the nature of pathogen and the network of contacts through which the disease can spread -with this network determined by socio-demographics including age-structure and household composition. Here we focus on the age-structured transmission within the population, using data from China to inform agedependent susceptibility and synthetic age-mixing matrices to inform the contact network. This allows us to determine the country-specific basic reproductive ratio as a multiplicative scaling of the value from China. We predict that R0 will be highest across Eastern Europe and Japan, and lowest across Africa, Central America and South-Western Asia. This pattern is largely driven by the ratio of children to older adults in each country and the observed propensity of clinical cases in the elderly.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The outbreak of novel coronavirus has the potential for global spread ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "infecting large numbers in all countries .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this case , estimating the country-specific basic reproductive ratio is a vital first step in public-health planning .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The basic reproductive ratio ( R0 ) is determined by both the nature of pathogen and the network of contacts through which the disease can spread - with this network determined by socio-demographics including age-structure and household composition .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we focus on the age-structured transmission within the population ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "using data from China to inform agedependent susceptibility and synthetic age-mixing matrices to inform the contact network .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This allows us to determine the country-specific basic reproductive ratio as a multiplicative scaling of the value from China .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We predict that R0 will be highest across Eastern Europe and Japan ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and lowest across Africa , Central America and South-Western Asia .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This pattern is largely driven by the ratio of children to older adults in each country and the observed propensity of clinical cases in the elderly .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "10",
+    "token_num": "177"
+  }
+}

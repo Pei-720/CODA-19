@@ -1,0 +1,58 @@
+{
+  "paper_id": "e1cd8b2702e80ea2b0b58736f9de4d2c31769afe",
+  "metadata": {
+    "title": "",
+    "coda_data_split": "train",
+    "coda_paper_id": 9468,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Diabetes Endothelial cells Angiotensinogen Angiotensin I Angiotensin II Renin ACE ACE2 ACE2 Ang-1-9",
+      "sentences": [
+        [
+          {
+            "segment_text": "Diabetes Endothelial cells Angiotensinogen Angiotensin I Angiotensin II Renin ACE ACE2 ACE2 Ang-1-9",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Ang-1-7 AT 1 G B M Figure 1 | The podocyte renin -angiotensin system and the mechanisms by which increased ACE2 expression can decrease local angiotensin II production. ACE2, angiotensin-converting enzyme 2; Ang-1-7, angiotensin-(1-7); Ang-1-9, angiotensin-(1-9); AT 1 , angiotensin II type 1 receptor; GBM, glomerular basement membrane.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Ang-1-7 AT 1 G B M Figure 1 | The podocyte renin - angiotensin system and the mechanisms by which increased ACE2 expression can decrease local angiotensin II production .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "ACE2 , angiotensin-converting enzyme 2 ; Ang-1-7 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "angiotensin - ( 1-7 ) ; Ang-1-9 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "angiotensin - ( 1-9 ) ; AT 1 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "angiotensin II type 1 receptor ; GBM , glomerular basement membrane .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "3",
+    "segment_num": "6",
+    "token_num": "80"
+  }
+}

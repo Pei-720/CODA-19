@@ -1,0 +1,289 @@
+{
+  "paper_id": "225102534f103300288d0a6e271b5d12c29720ff",
+  "metadata": {
+    "title": "QSAR Models for Predicting Cathepsin B Inhibition by Small Molecules: Continuous and Binary QSAR Models to Classify Cathepsin B Inhibition Activities of Small Molecules",
+    "coda_data_split": "test",
+    "coda_paper_id": 836,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Cathepsin B is a potential target for the development of drugs to treat several important human diseases. A number of inhibitors targeting this protein have been developed in the past several years. Recently, a group of small molecules were identified to have inhibitory activity against cathepsin B through high throughput screening (HTS) tests. In this study, traditional continuous and binary QSAR models were built to classify the biological activities of previously identified compounds and to distinguish active compounds from inactive compounds for drug development based on the calculated molecular and physicochemical properties. Strong correlations were obtained for the continuous QSAR models with regression correlation coefficients (r 2 ) and cross-validated correlation coefficients (q 2 ) of 0.77 and 0.61 for all compounds, and 0.82 and 0.68 for the compound set excluding 3 outliers, respectively. The models were further validated through the leave-one-out (LOO) method and the training-test set method. The binary models demonstrated a strong level of predictability in distinguishing the active compounds from inactive compounds with accuracies of 0.89 and 0.94 for active and inactive compounds, respectively, in non-cross-validated models. Similar results were obtained for the cross-validated models. Collectively, these results demonstrate the models\u0027 ability to discriminate between active and inactive compounds, suggesting that the models may be used to pre-screen compounds to facilitate compound optimization and to design novel inhibitors for drug development.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Cathepsin B is a potential target for the development of drugs to treat several important human diseases .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A number of inhibitors targeting this protein have been developed in the past several years .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recently , a group of small molecules were identified to have inhibitory activity against cathepsin B through high throughput screening ( HTS ) tests .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , traditional continuous and binary QSAR models were built to classify the biological activities of previously identified compounds and to distinguish active compounds from inactive compounds for drug development based on the calculated molecular and physicochemical properties .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Strong correlations were obtained for the continuous QSAR models with regression correlation coefficients ( r 2 ) and cross-validated correlation coefficients ( q 2 ) of 0.77 and 0.61 for all compounds ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and 0.82 and 0.68 for the compound set excluding 3 outliers , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The models were further validated through the leave-one-out ( LOO ) method and the training-test set method .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The binary models demonstrated a strong level of predictability in distinguishing the active compounds from inactive compounds with accuracies of 0.89 and 0.94 for active and inactive compounds ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "respectively , in non-cross-validated models .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Similar results were obtained for the cross-validated models .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Collectively , these results demonstrate the models \u0027 ability to discriminate between active and inactive compounds ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "suggesting that the models may be used to pre-screen compounds to facilitate compound optimization and to design novel inhibitors for drug development .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The 3D chemical structures of all small molecule compounds were first converted from the 2D molecular structures obtained from the PubChem database (PubChem bioAssay accession: 820 and 523), 32 which were subsequently subjected to energy minimization calculation until the root mean square deviation (RMSD) of potential energy was smaller than 0.001, using the Optimized Potentials for Liquid Simulations (OPLS) force field 33-36 by the Molecular Operating Environment (MOE) program (Version 2007.09, developed by Chemical Computing Group, Montreal, Canada). In Bioassay AID (Pubchem bioassay accession) 820, 75 compounds were tested by a dose response confirmatory screening experiment, whereas 37 compounds were confirmed to have inhibitory activity, 35 compounds were confirmed to have no inhibitory activity, and the bioactivity outcome for the remaining 3 compounds were reported as \"inconclusive\". By further examining these active compounds using different experimental protocol, assay depositors suggested that some of them were likely artifacts. Further investigation using several independent bioassay tests (different biological experiments), which may be affected by similar causes of artifact, suggested that five compounds bear greater chance as being false positives, and they were removed from the current analysis. So, 32 active (37-5) and 35 inactive compounds from bioassay 820 were included in the work. Bioassay 523 employed a similar experimental protocol to the Bioassay 820, where 27 compounds were tested, 10 compounds were confirmed having inhibitory activity, 16 compounds were confirmed having no inhibitory activity, and one (1) compound was reported as \"inconclusive\". Four out of the 10 active compounds are unique structures and were added to the active compound list. Total 36 active compounds (32 from bioassay 820 and 4 from bioassay 523) and 51 inactive compounds (35 from bioassay 820 and 16 from bioassay 523) were used in the modeling. The average IC 50 reported in the bioassay depositions was used for the bioactivity of the active compounds. The PubChem compound accession (CID), molecular formula, and biological activity (IC 50 ) for the 86 compounds are listed in Table 1 (one active compound was not included in QSAR modeling as no 3D conformer was obtained in docking simulation). Molecular structure and other information can be obtained from PubChem website based on CIDs (http://pubchem.ncbi.nlm.nih.gov) and the bioassay protocol information can be obtained from PubChem website by BioAssay ID (AID) 820 and 523 (http://pubchem.ncbi.nlm.nih.gov/assay/assay.cgi?aid\u003d820 and http://pubchem.ncbi.nlm.nih.gov/assay/assay.cgi?aid\u003d523). 32 The compounds tested in the confirmatory assays were cherry picked based on the screening results for over 60,000 compounds in a single dose HTS assay for potential cathepsin B inhibition activity (PubChem AID:453) by measuring the release of the fluorophore aminomethyl coumarin (AMC) from the hydrolysis of an AMC-labeled dipeptide, The large number of inactive compounds from the primary HTS assay were not included in the model since the statistical methods typically do not perform well on unbalanced data sets. Therefore claiming all compounds as inactive will yield an accuracy of 99.94% as pointed out by Weis and coworkers. 37",
+      "sentences": [
+        [
+          {
+            "segment_text": "The 3D chemical structures of all small molecule compounds were first converted from the 2D molecular structures obtained from the PubChem database ( PubChem bioAssay accession : 820 and 523 ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "32 which were subsequently subjected to energy minimization calculation until the root mean square deviation ( RMSD ) of potential energy was smaller than 0.001 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "using the Optimized Potentials for Liquid Simulations ( OPLS ) force field 33-36 by the Molecular Operating Environment ( MOE ) program ( Version 2007.09 , developed by Chemical Computing Group , Montreal , Canada ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In Bioassay AID ( Pubchem bioassay accession ) 820 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "75 compounds were tested by a dose response confirmatory screening experiment ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "whereas 37 compounds were confirmed to have inhibitory activity ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "35 compounds were confirmed to have no inhibitory activity ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the bioactivity outcome for the remaining 3 compounds were reported as `` inconclusive \u0027\u0027 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "By further examining these active compounds using different experimental protocol ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "assay depositors suggested that some of them were likely artifacts .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Further investigation using several independent bioassay tests ( different biological experiments ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which may be affected by similar causes of artifact ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "suggested that five compounds bear greater chance as being false positives ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and they were removed from the current analysis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "So , 32 active ( 37-5 ) and 35 inactive compounds from bioassay 820 were included in the work .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Bioassay 523 employed a similar experimental protocol to the Bioassay 820 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "where 27 compounds were tested ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "10 compounds were confirmed having inhibitory activity ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "16 compounds were confirmed having no inhibitory activity ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and one ( 1 ) compound was reported as `` inconclusive \u0027\u0027 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Four out of the 10 active compounds are unique structures and were added to the active compound list .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Total 36 active compounds ( 32 from bioassay 820 and 4 from bioassay 523 ) and 51 inactive compounds ( 35 from bioassay 820 and 16 from bioassay 523 ) were used in the modeling .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The average IC 50 reported in the bioassay depositions was used for the bioactivity of the active compounds .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The PubChem compound accession ( CID ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "molecular formula , and biological activity ( IC 50 ) for the 86 compounds are listed in Table 1 ( one active compound was not included in QSAR modeling as no 3D conformer was obtained in docking simulation ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Molecular structure and other information can be obtained from PubChem website based on CIDs ( http://pubchem.ncbi.nlm.nih.gov ) and the bioassay protocol information can be obtained from PubChem website by BioAssay ID ( AID ) 820 and 523 ( http://pubchem.ncbi.nlm.nih.gov/assay/assay.cgi?aid\u003d820 and http://pubchem.ncbi.nlm.nih.gov/assay/assay.cgi?aid\u003d523 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "32 The compounds tested in the confirmatory assays were cherry picked based on the screening results for over 60,000 compounds in a single dose HTS assay for potential cathepsin B inhibition activity ( PubChem AID : 453 ) by measuring the release of the fluorophore aminomethyl coumarin ( AMC ) from the hydrolysis of an AMC-labeled dipeptide ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "The large number of inactive compounds from the primary HTS assay were not included in the model since the statistical methods typically do not perform well on unbalanced data sets .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore claiming all compounds as inactive will yield an accuracy of 99.94 % as pointed out by Weis and coworkers .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "37",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The three dimensional structure coordinate of cathepsin protein with bound Dipeptidyl Nitrile (DPN) was obtained from Protein Databank (PDB code: 1GMY 21 ). The PDB file for the crystallographic structure complex of cathepsin B contains three chains A, B and C. The first two chains form a dimer and were used in docking simulation (Figure 1 ). Hydrogen atoms and partial charges were added to the protein and then short steps of minimization were performed to relax the newly-added hydrogen atoms and the potential steric contacts in the original PDB coordinates. The minimizations were performed using an OPLS force field following the standard protocol of the Glide program (version 8 in FirstDiscovery suite). 38, 39 The minimized protein structure was then used to generate a docking grid which was used to docked all active compounds into the DPN binding site. A docking box (exterior box) of 16 × 18 × 22 Å for the Zhou et al. ",
+      "sentences": [
+        [
+          {
+            "segment_text": "The three dimensional structure coordinate of cathepsin protein with bound Dipeptidyl Nitrile ( DPN ) was obtained from Protein Databank ( PDB code : 1GMY 21 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The PDB file for the crystallographic structure complex of cathepsin B contains three chains A , B and C .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The first two chains form a dimer and were used in docking simulation ( Figure 1 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hydrogen atoms and partial charges were added to the protein and then short steps of minimization were performed to relax the newly-added hydrogen atoms and the potential steric contacts in the original PDB coordinates .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The minimizations were performed using an OPLS force field following the standard protocol of the Glide program ( version 8 in FirstDiscovery suite ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "38 , 39 The minimized protein structure was then used to generate a docking grid which was used to docked all active compounds into the DPN binding site .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A docking box ( exterior box ) of 16 × 18 × 22 Å for the Zhou et al. .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "30",
+    "segment_num": "49",
+    "token_num": "987"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "paper_id": "592f534dcc98076fbf2db5eeb2644fd26d2b4cbd",
+  "metadata": {
+    "title": "Molecular Dynamics Simulations of Viral RNA Polymerases Link Conserved and Correlated Motions of Functional Elements to Fidelity",
+    "coda_data_split": "train",
+    "coda_paper_id": 8776,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The viral RNA-dependent RNA polymerase (RdRp) is essential for multiplication of all RNA viruses. The sequence diversity of an RNA virus population contributes to its ability to infect the host. This diversity emanates from errors made by the RdRp during RNA synthesis. The physical basis for RdRp fidelity is unclear but is linked to conformational changes occurring during the nucleotide-addition cycle. To understand RdRp dynamics that might influence RdRp function, we have analyzed all-atom molecular dynamics simulations on the nanosecond timescale of four RdRps from the picornavirus family that exhibit 30-74% sequence identity. Principal component analysis showed that the major motions observed during the simulations derived from conserved structural motifs and regions of known function. The dynamics of residues participating in the same biochemical property, for example, RNA binding, nucleotide binding or catalysis, were correlated even when spatially distant on the RdRp structure. The conserved and correlated dynamics of functional structural elements suggest coevolution of dynamics with structure and function of the RdRp. Crystal structures of all picornavirus RdRps exhibit a template-nascent RNA duplex channel too small to fully accommodate duplex RNA. Simulations revealed opening and closing motions of the RNA and nucleoside triphosphate channels, which might be relevant to nucleoside triphosphate entry, inorganic pyrophosphate exit and translocation. A role for nanosecond timescale dynamics in RdRp fidelity is supported by the altered dynamics of the high-fidelity G64S derivative of PV RdRp relative to wild-type enzyme.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The viral RNA-dependent RNA polymerase ( RdRp ) is essential for multiplication of all RNA viruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The sequence diversity of an RNA virus population contributes to its ability to infect the host .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This diversity emanates from errors made by the RdRp during RNA synthesis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The physical basis for RdRp fidelity is unclear but is linked to conformational changes occurring during the nucleotide-addition cycle .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To understand RdRp dynamics that might influence RdRp function ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "we have analyzed all-atom molecular dynamics simulations on the nanosecond timescale of four RdRps from the picornavirus family that exhibit 30-74 % sequence identity .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Principal component analysis showed that the major motions observed during the simulations derived from conserved structural motifs and regions of known function .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The dynamics of residues participating in the same biochemical property ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "for example , RNA binding ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "nucleotide binding or catalysis , were correlated even when spatially distant on the RdRp structure .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The conserved and correlated dynamics of functional structural elements suggest coevolution of dynamics with structure and function of the RdRp .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Crystal structures of all picornavirus RdRps exhibit a template-nascent RNA duplex channel too small to fully accommodate duplex RNA .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Simulations revealed opening and closing motions of the RNA and nucleoside triphosphate channels ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which might be relevant to nucleoside triphosphate entry ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "inorganic pyrophosphate exit and translocation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A role for nanosecond timescale dynamics in RdRp fidelity is supported by the altered dynamics of the high-fidelity G64S derivative of PV RdRp relative to wild-type enzyme .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "11",
+    "segment_num": "16",
+    "token_num": "256"
+  }
+}

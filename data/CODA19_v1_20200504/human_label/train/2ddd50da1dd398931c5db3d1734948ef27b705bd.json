@@ -1,0 +1,117 @@
+{
+  "paper_id": "2ddd50da1dd398931c5db3d1734948ef27b705bd",
+  "metadata": {
+    "title": "BMC Medical Informatics and Decision Making Automated real time constant-specificity surveillance for disease outbreaks",
+    "coda_data_split": "train",
+    "coda_paper_id": 4273,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: For real time surveillance, detection of abnormal disease patterns is based on a difference between patterns observed, and those predicted by models of historical data. The usefulness of outbreak detection strategies depends on their specificity; the false alarm rate affects the interpretation of alarms.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : For real time surveillance ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "detection of abnormal disease patterns is based on a difference between patterns observed ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and those predicted by models of historical data .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The usefulness of outbreak detection strategies depends on their specificity ; the false alarm rate affects the interpretation of alarms .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We evaluate the specificity of five traditional models: autoregressive, Serfling, trimmed seasonal, wavelet-based, and generalized linear. We apply each to 12 years of emergency department visits for respiratory infection syndromes at a pediatric hospital, finding that the specificity of the five models was almost always a non-constant function of the day of the week, month, and year of the study (p \u003c 0.05). We develop an outbreak detection method, called the expectation-variance model, based on generalized additive modeling to achieve a constant specificity by accounting for not only the expected number of visits, but also the variance of the number of visits. The expectation-variance model achieves constant specificity on all three time scales, as well as earlier detection and improved sensitivity compared to traditional methods in most circumstances.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We evaluate the specificity of five traditional models : autoregressive ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "Serfling , trimmed seasonal , wavelet-based , and generalized linear .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We apply each to 12 years of emergency department visits for respiratory infection syndromes at a pediatric hospital ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "finding that the specificity of the five models was almost always a non-constant function of the day of the week ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "month , and year of the study ( p \u003c 0.05 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We develop an outbreak detection method ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "called the expectation-variance model , based on generalized additive modeling to achieve a constant specificity by accounting for not only the expected number of visits ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "but also the variance of the number of visits .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The expectation-variance model achieves constant specificity on all three time scales ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as well as earlier detection and improved sensitivity compared to traditional methods in most circumstances .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Modeling the variance of visit patterns enables real-time detection with known, constant specificity at all times. With constant specificity, public health practitioners can better interpret the alarms and better evaluate the cost-effectiveness of surveillance systems.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Modeling the variance of visit patterns enables real-time detection with known ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "constant specificity at all times .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "With constant specificity , public health practitioners can better interpret the alarms and better evaluate the cost-effectiveness of surveillance systems .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "8",
+    "segment_num": "17",
+    "token_num": "236"
+  }
+}

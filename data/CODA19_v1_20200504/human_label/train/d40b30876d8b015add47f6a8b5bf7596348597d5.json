@@ -1,0 +1,102 @@
+{
+  "paper_id": "d40b30876d8b015add47f6a8b5bf7596348597d5",
+  "metadata": {
+    "title": "Modeling transient particle transport by fast fluid dynamics with the Markov chain method",
+    "coda_data_split": "train",
+    "coda_paper_id": 10887,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Fast simulation tools for the prediction of transient particle transport are critical in designing the air distribution indoors to reduce the exposure to indoor particles and associated health risks. This investigation proposed a combined fast fluid dynamics (FFD) and Markov chain model for fast predicting transient particle transport indoors. The solver for FFD-Markov-chain model was programmed in OpenFOAM, an open-source CFD toolbox. This study used two cases from the literature to validate the developed model and found well agreement between the transient particle concentrations predicted by the FFD-Markov-chain model and the experimental data. This investigation further compared the FFD-Markov-chain model with the CFD-Eulerian model and CFD-Lagrangian model in terms of accuracy and efficiency. The accuracy of the FFD-Markov-chain model was similar to that of the other two models. For the two studied cases, the FFD-Markovchain model was 4.7 and 6.8 times faster, respectively, than the CFD-Eulerian model, and it was 137.4 and 53.3 times faster than the CFD-Lagrangian model in predicting the steady-state airflow and transient particle transport. Therefore, the FFD-Markov-chain model is able to greatly reduce the computing cost for predicting transient particle transport in indoor environments.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Fast simulation tools for the prediction of transient particle transport are critical in designing the air distribution indoors to reduce the exposure to indoor particles and associated health risks .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This investigation proposed a combined fast fluid dynamics ( FFD ) and Markov chain model for fast predicting transient particle transport indoors .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The solver for FFD-Markov-chain model was programmed in OpenFOAM , an open-source CFD toolbox .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study used two cases from the literature to validate the developed model and found well agreement between the transient particle concentrations predicted by the FFD-Markov-chain model and the experimental data .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This investigation further compared the FFD-Markov-chain model with the CFD-Eulerian model and CFD-Lagrangian model in terms of accuracy and efficiency .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The accuracy of the FFD-Markov-chain model was similar to that of the other two models .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "For the two studied cases ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the FFD-Markovchain model was 4.7 and 6.8 times faster ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "respectively , than the CFD-Eulerian model ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and it was 137.4 and 53.3 times faster than the CFD-Lagrangian model in predicting the steady-state airflow and transient particle transport .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , the FFD-Markov-chain model is able to greatly reduce the computing cost for predicting transient particle transport in indoor environments .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "computational fluid dynamics, indoor environment, Eulerian model, Lagrangian model, particle dispersion, aerosol dynamics Article History",
+      "sentences": [
+        [
+          {
+            "segment_text": "computational fluid dynamics , indoor environment ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Eulerian model , Lagrangian model ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "particle dispersion , aerosol dynamics Article History",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "9",
+    "segment_num": "14",
+    "token_num": "224"
+  }
+}

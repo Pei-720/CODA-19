@@ -1,0 +1,188 @@
+{
+  "paper_id": "348db141e734a5d46bf9cea528a53c996f92e92f",
+  "metadata": {
+    "title": "Deep Learning-Based Recognizing COVID-19 Deep Learning-Based Recognizing COVID-19 and other Common Infectious Diseases of the Lung by Chest CT 2 Scan Images",
+    "coda_data_split": "train",
+    "coda_paper_id": 7123,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Purpose: COVID-19 has become global threaten. CT acts as an important method of 60 diagnosis. However, human-based interpretation of CT imaging is time consuming. 61",
+      "sentences": [
+        [
+          {
+            "segment_text": "Purpose : COVID-19 has become global threaten .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "CT acts as an important method of 60 diagnosis .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , human-based interpretation of CT imaging is time consuming .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "61",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "More than that, substantial inter-observer-variation cannot be ignored. We aim at 62 developing a diagnostic tool for artificial intelligence (AI)-based classification of CT 63 images for recognizing COVID-19 and other common infectious diseases of the lung. 64 Experimental Design: In this study, images were retrospectively collected and 65 prospectively analyzed using machine learning. CT scan images of the lung that show 66 or do not show COVID-19 were used to train and validate a classification framework 67 based on convolutional neural network. Five conditions including COVID-19 68 pneumonia, non-COVID-19 viral pneumonia, bacterial pneumonia, pulmonary 69 tuberculosis, and normal lung were evaluated. Training and validation set of images 70 were collected from Wuhan Jin Yin-Tan Hospital whereas test set of images were 71 collected from Zhongshan Hospital Xiamen University and the fifth Hospital of 72",
+      "sentences": [
+        [
+          {
+            "segment_text": "More than that , substantial inter-observer-variation can not be ignored .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We aim at 62 developing a diagnostic tool for artificial intelligence ( AI ) - based classification of CT 63 images for recognizing COVID-19 and other common infectious diseases of the lung .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "64 Experimental Design : In this study ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "images were retrospectively collected and 65 prospectively analyzed using machine learning .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "CT scan images of the lung that show 66 or do not show COVID-19 were used to train and validate a classification framework 67 based on convolutional neural network .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Five conditions including COVID-19 68 pneumonia ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "non-COVID-19 viral pneumonia , bacterial pneumonia ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "pulmonary 69 tuberculosis , and normal lung were evaluated .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Training and validation set of images 70 were collected from Wuhan Jin Yin-Tan Hospital whereas test set of images were 71 collected from Zhongshan Hospital Xiamen University and the fifth Hospital of 72",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Wuhan. 73 Results: Accuracy, sensitivity, and specificity of the AI framework were reported. For 74 test dataset, accuracies for recognizing normal lung, COVID-19 pneumonia, 75 non-COVID-19 viral pneumonia, bacterial pneumonia, and pulmonary tuberculosis 76 were 99.4%, 98.8%, 98.5%, 98.3%, and 98.6%, respectively. For the test dataset, 77 accuracy, sensitivity, specificity, PPV, and NPV of recognizing COVID-19 were 78 98.8%, 98.2%, 98.9%, 94.5%, and 99.7%, respectively. 79 All rights reserved. No reuse allowed without permission.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Wuhan .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "73 Results : Accuracy , sensitivity ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and specificity of the AI framework were reported .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "For 74 test dataset , accuracies for recognizing normal lung ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "COVID-19 pneumonia , 75 non-COVID-19 viral pneumonia ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "bacterial pneumonia , and pulmonary tuberculosis 76 were 99.4 % ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "98.8 % , 98.5 % ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "98.3 % , and 98.6 % , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "For the test dataset , 77 accuracy ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "sensitivity , specificity , PPV ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and NPV of recognizing COVID-19 were 78 98.8 % ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "98.2 % , 98.9 % ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "94.5 % , and 99.7 % , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "79 All rights reserved .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "No reuse allowed without permission .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "the author/funder , who has granted medRxiv a license to display the preprint in perpetuity .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "17",
+    "segment_num": "29",
+    "token_num": "310"
+  }
+}

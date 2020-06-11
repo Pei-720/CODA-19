@@ -1,0 +1,180 @@
+{
+  "paper_id": "a646c8ced739fd583e7e031a90e4936f2a764035",
+  "metadata": {
+    "title": "Dynamics of a Cytokine Storm",
+    "coda_data_split": "train",
+    "coda_paper_id": 5870,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Six volunteers experienced severe inflammatory response during the Phase I clinical trial of a monoclonal antibody that was designed to stimulate a regulatory T cell response. Soon after the trial began, each volunteer experienced a \u0027\u0027cytokine storm\u0027\u0027, a dramatic increase in cytokine concentrations. The monoclonal antibody, TGN1412, raised serum concentrations of both pro-and anti-inflammatory cytokines to very hich values during the first day, while lymphocyte and monocyte concentrations plummeted. Because the subjects were healthy and had no prior indications of immune deficiency, this event provided an unusual opportunity to study the dynamic interactions of cytokines and other measured parameters. Here, the response histories of nine cytokines have been modeled by a set of linear ordinary differential equations. A general search procedure identifies parameters of the model, whose response fits the data well during the five-day measurement period. The eighteenth-order model reveals plausible cause-and-effect relationships among the cytokines, showing how each cytokine induces or inhibits other cytokines. It suggests that perturbations in IL2, IL8, and IL10 have the most significant inductive effect, while IFN-c and IL12 have the greatest inhibiting effect on other cytokine concentrations. Although TNF-a is a major pro-inflammatory factor, IFN-c and three other cytokines have faster initial and median response to TGN1412 infusion. Principal-component analysis of the data reveals three clusters of similar cytokine responses: [TNF-a, IL1, IL10], IL2, IL4, IL8, and IL12], and [IL6]. IL1, IL6, IL10, and TNF-a have the highest degree of variability in response to uncertain initial conditions, exogenous effects, and parameter estimates. This study illuminates details of a cytokine storm event, and it demonstrates the value of linear modeling for interpreting complex, coupled biological system dynamics from empirical data.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Six volunteers experienced severe inflammatory response during the Phase I clinical trial of a monoclonal antibody that was designed to stimulate a regulatory T cell response .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Soon after the trial began ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "each volunteer experienced a `` cytokine storm \u0027\u0027 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a dramatic increase in cytokine concentrations .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The monoclonal antibody , TGN1412 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "raised serum concentrations of both pro-and anti-inflammatory cytokines to very hich values during the first day ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "while lymphocyte and monocyte concentrations plummeted .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Because the subjects were healthy and had no prior indications of immune deficiency ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "this event provided an unusual opportunity to study the dynamic interactions of cytokines and other measured parameters .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , the response histories of nine cytokines have been modeled by a set of linear ordinary differential equations .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A general search procedure identifies parameters of the model ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "whose response fits the data well during the five-day measurement period .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The eighteenth-order model reveals plausible cause-and-effect relationships among the cytokines ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "showing how each cytokine induces or inhibits other cytokines .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It suggests that perturbations in IL2 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "IL8 , and IL10 have the most significant inductive effect ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while IFN-c and IL12 have the greatest inhibiting effect on other cytokine concentrations .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although TNF-a is a major pro-inflammatory factor ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "IFN-c and three other cytokines have faster initial and median response to TGN1412 infusion .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Principal-component analysis of the data reveals three clusters of similar cytokine responses : ( TNF-a , IL1 , IL10 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "IL2 , IL4 , IL8 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and IL12 ) , and ( IL6 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "IL1 , IL6 , IL10 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and TNF-a have the highest degree of variability in response to uncertain initial conditions ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "exogenous effects , and parameter estimates .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study illuminates details of a cytokine storm event ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and it demonstrates the value of linear modeling for interpreting complex ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "coupled biological system dynamics from empirical data .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Citation: Yiu HH, Graham AL, Stengel RF (2012) Dynamics of a Cytokine Storm. PLoS ONE 7(10): e45027.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Citation : Yiu HH , Graham AL ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "Stengel RF ( 2012 ) Dynamics of a Cytokine Storm .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "PLoS ONE 7 ( 10 ) : e45027 .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "14",
+    "segment_num": "31",
+    "token_num": "351"
+  }
+}

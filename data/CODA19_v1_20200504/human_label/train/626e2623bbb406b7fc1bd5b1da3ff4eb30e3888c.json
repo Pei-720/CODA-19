@@ -1,0 +1,158 @@
+{
+  "paper_id": "626e2623bbb406b7fc1bd5b1da3ff4eb30e3888c",
+  "metadata": {
+    "title": "Mechanical unfolding kinetics of the SRV-1 gag-pro mRNA pseudoknot: possible implications for −1 ribosomal frameshifting stimulation OPEN",
+    "coda_data_split": "train",
+    "coda_paper_id": 8337,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Minus-one ribosomal frameshifting is a translational recoding mechanism widely utilized by many RNA viruses to generate accurate ratios of structural and catalytic proteins. An RNA pseudoknot structure located in the overlapping region of the gag and pro genes of Simian Retrovirus type 1 (SRV-1) stimulates frameshifting. However, the experimental characterization of SRV-1 pseudoknot (un)folding dynamics and the effect of the base triple formation is lacking. Here, we report the results of our singlemolecule nanomanipulation using optical tweezers and theoretical simulation by steered molecular dynamics. Our results directly reveal that the energetic coupling between loop 2 and stem 1 via minorgroove base triple formation enhances the mechanical stability. The terminal base pair in stem 1 (directly in contact with a translating ribosome at the slippery site) also affects the mechanical stability of the pseudoknot. The −1 frameshifting efficiency is positively correlated with the cooperative onestep unfolding force and inversely correlated with the one-step mechanical unfolding rate at zero force. A significantly improved correlation was observed between −1 frameshifting efficiency and unfolding rate at forces of 15-35 pN, consistent with the fact that the ribosome is a force-generating molecular motor with helicase activity. No correlation was observed between thermal stability and −1 frameshifting efficiency.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Minus-one ribosomal frameshifting is a translational recoding mechanism widely utilized by many RNA viruses to generate accurate ratios of structural and catalytic proteins .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "An RNA pseudoknot structure located in the overlapping region of the gag and pro genes of Simian Retrovirus type 1 ( SRV-1 ) stimulates frameshifting .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the experimental characterization of SRV-1 pseudoknot ( un ) folding dynamics and the effect of the base triple formation is lacking .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we report the results of our singlemolecule nanomanipulation using optical tweezers and theoretical simulation by steered molecular dynamics .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our results directly reveal that the energetic coupling between loop 2 and stem 1 via minorgroove base triple formation enhances the mechanical stability .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The terminal base pair in stem 1 ( directly in contact with a translating ribosome at the slippery site ) also affects the mechanical stability of the pseudoknot .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The − 1 frameshifting efficiency is positively correlated with the cooperative onestep unfolding force and inversely correlated with the one-step mechanical unfolding rate at zero force .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A significantly improved correlation was observed between − 1 frameshifting efficiency and unfolding rate at forces of 15-35 pN ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "consistent with the fact that the ribosome is a force-generating molecular motor with helicase activity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "No correlation was observed between thermal stability and − 1 frameshifting efficiency .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Recent advances in the discovery and understanding of complex RNA structures, dynamics, and functions have dramatically changed our view of RNA\u0027s role in biology. RNA has been found to play increasingly important and diverse regulatory and catalytic roles in many biological processes ranging from replication, transcription, splicing, to translation 1 . In this study, we focus on understanding how the translation reading frame can be regulated by cis-acting mRNA structures. The translation process is highly regulated and remarkably accurate. Normally, the reading frame needs to be maintained at a constant frame (0 frame) because shifting of the reading frame results in the generation of completely different protein products. Minus-one ribosomal frameshifting is a translational regulatory mechanism programmed by cis-acting mRNA structures and widely utilized by viruses and cells 2-13 . During − 1 ribosomal frameshifting, a ribosome is positioned at a certain sequence of mRNA called slippery sequence, and has a certain probability to move one nucleotide backward, before continuing translation in the new reading frame (− 1 frame) 11, 14, 15 . Minus-one frameshifting is important for (i) maintaining a fixed ratio of certain gene products through the translation of a fusion protein by bypassing the original 0 frame stop codon, and (ii) regulating the half-lives of mRNAs by employing mRNA degradation pathways through premature translation termination at a − 1 frame stop codon 11, 13 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Recent advances in the discovery and understanding of complex RNA structures ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "dynamics , and functions have dramatically changed our view of RNA \u0027s role in biology .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "RNA has been found to play increasingly important and diverse regulatory and catalytic roles in many biological processes ranging from replication ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "transcription , splicing , to translation 1 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we focus on understanding how the translation reading frame can be regulated by cis-acting mRNA structures .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The translation process is highly regulated and remarkably accurate .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Normally , the reading frame needs to be maintained at a constant frame ( 0 frame ) because shifting of the reading frame results in the generation of completely different protein products .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Minus-one ribosomal frameshifting is a translational regulatory mechanism programmed by cis-acting mRNA structures and widely utilized by viruses and cells 2-13 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "During − 1 ribosomal frameshifting ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a ribosome is positioned at a certain sequence of mRNA called slippery sequence ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and has a certain probability to move one nucleotide backward ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "before continuing translation in the new reading frame ( − 1 frame ) 11 , 14 , 15 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Minus-one frameshifting is important for ( i ) maintaining a fixed ratio of certain gene products through the translation of a fusion protein by bypassing the original 0 frame stop codon ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and ( ii ) regulating the half-lives of mRNAs by employing mRNA degradation pathways through premature translation termination at a − 1 frame stop codon 11 , 13 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "17",
+    "segment_num": "24",
+    "token_num": "479"
+  }
+}

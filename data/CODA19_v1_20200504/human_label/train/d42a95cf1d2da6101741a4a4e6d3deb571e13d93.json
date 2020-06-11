@@ -1,0 +1,77 @@
+{
+  "paper_id": "d42a95cf1d2da6101741a4a4e6d3deb571e13d93",
+  "metadata": {
+    "title": "Clustering model for transmission of the SARS virus: application to epidemic control and risk assessment",
+    "coda_data_split": "train",
+    "coda_paper_id": 7856,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "We propose a new four state model for disease transmission and illustrate the model with data from the 2003 SARS epidemic in Hong Kong. The critical feature of this model is that the community is modelled as a small-world network of interconnected nodes. Each node is linked to a fixed number of immediate neighbors and a random number of geographically remote nodes. Transmission can only propagate between linked nodes. This model exhibits two features typical of SARS transmission: geographically localized outbreaks and \u0027\u0027superspreaders\u0027\u0027. Neither of these features are evident in standard susceptible-infected-removed models of disease transmission. Our analysis indicates that \u0027\u0027super-spreaders\u0027\u0027 may occur even if the infectiousness of all infected individuals is constant. Moreover, we find that nosocomial transmission in Hong Kong directly contributed to the severity of the outbreak and that by limiting individual exposure time to 3-5 days the extent of the SARS epidemic would have been minimal. r",
+      "sentences": [
+        [
+          {
+            "segment_text": "We propose a new four state model for disease transmission and illustrate the model with data from the 2003 SARS epidemic in Hong Kong .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The critical feature of this model is that the community is modelled as a small-world network of interconnected nodes .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Each node is linked to a fixed number of immediate neighbors and a random number of geographically remote nodes .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Transmission can only propagate between linked nodes .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This model exhibits two features typical of SARS transmission : geographically localized outbreaks and `` superspreaders \u0027\u0027 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Neither of these features are evident in standard susceptible-infected-removed models of disease transmission .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our analysis indicates that `` super-spreaders \u0027\u0027 may occur even if the infectiousness of all infected individuals is constant .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , we find that nosocomial transmission in Hong Kong directly contributed to the severity of the outbreak and that by limiting individual exposure time to 3-5 days the extent of the SARS epidemic would have been minimal .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "r",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "9",
+    "segment_num": "9",
+    "token_num": "165"
+  }
+}

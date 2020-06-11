@@ -1,0 +1,51 @@
+{
+  "paper_id": "f505f9a8f52c1c564f78dae05d6ddd129349331a",
+  "metadata": {
+    "title": "ORF8a of SARS-CoV forms an ion channel: Experiments and molecular dynamics simulations",
+    "coda_data_split": "train",
+    "coda_paper_id": 4444,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "ORF8a protein is 39 residues long and contains a single transmembrane domain. The protein is synthesized using solid phase peptide synthesis and reconstituted into artificial lipid bilayers that forms cation-selective ion channels with a main conductance level of 8.9 ± 0.8 pS at elevated temperature (38.5°C). Computational modeling studies including multi nanosecond molecular dynamics simulations in a hydrated POPC lipid bilayer are done with a 22 amino acid transmembrane helix to predict a putative homooligomeric helical bundle model. A structural model of a pentameric bundle is proposed with cysteines, serines and threonines facing the pore.",
+      "sentences": [
+        [
+          {
+            "segment_text": "ORF8a protein is 39 residues long and contains a single transmembrane domain .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The protein is synthesized using solid phase peptide synthesis and reconstituted into artificial lipid bilayers that forms cation-selective ion channels with a main conductance level of 8.9 ± 0.8 pS at elevated temperature ( 38.5 °C ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Computational modeling studies including multi nanosecond molecular dynamics simulations in a hydrated POPC lipid bilayer are done with a 22 amino acid transmembrane helix to predict a putative homooligomeric helical bundle model .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A structural model of a pentameric bundle is proposed with cysteines ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "serines and threonines facing the pore .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "4",
+    "segment_num": "5",
+    "token_num": "103"
+  }
+}

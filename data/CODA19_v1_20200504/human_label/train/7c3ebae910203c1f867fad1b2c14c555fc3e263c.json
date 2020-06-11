@@ -1,0 +1,134 @@
+{
+  "paper_id": "7c3ebae910203c1f867fad1b2c14c555fc3e263c",
+  "metadata": {
+    "title": "Crude incidence in two-phase designs in the presence of competing risks",
+    "coda_data_split": "train",
+    "coda_paper_id": 3214,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: In many studies, some information might not be available for the whole cohort, some covariates, or even the outcome, might be ascertained in selected subsamples. These studies are part of a broad category termed two-phase studies. Common examples include the nested case-control and the case-cohort designs. For two-phase studies, appropriate weighted survival estimates have been derived; however, no estimator of cumulative incidence accounting for competing events has been proposed. This is relevant in the presence of multiple types of events, where estimation of event type specific quantities are needed for evaluating outcome. Methods: We develop a non parametric estimator of the cumulative incidence function of events accounting for possible competing events. It handles a general sampling design by weights derived from the sampling probabilities. The variance is derived from the influence function of the subdistribution hazard.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : In many studies ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "some information might not be available for the whole cohort ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "some covariates , or even the outcome ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "might be ascertained in selected subsamples .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These studies are part of a broad category termed two-phase studies .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Common examples include the nested case-control and the case-cohort designs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "For two-phase studies , appropriate weighted survival estimates have been derived ; however ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "no estimator of cumulative incidence accounting for competing events has been proposed .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This is relevant in the presence of multiple types of events ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "where estimation of event type specific quantities are needed for evaluating outcome .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Methods : We develop a non parametric estimator of the cumulative incidence function of events accounting for possible competing events .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "It handles a general sampling design by weights derived from the sampling probabilities .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The variance is derived from the influence function of the subdistribution hazard .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results: The proposed method shows good performance in simulations. It is applied to estimate the crude incidence of relapse in childhood acute lymphoblastic leukemia in groups defined by a genotype not available for everyone in a cohort of nearly 2000 patients, where death due to toxicity acted as a competing event. In a second example the aim was to estimate engagement in care of a cohort of HIV patients in resource limited setting, where for some patients the outcome itself was missing due to lost to follow-up. A sampling based approach was used to identify outcome in a subsample of lost patients and to obtain a valid estimate of connection to care. Conclusions: A valid estimator for cumulative incidence of events accounting for competing risks under a general sampling design from an infinite target population is derived.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results : The proposed method shows good performance in simulations .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is applied to estimate the crude incidence of relapse in childhood acute lymphoblastic leukemia in groups defined by a genotype not available for everyone in a cohort of nearly 2000 patients ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "where death due to toxicity acted as a competing event .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In a second example the aim was to estimate engagement in care of a cohort of HIV patients in resource limited setting ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "where for some patients the outcome itself was missing due to lost to follow-up .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A sampling based approach was used to identify outcome in a subsample of lost patients and to obtain a valid estimate of connection to care .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Conclusions : A valid estimator for cumulative incidence of events accounting for competing risks under a general sampling design from an infinite target population is derived .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "13",
+    "segment_num": "20",
+    "token_num": "301"
+  }
+}

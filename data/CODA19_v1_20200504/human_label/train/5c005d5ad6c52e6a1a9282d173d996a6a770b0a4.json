@@ -1,0 +1,105 @@
+{
+  "paper_id": "5c005d5ad6c52e6a1a9282d173d996a6a770b0a4",
+  "metadata": {
+    "title": "Formation of protein complexes in crowded environments -From in vitro to in vivo",
+    "coda_data_split": "train",
+    "coda_paper_id": 4458,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Traditionally, biochemical studies are performed in dilute homogenous solutions, which are very different from the dense mixture of molecules found in cells. Thus, the physiological relevance of these studies is in question. This recognition motivated scientists to formulate the effect of crowded solutions in general, and excluded volume in particular, on biochemical processes. Using polymers or proteins as crowders, it was shown that while crowding tends to significantly enhance the formation of complexes containing many subunits, dimerizations are only mildly affected. Computer simulations, together with experimental evidence, indicate soft interactions and diffusion as critical factors that operate in a concerted manner with excluded volume to modulate protein binding. Yet, these approaches do not truly mimic the cellular environment. In vivo studies may overcome this shortfall. The few studies conducted thus far suggest that in cells, binding and folding occur at rates close to those determined in dilute solutions. Obtaining quantitative biochemical information on reactions inside living cells is currently a main challenge of the field, as the complexity of the intracellular milieu was what motivated crowding research to begin with.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Traditionally , biochemical studies are performed in dilute homogenous solutions ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which are very different from the dense mixture of molecules found in cells .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , the physiological relevance of these studies is in question .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This recognition motivated scientists to formulate the effect of crowded solutions in general ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and excluded volume in particular , on biochemical processes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using polymers or proteins as crowders ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "it was shown that while crowding tends to significantly enhance the formation of complexes containing many subunits ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "dimerizations are only mildly affected .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Computer simulations , together with experimental evidence ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "indicate soft interactions and diffusion as critical factors that operate in a concerted manner with excluded volume to modulate protein binding .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Yet , these approaches do not truly mimic the cellular environment .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In vivo studies may overcome this shortfall .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The few studies conducted thus far suggest that in cells ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "binding and folding occur at rates close to those determined in dilute solutions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Obtaining quantitative biochemical information on reactions inside living cells is currently a main challenge of the field ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as the complexity of the intracellular milieu was what motivated crowding research to begin with .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "9",
+    "segment_num": "16",
+    "token_num": "201"
+  }
+}

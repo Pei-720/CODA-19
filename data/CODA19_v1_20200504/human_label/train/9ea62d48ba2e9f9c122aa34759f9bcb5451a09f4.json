@@ -1,0 +1,138 @@
+{
+  "paper_id": "9ea62d48ba2e9f9c122aa34759f9bcb5451a09f4",
+  "metadata": {
+    "title": "Evaluation and comparison of statistical methods for early temporal detection of outbreaks: A simulation-based study",
+    "coda_data_split": "train",
+    "coda_paper_id": 4792,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "The objective of this paper is to evaluate a panel of statistical algorithms for temporal outbreak detection. Based on a large dataset of simulated weekly surveillance time series, we performed a systematic assessment of 21 statistical algorithms, 19 implemented in the R package surveillance and two other methods. We estimated false positive rate (FPR), probability of detection (POD), probability of detection during the first week, sensitivity, specificity, negative and positive predictive values and F 1 -measure for each detection method. Then, to identify the factors associated with these performance measures, we ran multivariate Poisson regression models adjusted for the characteristics of the simulated time series (trend, seasonality, dispersion, outbreak sizes, etc.). The FPR ranged from 0.7% to 59.9% and the POD from 43.3% to 88.7%. Some methods had a very high specificity, up to 99.4%, but a low sensitivity. Methods with a high sensitivity (up to 79.5%) had a low specificity. All methods had a high negative predictive value, over 94%, while positive predictive values ranged from 6.5% to 68.4%. Multivariate Poisson regression models showed that performance measures were strongly influenced by the characteristics of time series. Past or current outbreak size and duration strongly influenced detection performances.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The objective of this paper is to evaluate a panel of statistical algorithms for temporal outbreak detection .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Based on a large dataset of simulated weekly surveillance time series ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we performed a systematic assessment of 21 statistical algorithms ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "19 implemented in the R package surveillance and two other methods .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We estimated false positive rate ( FPR ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "probability of detection ( POD ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "probability of detection during the first week ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "sensitivity , specificity , negative and positive predictive values and F 1 - measure for each detection method .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Then , to identify the factors associated with these performance measures ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we ran multivariate Poisson regression models adjusted for the characteristics of the simulated time series ( trend , seasonality , dispersion , outbreak sizes , etc. ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The FPR ranged from 0.7 % to 59.9 % and the POD from 43.3 % to 88.7 % .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Some methods had a very high specificity ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "up to 99.4 % , but a low sensitivity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Methods with a high sensitivity ( up to 79.5 % ) had a low specificity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "All methods had a high negative predictive value ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "over 94 % , while positive predictive values ranged from 6.5 % to 68.4 % .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Multivariate Poisson regression models showed that performance measures were strongly influenced by the characteristics of time series .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Past or current outbreak size and duration strongly influenced detection performances .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Citation: Bédubourg G, Le Strat Y (2017) Evaluation and comparison of statistical methods for early temporal detection of outbreaks: A simulation-based study. PLoS ONE 12(7): e0181227. https://doi.org/10.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Citation : Bédubourg G , Le Strat Y ( 2017 ) Evaluation and comparison of statistical methods for early temporal detection of outbreaks : A simulation-based study .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "PLoS ONE 12 ( 7 ) : e0181227 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "https://doi.org/10 .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "13",
+    "segment_num": "21",
+    "token_num": "282"
+  }
+}

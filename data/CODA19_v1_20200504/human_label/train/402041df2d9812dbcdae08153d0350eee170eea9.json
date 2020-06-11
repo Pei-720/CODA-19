@@ -1,0 +1,265 @@
+{
+  "paper_id": "402041df2d9812dbcdae08153d0350eee170eea9",
+  "metadata": {
+    "title": "Chemogenetic evidence that rapid neuronal de novo protein synthesis is 3 required for consolidation of long-term memory Introduction 82",
+    "coda_data_split": "train",
+    "coda_paper_id": 4524,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Translational control of memory processes is a tightly regulated process where the coordinated interaction and 47 modulation of translation factors provides a permissive environment for protein synthesis during memory 48 formation. Existing methods used to block translation lack the spatiotemporal precision to investigate cell-49 specific contributions to consolidation of long-term memories. Here, we have developed a novel chemogenetic 50 mouse resource for cell type-specific and drug-inducible protein synthesis inhibition (ciPSI) that utilizes an 51 engineered version of the catalytic kinase domain of dsRNA-activated protein (PKR). ciPSI allows rapid and 52 reversible phosphorylation of eIF2α causing a block on general translation by 50% in vivo. Using this resource, 53 we discovered that temporally structured pan-neuronal protein synthesis is required for consolidation of long-54 term auditory threat memory. Targeted protein synthesis inhibition in CamK2α expressing glutamatergic 55 neurons in lateral amygdala (LA) impaired long-term memory, which was recovered with artificial chemogenetic 56 reactivation at the cost of stimulus generalization. Conversely, genetically reducing phosphorylation of eIF2α in 57 CamK2α positive neurons in LA enhanced memory strength, but was accompanied with reduced memory 58 fidelity and behavior inflexibility. Our findings provide evidence for a finely tuned translation program during 59 consolidation of long-term threat memories.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Translational control of memory processes is a tightly regulated process where the coordinated interaction and 47 modulation of translation factors provides a permissive environment for protein synthesis during memory 48 formation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Existing methods used to block translation lack the spatiotemporal precision to investigate cell-49 specific contributions to consolidation of long-term memories .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we have developed a novel chemogenetic 50 mouse resource for cell type-specific and drug-inducible protein synthesis inhibition ( ciPSI ) that utilizes an 51 engineered version of the catalytic kinase domain of dsRNA-activated protein ( PKR ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "ciPSI allows rapid and 52 reversible phosphorylation of eIF2α causing a block on general translation by 50 % in vivo .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using this resource , 53 we discovered that temporally structured pan-neuronal protein synthesis is required for consolidation of long-54 term auditory threat memory .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Targeted protein synthesis inhibition in CamK2α expressing glutamatergic 55 neurons in lateral amygdala ( LA ) impaired long-term memory ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which was recovered with artificial chemogenetic 56 reactivation at the cost of stimulus generalization .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Conversely , genetically reducing phosphorylation of eIF2α in 57 CamK2α positive neurons in LA enhanced memory strength ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but was accompanied with reduced memory 58 fidelity and behavior inflexibility .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our findings provide evidence for a finely tuned translation program during 59 consolidation of long-term threat memories .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Memory is the capacity of an organism to encode, store, and retrieve information, and often guides the 83 action of the organism towards a better survival outcome. Aversive life-threatening events often lead to long-84 term associative memories between the environment in which those events were experienced in and the 85 threat, such that a salient cue from the event when presented again can elicit species-specific defensive 86 behaviors. Pavlovian cued threat conditioning is a useful experimental paradigm for understanding the 87 biological substrates of an associative threat memory, in which a neutral cue (e.g. light or tone) co-presented 88 with an innately aversive stimulus (e.g. air puff or footshock) elicits a defensive response such as freezing by a 89 repeat presentation by itself 1 . Cued threat conditioning is particularly amenable to studying memory 90 consolidation process because one-trial training is sufficient to form a persistent long-term memory and a 91 unimodal cue can be used for memory retrieval. Long-term aversive memories are thought to recruit a 92 distributed network of neurons across the brain, including subnuclei within amygdala, hippocampus, thalamus, 93 as well as the neocortex, depending on the brain state, cue complexity, and the sensory pathways engaged 2, 3 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Memory is the capacity of an organism to encode ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "store , and retrieve information ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and often guides the 83 action of the organism towards a better survival outcome .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Aversive life-threatening events often lead to long-84 term associative memories between the environment in which those events were experienced in and the 85 threat ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such that a salient cue from the event when presented again can elicit species-specific defensive 86 behaviors .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Pavlovian cued threat conditioning is a useful experimental paradigm for understanding the 87 biological substrates of an associative threat memory ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "in which a neutral cue ( e.g. light or tone ) co-presented 88 with an innately aversive stimulus ( e.g. air puff or footshock ) elicits a defensive response such as freezing by a 89 repeat presentation by itself 1 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Cued threat conditioning is particularly amenable to studying memory 90 consolidation process because one-trial training is sufficient to form a persistent long-term memory and a 91 unimodal cue can be used for memory retrieval .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Long-term aversive memories are thought to recruit a 92 distributed network of neurons across the brain ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including subnuclei within amygdala , hippocampus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "thalamus , 93 as well as the neocortex ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "depending on the brain state ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "cue complexity , and the sensory pathways engaged 2 , 3 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Lateral amygdala is the central sensory gateway for the amygdaloid complex and is crucially engaged both in 95 the processing and storage of the associative aversive memories 4, 5, 6 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Lateral amygdala is the central sensory gateway for the amygdaloid complex and is crucially engaged both in 95 the processing and storage of the associative aversive memories 4 , 5 , 6 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Decades of studies have reported that consolidation of long-term memories requires one or more 98 waves of new protein synthesis after the memory is first encoded 7, 8, 9, 10 ; however, the use of pharmacological 99 protein synthesis inhibitors (PSI) in these studies is burdened with limitations. For instance, an extensively 100 used PSI, anisomycin, causes unwanted side effects that include superinduction of immediate early genes, 101 activation of stress signaling pathways, and catecholamine release 11, 12 . Pharmacological PSIs also do not 102 discriminate between molecularly heterogeneous cell populations and thus, do not allow manipulation of cell 103 autonomous protein synthesis. Genetic approaches to alter the translation machinery at the initiation step 104 provide less ambiguous evidence for the role of protein synthesis in memory processes 13, 14 . However 105 constitutive deletion of genes encoding translational control molecules lacks the temporal control needed to 106 convincingly interrogate the role of protein synthesis in memory consolidation. Past attempts at making 107 chemogenetic tools for blocking protein synthesis have had limited success 15 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Decades of studies have reported that consolidation of long-term memories requires one or more 98 waves of new protein synthesis after the memory is first encoded 7 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "8 , 9 , 10 ; however ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the use of pharmacological 99 protein synthesis inhibitors ( PSI ) in these studies is burdened with limitations .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "For instance , an extensively 100 used PSI ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "anisomycin , causes unwanted side effects that include superinduction of immediate early genes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "101 activation of stress signaling pathways ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and catecholamine release 11 , 12 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Pharmacological PSIs also do not 102 discriminate between molecularly heterogeneous cell populations and thus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "do not allow manipulation of cell 103 autonomous protein synthesis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Genetic approaches to alter the translation machinery at the initiation step 104 provide less ambiguous evidence for the role of protein synthesis in memory processes 13 , 14 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However 105 constitutive deletion of genes encoding translational control molecules lacks the temporal control needed to 106 convincingly interrogate the role of protein synthesis in memory consolidation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Past attempts at making 107 chemogenetic tools for blocking protein synthesis have had limited success 15 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "A key regulatory step in mammalian protein synthesis is the assembly of active eIF2.GTP and initiator-110 methionyl tRNA into a ternary complex that binds the 40S ribosome. Various types of cellular stress engage 111 pathway-specific protein kinases that phosphorylate the α subunit of eIF2 on serine 51, which converts eIF2 112 from a substrate to a competitive inhibitor of eIF2B, a guanine exchange factor that promotes the conversion of 113 inactive eIF2.GDP to active eIF2.GTP. Thus, phosphorylation of eIF2α stops the recycling of the ternary 114 complex and inhibits general translation 16 . However, phosphorylation of eIF2α also leads to a paradoxical 115 increase in gene-specific translation of transcripts harboring upstream open reading frames (uORFs) by 116 overcoming the inhibitory effects of uORFs on reinitiation at the putative start codon as ternary complexes 117 decline 17 . Dephosphorylation of eIF2α occurs during L-LTP as well as during consolidation and reconsolidation",
+      "sentences": [
+        [
+          {
+            "segment_text": "A key regulatory step in mammalian protein synthesis is the assembly of active eIF2.GTP and initiator-110 methionyl tRNA into a ternary complex that binds the 40S ribosome .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Various types of cellular stress engage 111 pathway-specific protein kinases that phosphorylate the α subunit of eIF2 on serine 51 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which converts eIF2 112 from a substrate to a competitive inhibitor of eIF2B ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a guanine exchange factor that promotes the conversion of 113 inactive eIF2.GDP to active eIF2.GTP .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , phosphorylation of eIF2α stops the recycling of the ternary 114 complex and inhibits general translation 16 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , phosphorylation of eIF2α also leads to a paradoxical 115 increase in gene-specific translation of transcripts harboring upstream open reading frames ( uORFs ) by 116 overcoming the inhibitory effects of uORFs on reinitiation at the putative start codon as ternary complexes 117 decline 17 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Dephosphorylation of eIF2α occurs during L-LTP as well as during consolidation and reconsolidation",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "25",
+    "segment_num": "43",
+    "token_num": "826"
+  }
+}

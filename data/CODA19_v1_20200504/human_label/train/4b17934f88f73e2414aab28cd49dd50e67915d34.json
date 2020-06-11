@@ -1,0 +1,85 @@
+{
+  "paper_id": "4b17934f88f73e2414aab28cd49dd50e67915d34",
+  "metadata": {
+    "title": "Evaluation of airborne disease infection risks in an airliner cabin using the Lagrangian-based Wells-Riley approach",
+    "coda_data_split": "train",
+    "coda_paper_id": 4750,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "An urgent demand of assessing passengers\u0027 exposure risks in airliner cabins was raised as commercial airliners are one of the major media that carrying and transmitting infectious disease worldwide. In this study, simulations were conducted using a Boeing 737 cabin model to study the transport characteristics of airborne droplets and the associated infection risks of passengers. The numerical results of the airflow field were firstly compared against the experimental data in the literature to validate the reliability of the simulations. Airborne droplets were assumed to be released by passengers through coughing and their transport characteristics were modelled using the Lagrangian approach. Numerical results found that the particle travel distance was very sensitive to the release locations, and the impact was more significant along the longitudinal and horizontal directions. Particles released by passengers sitting next to the windows could travel much further than the others. A quantifiable approach was then applied to assess the individual infection risks of passengers. The key particle transport information such as the particle residence time yielded from the Lagrangian tracking process was extracted and integrated into the Wells-Riley equation to estimate the risks of infection. Compared to the Eulerian-based approach, the Lagrangian-based approach presented in this study is more robust as it addresses both the particle concentration and particle residence time in the breathing zone of every individual passenger.",
+      "sentences": [
+        [
+          {
+            "segment_text": "An urgent demand of assessing passengers \u0027 exposure risks in airliner cabins was raised as commercial airliners are one of the major media that carrying and transmitting infectious disease worldwide .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , simulations were conducted using a Boeing 737 cabin model to study the transport characteristics of airborne droplets and the associated infection risks of passengers .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The numerical results of the airflow field were firstly compared against the experimental data in the literature to validate the reliability of the simulations .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Airborne droplets were assumed to be released by passengers through coughing and their transport characteristics were modelled using the Lagrangian approach .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Numerical results found that the particle travel distance was very sensitive to the release locations ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the impact was more significant along the longitudinal and horizontal directions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Particles released by passengers sitting next to the windows could travel much further than the others .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A quantifiable approach was then applied to assess the individual infection risks of passengers .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The key particle transport information such as the particle residence time yielded from the Lagrangian tracking process was extracted and integrated into the Wells-Riley equation to estimate the risks of infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Compared to the Eulerian-based approach ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the Lagrangian-based approach presented in this study is more robust as it addresses both the particle concentration and particle residence time in the breathing zone of every individual passenger .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "9",
+    "segment_num": "11",
+    "token_num": "236"
+  }
+}

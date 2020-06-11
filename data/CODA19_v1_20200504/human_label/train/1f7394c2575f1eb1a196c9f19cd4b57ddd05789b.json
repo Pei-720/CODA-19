@@ -1,0 +1,216 @@
+{
+  "paper_id": "1f7394c2575f1eb1a196c9f19cd4b57ddd05789b",
+  "metadata": {
+    "title": "Quantifying Pathogen Surveillance Using Temporal Genomic Data",
+    "coda_data_split": "train",
+    "coda_paper_id": 7459,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "With the advent of deep sequencing, genomic surveillance has become a popular method for detection of infectious disease, supplementing information gathered by classic clinical or serological techniques to identify host-determinant markers and trace the origin of transmission. However, two main factors complicate genomic surveillance. First, pathogens exhibiting high genetic diversity demand higher levels of scrutiny to obtain an accurate representation of the entire population. Second, current systems of detection are nonuniform, with significant gaps in certain geographic locations and animal reservoirs. Despite past unforeseen pandemics like the 2009 swine-origin H1N1 influenza virus, there is no standardized way of evaluating surveillance. A more complete surveillance system should capture a greater proportion of pathogen diversity. Here we present a novel quantitative method of assessing the completeness of genomic surveillance that incorporates the time of sequence collection, as well as the pathogen\u0027s evolutionary rate. We propose the q2 coefficient, which measures the proportion of sequenced isolates whose closest neighbor in the past is within a genetic distance equivalent to 2 years of evolution, roughly the median time of changing strain selection for influenza A vaccines. Easily interpretable and significantly faster than other methods, the q2 coefficient requires no full phylogenetic characterization or use of arbitrary clade definitions. Application of the q2 coefficient to influenza A virus confirmed poor sampling of swine and avian populations and identified regions with deficient surveillance. We demonstrate that the q2 coefficient can not only be applied to other pathogens, including dengue and West Nile viruses, but also used to describe surveillance dynamics, particularly the effects of different public health policies. IMPORTANCE Surveillance programs have become key assets in determining the emergence or prevalence of pathogens circulating in human and animal populations. Genomic surveillance, in particular, provides comprehensive information on the history of isolates and potential molecular markers for infectivity and pathogenicity. Current techniques for evaluating genomic surveillance are inaccurate, ignoring the pathogen\u0027s evolutionary rate and biodiversity, as well as the timing of sequence collection. Using sequence data, we propose the q2 coefficient as a quantitative measure of surveillance completeness that combines elements of time and evolution without defining arbitrary criteria for clades or species. Through several case studies of influenza A, dengue, and West Nile viruses, we employed the q2 coefficient to identify sampling deficiencies in different host species and locations, as well as examine the effects of different public health policies through historical records of the q2 coefficient. These results can guide public health agencies to focus resource allocation and virus collection to bolster specific problems in surveillance.",
+      "sentences": [
+        [
+          {
+            "segment_text": "With the advent of deep sequencing ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "genomic surveillance has become a popular method for detection of infectious disease ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "supplementing information gathered by classic clinical or serological techniques to identify host-determinant markers and trace the origin of transmission .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , two main factors complicate genomic surveillance .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "First , pathogens exhibiting high genetic diversity demand higher levels of scrutiny to obtain an accurate representation of the entire population .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Second , current systems of detection are nonuniform ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with significant gaps in certain geographic locations and animal reservoirs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Despite past unforeseen pandemics like the 2009 swine-origin H1N1 influenza virus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "there is no standardized way of evaluating surveillance .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A more complete surveillance system should capture a greater proportion of pathogen diversity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we present a novel quantitative method of assessing the completeness of genomic surveillance that incorporates the time of sequence collection ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "as well as the pathogen \u0027s evolutionary rate .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We propose the q2 coefficient ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which measures the proportion of sequenced isolates whose closest neighbor in the past is within a genetic distance equivalent to 2 years of evolution ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "roughly the median time of changing strain selection for influenza A vaccines .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Easily interpretable and significantly faster than other methods ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the q2 coefficient requires no full phylogenetic characterization or use of arbitrary clade definitions .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Application of the q2 coefficient to influenza A virus confirmed poor sampling of swine and avian populations and identified regions with deficient surveillance .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We demonstrate that the q2 coefficient can not only be applied to other pathogens ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including dengue and West Nile viruses ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but also used to describe surveillance dynamics ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "particularly the effects of different public health policies .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "IMPORTANCE Surveillance programs have become key assets in determining the emergence or prevalence of pathogens circulating in human and animal populations .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Genomic surveillance , in particular ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "provides comprehensive information on the history of isolates and potential molecular markers for infectivity and pathogenicity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Current techniques for evaluating genomic surveillance are inaccurate ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "ignoring the pathogen \u0027s evolutionary rate and biodiversity ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as well as the timing of sequence collection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using sequence data , we propose the q2 coefficient as a quantitative measure of surveillance completeness that combines elements of time and evolution without defining arbitrary criteria for clades or species .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Through several case studies of influenza A ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "dengue , and West Nile viruses ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we employed the q2 coefficient to identify sampling deficiencies in different host species and locations ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as well as examine the effects of different public health policies through historical records of the q2 coefficient .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These results can guide public health agencies to focus resource allocation and virus collection to bolster specific problems in surveillance .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Citation Chan JM, Rabadan R. 2013. Quantifying pathogen surveillance using temporal genomic data. mBio 4(1):e00524-12.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Citation Chan JM , Rabadan R. 2013 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Quantifying pathogen surveillance using temporal genomic data .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "mBio 4 ( 1 ) : e00524-12 .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "20",
+    "segment_num": "37",
+    "token_num": "487"
+  }
+}

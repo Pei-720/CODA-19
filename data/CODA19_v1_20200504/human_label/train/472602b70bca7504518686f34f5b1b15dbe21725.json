@@ -1,0 +1,174 @@
+{
+  "paper_id": "472602b70bca7504518686f34f5b1b15dbe21725",
+  "metadata": {
+    "title": "Inference of transmission network structure from HIV phylogenetic trees Supplementary information Approximate Bayesian Computation for model choice",
+    "coda_data_split": "train",
+    "coda_paper_id": 5145,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Within the ABC-SMC approach [1], particles are first generated from the prior distribution. Particles are then resampled from the obtained sample, and slightly perturbed. From these resampled particles, a new sample is formed, from which again particles are resampled, etc.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Within the ABC-SMC approach ( 1 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "particles are first generated from the prior distribution .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Particles are then resampled from the obtained sample , and slightly perturbed .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "From these resampled particles , a new sample is formed ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "from which again particles are resampled , etc. .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The threshold value for the summary statistic -below which new particles are accepted -is lowered with every newly obtained sample. As a result, the acceptance rate decreases and the acceptance threshold approaches zero with an increase in the number of iterations (resamplings).",
+      "sentences": [
+        [
+          {
+            "segment_text": "The threshold value for the summary statistic - below which new particles are accepted - is lowered with every newly obtained sample .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "As a result , the acceptance rate decreases and the acceptance threshold approaches zero with an increase in the number of iterations ( resamplings ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Initial -values were estimated as follows. We generated 100 trees and we calculated the summary statistics (indices) and used the standard deviation of this distribution as the initial values. The -values were decreased in an exponential fashion as the sequential ABC scheme progresses.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Initial - values were estimated as follows .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We generated 100 trees and we calculated the summary statistics ( indices ) and used the standard deviation of this distribution as the initial values .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The - values were decreased in an exponential fashion as the sequential ABC scheme progresses .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "• Set the population indicator t \u003d 1",
+      "sentences": [
+        [
+          {
+            "segment_text": "• Set the population indicator t \u003d 1",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "• Set the particle indicator i \u003d 1",
+      "sentences": [
+        [
+          {
+            "segment_text": "• Set the particle indicator i \u003d 1",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "• If t \u003d 1, sample (m , θ ) from the prior π(m, θ) \u003d π(m)π(θ|m)",
+      "sentences": [
+        [
+          {
+            "segment_text": "• If t \u003d 1 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "sample ( m , θ ) from the prior π ( m , θ ) \u003d π ( m ) π ( θ | m )",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "• If t \u003e 1 sample m with probability π t−1 (m ) and perturb m ∼ Km t (m|m ) Sample θ from the previous population {θ(m ) t−1 } with weights w t−1 . Perturb the particle, θ ∼ KP t,m (θ|θ ) where KP t,m is the particle perturbation kernel. If π(m , θ ) \u003d 0, repeat this step. Simulate a candidate dataset x ∼ f (x|m , θ ) If ρ(x , y) \u003e repeat this step.",
+      "sentences": [
+        [
+          {
+            "segment_text": "• If t \u003e 1 sample m with probability π t − 1 ( m ) and perturb m ∼ Km t ( m | m ) Sample θ from the previous population ( θ ( m ) t − 1 ) with weights w t − 1 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Perturb the particle , θ ∼ KP t ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "m ( θ | θ ) where KP t ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "m is the particle perturbation kernel .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "If π ( m , θ ) \u003d 0 , repeat this step .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Simulate a candidate dataset x ∼ f ( x | m , θ ) If ρ ( x , y ) \u003e repeat this step .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "1/3",
+      "sentences": [
+        [
+          {
+            "segment_text": "1/3",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "8",
+    "sentence_num": "16",
+    "segment_num": "21",
+    "token_num": "313"
+  }
+}

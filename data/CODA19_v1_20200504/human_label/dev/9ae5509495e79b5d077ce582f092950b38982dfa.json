@@ -1,0 +1,335 @@
+{
+  "paper_id": "9ae5509495e79b5d077ce582f092950b38982dfa",
+  "metadata": {
+    "title": "Mapping Oil Spills from Dual-Polarized SAR Images Using an Artificial Neural Network: Application to Oil Spill in the Kerch Strait in November 2007",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1391,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Synthetic aperture radar (SAR) has been widely used to detect oil-spill areas through the backscattering intensity difference between oil and background pixels. However, since the signal is similar to that produced by other phenomena, positive identification can be challenging. In this study we developed an algorithm to effectively analyze large-scale oil spill areas in SAR images by focusing on optimizing the input layer to artificial neural network (ANN) through removal the factor of lowering the accuracy. An ANN algorithm was used to generate probability maps of oil spills. Highly accurate pixel-based data processing was conducted through false or un-detection element reduction by normalizing the image or applying a non-local (NL) means filter and median filter to the input neurons for ANN. In addition, the standard deviation of co-polarized phase difference (CPD) was used to reduce false detection from the look-alike with weak damping effect. The algorithm was validated using TerraSAR-X images of an oil spill caused by stranded oil tanker Volganefti-139 in the Kerch Strait in 2007. According to the validation results of the receiver operating characteristic (ROC) curve, the oil spill was detected with an accuracy of about 95.19% and un-detection or false detection by look-alike and speckle noise was greatly reduced.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Synthetic aperture radar ( SAR ) has been widely used to detect oil-spill areas through the backscattering intensity difference between oil and background pixels .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , since the signal is similar to that produced by other phenomena ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "positive identification can be challenging .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study we developed an algorithm to effectively analyze large-scale oil spill areas in SAR images by focusing on optimizing the input layer to artificial neural network ( ANN ) through removal the factor of lowering the accuracy .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "An ANN algorithm was used to generate probability maps of oil spills .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Highly accurate pixel-based data processing was conducted through false or un-detection element reduction by normalizing the image or applying a non-local ( NL ) means filter and median filter to the input neurons for ANN .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , the standard deviation of co-polarized phase difference ( CPD ) was used to reduce false detection from the look-alike with weak damping effect .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The algorithm was validated using TerraSAR-X images of an oil spill caused by stranded oil tanker Volganefti-139 in the Kerch Strait in 2007 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "According to the validation results of the receiver operating characteristic ( ROC ) curve ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the oil spill was detected with an accuracy of about 95.19 % and un-detection or false detection by look-alike and speckle noise was greatly reduced .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "or adaptive thresholding techniques [10] [11] [12] [13] . Further improved oil spill detection algorithms, which are based on the intensity difference between the target and background pixels, have been proposed by exploiting (i) the texture information of sea surface cover types [14] [15] [16] [17] ; (ii) the statistical value of oil spills [17] [18] [19] or (iii) the edge detection between oil spill and the oil-free surface [20] [21] [22] [23] . However, the methods suffer from a false detection problem due to look-alikes that produce a similar signal with oil spill; for example, low-wind zones (wind speed \u003c 3 m/s), internal wave, ship wake and biogenic films [24, 25] . To overcome this issue, morphological features of oil spills (i.e., perimeter, area, and complexity) or wind data have been used for oil spill detection [13, 26] . However, it can be difficult (i) to define standard shapes for oil spills owing to the high fluidity or (ii) to distinguish the shape of oil spills from that of look-alikes (e.g., ship wake and biogenic films).",
+      "sentences": [
+        [
+          {
+            "segment_text": "or adaptive thresholding techniques ( 10 ) ( 11 ) ( 12 ) ( 13 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Further improved oil spill detection algorithms ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which are based on the intensity difference between the target and background pixels ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "have been proposed by exploiting ( i ) the texture information of sea surface cover types ( 14 ) ( 15 ) ( 16 ) ( 17 ) ; ( ii ) the statistical value of oil spills ( 17 ) ( 18 ) ( 19 ) or ( iii ) the edge detection between oil spill and the oil-free surface ( 20 ) ( 21 ) ( 22 ) ( 23 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the methods suffer from a false detection problem due to look-alikes that produce a similar signal with oil spill ; for example ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "low-wind zones ( wind speed \u003c 3 m/s ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "internal wave , ship wake and biogenic films ( 24 , 25 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To overcome this issue , morphological features of oil spills ( i.e. , perimeter , area , and complexity ) or wind data have been used for oil spill detection ( 13 , 26 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , it can be difficult ( i ) to define standard shapes for oil spills owing to the high fluidity or ( ii ) to distinguish the shape of oil spills from that of look-alikes ( e.g. , ship wake and biogenic films ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Several methods using machine learning have also been proposed [3, [26] [27] [28] [29] [30] [31] . In most studies, an artificial neural network (ANN) of object-based algorithm is usually applied to detect oil spills, the first reason is to use the morphological features as input neurons. The second is that the machine learning method is highly dependent on the input layer, especially, there is a problem that false detection and non-detection due to the noise of the input data is greatly increased when using the pixel-based ANN algorithm. Thus, most studies have adopted an object-based algorithm. However, the object-based algorithm has problems that the dark spot detection accuracy is considerably low, and it is furthermore difficult to automate the algorithm. Moreover, in the case of massive outflow accidents (e.g., the sinking of an oil tanker), it is almost impossible to apply the algorithm because oil forms one big object and normal morphological characteristics can be significantly altered.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Several methods using machine learning have also been proposed ( 3 , ( 26 ) ( 27 ) ( 28 ) ( 29 ) ( 30 ) ( 31 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In most studies , an artificial neural network ( ANN ) of object-based algorithm is usually applied to detect oil spills ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the first reason is to use the morphological features as input neurons .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The second is that the machine learning method is highly dependent on the input layer ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "especially , there is a problem that false detection and non-detection due to the noise of the input data is greatly increased when using the pixel-based ANN algorithm .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , most studies have adopted an object-based algorithm .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the object-based algorithm has problems that the dark spot detection accuracy is considerably low ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and it is furthermore difficult to automate the algorithm .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , in the case of massive outflow accidents ( e.g. , the sinking of an oil tanker ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "it is almost impossible to apply the algorithm because oil forms one big object and normal morphological characteristics can be significantly altered .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Recently, studies have been conducted to improve the accuracy of detection by using the polarization information. Four polarized images (HH, HV, VV, and VH) can be obtained from SAR sensors according to the transmitting and receiving modes of the radar signal. Among them, co-polarization (HH or VV) occurs when transmit and receive polarizations are identical. The phase difference between VV-and HH-polarized images can be represented by the co-polarized phase difference (CPD), and CPD has a higher correlation with oil spill than it does with look-alikes, which have a weak-damping effect [32] . In addition, the coherence between VV-and HH-polarized images are very low in oil spill areas, whereas it is very high in oil-free areas, which is close to 1. The coherence denotes the degree of correlation between two complex signals. For more optimal solution of oil spill detection using the co-polarized information, we need to focus on the creation process of optimal input neurons for the ANN algorithm from co-polarized SAR imagery, because the creation of optimal input neurons is very important in the ANN technique [33] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Recently , studies have been conducted to improve the accuracy of detection by using the polarization information .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Four polarized images ( HH , HV , VV , and VH ) can be obtained from SAR sensors according to the transmitting and receiving modes of the radar signal .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Among them , co-polarization ( HH or VV ) occurs when transmit and receive polarizations are identical .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The phase difference between VV-and HH-polarized images can be represented by the co-polarized phase difference ( CPD ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and CPD has a higher correlation with oil spill than it does with look-alikes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which have a weak-damping effect ( 32 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , the coherence between VV-and HH-polarized images are very low in oil spill areas ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "whereas it is very high in oil-free areas ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which is close to 1 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The coherence denotes the degree of correlation between two complex signals .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "For more optimal solution of oil spill detection using the co-polarized information ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we need to focus on the creation process of optimal input neurons for the ANN algorithm from co-polarized SAR imagery ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "because the creation of optimal input neurons is very important in the ANN technique ( 33 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In this study, we propose an efficient method to identify oil spill areas from co-polarized TerraSAR-X imagery using the artificial neural network (ANN) and validate it using the oil spill event in the Kerch Strait in November 2007. For this, we focus on (i) the oil spill enhancement from the intensity and phase information of the co-polarized TerraSAR-X imagery and (ii) the precise identification of oil-covered surface from the oil spill-enhanced images via the ANN approach. Four maps were extracted from the HH and VV single-look complex (SLC) images, which include the intensity, texture, coherence and phase texture maps, and then oil-covered areas in the maps were emphasized through multi-looking and the non-local (NL) means and median filtering. The ANN approach is used to generate an oil spill probability map from the four emphasized maps, and then oil-covered areas are identified from the probability map. The oil spill detection performance is validated by using the receiver operating characteristic (ROC) curve. In addition, we compare between the results from the presence and absence of the phase information, because most SAR images are acquired from the single-polarization. The proposed method has the advantage that it can estimate the oil spill probability at the pixel unit, and hence it would be effectively used for large-scale oil spill accidents. Moreover, the proposed method enables us (i) to reduce false detection associated with look-alike as well as (ii) to improve the detection performance of oil spill areas.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this study , we propose an efficient method to identify oil spill areas from co-polarized TerraSAR-X imagery using the artificial neural network ( ANN ) and validate it using the oil spill event in the Kerch Strait in November 2007 .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "For this , we focus on ( i ) the oil spill enhancement from the intensity and phase information of the co-polarized TerraSAR-X imagery and ( ii ) the precise identification of oil-covered surface from the oil spill-enhanced images via the ANN approach .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Four maps were extracted from the HH and VV single-look complex ( SLC ) images ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which include the intensity , texture ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "coherence and phase texture maps ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and then oil-covered areas in the maps were emphasized through multi-looking and the non-local ( NL ) means and median filtering .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The ANN approach is used to generate an oil spill probability map from the four emphasized maps ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and then oil-covered areas are identified from the probability map .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The oil spill detection performance is validated by using the receiver operating characteristic ( ROC ) curve .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , we compare between the results from the presence and absence of the phase information ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "because most SAR images are acquired from the single-polarization .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The proposed method has the advantage that it can estimate the oil spill probability at the pixel unit ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and hence it would be effectively used for large-scale oil spill accidents .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , the proposed method enables us ( i ) to reduce false detection associated with look-alike as well as ( ii ) to improve the detection performance of oil spill areas .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "34",
+    "segment_num": "56",
+    "token_num": "1143"
+  }
+}

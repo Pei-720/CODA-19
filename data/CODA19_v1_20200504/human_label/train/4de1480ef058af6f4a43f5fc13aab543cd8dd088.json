@@ -1,0 +1,146 @@
+{
+  "paper_id": "4de1480ef058af6f4a43f5fc13aab543cd8dd088",
+  "metadata": {
+    "title": "Authors",
+    "coda_data_split": "train",
+    "coda_paper_id": 5026,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Background The COVID-19 pandemic caused more than 800,000 infections and 40,000 deaths 31 by the end of March 2020. However, some of the basic epidemiological parameters, such as the 32 exponential epidemic growth rate, are not well estimated, partially because of confounding 33 factors in data collection during a rapidly growing outbreak, such as underreporting, delays in 34 case confirmation and changes in surveillance intensities. 35 36",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background The COVID-19 pandemic caused more than 800,000 infections and 40,000 deaths 31 by the end of March 2020 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , some of the basic epidemiological parameters ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as the 32 exponential epidemic growth rate ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "are not well estimated , partially because of confounding 33 factors in data collection during a rapidly growing outbreak ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as underreporting , delays in 34 case confirmation and changes in surveillance intensities .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "35 36",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Methods We developed an inference approach using a mathematical model to control for these 37 confounding factors. We fitted the model to both infection incidence and death count data 38 collected from eight European countries and the US. Public health implications of empirical 39 estimates were examined using simulations. 40 41",
+      "sentences": [
+        [
+          {
+            "segment_text": "Methods We developed an inference approach using a mathematical model to control for these 37 confounding factors .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We fitted the model to both infection incidence and death count data 38 collected from eight European countries and the US .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Public health implications of empirical 39 estimates were examined using simulations .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "40 41",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Findings In all countries, the early epidemic period was characterized by exponential growth 42",
+      "sentences": [
+        [
+          {
+            "segment_text": "Findings In all countries , the early epidemic period was characterized by exponential growth 42",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "with rates between 0·19-0·29/day (epidemic doubling times between 2·4-3·7 days). However, 43",
+      "sentences": [
+        [
+          {
+            "segment_text": "with rates between 0 · 19-0 · 29/day ( epidemic doubling times between 2 · 4-3 · 7 days ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , 43",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "the proportion of cases that had been detected was low (less than 20% of cases detected) except 44",
+      "sentences": [
+        [
+          {
+            "segment_text": "the proportion of cases that had been detected was low ( less than 20 % of cases detected ) except 44",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "for Germany (23·1%; CI: 5-85%). With such high epidemic growth rates, moderate intervention 45 efforts will have little impact on the public health outcome; high levels of efforts to achieve 46 greater than 77-86% reduction in transmission are needed, no matter the goal is to slowdown the 47 growth to protect a large fraction of population from infection within 18 months or to reverse the 48 growth all together.",
+      "sentences": [
+        [
+          {
+            "segment_text": "for Germany ( 23 · 1 % ; CI : 5-85 % ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "With such high epidemic growth rates ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "moderate intervention 45 efforts will have little impact on the public health outcome ; high levels of efforts to achieve 46 greater than 77-86 % reduction in transmission are needed ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "no matter the goal is to slowdown the 47 growth to protect a large fraction of population from infection within 18 months or to reverse the 48 growth all together .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "6",
+    "sentence_num": "13",
+    "segment_num": "18",
+    "token_num": "272"
+  }
+}

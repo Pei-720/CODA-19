@@ -1,0 +1,115 @@
+{
+  "paper_id": "453ebcf634bce39c00259fd65a0ffbf3c197c306",
+  "metadata": {
+    "title": "Classification of Coronavirus Images using Shrunken Features",
+    "coda_data_split": "train",
+    "coda_paper_id": 6205,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Necessary screenings must be performed to control the spread of the Corona Virus in daily life and to make a preliminary diagnosis of suspicious cases. The long duration of pathological laboratory tests and the wrong test results led the researchers to focus on different fields. Fast and accurate diagnoses are essential for effective interventions with COVID-19. The information obtained by using X-ray and Computed Tomography (CT) images is vital in making clinical diagnoses. Therefore it was aimed to develop a machine learning method for the detection of viral epidemics by analyzing X-ray images. In this study, images belonging to 6 situations, including coronavirus images, are classified. Since the number of images in the dataset is deficient and unbalanced, it is more convenient to analyze these images with hand-crafted feature extraction methods. For this purpose, firstly, all the images in the dataset are extracted with the help of four feature extraction algorithms. These extracted features are combined in raw form. The unbalanced data problem is eliminated by producing feature vectors with the SMOTE algorithm. Finally, the feature vector is reduced in size by using a stacked auto-encoder and principal component analysis to remove interconnected features in the feature vector. According to the obtained results, it is seen that the proposed method has leveraging performance, especially in order to make the diagnosis of COVID-19 in a short time and effectively.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Necessary screenings must be performed to control the spread of the Corona Virus in daily life and to make a preliminary diagnosis of suspicious cases .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The long duration of pathological laboratory tests and the wrong test results led the researchers to focus on different fields .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Fast and accurate diagnoses are essential for effective interventions with COVID-19 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The information obtained by using X-ray and Computed Tomography ( CT ) images is vital in making clinical diagnoses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore it was aimed to develop a machine learning method for the detection of viral epidemics by analyzing X-ray images .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , images belonging to 6 situations ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "including coronavirus images , are classified .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Since the number of images in the dataset is deficient and unbalanced ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "it is more convenient to analyze these images with hand-crafted feature extraction methods .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "For this purpose , firstly ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "all the images in the dataset are extracted with the help of four feature extraction algorithms .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "These extracted features are combined in raw form .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The unbalanced data problem is eliminated by producing feature vectors with the SMOTE algorithm .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , the feature vector is reduced in size by using a stacked auto-encoder and principal component analysis to remove interconnected features in the feature vector .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "According to the obtained results ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "it is seen that the proposed method has leveraging performance ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "especially in order to make the diagnosis of COVID-19 in a short time and effectively .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "12",
+    "segment_num": "17",
+    "token_num": "251"
+  }
+}

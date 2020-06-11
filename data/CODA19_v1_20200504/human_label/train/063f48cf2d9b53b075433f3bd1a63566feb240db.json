@@ -1,0 +1,296 @@
+{
+  "paper_id": "063f48cf2d9b53b075433f3bd1a63566feb240db",
+  "metadata": {
+    "title": "Spatial Analysis of the Distribution, Risk Factors and Access to Medical Resources of Patients with Hepatitis B in Shenzhen, China",
+    "coda_data_split": "train",
+    "coda_paper_id": 3785,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Considering the high morbidity of hepatitis B in China, many epidemiological studies based on classic medical statistical analysis have been started but lack spatial information. However, spatial information such as the spatial distribution, autocorrelation and risk factors of the disease is of great help in studying patients with hepatitis B. This study examined 2851 cases of hepatitis B that were hospitalized in Shenzhen in 2010 and studied the spatial distribution, risk factors and spatial access to health services using spatial interpolation, Pearson correlation analysis and the improved two-step floating catchment area method. The results showed that the spatial distribution of hepatitis B, along with risk factors as well as spatial access to the regional medical resources, was uneven and mainly concentrated in the south and southwest of Shenzhen in 2010. In addition, the distribution characteristics of hepatitis B revealed a positive correlation between four types of service establishments and risk factors for the disease. The Pearson correlation coefficients are 0.566, 0.515, 0.626, 0.538 corresponding to bath centres, beauty OPEN ACCESS salons, massage parlours and pedicure parlours (p \u003c 0.05). Additionally, the allocation of medical resources for hepatitis B is adequate, as most patients could be treated at nearby hospitals.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Considering the high morbidity of hepatitis B in China ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "many epidemiological studies based on classic medical statistical analysis have been started but lack spatial information .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , spatial information such as the spatial distribution ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "autocorrelation and risk factors of the disease is of great help in studying patients with hepatitis B .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study examined 2851 cases of hepatitis B that were hospitalized in Shenzhen in 2010 and studied the spatial distribution ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "risk factors and spatial access to health services using spatial interpolation ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "Pearson correlation analysis and the improved two-step floating catchment area method .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results showed that the spatial distribution of hepatitis B ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "along with risk factors as well as spatial access to the regional medical resources ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "was uneven and mainly concentrated in the south and southwest of Shenzhen in 2010 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , the distribution characteristics of hepatitis B revealed a positive correlation between four types of service establishments and risk factors for the disease .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The Pearson correlation coefficients are 0.566 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "0.515 , 0.626 , 0.538 corresponding to bath centres ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "beauty OPEN ACCESS salons , massage parlours and pedicure parlours ( p \u003c 0.05 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Additionally , the allocation of medical resources for hepatitis B is adequate ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as most patients could be treated at nearby hospitals .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The hepatitis B virus (HBV) is one of the most common viral infections in the world, leading to many deaths each year from associated liver diseases [1, 2] . HBV is also an important public health issue in China [2], as national surveys conducted since the 1970s have repeatedly showed high morbidity from HBV infections in the general population [3, 4] . To address this challenge, many scholars now to study the disease using different approaches (e.g., pathology, immunology and epidemiology), but none of these approaches incorporate spatial information [5] . With the development of Geographic Information System (GIS) technology and its applications in epidemiology [6], it has become clear the spatial information has great value in Epidemiology. Spatial epidemiology is a branch of epidemiology that uses spatial information to extend the analysis of disease distribution and risk factors. This information serves as a powerful analytical tool for epidemiological studies and will likely show greater significance in the future [7]. Our team have done some works on spatial epidemiology [8-10].",
+      "sentences": [
+        [
+          {
+            "segment_text": "The hepatitis B virus ( HBV ) is one of the most common viral infections in the world ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "leading to many deaths each year from associated liver diseases ( 1 , 2 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "HBV is also an important public health issue in China ( 2 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as national surveys conducted since the 1970s have repeatedly showed high morbidity from HBV infections in the general population ( 3 , 4 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To address this challenge , many scholars now to study the disease using different approaches ( e.g. , pathology , immunology and epidemiology ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but none of these approaches incorporate spatial information ( 5 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "With the development of Geographic Information System ( GIS ) technology and its applications in epidemiology ( 6 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "it has become clear the spatial information has great value in Epidemiology .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Spatial epidemiology is a branch of epidemiology that uses spatial information to extend the analysis of disease distribution and risk factors .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This information serves as a powerful analytical tool for epidemiological studies and will likely show greater significance in the future ( 7 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our team have done some works on spatial epidemiology ( 8-10 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Using geographic information systems and spatial analysis technology, spatial epidemiology attempts to describe and analyze human diseases, including the spatial distribution characteristics of health and hygiene events as well as the regularity of changes and developments. Spatial epidemiology also explores the decisive elements that can impact public health and provides strategies and measures for disease prevention and cure and health promotion and hygiene services [7, 11] . Research on this subject mainly utilizes four elements: disease mapping, risk assessment in relation to a point or line source, disease clustering analysis and geographical correlation studies [11] . Disease mapping is the most important tool in spatial epidemiology and is used to describe and evaluate disease area distribution [7]. The most typical example of disease mapping is the epidemiological investigation of a cholera outbreak caused by street water pollution in London in 1854 [12, 13] . The assessment of risk factors is similar to geographical correlation studies in that they both focus on studying cause of geographical phenomenon. Moreover, analysis of disease clustering uses statistical methods to identify disease spatial aggregation, thus providing corresponding methods to search for etiologic clues [7, 14, 15] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Using geographic information systems and spatial analysis technology ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "spatial epidemiology attempts to describe and analyze human diseases ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including the spatial distribution characteristics of health and hygiene events as well as the regularity of changes and developments .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Spatial epidemiology also explores the decisive elements that can impact public health and provides strategies and measures for disease prevention and cure and health promotion and hygiene services ( 7 , 11 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Research on this subject mainly utilizes four elements : disease mapping ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "risk assessment in relation to a point or line source ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "disease clustering analysis and geographical correlation studies ( 11 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Disease mapping is the most important tool in spatial epidemiology and is used to describe and evaluate disease area distribution ( 7 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The most typical example of disease mapping is the epidemiological investigation of a cholera outbreak caused by street water pollution in London in 1854 ( 12 , 13 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The assessment of risk factors is similar to geographical correlation studies in that they both focus on studying cause of geographical phenomenon .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , analysis of disease clustering uses statistical methods to identify disease spatial aggregation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "thus providing corresponding methods to search for etiologic clues ( 7 , 14 , 15 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Among the four study elements, disease mapping and disease clustering analysis are relatively mature, and typical methods and models, such as spatial interpolation and spatial scan statistics are commonly used [16] [17] [18] . However, exploring the risk factors for disease is complex and difficult, especially for diseases in which it is difficult to obtain patient exposure information, and data involving patients\u0027 privacy [7] ; this challenge represents a weak link in epidemiological studies. Compared with other infectious diseases such as schistosomiasis [19, 20] , most respiratory system diseases [21] and cardiovascular diseases [8], the spatial risk factors for hepatitis B are less obvious, and there have been few studies on this aspect. In view of this problem, this study sought to explore the spatial risk factors for hepatitis B and to discover the relationship between these risk factors and hepatitis B morbidity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Among the four study elements ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "disease mapping and disease clustering analysis are relatively mature ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and typical methods and models ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as spatial interpolation and spatial scan statistics are commonly used ( 16 ) ( 17 ) ( 18 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , exploring the risk factors for disease is complex and difficult ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "especially for diseases in which it is difficult to obtain patient exposure information ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and data involving patients \u0027 privacy ( 7 ) ; this challenge represents a weak link in epidemiological studies .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Compared with other infectious diseases such as schistosomiasis ( 19 , 20 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "most respiratory system diseases ( 21 ) and cardiovascular diseases ( 8 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the spatial risk factors for hepatitis B are less obvious ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and there have been few studies on this aspect .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In view of this problem ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "this study sought to explore the spatial risk factors for hepatitis B and to discover the relationship between these risk factors and hepatitis B morbidity .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "25",
+    "segment_num": "52",
+    "token_num": "813"
+  }
+}

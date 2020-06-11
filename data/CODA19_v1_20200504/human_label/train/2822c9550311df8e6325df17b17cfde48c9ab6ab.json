@@ -1,0 +1,83 @@
+{
+  "paper_id": "2822c9550311df8e6325df17b17cfde48c9ab6ab",
+  "metadata": {
+    "title": "Quantitative Fluorescence Quenching on Antibody-conjugated Graphene Oxide as a Platform for Protein Sensing OPEN",
+    "coda_data_split": "train",
+    "coda_paper_id": 6114,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "We created an immunosensing platform for the detection of proteins in a buffer solution. Our sensing platform relies on graphene oxide (GO) nanosheets conjugated with antibodies to provide quantitative binding sites for analyte proteins. When analyte proteins and standard fluorescein-labelled proteins are competing for the binding sites, the assay exhibits quantitative fluorescence quenching by GO for the fluorescein-labelled proteins as determined by the analyte protein concentration. Because of this mechanism, measured fluorescence intensity from unquenched fluorescein-labelled protein was shown to increase with an increasing analyte protein concentration. As an alternative to the conventional enzyme-linked immunosorbent assay (ELISA), our method does not require an enzyme-linked second antibody for protein recognition and the enzyme for optical signal measurement. Thus, it is beneficial with its low cost and fewer systematic errors caused by the series of antigen-antibody recognition steps in ELISA. Immune globulin G (IgG) was introduced as a model protein to test our method and our results showed that the limit of detection for IgG was 4.67 pmol mL −1 in the buffer solution. This sensing mechanism could be developed into a promising biosensor for the detection of proteins, which would broaden the spectrum of GO applications in both analytical biochemistry and clinical diagnosis.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We created an immunosensing platform for the detection of proteins in a buffer solution .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our sensing platform relies on graphene oxide ( GO ) nanosheets conjugated with antibodies to provide quantitative binding sites for analyte proteins .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "When analyte proteins and standard fluorescein-labelled proteins are competing for the binding sites ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the assay exhibits quantitative fluorescence quenching by GO for the fluorescein-labelled proteins as determined by the analyte protein concentration .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Because of this mechanism , measured fluorescence intensity from unquenched fluorescein-labelled protein was shown to increase with an increasing analyte protein concentration .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As an alternative to the conventional enzyme-linked immunosorbent assay ( ELISA ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "our method does not require an enzyme-linked second antibody for protein recognition and the enzyme for optical signal measurement .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , it is beneficial with its low cost and fewer systematic errors caused by the series of antigen-antibody recognition steps in ELISA .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Immune globulin G ( IgG ) was introduced as a model protein to test our method and our results showed that the limit of detection for IgG was 4.67 pmol mL − 1 in the buffer solution .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This sensing mechanism could be developed into a promising biosensor for the detection of proteins ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which would broaden the spectrum of GO applications in both analytical biochemistry and clinical diagnosis .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "11",
+    "token_num": "222"
+  }
+}

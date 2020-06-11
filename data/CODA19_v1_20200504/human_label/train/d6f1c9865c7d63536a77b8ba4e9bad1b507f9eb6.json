@@ -1,0 +1,220 @@
+{
+  "paper_id": "d6f1c9865c7d63536a77b8ba4e9bad1b507f9eb6",
+  "metadata": {
+    "title": "Hyponatremia in children with respiratory infections: a cross- sectional analysis of a cohort of 3938 patients OPEN",
+    "coda_data_split": "train",
+    "coda_paper_id": 2341,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Hyponatremia can be a life-threatening illness among hospitalized children. The aims of this study were to evaluate the incidence and risk factors of hyponatremia in 3938 children who were admitted to the Cheil General Hospital and Women\u0027s Health Care Center with respiratory infections. Clinical data were collected, and multiplex RT-PCR analyses were done for various microorganisms. Hyponatremia was observed in 531 (13.5%) patients. The incidence of hyponatremia differed according to the respiratory tract infection (P \u003c 0.0001) and microorganism (P \u003d 0.001). In children with hyponatremia, the age at admission was significantly older (P \u003c 0.0001), male gender was more frequent (P \u003d 0.019), CRP was higher (P \u003c 0.0001), and coinfection with multiple organisms was more common (P \u003d 0.001) than in children without hyponatremia. In multivariate analyses, an older age at admission (P \u003d 0.006), male gender (P \u003d 0.004), and increased CRP (P \u003c 0.0001) were independent risk factors. Sodium levels correlated negatively with WBC (P \u003d 0.037), CRP (P \u003c 0.0001), and number of hospital days (P \u003d 0.020). The AUC values of age (0.586, P \u003c 0.0001), CRP (0.599, P \u003c 0.0001), and blood urea nitrogen (0.559, P \u003c 0.0001) were all significant predictors of hyponatremia. This study is the first to show that the incidence of hyponatremia differs according to infecting microorganism and radiological findings.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Hyponatremia can be a life-threatening illness among hospitalized children .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The aims of this study were to evaluate the incidence and risk factors of hyponatremia in 3938 children who were admitted to the Cheil General Hospital and Women \u0027s Health Care Center with respiratory infections .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Clinical data were collected , and multiplex RT-PCR analyses were done for various microorganisms .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hyponatremia was observed in 531 ( 13.5 % ) patients .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The incidence of hyponatremia differed according to the respiratory tract infection ( P \u003c 0.0001 ) and microorganism ( P \u003d 0.001 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In children with hyponatremia , the age at admission was significantly older ( P \u003c 0.0001 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "male gender was more frequent ( P \u003d 0.019 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "CRP was higher ( P \u003c 0.0001 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and coinfection with multiple organisms was more common ( P \u003d 0.001 ) than in children without hyponatremia .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In multivariate analyses , an older age at admission ( P \u003d 0.006 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "male gender ( P \u003d 0.004 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and increased CRP ( P \u003c 0.0001 ) were independent risk factors .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Sodium levels correlated negatively with WBC ( P \u003d 0.037 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "CRP ( P \u003c 0.0001 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and number of hospital days ( P \u003d 0.020 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The AUC values of age ( 0.586 , P \u003c 0.0001 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "CRP ( 0.599 , P \u003c 0.0001 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and blood urea nitrogen ( 0.559 , P \u003c 0.0001 ) were all significant predictors of hyponatremia .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study is the first to show that the incidence of hyponatremia differs according to infecting microorganism and radiological findings .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Hyponatremia is defined as a plasma sodium concentration of less than 135 mEq/L and is one of the most common electrolyte derangements in both adults and children 1 . It can result from either a deficit of sodium or an excess of free water, and the incidence in a small number of cohorts was estimated as 17-45% of hospitalized children 2-5 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Hyponatremia is defined as a plasma sodium concentration of less than 135 mEq/L and is one of the most common electrolyte derangements in both adults and children 1 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It can result from either a deficit of sodium or an excess of free water ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and the incidence in a small number of cohorts was estimated as 17-45 % of hospitalized children 2-5 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Acute, severe hyponatremia that develops within 48 hours can result in acute cerebral edema and various sequelae, such as headache, lethargy, seizures, and cardiac arrest due to brain stem herniation. Children are more vulnerable than adults to those sequelae because the brain/intracranial volume ratio is higher in children than in adults 6-8 . Recent evidence suggests that even mild chronic hyponatremia can be related to subtle neurologic defects, such as impairments in balance and attention that can increase the incidence of falls 9 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Acute , severe hyponatremia that develops within 48 hours can result in acute cerebral edema and various sequelae ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as headache , lethargy ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "seizures , and cardiac arrest due to brain stem herniation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Children are more vulnerable than adults to those sequelae because the brain/intracranial volume ratio is higher in children than in adults 6-8 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recent evidence suggests that even mild chronic hyponatremia can be related to subtle neurologic defects ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as impairments in balance and attention that can increase the incidence of falls 9 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The most probable cause of hyponatremia is thought to be the non-osmotic release of antidiuretic hormone (ADH) as a result of various clinical conditions, such as fever, hypovolemia, and respiratory tract infections 2,4,10 . Among patients with respiratory tract infections, pneumonia and bronchiolitis are most commonly associated with hyponatremia 3-5 . However, the incidence of hyponatremia according to the etiological involvement of various microorganisms has not yet been studied. As a key event in the pathophysiology of hyponatremia in patients with respiratory tract infections, a syndrome of inappropriate ADH secretion (SIADH) caused by Published: xx xx xxxx OPEN www.nature.com/scientificreports/",
+      "sentences": [
+        [
+          {
+            "segment_text": "The most probable cause of hyponatremia is thought to be the non-osmotic release of antidiuretic hormone ( ADH ) as a result of various clinical conditions ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as fever , hypovolemia ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and respiratory tract infections 2,4,10 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Among patients with respiratory tract infections ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "pneumonia and bronchiolitis are most commonly associated with hyponatremia 3-5 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the incidence of hyponatremia according to the etiological involvement of various microorganisms has not yet been studied .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As a key event in the pathophysiology of hyponatremia in patients with respiratory tract infections ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a syndrome of inappropriate ADH secretion ( SIADH ) caused by Published : xx xx xxxx OPEN www.nature.com/scientificreports /",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "19",
+    "segment_num": "36",
+    "token_num": "547"
+  }
+}

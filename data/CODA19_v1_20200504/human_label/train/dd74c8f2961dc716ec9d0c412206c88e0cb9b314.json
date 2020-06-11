@@ -1,0 +1,67 @@
+{
+  "paper_id": "dd74c8f2961dc716ec9d0c412206c88e0cb9b314",
+  "metadata": {
+    "title": "Information theory-based algorithm for in silico prediction of PCR products with whole genomic sequences as templates",
+    "coda_data_split": "train",
+    "coda_paper_id": 7130,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "A new algorithm for assessing similarity between primer and template has been developed based on the hypothesis that annealing of primer to template is an information transfer process.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A new algorithm for assessing similarity between primer and template has been developed based on the hypothesis that annealing of primer to template is an information transfer process .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results: Primer sequence is converted to a vector of the full potential hydrogen numbers (3 for G or C, 2 for A or T), while template sequence is converted to a vector of the actual hydrogen bond numbers formed after primer annealing. The former is considered as source information and the latter destination information. An information coefficient is calculated as a measure for fidelity of this information transfer process and thus a measure of similarity between primer and potential annealing site on template.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results : Primer sequence is converted to a vector of the full potential hydrogen numbers ( 3 for G or C , 2 for A or T ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while template sequence is converted to a vector of the actual hydrogen bond numbers formed after primer annealing .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The former is considered as source information and the latter destination information .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "An information coefficient is calculated as a measure for fidelity of this information transfer process and thus a measure of similarity between primer and potential annealing site on template .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Conclusion: Successful prediction of PCR products from whole genomic sequences with a computer program based on the algorithm demonstrated the potential of this new algorithm in areas like in silico PCR and gene finding.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Conclusion : Successful prediction of PCR products from whole genomic sequences with a computer program based on the algorithm demonstrated the potential of this new algorithm in areas like in silico PCR and gene finding .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "5",
+    "segment_num": "6",
+    "token_num": "156"
+  }
+}

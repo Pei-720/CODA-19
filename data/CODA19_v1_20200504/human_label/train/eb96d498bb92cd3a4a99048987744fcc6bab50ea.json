@@ -1,0 +1,70 @@
+{
+  "paper_id": "eb96d498bb92cd3a4a99048987744fcc6bab50ea",
+  "metadata": {
+    "title": "Virus persistence and recurring demyelination produced by a temperature-sensitive mutant of MHV-4",
+    "coda_data_split": "train",
+    "coda_paper_id": 5628,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "shows a peripheral disposition and may protrude from the surface, possibly interacting with other cellular components or with neighbouring neurofilaments. The results presented here indicate that the function performed by the 200K protein is not rigidly required by every neurofilament, and is not needed at all stages of development. It should be possible to correlate the presence and absence of this protein with morphological and physiological attributes of particular neurones, and so elucidate the role of this protein in neuronal dynamics.",
+      "sentences": [
+        [
+          {
+            "segment_text": "shows a peripheral disposition and may protrude from the surface ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "possibly interacting with other cellular components or with neighbouring neurofilaments .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results presented here indicate that the function performed by the 200K protein is not rigidly required by every neurofilament ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and is not needed at all stages of development .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It should be possible to correlate the presence and absence of this protein with morphological and physiological attributes of particular neurones ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and so elucidate the role of this protein in neuronal dynamics .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We thank E. Debus for providing monoclonal antibody to the 200K neurofilament protein. G. S. was supported by a postdoctoral fellowship from the Max Planck Society.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We thank E. Debus for providing monoclonal antibody to the 200K neurofilament protein .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "G. S. was supported by a postdoctoral fellowship from the Max Planck Society .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "5",
+    "segment_num": "8",
+    "token_num": "115"
+  }
+}

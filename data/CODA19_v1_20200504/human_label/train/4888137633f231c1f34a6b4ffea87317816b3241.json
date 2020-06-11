@@ -1,0 +1,73 @@
+{
+  "paper_id": "4888137633f231c1f34a6b4ffea87317816b3241",
+  "metadata": {
+    "title": "Nitazoxanide, a new drug candidate for the treatment of Middle East respiratory syndrome coronavirus",
+    "coda_data_split": "train",
+    "coda_paper_id": 8357,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Nitazoxanide is a broad-spectrum antiviral agent undergoing clinical development for treatment of influenza and other viral respiratory infections. Nitazoxanide exhibits in vitro activity against Middle East respiratory syndrome coronavirus (MERS-CoV) and other coronaviruses, inhibiting expression of the viral N protein. Nitazoxanide also suppresses production of pro-inflammatory cytokines in peripheral blood mononuclear cells and suppresses interleukin 6 production in mice. Having been used extensively in clinical trials and in post-marketing experience, nitazoxanide is an attractive drug candidate for treatment of Middle East respiratory syndrome. Future research should include in vitro mechanism studies, animal models of MERS-CoV infection, clinical trials, including dose-ranging trials, and evaluation of combination therapy with other potential MERS-CoV antivirals.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Nitazoxanide is a broad-spectrum antiviral agent undergoing clinical development for treatment of influenza and other viral respiratory infections .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Nitazoxanide exhibits in vitro activity against Middle East respiratory syndrome coronavirus ( MERS-CoV ) and other coronaviruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "inhibiting expression of the viral N protein .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Nitazoxanide also suppresses production of pro-inflammatory cytokines in peripheral blood mononuclear cells and suppresses interleukin 6 production in mice .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Having been used extensively in clinical trials and in post-marketing experience ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "nitazoxanide is an attractive drug candidate for treatment of Middle East respiratory syndrome .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Future research should include in vitro mechanism studies ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "animal models of MERS-CoV infection ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "clinical trials , including dose-ranging trials ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and evaluation of combination therapy with other potential MERS-CoV antivirals .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "10",
+    "token_num": "124"
+  }
+}

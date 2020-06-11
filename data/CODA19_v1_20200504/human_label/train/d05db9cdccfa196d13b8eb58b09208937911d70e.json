@@ -1,0 +1,198 @@
+{
+  "paper_id": "d05db9cdccfa196d13b8eb58b09208937911d70e",
+  "metadata": {
+    "title": "Novel Immunoinformatics Approaches to Design Multi- epitope Subunit Vaccine for Malaria by Investigating Anopheles Salivary Protein OPEN",
+    "coda_data_split": "train",
+    "coda_paper_id": 8518,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Malaria fever has been pervasive for quite a while in tropical developing regions causing high morbidity and mortality. The causal organism is a protozoan parasite of genus Plasmodium which spreads to the human host by the bite of hitherto infected female Anopheles mosquito. In the course of biting, a salivary protein of Anopheles helps in blood feeding behavior and having the ability to elicit the host immune response. This study represents a series of immunoinformatics approaches to design multi-epitope subunit vaccine using Anopheles mosquito salivary proteins. Designed subunit vaccine was evaluated for its immunogenicity, allergenicity and physiochemical parameters. To enhance the stability of vaccine protein, disulfide engineering was performed in a region of high mobility. Codon adaptation and in silico cloning was also performed to ensure the higher expression of designed subunit vaccine in E. coli K12 expression system. Finally, molecular docking and simulation study was performed for the vaccine protein and TLR-4 receptor, to determine the binding free energy and complex stability. Moreover, the designed subunit vaccine was found to induce anti-salivary immunity which may have the ability to prevent the entry of Plasmodium sporozoites into the human host.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Malaria fever has been pervasive for quite a while in tropical developing regions causing high morbidity and mortality .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The causal organism is a protozoan parasite of genus Plasmodium which spreads to the human host by the bite of hitherto infected female Anopheles mosquito .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the course of biting ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a salivary protein of Anopheles helps in blood feeding behavior and having the ability to elicit the host immune response .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study represents a series of immunoinformatics approaches to design multi-epitope subunit vaccine using Anopheles mosquito salivary proteins .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Designed subunit vaccine was evaluated for its immunogenicity , allergenicity and physiochemical parameters .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "To enhance the stability of vaccine protein ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "disulfide engineering was performed in a region of high mobility .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Codon adaptation and in silico cloning was also performed to ensure the higher expression of designed subunit vaccine in E. coli K12 expression system .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , molecular docking and simulation study was performed for the vaccine protein and TLR-4 receptor ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "to determine the binding free energy and complex stability .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , the designed subunit vaccine was found to induce anti-salivary immunity which may have the ability to prevent the entry of Plasmodium sporozoites into the human host .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Malaria still remains one of the most devastating and deadly infectious disease, which is characterized by the intermittent high fevers and it\u0027s another form namely cerebral malaria, leads to the neurological complications such as brain injury and coma 1,2 . As per the World Health Organization (WHO) latest estimate, almost 212 million cases of malaria along with 42,900 deaths were reported in December 2016 among 91 countries, worldwide 3 . The high risk of developing malarial infection among a population group depends upon the several factors including the presence of children under the age of 5 years 4 , a patient with HIV co-infection 4 , pregnant woman 4 , mobile population 4,5 , and travelers 6 . The causal organism of malaria is a protozoan parasite belongs to the genus Plasmodium and it spreads by the bite of hitherto infected female Anopheles mosquito 7 . There are mainly four species of Plasmodium namely P. falciparum, P. ovale, P. malariae and P. vivax that are responsible for the disastrous diseased condition among human being. Recently, P. knowlesi was considered as the fifth species with the ability to cause human malaria infection in Southeast Asian countries mainly Malaysia 8 . If we talk about the severity of infection and distribution of disease, P. falciparum is the most severe form of a parasite than other leads to most of the deaths whereas P. vivax is the most widely distributed human parasite outside the sub-Saharan region of Africa and cause huge morbidity. The life cycle of malaria parasite consisting of four stages namely liver stage, blood stage, and transmission stage in human being while the last one is mosquito stage and keeping in mind the end goal to destroy the ailment, each stage ought to be considered for treatment 9 . Artemisinin combination therapy is the first-line treatment for P. falciparum infection in the region where chloroquine resistance has been evolved. Along with the fast onset of action, artemisinin and its derivatives have rapid clearance from the human body, which needs the combination of the slow-clearing drug to",
+      "sentences": [
+        [
+          {
+            "segment_text": "Malaria still remains one of the most devastating and deadly infectious disease ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which is characterized by the intermittent high fevers and it \u0027s another form namely cerebral malaria ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "leads to the neurological complications such as brain injury and coma 1,2 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As per the World Health Organization ( WHO ) latest estimate ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "almost 212 million cases of malaria along with 42,900 deaths were reported in December 2016 among 91 countries , worldwide 3 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The high risk of developing malarial infection among a population group depends upon the several factors including the presence of children under the age of 5 years 4 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a patient with HIV co-infection 4 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "pregnant woman 4 , mobile population 4,5 , and travelers 6 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The causal organism of malaria is a protozoan parasite belongs to the genus Plasmodium and it spreads by the bite of hitherto infected female Anopheles mosquito 7 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "There are mainly four species of Plasmodium namely P. falciparum ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "P. ovale , P. malariae and P. vivax that are responsible for the disastrous diseased condition among human being .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recently , P. knowlesi was considered as the fifth species with the ability to cause human malaria infection in Southeast Asian countries mainly Malaysia 8 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "If we talk about the severity of infection and distribution of disease ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "P. falciparum is the most severe form of a parasite than other leads to most of the deaths whereas P. vivax is the most widely distributed human parasite outside the sub-Saharan region of Africa and cause huge morbidity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The life cycle of malaria parasite consisting of four stages namely liver stage ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "blood stage , and transmission stage in human being while the last one is mosquito stage and keeping in mind the end goal to destroy the ailment ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "each stage ought to be considered for treatment 9 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Artemisinin combination therapy is the first-line treatment for P. falciparum infection in the region where chloroquine resistance has been evolved .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Along with the fast onset of action ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "artemisinin and its derivatives have rapid clearance from the human body ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which needs the combination of the slow-clearing drug to",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "19",
+    "segment_num": "33",
+    "token_num": "569"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "paper_id": "97a3bb18c51244482cb68d5565389266a0cb7098",
+  "metadata": {
+    "title": "SARS coronavirus papain-like protease inhibits the type I interferon signaling pathway through interaction with the STING-TRAF3- TBK1 complex",
+    "coda_data_split": "train",
+    "coda_paper_id": 7966,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "SARS coronavirus (SARS-CoV) develops an antagonistic mechanism by which to evade the antiviral activities of interferon (IFN). Previous studies suggested that SARS-CoV papain-like protease (PLpro) inhibits activation of the IRF3 pathway, which would normally elicit a robust IFN response, but the mechanism(s) used by SARS PLpro to inhibit activation of the IRF3 pathway is not fully known. In this study, we uncovered a novel mechanism that may explain how SARS PLpro efficiently inhibits activation of the IRF3 pathway. We found that expression of the membrane-anchored PLpro domain (PLpro-TM) from SARS-CoV inhibits STING/ TBK1/IKKε-mediated activation of type I IFNs and disrupts the phosphorylation and dimerization of IRF3, which are activated by STING and TBK1. Meanwhile, we showed that PLpro-TM physically interacts with TRAF3, TBK1, IKKε, STING, and IRF3, the key components that assemble the STING-TRAF3-TBK1 complex for activation of IFN expression. However, the interaction between the components in STING-TRAF3-TBK1 complex is disrupted by PLpro-TM. Furthermore, SARS PLpro-TM reduces the levels of ubiquitinated forms of RIG-I, STING, TRAF3, TBK1, and IRF3 in the STING-TRAF3-TBK1 complex. These results collectively point to a new mechanism used by SARS-CoV through which PLpro negatively regulates IRF3 activation by interaction with STING-TRAF3-TBK1 complex, yielding a SARS-CoV countermeasure against host innate immunity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "SARS coronavirus ( SARS-CoV ) develops an antagonistic mechanism by which to evade the antiviral activities of interferon ( IFN ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Previous studies suggested that SARS-CoV papain-like protease ( PLpro ) inhibits activation of the IRF3 pathway ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which would normally elicit a robust IFN response ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but the mechanism ( s ) used by SARS PLpro to inhibit activation of the IRF3 pathway is not fully known .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we uncovered a novel mechanism that may explain how SARS PLpro efficiently inhibits activation of the IRF3 pathway .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We found that expression of the membrane-anchored PLpro domain ( PLpro-TM ) from SARS-CoV inhibits STING / TBK1/IKKε-mediated activation of type I IFNs and disrupts the phosphorylation and dimerization of IRF3 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which are activated by STING and TBK1 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Meanwhile , we showed that PLpro-TM physically interacts with TRAF3 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "TBK1 , IKKε , STING ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and IRF3 , the key components that assemble the STING-TRAF3-TBK1 complex for activation of IFN expression .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the interaction between the components in STING-TRAF3-TBK1 complex is disrupted by PLpro-TM .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , SARS PLpro-TM reduces the levels of ubiquitinated forms of RIG-I ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "STING , TRAF3 , TBK1 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and IRF3 in the STING-TRAF3-TBK1 complex .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These results collectively point to a new mechanism used by SARS-CoV through which PLpro negatively regulates IRF3 activation by interaction with STING-TRAF3-TBK1 complex ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "yielding a SARS-CoV countermeasure against host innate immunity .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "16",
+    "token_num": "241"
+  }
+}

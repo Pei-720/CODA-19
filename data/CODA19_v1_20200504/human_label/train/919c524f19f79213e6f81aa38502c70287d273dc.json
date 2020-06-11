@@ -1,0 +1,63 @@
+{
+  "paper_id": "919c524f19f79213e6f81aa38502c70287d273dc",
+  "metadata": {
+    "title": "Clinical Medicine The Extent of Transmission of Novel Coronavirus in",
+    "coda_data_split": "train",
+    "coda_paper_id": 3273,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "A cluster of pneumonia cases linked to a novel coronavirus (2019-nCoV) was reported by China in late December 2019. Reported case incidence has now reached the hundreds, but this is likely an underestimate. As of 24 January 2020, with reports of thirteen exportation events, we estimate the cumulative incidence in China at 5502 cases (95% confidence interval: 3027, 9057). The most plausible number of infections is in the order of thousands, rather than hundreds, and there is a strong indication that untraced exposures other than the one in the epidemiologically linked seafood market in Wuhan have occurred.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A cluster of pneumonia cases linked to a novel coronavirus ( 2019-nCoV ) was reported by China in late December 2019 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Reported case incidence has now reached the hundreds ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but this is likely an underestimate .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As of 24 January 2020 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with reports of thirteen exportation events ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we estimate the cumulative incidence in China at 5502 cases ( 95 % confidence interval : 3027 , 9057 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The most plausible number of infections is in the order of thousands ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "rather than hundreds , and there is a strong indication that untraced exposures other than the one in the epidemiologically linked seafood market in Wuhan have occurred .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "4",
+    "segment_num": "8",
+    "token_num": "113"
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "paper_id": "e8f4d22d624e8deec9597ce88e53b1751386cd1d",
+  "metadata": {
+    "title": "Article 46 1 Original research of the US",
+    "coda_data_split": "train",
+    "coda_paper_id": 3696,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Porcine reproductive and respiratory syndrome (PRRS) is, arguably, the most impactful disease for the North American swine industry, due to its known considerable economic losses. The Swine Health Monitoring Project (SHMP) monitors and reports weekly new PRRS cases in 766 sow herds across the US. The time-dependent reproduction number (TD-R) is a measure of a pathogen\u0027s transmissibility. It may serve to capture and report PRRS virus (PRRSV) spread at the regional and system levels. The primary objective of the study here was to estimate the TD-R values for PRRSV using regional and system-level PRRS data, and to contrast it with commonly used metrics of disease, such as incidence estimates and space-time clusters. The second objective was to test whether the estimated TD-Rs were homogenous across four US regions. Retrospective monthly incidence data (2009)(2010)(2011)(2012)(2013)(2014)(2015)(2016) were available from the SHMP. The dataset was divided into four regions based on location of participants, and demographic and environmental features, namely, South East (North Carolina), Upper Midwest East (UME, Minnesota/ Iowa), Upper Midwest West (Nebraska/South Dakota), and South (Oklahoma panhandle). Generation time distributions were fit to incidence data for each region, and used to calculate the TD-Rs. The Kruskal-Wallis test was used to determine whether the median TD-Rs differed across the four areas. Furthermore, we used a space-time permutation model to assess spatial-temporal patterns for the four regions. Results showed TD-Rs were right skewed with median values close to \"1\" across all regions, confirming that PRRS has an overall endemic nature. Variation in the TD-R patterns was noted across regions and production systems. Statistically significant periods of PRRSV spread (TD-R \u003e 1) were identified for all regions except UME. A minimum of three space-time clusters were detected for all regions considering the time period examined herein; and their overlap with \"spreader events\" identified by the TD-R method varied according to region. TD-Rs may help to measure PRRS spread to understand, in quantitative terms, disease spread, and, ultimately, support the design, implementation, and monitoring of interventions aimed at mitigating the impact of PRRSV spread in the US.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Porcine reproductive and respiratory syndrome ( PRRS ) is ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "arguably , the most impactful disease for the North American swine industry ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "due to its known considerable economic losses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The Swine Health Monitoring Project ( SHMP ) monitors and reports weekly new PRRS cases in 766 sow herds across the US .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The time-dependent reproduction number ( TD-R ) is a measure of a pathogen \u0027s transmissibility .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It may serve to capture and report PRRS virus ( PRRSV ) spread at the regional and system levels .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The primary objective of the study here was to estimate the TD-R values for PRRSV using regional and system-level PRRS data ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and to contrast it with commonly used metrics of disease ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "such as incidence estimates and space-time clusters .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The second objective was to test whether the estimated TD-Rs were homogenous across four US regions .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Retrospective monthly incidence data ( 2009 ) ( 2010 ) ( 2011 ) ( 2012 ) ( 2013 ) ( 2014 ) ( 2015 ) ( 2016 ) were available from the SHMP .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The dataset was divided into four regions based on location of participants ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and demographic and environmental features ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "namely , South East ( North Carolina ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "Upper Midwest East ( UME , Minnesota / Iowa ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "Upper Midwest West ( Nebraska/South Dakota ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and South ( Oklahoma panhandle ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Generation time distributions were fit to incidence data for each region ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and used to calculate the TD-Rs .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The Kruskal-Wallis test was used to determine whether the median TD-Rs differed across the four areas .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , we used a space-time permutation model to assess spatial-temporal patterns for the four regions .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results showed TD-Rs were right skewed with median values close to `` 1 \u0027\u0027 across all regions ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "confirming that PRRS has an overall endemic nature .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Variation in the TD-R patterns was noted across regions and production systems .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Statistically significant periods of PRRSV spread ( TD-R \u003e 1 ) were identified for all regions except UME .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A minimum of three space-time clusters were detected for all regions considering the time period examined herein ; and their overlap with `` spreader events \u0027\u0027 identified by the TD-R method varied according to region .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "TD-Rs may help to measure PRRS spread to understand ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "in quantitative terms , disease spread ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and , ultimately , support the design ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "implementation , and monitoring of interventions aimed at mitigating the impact of PRRSV spread in the US .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Keywords: time-dependent reproductive number, surveillance, porcine reproductive and respiratory syndrome, space-time clusters, porcine reproductive and respiratory syndrome incidence FigUre 3 | (a) System-specific graphs showing time-dependent reproduction number (TD-R) and incidence for porcine reproductive and respiratory syndrome. TD-R with 95% upper and lower confidence intervals (CIs) are shown in red, and incidence curves (after replacing 0 counts with \"1\u0027s\" as described in Section \"Materials and Methods\") are shown in yellow. Stars (*) represent peaks on TD-R in which the 95% CI did not include 1. (b) Box plot showing TD-R distribution for four different systems of the US. 7 Arruda et al. TD-Rs for PRRS Frontiers in Veterinary Science | www.frontiersin.org",
+      "sentences": [
+        [
+          {
+            "segment_text": "Keywords : time-dependent reproductive number ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "surveillance , porcine reproductive and respiratory syndrome ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "space-time clusters , porcine reproductive and respiratory syndrome incidence FigUre 3 | ( a ) System-specific graphs showing time-dependent reproduction number ( TD-R ) and incidence for porcine reproductive and respiratory syndrome .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "TD-R with 95 % upper and lower confidence intervals ( CIs ) are shown in red ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and incidence curves ( after replacing 0 counts with `` 1 \u0027s \u0027\u0027 as described in Section `` Materials and Methods \u0027\u0027 ) are shown in yellow .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Stars ( * ) represent peaks on TD-R in which the 95 % CI did not include 1 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( b ) Box plot showing TD-R distribution for four different systems of the US .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "7 Arruda et al. .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "TD-Rs for PRRS Frontiers in Veterinary Science | www.frontiersin.org",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "22",
+    "segment_num": "39",
+    "token_num": "568"
+  }
+}

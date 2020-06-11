@@ -1,0 +1,129 @@
+{
+  "paper_id": "247d3262ad1b15f331a89f70eec56b34dbe6b8b5",
+  "metadata": {
+    "title": "Maximum Likelihood Estimation of the Negative Binomial Dispersion Parameter for Highly Overdispersed Data, with Applications to Infectious Diseases",
+    "coda_data_split": "train",
+    "coda_paper_id": 5119,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background. The negative binomial distribution is used commonly throughout biology as a model for overdispersed count data, with attention focused on the negative binomial dispersion parameter, k. A substantial literature exists on the estimation of k, but most attention has focused on datasets that are not highly overdispersed (i.e., those with k$1), and the accuracy of confidence intervals estimated for k is typically not explored. Methodology. This article presents a simulation study exploring the bias, precision, and confidence interval coverage of maximum-likelihood estimates of k from highly overdispersed distributions. In addition to exploring small-sample bias on negative binomial estimates, the study addresses estimation from datasets influenced by two types of event under-counting, and from disease transmission data subject to selection bias for successful outbreaks. Conclusions. Results show that maximum likelihood estimates of k can be biased upward by small sample size or under-reporting of zero-class events, but are not biased downward by any of the factors considered. Confidence intervals estimated from the asymptotic sampling variance tend to exhibit coverage below the nominal level, with overestimates of k comprising the great majority of coverage errors. Estimation from outbreak datasets does not increase the bias of k estimates, but can add significant upward bias to estimates of the mean. Because k varies inversely with the degree of overdispersion, these findings show that overestimation of the degree of overdispersion is very rare for these datasets.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The negative binomial distribution is used commonly throughout biology as a model for overdispersed count data ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with attention focused on the negative binomial dispersion parameter , k .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A substantial literature exists on the estimation of k ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but most attention has focused on datasets that are not highly overdispersed ( i.e. , those with k $ 1 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and the accuracy of confidence intervals estimated for k is typically not explored .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Methodology .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This article presents a simulation study exploring the bias ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "precision , and confidence interval coverage of maximum-likelihood estimates of k from highly overdispersed distributions .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition to exploring small-sample bias on negative binomial estimates ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the study addresses estimation from datasets influenced by two types of event under-counting ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and from disease transmission data subject to selection bias for successful outbreaks .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Conclusions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results show that maximum likelihood estimates of k can be biased upward by small sample size or under-reporting of zero-class events ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but are not biased downward by any of the factors considered .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Confidence intervals estimated from the asymptotic sampling variance tend to exhibit coverage below the nominal level ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with overestimates of k comprising the great majority of coverage errors .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Estimation from outbreak datasets does not increase the bias of k estimates ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but can add significant upward bias to estimates of the mean .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Because k varies inversely with the degree of overdispersion ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "these findings show that overestimation of the degree of overdispersion is very rare for these datasets .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "11",
+    "segment_num": "21",
+    "token_num": "260"
+  }
+}

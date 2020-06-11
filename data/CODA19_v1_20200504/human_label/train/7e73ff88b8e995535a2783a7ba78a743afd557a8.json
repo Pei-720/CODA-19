@@ -1,0 +1,159 @@
+{
+  "paper_id": "7e73ff88b8e995535a2783a7ba78a743afd557a8",
+  "metadata": {
+    "title": "The heptad repeat region is a major selection target in MERS- CoV and related coronaviruses OPEN",
+    "coda_data_split": "train",
+    "coda_paper_id": 2720,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "well as in MERS-CoV strains from the current outbreak. Results indicated several positively selected sites located in the region comprising the two heptad repeats (HR1 and HR2) and their linker. Two sites (R652 and V1060) were positively selected in the betaCoVs phylogeny and correspond to mutations associated with expanded host range in other coronaviruses. During the most recent evolution of MERS-CoV, adaptive mutations in the HR1 (Q/R/H1020) arose in camels or in a previous host and spread to humans. We determined that different residues at position 1020 establish distinct inter-and intra-helical interactions and affect the stability of the six-helix bundle formed by the HRs. A similar effect on stability was observed for a nearby mutation (T1015N) that increases MERS-CoV infection efficiency in vitro. Data herein indicate that the heptad repeat region was a major target of adaptive evolution in MERS-CoV-related viruses; these results are relevant for the design of fusion inhibitor peptides with antiviral function.",
+      "sentences": [
+        [
+          {
+            "segment_text": "well as in MERS-CoV strains from the current outbreak .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results indicated several positively selected sites located in the region comprising the two heptad repeats ( HR1 and HR2 ) and their linker .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Two sites ( R652 and V1060 ) were positively selected in the betaCoVs phylogeny and correspond to mutations associated with expanded host range in other coronaviruses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "During the most recent evolution of MERS-CoV ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "adaptive mutations in the HR1 ( Q/R/H1020 ) arose in camels or in a previous host and spread to humans .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We determined that different residues at position 1020 establish distinct inter-and intra-helical interactions and affect the stability of the six-helix bundle formed by the HRs .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A similar effect on stability was observed for a nearby mutation ( T1015N ) that increases MERS-CoV infection efficiency in vitro .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Data herein indicate that the heptad repeat region was a major target of adaptive evolution in MERS-CoV-related viruses ; these results are relevant for the design of fusion inhibitor peptides with antiviral function .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Middle East respiratory syndrome coronavirus (MERS-CoV), a newly emerged virus that can cause severe lower respiratory tract infection in humans, was first identified in Saudi Arabia in 2012 1 . Since then, 945 laboratory-confirmed cases of MERS-CoV infection, leading to at least 348 related deaths, have been reported to the WHO (as of January 5 th , 2015) (http://www.who.int/csr/don/05-january-2015-mers-jordan/en/). MERS-CoV belongs to the clade c of betacoronaviruses (betaCoVs) 2 , which also includes two bat sister species, namely Ty-BatCoV HKU4 and Pi-BatCoV HKU5, isolated from the lesser bamboo bats (Tylonycteris pachypus) and Japanese pipistrelles (Pipistrellus abramus), respectively 3 . Additional viruses related to MERS-CoV have been described in bats (BtCoV/KW2E-F93, BtCoV/133) and hedgehogs (Erinaceus coronavirus, EriCoV) 4,5 . Recently, a virus belonging to the same species as MERS-CoV was isolated in Neoromicia bats (NeoCoV), supporting a bat-origin for MERS-CoV 6 . This hypothesis received further confirmation by the identification of dipeptidyl-peptidase 4 (DPP4, also known as CD26) as the cellular receptor used by both Ty-BatCoV HKU4 and MERS-CoV 7-9 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Middle East respiratory syndrome coronavirus ( MERS-CoV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a newly emerged virus that can cause severe lower respiratory tract infection in humans ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "was first identified in Saudi Arabia in 2012 1 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Since then , 945 laboratory-confirmed cases of MERS-CoV infection ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "leading to at least 348 related deaths ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "have been reported to the WHO ( as of January 5 th , 2015 ) ( http://www.who.int/csr/don/05-january-2015-mers-jordan/en/ ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "MERS-CoV belongs to the clade c of betacoronaviruses ( betaCoVs ) 2 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which also includes two bat sister species ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "namely Ty-BatCoV HKU4 and Pi-BatCoV HKU5 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "isolated from the lesser bamboo bats ( Tylonycteris pachypus ) and Japanese pipistrelles ( Pipistrellus abramus ) , respectively 3 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Additional viruses related to MERS-CoV have been described in bats ( BtCoV/KW2E-F 93 , BtCoV/133 ) and hedgehogs ( Erinaceus coronavirus , EriCoV ) 4,5 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recently , a virus belonging to the same species as MERS-CoV was isolated in Neoromicia bats ( NeoCoV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "supporting a bat-origin for MERS-CoV 6 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This hypothesis received further confirmation by the identification of dipeptidyl-peptidase 4 ( DPP4 , also known as CD26 ) as the cellular receptor used by both Ty-BatCoV HKU4 and MERS-CoV 7-9 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Notably, high titers of MERS-CoV neutralizing antibodies have been detected in camels from various countries and MERS-CoV has been isolated from these animals in Saudi Arabia and Qatar 10 . Genetic diversity is slightly higher for camel-derived viruses compared to human MERS-CoV isolates, suggesting",
+      "sentences": [
+        [
+          {
+            "segment_text": "Notably , high titers of MERS-CoV neutralizing antibodies have been detected in camels from various countries and MERS-CoV has been isolated from these animals in Saudi Arabia and Qatar 10 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Genetic diversity is slightly higher for camel-derived viruses compared to human MERS-CoV isolates , suggesting",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "15",
+    "segment_num": "24",
+    "token_num": "423"
+  }
+}

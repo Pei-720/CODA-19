@@ -1,0 +1,99 @@
+{
+  "paper_id": "b6eed04e43ad653c06247b10ab05d03bdccf04bc",
+  "metadata": {
+    "title": "Estimating Individual and Household Reproduction Numbers in an Emerging Epidemic",
+    "coda_data_split": "train",
+    "coda_paper_id": 5005,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Reproduction numbers, defined as averages of the number of people infected by a typical case, play a central role in tracking infectious disease outbreaks. The aim of this paper is to develop methods for estimating reproduction numbers which are simple enough that they could be applied with limited data or in real time during an outbreak. I present a new estimator for the individual reproduction number, which describes the state of the epidemic at a point in time rather than tracking individuals over time, and discuss some potential benefits. Then, to capture more of the detail that micro-simulations have shown is important in outbreak dynamics, I analyse a model of transmission within and between households, and develop a method to estimate the household reproduction number, defined as the number of households infected by each infected household. This method is validated by numerical simulations of the spread of influenza and measles using historical data, and estimates are obtained for would-be emerging epidemics of these viruses. I argue that the household reproduction number is useful in assessing the impact of measures that target the household for isolation, quarantine, vaccination or prophylactic treatment, and measures such as social distancing and school or workplace closures which limit between-household transmission, all of which play a key role in current thinking on future infectious disease mitigation.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Reproduction numbers , defined as averages of the number of people infected by a typical case ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "play a central role in tracking infectious disease outbreaks .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The aim of this paper is to develop methods for estimating reproduction numbers which are simple enough that they could be applied with limited data or in real time during an outbreak .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "I present a new estimator for the individual reproduction number ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which describes the state of the epidemic at a point in time rather than tracking individuals over time ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and discuss some potential benefits .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Then , to capture more of the detail that micro-simulations have shown is important in outbreak dynamics ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "I analyse a model of transmission within and between households ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and develop a method to estimate the household reproduction number ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "defined as the number of households infected by each infected household .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This method is validated by numerical simulations of the spread of influenza and measles using historical data ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and estimates are obtained for would-be emerging epidemics of these viruses .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "I argue that the household reproduction number is useful in assessing the impact of measures that target the household for isolation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "quarantine , vaccination or prophylactic treatment ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and measures such as social distancing and school or workplace closures which limit between-household transmission ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "all of which play a key role in current thinking on future infectious disease mitigation .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "16",
+    "token_num": "239"
+  }
+}

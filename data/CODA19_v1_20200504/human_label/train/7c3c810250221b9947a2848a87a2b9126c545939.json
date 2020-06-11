@@ -1,0 +1,218 @@
+{
+  "paper_id": "7c3c810250221b9947a2848a87a2b9126c545939",
+  "metadata": {
+    "title": "Estimate of the development of the epidemic reproduction number Rt from Coronavirus SARS-CoV-2 case data and implications for political measures based on prognostics",
+    "coda_data_split": "train",
+    "coda_paper_id": 7622,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The novel Coronavirus SARS-CoV-2 (CoV) has induced a world-wide pandemic and subsequent non-pharmaceutical interventions (NPI) in order to control the spreading of the virus. NPIs are considered to be critical in order to at least delay the peak number of infected individuals and to prevent the health care system becoming overwhelmed by the number of patients to treat in hospitals or in intensive care units (ICUs). However, there is also increasing concern that the NPIs in place would increase mortality because of other diseases, increase the frequency of suicide and increase the risk of an economic recession with unforeseeable implications. It is therefore instrumental to evaluate the necessity of NPIs and to monitor the progress of containment of the virus spreading.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The novel Coronavirus SARS-CoV-2 ( CoV ) has induced a world-wide pandemic and subsequent non-pharmaceutical interventions ( NPI ) in order to control the spreading of the virus .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "NPIs are considered to be critical in order to at least delay the peak number of infected individuals and to prevent the health care system becoming overwhelmed by the number of patients to treat in hospitals or in intensive care units ( ICUs ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , there is also increasing concern that the NPIs in place would increase mortality because of other diseases ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "increase the frequency of suicide and increase the risk of an economic recession with unforeseeable implications .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is therefore instrumental to evaluate the necessity of NPIs and to monitor the progress of containment of the virus spreading .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We used a data-driven estimation of the evolution of the reproduction number for viral spreading in Germany as well as in all its federal states. Based on an extended infectionepidemic model, parameterized with data from the Robert Koch-Institute and, alternatively, with parameters stemming from a fit to the initial phase of CoV spreading in different regions of Italy, we consistently found that the reproduction number was turned down to a range near 1 in all federal states. We used the latest reproduction number as a starting point for the simulation of epidemic progression and varied the reproduction number, mimicking either release or strengthening of NPIs. Germany is currently, April 3rd, 2020, at the border line of a reproduction number between the scenarios of major immunisation of the population or eradication of the virus. We strongly recommend to keep all NPIs in place and suggest to even strengthen the measures in order to accelerate reaching the state of full control, thus, also limiting collateral damage of the NPIs in time. : medRxiv preprint 1 day, although the range varies between 0 -3 days (IQR) depending on age. The time span spent during hospitalization to admission in ICU is likely shorter as the patients get older. For Germany where the majority of reported infections are in middle-aged groups, we assume the median value of 1/R7 ~ 2.5 days. We have varied 1/R7 within a range of 1 -3.5 days.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We used a data-driven estimation of the evolution of the reproduction number for viral spreading in Germany as well as in all its federal states .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Based on an extended infectionepidemic model ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "parameterized with data from the Robert Koch-Institute and ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "alternatively , with parameters stemming from a fit to the initial phase of CoV spreading in different regions of Italy ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we consistently found that the reproduction number was turned down to a range near 1 in all federal states .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We used the latest reproduction number as a starting point for the simulation of epidemic progression and varied the reproduction number ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "mimicking either release or strengthening of NPIs .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Germany is currently , April 3rd ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "2020 , at the border line of a reproduction number between the scenarios of major immunisation of the population or eradication of the virus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We strongly recommend to keep all NPIs in place and suggest to even strengthen the measures in order to accelerate reaching the state of full control ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "thus , also limiting collateral damage of the NPIs in time .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": ": medRxiv preprint 1 day ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "although the range varies between 0 -3 days ( IQR ) depending on age .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The time span spent during hospitalization to admission in ICU is likely shorter as the patients get older .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "For Germany where the majority of reported infections are in middle-aged groups ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we assume the median value of 1/R7 ~ 2.5 days .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We have varied 1/R7 within a range of 1 -3.5 days .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The inverse of R8 depicts the time span spent in ICU before discharge. Here, we assume that patients who are recovering in ICU do not spend much time in general hospital care. 1/R8 is also presumably dependent on age, with more severe courses and thus prolonged ICU admission needed for high risk individuals, such as aged patients. WHO-China joint mission on COVID-19 outbreak (WHO-China 2020) reports that the total duration of being in hospital for the severely ill patients can be around 3 to 6 weeks.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The inverse of R8 depicts the time span spent in ICU before discharge .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we assume that patients who are recovering in ICU do not spend much time in general hospital care .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "1/R8 is also presumably dependent on age ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with more severe courses and thus prolonged ICU admission needed for high risk individuals , such as aged patients .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "WHO-China joint mission on COVID-19 outbreak ( WHO-China 2020 ) reports that the total duration of being in hospital for the severely ill patients can be around 3 to 6 weeks .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "This gives us a range of possible values because:",
+      "sentences": [
+        [
+          {
+            "segment_text": "This gives us a range of possible values because :",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": ". CC-BY-NC-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+      "sentences": [
+        [
+          {
+            "segment_text": ".",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "CC-BY-NC-ND 4.0 International license It is made available under a is the author/funder ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "who has granted medRxiv a license to display the preprint in perpetuity .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "(which was not peer-reviewed) The copyright holder for this preprint .",
+      "sentences": [
+        [
+          {
+            "segment_text": "( which was not peer-reviewed ) The copyright holder for this preprint .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "6",
+    "sentence_num": "21",
+    "segment_num": "32",
+    "token_num": "539"
+  }
+}

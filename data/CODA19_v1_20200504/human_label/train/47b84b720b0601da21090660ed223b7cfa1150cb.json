@@ -1,0 +1,113 @@
+{
+  "paper_id": "47b84b720b0601da21090660ed223b7cfa1150cb",
+  "metadata": {
+    "title": "Monitoring Influenza Activity in the United States: A Comparison of Traditional Surveillance Systems with Google Flu Trends",
+    "coda_data_split": "train",
+    "coda_paper_id": 7855,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Google Flu Trends was developed to estimate US influenza-like illness (ILI) rates from internet searches; however ILI does not necessarily correlate with actual influenza virus infections.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Google Flu Trends was developed to estimate US influenza-like illness ( ILI ) rates from internet searches ; however ILI does not necessarily correlate with actual influenza virus infections .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Findings: Influenza activity data from 2003-04 through 2007-08 were obtained from three US surveillance systems: Google Flu Trends, CDC Outpatient ILI Surveillance Network (CDC ILI Surveillance), and US Influenza Virologic Surveillance System (CDC Virus Surveillance). Pearson\u0027s correlation coefficients with 95% confidence intervals (95% CI) were calculated to compare surveillance data. An analysis was performed to investigate outlier observations and determine the extent to which they affected the correlations between surveillance data. Pearson\u0027s correlation coefficient describing Google Flu Trends and CDC Virus Surveillance over the study period was 0.72 (95% CI: 0.64, 0.79). The correlation between CDC ILI Surveillance and CDC Virus Surveillance over the same period was 0.85 (95% CI: 0.81, 0.89). Most of the outlier observations in both comparisons were from the 2003-04 influenza season. Exclusion of the outlier observations did not substantially improve the correlation between Google Flu Trends and CDC Virus Surveillance (0.82; 95% CI: 0.76, 0.87) or CDC ILI Surveillance and CDC Virus Surveillance (0.86; 95%CI: 0.82, 0.90).",
+      "sentences": [
+        [
+          {
+            "segment_text": "Findings : Influenza activity data from 2003-04 through 2007-08 were obtained from three US surveillance systems : Google Flu Trends ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "CDC Outpatient ILI Surveillance Network ( CDC ILI Surveillance ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and US Influenza Virologic Surveillance System ( CDC Virus Surveillance ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Pearson \u0027s correlation coefficients with 95 % confidence intervals ( 95 % CI ) were calculated to compare surveillance data .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "An analysis was performed to investigate outlier observations and determine the extent to which they affected the correlations between surveillance data .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Pearson \u0027s correlation coefficient describing Google Flu Trends and CDC Virus Surveillance over the study period was 0.72 ( 95 % CI : 0.64 , 0.79 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The correlation between CDC ILI Surveillance and CDC Virus Surveillance over the same period was 0.85 ( 95 % CI : 0.81 , 0.89 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Most of the outlier observations in both comparisons were from the 2003-04 influenza season .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Exclusion of the outlier observations did not substantially improve the correlation between Google Flu Trends and CDC Virus Surveillance ( 0.82 ; 95 % CI : 0.76 , 0.87 ) or CDC ILI Surveillance and CDC Virus Surveillance ( 0.86 ; 95 % CI : 0.82 , 0.90 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Conclusions: This analysis demonstrates that while Google Flu Trends is highly correlated with rates of ILI, it has a lower correlation with surveillance for laboratory-confirmed influenza. Most of the outlier observations occurred during the 2003-04 influenza season that was characterized by early and intense influenza activity, which potentially altered health care seeking behavior, physician testing practices, and internet search behavior.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Conclusions : This analysis demonstrates that while Google Flu Trends is highly correlated with rates of ILI ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "it has a lower correlation with surveillance for laboratory-confirmed influenza .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Most of the outlier observations occurred during the 2003-04 influenza season that was characterized by early and intense influenza activity ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which potentially altered health care seeking behavior ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "physician testing practices , and internet search behavior .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "10",
+    "segment_num": "15",
+    "token_num": "305"
+  }
+}

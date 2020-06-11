@@ -1,0 +1,67 @@
+{
+  "paper_id": "d8adb6cbcaecb60b51fafaf0d20c1b1218207fc0",
+  "metadata": {
+    "title": "PEDV ORF3 encodes an ion channel protein and regulates virus production",
+    "coda_data_split": "train",
+    "coda_paper_id": 8795,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Several studies suggest that the open reading frame 3 (ORF3) gene of porcine epidemic diarrhea virus (PEDV) is related to viral infectivity and pathogenicity, but its function remains unknown. Here, we propose a structure model of the ORF3 protein consisting of four TM domains and forming a tetrameric assembly. ORF3 protein can be detected in PEDV-infected cells and it functions as an ion channel in both Xenopus laevis oocytes and yeast. Mutation analysis showed that Tyr170 in TM4 is important for potassium channel activity. Furthermore, viral production is reduced in infected Vero cells when ORF3 gene is silenced by siRNA. Interestingly, the ORF3 gene from an attenuated PEDV encodes a truncated protein with 49 nucleotide deletions, which lacks the ion channel activity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Several studies suggest that the open reading frame 3 ( ORF3 ) gene of porcine epidemic diarrhea virus ( PEDV ) is related to viral infectivity and pathogenicity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but its function remains unknown .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we propose a structure model of the ORF3 protein consisting of four TM domains and forming a tetrameric assembly .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "ORF3 protein can be detected in PEDV-infected cells and it functions as an ion channel in both Xenopus laevis oocytes and yeast .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Mutation analysis showed that Tyr170 in TM4 is important for potassium channel activity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , viral production is reduced in infected Vero cells when ORF3 gene is silenced by siRNA .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Interestingly , the ORF3 gene from an attenuated PEDV encodes a truncated protein with 49 nucleotide deletions ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which lacks the ion channel activity .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "8",
+    "token_num": "137"
+  }
+}

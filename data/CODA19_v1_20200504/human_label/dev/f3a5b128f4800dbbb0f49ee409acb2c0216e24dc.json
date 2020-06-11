@@ -1,0 +1,101 @@
+{
+  "paper_id": "f3a5b128f4800dbbb0f49ee409acb2c0216e24dc",
+  "metadata": {
+    "title": "Estimating Sensitivity of Laboratory Testing for Influenza in Canada through Modelling",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1099,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: The weekly proportion of laboratory tests that are positive for influenza is used in public health surveillance systems to identify periods of influenza activity. We aimed to estimate the sensitivity of influenza testing in Canada based on results of a national respiratory virus surveillance system.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : The weekly proportion of laboratory tests that are positive for influenza is used in public health surveillance systems to identify periods of influenza activity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We aimed to estimate the sensitivity of influenza testing in Canada based on results of a national respiratory virus surveillance system .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The weekly number of influenza-negative tests from 1999 to 2006 was modelled as a function of laboratory-confirmed positive tests for influenza, respiratory syncytial virus (RSV), adenovirus and parainfluenza viruses, seasonality, and trend using Poisson regression. Sensitivity was calculated as the number of influenza positive tests divided by the number of influenza positive tests plus the model-estimated number of false negative tests. The sensitivity of influenza testing was estimated to be 33% (95%CI 32-34%), varying from 30-40% depending on the season and region.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The weekly number of influenza-negative tests from 1999 to 2006 was modelled as a function of laboratory-confirmed positive tests for influenza ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "respiratory syncytial virus ( RSV ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "adenovirus and parainfluenza viruses , seasonality ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and trend using Poisson regression .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Sensitivity was calculated as the number of influenza positive tests divided by the number of influenza positive tests plus the model-estimated number of false negative tests .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The sensitivity of influenza testing was estimated to be 33 % ( 95 % CI 32-34 % ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "varying from 30-40 % depending on the season and region .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The estimated sensitivity of influenza tests reported to this national laboratory surveillance system is considerably less than reported test characteristics for most laboratory tests. A number of factors may explain this difference, including sample quality and specimen procurement issues as well as test characteristics. Improved diagnosis would permit better estimation of the burden of influenza.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The estimated sensitivity of influenza tests reported to this national laboratory surveillance system is considerably less than reported test characteristics for most laboratory tests .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A number of factors may explain this difference ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including sample quality and specimen procurement issues as well as test characteristics .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Improved diagnosis would permit better estimation of the burden of influenza .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "8",
+    "segment_num": "13",
+    "token_num": "207"
+  }
+}

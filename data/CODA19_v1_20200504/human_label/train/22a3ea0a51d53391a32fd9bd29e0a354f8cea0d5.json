@@ -1,0 +1,51 @@
+{
+  "paper_id": "22a3ea0a51d53391a32fd9bd29e0a354f8cea0d5",
+  "metadata": {
+    "title": "Identifying Inhibitors of the SARS Coronavirus Proteinase",
+    "coda_data_split": "train",
+    "coda_paper_id": 2765,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The Severe Acute Respiratory Syndrome (SARS) is a serious respiratory illness that has recently been reported in parts of Asia and Canada. In this study, we use molecular dynamics (MD) simulations and docking techniques to screen 29 approved and experimental drugs against the theoretical model of the SARS CoV proteinase as well as the experimental structure of the transmissible gastroenteritis virus (TGEV) proteinase. Our predictions indicate that existing HIV-1 protease inhibitors, l-700,417 for instance, have high binding affinities and may provide good starting points for designing SARS CoV proteinase inhibitors. #",
+      "sentences": [
+        [
+          {
+            "segment_text": "The Severe Acute Respiratory Syndrome ( SARS ) is a serious respiratory illness that has recently been reported in parts of Asia and Canada .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we use molecular dynamics ( MD ) simulations and docking techniques to screen 29 approved and experimental drugs against the theoretical model of the SARS CoV proteinase as well as the experimental structure of the transmissible gastroenteritis virus ( TGEV ) proteinase .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our predictions indicate that existing HIV-1 protease inhibitors ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "l-700,417 for instance , have high binding affinities and may provide good starting points for designing SARS CoV proteinase inhibitors .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "#",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "4",
+    "segment_num": "5",
+    "token_num": "103"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "paper_id": "27f774dd62b31a5a4eea0c86fa63e357a3137eec",
+  "metadata": {
+    "title": "Comprehensive analysis of T cell epitope discovery strategies using 17DD yellow fever virus structural proteins and BALB/c (H2 d ) mice model",
+    "coda_data_split": "train",
+    "coda_paper_id": 8111,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Immunomics research uses in silico epitope prediction, as well as in vivo and in vitro approaches. We inoculated BALB/c (H2 d ) mice with 17DD yellow fever vaccine to investigate the correlations between approaches used for epitope discovery: ELISPOT assays, binding assays, and prediction software. Our results showed a good agreement between ELISPOT and binding assays, which seemed to correlate with the protein immunogenicity. PRED BALB/c prediction software partially agreed with the ELISPOT and binding assay results, but presented low specificity. The use of prediction software to exclude peptides containing no epitopes, followed by high throughput screening of the remaining peptides by ELISPOT, and the use of MHC-biding assays to characterize the MHC restrictions demonstrated to be an efficient strategy. The results allowed the characterization of 2 MHC class I and 17 class II epitopes in the envelope protein of the YF virus in BALB/c (H2 d ) mice.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Immunomics research uses in silico epitope prediction ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as well as in vivo and in vitro approaches .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We inoculated BALB/c ( H2 d ) mice with 17DD yellow fever vaccine to investigate the correlations between approaches used for epitope discovery : ELISPOT assays ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "binding assays , and prediction software .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our results showed a good agreement between ELISPOT and binding assays ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which seemed to correlate with the protein immunogenicity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "PRED BALB/c prediction software partially agreed with the ELISPOT and binding assay results , but presented low specificity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The use of prediction software to exclude peptides containing no epitopes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "followed by high throughput screening of the remaining peptides by ELISPOT ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the use of MHC-biding assays to characterize the MHC restrictions demonstrated to be an efficient strategy .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results allowed the characterization of 2 MHC class I and 17 class II epitopes in the envelope protein of the YF virus in BALB/c ( H2 d ) mice .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "11",
+    "token_num": "165"
+  }
+}

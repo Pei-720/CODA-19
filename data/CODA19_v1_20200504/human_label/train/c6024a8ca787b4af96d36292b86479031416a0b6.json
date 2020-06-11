@@ -1,0 +1,168 @@
+{
+  "paper_id": "c6024a8ca787b4af96d36292b86479031416a0b6",
+  "metadata": {
+    "title": "A fast and robust iterative algorithm for prediction of RNA pseudoknotted secondary structures",
+    "coda_data_split": "train",
+    "coda_paper_id": 10746,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Improving accuracy and efficiency of computational methods that predict pseudoknotted RNA secondary structures is an ongoing challenge. Existing methods based on free energy minimization tend to be very slow and are limited in the types of pseudoknots that they can predict. Incorporating known structural information can improve prediction accuracy; however, there are not many methods for prediction of pseudoknotted structures that can incorporate structural information as input. There is even less understanding of the relative robustness of these methods with respect to partial information.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Improving accuracy and efficiency of computational methods that predict pseudoknotted RNA secondary structures is an ongoing challenge .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Existing methods based on free energy minimization tend to be very slow and are limited in the types of pseudoknots that they can predict .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Incorporating known structural information can improve prediction accuracy ; however ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "there are not many methods for prediction of pseudoknotted structures that can incorporate structural information as input .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "There is even less understanding of the relative robustness of these methods with respect to partial information .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We present a new method, Iterative HFold, for pseudoknotted RNA secondary structure prediction. Iterative HFold takes as input a pseudoknot-free structure, and produces a possibly pseudoknotted structure whose energy is at least as low as that of any (density-2) pseudoknotted structure containing the input structure. Iterative HFold leverages strengths of earlier methods, namely the fast running time of HFold, a method that is based on the hierarchical folding hypothesis, and the energy parameters of HotKnots V2.0. Our experimental evaluation on a large data set shows that Iterative HFold is robust with respect to partial information, with average accuracy on pseudoknotted structures steadily increasing from roughly 54% to 79% as the user provides up to 40% of the input structure. Iterative HFold is much faster than HotKnots V2.0, while having comparable accuracy. Iterative HFold also has significantly better accuracy than IPknot on our HK-PK and IP-pk168 data sets.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We present a new method ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "Iterative HFold , for pseudoknotted RNA secondary structure prediction .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Iterative HFold takes as input a pseudoknot-free structure ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and produces a possibly pseudoknotted structure whose energy is at least as low as that of any ( density-2 ) pseudoknotted structure containing the input structure .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Iterative HFold leverages strengths of earlier methods ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "namely the fast running time of HFold ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "a method that is based on the hierarchical folding hypothesis ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and the energy parameters of HotKnots V2 .0 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our experimental evaluation on a large data set shows that Iterative HFold is robust with respect to partial information ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with average accuracy on pseudoknotted structures steadily increasing from roughly 54 % to 79 % as the user provides up to 40 % of the input structure .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Iterative HFold is much faster than HotKnots V2 .0 , while having comparable accuracy .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Iterative HFold also has significantly better accuracy than IPknot on our HK-PK and IP-pk168 data sets .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Iterative HFold is a robust method for prediction of pseudoknotted RNA secondary structures, whose accuracy with more than 5% information about true pseudoknot-free structures is better than that of IPknot, and with about 35% information about true pseudoknot-free structures compares well with that of HotKnots V2.0 while being significantly faster. Iterative HFold and all data used in this work are freely available at computational methods for prediction of RNA structure are valuable.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Iterative HFold is a robust method for prediction of pseudoknotted RNA secondary structures ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "whose accuracy with more than 5 % information about true pseudoknot-free structures is better than that of IPknot ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and with about 35 % information about true pseudoknot-free structures compares well with that of HotKnots V2 .0 while being significantly faster .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Iterative HFold and all data used in this work are freely available at computational methods for prediction of RNA structure are valuable .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Currently computational RNA structure prediction methods mainly focus on predicting RNA secondary structure-the set of base pairs that form when RNA molecules fold. When multiple homologous (evolutionarily related) RNA sequences are available, the secondary structure of the sequences can be predicted using multiple sequence alignment and comparative sequence analysis [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] . Alternative approaches, which can be used to predict secondary structure of a single sequence, are",
+      "sentences": [
+        [
+          {
+            "segment_text": "Currently computational RNA structure prediction methods mainly focus on predicting RNA secondary structure-the set of base pairs that form when RNA molecules fold .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "When multiple homologous ( evolutionarily related ) RNA sequences are available ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the secondary structure of the sequences can be predicted using multiple sequence alignment and comparative sequence analysis ( 11 ) ( 12 ) ( 13 ) ( 14 ) ( 15 ) ( 16 ) ( 17 ) ( 18 ) ( 19 ) ( 20 ) ( 21 ) ( 22 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Alternative approaches , which can be used to predict secondary structure of a single sequence , are",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "15",
+    "segment_num": "25",
+    "token_num": "446"
+  }
+}

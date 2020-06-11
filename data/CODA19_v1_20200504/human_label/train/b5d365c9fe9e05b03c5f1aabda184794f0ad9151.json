@@ -1,0 +1,97 @@
+{
+  "paper_id": "b5d365c9fe9e05b03c5f1aabda184794f0ad9151",
+  "metadata": {
+    "title": "Poliovirus Replication Requires the N-terminus but not the Catalytic Sec7 Domain of ArfGEF GBF1",
+    "coda_data_split": "train",
+    "coda_paper_id": 9920,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Viruses are intracellular parasites whose reproduction relies on factors provided by the host. The cellular protein GBF1 is critical for poliovirus replication. Here we show that the contribution of GBF1 to virus replication is different from its known activities in uninfected cells. Normally GBF1 activates the Arf GTPases necessary for formation of COPI transport vesicles. GBF1 function is modulated by p115 and Rab1b. However, in polio-infected cells, p115 is degraded and neither p115 nor Rab1b knock-down affects virus replication. Poliovirus infection is very sensitive to BFA, an inhibitor of Arf activation by GBF1. BFA targets the catalytic Sec7 domain of GBF1. Nevertheless the BFA block of polio replication is rescued by expression of only the N-terminal region of GBF1 lacking the Sec7 domain. Replication of BFA-resistant poliovirus in the presence of BFA is uncoupled from Arf activation but is dependent on GBF1. Thus the function(s) of this protein essential for viral replication can be separated from those required for cellular metabolism.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Viruses are intracellular parasites whose reproduction relies on factors provided by the host .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The cellular protein GBF1 is critical for poliovirus replication .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we show that the contribution of GBF1 to virus replication is different from its known activities in uninfected cells .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Normally GBF1 activates the Arf GTPases necessary for formation of COPI transport vesicles .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "GBF1 function is modulated by p115 and Rab1b .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , in polio-infected cells ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "p115 is degraded and neither p115 nor Rab1b knock-down affects virus replication .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Poliovirus infection is very sensitive to BFA ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "an inhibitor of Arf activation by GBF1 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "BFA targets the catalytic Sec7 domain of GBF1 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Nevertheless the BFA block of polio replication is rescued by expression of only the N-terminal region of GBF1 lacking the Sec7 domain .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Replication of BFA-resistant poliovirus in the presence of BFA is uncoupled from Arf activation but is dependent on GBF1 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus the function ( s ) of this protein essential for viral replication can be separated from those required for cellular metabolism .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "11",
+    "segment_num": "13",
+    "token_num": "178"
+  }
+}

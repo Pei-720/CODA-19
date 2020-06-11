@@ -1,0 +1,154 @@
+{
+  "paper_id": "092193fe026d59729062786d8f576b553e11a97d",
+  "metadata": {
+    "title": "Network-based analysis of comorbidities risk during an infection: SARS and HIV case studies",
+    "coda_data_split": "train",
+    "coda_paper_id": 8077,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Infections are often associated to comorbidity that increases the risk of medical conditions which can lead to further morbidity and mortality. SARS is a threat which is similar to MERS virus, but the comorbidity is the key aspect to underline their different impacts. One UK doctor says \"I\u0027d rather have HIV than diabetes\" as life expectancy among diabetes patients is lower than that of HIV. However, HIV has a comorbidity impact on the diabetes. Results: We present a quantitative framework to compare and explore comorbidity between diseases. By using neighbourhood based benchmark and topological methods, we have built comorbidity relationships network based on the OMIM and our identified significant genes. Then based on the gene expression, PPI and signalling pathways data, we investigate the comorbidity association of these 2 infective pathologies with other 7 diseases (heart failure, kidney disorder, breast cancer, neurodegenerative disorders, bone diseases, Type 1 and Type 2 diabetes). Phenotypic association is measured by calculating both the Relative Risk as the quantified measures of comorbidity tendency of two disease pairs and the φ-correlation to measure the robustness of the comorbidity associations. The differential gene expression profiling strongly suggests that the response of SARS affected patients seems to be mainly an innate inflammatory response and statistically dysregulates a large number of genes, pathways and PPIs subnetworks in different pathologies such as chronic heart failure (21 genes), breast cancer (16 genes) and bone diseases (11 genes). HIV-1 induces comorbidities relationship with many other diseases, particularly strong correlation with the neurological, cancer, metabolic and immunological diseases. Similar comorbidities risk is observed from the clinical information. Moreover, SARS and HIV infections dysregulate 4 genes (ANXA3, GNS, HIST1H1C, RASA3) and 3 genes (HBA1, TFRC, GHITM) respectively that affect the ageing process. It is notable that HIV and SARS similarly dysregulated 11 genes and 3 pathways. Only 4 significantly dysregulated genes are common between SARS-CoV and MERS-CoV, including NFKBIA that is a key regulator of immune responsiveness implicated in susceptibility to infectious and inflammatory diseases.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Infections are often associated to comorbidity that increases the risk of medical conditions which can lead to further morbidity and mortality .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "SARS is a threat which is similar to MERS virus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but the comorbidity is the key aspect to underline their different impacts .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "One UK doctor says `` I \u0027d rather have HIV than diabetes \u0027\u0027 as life expectancy among diabetes patients is lower than that of HIV .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , HIV has a comorbidity impact on the diabetes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results : We present a quantitative framework to compare and explore comorbidity between diseases .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "By using neighbourhood based benchmark and topological methods ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we have built comorbidity relationships network based on the OMIM and our identified significant genes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Then based on the gene expression ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "PPI and signalling pathways data ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we investigate the comorbidity association of these 2 infective pathologies with other 7 diseases ( heart failure , kidney disorder , breast cancer , neurodegenerative disorders , bone diseases , Type 1 and Type 2 diabetes ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Phenotypic association is measured by calculating both the Relative Risk as the quantified measures of comorbidity tendency of two disease pairs and the φ-correlation to measure the robustness of the comorbidity associations .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The differential gene expression profiling strongly suggests that the response of SARS affected patients seems to be mainly an innate inflammatory response and statistically dysregulates a large number of genes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "pathways and PPIs subnetworks in different pathologies such as chronic heart failure ( 21 genes ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "breast cancer ( 16 genes ) and bone diseases ( 11 genes ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "HIV-1 induces comorbidities relationship with many other diseases ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "particularly strong correlation with the neurological ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "cancer , metabolic and immunological diseases .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Similar comorbidities risk is observed from the clinical information .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , SARS and HIV infections dysregulate 4 genes ( ANXA3 , GNS , HIST1H1C , RASA3 ) and 3 genes ( HBA1 , TFRC , GHITM ) respectively that affect the ageing process .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is notable that HIV and SARS similarly dysregulated 11 genes and 3 pathways .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Only 4 significantly dysregulated genes are common between SARS-CoV and MERS-CoV ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including NFKBIA that is a key regulator of immune responsiveness implicated in susceptibility to infectious and inflammatory diseases .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Our method presents a ripe opportunity to use data-driven approaches for advancing our current knowledge on disease mechanism and predicting disease comorbidities in a quantitative way.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Our method presents a ripe opportunity to use data-driven approaches for advancing our current knowledge on disease mechanism and predicting disease comorbidities in a quantitative way .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "15",
+    "segment_num": "24",
+    "token_num": "412"
+  }
+}

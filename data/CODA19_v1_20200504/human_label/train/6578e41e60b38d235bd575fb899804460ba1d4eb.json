@@ -1,0 +1,245 @@
+{
+  "paper_id": "6578e41e60b38d235bd575fb899804460ba1d4eb",
+  "metadata": {
+    "title": "Supplemental Information Structure and Function Analysis of an Antibody Recognizing All Influenza A Subtypes",
+    "coda_data_split": "train",
+    "coda_paper_id": 10395,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "SJG), and John.Skehel@crick.ac.uk (JJS)",
+      "sentences": [
+        [
+          {
+            "segment_text": "SJG ) , and John.Skehel@crick.ac.uk ( JJS )",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "SUPPLEMENTAL EXPERIMENTAL PROCEDURES:",
+      "sentences": [
+        [
+          {
+            "segment_text": "SUPPLEMENTAL EXPERIMENTAL PROCEDURES :",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Monoclonal antibody isolation was perfomed as previously described (Pappas et al., 2014; Traggiai et al., 2004) . In brief, peripheral blood mononuclear cell (PBMC) samples were obtained from a single healthy donor after vaccination following written consent. Memory B cells were isolated from cryopreserved or fresh PBMCs using CD22 microbeads or anti-FITC (fluorescein isothiocyanate) microbeads (Miltenyi Biotec) after staining of PBMCs with CD22-FITC, and were immortalized with Epstein-Barr virus (EBV) and CpG in multiple wells. Supernatants of immortalized B cell clones containing monoclonal antibodies were screened for binding to HA proteins representing two different HA subtypes. Using this methodology, we identified a monoclonal from primary screening in ELISA assay that showed crossreactive binding to recombinant HA proteins of A/Vietnam/2005 H5N1 and A/ Netherlands/2003 H7N7. Variable gene sequences were isolated from this cross-reactive clone by RT-PCR, cloned and expressed as a full-length IgG transiently in 293 T cells. The lead FY1 antibody was further modified to revert the non-germline framework amino acid changes and affinity optimize the CDRs. For the affinity optimization, full-length IgG constructs containing the different variants created by CDR based parsimonious mutagenesis were expressed transiently in 293 T cells and supernatants were screened by ELISA to select clones that resulted in increased binding activity to H3 while maintaining or increasing the binding activity to H1 HA proteins. Coating concentrations of 0.15 µg/ml of rabbit anti-human IgG were used to capture and normalize variant IgG constructs from supernatants, and binding was probed using 0.5 µg/ml of biotinylated HA proteins A/Perth/2009 H3N2 and A/California/7/2009 H1N1 followed by the addition of streptavidin-HRP (1:5000). Beneficial single mutations were combined and cloned into a combinatorial library, which were expressed and screened by ELISA as described above, leading to the generation of MEDI8852.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Monoclonal antibody isolation was perfomed as previously described ( Pappas et al. , 2014 ; Traggiai et al. , 2004 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In brief , peripheral blood mononuclear cell ( PBMC ) samples were obtained from a single healthy donor after vaccination following written consent .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Memory B cells were isolated from cryopreserved or fresh PBMCs using CD22 microbeads or anti-FITC ( fluorescein isothiocyanate ) microbeads ( Miltenyi Biotec ) after staining of PBMCs with CD22-FITC ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and were immortalized with Epstein-Barr virus ( EBV ) and CpG in multiple wells .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Supernatants of immortalized B cell clones containing monoclonal antibodies were screened for binding to HA proteins representing two different HA subtypes .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using this methodology , we identified a monoclonal from primary screening in ELISA assay that showed crossreactive binding to recombinant HA proteins of A/Vietnam/2005 H5N1 and A / Netherlands/2003 H7N7 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Variable gene sequences were isolated from this cross-reactive clone by RT-PCR ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "cloned and expressed as a full-length IgG transiently in 293 T cells .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The lead FY1 antibody was further modified to revert the non-germline framework amino acid changes and affinity optimize the CDRs .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "For the affinity optimization , full-length IgG constructs containing the different variants created by CDR based parsimonious mutagenesis were expressed transiently in 293 T cells and supernatants were screened by ELISA to select clones that resulted in increased binding activity to H3 while maintaining or increasing the binding activity to H1 HA proteins .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Coating concentrations of 0.15 µg/ml of rabbit anti-human IgG were used to capture and normalize variant IgG constructs from supernatants ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and binding was probed using 0.5 µg/ml of biotinylated HA proteins A/Perth/2009 H3N2 and A/California/7 / 2009 H1N1 followed by the addition of streptavidin-HRP ( 1:5000 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Beneficial single mutations were combined and cloned into a combinatorial library ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which were expressed and screened by ELISA as described above ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "leading to the generation of MEDI8852 .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The DNA Maximum Likelihood program (Dnaml) of the PHYLIP package, version 3.69, was used to estimate immunoglobulin phylogenies from nucleotide sequences that were first aligned using ClustalW2, as previously described12. IgHCDR3 regions were defined with their Kabat numbering using the software available on the Abnum website (http://www.bioinf.org.uk/abs/abnum/). The V, D and J genes of the IgH DNA sequences were identified using the IMGT database as a reference (Brochet et al., 2008; Ye et al., 2013) . The UCA sequences were inferred with Antigen Receptor Probabilistic Parser (ARPP) UA Inference software (Kepler, 2013) , and produced by gene synthesis (Genscript). Branchpoint antibodies were determined by the antibody phylogenetic tree derived by dnaml, and produced by gene synthesis (Genscript).",
+      "sentences": [
+        [
+          {
+            "segment_text": "The DNA Maximum Likelihood program ( Dnaml ) of the PHYLIP package ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "version 3.69 , was used to estimate immunoglobulin phylogenies from nucleotide sequences that were first aligned using ClustalW2 , as previously described12 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "IgHCDR3 regions were defined with their Kabat numbering using the software available on the Abnum website ( http://www.bioinf.org.uk/abs/abnum/ ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The V , D and J genes of the IgH DNA sequences were identified using the IMGT database as a reference ( Brochet et al. , 2008 ; Ye et al. , 2013 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The UCA sequences were inferred with Antigen Receptor Probabilistic Parser ( ARPP ) UA Inference software ( Kepler , 2013 ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and produced by gene synthesis ( Genscript ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Branchpoint antibodies were determined by the antibody phylogenetic tree derived by dnaml ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and produced by gene synthesis ( Genscript ) .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Recombinant HA proteins were expressed and purified as previously described (Benjamin et al., 2014) ELISA binding assays were performed using 384 well plates (Maxisorp, Nunc) with 0.5 µg/ml of purified HA protein as described in Table S2 . ELISA plates were washed, blocked 1% (w/v) casein (Thermo Scientific), and serially diluted antibodies were incubated for 1 hr at room temperature. Bound antibodies were detected using a peroxidase-conjugated mouse anti-human IgG antibody (KPL 1:10,000), followed by development with TMB solution (KPL). The absorbance at 450nm was measured, and EC 50 values were calculated using a non-linear regression of log (inhibitor) vs response in Graph Pad Prism. Cell surface expressed protein binding assays were conducted using flow cytometry to detect binding of antibodies to HA transfected cells. HEK 293 cells were transiently transfected with full-length wild type HA expressing plasmids. Forty-eight hours after transfection, cells were detached with trypsin, and incubated with 5 µg/ml of FY1 or MEDI8852 on ice for 1 hour. Antibody remaining bound to surface expressed HA protein after washing was then stained with a goat anti-human IgG Daylight 649 (Jackson ImmunoResearch), and detected by flow cytometry.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Recombinant HA proteins were expressed and purified as previously described ( Benjamin et al. , 2014 ) ELISA binding assays were performed using 384 well plates ( Maxisorp , Nunc ) with 0.5 µg/ml of purified HA protein as described in Table S2 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "ELISA plates were washed , blocked 1 % ( w/v ) casein ( Thermo Scientific ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and serially diluted antibodies were incubated for 1 hr at room temperature .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Bound antibodies were detected using a peroxidase-conjugated mouse anti-human IgG antibody ( KPL 1:10,000 ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "followed by development with TMB solution ( KPL ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The absorbance at 450nm was measured ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and EC 50 values were calculated using a non-linear regression of log ( inhibitor ) vs response in Graph Pad Prism .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Cell surface expressed protein binding assays were conducted using flow cytometry to detect binding of antibodies to HA transfected cells .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "HEK 293 cells were transiently transfected with full-length wild type HA expressing plasmids .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Forty-eight hours after transfection , cells were detached with trypsin ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and incubated with 5 µg/ml of FY1 or MEDI8852 on ice for 1 hour .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Antibody remaining bound to surface expressed HA protein after washing was then stained with a goat anti-human IgG Daylight 649 ( Jackson ImmunoResearch ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and detected by flow cytometry .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "25",
+    "segment_num": "38",
+    "token_num": "701"
+  }
+}

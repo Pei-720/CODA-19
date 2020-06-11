@@ -1,0 +1,95 @@
+{
+  "paper_id": "a50e3d5be9d24e4880d185f2735911820935a97d",
+  "metadata": {
+    "title": "A cross-classified and multiple membership Cox model applied to calf mortality data",
+    "coda_data_split": "train",
+    "coda_paper_id": 4558,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "A cross-classified and multiple membership Cox model was applied to calf mortality data from Western Canada, where 23,409 calves from 174 herds were followed for up to 180 days after calving. The herds were cross-classified by 49 veterinary clinics and 9 ecological regions and in a multiple membership relation to the veterinary clinics, resulting in a 3level cross-classified and multiple membership data structure. The model was formulated in a mixed-effects Poisson model framework with normally distributed random effects, and was fitted to the data by Bayesian Markov Chain Monte Carlo (MCMC) estimation. Important fixed effects included whether the calf was a twin, calf gender, assistance at calving, cow age, average temperature the first week after calving, the percentage of the herd that had already calved, whether calf shelters were provided, whether cow-calf pairs were moved to a nursery area, and whether any animals were purchased into the herd at or near the time of calving. The analysis demonstrated a greater variation among herds than among both ecological regions and veterinary clinics. Further, a simulation study for a setting similar to the real data gave evidence that the used approach provides valid estimates.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A cross-classified and multiple membership Cox model was applied to calf mortality data from Western Canada ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "where 23,409 calves from 174 herds were followed for up to 180 days after calving .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The herds were cross-classified by 49 veterinary clinics and 9 ecological regions and in a multiple membership relation to the veterinary clinics ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "resulting in a 3level cross-classified and multiple membership data structure .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The model was formulated in a mixed-effects Poisson model framework with normally distributed random effects ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and was fitted to the data by Bayesian Markov Chain Monte Carlo ( MCMC ) estimation .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Important fixed effects included whether the calf was a twin ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "calf gender , assistance at calving ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "cow age , average temperature the first week after calving ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the percentage of the herd that had already calved ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "whether calf shelters were provided ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "whether cow-calf pairs were moved to a nursery area ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and whether any animals were purchased into the herd at or near the time of calving .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The analysis demonstrated a greater variation among herds than among both ecological regions and veterinary clinics .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Further , a simulation study for a setting similar to the real data gave evidence that the used approach provides valid estimates .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "15",
+    "token_num": "212"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "paper_id": "0486ec801eb4e43086b6221019c9860b2086af17",
+  "metadata": {
+    "title": "Modeling and analysis of epidemic spreading on community networks with heterogeneity",
+    "coda_data_split": "train",
+    "coda_paper_id": 9952,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "h i g h l i g h t s",
+      "sentences": [
+        [
+          {
+            "segment_text": "h i g h l i g h t s",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "• A modified community network model with heterogeneity among communities is proposed.",
+      "sentences": [
+        [
+          {
+            "segment_text": "• A modified community network model with heterogeneity among communities is proposed .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "• A mathematical epidemic model for each community is presented based on this network.",
+      "sentences": [
+        [
+          {
+            "segment_text": "• A mathematical epidemic model for each community is presented based on this network .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "• Study the effect of the location of initial infection node on epidemic spreading. • Study the impact of the heterogeneity among communities on epidemic spreading. a b s t r a c t A large number of real world networks exhibit community structure, and different communities may often possess heterogeneity. In this paper, considering the heterogeneity among communities, we construct a new community network model in which the communities show significant differences in average degree. Based on this heterogeneous community network, we propose a novel mathematical epidemic model for each community and study the epidemic dynamics in this network model. We find that the location of the initial infection node only affects the spreading velocity and barely influences the epidemic prevalence. And the epidemic threshold of entire network decreases with the increase of heterogeneity among communities. Moreover, the epidemic prevalence increases with the increase of heterogeneity around the epidemic threshold, while the converse situation holds when the infection rate is much greater than the epidemic threshold. (B. Song). example, the severe acute respiratory syndrome (SARS) in 2003, the H1N1 influenza A virus in 2009, the H7N9 avian influenza virus in 2013, the Ebola virus in 2014 and the Middle East respiratory syndrome coronavirus (MERS-CoV) in 2015. The problem of epidemic spreading has gained great attention over the years and people want to predict the epidemic spread trend and take effective public health measures with limited vaccine supply. As the topology properties of networks have a profound impact on the dynamics of epidemic spreading, it is necessary to consider the effect of community structure on epidemic spreading. So far, a lot of results on epidemic dynamics in community networks have been obtained [12, 14, 16, 29, 30] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "• Study the effect of the location of initial infection node on epidemic spreading .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "• Study the impact of the heterogeneity among communities on epidemic spreading .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "a b s t r a c t A large number of real world networks exhibit community structure ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and different communities may often possess heterogeneity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this paper , considering the heterogeneity among communities ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "we construct a new community network model in which the communities show significant differences in average degree .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Based on this heterogeneous community network ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we propose a novel mathematical epidemic model for each community and study the epidemic dynamics in this network model .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We find that the location of the initial infection node only affects the spreading velocity and barely influences the epidemic prevalence .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "And the epidemic threshold of entire network decreases with the increase of heterogeneity among communities .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , the epidemic prevalence increases with the increase of heterogeneity around the epidemic threshold ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while the converse situation holds when the infection rate is much greater than the epidemic threshold .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( B. Song ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "example , the severe acute respiratory syndrome ( SARS ) in 2003 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the H1N1 influenza A virus in 2009 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the H7N9 avian influenza virus in 2013 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the Ebola virus in 2014 and the Middle East respiratory syndrome coronavirus ( MERS-CoV ) in 2015 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The problem of epidemic spreading has gained great attention over the years and people want to predict the epidemic spread trend and take effective public health measures with limited vaccine supply .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "As the topology properties of networks have a profound impact on the dynamics of epidemic spreading ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "it is necessary to consider the effect of community structure on epidemic spreading .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "So far , a lot of results on epidemic dynamics in community networks have been obtained ( 12 , 14 , 16 , 29 , 30 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "To simulate the real network, many different kinds of community network models were constructed based on classical networks, and some individual behavior characteristics in real networks (such as random walk, long-range jump and awareness) were also taken into account. Liu and Hu studied the SIS (susceptible-infected-susceptible) dynamics on a random community network model with probability p (q) of intra-(inter-)",
+      "sentences": [
+        [
+          {
+            "segment_text": "To simulate the real network ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "many different kinds of community network models were constructed based on classical networks ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and some individual behavior characteristics in real networks ( such as random walk , long-range jump and awareness ) were also taken into account .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Liu and Hu studied the SIS ( susceptible-infected-susceptible ) dynamics on a random community network model with probability p ( q ) of intra - ( inter - )",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "18",
+    "segment_num": "28",
+    "token_num": "436"
+  }
+}

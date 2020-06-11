@@ -1,0 +1,179 @@
+{
+  "paper_id": "c3b36cbef6bc5cbbd9ca8a7ce0d8581a3f7788c3",
+  "metadata": {
+    "title": "",
+    "coda_data_split": "train",
+    "coda_paper_id": 5803,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Table S1 -The detailed description of 133 features Features were grouped into mutation site features and neighborhood features*. The abbreviated feature name is inside the brackets following the full name. Mutation site, sequence features 1. Entropy of superfamily (EntropySuper): Superfamily alignment was obtained from the SAM-T02 web server [1]. Entropy was calculated as ! \"",
+      "sentences": [
+        [
+          {
+            "segment_text": "Table S1 - The detailed description of 133 features Features were grouped into mutation site features and neighborhood features * .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The abbreviated feature name is inside the brackets following the full name .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Mutation site , sequence features 1 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Entropy of superfamily ( EntropySuper ) : Superfamily alignment was obtained from the SAM-T02 web server ( 1 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Entropy was calculated as ! \u0027\u0027",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Pr (x) x\u003d 20 amino acids # Log(Pr(x)) , where Pr(x) represents the probability of each amino acid occurring in that position.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Pr ( x ) x \u003d 20 amino acids # Log ( Pr ( x ) ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "where Pr ( x ) represents the probability of each amino acid occurring in that position .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "2. Relative entropy of superfamily (RelEntropySuper): Entropy was normalized against the distribution of all amino acids in the superfamily alignment:",
+      "sentences": [
+        [
+          {
+            "segment_text": "2 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Relative entropy of superfamily ( RelEntropySuper ) : Entropy was normalized against the distribution of all amino acids in the superfamily alignment :",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Pr (x) x\u003d 20 amino acids \" Log(Pr(x) /Pr(xb)) , where Pr(x) represents the probability of each amino acid in that position and",
+      "sentences": [
+        [
+          {
+            "segment_text": "Pr ( x ) x \u003d 20 amino acids \u0027\u0027 Log ( Pr ( x ) / Pr ( xb ) ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "where Pr ( x ) represents the probability of each amino acid in that position and",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Pr(x b ) represents the overall probability of occurrence of each amino acid in the superfamily alignment.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Pr ( x b ) represents the overall probability of occurrence of each amino acid in the superfamily alignment .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "3. Entropy of subfamily (EntropySub): Subfamily alignment was constructed manually from the superfamily by including ten orthologs having the highest sequence identity to the query. The entropy formula is same as above. 4. Relative entropy of subfamily (RelEntropySub): The above relative entropy formula was applied to the subfamily alignment. 5. Positional hidden Markov model conservation score (PHC): The score was computed by the formula:",
+      "sentences": [
+        [
+          {
+            "segment_text": "3 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Entropy of subfamily ( EntropySub ) : Subfamily alignment was constructed manually from the superfamily by including ten orthologs having the highest sequence identity to the query .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The entropy formula is same as above .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "4 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Relative entropy of subfamily ( RelEntropySub ) : The above relative entropy formula was applied to the subfamily alignment .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "5 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Positional hidden Markov model conservation score ( PHC ) : The score was computed by the formula :",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "! Log(| Pr(wild \" type) \" Pr(mutant) |) + Log(Pr(wild \" type)) + Log(Pr(most favored)) \" Log(Pr(mutant)) [2], where Pr(wild-type),",
+      "sentences": [
+        [
+          {
+            "segment_text": "!",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Log ( | Pr ( wild \u0027\u0027 type ) \u0027\u0027 Pr ( mutant ) | ) + Log ( Pr ( wild \u0027\u0027 type ) ) + Log ( Pr ( most favored ) ) \u0027\u0027 Log ( Pr ( mutant ) ) ( 2 ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "where Pr ( wild-type ) ,",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "7",
+    "sentence_num": "19",
+    "segment_num": "22",
+    "token_num": "320"
+  }
+}

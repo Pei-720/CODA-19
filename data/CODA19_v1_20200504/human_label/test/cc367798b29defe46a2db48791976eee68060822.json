@@ -1,0 +1,160 @@
+{
+  "paper_id": "cc367798b29defe46a2db48791976eee68060822",
+  "metadata": {
+    "title": "Modeling State Interventions 3.1 A Control Theory Model of Disease Control",
+    "coda_data_split": "test",
+    "coda_paper_id": 737,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "In the context of the modern nation state, the ecology of infectious diseases cannot be described by interacting populations alone, as much of the modeling literature implicitly presumes (Wallace and Wallace 2016). Modern states incorporate elaborate public health bureaucracies tasked with either containing or eliminating pathogen outbreaks. States are thus highly cognitive entities at the institutional level. It is then appropriate, indeed arguably necessary, to reconsider vector-borne infection from a control theory perspective.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In the context of the modern nation state ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the ecology of infectious diseases can not be described by interacting populations alone ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as much of the modeling literature implicitly presumes ( Wallace and Wallace 2016 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Modern states incorporate elaborate public health bureaucracies tasked with either containing or eliminating pathogen outbreaks .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "States are thus highly cognitive entities at the institutional level .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is then appropriate , indeed arguably necessary ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "to reconsider vector-borne infection from a control theory perspective .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Cognition, following the model of Atlan and Cohen (1998), involves choosing one of many possible responses to a stimulus. Choice reduces uncertainty in a formal manner, a reduction that implies the existence of an information source (Wallace 2015 (Wallace , 2017 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Cognition , following the model of Atlan and Cohen ( 1998 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "involves choosing one of many possible responses to a stimulus .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Choice reduces uncertainty in a formal manner ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a reduction that implies the existence of an information source ( Wallace 2015 ( Wallace , 2017 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We assume that the underlying two-dimensional disease ecosystem is in explosive mode, i.e., either sudden ecosystem \"smoothing\" has occurred or a change in socioeconomic policy has imposed cross-effect noise, as in Fig. 2 .4 or Eqs. (2.9) and (2.10). Thus the system becomes unstable, and corrective policy must be chosen and imposed, implying not only \"control information\" exists but that it is effective.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We assume that the underlying two-dimensional disease ecosystem is in explosive mode ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "i.e. , either sudden ecosystem `` smoothing \u0027\u0027 has occurred or a change in socioeconomic policy has imposed cross-effect noise ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as in Fig. 2 .4 or Eqs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "( 2.9 ) and ( 2.10 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus the system becomes unstable ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and corrective policy must be chosen and imposed ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "implying not only `` control information \u0027\u0027 exists but that it is effective .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We enter the realm where information and control theories intersect. More precisely, the data rate theorem (DRT) (Nair et al. 2007 ) establishes the minimum rate at which externally supplied control information must be provided for an inherently unstable system to maintain stability. The first approximation assumes a linear expansion near a nonequilibrium steady state, in which actors of a dynamic system produce each other at a constant distribution. An n-dimensional vector of system parameters at time t, say xt, determines the state at time t + 1 according to the model of Fig. 3.1 as ",
+      "sentences": [
+        [
+          {
+            "segment_text": "We enter the realm where information and control theories intersect .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "More precisely , the data rate theorem ( DRT ) ( Nair et al. 2007 ) establishes the minimum rate at which externally supplied control information must be provided for an inherently unstable system to maintain stability .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The first approximation assumes a linear expansion near a nonequilibrium steady state ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "in which actors of a dynamic system produce each other at a constant distribution .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "An n-dimensional vector of system parameters at time t ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "say xt , determines the state at time t + 1 according to the model of Fig. 3.1 as",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "13",
+    "segment_num": "24",
+    "token_num": "319"
+  }
+}

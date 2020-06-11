@@ -1,0 +1,65 @@
+{
+  "paper_id": "169eb7d3419808c29066e6e5ed091a8d54bc214a",
+  "metadata": {
+    "title": "Two RNA-binding sites in plant fibrillarin provide interactions with various RNA substrates",
+    "coda_data_split": "train",
+    "coda_paper_id": 4025,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Fibrillarin, one of the major proteins of the nucleolus, plays several essential roles in ribosome biogenesis including pre-rRNA processing and 2 0 -O-ribose methylation of rRNA and snRNAs. Recently, it has been shown that fibrillarin plays a role in virus infections and is associated with viral RNPs. Here, we demonstrate the ability of recombinant fibrillarin 2 from Arabidopsis thaliana (AtFib2) to interact with RNAs of different lengths and types including rRNA, snoRNA, snRNA, siRNA and viral RNAs in vitro. Our data also indicate that AtFib2 possesses two RNA-binding sites in the central (138-179 amino acids) and C-terminal (225-281 amino acids) parts of the protein, respectively. The conserved GCVYAVEF octamer does not bind RNA directly as suggested earlier, but may assist with the proper folding of the central RNA-binding site.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Fibrillarin , one of the major proteins of the nucleolus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "plays several essential roles in ribosome biogenesis including pre-rRNA processing and 2 0 - O-ribose methylation of rRNA and snRNAs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recently , it has been shown that fibrillarin plays a role in virus infections and is associated with viral RNPs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we demonstrate the ability of recombinant fibrillarin 2 from Arabidopsis thaliana ( AtFib2 ) to interact with RNAs of different lengths and types including rRNA ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "snoRNA , snRNA , siRNA and viral RNAs in vitro .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our data also indicate that AtFib2 possesses two RNA-binding sites in the central ( 138-179 amino acids ) and C-terminal ( 225-281 amino acids ) parts of the protein , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The conserved GCVYAVEF octamer does not bind RNA directly as suggested earlier ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but may assist with the proper folding of the central RNA-binding site .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "8",
+    "token_num": "150"
+  }
+}

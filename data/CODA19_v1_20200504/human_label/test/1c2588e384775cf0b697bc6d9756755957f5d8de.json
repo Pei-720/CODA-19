@@ -1,0 +1,41 @@
+{
+  "paper_id": "1c2588e384775cf0b697bc6d9756755957f5d8de",
+  "metadata": {
+    "title": "Sentinel Disease Signs and Symptoms",
+    "coda_data_split": "test",
+    "coda_paper_id": 834,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Each state has a listing of reportable conditions. Contact your state epidemiologist for more information; http://www.cste.org/dnn/StateEpidemiologists/ tabid/80/Default.aspx.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Each state has a listing of reportable conditions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Contact your state epidemiologist for more information ; http://www.cste.org/dnn/StateEpidemiologists/ tabid/80/Default .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "aspx .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "3",
+    "segment_num": "3",
+    "token_num": "22"
+  }
+}

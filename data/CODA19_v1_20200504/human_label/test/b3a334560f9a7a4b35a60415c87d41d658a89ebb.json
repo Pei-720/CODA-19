@@ -1,0 +1,119 @@
+{
+  "paper_id": "b3a334560f9a7a4b35a60415c87d41d658a89ebb",
+  "metadata": {
+    "title": "A deductive approach to modeling the spread of COVID-19",
+    "coda_data_split": "test",
+    "coda_paper_id": 10,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Severe acute respiratory syndrome coronavirus 2 (SARS-COV-2), previously known as 2019-nCoV, is responsible for the atypical pneumonia pandemic designated as Coronavirus Disease 2019 . The number of cases continues to grow exponentially reaching 492,000 people in 175 countries as of March 25, 2020. 22,169 people (~4.5%) infected with SARS-COV-2 virus have died. We have developed an exponential regression model using the COVID-19 case data (Jan 22 -Mar 22, 2020). Our primary model uses designated Phase 1 countries, who exceed 2500 cases on Mar 22. The model is then applied to Phase 2 countries: those that escaped the initial Phase 1 global expansion of COVID-19. With the exception of stabilizing countries (South Korea, Japan, and Iran) all Phase 1 countries are growing exponentially, as per 2500 ( ) \u003d 120.4 × 0.238 , with a rate, r \u003d 0.238 ± 0.068. Excluding China, the BRICS developing nations and Australia are in Phase 2. Case data from Phase 2 countries are following the model derived from Phase 1 countries. In the absence of measures employed to flatten the curve including social distancing, quarantine, and healthcare expansion, our model projects over 274,000 cases and 12,300 deaths in the US by Mar 31. India can expect 123,000 cases by April 16. By flattening the curve to the growth rate of stabilizing countries (r \u003d 0.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Severe acute respiratory syndrome coronavirus 2 ( SARS-COV-2 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "previously known as 2019-nCoV , is responsible for the atypical pneumonia pandemic designated as Coronavirus Disease 2019 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The number of cases continues to grow exponentially reaching 492,000 people in 175 countries as of March 25 , 2020 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "22,169 people ( ~ 4.5 % ) infected with SARS-COV-2 virus have died .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We have developed an exponential regression model using the COVID-19 case data ( Jan 22 - Mar 22 , 2020 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our primary model uses designated Phase 1 countries ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "who exceed 2500 cases on Mar 22 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The model is then applied to Phase 2 countries : those that escaped the initial Phase 1 global expansion of COVID-19 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "With the exception of stabilizing countries ( South Korea , Japan , and Iran ) all Phase 1 countries are growing exponentially ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "as per 2500 ( ) \u003d 120.4 × 0.238 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "with a rate , r \u003d 0.238 ± 0.068 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Excluding China , the BRICS developing nations and Australia are in Phase 2 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Case data from Phase 2 countries are following the model derived from Phase 1 countries .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the absence of measures employed to flatten the curve including social distancing ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "quarantine , and healthcare expansion ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "our model projects over 274,000 cases and 12,300 deaths in the US by Mar 31 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "India can expect 123,000 cases by April 16 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "By flattening the curve to the growth rate of stabilizing countries ( r \u003d 0 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "12",
+    "segment_num": "18",
+    "token_num": "258"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "paper_id": "8c1c3b1f8dedc265986178cbd90213cd0f6b73cb",
+  "metadata": {
+    "title": "Activation of protein kinase R is required for induction of stress granules by respiratory syncytial virus but dispensable for viral replication",
+    "coda_data_split": "train",
+    "coda_paper_id": 8716,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "We performed experiments to determine the effect of PKR activation on respiratory syncytial virus (RSV) replication. We first determined that RSV infection activates PKR which induces the phosphorylation of eIF2α, resulting in the formation of host stress granules. We used RNA interference to decrease endogenous PKR levels. RSV replication was not altered in cells deficient for PKR expression. However, RSV-mediated stress granule formation was significantly reduced in PKR-knockdown cells. As an alternative method to block PKR activation, we used treatment with the kinase inhibitor 2-aminopurine (2-AP). We observed that 2-AP treatment significantly reduced viral replication. We also treated PKR-knockdown cells with 2-AP and inoculated with RSV. Under these conditions, 2-AP treatment diminished viral replication in the absence of PKR expression. These results suggest that PKR activation has a minimal effect on RSV replication and that the antiviral effect of 2-AP during RSV infection likely occurs via a PKR-independent mechanism.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We performed experiments to determine the effect of PKR activation on respiratory syncytial virus ( RSV ) replication .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We first determined that RSV infection activates PKR which induces the phosphorylation of eIF2α ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "resulting in the formation of host stress granules .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We used RNA interference to decrease endogenous PKR levels .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "RSV replication was not altered in cells deficient for PKR expression .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , RSV-mediated stress granule formation was significantly reduced in PKR-knockdown cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "As an alternative method to block PKR activation ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we used treatment with the kinase inhibitor 2-aminopurine ( 2-AP ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We observed that 2-AP treatment significantly reduced viral replication .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also treated PKR-knockdown cells with 2-AP and inoculated with RSV .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Under these conditions , 2-AP treatment diminished viral replication in the absence of PKR expression .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These results suggest that PKR activation has a minimal effect on RSV replication and that the antiviral effect of 2-AP during RSV infection likely occurs via a PKR-independent mechanism .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "10",
+    "segment_num": "12",
+    "token_num": "167"
+  }
+}

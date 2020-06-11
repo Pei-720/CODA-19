@@ -1,0 +1,149 @@
+{
+  "paper_id": "286bea94529dca847214023bb3eabc8b2bc59760",
+  "metadata": {
+    "title": "Severity of Pneumonia in Under 5-Year-Old Children from Developing Countries: A Multicenter, Prospective, Observational Study",
+    "coda_data_split": "train",
+    "coda_paper_id": 2691,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Pneumonia is the leading cause of death in children. The objectives were to evaluate the microbiological agents linked with hypoxemia in hospitalized children with pneumonia from developing countries, to identify predictors of hypoxemia, and to characterize factors associated with in-hospital mortality. A multicenter, observational study was conducted in five hospitals, from India (Lucknow, Vadu), Madagascar (Antananarivo), Mali (Bamako), and Paraguay (San Lorenzo). Children aged 2-60 months with radiologically confirmed pneumonia were enrolled prospectively. Respiratory and whole blood specimens were collected, identifying viruses and bacteria by real-time multiplex polymerase chain reaction (PCR). Microbiological agents linked with hypoxemia at admission (oxygen saturation \u003c 90%) were analyzed by multivariate logistic regression, and factors associated with 14-day in-hospital mortality were assessed by bivariate Cox regression. Overall, 405 pneumonia cases (3,338 hospitalization days) were analyzed; 13 patients died within 14 days of hospitalization. Hypoxemia prevalence was 17.3%. Detection of human metapneumovirus (hMPV) and respiratory syncytial virus (RSV) in respiratory samples was independently associated with increased risk of hypoxemia (adjusted odds ratio [aOR] \u003d 2.4, 95% confidence interval [95% CI] \u003d 1.0-5.8 and aOR \u003d 2.5, 95% CI \u003d 1.1-5.3, respectively). Lower chest indrawing and cyanosis were predictive of hypoxemia (positive likelihood ratios \u003d 2.3 and 2.4, respectively). Predictors of death were Streptococcus pneumoniae detection by blood PCR (crude hazard ratio [cHR] \u003d 4.6, 95% CI \u003d 1.5-14.0), procalcitonin ³ 50 ng/mL (cHR \u003d 22.4, 95% CI \u003d 7.3-68.5) and hypoxemia (cHR \u003d 4.8, 95% CI \u003d 1.6-14.4). These findings were consistent on bivariate analysis. hMPV and RSV in respiratory samples were linked with hypoxemia, and S. pneumoniae in blood was associated with increased risk of death among hospitalized children with pneumonia in developing countries.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Pneumonia is the leading cause of death in children .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The objectives were to evaluate the microbiological agents linked with hypoxemia in hospitalized children with pneumonia from developing countries ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "to identify predictors of hypoxemia ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and to characterize factors associated with in-hospital mortality .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "A multicenter , observational study was conducted in five hospitals ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "from India ( Lucknow , Vadu ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "Madagascar ( Antananarivo ) , Mali ( Bamako ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and Paraguay ( San Lorenzo ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Children aged 2-60 months with radiologically confirmed pneumonia were enrolled prospectively .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Respiratory and whole blood specimens were collected ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "identifying viruses and bacteria by real-time multiplex polymerase chain reaction ( PCR ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Microbiological agents linked with hypoxemia at admission ( oxygen saturation \u003c 90 % ) were analyzed by multivariate logistic regression ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and factors associated with 14-day in-hospital mortality were assessed by bivariate Cox regression .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Overall , 405 pneumonia cases ( 3,338 hospitalization days ) were analyzed ; 13 patients died within 14 days of hospitalization .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hypoxemia prevalence was 17.3 % .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Detection of human metapneumovirus ( hMPV ) and respiratory syncytial virus ( RSV ) in respiratory samples was independently associated with increased risk of hypoxemia ( adjusted odds ratio ( aOR ) \u003d 2.4 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "95 % confidence interval ( 95 % CI ) \u003d 1.0-5.8 and aOR \u003d 2.5 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "95 % CI \u003d 1.1-5.3 , respectively ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Lower chest indrawing and cyanosis were predictive of hypoxemia ( positive likelihood ratios \u003d 2.3 and 2.4 , respectively ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Predictors of death were Streptococcus pneumoniae detection by blood PCR ( crude hazard ratio ( cHR ) \u003d 4.6 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "95 % CI \u003d 1.5-14.0 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "procalcitonin ³ 50 ng/mL ( cHR \u003d 22.4 , 95 % CI \u003d 7.3-68.5 ) and hypoxemia ( cHR \u003d 4.8 , 95 % CI \u003d 1.6-14.4 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These findings were consistent on bivariate analysis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "hMPV and RSV in respiratory samples were linked with hypoxemia ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and S. pneumoniae in blood was associated with increased risk of death among hospitalized children with pneumonia in developing countries .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "13",
+    "segment_num": "25",
+    "token_num": "355"
+  }
+}

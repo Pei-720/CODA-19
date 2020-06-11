@@ -1,0 +1,144 @@
+{
+  "paper_id": "159542778cfb78258a07f195a5b4aaf400cdcbcb",
+  "metadata": {
+    "title": "Pathogen seasonality and links with weather in England and Wales: a big data time series analysis",
+    "coda_data_split": "train",
+    "coda_paper_id": 2567,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Many infectious diseases of public health importance display annual seasonal patterns in their incidence. We aimed to systematically document the seasonality of several human infectious disease pathogens in England and Wales, highlighting those organisms that appear weather-sensitive and therefore may be influenced by climate change in the future.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Many infectious diseases of public health importance display annual seasonal patterns in their incidence .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We aimed to systematically document the seasonality of several human infectious disease pathogens in England and Wales ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "highlighting those organisms that appear weather-sensitive and therefore may be influenced by climate change in the future .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Methods: Data on infections in England and Wales from 1989 to 2014 were extracted from the Public Health England (PHE) SGSS surveillance database. We conducted a weekly, monthly and quarterly time series analysis of 277 pathogen serotypes. Each organism\u0027s time series was forecasted using the TBATS package in R, with seasonality detected using model fit statistics. Meteorological data hosted on the MEDMI Platform were extracted at a monthly resolution for 2001-2011. The organisms were then clustered by K-means into two groups based on cross correlation coefficients with the weather variables.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Methods : Data on infections in England and Wales from 1989 to 2014 were extracted from the Public Health England ( PHE ) SGSS surveillance database .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We conducted a weekly , monthly and quarterly time series analysis of 277 pathogen serotypes .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Each organism \u0027s time series was forecasted using the TBATS package in R ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "with seasonality detected using model fit statistics .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Meteorological data hosted on the MEDMI Platform were extracted at a monthly resolution for 2001-2011 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The organisms were then clustered by K-means into two groups based on cross correlation coefficients with the weather variables .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results: Examination of 12.9 million infection episodes found seasonal components in 91/277 (33%) organism serotypes. Salmonella showed seasonal and non-seasonal serotypes. These results were visualised in an online Rshiny application. Seasonal organisms were then clustered into two groups based on their correlations with weather. Group 1 had positive correlations with temperature (max, mean and min), sunshine and vapour pressure and inverse correlations with mean wind speed, relative humidity, ground frost and air frost. Group 2 had the opposite but also slight positive correlations with rainfall (mm, \u003e 1 mm, \u003e 10 mm).",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results : Examination of 12.9 million infection episodes found seasonal components in 91/277 ( 33 % ) organism serotypes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Salmonella showed seasonal and non-seasonal serotypes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These results were visualised in an online Rshiny application .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Seasonal organisms were then clustered into two groups based on their correlations with weather .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Group 1 had positive correlations with temperature ( max , mean and min ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "sunshine and vapour pressure and inverse correlations with mean wind speed ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "relative humidity , ground frost and air frost .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Group 2 had the opposite but also slight positive correlations with rainfall ( mm , \u003e 1 mm , \u003e 10 mm ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The detection of seasonality in pathogen time series data and the identification of relevant weather predictors can improve forecasting and public health planning. Big data analytics and online visualisation allow the relationship between pathogen incidence and weather patterns to be clarified.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The detection of seasonality in pathogen time series data and the identification of relevant weather predictors can improve forecasting and public health planning .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Big data analytics and online visualisation allow the relationship between pathogen incidence and weather patterns to be clarified .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "15",
+    "segment_num": "19",
+    "token_num": "309"
+  }
+}

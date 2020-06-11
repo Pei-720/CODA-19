@@ -1,0 +1,273 @@
+{
+  "paper_id": "73d80c8f5780d70bd8d343188c56e898e91557b6",
+  "metadata": {
+    "title": "Ca 2+ ions promote fusion of Middle East Respiratory Syndrome coronavirus with host cells and increase infectivity",
+    "coda_data_split": "train",
+    "coda_paper_id": 2921,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Middle East respiratory syndrome coronavirus (MERS-CoV) is a major emerging zoonotic infectious disease. Since its first outbreak in 2012, the virus has repeatedly transmitted from camels to humans with 2,468 confirmed cases, causing 851 deaths. To date, there are no efficacious drugs and vaccines against : bioRxiv preprint 2 MERS-CoV, increasing its potential to cause a public health emergency. A critical step in the life cycle of MERS-CoV is the fusion with the host cell with its spike (S) protein as main determinant of viral entry.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Middle East respiratory syndrome coronavirus ( MERS-CoV ) is a major emerging zoonotic infectious disease .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Since its first outbreak in 2012 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the virus has repeatedly transmitted from camels to humans with 2,468 confirmed cases , causing 851 deaths .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To date , there are no efficacious drugs and vaccines against : bioRxiv preprint 2 MERS-CoV ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "increasing its potential to cause a public health emergency .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A critical step in the life cycle of MERS-CoV is the fusion with the host cell with its spike ( S ) protein as main determinant of viral entry .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Proteolytic cleavage of S exposes its fusion peptide (FP), which initiates membrane fusion. Previous studies on the related severe acute respiratory syndrome coronavirus (SARS-CoV) FP have shown that calcium (Ca 2+ ) plays an important role for fusogenic activity via a Ca 2+ binding pocket with conserved glutamic acid (E) and aspartic acid (D) residues. SARS-CoV and MERS-CoV FP share a high sequence homology and here, we investigated whether Ca 2+ is required for MERS-CoV fusion by substituting E and D residues in the MERS-CoV FP with neutrally charged alanines. Upon verifying mutant cell surface expression and proteolytic cleavage, we tested the mutants ability to mediate infection of pseudoparticles (PPs) on host cells without and with Ca 2+ . Our results demonstrate that intracellular Ca 2+ enhances MERS-CoV WT PPs infection by approximately two-fold and that E891 is a crucial residue for Ca 2+ interaction. Electron spin resonance revealed that this enhancement could be attributed to Ca 2+ increasing MERS-CoV FP fusion-relevant membrane ordering. Intriguingly, isothermal calorimetry titration showed that MERS-CoV FP binds one Ca 2+ , as opposed to SARS-CoV FP which binds two. Our data suggests that there are significant differences in FP-Ca 2+ interactions of MERS-CoV and SARS-CoV FP despite their high sequence similarity and that the number of Ca 2+ ions interacting with the FP has implications on the fusion dynamics of the virus.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Proteolytic cleavage of S exposes its fusion peptide ( FP ) , which initiates membrane fusion .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Previous studies on the related severe acute respiratory syndrome coronavirus ( SARS-CoV ) FP have shown that calcium ( Ca 2 + ) plays an important role for fusogenic activity via a Ca 2 + binding pocket with conserved glutamic acid ( E ) and aspartic acid ( D ) residues .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "SARS-CoV and MERS-CoV FP share a high sequence homology and here ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we investigated whether Ca 2 + is required for MERS-CoV fusion by substituting E and D residues in the MERS-CoV FP with neutrally charged alanines .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Upon verifying mutant cell surface expression and proteolytic cleavage ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we tested the mutants ability to mediate infection of pseudoparticles ( PPs ) on host cells without and with Ca 2 + .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our results demonstrate that intracellular Ca 2 + enhances MERS-CoV WT PPs infection by approximately two-fold and that E891 is a crucial residue for Ca 2 + interaction .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Electron spin resonance revealed that this enhancement could be attributed to Ca 2 + increasing MERS-CoV FP fusion-relevant membrane ordering .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Intriguingly , isothermal calorimetry titration showed that MERS-CoV FP binds one Ca 2 + ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as opposed to SARS-CoV FP which binds two .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our data suggests that there are significant differences in FP-Ca 2 + interactions of MERS-CoV and SARS-CoV FP despite their high sequence similarity and that the number of Ca 2 + ions interacting with the FP has implications on the fusion dynamics of the virus .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "3 dromedary camels [3] [4] [5] . It is currently believed that disease outbreaks in humans result from interactions with dromedary camels. Although transmissions between humans is rare, this route was responsible for a widespread outbreak of MERS-CoV in 2015 in South Korea [6] . Moreover, it was demonstrated that MERS-like bat CoV could potentially infect human tissues in the absence of an intermediate host when the respective tissue expresses a protease that is able to prime the virus for fusion [7] . More recently, the World Health Organization (WHO) listed MERS-CoV as one of ten diseases that requires urgent accelerated research and development because of its potential to cause a public health emergency with few or no efficacious drugs and/or vaccines to counter them [8] . To address these needs, it is important to have a more nuanced understanding of MERS-CoV infection process to develop therapeutics to target crucial steps in MERS-CoV infection.",
+      "sentences": [
+        [
+          {
+            "segment_text": "3 dromedary camels ( 3 ) ( 4 ) ( 5 ) .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is currently believed that disease outbreaks in humans result from interactions with dromedary camels .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although transmissions between humans is rare ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "this route was responsible for a widespread outbreak of MERS-CoV in 2015 in South Korea ( 6 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , it was demonstrated that MERS-like bat CoV could potentially infect human tissues in the absence of an intermediate host when the respective tissue expresses a protease that is able to prime the virus for fusion ( 7 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "More recently , the World Health Organization ( WHO ) listed MERS-CoV as one of ten diseases that requires urgent accelerated research and development because of its potential to cause a public health emergency with few or no efficacious drugs and/or vaccines to counter them ( 8 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To address these needs , it is important to have a more nuanced understanding of MERS-CoV infection process to develop therapeutics to target crucial steps in MERS-CoV infection .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The MERS-CoV spike (S) protein contains a receptor binding subunit (S1) and a membrane fusion subunit (S2), which facilitates binding to the host cell surface receptor, dipeptidyl peptidase 4 (DPP4), and fusion with the host cell membrane, respectively [10, 11] . To mediate fusion with the host cell membrane, S needs to be cleaved by either host cell surface proteases or endosomal proteases (such as transmembrane protease serine 2 (TMPRSS2), furin, or cathepsins) [12] [13] [14] [15] [16] . Cleavage can occur at two different sites: the S1 and S2 boundary (S1/S2), and adjacent to a fusion peptide (FP) within the S2 domain (S2\u0027) [17, 18] . It is suggested that both cleavage events act in concert to promote membrane fusion and viral infectivity. The first cleavage event takes place at the S1/S2 site, which then is believed to open up the S2\u0027 site for further proteolytic processing, resulting in the exposure of the FP. As a consequence, the FP inserts into the host membrane, mediating membrane fusion [19] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "The MERS-CoV spike ( S ) protein contains a receptor binding subunit ( S1 ) and a membrane fusion subunit ( S2 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which facilitates binding to the host cell surface receptor ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "dipeptidyl peptidase 4 ( DPP4 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and fusion with the host cell membrane ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "respectively ( 10 , 11 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To mediate fusion with the host cell membrane ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "S needs to be cleaved by either host cell surface proteases or endosomal proteases ( such as transmembrane protease serine 2 ( TMPRSS2 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "furin , or cathepsins ) ( 12 ) ( 13 ) ( 14 ) ( 15 ) ( 16 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Cleavage can occur at two different sites : the S1 and S2 boundary ( S1/S2 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and adjacent to a fusion peptide ( FP ) within the S2 domain ( S2 \u0027 ) ( 17 , 18 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is suggested that both cleavage events act in concert to promote membrane fusion and viral infectivity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The first cleavage event takes place at the S1/S2 site ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which then is believed to open up the S2 \u0027 site for further proteolytic processing ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "resulting in the exposure of the FP .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As a consequence , the FP inserts into the host membrane ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "mediating membrane fusion ( 19 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "MERS-CoV viral fusion can occur at two different locations in the host cell: at the plasma membrane or at the endosomal membrane. Host cell surface proteases, such as TMPRSS2, can cleave MERS-CoV S for entry directly at the plasma membrane [13] . In the absence of cell surface proteases, MERS-CoV is endocytosed,",
+      "sentences": [
+        [
+          {
+            "segment_text": "MERS-CoV viral fusion can occur at two different locations in the host cell : at the plasma membrane or at the endosomal membrane .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Host cell surface proteases , such as TMPRSS2 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "can cleave MERS-CoV S for entry directly at the plasma membrane ( 13 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the absence of cell surface proteases , MERS-CoV is endocytosed ,",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "27",
+    "segment_num": "44",
+    "token_num": "815"
+  }
+}

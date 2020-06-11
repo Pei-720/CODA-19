@@ -1,0 +1,124 @@
+{
+  "paper_id": "a5f7c631df9c013ffff1f4420fb45705bdec8e50",
+  "metadata": {
+    "title": "Article A Comprehensive Biophysical Description of Pairwise Epistasis throughout an Entire Protein Domain",
+    "coda_data_split": "train",
+    "coda_paper_id": 8675,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Nonadditivity in fitness effects from two or more mutations, termed epistasis, can result in compensation of deleterious mutations or negation of beneficial mutations. Recent evidence shows the importance of epistasis in individual evolutionary pathways. However, an unresolved question in molecular evolution is how often and how significantly fitness effects change in alternative genetic backgrounds.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Nonadditivity in fitness effects from two or more mutations ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "termed epistasis , can result in compensation of deleterious mutations or negation of beneficial mutations .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recent evidence shows the importance of epistasis in individual evolutionary pathways .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , an unresolved question in molecular evolution is how often and how significantly fitness effects change in alternative genetic backgrounds .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results: To answer this question, we quantified the effects of all single mutations and double mutations between all positions in the IgG-binding domain of protein G (GB1). By observing the first two steps of all possible evolutionary pathways using this fitness profile, we were able to characterize the extent and magnitude of pairwise epistasis throughout an entire protein molecule. Furthermore, we developed a novel approach to quantitatively determine the effects of single mutations on structural stability (DDG U ). This enabled determination of the importance of stability effects in functional epistasis. Conclusions: Our results illustrate common biophysical mechanisms for occurrences of positive and negative epistasis. Our results show pervasive positive epistasis within a conformationally dynamic network of residues. The stability analysis shows that significant negative epistasis, which is more common than positive epistasis, mostly occurs between combinations of destabilizing mutations. Furthermore, we show that although significant positive epistasis is rare, many deleterious mutations are beneficial in at least one alternative mutational background. The distribution of conditionally beneficial mutations throughout the domain demonstrates that the functional portion of sequence space can be significantly expanded by epistasis.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results : To answer this question ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we quantified the effects of all single mutations and double mutations between all positions in the IgG-binding domain of protein G ( GB1 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "By observing the first two steps of all possible evolutionary pathways using this fitness profile ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we were able to characterize the extent and magnitude of pairwise epistasis throughout an entire protein molecule .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , we developed a novel approach to quantitatively determine the effects of single mutations on structural stability ( DDG U ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This enabled determination of the importance of stability effects in functional epistasis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Conclusions : Our results illustrate common biophysical mechanisms for occurrences of positive and negative epistasis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our results show pervasive positive epistasis within a conformationally dynamic network of residues .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The stability analysis shows that significant negative epistasis ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which is more common than positive epistasis ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "mostly occurs between combinations of destabilizing mutations .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , we show that although significant positive epistasis is rare ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "many deleterious mutations are beneficial in at least one alternative mutational background .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The distribution of conditionally beneficial mutations throughout the domain demonstrates that the functional portion of sequence space can be significantly expanded by epistasis .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "12",
+    "segment_num": "18",
+    "token_num": "268"
+  }
+}

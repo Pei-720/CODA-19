@@ -1,0 +1,176 @@
+{
+  "paper_id": "6f8a531b4b84d4daaadcff9d7e03ee24274baf0b",
+  "metadata": {
+    "title": "Etiology of fever in Ugandan children: identification of microbial pathogens using 1 metagenomic next-generation sequencing and IDseq, a platform for unbiased metagenomic 2 analysis 3 4",
+    "coda_data_split": "train",
+    "coda_paper_id": 3034,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Febrile illness is a major burden in African children, and non-malarial causes of 45 fever are uncertain. We built and employed IDseq, a cloud-based, open access, bioinformatics 46 platform and service to identify microbes from metagenomic next-generation sequencing of 47 tissue samples. In this pilot study, we evaluated blood, nasopharyngeal, and stool specimens 48 from 94 children (aged 2-54 months) with febrile illness admitted to Tororo District Hospital, 49",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Febrile illness is a major burden in African children ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and non-malarial causes of 45 fever are uncertain .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We built and employed IDseq ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a cloud-based , open access ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "bioinformatics 46 platform and service to identify microbes from metagenomic next-generation sequencing of 47 tissue samples .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this pilot study , we evaluated blood ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "nasopharyngeal , and stool specimens 48 from 94 children ( aged 2-54 months ) with febrile illness admitted to Tororo District Hospital , 49",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Uganda. 50 51 Results: The most common pathogens identified were Plasmodium falciparum (51.1% of 52 samples) and parvovirus B19 (4.4%) from blood; human rhinoviruses A and C (40%), 53 respiratory syncytial virus (10%), and human herpesvirus 5 (10%) from nasopharyngeal swabs; 54 and rotavirus A (50% of those with diarrhea) from stool. Among other potential pathogens, we 55 identified one novel orthobunyavirus, tentatively named Nyangole virus, from the blood of a 56 child diagnosed with malaria and pneumonia, and Bwamba orthobunyavirus in the nasopharynx 57 of a child with rash and sepsis. We also identified two novel human rhinovirus C species. 58 59 Conclusions: This exploratory pilot study demonstrates the utility of mNGS and the IDseq 60 platform for defining the molecular landscape of febrile infectious diseases in resource limited 61 areas. These methods, supported by a robust data analysis and sharing platform, offer a new tool 62 for the surveillance, diagnosis, and ultimately treatment and prevention of infectious diseases. 63",
+      "sentences": [
+        [
+          {
+            "segment_text": "Uganda .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "50 51 Results : The most common pathogens identified were Plasmodium falciparum ( 51.1 % of 52 samples ) and parvovirus B19 ( 4.4 % ) from blood ; human rhinoviruses A and C ( 40 % ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "53 respiratory syncytial virus ( 10 % ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and human herpesvirus 5 ( 10 % ) from nasopharyngeal swabs ; 54 and rotavirus A ( 50 % of those with diarrhea ) from stool .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Among other potential pathogens , we 55 identified one novel orthobunyavirus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "tentatively named Nyangole virus , from the blood of a 56 child diagnosed with malaria and pneumonia ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and Bwamba orthobunyavirus in the nasopharynx 57 of a child with rash and sepsis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also identified two novel human rhinovirus C species .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "58 59 Conclusions : This exploratory pilot study demonstrates the utility of mNGS and the IDseq 60 platform for defining the molecular landscape of febrile infectious diseases in resource limited 61 areas .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These methods , supported by a robust data analysis and sharing platform ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "offer a new tool 62 for the surveillance ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "diagnosis , and ultimately treatment and prevention of infectious diseases .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "63",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "To address these challenges, we developed IDseq, a cloud-based open-source 90 bioinformatics platform and service for detection of microbial pathogens from metagenomic 91 next-generation sequencing (mNGS) data. IDseq requires minimal computational hardware and 92 is designed to enhance accessibility and build informatics capacity in resource limited regions. 93",
+      "sentences": [
+        [
+          {
+            "segment_text": "To address these challenges , we developed IDseq ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a cloud-based open-source 90 bioinformatics platform and service for detection of microbial pathogens from metagenomic 91 next-generation sequencing ( mNGS ) data .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "IDseq requires minimal computational hardware and 92 is designed to enhance accessibility and build informatics capacity in resource limited regions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "93",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Here, we leveraged IDseq and mNGS data to perform an exploratory proof-of-concept molecular 94 survey of febrile children in rural Uganda to characterize pathogens associated with fever, 95 including both well-recognized and novel causes of illness. 96 97 Analyses/Results 98",
+      "sentences": [
+        [
+          {
+            "segment_text": "Here , we leveraged IDseq and mNGS data to perform an exploratory proof-of-concept molecular 94 survey of febrile children in rural Uganda to characterize pathogens associated with fever ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "95 including both well-recognized and novel causes of illness .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "96 97 Analyses/Results 98",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "15",
+    "segment_num": "27",
+    "token_num": "379"
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "paper_id": "91eedbad589b474aad1ac0b96957078885146537",
+  "metadata": {
+    "title": "Differential expression of miR-195-5p in collapse of steroid- induced osteonecrosis of the femoral head",
+    "coda_data_split": "train",
+    "coda_paper_id": 7257,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Femoral head collapse is a key reference point for determining a treatment regimen of femoral head osteonecrosis. However, there are no effective preventive measures and the efficacy of hip-preserving surgery is unsatisfactory due to the unclear mechanism of collapse. This study aimed to identify and validate miRNAs differentially expressed in collapse and non-collapse areas of the osteonecrotic femoral head, and to predict the target genes and pathways of these miRNAs.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Femoral head collapse is a key reference point for determining a treatment regimen of femoral head osteonecrosis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , there are no effective preventive measures and the efficacy of hip-preserving surgery is unsatisfactory due to the unclear mechanism of collapse .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study aimed to identify and validate miRNAs differentially expressed in collapse and non-collapse areas of the osteonecrotic femoral head ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and to predict the target genes and pathways of these miRNAs .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results: Nine samples passed the quality control test. A total of 2085 differentially expressed miRNAs were detected, among which 433 miRNAs showed differential expression in the T1 group compared to the W1 group; 344 miRNAs showed differential expression in the T2 group compared to the W2 group; 107 miRNAs showed differential expression in the T3 group compared to the W3 group. After combining data from all three patients, 10 miRNAs showed differential expression in the collapse area (T1+T2+T3) compared to the non-collapse area (W1+W2+W3). Compared to the normal area, has-miR-195-5p showed the most significant downregulation.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results : Nine samples passed the quality control test .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A total of 2085 differentially expressed miRNAs were detected ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "among which 433 miRNAs showed differential expression in the T1 group compared to the W1 group ; 344 miRNAs showed differential expression in the T2 group compared to the W2 group ; 107 miRNAs showed differential expression in the T3 group compared to the W3 group .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "After combining data from all three patients ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "10 miRNAs showed differential expression in the collapse area ( T1 + T2 + T3 ) compared to the non-collapse area ( W1 + W2 + W3 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Compared to the normal area ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "has-miR-195-5p showed the most significant downregulation .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "the collapse area (T1+T2+T3) was significantly lower than that in the non-collapse area (W1+W2+W3) and normal area (Z1+Z2+Z3). 157 genes were perdicted as the target gene of hsa-miR-195-5p. Materials and Methods: Femoral heads of three patients (2 males and 1 female) treated by total hip arthroplasty surgery for steroid-induced femoral head osteonecrosis were selected based on inclusion and exclusion criteria. Bone tissue samples were obtained from the collapse area (T), non-collapse area (W), and normal area (Z) according to the anatomical structure of osteonecrotic femoral heads. Total RNA was extracted from the samples and the microarray chip was scanned. miRNAs",
+      "sentences": [
+        [
+          {
+            "segment_text": "the collapse area ( T1 + T2 + T3 ) was significantly lower than that in the non-collapse area ( W1 + W2 + W3 ) and normal area ( Z1 + Z2 + Z3 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "157 genes were perdicted as the target gene of hsa-miR-195-5p .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Materials and Methods : Femoral heads of three patients ( 2 males and 1 female ) treated by total hip arthroplasty surgery for steroid-induced femoral head osteonecrosis were selected based on inclusion and exclusion criteria .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Bone tissue samples were obtained from the collapse area ( T ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "non-collapse area ( W ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and normal area ( Z ) according to the anatomical structure of osteonecrotic femoral heads .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Total RNA was extracted from the samples and the microarray chip was scanned .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "miRNAs",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "showing differential expressions of more than 1.5-fold were selected and was validated by RT-PCR. TargetScan, mirBase and miRanda bioinformatics software was used to predict target genes and identify possible pathways involving these genes.",
+      "sentences": [
+        [
+          {
+            "segment_text": "showing differential expressions of more than 1.5-fold were selected and was validated by RT-PCR .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "TargetScan , mirBase and miRanda bioinformatics software was used to predict target genes and identify possible pathways involving these genes .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Conclusions: miR-195-5p showed the most significant difference in the collapse area of osteonecrotic femoral heads, suggesting that collapse may be related to the downregulation of miR-195-5p.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Conclusions : miR-195-5p showed the most significant difference in the collapse area of osteonecrotic femoral heads ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "suggesting that collapse may be related to the downregulation of miR-195-5p .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "16",
+    "segment_num": "23",
+    "token_num": "393"
+  }
+}

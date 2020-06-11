@@ -1,0 +1,141 @@
+{
+  "paper_id": "9301787667eb36e650623c8dc753399f3e1b4b7c",
+  "metadata": {
+    "title": "A Next-Generation Sequencing Data Analysis Pipeline for Detecting Unknown Pathogens from Mixed Clinical Samples and Revealing Their Genetic Diversity",
+    "coda_data_split": "test",
+    "coda_paper_id": 653,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Forty-two cytopathic effect (CPE)-positive isolates were collected from 2008 to 2012. All isolates could not be identified for known viral pathogens by routine diagnostic assays. They were pooled into 8 groups of 5-6 isolates to reduce the sequencing cost. Next-generation sequencing (NGS) was conducted for each group of mixed samples, and the proposed data analysis pipeline was used to identify viral pathogens in these mixed samples. Polymerase chain reaction (PCR) or enzyme-linked immunosorbent assay (ELISA) was individually conducted for each of these 42 isolates depending on the predicted viral types in each group. Two isolates remained unknown after these tests. Moreover, iteration mapping was implemented for each of these 2 isolates, and predicted human parechovirus (HPeV) in both. In summary, our NGS pipeline detected the following viruses among the 42 isolates: 29 human rhinoviruses (HRVs), 10 HPeVs, 1 human adenovirus (HAdV), 1 echovirus and 1 rotavirus. We then focused on the 10 identified Taiwanese HPeVs because of their reported clinical significance over HRVs. Their genomes were assembled and their genetic diversity was explored. One novel 6-bp deletion was found in one HPeV-1 virus. In terms of nucleotide heterogeneity, 64 genetic variants were detected from these HPeVs using the mapped NGS reads. Most importantly, a recombination event was found between our HPeV-3 and a known HPeV-4 strain in the database. Similar event was detected in the other HPeV-3 strains in the same clade of the phylogenetic tree. These findings demonstrated that the proposed NGS data analysis pipeline identified unknown viruses from the mixed clinical samples, revealed their genetic identity and variants, and characterized their genetic features in terms of viral evolution.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Forty-two cytopathic effect ( CPE ) - positive isolates were collected from 2008 to 2012 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "All isolates could not be identified for known viral pathogens by routine diagnostic assays .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "They were pooled into 8 groups of 5-6 isolates to reduce the sequencing cost .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Next-generation sequencing ( NGS ) was conducted for each group of mixed samples ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and the proposed data analysis pipeline was used to identify viral pathogens in these mixed samples .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Polymerase chain reaction ( PCR ) or enzyme-linked immunosorbent assay ( ELISA ) was individually conducted for each of these 42 isolates depending on the predicted viral types in each group .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Two isolates remained unknown after these tests .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , iteration mapping was implemented for each of these 2 isolates ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and predicted human parechovirus ( HPeV ) in both .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In summary , our NGS pipeline detected the following viruses among the 42 isolates : 29 human rhinoviruses ( HRVs ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "10 HPeVs , 1 human adenovirus ( HAdV ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "1 echovirus and 1 rotavirus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We then focused on the 10 identified Taiwanese HPeVs because of their reported clinical significance over HRVs .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Their genomes were assembled and their genetic diversity was explored .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "One novel 6-bp deletion was found in one HPeV-1 virus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In terms of nucleotide heterogeneity ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "64 genetic variants were detected from these HPeVs using the mapped NGS reads .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Most importantly , a recombination event was found between our HPeV-3 and a known HPeV-4 strain in the database .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Similar event was detected in the other HPeV-3 strains in the same clade of the phylogenetic tree .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These findings demonstrated that the proposed NGS data analysis pipeline identified unknown viruses from the mixed clinical samples ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "revealed their genetic identity and variants ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and characterized their genetic features in terms of viral evolution .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "15",
+    "segment_num": "22",
+    "token_num": "313"
+  }
+}

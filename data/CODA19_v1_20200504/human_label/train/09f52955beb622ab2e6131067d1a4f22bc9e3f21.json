@@ -1,0 +1,55 @@
+{
+  "paper_id": "09f52955beb622ab2e6131067d1a4f22bc9e3f21",
+  "metadata": {
+    "title": "Three 3D graphical representations of DNA primary sequences based on the classifications of DNA bases and their applications",
+    "coda_data_split": "train",
+    "coda_paper_id": 3035,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "In this article, we introduce three 3D graphical representations of DNA primary sequences, which we call RY-curve, MK-curve and SW-curve, based on three classifications of the DNA bases. The advantages of our representations are that (i) these 3D curves are strictly non-degenerate and there is no loss of information when transferring a DNA sequence to its mathematical representation and (ii) the coordinates of every node on these 3D curves have clear biological implication. Two applications of these 3D curves are presented: (a) a simple formula is derived to calculate the content of the four bases (A, G, C and T) from the coordinates of nodes on the curves; and (b) a 12-component characteristic vector is constructed to compare similarity among DNA sequences from different species based on the geometrical centers of the 3D curves. As examples, we examine similarity among the coding sequences of the first exon of betaglobin gene from eleven species and validate similarity of cDNA sequences of beta-globin gene from eight species.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this article , we introduce three 3D graphical representations of DNA primary sequences ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "which we call RY-curve , MK-curve and SW-curve ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "based on three classifications of the DNA bases .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The advantages of our representations are that ( i ) these 3D curves are strictly non-degenerate and there is no loss of information when transferring a DNA sequence to its mathematical representation and ( ii ) the coordinates of every node on these 3D curves have clear biological implication .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Two applications of these 3D curves are presented : ( a ) a simple formula is derived to calculate the content of the four bases ( A , G , C and T ) from the coordinates of nodes on the curves ; and ( b ) a 12-component characteristic vector is constructed to compare similarity among DNA sequences from different species based on the geometrical centers of the 3D curves .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "As examples , we examine similarity among the coding sequences of the first exon of betaglobin gene from eleven species and validate similarity of cDNA sequences of beta-globin gene from eight species .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "4",
+    "segment_num": "6",
+    "token_num": "188"
+  }
+}

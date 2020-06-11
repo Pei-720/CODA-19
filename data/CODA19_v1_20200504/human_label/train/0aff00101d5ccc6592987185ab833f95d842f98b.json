@@ -1,0 +1,71 @@
+{
+  "paper_id": "0aff00101d5ccc6592987185ab833f95d842f98b",
+  "metadata": {
+    "title": "Potentially highly potent drugs for 2019-nCoV",
+    "coda_data_split": "train",
+    "coda_paper_id": 6306,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The World Health Organization (WHO) has declared the 2019 novel coronavirus (2019-nCoV) infection outbreak a global health emergency. Currently, there is no effective anti-2019-nCoV medication. The sequence identity of the 3CL proteases of 2019-nCoV and SARS is 96%, which provides a sound foundation for structural-based drug repositioning (SBDR). Based on a SARS 3CL protease X-ray crystal structure, we construct a 3D homology structure of 2019-nCoV 3CL protease. Based on this structure and existing experimental datasets for SARS 3CL protease inhibitors, we develop an SBDR model based on machine learning and mathematics to screen 1465 drugs in the DrugBank that have been approved by the U.S. Food and Drug Administration (FDA). We found that many FDA approved drugs are potentially highly potent to 2019-nCoV.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The World Health Organization ( WHO ) has declared the 2019 novel coronavirus ( 2019-nCoV ) infection outbreak a global health emergency .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Currently , there is no effective anti-2019-nCoV medication .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The sequence identity of the 3CL proteases of 2019-nCoV and SARS is 96 % ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which provides a sound foundation for structural-based drug repositioning ( SBDR ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Based on a SARS 3CL protease X-ray crystal structure ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we construct a 3D homology structure of 2019-nCoV 3CL protease .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Based on this structure and existing experimental datasets for SARS 3CL protease inhibitors ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we develop an SBDR model based on machine learning and mathematics to screen 1465 drugs in the DrugBank that have been approved by the U.S. Food and Drug Administration ( FDA ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We found that many FDA approved drugs are potentially highly potent to 2019-nCoV .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "9",
+    "token_num": "142"
+  }
+}

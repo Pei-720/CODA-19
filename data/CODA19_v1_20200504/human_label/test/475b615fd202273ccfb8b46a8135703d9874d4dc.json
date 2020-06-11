@@ -1,0 +1,83 @@
+{
+  "paper_id": "475b615fd202273ccfb8b46a8135703d9874d4dc",
+  "metadata": {
+    "title": "Optimal COVID-19 epidemic control until vaccine deployment",
+    "coda_data_split": "test",
+    "coda_paper_id": 133,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Since Dec 2019, the COVID-19 epidemic has spread over the globe creating one of the greatest pandemics ever witnessed. This epidemic wave will only begin to roll back once a critical proportion of the population is immunised, either by mounting natural immunity following infection, or by vaccination. The latter option can minimise the cost in terms of human lives but it requires to wait until a safe and efficient vaccine is developed, a period estimated to last at least 18 months. In this work, we use optimal control theory to explore the best strategy to implement while waiting for the vaccine. We seek a solution minimizing deaths and costs due to the implementation of the control strategy itself. We find that such a solution leads to an increasing level of control with a maximum reached near the fourth month of the epidemics and a steady decrease until vaccine deployment. This strategy strongly outperforms others with constant or cycling allocations of the same amount of resources to control the outbreak. This work opens new perspectives to mitigate the effects of the ongoing COVID-19 pandemics, and be used as a proof-of-concept in using mathematical modelling techniques to enlighten decision making and public health management in the early times of an outbreak.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Since Dec 2019 , the COVID-19 epidemic has spread over the globe creating one of the greatest pandemics ever witnessed .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This epidemic wave will only begin to roll back once a critical proportion of the population is immunised ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "either by mounting natural immunity following infection , or by vaccination .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The latter option can minimise the cost in terms of human lives but it requires to wait until a safe and efficient vaccine is developed ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a period estimated to last at least 18 months .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this work , we use optimal control theory to explore the best strategy to implement while waiting for the vaccine .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We seek a solution minimizing deaths and costs due to the implementation of the control strategy itself .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We find that such a solution leads to an increasing level of control with a maximum reached near the fourth month of the epidemics and a steady decrease until vaccine deployment .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This strategy strongly outperforms others with constant or cycling allocations of the same amount of resources to control the outbreak .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This work opens new perspectives to mitigate the effects of the ongoing COVID-19 pandemics ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and be used as a proof-of-concept in using mathematical modelling techniques to enlighten decision making and public health management in the early times of an outbreak .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "11",
+    "token_num": "223"
+  }
+}

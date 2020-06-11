@@ -1,0 +1,131 @@
+{
+  "paper_id": "eb5bfeea7bc4bb15dcf2ad3e26dc6478c277fd6e",
+  "metadata": {
+    "title": "\"Amantadine disrupts lysosomal gene expression; potential therapy for COVID19\"",
+    "coda_data_split": "train",
+    "coda_paper_id": 4598,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "SARS-coronavirus 2 is the causal agent of the COVID-19 outbreak. SARS-Cov-2 entry into a cell is dependent upon binding of the viral spike (S) protein to cellular receptor and on cleavage of the spike protein by the host cell proteases such as Cathepsin L and Cathepsin B. CTSL/B are crucial elements of lysosomal pathway and both enzymes are almost exclusively located in the lysosomes.CTSL disruption offers potential for CoVID-19 therapies. The mechanisms of disruption include: decreasing expression of CTSL, direct inhibition of CTSL activity and affecting the conditions of CTSL environment (increase pH in lysosomes).",
+      "sentences": [
+        [
+          {
+            "segment_text": "SARS-coronavirus 2 is the causal agent of the COVID-19 outbreak .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "SARS-Cov-2 entry into a cell is dependent upon binding of the viral spike ( S ) protein to cellular receptor and on cleavage of the spike protein by the host cell proteases such as Cathepsin L and Cathepsin B. CTSL/B are crucial elements of lysosomal pathway and both enzymes are almost exclusively located in the lysosomes.CTSL disruption offers potential for CoVID-19 therapies .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The mechanisms of disruption include : decreasing expression of CTSL ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "direct inhibition of CTSL activity and affecting the conditions of CTSL environment ( increase pH in lysosomes ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We have conducted a high throughput drug screen gene expression analysis to identify compounds that would downregulate the expression of CTSL/CTSB. One of the top significant results shown to downregulate the expression of the CTSL gene is Amantadine. Amantadine was approved by the US Food and Drug Administration in 1968 as a prophylactic agent for influenza and later for Parkinson\u0027s disease. It is available as a generic drug.. Amantadine in addition to downregulating CTSL appears to further disrupt lysosomal pathway , hence interfering with the capacity of the virus to replicate. It acts as a lysosomotropic agent altering the CTSL functional environment. We hypothesize that Amantadine could decrease the viral load in SARS-CoV-2 positive patients and as such it may serve as a potent therapeutic decreasing the replication and infectivity of the virus likely leading to better clinical outcomes. Clinical studies will be needed to examine the therapeutic utility of amantadine in COVID-19 infection.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We have conducted a high throughput drug screen gene expression analysis to identify compounds that would downregulate the expression of CTSL/CTSB .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "One of the top significant results shown to downregulate the expression of the CTSL gene is Amantadine .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Amantadine was approved by the US Food and Drug Administration in 1968 as a prophylactic agent for influenza and later for Parkinson \u0027s disease .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is available as a generic drug .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": ".",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Amantadine in addition to downregulating CTSL appears to further disrupt lysosomal pathway ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "hence interfering with the capacity of the virus to replicate .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It acts as a lysosomotropic agent altering the CTSL functional environment .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We hypothesize that Amantadine could decrease the viral load in SARS-CoV-2 positive patients and as such it may serve as a potent therapeutic decreasing the replication and infectivity of the virus likely leading to better clinical outcomes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Clinical studies will be needed to examine the therapeutic utility of amantadine in COVID-19 infection .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "author/funder. All rights reserved. No reuse allowed without permission.",
+      "sentences": [
+        [
+          {
+            "segment_text": "author/funder .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "All rights reserved .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "No reuse allowed without permission .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "15",
+    "segment_num": "17",
+    "token_num": "280"
+  }
+}

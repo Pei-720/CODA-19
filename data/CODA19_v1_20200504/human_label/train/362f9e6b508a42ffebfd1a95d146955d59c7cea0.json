@@ -1,0 +1,111 @@
+{
+  "paper_id": "362f9e6b508a42ffebfd1a95d146955d59c7cea0",
+  "metadata": {
+    "title": "Quantitative prediction of mouse class I MHC peptide binding affinity using support vector machine regression (SVR) models",
+    "coda_data_split": "train",
+    "coda_paper_id": 3999,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "The binding between peptide epitopes and major histocompatibility complex proteins (MHCs) is an important event in the cellular immune response. Accurate prediction of the binding between short peptides and the MHC molecules has long been a principal challenge for immunoinformatics. Recently, the modeling of MHC-peptide binding has come to emphasize quantitative predictions: instead of categorizing peptides as \"binders\" or \"non-binders\" or as \"strong binders\" and \"weak binders\", recent methods seek to make predictions about precise binding affinities.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The binding between peptide epitopes and major histocompatibility complex proteins ( MHCs ) is an important event in the cellular immune response .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Accurate prediction of the binding between short peptides and the MHC molecules has long been a principal challenge for immunoinformatics .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recently , the modeling of MHC-peptide binding has come to emphasize quantitative predictions : instead of categorizing peptides as `` binders \u0027\u0027 or `` non-binders \u0027\u0027 or as `` strong binders \u0027\u0027 and `` weak binders \u0027\u0027 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "recent methods seek to make predictions about precise binding affinities .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We developed a quantitative support vector machine regression (SVR) approach, called SVRMHC, to model peptide-MHC binding affinities. As a non-linear method, SVRMHC was able to generate models that out-performed existing linear models, such as the \"additive method\". By adopting a new \"11-factor encoding\" scheme, SVRMHC takes into account similarities in the physicochemical properties of the amino acids constituting the input peptides. When applied to MHC-peptide binding data for three mouse class I MHC alleles, the SVRMHC models produced more accurate predictions than those produced previously. Furthermore, comparisons based on Receiver Operating Characteristic (ROC) analysis indicated that SVRMHC was able to outperform several prominent methods in identifying strongly binding peptides.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We developed a quantitative support vector machine regression ( SVR ) approach ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "called SVRMHC , to model peptide-MHC binding affinities .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "As a non-linear method , SVRMHC was able to generate models that out-performed existing linear models ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "such as the `` additive method \u0027\u0027 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "By adopting a new `` 11-factor encoding \u0027\u0027 scheme ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "SVRMHC takes into account similarities in the physicochemical properties of the amino acids constituting the input peptides .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "When applied to MHC-peptide binding data for three mouse class I MHC alleles ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the SVRMHC models produced more accurate predictions than those produced previously .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , comparisons based on Receiver Operating Characteristic ( ROC ) analysis indicated that SVRMHC was able to outperform several prominent methods in identifying strongly binding peptides .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "As a method with demonstrated performance in the quantitative modeling of MHCpeptide binding and in identifying strong binders, SVRMHC is a promising immunoinformatics tool with not inconsiderable future potential.",
+      "sentences": [
+        [
+          {
+            "segment_text": "As a method with demonstrated performance in the quantitative modeling of MHCpeptide binding and in identifying strong binders ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "SVRMHC is a promising immunoinformatics tool with not inconsiderable future potential .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "9",
+    "segment_num": "15",
+    "token_num": "253"
+  }
+}

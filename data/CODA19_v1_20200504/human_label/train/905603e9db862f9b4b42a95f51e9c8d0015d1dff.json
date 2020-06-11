@@ -1,0 +1,64 @@
+{
+  "paper_id": "905603e9db862f9b4b42a95f51e9c8d0015d1dff",
+  "metadata": {
+    "title": "Title: Transmission potential of COVID-19 in South Korea",
+    "coda_data_split": "train",
+    "coda_paper_id": 7944,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Since the first identified individual of 2019 novel coronavirus (COVID-19) infection on Jan 20, 2020",
+      "sentences": [
+        [
+          {
+            "segment_text": "Since the first identified individual of 2019 novel coronavirus ( COVID-19 ) infection on Jan 20 , 2020",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "in South Korea, the number of confirmed cases rapidly increased. As of Feb 26, 2020, 1,261 cases of COVID-19 including 12 deaths were confirmed in South Korea. Using the incidence data of COVID-19, we estimate the reproduction number at 1.5 (95% CI: 1.4-1.6), which indicates sustained transmission and support the implementation of social distancing measures to rapidly control the outbreak.",
+      "sentences": [
+        [
+          {
+            "segment_text": "in South Korea , the number of confirmed cases rapidly increased .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As of Feb 26 , 2020 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "1,261 cases of COVID-19 including 12 deaths were confirmed in South Korea .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using the incidence data of COVID-19 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we estimate the reproduction number at 1.5 ( 95 % CI : 1.4-1.6 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which indicates sustained transmission and support the implementation of social distancing measures to rapidly control the outbreak .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "4",
+    "segment_num": "7",
+    "token_num": "90"
+  }
+}

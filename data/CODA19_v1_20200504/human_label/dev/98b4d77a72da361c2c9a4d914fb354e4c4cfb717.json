@@ -1,0 +1,65 @@
+{
+  "paper_id": "98b4d77a72da361c2c9a4d914fb354e4c4cfb717",
+  "metadata": {
+    "title": "Tracking and predicting growth areas in science",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1881,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "We explore the possibility of using co-citation clusters over three time periods to track the emergence and growth of research areas, and predict their near term change. Data sets are from three overlapping six-year periods: . The methodologies of co-citation clustering, mapping, and string formation are reviewed, and a measure of cluster currency is defined as the average age of highly cited papers relative to the year span of the data set. An association is found between the currency variable in a prior period and the percentage change in cluster size and citation frequency in the following period. The conflating factor of \"single-issue clusters\" is discussed and dealt with using a new metric called in-group citation.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We explore the possibility of using co-citation clusters over three time periods to track the emergence and growth of research areas ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and predict their near term change .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Data sets are from three overlapping six-year periods : .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The methodologies of co-citation clustering ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "mapping , and string formation are reviewed ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and a measure of cluster currency is defined as the average age of highly cited papers relative to the year span of the data set .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "An association is found between the currency variable in a prior period and the percentage change in cluster size and citation frequency in the following period .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The conflating factor of `` single-issue clusters \u0027\u0027 is discussed and dealt with using a new metric called in-group citation .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "8",
+    "token_num": "127"
+  }
+}

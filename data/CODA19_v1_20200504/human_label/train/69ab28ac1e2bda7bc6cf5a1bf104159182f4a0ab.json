@@ -1,0 +1,87 @@
+{
+  "paper_id": "69ab28ac1e2bda7bc6cf5a1bf104159182f4a0ab",
+  "metadata": {
+    "title": "Differentiating Microbial Forensic qPCR Target and Control Products by Electrospray Ionization Mass Spectrometry",
+    "coda_data_split": "train",
+    "coda_paper_id": 3374,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Molecular bioforensic research is dependent on rapid and sensitive methods such as real-time PCR (qPCR) for the identification of microorganisms. The use of synthetic positive control templates containing small modifications outside the primer and probe regions is essential to ensure all aspects of the assay are functioning properly, including the primers and probes. However, a typical qPCR or reverse transcriptase qPCR (qRT-PCR) assay is limited in differentiating products generated from positive controls and biological samples because the fluorescent probe signals generated from each type of amplicon are indistinguishable. Additional methods used to differentiate amplicons, including melt curves, secondary probes, and amplicon sequencing, require significant time to implement and validate and present technical challenges that limit their use for microbial forensic applications. To solve this problem, we have developed a novel application of electrospray ionization mass spectrometry (ESI-MS) to rapidly differentiate qPCR amplicons generated with positive biological samples from those generated with synthetic positive controls. The method has sensitivity equivalent to qPCR and supports the confident and timely determination of the presence of a biothreat agent that is crucial for policymakers and law enforcement. Additionally, it eliminates the need for time-consuming methods to confirm qPCR results, including development and validation of secondary probes or sequencing of small amplicons. In this study, we demonstrate the effectiveness of this approach with microbial forensic qPCR assays targeting multiple biodefense agents (bacterial, viral, and toxin) for the ability to rapidly discriminate between a positive control and a positive sample.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Molecular bioforensic research is dependent on rapid and sensitive methods such as real-time PCR ( qPCR ) for the identification of microorganisms .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The use of synthetic positive control templates containing small modifications outside the primer and probe regions is essential to ensure all aspects of the assay are functioning properly ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including the primers and probes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , a typical qPCR or reverse transcriptase qPCR ( qRT-PCR ) assay is limited in differentiating products generated from positive controls and biological samples because the fluorescent probe signals generated from each type of amplicon are indistinguishable .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Additional methods used to differentiate amplicons ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including melt curves , secondary probes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and amplicon sequencing , require significant time to implement and validate and present technical challenges that limit their use for microbial forensic applications .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To solve this problem , we have developed a novel application of electrospray ionization mass spectrometry ( ESI-MS ) to rapidly differentiate qPCR amplicons generated with positive biological samples from those generated with synthetic positive controls .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The method has sensitivity equivalent to qPCR and supports the confident and timely determination of the presence of a biothreat agent that is crucial for policymakers and law enforcement .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Additionally , it eliminates the need for time-consuming methods to confirm qPCR results ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "including development and validation of secondary probes or sequencing of small amplicons .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we demonstrate the effectiveness of this approach with microbial forensic qPCR assays targeting multiple biodefense agents ( bacterial , viral , and toxin ) for the ability to rapidly discriminate between a positive control and a positive sample .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "12",
+    "token_num": "272"
+  }
+}

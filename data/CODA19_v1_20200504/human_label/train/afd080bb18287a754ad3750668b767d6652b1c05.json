@@ -1,0 +1,97 @@
+{
+  "paper_id": "afd080bb18287a754ad3750668b767d6652b1c05",
+  "metadata": {
+    "title": "Smart monitoring and controlling of Pandemic Influenza A (H1N1) using Social Network Analysis and cloud computing",
+    "coda_data_split": "train",
+    "coda_paper_id": 9842,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "a b s t r a c t H1N1 is an infectious virus which, when spread affects a large volume of the population. It is an airborne disease that spreads easily and has a high death rate. Development of healthcare support systems using cloud computing is emerging as an effective solution with the benefits of better quality of service, reduced costs and flexibility. In this paper, an effective cloud computing architecture is proposed which predicts H1N1 infected patients and provides preventions to control infection rate. It consists of four processing components along with secure cloud storage medical database. The random decision tree is used to initially assess the infection in any patient depending on his/her symptoms. Social Network Analysis (SNA) is used to present the state of the outbreak. The proposed architecture is tested on synthetic data generated for two million users. The system provided 94% accuracy for the classification and around 81% of the resource utilization on Amazon EC2 cloud. The key point of the paper is the use of SNA graphs to calculate role of an infected user in spreading the outbreak known as Outbreak Role Index (ORI). It will help government agencies and healthcare departments to present, analyze and prevent outbreak effectively.",
+      "sentences": [
+        [
+          {
+            "segment_text": "a b s t r a c t H1N1 is an infectious virus which ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "when spread affects a large volume of the population .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is an airborne disease that spreads easily and has a high death rate .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Development of healthcare support systems using cloud computing is emerging as an effective solution with the benefits of better quality of service , reduced costs and flexibility .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this paper , an effective cloud computing architecture is proposed which predicts H1N1 infected patients and provides preventions to control infection rate .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "It consists of four processing components along with secure cloud storage medical database .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The random decision tree is used to initially assess the infection in any patient depending on his/her symptoms .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Social Network Analysis ( SNA ) is used to present the state of the outbreak .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The proposed architecture is tested on synthetic data generated for two million users .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The system provided 94 % accuracy for the classification and around 81 % of the resource utilization on Amazon EC2 cloud .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The key point of the paper is the use of SNA graphs to calculate role of an infected user in spreading the outbreak known as Outbreak Role Index ( ORI ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It will help government agencies and healthcare departments to present ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "analyze and prevent outbreak effectively .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "11",
+    "segment_num": "13",
+    "token_num": "226"
+  }
+}

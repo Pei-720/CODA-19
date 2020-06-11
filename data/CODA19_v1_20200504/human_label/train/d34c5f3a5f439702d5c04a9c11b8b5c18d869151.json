@@ -1,0 +1,113 @@
+{
+  "paper_id": "d34c5f3a5f439702d5c04a9c11b8b5c18d869151",
+  "metadata": {
+    "title": "Temporal event searches based on event maps and relationships ✩",
+    "coda_data_split": "train",
+    "coda_paper_id": 5277,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "To satisfy a user\u0027s need to find and understand the whole picture of an event effectively and efficiently, in this paper we formalize the problem of temporal event searches and propose a framework of event relationship analysis for search events based on user queries. We define three kinds of event relationships: temporal, content dependence, and event reference, that can be used to identify to what extent a component event is dependent on another in the evolution of a target event (i.e., the query event). The search results are organized as a temporal event map (TEM) that serves as the whole picture about an event\u0027s evolution or development by showing the dependence relationships among events. Based on the event relationships in the TEM, we further propose a method to measure the degrees of importance of events, so as to discover the important component events for a query, as well as the several algebraic operators involved in the TEM, that allow users to view the target event. Experiments conducted on a real data set show that our method outperforms the baseline method Event Evolution Graph (EEG), and it can help discover certain new relationships missed by previous methods and even by human annotators. ✩ This article is an extension version of a conference proceeding published in Cai et al. (2013) [1], and some notations, definitions, formulations, descriptions, figures, tables and so on are reused to make new contributions smoothly in this article. The new contributions of this article are (1) new methods of event ranking and temporal event map construction; (2) algebraic operations of the event map; (3) more examples, case studies, and metrics in experiments; and (4) more comprehensive literature review and descriptions.",
+      "sentences": [
+        [
+          {
+            "segment_text": "To satisfy a user \u0027s need to find and understand the whole picture of an event effectively and efficiently ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "in this paper we formalize the problem of temporal event searches and propose a framework of event relationship analysis for search events based on user queries .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We define three kinds of event relationships : temporal ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "content dependence , and event reference ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "that can be used to identify to what extent a component event is dependent on another in the evolution of a target event ( i.e. , the query event ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The search results are organized as a temporal event map ( TEM ) that serves as the whole picture about an event \u0027s evolution or development by showing the dependence relationships among events .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Based on the event relationships in the TEM ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we further propose a method to measure the degrees of importance of events ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "so as to discover the important component events for a query ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as well as the several algebraic operators involved in the TEM ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "that allow users to view the target event .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Experiments conducted on a real data set show that our method outperforms the baseline method Event Evolution Graph ( EEG ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and it can help discover certain new relationships missed by previous methods and even by human annotators .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "✩ This article is an extension version of a conference proceeding published in Cai et al. ( 2013 ) ( 1 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and some notations , definitions ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "formulations , descriptions , figures ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "tables and so on are reused to make new contributions smoothly in this article .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The new contributions of this article are ( 1 ) new methods of event ranking and temporal event map construction ; ( 2 ) algebraic operations of the event map ; ( 3 ) more examples ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "case studies , and metrics in experiments ; and ( 4 ) more comprehensive literature review and descriptions .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "19",
+    "token_num": "331"
+  }
+}

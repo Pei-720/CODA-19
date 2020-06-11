@@ -1,0 +1,126 @@
+{
+  "paper_id": "b85dfd1b900b0c20e55f594e0b97ef364bff1be3",
+  "metadata": {
+    "title": "Sockeye: A 3D Environment for Comparative Genomics",
+    "coda_data_split": "train",
+    "coda_paper_id": 2270,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Comparative genomics techniques are used in bioinformatics analyses to identify the structural and functional properties of DNA sequences. As the amount of available sequence data steadily increases, the ability to perform large-scale comparative analyses has become increasingly relevant. In addition, the growing complexity of genomic feature annotation means that new approaches to genomic visualization need to be explored. We have developed a Java-based application called Sockeye that uses three-dimensional (3D) graphics technology to facilitate the visualization of annotation and conservation across multiple sequences. This software uses the Ensembl database project to import sequence and annotation information from several eukaryotic species. A user can additionally import their own custom sequence and annotation data. Individual annotation objects are displayed in Sockeye by using custom 3D models. Ensembl-derived and imported sequences can be analyzed by using a suite of multiple and pair-wise alignment algorithms. The results of these comparative analyses are also displayed in the 3D environment of Sockeye. By using the Java3D API to visualize genomic data in a 3D environment, we are able to compactly display cross-sequence comparisons. This provides the user with a novel platform for visualizing and comparing genomic feature organization.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Comparative genomics techniques are used in bioinformatics analyses to identify the structural and functional properties of DNA sequences .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As the amount of available sequence data steadily increases ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the ability to perform large-scale comparative analyses has become increasingly relevant .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , the growing complexity of genomic feature annotation means that new approaches to genomic visualization need to be explored .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We have developed a Java-based application called Sockeye that uses three-dimensional ( 3D ) graphics technology to facilitate the visualization of annotation and conservation across multiple sequences .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This software uses the Ensembl database project to import sequence and annotation information from several eukaryotic species .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A user can additionally import their own custom sequence and annotation data .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Individual annotation objects are displayed in Sockeye by using custom 3D models .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Ensembl-derived and imported sequences can be analyzed by using a suite of multiple and pair-wise alignment algorithms .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results of these comparative analyses are also displayed in the 3D environment of Sockeye .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "By using the Java3D API to visualize genomic data in a 3D environment ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we are able to compactly display cross-sequence comparisons .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This provides the user with a novel platform for visualizing and comparing genomic feature organization .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "[Supplemental material is available online at www.genome.org.] 3 Corresponding author. E-MAIL sjones@bcgsc.bc.ca; FAX (604) 877-6085. Article and publication are at",
+      "sentences": [
+        [
+          {
+            "segment_text": "( Supplemental material is available online at www.genome.org . )",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "3 Corresponding author .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "E-MAIL sjones@bcgsc.bc.ca ; FAX -LRB-604-RRB- 877-6085 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Article and publication are at",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "15",
+    "segment_num": "17",
+    "token_num": "233"
+  }
+}

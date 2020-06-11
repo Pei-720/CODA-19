@@ -1,0 +1,143 @@
+{
+  "paper_id": "c14160d7c97c5cf7b4d0bee2a31da3d838e5cb4d",
+  "metadata": {
+    "title": "A comparison of two methods for retrieving ICD-9-CM data: The effect of using an ontology-based method for handling terminology changes",
+    "coda_data_split": "train",
+    "coda_paper_id": 2096,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Objective: Most existing controlled terminologies can be characterized as collections of terms, wherein the terms are arranged in a simple list or organized in a hierarchy. These kinds of terminologies are considered useful for standardizing terms and encoding data and are currently used in many existing information systems. However, they suffer from a number of limitations that make data reuse difficult. Relatively recently, it has been proposed that formal ontological methods can be applied to some of the problems of terminological design. Biomedical ontologies organize concepts (embodiments of knowledge about biomedical reality) whereas terminologies organize terms (what is used to code patient data at a certain point in time, based on the particular terminology version). However, the application of these methods to existing terminologies is not straightforward. The use of these terminologies is firmly entrenched in many systems, and what might seem to be a simple option of replacing these terminologies is not possible. Moreover, these terminologies evolve over time in order to suit the needs of users. Any methodology must therefore take these constraints into consideration, hence the need for formal methods of managing changes. Along these lines, we have developed a formal representation of the conceptterm relation, around which we have also developed a methodology for management of terminology changes. The objective of this study was to determine whether our methodology would result in improved retrieval of data. Design: Comparison of two methods for retrieving data encoded with terms from the International Classification of Diseases (ICD-9-CM), based on their recall when retrieving data for ICD-9-CM terms whose codes had changed but which had retained their original meaning (code change). Measurements: Recall and interclass correlation coefficient. Results: Statistically significant differences were detected (p \u003c 0.05) with the McNemar test for two terms whose codes had changed. Furthermore, when all the cases are combined in an overall category, our method also performs statistically significantly better (p \u003c 0.05). Conclusion: Our study shows that an ontology-based ICD-9-CM data retrieval method that takes into account the effects of terminology changes performs better on recall than one that does not in the retrieval of data for terms whose codes had changed but which retained their original meaning.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Objective : Most existing controlled terminologies can be characterized as collections of terms ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "wherein the terms are arranged in a simple list or organized in a hierarchy .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These kinds of terminologies are considered useful for standardizing terms and encoding data and are currently used in many existing information systems .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , they suffer from a number of limitations that make data reuse difficult .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Relatively recently , it has been proposed that formal ontological methods can be applied to some of the problems of terminological design .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Biomedical ontologies organize concepts ( embodiments of knowledge about biomedical reality ) whereas terminologies organize terms ( what is used to code patient data at a certain point in time , based on the particular terminology version ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the application of these methods to existing terminologies is not straightforward .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The use of these terminologies is firmly entrenched in many systems ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and what might seem to be a simple option of replacing these terminologies is not possible .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , these terminologies evolve over time in order to suit the needs of users .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Any methodology must therefore take these constraints into consideration ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "hence the need for formal methods of managing changes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Along these lines , we have developed a formal representation of the conceptterm relation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "around which we have also developed a methodology for management of terminology changes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The objective of this study was to determine whether our methodology would result in improved retrieval of data .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Design : Comparison of two methods for retrieving data encoded with terms from the International Classification of Diseases ( ICD-9-CM ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "based on their recall when retrieving data for ICD-9-CM terms whose codes had changed but which had retained their original meaning ( code change ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Measurements : Recall and interclass correlation coefficient .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results : Statistically significant differences were detected ( p \u003c 0.05 ) with the McNemar test for two terms whose codes had changed .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , when all the cases are combined in an overall category ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "our method also performs statistically significantly better ( p \u003c 0.05 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Conclusion : Our study shows that an ontology-based ICD-9-CM data retrieval method that takes into account the effects of terminology changes performs better on recall than one that does not in the retrieval of data for terms whose codes had changed but which retained their original meaning .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "16",
+    "segment_num": "22",
+    "token_num": "410"
+  }
+}

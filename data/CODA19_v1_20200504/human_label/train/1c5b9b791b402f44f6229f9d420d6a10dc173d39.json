@@ -1,0 +1,184 @@
+{
+  "paper_id": "1c5b9b791b402f44f6229f9d420d6a10dc173d39",
+  "metadata": {
+    "title": "A network pharmacology-based approach to analyse potential targets of traditional herbal formulas: An example of Yu Ping Feng decoction OPEN",
+    "coda_data_split": "train",
+    "coda_paper_id": 6928,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Herbal formulas from traditional Chinese medicines (TCMs) have been extensively used in clinics as effective therapies, but it is still a great challenge to demonstrate the scientific basis for their therapeutic effects at the level of molecular biology. By taking a classic herbal formula (Yu Ping Feng decoction, YPF) as an example, this study developed a novel network pharmacology based method to identify its potential therapeutic targets. First, this study constructed a \"targets-(pathways)-targets\" (TPT) network in which targets of YPF were connected by relevant pathways; then, this network was decomposed into separate modules with strong internal connections; lastly, the propensity of each module toward different diseases was assessed by a contribution score. On the basis of a significant association between network modules and therapeutic diseases validated by chi-square test (p-value \u003c 0.001), this study identified the network module with the strongest propensity toward therapeutic diseases of YPF. Further, the targets with the highest centrality in this module are recommended as YPF\u0027s potential therapeutic targets. By integrating the complicated \"multi-targetsmulti-pathways-multi-diseases\" relationship of herbal formulas, the method shows promise for identifying its potential therapeutic targets, which could contribute to the modern scientific illustration of TCMs\u0027 traditional clinical applications.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Herbal formulas from traditional Chinese medicines ( TCMs ) have been extensively used in clinics as effective therapies ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but it is still a great challenge to demonstrate the scientific basis for their therapeutic effects at the level of molecular biology .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "By taking a classic herbal formula ( Yu Ping Feng decoction , YPF ) as an example ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "this study developed a novel network pharmacology based method to identify its potential therapeutic targets .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "First , this study constructed a `` targets - ( pathways ) - targets \u0027\u0027 ( TPT ) network in which targets of YPF were connected by relevant pathways ; then ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "this network was decomposed into separate modules with strong internal connections ; lastly ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the propensity of each module toward different diseases was assessed by a contribution score .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "On the basis of a significant association between network modules and therapeutic diseases validated by chi-square test ( p-value \u003c 0.001 ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "this study identified the network module with the strongest propensity toward therapeutic diseases of YPF .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Further , the targets with the highest centrality in this module are recommended as YPF \u0027s potential therapeutic targets .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "By integrating the complicated `` multi-targetsmulti-pathways-multi-diseases \u0027\u0027 relationship of herbal formulas ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the method shows promise for identifying its potential therapeutic targets ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which could contribute to the modern scientific illustration of TCMs \u0027 traditional clinical applications .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Understanding the scientific basis and therapeutic mechanisms of herbal formulas from traditional Chinese medicines (TCMs) is essential since they play a vital role in complementary and alternative therapies in clinical practice to cure diseases or restore the whole-body balance; additionally, they provide a rich source for drug discovery. Owing to the complexity of the constituents in TCMs, reductionism, which individually considers each ingredient, cannot adequately explain the effects generated by an entire formula, and therefore faces several challenges comprehending and illustrating the mechanisms of herbal formulas. With the rapid development of bioinformatics, a combined attempt based on system/network biology and polypharmacology has created a new paradigm called network pharmacology (NP).",
+      "sentences": [
+        [
+          {
+            "segment_text": "Understanding the scientific basis and therapeutic mechanisms of herbal formulas from traditional Chinese medicines ( TCMs ) is essential since they play a vital role in complementary and alternative therapies in clinical practice to cure diseases or restore the whole-body balance ; additionally ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "they provide a rich source for drug discovery .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Owing to the complexity of the constituents in TCMs ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "reductionism , which individually considers each ingredient ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "can not adequately explain the effects generated by an entire formula ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and therefore faces several challenges comprehending and illustrating the mechanisms of herbal formulas .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "With the rapid development of bioinformatics ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a combined attempt based on system/network biology and polypharmacology has created a new paradigm called network pharmacology ( NP ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In recent years, NP has been proposed as a promising approach for understanding herbal formulas 1,2 and predicting potential new drugs or targets 3-5 . To some extent, NP-based research on the underlying therapeutic mechanisms of herbal formulas has been well-accepted 6,7 and accounts for the strong compatibility of different scales of systems. A distinct advantage of network analysis is that it can excavate underlying information from multilevel interactions, especially when dealing with big data.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In recent years , NP has been proposed as a promising approach for understanding herbal formulas 1,2 and predicting potential new drugs or targets 3-5 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To some extent , NP-based research on the underlying therapeutic mechanisms of herbal formulas has been well-accepted 6,7 and accounts for the strong compatibility of different scales of systems .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A distinct advantage of network analysis is that it can excavate underlying information from multilevel interactions ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "especially when dealing with big data .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Yu Ping Feng (YPF) decoction, a classic herbal formula, has been used in clinics to treat various diseases, such as respiratory tract infection 8,9 , nosocomial pneumonia 10 , chronic bronchitis 11 , and perennial allergic rhinitis 12,13 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Yu Ping Feng ( YPF ) decoction ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a classic herbal formula , has been used in clinics to treat various diseases ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as respiratory tract infection 8,9 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "nosocomial pneumonia 10 , chronic bronchitis 11 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and perennial allergic rhinitis 12,13 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "13",
+    "segment_num": "30",
+    "token_num": "483"
+  }
+}

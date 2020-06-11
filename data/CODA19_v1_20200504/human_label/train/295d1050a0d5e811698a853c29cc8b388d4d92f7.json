@@ -1,0 +1,173 @@
+{
+  "paper_id": "295d1050a0d5e811698a853c29cc8b388d4d92f7",
+  "metadata": {
+    "title": "The impact of the interferon/TNF- Related Apoptosis-inducing Ligand Signaling Axis on Disease Progression in Respiratory viral infection and Beyond",
+    "coda_data_split": "train",
+    "coda_paper_id": 9422,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Keywords: interferon, interferon-stimulated genes, tumor necrosis factor-related apoptosis-inducing ligand, acute lung injury, innate immunity, influenza, respiratory syncytial virus, coronavirus FiGURe 1 | PRRs and their downstream signaling pathways in virus-induced iFN induction. In viral infection, type I IFNs are induced by TLR, RLR, CLR, and cytosolic nucleic acid sensors. Cell membrane-located TLRs ligate to viral envelope proteins (e.g., TLR2/herpes simplex virus), upon which they recruit MyD88. MyD88 interacts with IRAK kinase (IRAK-1, -2, or -4) that either directly activate IRF1 or interact with TRAF6, which induces IRF7 or assembles with TAK1. TAK1 forms a complex with TAB-1/-2 and -3 and subsequently either activates the MAPK kinases p38 and JNK, leading to AP-1 phosphorylation and nuclear translocation, or induces ubiquitination of NEMO followed by IκB degradation and NFκB activation. Endosomal TLRs recognizing viral nucleic acid and signal via the adaptor protein MyD88 (for TLR7/8/9) or interact with TRIF (for TLR3) followed by TRAF3, TANK, and TBK1 activation. TBK1 and IKKε then phosphorylate and activate IRF3 and IRF7. Additionally, TRIF can interact with TRAF6 to initiate TAK1 signaling. Both RLRs, RIG-I and MDA-5, recognize nucleic acid contents in the cytoplasm and stimulate the mitochondrial anchored IPS-1 for dimerization followed by TRADD recruitment that acts via TRAF3 on IRF3 and IRF7. Additionally, IPS-1 can interact with FADD and RIP1 to activate NFκB via IKK activated by caspase-8 and -10. Also PKR signaling results in NFκB activation and nuclear translocation. The dsDNA sensor cGAS produces cGAMP that activates ER-located STING that via TBK1 induces IRF3 translocation and type I IFN production. CLRs play a minor role in viral recognition; however, DC-SIGN activates the small GTPase Ras and Raf protein kinase, followed by NFκB activation. Type III IFN are induced by TLR3, TLR9, and via RIG-I and peroxisomal-resident IPS-1. Especially IRF1, but also NFκB, IRF3, and IRF7 are implicated in IFN-λ production, with the latter being stabilized by Med23.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Keywords : interferon , interferon-stimulated genes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "tumor necrosis factor-related apoptosis-inducing ligand ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "acute lung injury , innate immunity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "influenza , respiratory syncytial virus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "coronavirus FiGURe 1 | PRRs and their downstream signaling pathways in virus-induced iFN induction .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In viral infection , type I IFNs are induced by TLR ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "RLR , CLR , and cytosolic nucleic acid sensors .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Cell membrane-located TLRs ligate to viral envelope proteins ( e.g. , TLR2/herpes simplex virus ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "upon which they recruit MyD88 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "MyD88 interacts with IRAK kinase ( IRAK-1 , -2 , or -4 ) that either directly activate IRF1 or interact with TRAF6 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which induces IRF7 or assembles with TAK1 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "TAK1 forms a complex with TAB-1 / -2 and -3 and subsequently either activates the MAPK kinases p38 and JNK ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "leading to AP-1 phosphorylation and nuclear translocation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "or induces ubiquitination of NEMO followed by IκB degradation and NFκB activation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Endosomal TLRs recognizing viral nucleic acid and signal via the adaptor protein MyD88 ( for TLR7/8/9 ) or interact with TRIF ( for TLR3 ) followed by TRAF3 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "TANK , and TBK1 activation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "TBK1 and IKKε then phosphorylate and activate IRF3 and IRF7 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Additionally , TRIF can interact with TRAF6 to initiate TAK1 signaling .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Both RLRs , RIG-I and MDA-5 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "recognize nucleic acid contents in the cytoplasm and stimulate the mitochondrial anchored IPS-1 for dimerization followed by TRADD recruitment that acts via TRAF3 on IRF3 and IRF7 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Additionally , IPS-1 can interact with FADD and RIP1 to activate NFκB via IKK activated by caspase-8 and -10 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Also PKR signaling results in NFκB activation and nuclear translocation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The dsDNA sensor cGAS produces cGAMP that activates ER-located STING that via TBK1 induces IRF3 translocation and type I IFN production .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "CLRs play a minor role in viral recognition ; however ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "DC-SIGN activates the small GTPase Ras and Raf protein kinase , followed by NFκB activation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Type III IFN are induced by TLR3 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "TLR9 , and via RIG-I and peroxisomal-resident IPS-1 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Especially IRF1 , but also NFκB ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "IRF3 , and IRF7 are implicated in IFN-λ production ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with the latter being stabilized by Med23 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "15",
+    "segment_num": "30",
+    "token_num": "373"
+  }
+}

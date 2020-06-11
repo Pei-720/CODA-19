@@ -1,0 +1,61 @@
+{
+  "paper_id": "ea63b35ed120517fe86fc17fd75df8b73a0448fa",
+  "metadata": {
+    "title": "Mapping the Protein-Protein Interactome Networks Using Yeast Two-Hybrid Screens",
+    "coda_data_split": "train",
+    "coda_paper_id": 10026,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The yeast two-hybrid system (Y2H) is a powerful method to identify binary protein-protein interactions in vivo. Here we describe Y2H screening strategies that use defined libraries of open reading frames (ORFs) and cDNA libraries. The array-based Y2H system is well suited for interactome studies of small genomes with an existing ORFeome clones preferentially in a recombination based cloning system. For large genomes, pooled library screening followed by Y2H pairwise retests may be more efficient in terms of time and resources, but multiple sampling is necessary to ensure comprehensive screening. While the Y2H false positives can be efficiently reduced by using built-in controls, retesting, and evaluation of background activation; implementing the multiple variants of the Y2H vector systems is essential to reduce the false negatives and ensure comprehensive coverage of an interactome.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The yeast two-hybrid system ( Y2H ) is a powerful method to identify binary protein-protein interactions in vivo .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we describe Y2H screening strategies that use defined libraries of open reading frames ( ORFs ) and cDNA libraries .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The array-based Y2H system is well suited for interactome studies of small genomes with an existing ORFeome clones preferentially in a recombination based cloning system .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "For large genomes , pooled library screening followed by Y2H pairwise retests may be more efficient in terms of time and resources ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but multiple sampling is necessary to ensure comprehensive screening .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "While the Y2H false positives can be efficiently reduced by using built-in controls ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "retesting , and evaluation of background activation ; implementing the multiple variants of the Y2H vector systems is essential to reduce the false negatives and ensure comprehensive coverage of an interactome .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "7",
+    "token_num": "145"
+  }
+}

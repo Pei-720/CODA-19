@@ -1,0 +1,113 @@
+{
+  "paper_id": "e6a9cb9589ec2381d774a128189529fc2669f079",
+  "metadata": {
+    "title": "Viral Metagenomics on Cerebrospinal Fluid",
+    "coda_data_split": "test",
+    "coda_paper_id": 436,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Identifying the causative pathogen in central nervous system (CNS) infections is crucial for patient management and prognosis. Many viruses can cause CNS infections, yet screening for each individually is costly and time-consuming. Most metagenomic assays can theoretically detect all pathogens, but often fail to detect viruses because of their small genome and low viral load. Viral metagenomics overcomes this by enrichment of the viral genomic content in a sample. VIDISCA-NGS is one of the available workflows for viral metagenomics, which requires only a small input volume and allows multiplexing of multiple samples per run. The performance of VIDISCA-NGS was tested on 45 cerebrospinal fluid (CSF) samples from patients with suspected CNS infections in which a virus was identified and quantified by polymerase chain reaction. Eighteen were positive for an RNA virus, and 34 for a herpesvirus. VIDISCA-NGS detected all RNA viruses with a viral load \u003e2 × 10 4 RNA copies/mL (n \u003d 6) and 8 of 12 of the remaining low load samples. Only one herpesvirus was identified by VIDISCA-NGS, however, when withholding a DNase treatment, 11 of 18 samples with a herpesvirus load \u003e10 4 DNA copies/mL were detected. Our results indicate that VIDISCA-NGS has the capacity to detect low load RNA viruses in CSF. Herpesvirus DNA in clinical samples is probably non-encapsidated and therefore difficult to detect by VIDISCA-NGS.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Identifying the causative pathogen in central nervous system ( CNS ) infections is crucial for patient management and prognosis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Many viruses can cause CNS infections ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "yet screening for each individually is costly and time-consuming .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Most metagenomic assays can theoretically detect all pathogens ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but often fail to detect viruses because of their small genome and low viral load .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Viral metagenomics overcomes this by enrichment of the viral genomic content in a sample .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "VIDISCA-NGS is one of the available workflows for viral metagenomics ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which requires only a small input volume and allows multiplexing of multiple samples per run .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The performance of VIDISCA-NGS was tested on 45 cerebrospinal fluid ( CSF ) samples from patients with suspected CNS infections in which a virus was identified and quantified by polymerase chain reaction .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Eighteen were positive for an RNA virus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and 34 for a herpesvirus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "VIDISCA-NGS detected all RNA viruses with a viral load \u003e 2 × 10 4 RNA copies/mL ( n \u003d 6 ) and 8 of 12 of the remaining low load samples .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Only one herpesvirus was identified by VIDISCA-NGS ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "however , when withholding a DNase treatment ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "11 of 18 samples with a herpesvirus load \u003e 10 4 DNA copies/mL were detected .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our results indicate that VIDISCA-NGS has the capacity to detect low load RNA viruses in CSF .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Herpesvirus DNA in clinical samples is probably non-encapsidated and therefore difficult to detect by VIDISCA-NGS .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "11",
+    "segment_num": "17",
+    "token_num": "248"
+  }
+}

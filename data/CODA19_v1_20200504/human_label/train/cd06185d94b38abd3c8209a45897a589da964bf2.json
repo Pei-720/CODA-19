@@ -1,0 +1,165 @@
+{
+  "paper_id": "cd06185d94b38abd3c8209a45897a589da964bf2",
+  "metadata": {
+    "title": "De novo Sequence Assembly and Characterization of Lycoris aurea Transcriptome Using GS FLX Titanium Platform of 454 Pyrosequencing",
+    "coda_data_split": "train",
+    "coda_paper_id": 5348,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Lycoris aurea, also called Golden Magic Lily, is an ornamentally and medicinally important species of the Amaryllidaceae family. To date, the sequencing of its whole genome is unavailable as a non-model organism. Transcriptomic information is also scarce for this species. In this study, we performed de novo transcriptome sequencing to produce the first comprehensive expressed sequence tag (EST) dataset for L. aurea using high-throughput sequencing technology.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Lycoris aurea , also called Golden Magic Lily ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "is an ornamentally and medicinally important species of the Amaryllidaceae family .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To date , the sequencing of its whole genome is unavailable as a non-model organism .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Transcriptomic information is also scarce for this species .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we performed de novo transcriptome sequencing to produce the first comprehensive expressed sequence tag ( EST ) dataset for L. aurea using high-throughput sequencing technology .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Methodology and Principal Findings: Total RNA was isolated from leaves with sodium nitroprusside (SNP), salicylic acid (SA), or methyl jasmonate (MeJA) treatment, stems, and flowers at the bud, blooming, and wilting stages. Equal quantities of RNA from each tissue and stage were pooled to construct a cDNA library. Using 454 pyrosequencing technology, a total of 937,990 high quality reads (308.63 Mb) with an average read length of 329 bp were generated. Clustering and assembly of these reads produced a non-redundant set of 141,111 unique sequences, comprising 24,604 contigs and 116,507 singletons. All of the unique sequences were involved in the biological process, cellular component and molecular function categories by GO analysis. Potential genes and their functions were predicted by KEGG pathway mapping and COG analysis. Based on our sequence analysis and published literatures, many putative genes involved in Amaryllidaceae alkaloids synthesis, including PAL, TYDC OMT, NMT, P450, and other potentially important candidate genes, were identified for the first time in this Lycoris. Furthermore, 6,386 SSRs and 18,107 high-confidence SNPs were identified in this EST dataset.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Methodology and Principal Findings : Total RNA was isolated from leaves with sodium nitroprusside ( SNP ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "salicylic acid ( SA ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "or methyl jasmonate ( MeJA ) treatment ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "stems , and flowers at the bud ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "blooming , and wilting stages .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Equal quantities of RNA from each tissue and stage were pooled to construct a cDNA library .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using 454 pyrosequencing technology , a total of 937,990 high quality reads ( 308.63 Mb ) with an average read length of 329 bp were generated .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Clustering and assembly of these reads produced a non-redundant set of 141,111 unique sequences ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "comprising 24,604 contigs and 116,507 singletons .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "All of the unique sequences were involved in the biological process ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "cellular component and molecular function categories by GO analysis .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Potential genes and their functions were predicted by KEGG pathway mapping and COG analysis .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Based on our sequence analysis and published literatures ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "many putative genes involved in Amaryllidaceae alkaloids synthesis ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including PAL , TYDC OMT ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "NMT , P450 , and other potentially important candidate genes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "were identified for the first time in this Lycoris .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , 6,386 SSRs and 18,107 high-confidence SNPs were identified in this EST dataset .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The transcriptome provides an invaluable new data for a functional genomics resource and future biological research in L. aurea. The molecular markers identified in this study will provide a material basis for future genetic linkage and quantitative trait loci analyses, and will provide useful information for functional genomic research in future.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The transcriptome provides an invaluable new data for a functional genomics resource and future biological research in L. aurea .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The molecular markers identified in this study will provide a material basis for future genetic linkage and quantitative trait loci analyses ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and will provide useful information for functional genomic research in future .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "14",
+    "segment_num": "26",
+    "token_num": "341"
+  }
+}

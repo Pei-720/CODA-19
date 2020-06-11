@@ -1,0 +1,47 @@
+{
+  "paper_id": "c3c1f7896932b6295deccd52b23336f3149720fc",
+  "metadata": {
+    "title": "Stochastic Compartmental Modelling of SARS-CoV-2 with Approximate Bayesian Computation",
+    "coda_data_split": "train",
+    "coda_paper_id": 4505,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "In this proof-of-concept study, we model the spread of SARS-CoV-2 in various environments with a stochastic susceptible-infectious-recovered (SIR) compartmental model. We fit this model to the latest epidemic data with an approximate Bayesian computation (ABC) technique. Within this SIR-ABC framework, we extrapolate long-term infection curves for several regions and evaluate their steepness. We propose several applications and extensions of the SIR-ABC technique.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this proof-of-concept study , we model the spread of SARS-CoV-2 in various environments with a stochastic susceptible-infectious-recovered ( SIR ) compartmental model .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We fit this model to the latest epidemic data with an approximate Bayesian computation ( ABC ) technique .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Within this SIR-ABC framework , we extrapolate long-term infection curves for several regions and evaluate their steepness .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We propose several applications and extensions of the SIR-ABC technique .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "4",
+    "segment_num": "4",
+    "token_num": "72"
+  }
+}

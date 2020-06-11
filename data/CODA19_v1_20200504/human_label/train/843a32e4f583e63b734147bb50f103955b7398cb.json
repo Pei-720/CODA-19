@@ -1,0 +1,118 @@
+{
+  "paper_id": "843a32e4f583e63b734147bb50f103955b7398cb",
+  "metadata": {
+    "title": "Environ Model Softw",
+    "coda_data_split": "train",
+    "coda_paper_id": 3490,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Microbial dose response modelling is vital to a well-characterized microbial risk estimate. Dose response modelling is an inherently multidisciplinary field, which collates knowledge and data from disparate scientific fields. This multidisciplinary nature presents a key challenge to the expansion of microbial dose response modelling into new groups of researchers and modelers. This research employs a dose response optimization R code used in 18 peer-reviewed research studies to develop a multi-functional dose response software. The underlying R code performs an optimization of the two primary dose response models using the MLE method and outputs statistical analyses of the fits and bootstrapped uncertainty information for the models. VizDR (Visual Dose Response) was developed to provide microbial dose response modelling capabilities to a larger audience. VizDR is programmed in JavaScript with underlying Python scripts for intercommunication with Rserve. VizDR allows for dose response model visualization and optimization of a user\u0027s own experimental data. , (J. Mitchell).",
+      "sentences": [
+        [
+          {
+            "segment_text": "Microbial dose response modelling is vital to a well-characterized microbial risk estimate .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Dose response modelling is an inherently multidisciplinary field ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which collates knowledge and data from disparate scientific fields .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This multidisciplinary nature presents a key challenge to the expansion of microbial dose response modelling into new groups of researchers and modelers .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This research employs a dose response optimization R code used in 18 peer-reviewed research studies to develop a multi-functional dose response software .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The underlying R code performs an optimization of the two primary dose response models using the MLE method and outputs statistical analyses of the fits and bootstrapped uncertainty information for the models .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "VizDR ( Visual Dose Response ) was developed to provide microbial dose response modelling capabilities to a larger audience .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "VizDR is programmed in JavaScript with underlying Python scripts for intercommunication with Rserve .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "VizDR allows for dose response model visualization and optimization of a user \u0027s own experimental data .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": ", ( J. Mitchell ) .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The R source code for dose response optimization and app pseudo code (due to its size) are available at the QMRA wiki (http:// qmrawiki.canr.msu.edu/index.php/Dose_Response_Modeling_R_Code). The code as well as the description contains instructions for use. The code and software will work on Windows, Mac and Linux equally well. The user will need to have an updated version of R (https://cran.r-project.org/) and their own dose response data, the outline of which can be seen in the software as well as the code description file.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The R source code for dose response optimization and app pseudo code ( due to its size ) are available at the QMRA wiki ( http : / / qmrawiki.canr.msu.edu/index.php/Dose_Response_Modeling_R_Code ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The code as well as the description contains instructions for use .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The code and software will work on Windows ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Mac and Linux equally well .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The user will need to have an updated version of R ( https://cran.r-project.org/ ) and their own dose response data ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the outline of which can be seen in the software as well as the code description file .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "13",
+    "segment_num": "16",
+    "token_num": "266"
+  }
+}

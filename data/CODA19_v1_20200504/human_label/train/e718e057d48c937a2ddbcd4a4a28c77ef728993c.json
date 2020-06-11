@@ -1,0 +1,99 @@
+{
+  "paper_id": "e718e057d48c937a2ddbcd4a4a28c77ef728993c",
+  "metadata": {
+    "title": "Comparison of SARS and NL63 Papain-Like Protease Binding Sites and Binding Site Dynamics: Inhibitor Design Implications",
+    "coda_data_split": "train",
+    "coda_paper_id": 10045,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The human severe acute respiratory syndrome coronavirus (SARS-CoV) and the NL63 coronaviruses are human respiratory pathogens for which no effective antiviral treatment exists. The papain-like cysteine proteases encoded by the coronavirus (SARS-CoV: PLpro; NL63: PLP1 and PLP2) represent potential targets for antiviral drug development. Three recent inhibitor-bound PLpro structures highlight the role of an extremely flexible six-residue loop in inhibitor binding. The high binding site plasticity is a major challenge in computational drug discovery/design efforts. From conventional molecular dynamics and accelerated molecular dynamics (aMD) simulations, we find that with conventional molecular dynamics simulation, PLpro translationally samples the open and closed conformation of BL2 loop on a picosecond-nanosecond timescale but does not reproduce the peptide bond inversion between loop residues Tyr269 and Gln270 that is observed on inhibitor GRL0617 binding. Only aMD simulation, starting from the closed loop conformation, reproduced the 180°ϕ-ψ dihedral rotation back to the open loop state. The Tyr-Gln peptide bond inversion appears to involve a progressive conformational change of the full loop, starting at one side, and progressing to the other. We used the SARS-CoV apo X-ray structure to develop a model of the NL63-PLP2 catalytic site. Superimposition of the PLP2 model on the PLpro X-ray structure identifies binding site residues in PLP2 that contribute to the distinct substrate cleavage site specificities between the two proteases. The topological and electrostatic differences between the two protease binding sites also help explain the selectivity of non-covalent PLpro inhibitors.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The human severe acute respiratory syndrome coronavirus ( SARS-CoV ) and the NL63 coronaviruses are human respiratory pathogens for which no effective antiviral treatment exists .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The papain-like cysteine proteases encoded by the coronavirus ( SARS-CoV : PLpro ; NL63 : PLP1 and PLP2 ) represent potential targets for antiviral drug development .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Three recent inhibitor-bound PLpro structures highlight the role of an extremely flexible six-residue loop in inhibitor binding .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The high binding site plasticity is a major challenge in computational drug discovery/design efforts .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "From conventional molecular dynamics and accelerated molecular dynamics ( aMD ) simulations ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we find that with conventional molecular dynamics simulation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "PLpro translationally samples the open and closed conformation of BL2 loop on a picosecond-nanosecond timescale but does not reproduce the peptide bond inversion between loop residues Tyr269 and Gln270 that is observed on inhibitor GRL0617 binding .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Only aMD simulation , starting from the closed loop conformation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "reproduced the 180 ° ϕ-ψ dihedral rotation back to the open loop state .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The Tyr-Gln peptide bond inversion appears to involve a progressive conformational change of the full loop ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "starting at one side , and progressing to the other .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We used the SARS-CoV apo X-ray structure to develop a model of the NL63-PLP2 catalytic site .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Superimposition of the PLP2 model on the PLpro X-ray structure identifies binding site residues in PLP2 that contribute to the distinct substrate cleavage site specificities between the two proteases .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The topological and electrostatic differences between the two protease binding sites also help explain the selectivity of non-covalent PLpro inhibitors .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "10",
+    "segment_num": "14",
+    "token_num": "266"
+  }
+}

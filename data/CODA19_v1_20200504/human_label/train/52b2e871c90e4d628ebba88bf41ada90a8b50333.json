@@ -1,0 +1,75 @@
+{
+  "paper_id": "52b2e871c90e4d628ebba88bf41ada90a8b50333",
+  "metadata": {
+    "title": "Receptor-binding domain of SARS-CoV spike protein induces highly potent neutralizing antibodies: implication for developing subunit vaccine",
+    "coda_data_split": "train",
+    "coda_paper_id": 6297,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The spike (S) protein of severe acute respiratory syndrome (SARS) coronavirus (CoV), a type I transmembrane envelope glycoprotein, consists of S1 and S2 domains responsible for virus binding and fusion, respectively. The S1 contains a receptor-binding domain (RBD) that can specifically bind to angiotensin-converting enzyme 2 (ACE2), the receptor on target cells. Here we show that a recombinant fusion protein (designated RBD-Fc) containing 193-amino acid RBD (residues 318-510) and a human IgG1 Fc fragment can induce highly potent antibody responses in the immunized rabbits. The antibodies recognized RBD on S1 domain and completely inhibited SARS-CoV infection at a serum dilution of 1:10,240. Rabbit antisera effectively blocked binding of S1, which contains RBD, to ACE2. This suggests that RBD can induce highly potent neutralizing antibody responses and has potential to be developed as an effective and safe subunit vaccine for prevention of SARS.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The spike ( S ) protein of severe acute respiratory syndrome ( SARS ) coronavirus ( CoV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a type I transmembrane envelope glycoprotein ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "consists of S1 and S2 domains responsible for virus binding and fusion , respectively .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The S1 contains a receptor-binding domain ( RBD ) that can specifically bind to angiotensin-converting enzyme 2 ( ACE2 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the receptor on target cells .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we show that a recombinant fusion protein ( designated RBD-Fc ) containing 193-amino acid RBD ( residues 318-510 ) and a human IgG1 Fc fragment can induce highly potent antibody responses in the immunized rabbits .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The antibodies recognized RBD on S1 domain and completely inhibited SARS-CoV infection at a serum dilution of 1:10,240 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Rabbit antisera effectively blocked binding of S1 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which contains RBD , to ACE2 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This suggests that RBD can induce highly potent neutralizing antibody responses and has potential to be developed as an effective and safe subunit vaccine for prevention of SARS .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "10",
+    "token_num": "168"
+  }
+}

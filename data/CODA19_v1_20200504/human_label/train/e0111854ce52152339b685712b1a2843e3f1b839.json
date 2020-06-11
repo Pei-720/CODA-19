@@ -1,0 +1,282 @@
+{
+  "paper_id": "e0111854ce52152339b685712b1a2843e3f1b839",
+  "metadata": {
+    "title": "Nucleolin interacts with influenza A nucleoprotein and contributes to viral ribonucleoprotein complexes nuclear trafficking and efficient influenza viral replication OPEN",
+    "coda_data_split": "train",
+    "coda_paper_id": 4971,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "IAV and the host Crm1-dependent nuclear export machinery requires further exploration. Recently, Chase and collaborators showed that the interaction between vRNPs and the nuclear export machinery takes place in dense chromatin domains that allow IAV to \"snatch\" Crm1-RanGTP nuclear export complexes to the detriment of cellular substrates 13 . These results, together with other observations, highlight the involvement of host nuclear compartmentalization and chromatin territories in regulating nuclear traffic of IAV vRNPs [14] [15] [16] [17] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "IAV and the host Crm1-dependent nuclear export machinery requires further exploration .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recently , Chase and collaborators showed that the interaction between vRNPs and the nuclear export machinery takes place in dense chromatin domains that allow IAV to `` snatch \u0027\u0027 Crm1-RanGTP nuclear export complexes to the detriment of cellular substrates 13 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These results , together with other observations ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "highlight the involvement of host nuclear compartmentalization and chromatin territories in regulating nuclear traffic of IAV vRNPs ( 14 ) ( 15 ) ( 16 ) ( 17 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Several investigations, including ours, have revealed that IAV induce a strong remodeling of nuclear architecture with marked modifications of the nucleoli ultrastructure and compartments 3,17-20 . The nucleolus, known as the site of ribosome biogenesis, is also a sensor of cellular stresses and is involved in several cellular pathways, such as cell-cycle regulation or apoptosis 21-23 . Several DNA and RNA viruses, including cytoplasmic viruses are known to induce nucleolar alterations that contribute towards optimal infection 24-26 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Several investigations , including ours ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "have revealed that IAV induce a strong remodeling of nuclear architecture with marked modifications of the nucleoli ultrastructure and compartments 3,17-20 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The nucleolus , known as the site of ribosome biogenesis ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "is also a sensor of cellular stresses and is involved in several cellular pathways ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as cell-cycle regulation or apoptosis 21-23 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Several DNA and RNA viruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including cytoplasmic viruses are known to induce nucleolar alterations that contribute towards optimal infection 24-26 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In the context of IAV, their interplay with nucleolus and selective interactions with several nucleolar components appears to be decisive in the outcome of infection 17, 20 . Ozawa and colleagues demonstrated that dynamic nucleolar localization of NP is functionally significant by contributing to efficient viral replication and transcription 27 . Moreover, different studies have demonstrated a subtype dependent interaction between viral non-structural protein (NS1) and cellular nucleolin, suggesting a role of the nucleolar targeting functions of NS1 in IAV pathogenesis 28, 29 . Proteomics-based approaches have revealed changes in the nucleolar proteome of IAV infected cells 5,30 and identified several nucleolar components, such as nucleolin, nucleophosmin (B23) and ribosomal proteins, as putative interactants of reconstituted IAV vRNPs 7 . In addition, high-throughput RNAi approaches have highlighted the functional requirement of several of these nucleolar components in viral replication 31-33 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "In the context of IAV ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "their interplay with nucleolus and selective interactions with several nucleolar components appears to be decisive in the outcome of infection 17 , 20 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Ozawa and colleagues demonstrated that dynamic nucleolar localization of NP is functionally significant by contributing to efficient viral replication and transcription 27 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , different studies have demonstrated a subtype dependent interaction between viral non-structural protein ( NS1 ) and cellular nucleolin ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "suggesting a role of the nucleolar targeting functions of NS1 in IAV pathogenesis 28 , 29 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Proteomics-based approaches have revealed changes in the nucleolar proteome of IAV infected cells 5,30 and identified several nucleolar components ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as nucleolin , nucleophosmin ( B23 ) and ribosomal proteins ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as putative interactants of reconstituted IAV vRNPs 7 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , high-throughput RNAi approaches have highlighted the functional requirement of several of these nucleolar components in viral replication 31-33 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Nucleolin is a multifunctional protein that contributes extensively to DNA and RNA regulatory mechanisms, including ribosome biogenesis, chromatin remodeling, mRNA stability and translation, nuclear export of RNA and protein complexes, and microRNA processing 34, 35 . In this way, nucleolin takes part in several cellular functions, such as gene silencing, senescence, cell proliferation and growth 23,35-37 , and continuously shuttles between nucleolar/nuclear compartments and the cytoplasm up to the cell surface 38,39 . Moreover, through its ability to associate with diverse target RNAs, nucleolin is implicated in various pathological processes, particularly cancer and viral infection 40 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Nucleolin is a multifunctional protein that contributes extensively to DNA and RNA regulatory mechanisms ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including ribosome biogenesis , chromatin remodeling ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "mRNA stability and translation , nuclear export of RNA and protein complexes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and microRNA processing 34 , 35 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this way , nucleolin takes part in several cellular functions ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as gene silencing , senescence ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "cell proliferation and growth 23,35-37 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and continuously shuttles between nucleolar/nuclear compartments and the cytoplasm up to the cell surface 38,39 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , through its ability to associate with diverse target RNAs ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "nucleolin is implicated in various pathological processes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "particularly cancer and viral infection 40 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In this context, different functional interactions with nucleolin have been described for several DNA viruses, such as poliovirus 41 , adenovirus 42 , HSV 43, 44 or CMV 45, 46 , and several RNA viruses, such as hepatitis C and delta viruses 47,48 , coronavirus 49 , hPIV-3 50 , papillomavirus HPV9 51 , Crimean-Congo hemorrhagic fever virus 52 , HIV1 53 , noroviruses 54 and notably the infectious salmon anemia virus (ISAV) which belongs to the family Orthomyxoviridae, as IAV 55 . Altogether, these studies highlight nucleolin as a key interacting factor that is crucial, in some cases, for viral replication and involved in nucleo-cytoplasmic export of viral genome or viral egress 44 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this context , different functional interactions with nucleolin have been described for several DNA viruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as poliovirus 41 , adenovirus 42 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "HSV 43 , 44 or CMV 45 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "46 , and several RNA viruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as hepatitis C and delta viruses 47,48 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "coronavirus 49 , hPIV-3 50 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "papillomavirus HPV9 51 , Crimean-Congo hemorrhagic fever virus 52 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "HIV1 53 , noroviruses 54 and notably the infectious salmon anemia virus ( ISAV ) which belongs to the family Orthomyxoviridae , as IAV 55 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Altogether , these studies highlight nucleolin as a key interacting factor that is crucial ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "in some cases , for viral replication and involved in nucleo-cytoplasmic export of viral genome or viral egress 44 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "At first, we observed the dynamic redistribution of nucleolin from a nucleolar to a very specific nuclear polarized pattern during infection. The aim of this study was therefore to investigate the functional relationship between IAV and nucleolin with regards to the nuclear traffic of vRNPs and their targeting to the dense chromatin compartment 13 and in the context of the viral remodeling of the host nuclear architectures 17,20 . We first characterized NP, the main component of IAV vRNP, as co-localizing and interacting with endogenous nucleolin during infection. Moreover, using cell fractionation and RNAi approaches, we suggest that nucleolin contributes to efficient vRNP trafficking and viral replication. Based on our results, we propose nucleolin as an essential host factor for the chromatin targeting of the nucleocytoplasmic export complex of vRNPs during infection.",
+      "sentences": [
+        [
+          {
+            "segment_text": "At first , we observed the dynamic redistribution of nucleolin from a nucleolar to a very specific nuclear polarized pattern during infection .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The aim of this study was therefore to investigate the functional relationship between IAV and nucleolin with regards to the nuclear traffic of vRNPs and their targeting to the dense chromatin compartment 13 and in the context of the viral remodeling of the host nuclear architectures 17,20 .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We first characterized NP , the main component of IAV vRNP ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "as co-localizing and interacting with endogenous nucleolin during infection .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , using cell fractionation and RNAi approaches ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we suggest that nucleolin contributes to efficient vRNP trafficking and viral replication .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Based on our results , we propose nucleolin as an essential host factor for the chromatin targeting of the nucleocytoplasmic export complex of vRNPs during infection .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "6",
+    "sentence_num": "21",
+    "segment_num": "48",
+    "token_num": "707"
+  }
+}

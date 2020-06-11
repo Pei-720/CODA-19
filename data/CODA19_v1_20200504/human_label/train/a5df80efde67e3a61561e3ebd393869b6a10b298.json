@@ -1,0 +1,246 @@
+{
+  "paper_id": "a5df80efde67e3a61561e3ebd393869b6a10b298",
+  "metadata": {
+    "title": "Post-translational Control of Intracellular Pathogen Sensing Pathways HHS Public Access",
+    "coda_data_split": "train",
+    "coda_paper_id": 6455,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Mammalian cells recognize virus-derived nucleic acids using a defined set of intracellular sensors including the DNA sensors cyclic GMP-AMP (cGAMP) synthase (cGAS) and interferon gamma (IFNγ)-inducible protein 16 (IFI16) as well as viral RNA receptors of the retinoic acid-inducible gene I (RIG-I)-like receptor (RLR) family. Following innate immune recognition, these sensors launch an immune response that is characterized by the transcriptional upregulation of many antiviral molecules, including proinflammatory cytokines, chemokines, and IFN-stimulated genes. Recent studies have demonstrated that the signal transduction initiated by these sensors is sophisticatedly regulated by post-translational modifications (PTMs) resulting in a robust yet \u0027tunable\u0027 cytokine response to maintain immune homeostasis. Here we summarize recent advances in our understanding of how PTMs and regulatory enzymes control the signaling activity of RLRs, cGAS, and IFI16 as well as their proximal adaptor proteins. [1, 5] . In vitro studies and studies in mice demonstrated that recognition of viral RNA PAMPs by RIG-I and MDA5 confers resistance to a wide spectrum of RNA viruses, including flaviviruses, influenza viruses, rhabdoviruses, paramyxoviruses, and picornaviruses. In addition, RLRs are involved in detecting DNA virus infections, a mechanism that, in the case of RIG-I, relies on the recognition of RNA polymerase IIIgenerated viral transcripts, at least for some DNA viruses (e.g., adenoviruses, Epstein-Barr virus).",
+      "sentences": [
+        [
+          {
+            "segment_text": "Mammalian cells recognize virus-derived nucleic acids using a defined set of intracellular sensors including the DNA sensors cyclic GMP-AMP ( cGAMP ) synthase ( cGAS ) and interferon gamma ( IFNγ ) - inducible protein 16 ( IFI16 ) as well as viral RNA receptors of the retinoic acid-inducible gene I ( RIG-I ) - like receptor ( RLR ) family .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Following innate immune recognition , these sensors launch an immune response that is characterized by the transcriptional upregulation of many antiviral molecules ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including proinflammatory cytokines , chemokines , and IFN-stimulated genes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recent studies have demonstrated that the signal transduction initiated by these sensors is sophisticatedly regulated by post-translational modifications ( PTMs ) resulting in a robust yet ` tunable \u0027 cytokine response to maintain immune homeostasis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we summarize recent advances in our understanding of how PTMs and regulatory enzymes control the signaling activity of RLRs ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "cGAS , and IFI16 as well as their proximal adaptor proteins .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "( 1 , 5 ) .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "In vitro studies and studies in mice demonstrated that recognition of viral RNA PAMPs by RIG-I and MDA5 confers resistance to a wide spectrum of RNA viruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including flaviviruses , influenza viruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "rhabdoviruses , paramyxoviruses , and picornaviruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , RLRs are involved in detecting DNA virus infections ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a mechanism that , in the case of RIG-I ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "relies on the recognition of RNA polymerase IIIgenerated viral transcripts ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "at least for some DNA viruses ( e.g. , adenoviruses , Epstein-Barr virus ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "RIG-I and MDA5 are DExD/H-box-containing RNA helicases with similar structures: both possess two N-terminal caspase activation and recruitment domains (CARDs) for initiating downstream signaling and a central helicase domain and carboxy-terminal domain (CTD) [in the case of RIG-I also called the \u0027repressor domain\u0027 (RD)], which are both required for RNA binding. Although they recognize different ligands, RIG-I and MDA5 interact with a common adaptor protein, mitochondrial antiviral signaling protein (MAVS) (also known as IPS-1, CARDIF, or VISA) which serves as a scaffold for protein complex assembly at the mitochondria and mitochondria-associated membranes (MAMs) to trigger an antiviral program [6] . It has been demonstrated that the interaction of RIG-I with the chaperone protein 14-3-3ε mediates RIG-I translocation from the cytosol to mitochondria and MAMs to initiate signaling [7] . MAVS then recruits the IKK-related serine/threonine kinases TANK-binding kinase 1 (TBK1) and IKKε, which phosphorylate and activate IRF3 or IRF7. Furthermore, the tripartite IKKα-IKKβ-IKKγ complex is activated by MAVS, ultimately resulting in nuclear factor kappa B (NF-κB) activation. NF-κB and IRFs then translocate into the nucleus and cooperatively induce the gene expression of type I IFNs (IFNα subtypes and IFNβ), proinflammatory cytokines (e.g., tumor necrosis factor superfamily proteins and interleukins) and chemokines, for the initiation of the antiviral response.",
+      "sentences": [
+        [
+          {
+            "segment_text": "RIG-I and MDA5 are DExD/H-box-containing RNA helicases with similar structures : both possess two N-terminal caspase activation and recruitment domains ( CARDs ) for initiating downstream signaling and a central helicase domain and carboxy-terminal domain ( CTD ) ( in the case of RIG-I also called the ` repressor domain \u0027 ( RD ) ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which are both required for RNA binding .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although they recognize different ligands ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "RIG-I and MDA5 interact with a common adaptor protein ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "mitochondrial antiviral signaling protein ( MAVS ) ( also known as IPS-1 , CARDIF , or VISA ) which serves as a scaffold for protein complex assembly at the mitochondria and mitochondria-associated membranes ( MAMs ) to trigger an antiviral program ( 6 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It has been demonstrated that the interaction of RIG-I with the chaperone protein 14-3-3ε mediates RIG-I translocation from the cytosol to mitochondria and MAMs to initiate signaling ( 7 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "MAVS then recruits the IKK-related serine/threonine kinases TANK-binding kinase 1 ( TBK1 ) and IKKε ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which phosphorylate and activate IRF3 or IRF7 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , the tripartite IKKα-IKKβ-IKKγ complex is activated by MAVS ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "ultimately resulting in nuclear factor kappa B ( NF-κB ) activation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "NF-κB and IRFs then translocate into the nucleus and cooperatively induce the gene expression of type I IFNs ( IFNα subtypes and IFNβ ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "proinflammatory cytokines ( e.g. , tumor necrosis factor superfamily proteins and interleukins ) and chemokines ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "for the initiation of the antiviral response .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "More recently, cGAS and IFI16 have been identified as intracellular DNA sensors that mediate a type I IFN response via the recruitment and activation of their shared adaptor protein stimulator of IFN genes (STING) (also known as MITA or TMEM173) [8-10]. Following recognition of viral dsDNA -derived from either a DNA virus (e.g., herpesviruses) or retroviral infection -cytoplasmic cGAS catalyzes the formation of the second messenger cGAMP, which binds to and activates STING. The binding of cGAMP to STING results in the translocation of the adaptor protein from the endoplasmic reticulum to the Golgi and perinuclear sites. Activated STING dimerizes and binds to TBK1, resulting in IRF3 activation and IFNα/β gene expression. The sensor IFI16 is reportedly localized in both the cytoplasm and the nucleus and detects viral dsDNA via its hematopoietic expression, IFN-inducible nature, and nuclear localization (HIN) domain followed by signaling to STING to initiate an IFN-mediated antiviral response. In addition to its ability to elicit type I IFN induction, IFI16 also leads to IL-1β secretion via activation of caspase 1dependent inflammasomes (reviewed in [4]).",
+      "sentences": [
+        [
+          {
+            "segment_text": "More recently , cGAS and IFI16 have been identified as intracellular DNA sensors that mediate a type I IFN response via the recruitment and activation of their shared adaptor protein stimulator of IFN genes ( STING ) ( also known as MITA or TMEM173 ) ( 8-10 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Following recognition of viral dsDNA - derived from either a DNA virus ( e.g. , herpesviruses ) or retroviral infection - cytoplasmic cGAS catalyzes the formation of the second messenger cGAMP ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which binds to and activates STING .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The binding of cGAMP to STING results in the translocation of the adaptor protein from the endoplasmic reticulum to the Golgi and perinuclear sites .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Activated STING dimerizes and binds to TBK1 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "resulting in IRF3 activation and IFNα/β gene expression .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The sensor IFI16 is reportedly localized in both the cytoplasm and the nucleus and detects viral dsDNA via its hematopoietic expression ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "IFN-inducible nature , and nuclear localization ( HIN ) domain followed by signaling to STING to initiate an IFN-mediated antiviral response .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition to its ability to elicit type I IFN induction ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "IFI16 also leads to IL-1β secretion via activation of caspase 1dependent inflammasomes ( reviewed in ( 4 ) ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "PTMs are key regulatory events in which proteins are enzymatically modified to reversibly modulate the activity, subcellular localization, conformation, and/or protein-protein interactions of the target protein. Thus, PTMs are crucial for the dynamic regulation of signal transduction pathways. Each step of the intracellular pathogen sensing pathways is regulated by a complex network of PTMs resulting in a controlled yet effective antiviral Chiang and Gack",
+      "sentences": [
+        [
+          {
+            "segment_text": "PTMs are key regulatory events in which proteins are enzymatically modified to reversibly modulate the activity ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "subcellular localization , conformation , and/or protein-protein interactions of the target protein .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , PTMs are crucial for the dynamic regulation of signal transduction pathways .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Each step of the intracellular pathogen sensing pathways is regulated by a complex network of PTMs resulting in a controlled yet effective antiviral Chiang and Gack",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "22",
+    "segment_num": "41",
+    "token_num": "787"
+  }
+}

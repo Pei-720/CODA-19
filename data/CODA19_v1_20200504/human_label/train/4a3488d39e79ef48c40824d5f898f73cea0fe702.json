@@ -1,0 +1,63 @@
+{
+  "paper_id": "4a3488d39e79ef48c40824d5f898f73cea0fe702",
+  "metadata": {
+    "title": "HHS Public Access",
+    "coda_data_split": "train",
+    "coda_paper_id": 9936,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Viruses continuously evolve to contend with an ever-changing environment that involves transmission between hosts and sometimes species, immune responses, and in some cases therapeutic interventions. Given the high mutation rate of viruses relative to the timescales of host evolution and drug development, novel drug classes that are readily screened and translated to the clinic are needed. RNA interference (RNAi) -a natural mechanism for specific degradation of target RNAs that is conserved from plants to invertebrates and vertebrates -can potentially be harnessed to yield therapies with extensive specificity, ease of design, and broad application. In this review, we discuss basic mechanisms of action and therapeutic applications of RNAi, including design considerations and areas for future development in the field.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Viruses continuously evolve to contend with an ever-changing environment that involves transmission between hosts and sometimes species ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "immune responses , and in some cases therapeutic interventions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Given the high mutation rate of viruses relative to the timescales of host evolution and drug development ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "novel drug classes that are readily screened and translated to the clinic are needed .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "RNA interference ( RNAi ) - a natural mechanism for specific degradation of target RNAs that is conserved from plants to invertebrates and vertebrates - can potentially be harnessed to yield therapies with extensive specificity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "ease of design , and broad application .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this review , we discuss basic mechanisms of action and therapeutic applications of RNAi ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "including design considerations and areas for future development in the field .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "4",
+    "segment_num": "8",
+    "token_num": "133"
+  }
+}

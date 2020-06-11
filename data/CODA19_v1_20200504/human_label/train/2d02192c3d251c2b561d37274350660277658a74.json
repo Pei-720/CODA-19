@@ -1,0 +1,70 @@
+{
+  "paper_id": "2d02192c3d251c2b561d37274350660277658a74",
+  "metadata": {
+    "title": "Enabling large-scale genome editing by reducing DNA nicking",
+    "coda_data_split": "train",
+    "coda_paper_id": 9708,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "To extend the frontier of genome editing and enable the radical redesign of mammalian genomes, we developed a set of dead-Cas9 base editor (dBE) variants that allow editing at tens of thousands of loci per cell by overcoming the cell death associated with DNA double-strand breaks (DSBs) and single-strand breaks (SSBs). We used a set of gRNAs targeting repetitive elementsranging in target copy number from about 31 to 124,000 per cell. dBEs enabled survival after 5 large-scale base editing, allowing targeted mutations at up to ~13,200 and ~2610 loci in 293T and human induced pluripotent stem cells (hiPSCs), respectively, three orders of magnitude greater than previously recorded. These dBEs can overcome current on-target mutation and toxicity barriers that prevent cell survival after large-scale genome engineering.",
+      "sentences": [
+        [
+          {
+            "segment_text": "To extend the frontier of genome editing and enable the radical redesign of mammalian genomes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we developed a set of dead-Cas9 base editor ( dBE ) variants that allow editing at tens of thousands of loci per cell by overcoming the cell death associated with DNA double-strand breaks ( DSBs ) and single-strand breaks ( SSBs ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We used a set of gRNAs targeting repetitive elementsranging in target copy number from about 31 to 124,000 per cell .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "dBEs enabled survival after 5 large-scale base editing ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "allowing targeted mutations at up to ~ 13,200 and ~ 2610 loci in 293T and human induced pluripotent stem cells ( hiPSCs ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "respectively , three orders of magnitude greater than previously recorded .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "These dBEs can overcome current on-target mutation and toxicity barriers that prevent cell survival after large-scale genome engineering .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "One Sentence Summary: Base editing with reduced DNA nicking allows for the simultaneous 10",
+      "sentences": [
+        [
+          {
+            "segment_text": "One Sentence Summary : Base editing with reduced DNA nicking allows for the simultaneous 10",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "5",
+    "segment_num": "8",
+    "token_num": "158"
+  }
+}

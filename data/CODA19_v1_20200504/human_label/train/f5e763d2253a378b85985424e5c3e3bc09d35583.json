@@ -1,0 +1,95 @@
+{
+  "paper_id": "f5e763d2253a378b85985424e5c3e3bc09d35583",
+  "metadata": {
+    "title": "Pixelated colorimetric nucleic acid assay",
+    "coda_data_split": "train",
+    "coda_paper_id": 2531,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Conjugated polyelectrolytes (CPEs) have been widely used as reporters in colorimetric assays targeting nucleic acids. CPEs provide naked eye detection possibility by their superior optical properties however, as concentration of target analytes decrease, trace amounts of nucleic acid typically yield colorimetric responses that are not readily perceivable by naked eye. Herein, we report a pixelated analysis approach for correlating colorimetric responses of CPE with nucleic acid concentrations down to 1 nM, in plasma samples, utilizing a smart phone with an algorithm that can perform analytical testing and data processing. The detection strategy employed relies on conformational transitions between single stranded nucleic acid-cationic CPE duplexes and double stranded nucleic acid-CPE triplexes that yield distinct colorimetric responses for enabling naked eye detection of nucleic acids. Cationic poly[N,N,N-triethyl-3-((4-methylthiophen-3-yl)oxy)propan-1-aminium bromide] is utilized as the CPE reporter deposited on a polyvinylidene fluoride (PVDF) membrane for nucleic acid assay. A smart phone application is developed to capture and digitize the colorimetric response of the individual pixels of the digital images of CPE on the PVDF membrane, followed by an analysis using the algorithm. The proposed pixelated approach enables precise quantification of nucleic acid assay concentrations, thereby eliminating the margin of error involved in conventional methodologies adopted for interpretation of colorimetric responses, for instance, RGB analysis. The obtained results illustrate that a ubiquitous smart phone could be utilized for point of care colorimetric nucleic acids assays in complex matrices without requiring sophisticated software or instrumentation.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Conjugated polyelectrolytes ( CPEs ) have been widely used as reporters in colorimetric assays targeting nucleic acids .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "CPEs provide naked eye detection possibility by their superior optical properties however ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as concentration of target analytes decrease ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "trace amounts of nucleic acid typically yield colorimetric responses that are not readily perceivable by naked eye .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Herein , we report a pixelated analysis approach for correlating colorimetric responses of CPE with nucleic acid concentrations down to 1 nM ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "in plasma samples , utilizing a smart phone with an algorithm that can perform analytical testing and data processing .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The detection strategy employed relies on conformational transitions between single stranded nucleic acid-cationic CPE duplexes and double stranded nucleic acid-CPE triplexes that yield distinct colorimetric responses for enabling naked eye detection of nucleic acids .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Cationic poly ( N,N,N-triethyl-3 - ( ( 4-methylthiophen-3-yl ) oxy ) propan-1-aminium bromide ) is utilized as the CPE reporter deposited on a polyvinylidene fluoride ( PVDF ) membrane for nucleic acid assay .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A smart phone application is developed to capture and digitize the colorimetric response of the individual pixels of the digital images of CPE on the PVDF membrane ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "followed by an analysis using the algorithm .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The proposed pixelated approach enables precise quantification of nucleic acid assay concentrations ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "thereby eliminating the margin of error involved in conventional methodologies adopted for interpretation of colorimetric responses ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "for instance , RGB analysis .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The obtained results illustrate that a ubiquitous smart phone could be utilized for point of care colorimetric nucleic acids assays in complex matrices without requiring sophisticated software or instrumentation .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "14",
+    "token_num": "270"
+  }
+}

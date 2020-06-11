@@ -1,0 +1,99 @@
+{
+  "paper_id": "6ed2382502ca0f18041dfc0454282e5751ac3fa6",
+  "metadata": {
+    "title": "Enhanced detection of respiratory pathogens with nanotrap particles",
+    "coda_data_split": "train",
+    "coda_paper_id": 5487,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The Influenza virus is a leading cause of respiratory disease in the United States each year. While the virus normally causes mild to moderate disease, hospitalization and death can occur in many cases. There are several methodologies that are used for detection; however problems such as decreased sensitivity and high rates of false-negative results may arise. There is a crucial need for an effective sample preparation technology that concentrates viruses at low abundance while excluding resident analytes that may interfere with detection. Nanotrap particles are hydrogel particles that are coupled to chemical dye affinity baits that bind a broad range of proteins and virions. Within minutes (\u003c30 minutes), Nanotrap particles concentrate low abundant proteins and viruses from clinically complex matrices. Nanotrap particles with reactive red baits concentrated numerous respiratory viruses including various strains and subtypes of Influenza virus, Coronavirus, and Respiratory Syncytial Virus from saliva, nasal fluid swab specimens, and nasal aspirates. Detection was enhanced more than 10-fold when coupled to plaque assays and qRT-PCR. Importantly, Nanotrap particle can efficiently capture and concentrate multiple viral pathogens during a coinfection scenario. These results collectively demonstrate that Nanotrap particles are an important tool that can easily be integrated into various detection methodologies.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The Influenza virus is a leading cause of respiratory disease in the United States each year .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "While the virus normally causes mild to moderate disease ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "hospitalization and death can occur in many cases .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "There are several methodologies that are used for detection ; however problems such as decreased sensitivity and high rates of false-negative results may arise .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "There is a crucial need for an effective sample preparation technology that concentrates viruses at low abundance while excluding resident analytes that may interfere with detection .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Nanotrap particles are hydrogel particles that are coupled to chemical dye affinity baits that bind a broad range of proteins and virions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Within minutes ( \u003c 30 minutes ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Nanotrap particles concentrate low abundant proteins and viruses from clinically complex matrices .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Nanotrap particles with reactive red baits concentrated numerous respiratory viruses including various strains and subtypes of Influenza virus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Coronavirus , and Respiratory Syncytial Virus from saliva ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "nasal fluid swab specimens , and nasal aspirates .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Detection was enhanced more than 10-fold when coupled to plaque assays and qRT-PCR .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Importantly , Nanotrap particle can efficiently capture and concentrate multiple viral pathogens during a coinfection scenario .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These results collectively demonstrate that Nanotrap particles are an important tool that can easily be integrated into various detection methodologies .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "10",
+    "segment_num": "14",
+    "token_num": "221"
+  }
+}

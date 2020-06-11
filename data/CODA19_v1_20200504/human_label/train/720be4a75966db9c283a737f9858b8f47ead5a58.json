@@ -1,0 +1,83 @@
+{
+  "paper_id": "720be4a75966db9c283a737f9858b8f47ead5a58",
+  "metadata": {
+    "title": "Generality of endemic prevalence formulae",
+    "coda_data_split": "train",
+    "coda_paper_id": 5401,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "In simple infection models, the susceptible proportion s * in endemic equilibrium is related to the basic reproduction number R 0 by s * \u003d 1/R 0 . We investigate the extent to which this relationship remains valid under more realistic modelling assumptions. In particular, we relax the biologically implausible assumptions that individuals\u0027 lifetimes and infectious periods follow exponential distributions; allow a general recruitment process; allow for multiple stages of infection; and consider extension to a multigroup model in which the groups may represent, for instance, spatial heterogeneity, or the existence of super-spreaders. For a homogeneous population, we find that: (i) the susceptible proportion is s * \u003d 1/R e 0 , where R e 0 is a modified reproduction number, equal to R 0 only in certain circumstances; (ii) the proportions of the population in each stage of infection are proportional to the expected time spent by an infected individual in that stage before recovery or death. We demonstrate robustness of the formula s * \u003d 1/R 0 for many human infections by noting conditions under which R e 0 is approximately equal to R 0 , while pointing out other circumstances under which this approximation fails. For heterogeneous populations, the formula s * \u003d 1/R 0 does not hold in general, but we are able to exhibit symmetry conditions under which it is valid.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In simple infection models , the susceptible proportion s * in endemic equilibrium is related to the basic reproduction number R 0 by s * \u003d 1/R 0 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We investigate the extent to which this relationship remains valid under more realistic modelling assumptions .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "In particular , we relax the biologically implausible assumptions that individuals \u0027 lifetimes and infectious periods follow exponential distributions ; allow a general recruitment process ; allow for multiple stages of infection ; and consider extension to a multigroup model in which the groups may represent ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "for instance , spatial heterogeneity ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "or the existence of super-spreaders .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "For a homogeneous population , we find that : ( i ) the susceptible proportion is s * \u003d 1/R e 0 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "where R e 0 is a modified reproduction number ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "equal to R 0 only in certain circumstances ; ( ii ) the proportions of the population in each stage of infection are proportional to the expected time spent by an infected individual in that stage before recovery or death .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We demonstrate robustness of the formula s * \u003d 1/R 0 for many human infections by noting conditions under which R e 0 is approximately equal to R 0 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while pointing out other circumstances under which this approximation fails .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "For heterogeneous populations , the formula s * \u003d 1/R 0 does not hold in general ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but we are able to exhibit symmetry conditions under which it is valid .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "12",
+    "token_num": "250"
+  }
+}

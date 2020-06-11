@@ -1,0 +1,61 @@
+{
+  "paper_id": "a0487d450b2dbcd7d927b50051dea3839e280572",
+  "metadata": {
+    "title": "Phage-displayed peptides having antigenic similarities with porcine epidemic diarrhea virus (PEDV) neutralizing epitopes",
+    "coda_data_split": "train",
+    "coda_paper_id": 2418,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Seven-mer phage random peptide libraries were panned against 2C10, a monoclonal antibody that showed neutralizing activities against PEDV. Recombinant M13 phages displaying the peptides SHRLP(Y/Q)(P/V) or GPRPVTH on the g3p minor coat protein showed strong binding affinity with 2C10 (70% and 30% of recovered phages, respectively) after multiple panning. Sequence analysis suggested that these peptides are similar with 1368 GPRLQPY 1374 found at the carboxy-terminal of the S protein. In neutralization inhibition assays, the two peptide motifs and a 24mer synthetic peptide corresponding to the C-terminal endodomain of PEDV S protein were observed to compete for the antigen binding site of 2C10, as demonstrated by the loss or reduction of neutralizing activity of the monoclonal antibody. This new finding suggests that the newly discovered peptide motifs mimic a neutralizing epitope PEDV.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Seven-mer phage random peptide libraries were panned against 2C10 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a monoclonal antibody that showed neutralizing activities against PEDV .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recombinant M13 phages displaying the peptides SHRLP ( Y/Q ) ( P/V ) or GPRPVTH on the g3p minor coat protein showed strong binding affinity with 2C10 ( 70 % and 30 % of recovered phages , respectively ) after multiple panning .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Sequence analysis suggested that these peptides are similar with 1368 GPRLQPY 1374 found at the carboxy-terminal of the S protein .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In neutralization inhibition assays , the two peptide motifs and a 24mer synthetic peptide corresponding to the C-terminal endodomain of PEDV S protein were observed to compete for the antigen binding site of 2C10 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as demonstrated by the loss or reduction of neutralizing activity of the monoclonal antibody .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This new finding suggests that the newly discovered peptide motifs mimic a neutralizing epitope PEDV .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "7",
+    "token_num": "150"
+  }
+}

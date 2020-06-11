@@ -1,0 +1,151 @@
+{
+  "paper_id": "ef154c0a6105cf1b7c0ff95d8b5a5a84228081c4",
+  "metadata": {
+    "title": "Towards our understanding of SARS-CoV, an emerging and devastating but quickly conquered virus",
+    "coda_data_split": "train",
+    "coda_paper_id": 6958,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Severe acute respiratory syndrome (SARS) is a newly emerging infectious disease caused by a novel coronavirus (SARS-CoV), which has overwhelmed more than 30 countries claiming nearly 8400 cases with over 800 fatalities. Thanks to the unprecedented international collaboration, the whole-genomes of SARS-CoVs were successfully deciphered shortly after the identification of the causative pathogen for outbreak of SARS in southern China, in 2003. Hitherto, the SARS-CoV, as a viral paradigm of emerging infectious entities, has been extensively studied that has ranged from epidemiology, molecular virology/immunology to structural genomics. Also, several lines of breakthroughs have been record-brokenly obtained, that included the finding of ACE2, a functional receptor for the SARS-CoV, solution of the 3CL pro structure, a first crystal structure of SARS-related macromolecules, revealing of bats as natural reservoirs for SARS-like viruses and the possible involvement of civet cats in the SARS emergence. This review intends to outline the major progress in the journey of ARTICLE IN PRESS www.elsevier.com/locate/cimid 0147-9571/$ -see front matter r Re´sumeĹ e syndrome respiratoire aigu se´ve`re (SRAS ou SARS), une maladie infectieuse e´mergeante cause´e par un nouveau coronavirus (SARS-CoV), toucha plus de 8400 personnes causant 800 morts dans 30 pays diffe´rents. Graˆce a`la mise en place d\u0027une collaboration internationale sans pre´ce´dent le de´cryptage du ge´nome complet du SARS-CoV fut re´alise´tre`s peu de temps apre`s l\u0027identification de l\u0027agent pathoge`ne suite au de´clenchement de l\u0027e´pide´mie dans le sud de la Chine en 2003. Le SARS-CoV en temps que paradigme de maladies infectieuses e´mergeantes a fait l\u0027objet d\u0027une e´tude comple`te en passant de l\u0027e´pide´miologie, la virologie/immunologie mole´culaire a`la ge´nomique structurale. Ainsi, c\u0027est en un temps record qu\u0027ont e´te´obtenues des donne´es majeures incluant la de´couverte de ACE2, un re´cepteur fonctionnel pour le SARS-CoV, la structure du 3CL pro premie`re structure cristallographique d\u0027une macromole´cule du SARS, re´ve´lant que la chauve-souris e´tait le re´servoir naturel de virus du type SARS, et que la civette e´tait certainement a`l\u0027origine de l\u0027e´mergence du SRAS. Cette revue vise a`souligner les progre`s majeurs re´alise´s dans l\u0027exploration du SRAS, en soulignant l\u0027importance des travaux primordiaux et pre´coces re´alise´s par les chercheurs chinois. r",
+      "sentences": [
+        [
+          {
+            "segment_text": "Severe acute respiratory syndrome ( SARS ) is a newly emerging infectious disease caused by a novel coronavirus ( SARS-CoV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which has overwhelmed more than 30 countries claiming nearly 8400 cases with over 800 fatalities .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thanks to the unprecedented international collaboration ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the whole-genomes of SARS-CoVs were successfully deciphered shortly after the identification of the causative pathogen for outbreak of SARS in southern China , in 2003 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hitherto , the SARS-CoV , as a viral paradigm of emerging infectious entities ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "has been extensively studied that has ranged from epidemiology ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "molecular virology/immunology to structural genomics .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Also , several lines of breakthroughs have been record-brokenly obtained ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "that included the finding of ACE2 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a functional receptor for the SARS-CoV ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "solution of the 3CL pro structure ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a first crystal structure of SARS-related macromolecules ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "revealing of bats as natural reservoirs for SARS-like viruses and the possible involvement of civet cats in the SARS emergence .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This review intends to outline the major progress in the journey of ARTICLE IN PRESS www.elsevier.com/locate/cimid 0147-9571 / $ - see front matter r Re \u0027 sumeĹ e syndrome respiratoire aigu se \u0027ve ` re ( SRAS ou SARS ) ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "une maladie infectieuse e \u0027 mergeante cause\u0027e par un nouveau coronavirus ( SARS-CoV ) ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "toucha plus de 8400 personnes causant 800 morts dans 30 pays diffe \u0027 rents .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Graˆce a ` la mise en place d\u0027une collaboration internationale sans pre \u0027 ce \u0027 dent le de \u0027 cryptage du ge \u0027 nome complet du SARS-CoV fut re\u0027alise \u0027 tre ` s peu de temps apre ` s l\u0027identification de l\u0027agent pathoge ` ne suite au de \u0027 clenchement de l\u0027 e \u0027 pide \u0027 mie dans le sud de la Chine en 2003 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Le SARS-CoV en temps que paradigme de maladies infectieuses e \u0027 mergeantes a fait l\u0027objet d\u0027une e \u0027 tude comple ` te en passant de l\u0027 e \u0027 pide \u0027 miologie ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "la virologie/immunologie mole \u0027 culaire a ` la ge \u0027 nomique structurale .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Ainsi , c\u0027est en un temps record qu\u0027ont e \u0027 te\u0027obtenues des donne\u0027es majeures incluant la de \u0027 couverte de ACE2 ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "un re \u0027 cepteur fonctionnel pour le SARS-CoV ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "la structure du 3CL pro premie ` re structure cristallographique d\u0027une macromole \u0027 cule du SARS ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "re \u0027ve \u0027 lant que la chauve-souris e \u0027 tait le re \u0027 servoir naturel de virus du type SARS ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "et que la civette e \u0027 tait certainement a ` l\u0027origine de l\u0027 e \u0027 mergence du SRAS .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Cette revue vise a ` souligner les progre ` s majeurs re\u0027alise \u0027s dans l\u0027exploration du SRAS ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "en soulignant l\u0027importance des travaux primordiaux et pre \u0027 coces re\u0027alise \u0027s par les chercheurs chinois .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "r",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "10",
+    "segment_num": "27",
+    "token_num": "468"
+  }
+}

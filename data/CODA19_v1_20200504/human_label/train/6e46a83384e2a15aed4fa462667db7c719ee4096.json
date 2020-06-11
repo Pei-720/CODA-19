@@ -1,0 +1,75 @@
+{
+  "paper_id": "6e46a83384e2a15aed4fa462667db7c719ee4096",
+  "metadata": {
+    "title": "Negatively charged residues in the endodomain are critical for specific assembly of spike protein into murine coronavirus",
+    "coda_data_split": "train",
+    "coda_paper_id": 3402,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Coronavirus spike (S) protein assembles into virions via its carboxy-terminus, which is composed of a transmembrane domain and an endodomain. Here, the carboxy-terminal charge-rich motif in the endodomain was verified to be critical for the specificity of S assembly into mouse hepatitis virus (MHV). Recombinant MHVs exhibited a range of abilities to accommodate the homologous S endodomains from the betacoronaviruses bovine coronavirus and human SARS-associated coronavirus, the alphacoronavirus porcine transmissible gastroenteritis virus (TGEV), and the gammacoronavirus avian infectious bronchitis virus respectively. Interestingly, in TGEV endodomain chimeras the reverting mutations resulted in stronger S incorporation into virions, and a net gain of negatively charged residues in the charge-rich motif accounted for the improvement. Additionally, MHV S assembly could also be rescued by the acidic carboxy-terminal domain of the nucleocapsid protein. These results indicate an important role for negatively charged endodomain residues in the incorporation of MHV S protein into assembled virions.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Coronavirus spike ( S ) protein assembles into virions via its carboxy-terminus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which is composed of a transmembrane domain and an endodomain .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , the carboxy-terminal charge-rich motif in the endodomain was verified to be critical for the specificity of S assembly into mouse hepatitis virus ( MHV ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recombinant MHVs exhibited a range of abilities to accommodate the homologous S endodomains from the betacoronaviruses bovine coronavirus and human SARS-associated coronavirus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the alphacoronavirus porcine transmissible gastroenteritis virus ( TGEV ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the gammacoronavirus avian infectious bronchitis virus respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Interestingly , in TGEV endodomain chimeras the reverting mutations resulted in stronger S incorporation into virions ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and a net gain of negatively charged residues in the charge-rich motif accounted for the improvement .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Additionally , MHV S assembly could also be rescued by the acidic carboxy-terminal domain of the nucleocapsid protein .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These results indicate an important role for negatively charged endodomain residues in the incorporation of MHV S protein into assembled virions .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "10",
+    "token_num": "169"
+  }
+}

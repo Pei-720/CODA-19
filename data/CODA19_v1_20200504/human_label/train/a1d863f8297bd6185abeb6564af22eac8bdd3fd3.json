@@ -1,0 +1,192 @@
+{
+  "paper_id": "a1d863f8297bd6185abeb6564af22eac8bdd3fd3",
+  "metadata": {
+    "title": "Development of Recombinase Polymerase Amplification Assays for Detection of Orientia tsutsugamushi or Rickettsia typhi",
+    "coda_data_split": "train",
+    "coda_paper_id": 8966,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Sensitive, specific and rapid diagnostic tests for the detection of Orientia tsutsugamushi (O. tsutsugamushi) and Rickettsia typhi (R. typhi), the causative agents of scrub typhus and murine typhus, respectively, are necessary to accurately and promptly diagnose patients and ensure that they receive proper treatment. Recombinase polymerase amplification (RPA) assays using a lateral flow test (RPA-nfo) and real-time fluorescent detection (RPAexo) were developed targeting the 47-kDa gene of O. tsutsugamushi or 17 kDa gene of R. typhi. The RPA assay was capable of detecting O. tsutsugamushi or R. typhi at levels comparable to that of the quantitative PCR method. Both the RPA-nfo and RPA-exo methods performed similarly with regards to sensitivity when detecting the 17 kDa gene of R. typhi. On the contrary, RPA-exo performed better than RPA-nfo in detecting the 47 kDa gene of O. tsutsugamushi. The clinical performance of the O. tsutsugamushi RPA assay was evaluated using either human patient samples or infected mouse samples. Eight out of ten PCR confirmed positives were determined positive by RPA, and all PCR confirmed negative samples were negative by RPA. Similar results were obtained for R. typhi spiked patient sera. The assays were able to differentiate O. tsutsugamushi and R. typhi from other phylogenetically related bacteria as well as mouse and human DNA. Furthermore, the RPA-nfo reaction was completed in 20 minutes at 37°C followed by a 10 minute incubation at room temperature for development of an immunochromatographic strip. The RPA-exo reaction was completed in 20 minutes at 39°C. The implementation of a cross contamination proof cassette to detect the RPA-nfo fluorescent amplicons provided an alternative to regular lateral flow detection strips, which are more prone to cross contamination. The RPA assays provide a highly time-efficient, sensitive and specific alternative to other methods for diagnosing scrub typhus or murine typhus.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Sensitive , specific and rapid diagnostic tests for the detection of Orientia tsutsugamushi ( O. tsutsugamushi ) and Rickettsia typhi ( R. typhi ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the causative agents of scrub typhus and murine typhus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "respectively , are necessary to accurately and promptly diagnose patients and ensure that they receive proper treatment .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recombinase polymerase amplification ( RPA ) assays using a lateral flow test ( RPA-nfo ) and real-time fluorescent detection ( RPAexo ) were developed targeting the 47-kDa gene of O. tsutsugamushi or 17 kDa gene of R. typhi .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The RPA assay was capable of detecting O. tsutsugamushi or R. typhi at levels comparable to that of the quantitative PCR method .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Both the RPA-nfo and RPA-exo methods performed similarly with regards to sensitivity when detecting the 17 kDa gene of R. typhi .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "On the contrary , RPA-exo performed better than RPA-nfo in detecting the 47 kDa gene of O. tsutsugamushi .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The clinical performance of the O. tsutsugamushi RPA assay was evaluated using either human patient samples or infected mouse samples .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Eight out of ten PCR confirmed positives were determined positive by RPA ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and all PCR confirmed negative samples were negative by RPA .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Similar results were obtained for R. typhi spiked patient sera .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The assays were able to differentiate O. tsutsugamushi and R. typhi from other phylogenetically related bacteria as well as mouse and human DNA .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , the RPA-nfo reaction was completed in 20 minutes at 37 °C followed by a 10 minute incubation at room temperature for development of an immunochromatographic strip .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The RPA-exo reaction was completed in 20 minutes at 39 °C .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The implementation of a cross contamination proof cassette to detect the RPA-nfo fluorescent amplicons provided an alternative to regular lateral flow detection strips ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which are more prone to cross contamination .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The RPA assays provide a highly time-efficient ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "sensitive and specific alternative to other methods for diagnosing scrub typhus or murine typhus .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Historically, rickettsial pathogens are among the leading causes of morbidity and mortality during military operations. Rickettsial diseases, lately, are reemerging in areas of known abundance or emerging in areas of unknown existence, posing a significant medical concern for local residents and travelers. The diseases are difficult to diagnose as they often share similar symptoms with many other diseases in the same geographical areas. Therefore, it is particularly challenging for clinicians to provide a timely and accurate diagnosis. A recombinase polymerase amplification (RPA)-based nucleic acid detection platform has been used to develop accurate, sensitive, specific, and easy-to-perform assays to detect O. tsutsugamushi or R. typhi, indicative of scrub typhus or murine typhus, respectively. These RPA assays provide similar limits of detection and specificity to that of qPCR. Unlike qPCR, they require no thermocycler and provide multiple end-point monitoring options amendable to different laboratory capabilities. This work presents an alternative assay platform for early detection of O. tsutsugamushi or R. typhi infection so that timely treatment can be prescribed in well-equipped laboratories as well as resource limited areas. Development of RPA to Detect DNA from O. tsutsugamushi or R. typhi PLOS Neglected Tropical Diseases |",
+      "sentences": [
+        [
+          {
+            "segment_text": "Historically , rickettsial pathogens are among the leading causes of morbidity and mortality during military operations .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Rickettsial diseases , lately , are reemerging in areas of known abundance or emerging in areas of unknown existence ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "posing a significant medical concern for local residents and travelers .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The diseases are difficult to diagnose as they often share similar symptoms with many other diseases in the same geographical areas .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , it is particularly challenging for clinicians to provide a timely and accurate diagnosis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A recombinase polymerase amplification ( RPA ) - based nucleic acid detection platform has been used to develop accurate ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "sensitive , specific , and easy-to-perform assays to detect O. tsutsugamushi or R. typhi ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "indicative of scrub typhus or murine typhus , respectively .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These RPA assays provide similar limits of detection and specificity to that of qPCR .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Unlike qPCR , they require no thermocycler and provide multiple end-point monitoring options amendable to different laboratory capabilities .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This work presents an alternative assay platform for early detection of O. tsutsugamushi or R. typhi infection so that timely treatment can be prescribed in well-equipped laboratories as well as resource limited areas .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Development of RPA to Detect DNA from O. tsutsugamushi or R. typhi PLOS Neglected Tropical Diseases |",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "22",
+    "segment_num": "30",
+    "token_num": "548"
+  }
+}

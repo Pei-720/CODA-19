@@ -1,0 +1,401 @@
+{
+  "paper_id": "47d93c4d0e435b2da5ebc11b4404ed209447f5a0",
+  "metadata": {
+    "title": "Angiotensin-converting enzyme 2 prevents lipopolysaccharide- induced rat acute lung injury via suppressing the ERK1/2 and NF-κB signaling pathways OPEN",
+    "coda_data_split": "train",
+    "coda_paper_id": 3639,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Acute respiratory distress syndrome (ARDS) caused by severe sepsis remains a major challenge in intensive care medicine. ACE2 has been shown to protect against lung injury. However, the mechanisms of its protective effects on ARDS are largely unknown. Here, we report that ACE2 prevents LPS-induced ARDS by inhibiting MAPKs and NF-κB signaling pathway. Lentiviral packaged Ace2 cDNA or Ace2 shRNA was intratracheally administrated into the lungs of male SD rats. Two weeks after gene transfer, animals received LPS (7.5 mg/Kg) injection alone or in combination with Mas receptor antagonist A779 (10 μg/Kg) or ACE2 inhibitor MLN-4760 (1 mg/Kg) pretreatment. LPS-induced lung injury and inflammatory response were significantly prevented by ACE2 overexpression and deteriorated by Ace2 shRNA. A779 or MLN-4760 pretreatment abolished the protective effects of ACE2. Moreover, overexpression of ACE2 significantly reduced the Ang II/Ang-(1-7) ratio in BALF and up-regulated Mas mRNA expression in lung, which was reversed by A779. Importantly, the blockade of ACE2 on LPSinduced phosphorylation of ERK1/2, p38 and p50/p65 was also abolished by A779. Whereas, only the ERK1/2 inhibitor significantly attenuated lung injury in ACE2 overexpressing rats pretreated with A779. Our observation suggests that AEC2 attenuates LPS-induced ARDS via the Ang-(1-7)/Mas pathway by inhibiting ERK/NF-κB activation.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Acute respiratory distress syndrome ( ARDS ) caused by severe sepsis remains a major challenge in intensive care medicine .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "ACE2 has been shown to protect against lung injury .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the mechanisms of its protective effects on ARDS are largely unknown .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we report that ACE2 prevents LPS-induced ARDS by inhibiting MAPKs and NF-κB signaling pathway .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Lentiviral packaged Ace2 cDNA or Ace2 shRNA was intratracheally administrated into the lungs of male SD rats .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Two weeks after gene transfer ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "animals received LPS ( 7.5 mg/Kg ) injection alone or in combination with Mas receptor antagonist A779 ( 10 μg/Kg ) or ACE2 inhibitor MLN-4760 ( 1 mg/Kg ) pretreatment .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "LPS-induced lung injury and inflammatory response were significantly prevented by ACE2 overexpression and deteriorated by Ace2 shRNA .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A779 or MLN-4760 pretreatment abolished the protective effects of ACE2 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , overexpression of ACE2 significantly reduced the Ang II/Ang - ( 1-7 ) ratio in BALF and up-regulated Mas mRNA expression in lung ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which was reversed by A779 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Importantly , the blockade of ACE2 on LPSinduced phosphorylation of ERK1/2 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "p38 and p50/p65 was also abolished by A779 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Whereas , only the ERK1/2 inhibitor significantly attenuated lung injury in ACE2 overexpressing rats pretreated with A779 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our observation suggests that AEC2 attenuates LPS-induced ARDS via the Ang - ( 1-7 ) / Mas pathway by inhibiting ERK/NF-κB activation .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Acute respiratory distress syndrome (ARDS) remains the major cause of mortality and morbidity in intensive care 1,2 . ARDS is a type of acute diffuse and inflammatory lung injury, which is caused by the release of pro-inflammatory cytokines and the recruitment of granulocytes and monocytes into the lung, leading to increased pulmonary vascular permeability and loss of aerated alveolus 3,4 . At present, the only effective therapy for ARDS is protective mechanical ventilation with low tidal volume of 6 mL/kg 5 . No specific and effective pharmacological intervention for ARDS is currently available 6 . Therefore, it is urgent to identify, validate, and develop pharmaceutical drugs for the treatment of ARDS.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Acute respiratory distress syndrome ( ARDS ) remains the major cause of mortality and morbidity in intensive care 1,2 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "ARDS is a type of acute diffuse and inflammatory lung injury ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which is caused by the release of pro-inflammatory cytokines and the recruitment of granulocytes and monocytes into the lung ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "leading to increased pulmonary vascular permeability and loss of aerated alveolus 3,4 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "At present , the only effective therapy for ARDS is protective mechanical ventilation with low tidal volume of 6 mL/kg 5 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "No specific and effective pharmacological intervention for ARDS is currently available 6 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , it is urgent to identify ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "validate , and develop pharmaceutical drugs for the treatment of ARDS .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Angiotensin-converting enzyme 2 (ACE2), a homologue of ACE, shares approximately 61% homology sequence with the catalytic domains of ACE but acts as an endogenous counter-regulator of ACE 7 . In contrast to ACE, which cleaves angiotensin (Ang) I into Ang II, ACE2 primarily hydrolyzes Ang II into Ang-(1-7). Ang II triggers vasoconstriction, inflammation, proliferation and apoptosis via binding to its specific Ang II type 1 receptor (AT1R), while Ang-(1-7) counteracts the effects of Ang II via its G protein-coupled receptor Mas 8-10 . Therefore, the balance of ACE and ACE2 influences the endogenous ratio of Ang II to Ang-(1-7), and consequently contributes to the regulation of the tension of vascular, as well as inflammatory response and organ function after injury 11,12 . Accumulating evidence indicate that ACE2 plays an important role in the pathophysiology of ARDS. ACE2 has been identified as a key receptor of coronavirus that causes the severe acute respiratory syndrome, and its level in human airway epithelia positively correlates with coronavirus infection 13 . Compared with wild type mice, Ace2 knockout mice exhibited impaired exercise capacity, worse lung function and exacerbated lung fibrosis in model of bleomycin-induced lung injury 14 . Furthermore, in three animal models of ARDS, Ace2 knockout mice showed severe lung disease, including enhanced vascular permeability and increased lung edema as compared to wild type mice 15 . Treatment with recombinant ACE2 effectively improved symptoms and attenuated arterial hypoxemia in a piglet model of lipopolysaccharide (LPS)-induced ARDS 16 . Thus, ACE2 plays a protective role in ARDS and is potential for the development as a drug for ARDS therapy; however, the underlying molecular mechanism by which ACE2 prevents ARDS remains elusive.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Angiotensin-converting enzyme 2 ( ACE2 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a homologue of ACE , shares approximately 61 % homology sequence with the catalytic domains of ACE but acts as an endogenous counter-regulator of ACE 7 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In contrast to ACE , which cleaves angiotensin ( Ang ) I into Ang II ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "ACE2 primarily hydrolyzes Ang II into Ang - ( 1-7 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Ang II triggers vasoconstriction , inflammation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "proliferation and apoptosis via binding to its specific Ang II type 1 receptor ( AT1R ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "while Ang - ( 1-7 ) counteracts the effects of Ang II via its G protein-coupled receptor Mas 8-10 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , the balance of ACE and ACE2 influences the endogenous ratio of Ang II to Ang - ( 1-7 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and consequently contributes to the regulation of the tension of vascular ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as well as inflammatory response and organ function after injury 11,12 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Accumulating evidence indicate that ACE2 plays an important role in the pathophysiology of ARDS .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "ACE2 has been identified as a key receptor of coronavirus that causes the severe acute respiratory syndrome ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and its level in human airway epithelia positively correlates with coronavirus infection 13 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Compared with wild type mice ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Ace2 knockout mice exhibited impaired exercise capacity ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "worse lung function and exacerbated lung fibrosis in model of bleomycin-induced lung injury 14 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , in three animal models of ARDS ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "Ace2 knockout mice showed severe lung disease ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "including enhanced vascular permeability and increased lung edema as compared to wild type mice 15 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Treatment with recombinant ACE2 effectively improved symptoms and attenuated arterial hypoxemia in a piglet model of lipopolysaccharide ( LPS ) - induced ARDS 16 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , ACE2 plays a protective role in ARDS and is potential for the development as a drug for ARDS therapy ; however ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the underlying molecular mechanism by which ACE2 prevents ARDS remains elusive .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Previous studies have showed that the activation of mitogen-activated protein kinases (MAPKs) pathway is associated with the process of ARDS. The phosphorylation levels of p38 MAPK, extracellular signal-regulated kinase (ERK) and Jun N-terminal kinase (JNK) are all significantly increased in LPS-induced lung injury 17 . Consequently, inhibition of p38 MAPK or ERK efficiently attenuates LPS-induced pulmonary inflammatory response 18, 19 . The activity of p38 MAPK in the lung has been associated with peritoneal sepsis-induced pulmonary edema and leukocyte infiltration 20 . Interestingly, Ferreira et al. recently found that activated cardiac ACE2 prevents hypertension-induced cardiac fibrosis by inhibiting ERK phosphorylation 21 . Moreover, AT1R blocker, telmisartan, exerts protective effects on heart failure through upregulating myocardial ACE2 level and inhibiting p38 MAPK, ERK and JNK phosphorylation 22 . The activation of MAPKs pathway is also involved in the regulation of Ace2 mRNA expression in rat vascular smooth muscle cells 23 . In addition, LPS stimulation activates the NF-κ B signaling pathway via binding to toll-like receptor 4 (TLR4), which is closely related to LPS-induced lung injury and inflammation 24 . Our previous in vitro study demonstrated that ACE2 prevented rat pulmonary microvascular endothelial cells (PMVECs) from LPS-induced apoptosis and inflammation through inhibiting the activation of JNK and NF-κ B pathways 25 . Therefore, we hypothesize that ACE2 may protect against LPS-induced acute lung injury by inhibiting the MAPKs/ NF-κ B pathway.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Previous studies have showed that the activation of mitogen-activated protein kinases ( MAPKs ) pathway is associated with the process of ARDS .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The phosphorylation levels of p38 MAPK ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "extracellular signal-regulated kinase ( ERK ) and Jun N-terminal kinase ( JNK ) are all significantly increased in LPS-induced lung injury 17 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Consequently , inhibition of p38 MAPK or ERK efficiently attenuates LPS-induced pulmonary inflammatory response 18 , 19 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The activity of p38 MAPK in the lung has been associated with peritoneal sepsis-induced pulmonary edema and leukocyte infiltration 20 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Interestingly , Ferreira et al. recently found that activated cardiac ACE2 prevents hypertension-induced cardiac fibrosis by inhibiting ERK phosphorylation 21 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , AT1R blocker , telmisartan ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "exerts protective effects on heart failure through upregulating myocardial ACE2 level and inhibiting p38 MAPK ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "ERK and JNK phosphorylation 22 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The activation of MAPKs pathway is also involved in the regulation of Ace2 mRNA expression in rat vascular smooth muscle cells 23 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , LPS stimulation activates the NF-κ B signaling pathway via binding to toll-like receptor 4 ( TLR4 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which is closely related to LPS-induced lung injury and inflammation 24 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our previous in vitro study demonstrated that ACE2 prevented rat pulmonary microvascular endothelial cells ( PMVECs ) from LPS-induced apoptosis and inflammation through inhibiting the activation of JNK and NF-κ B pathways 25 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , we hypothesize that ACE2 may protect against LPS-induced acute lung injury by inhibiting the MAPKs / NF-κ B pathway .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "A variety of animal species have been used to study LPS-induced lung injury; however, there are intra-species differences in the biological response to LPS challenge, leading to inconsistency in published results. While rat and mouse models are the most widely used models for ARDS research, recent research has shown disparities of the LPS structures that are recognized by TLR4 between humans and mice, which may contribute to variability in the response to LPS-induced ARDS. Additionally, the relatively small mass of mice may prohibit the measurement of physiological parameters and also make it more difficult to obtain sufficient quantities of samples, such as blood, plasma and BALF 26,27 . In the present study, we applied a lentiviral-mediated gene delivery approach to overexpress or knock down ACE2 in rat lung tissue, and investigated whether pulmonary overexpression of ACE2 exerts beneficial effects against LPS-induced lung injury via suppressing the MAPKs/ NF-κ B pathways.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A variety of animal species have been used to study LPS-induced lung injury ; however ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "there are intra-species differences in the biological response to LPS challenge ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "leading to inconsistency in published results .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "While rat and mouse models are the most widely used models for ARDS research ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "recent research has shown disparities of the LPS structures that are recognized by TLR4 between humans and mice ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which may contribute to variability in the response to LPS-induced ARDS .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Additionally , the relatively small mass of mice may prohibit the measurement of physiological parameters and also make it more difficult to obtain sufficient quantities of samples ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as blood , plasma and BALF 26,27 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the present study , we applied a lentiviral-mediated gene delivery approach to overexpress or knock down ACE2 in rat lung tissue ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and investigated whether pulmonary overexpression of ACE2 exerts beneficial effects against LPS-induced lung injury via suppressing the MAPKs / NF-κ B pathways .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "41",
+    "segment_num": "69",
+    "token_num": "1098"
+  }
+}

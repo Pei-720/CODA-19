@@ -1,0 +1,320 @@
+{
+  "paper_id": "61b90922be286db0340b0543233488c3764c611d",
+  "metadata": {
+    "title": "biomolecules Chemical and Conformational Diversity of Modified Nucleosides Affects tRNA Structure and Function",
+    "coda_data_split": "train",
+    "coda_paper_id": 2494,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "RNAs are central to all gene expression through the control of protein synthesis. Four major nucleosides, adenosine, guanosine, cytidine and uridine, compose RNAs and provide sequence variation, but are limited in contributions to structural variation as well as distinct chemical properties. The ability of RNAs to play multiple roles in cellular metabolism is made possible by extensive variation in length, conformational dynamics, and the over 100 post-transcriptional modifications. There are several reviews of the biochemical pathways leading to RNA modification, but the physicochemical nature of modified nucleosides and how they facilitate RNA function is of keen interest, particularly with regard to the contributions of modified nucleosides. Transfer RNAs (tRNAs) are the most extensively modified RNAs. The diversity of modifications provide versatility to the chemical and structural environments. The added chemistry, conformation and dynamics of modified nucleosides occurring at the termini of stems in tRNA\u0027s cloverleaf secondary structure affect the global three-dimensional conformation, produce unique recognition determinants for macromolecules to recognize tRNAs, and affect the accurate and efficient decoding ability of tRNAs. This review will discuss the impact of specific chemical moieties on the structure, stability, electrochemical properties, and function of tRNAs.",
+      "sentences": [
+        [
+          {
+            "segment_text": "RNAs are central to all gene expression through the control of protein synthesis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Four major nucleosides , adenosine ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "guanosine , cytidine and uridine ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "compose RNAs and provide sequence variation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but are limited in contributions to structural variation as well as distinct chemical properties .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The ability of RNAs to play multiple roles in cellular metabolism is made possible by extensive variation in length ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "conformational dynamics , and the over 100 post-transcriptional modifications .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "There are several reviews of the biochemical pathways leading to RNA modification ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but the physicochemical nature of modified nucleosides and how they facilitate RNA function is of keen interest ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "particularly with regard to the contributions of modified nucleosides .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Transfer RNAs ( tRNAs ) are the most extensively modified RNAs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The diversity of modifications provide versatility to the chemical and structural environments .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The added chemistry , conformation and dynamics of modified nucleosides occurring at the termini of stems in tRNA \u0027s cloverleaf secondary structure affect the global three-dimensional conformation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "produce unique recognition determinants for macromolecules to recognize tRNAs ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and affect the accurate and efficient decoding ability of tRNAs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This review will discuss the impact of specific chemical moieties on the structure ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "stability , electrochemical properties , and function of tRNAs .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Biomolecules 2017, 7, 29 2 of 32 modified nucleosides far surpass those of the individual characteristics provided by the four major nucleosides: the purine (Pu) ribonucleosides, adenosine (A) and guanosine (G), and the pyrimidine (Py) ribonucleosides, cytidine (C) and uridine (U) [2] . The chemical diversity of modifications is similar to that of amino acid side chains and can be as simple as methylations or single atom substitutions of sulfur for oxygen to as complex as the addition of amino acids and formation of a third ring to the purine nucleobase [7] . Even modifications as simple as methyl groups can exhibit distinguishable dynamic motions that depend on their location within the RNA structure, for instance the methyl groups of yeast tRNA Phe [8] . The prodigious chemical variation provided by the numerous modifications hitherto discovered allow RNA to perform numerous cellular functions [2] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Biomolecules 2017 , 7 , 29 2 of 32 modified nucleosides far surpass those of the individual characteristics provided by the four major nucleosides : the purine ( Pu ) ribonucleosides ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "adenosine ( A ) and guanosine ( G ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and the pyrimidine ( Py ) ribonucleosides ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "cytidine ( C ) and uridine ( U ) ( 2 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The chemical diversity of modifications is similar to that of amino acid side chains and can be as simple as methylations or single atom substitutions of sulfur for oxygen to as complex as the addition of amino acids and formation of a third ring to the purine nucleobase ( 7 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Even modifications as simple as methyl groups can exhibit distinguishable dynamic motions that depend on their location within the RNA structure ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "for instance the methyl groups of yeast tRNA Phe ( 8 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The prodigious chemical variation provided by the numerous modifications hitherto discovered allow RNA to perform numerous cellular functions ( 2 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Although the existence of modified nucleosides has been known for over six decades, much of how modified nucleosides alter the structure, function, and properties of RNAs is still unknown. More than a hundred modified nucleosides can be found in all domains of life in mRNA, rRNA, and other RNAs such as small nucleolar RNA (snoRNA) and small nuclear RNA (snRNA). Still, the greatest number and variety of modifications can be found in tRNAs (Figure 1) [1] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Although the existence of modified nucleosides has been known for over six decades ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "much of how modified nucleosides alter the structure ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "function , and properties of RNAs is still unknown .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "More than a hundred modified nucleosides can be found in all domains of life in mRNA ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "rRNA , and other RNAs such as small nucleolar RNA ( snoRNA ) and small nuclear RNA ( snRNA ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Still , the greatest number and variety of modifications can be found in tRNAs ( Figure 1 ) ( 1 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Modifications of the nucleobases and of the 2\u0027-OH of the ribose are crucial for various biological processes ( Figure 2 ). While the biologically important role of RNA modifications has been extensively studied, the physicochemical nature of the RNA modifications is also of interest because these properties enable or facilitate RNA function. Reviews specifying the chemical moieties found at various positions of tRNA can be found elsewhere [5, [9] [10] [11] [12] [13] [14] [15] . Here, we will focus on the impact of specific modified nucleoside chemistries which add to the chemistry of tRNAs and alter their structure and stability.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Modifications of the nucleobases and of the 2 \u0027 - OH of the ribose are crucial for various biological processes ( Figure 2 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "While the biologically important role of RNA modifications has been extensively studied ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the physicochemical nature of the RNA modifications is also of interest because these properties enable or facilitate RNA function .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Reviews specifying the chemical moieties found at various positions of tRNA can be found elsewhere ( 5 , ( 9 ) ( 10 ) ( 11 ) ( 12 ) ( 13 ) ( 14 ) ( 15 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we will focus on the impact of specific modified nucleoside chemistries which add to the chemistry of tRNAs and alter their structure and stability .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Biomolecules 2016, 6, 29 2 of 31 the pyrimidine (Py) ribonucleosides, cytidine (C) and uridine (U) [2] . The chemical diversity of modifications is similar to that of amino acid side chains and can be as simple as methylations or single atom substitutions of sulfur for oxygen to as complex as the addition of amino acids and formation of a third ring to the purine nucleobase [7] . Even modifications as simple as methyl groups can exhibit distinguishable dynamic motions that depend on their location within the RNA structure, for instance the methyl groups of yeast tRNA Phe [8] . The prodigious chemical variation provided by the numerous modifications hitherto discovered allow RNA to perform numerous cellular functions [2] . Although the existence of modified nucleosides has been known for over six decades, much of how modified nucleosides alter the structure, function, and properties of RNAs is still unknown. More than a hundred modified nucleosides can be found in all domains of life in mRNA, rRNA, and other RNAs such as small nucleolar RNA (snoRNA) and small nuclear RNA (snRNA). Still, the greatest number and variety of modifications can be found in tRNAs (Figure 1) [1].",
+      "sentences": [
+        [
+          {
+            "segment_text": "Biomolecules 2016 , 6 , 29 2 of 31 the pyrimidine ( Py ) ribonucleosides ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "cytidine ( C ) and uridine ( U ) ( 2 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The chemical diversity of modifications is similar to that of amino acid side chains and can be as simple as methylations or single atom substitutions of sulfur for oxygen to as complex as the addition of amino acids and formation of a third ring to the purine nucleobase ( 7 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Even modifications as simple as methyl groups can exhibit distinguishable dynamic motions that depend on their location within the RNA structure ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "for instance the methyl groups of yeast tRNA Phe ( 8 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The prodigious chemical variation provided by the numerous modifications hitherto discovered allow RNA to perform numerous cellular functions ( 2 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although the existence of modified nucleosides has been known for over six decades ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "much of how modified nucleosides alter the structure ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "function , and properties of RNAs is still unknown .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "More than a hundred modified nucleosides can be found in all domains of life in mRNA ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "rRNA , and other RNAs such as small nucleolar RNA ( snoRNA ) and small nuclear RNA ( snRNA ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Still , the greatest number and variety of modifications can be found in tRNAs ( Figure 1 ) ( 1 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Modifications of the nucleobases and of the 2\u0027-OH of the ribose are crucial for various biological processes ( Figure 2 ). While the biologically important role of RNA modifications has been extensively studied, the physicochemical nature of the RNA modifications is also of interest because these properties enable or facilitate RNA function. Reviews specifying the chemical moieties found at various positions of tRNA can be found elsewhere [5, [9] [10] [11] [12] [13] [14] [15] . Here, we will focus on the impact of specific modified nucleoside chemistries which add to the chemistry of tRNAs and alter their structure and stability.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Modifications of the nucleobases and of the 2 \u0027 - OH of the ribose are crucial for various biological processes ( Figure 2 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "While the biologically important role of RNA modifications has been extensively studied ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the physicochemical nature of the RNA modifications is also of interest because these properties enable or facilitate RNA function .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Reviews specifying the chemical moieties found at various positions of tRNA can be found elsewhere ( 5 , ( 9 ) ( 10 ) ( 11 ) ( 12 ) ( 13 ) ( 14 ) ( 15 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we will focus on the impact of specific modified nucleoside chemistries which add to the chemistry of tRNAs and alter their structure and stability .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "6",
+    "sentence_num": "30",
+    "segment_num": "53",
+    "token_num": "963"
+  }
+}

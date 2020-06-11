@@ -1,0 +1,96 @@
+{
+  "paper_id": "dedf310e36616461c82de98d9b0ceae75c30e5cd",
+  "metadata": {
+    "title": "Supplementary file of Mendizabal-Ruiz, et al. Genetic Signal Processing for DNA Sequence Clustering",
+    "coda_data_split": "train",
+    "coda_paper_id": 7624,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "To test the methodology presented in our paper, we performed various sequence clusterings using different datasets previously tested in the literature (Hoang et al., 2015) . These include five genome datasets, i.e. mammal mitochondrion, influenza A virus, human rhinovirus, coronavirus and bacteria. Clustering results are shown below.",
+      "sentences": [
+        [
+          {
+            "segment_text": "To test the methodology presented in our paper ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "we performed various sequence clusterings using different datasets previously tested in the literature ( Hoang et al. , 2015 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "These include five genome datasets ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "i.e. mammal mitochondrion , influenza A virus ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "human rhinovirus , coronavirus and bacteria .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Clustering results are shown below .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In the case of 31 mammal mitochondrial genomes (dataset A), a K7 clustering resulted in the classification of mammal families C1 Ursidae, C2 Bovidae and Cetacean, C3 Cercopithecidae, C4 Hominidae, C6 Canidae and C7 Felidae. Cluster 5 contains the Rodentia and Lagomorpha with the Erinaceidae outgroup. This is the result of the early divergence between carnivores, which breaks them in the three tight families, leaving one cluster for the three furthest groups.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In the case of 31 mammal mitochondrial genomes ( dataset A ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a K7 clustering resulted in the classification of mammal families C1 Ursidae ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "C2 Bovidae and Cetacean , C3 Cercopithecidae ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "C4 Hominidae , C6 Canidae and C7 Felidae .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Cluster 5 contains the Rodentia and Lagomorpha with the Erinaceidae outgroup .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This is the result of the early divergence between carnivores ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which breaks them in the three tight families ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "leaving one cluster for the three furthest groups .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "6",
+    "segment_num": "14",
+    "token_num": "141"
+  }
+}

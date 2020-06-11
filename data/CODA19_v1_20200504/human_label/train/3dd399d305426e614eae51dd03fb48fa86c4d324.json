@@ -1,0 +1,77 @@
+{
+  "paper_id": "3dd399d305426e614eae51dd03fb48fa86c4d324",
+  "metadata": {
+    "title": "Influences of cyclosporin A and non-immunosuppressive derivatives on cellular cyclophilins and viral nucleocapsid protein during human coronavirus 229E replication",
+    "coda_data_split": "train",
+    "coda_paper_id": 7739,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The well-known immunosuppressive drug cyclosporin A inhibits replication of various viruses including coronaviruses by binding to cellular cyclophilins thus inactivating their cis-trans peptidyl-prolyl isomerase function. Viral nucleocapsid proteins are inevitable for genome encapsidation and replication. Here we demonstrate the interaction between the N protein of HCoV-229E and cyclophilin A, not cyclophilin B. Cyclophilin inhibitors abolish this interaction. Upon infection, cyclophilin A stays evenly distributed throughout the cell, whereas cyclophilin B concentrates at ER-bleb-like structures. We further show the inhibitory potential of non-immunosuppressive CsA derivatives Alisporivir, NIM811, compound 3 on HCoV-229E-GFP and -Luciferase replication in human Huh-7.5 hepatoma cells at 18 and 48 h time points post infection with EC 50 s at low micromolar ranges. Thus, non-immunosuppressive CsA derivatives effectively inhibit HCoV-229E replication suggesting them as possible candidates for the treatment of HCoV infection. The interruption of interaction between CypA and N protein by CsA and its derivatives suggest a mechanism how CypA inhibitors suppress viral replication.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The well-known immunosuppressive drug cyclosporin A inhibits replication of various viruses including coronaviruses by binding to cellular cyclophilins thus inactivating their cis-trans peptidyl-prolyl isomerase function .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Viral nucleocapsid proteins are inevitable for genome encapsidation and replication .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we demonstrate the interaction between the N protein of HCoV-229E and cyclophilin A ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "not cyclophilin B. Cyclophilin inhibitors abolish this interaction .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Upon infection , cyclophilin A stays evenly distributed throughout the cell ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "whereas cyclophilin B concentrates at ER-bleb-like structures .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We further show the inhibitory potential of non-immunosuppressive CsA derivatives Alisporivir ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "NIM811 , compound 3 on HCoV-229E-GFP and - Luciferase replication in human Huh-7.5 hepatoma cells at 18 and 48 h time points post infection with EC 50 s at low micromolar ranges .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , non-immunosuppressive CsA derivatives effectively inhibit HCoV-229E replication suggesting them as possible candidates for the treatment of HCoV infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The interruption of interaction between CypA and N protein by CsA and its derivatives suggest a mechanism how CypA inhibitors suppress viral replication .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "10",
+    "token_num": "171"
+  }
+}

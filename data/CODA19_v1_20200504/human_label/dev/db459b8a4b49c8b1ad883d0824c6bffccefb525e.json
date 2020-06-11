@@ -1,0 +1,109 @@
+{
+  "paper_id": "db459b8a4b49c8b1ad883d0824c6bffccefb525e",
+  "metadata": {
+    "title": "Robustness of the reproductive number estimates in vector-borne disease systems Supplementary material Individual Based Model",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1766,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "We employed a spatially-explicit IBM motivated by the one previously proposed by Lourenço and Recker (2013) ",
+      "sentences": [
+        [
+          {
+            "segment_text": "We employed a spatially-explicit IBM motivated by the one previously proposed by Lourenço and Recker ( 2013 )",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Initially, a disease-free stochastic individual based model for the hosts and vectors of the virus was constructed with no spatial component, and time t discretized into days. Daily, individual humans and vectors were aged, and terminated if their age exceeded their life expectancy. Only the adult stage of a vector\u0027s life cycle was considered, since only adult vectors generally acquire and transmit the vector-borne disease. We assumed age-dependent mortalities for both the hosts and the vectors. For both the host and vector, this is governed a Weibull distribution.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Initially , a disease-free stochastic individual based model for the hosts and vectors of the virus was constructed with no spatial component ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and time t discretized into days .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Daily , individual humans and vectors were aged ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and terminated if their age exceeded their life expectancy .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Only the adult stage of a vector \u0027s life cycle was considered ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "since only adult vectors generally acquire and transmit the vector-borne disease .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We assumed age-dependent mortalities for both the hosts and the vectors .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "For both the host and vector ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "this is governed a Weibull distribution .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "where c i and d i are the scale and shape parameters, with i ∈ {H, V } denoting the parameters for host and vectors. The host and vector population were assumed to be constant, with M denoting the ratio if vectors to hosts, so a new individual immediately replaces an individual that has been the terminated.",
+      "sentences": [
+        [
+          {
+            "segment_text": "where c i and d i are the scale and shape parameters ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with i ∈ ( H , V ) denoting the parameters for host and vectors .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The host and vector population were assumed to be constant ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with M denoting the ratio if vectors to hosts ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "so a new individual immediately replaces an individual that has been the terminated .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "8",
+    "segment_num": "15",
+    "token_num": "182"
+  }
+}

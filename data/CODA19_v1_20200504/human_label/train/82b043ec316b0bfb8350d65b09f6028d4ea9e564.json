@@ -1,0 +1,109 @@
+{
+  "paper_id": "82b043ec316b0bfb8350d65b09f6028d4ea9e564",
+  "metadata": {
+    "title": "Know Your Enemy: Successful Bioinformatic Approaches to Predict Functional RNA Structures in Viral RNAs",
+    "coda_data_split": "train",
+    "coda_paper_id": 5883,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Structured RNA elements may control virus replication, transcription and translation, and their distinct features are being exploited by novel antiviral strategies. Viral RNA elements continue to be discovered using combinations of experimental and computational analyses. However, the wealth of sequence data, notably from deep viral RNA sequencing, viromes, and metagenomes, necessitates computational approaches being used as an essential discovery tool. In this review, we describe practical approaches being used to discover functional RNA elements in viral genomes. In addition to success stories in new and emerging viruses, these approaches have revealed some surprising new features of well-studied viruses e.g., human immunodeficiency virus, hepatitis C virus, influenza, and dengue viruses. Some notable discoveries were facilitated by new comparative analyses of diverse viral genome alignments. Importantly, comparative approaches for finding RNA elements embedded in coding and non-coding regions differ. With the exponential growth of computer power we have progressed from stem-loop prediction on single sequences to cutting edge 3D prediction, and from command line to user friendly web interfaces. Despite these advances, many powerful, user friendly prediction tools and resources are underutilized by the virology community.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Structured RNA elements may control virus replication ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "transcription and translation , and their distinct features are being exploited by novel antiviral strategies .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Viral RNA elements continue to be discovered using combinations of experimental and computational analyses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the wealth of sequence data ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "notably from deep viral RNA sequencing ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "viromes , and metagenomes , necessitates computational approaches being used as an essential discovery tool .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this review , we describe practical approaches being used to discover functional RNA elements in viral genomes .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition to success stories in new and emerging viruses ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "these approaches have revealed some surprising new features of well-studied viruses e.g. ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "human immunodeficiency virus , hepatitis C virus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "influenza , and dengue viruses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Some notable discoveries were facilitated by new comparative analyses of diverse viral genome alignments .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Importantly , comparative approaches for finding RNA elements embedded in coding and non-coding regions differ .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "With the exponential growth of computer power we have progressed from stem-loop prediction on single sequences to cutting edge 3D prediction ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and from command line to user friendly web interfaces .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Despite these advances , many powerful ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "user friendly prediction tools and resources are underutilized by the virology community .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "9",
+    "segment_num": "17",
+    "token_num": "210"
+  }
+}

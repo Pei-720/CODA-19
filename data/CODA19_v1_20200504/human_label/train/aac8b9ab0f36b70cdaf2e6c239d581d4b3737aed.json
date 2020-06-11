@@ -1,0 +1,223 @@
+{
+  "paper_id": "aac8b9ab0f36b70cdaf2e6c239d581d4b3737aed",
+  "metadata": {
+    "title": "A Low-Cost Palmtop High- Speed Capillary Electrophoresis Bioanalyzer with Laser Induced Fluorescence Detection",
+    "coda_data_split": "train",
+    "coda_paper_id": 8018,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "In this work, we developed a miniaturized palmtop high-speed capillary electrophoresis (CE) system integrating whole modules, including picoliter-scale sample injection, short capillary-based fast CE, high-voltage power supply, orthogonal laser induced fluorescence (LIF) detection, battery, system control, on-line data acquisition, processing, storage, and display modules. A strategy of minimalist miniaturization combining minimal system design and low-cost system construction was adopted to achieve the instrument miniaturization with extremely low cost, which is differing from the current microfabrication strategy used in most reported miniaturized CE systems. With such a strategy, the total size of the bioanalyzer was minimized to 90 × 75 × 77 mm (length × width × height) and the instrument cost was reduced to ca. $500, which demonstrated the smallest and lowest-cost CE instrument with LIF detection in so far reported systems. The present bioanalyzer also exhibited comparable analytical performances to previously-reported high-speed CE systems. A limit of detection of 1.02 nM sodium fluorescein was obtained. Fast separations were achieved for multiple types of samples as amino acids, amino acid enantiomers, DNA fragments, and proteins with high efficiency. We applied this instrument in colorectal cancer diagnosis for detecting KRAS mutation status by polymerase chain reaction-restriction fragment length polymorphism (PCR-RFLP) method.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this work , we developed a miniaturized palmtop high-speed capillary electrophoresis ( CE ) system integrating whole modules ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including picoliter-scale sample injection , short capillary-based fast CE ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "high-voltage power supply , orthogonal laser induced fluorescence ( LIF ) detection ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "battery , system control , on-line data acquisition ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "processing , storage , and display modules .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A strategy of minimalist miniaturization combining minimal system design and low-cost system construction was adopted to achieve the instrument miniaturization with extremely low cost ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which is differing from the current microfabrication strategy used in most reported miniaturized CE systems .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "With such a strategy , the total size of the bioanalyzer was minimized to 90 × 75 × 77 mm ( length × width × height ) and the instrument cost was reduced to ca .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "$ 500 , which demonstrated the smallest and lowest-cost CE instrument with LIF detection in so far reported systems .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The present bioanalyzer also exhibited comparable analytical performances to previously-reported high-speed CE systems .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A limit of detection of 1.02 nM sodium fluorescein was obtained .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Fast separations were achieved for multiple types of samples as amino acids ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "amino acid enantiomers , DNA fragments ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and proteins with high efficiency .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We applied this instrument in colorectal cancer diagnosis for detecting KRAS mutation status by polymerase chain reaction-restriction fragment length polymorphism ( PCR-RFLP ) method .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Currently, miniaturization of analytical instruments with the aim of application in field analysis, point of care testing, environmental analysis and aerospace analysis, has become one of the main trends of analytical instrument researches. Since 1990s, the appearance of microfluidic technology has provided a strong impetus for analytical instrument miniaturization due to its advantages of high efficiency, high throughput, low consumption, as well as system miniaturization, integration, and automatization. By now, it has already become the major approach for achieving miniaturization of analytical instruments. Various microfluidic chip-based miniaturized analytical systems have been developed, including high-speed capillary electrophoresis (CE) 1-3 , microchip-based nucleic acid analysis 4,5 , centrifugal microfluidic immunoassay 6 and high-performance liquid chromatography 7 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Currently , miniaturization of analytical instruments with the aim of application in field analysis ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "point of care testing , environmental analysis and aerospace analysis ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "has become one of the main trends of analytical instrument researches .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Since 1990s , the appearance of microfluidic technology has provided a strong impetus for analytical instrument miniaturization due to its advantages of high efficiency ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "high throughput , low consumption ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as well as system miniaturization , integration , and automatization .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "By now , it has already become the major approach for achieving miniaturization of analytical instruments .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Various microfluidic chip-based miniaturized analytical systems have been developed ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including high-speed capillary electrophoresis ( CE ) 1-3 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "microchip-based nucleic acid analysis 4,5 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "centrifugal microfluidic immunoassay 6 and high-performance liquid chromatography 7 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "High-speed CE which was first reported by Jorgenson\u0027s group in 1991 8 , is a type of CE technique with features of high separation speed and high separation efficiency over traditional CE technique 9 . A typical high-speed CE system usually can achieve fast sample separation within tens of seconds using short separation length (\u003c15 cm), narrow injected sample plug (e.g. \u003c100 μm), and high separation electric field strength (\u003e500 V/cm), while keeping high separation efficiency up to micrometer or submicrometer plate heights. Various high-speed CE systems have been developed and applied in biological 10,11 , medical 12,13 , chemical 14,15 , and environmental 16,17 analysis. Currently, the miniaturization of high-speed CE systems has become one of the major development directions of the high-speed CE technology, which can provide various portable instruments 18,19 for point of care testing 20 , in-situ analysis 21 and extraterrestrial exploration 22 by means of their small size, high-resolution separation and fast analysis time. So far, most of miniaturized high-speed CE systems 2,20,23-27 are developed on the basis of microchip-based CE technique with advantages of automated picoliter-scale sample injection and separation",
+      "sentences": [
+        [
+          {
+            "segment_text": "High-speed CE which was first reported by Jorgenson \u0027s group in 1991 8 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "is a type of CE technique with features of high separation speed and high separation efficiency over traditional CE technique 9 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A typical high-speed CE system usually can achieve fast sample separation within tens of seconds using short separation length ( \u003c 15 cm ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "narrow injected sample plug ( e.g. \u003c 100 μm ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and high separation electric field strength ( \u003e 500 V/cm ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "while keeping high separation efficiency up to micrometer or submicrometer plate heights .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Various high-speed CE systems have been developed and applied in biological 10,11 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "medical 12,13 , chemical 14,15 , and environmental 16,17 analysis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Currently , the miniaturization of high-speed CE systems has become one of the major development directions of the high-speed CE technology ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which can provide various portable instruments 18,19 for point of care testing 20 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "in-situ analysis 21 and extraterrestrial exploration 22 by means of their small size ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "high-resolution separation and fast analysis time .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "So far , most of miniaturized high-speed CE systems 2,20,23-27 are developed on the basis of microchip-based CE technique with advantages of automated picoliter-scale sample injection and separation",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "17",
+    "segment_num": "39",
+    "token_num": "572"
+  }
+}

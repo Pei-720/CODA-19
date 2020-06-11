@@ -1,0 +1,193 @@
+{
+  "paper_id": "ed610e3cb3696b2a25490d26ad19a1ef8229663d",
+  "metadata": {
+    "title": "Modulation of HIV-1 Gag/Gag-Pol frameshifting by tRNA abundance",
+    "coda_data_split": "train",
+    "coda_paper_id": 2838,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "A hallmark of translation in human immunodeficiency virus type 1 (HIV-1) is a -1 programmed ribosome frameshifting event that produces the Gag-Pol fusion polyprotein. The constant Gag to Gag-Pol ratio is essential for the virion structure and infectivity. Here we show that the frameshifting efficiency is modulated by Leu-tRNA Leu that reads the UUA codon at the mRNA slippery site. This tRNA Leu isoacceptor is particularly rare in human cell lines derived from T-lymphocytes, the cells that are targeted by HIV-1. When UUA decoding is delayed, the frameshifting follows an alternative route, which maintains the Gag to Gag-Pol ratio constant. A second potential slippery site downstream of the first one is normally inefficient but can also support -1-frameshifting when altered by a compensatory resistance mutation in response to current antiviral drug therapy. Together these different regimes allow the virus to maintain a constant -1-frameshifting efficiency to ensure successful virus propagation. Figure 1. -1FS on HIV-1 gag-pol mRNA. (A) Scheme of the gag-pol frameshifting site. Slippery site (SS1) and the putative second slippery site (pSS2) are highlighted in green; the stimulatory mRNA structure element downstream of the SS1 is indicated as a stem-loop (SL1). Amino acids incorporated into 0-frame and -1-frame peptides as well as the potential -1FS routes and in vivo efficiencies are shown below the frameshifting sites. (B) Top panel: Amino acids incorporated into 0-and -1-frames are shown above the mRNA sequence. Bottom panel: -1FS efficiency with the wild-type (wt) mRNA and U 4 C derivative with disrupted SS1 measured at limiting amounts of Leu-tRNA NAA Leu (molar ratio 0.3 tRNA to 70S ribosome) at the end of translation (2 min). The 0-frame is the sum of MQANF and MQANFLG peptides, -1-frame corresponds to MQANFFR/FLR peptides. MQANF was identified based on its position on the chromatogram while MQANFFR/FLR and MQANFLG products were quantified using [ 14 C]Arg and [ 3 H]Gly, respectively. (C) Concentration dependence of -1FS efficiency on the Leu-tRNA NAA Leu (tRNA NAA Leu , closed circles) or a mixture of tRNA Leu isoacceptors reading CUN codons (tRNA NAG Leu , open circles). -1FS product was detected using [ 14 C]Arg. (D) Change in the FS regime with the Leu-tRNA NAA Leu concentration. The ratio of FFR route (open circles) versus FLR (closed circles) route was calculated from peptides with different radioactive labels as follows. The sum of FFR and FLR frameshifting products was calculated using [ 14 C]Arg. To determine the amount of FLR, the mRNA was translated to the 0-frame peptide fMet-Gln-Asn-Phe-Leu-Gly-Lys-Ile (MQANFLGKI). The presence of Ile allows for separation between 0-frame MQANFLGKI and -1-frame MQANFLR peptides. The FFR peptide was then determined by subtracting the FLR from the total Arg-containing product. (E) -1FS efficiency in the presence of varying concentrations of Gly-tRNA Gly in the presence of excess Arg-tRNA Arg (2 M) (green squares) or with varying concentrations of Arg-tRNA Arg in the presence of 3 or 6 M Gly-tRNA Gly (red and light red squares, respectively).",
+      "sentences": [
+        [
+          {
+            "segment_text": "A hallmark of translation in human immunodeficiency virus type 1 ( HIV-1 ) is a -1 programmed ribosome frameshifting event that produces the Gag-Pol fusion polyprotein .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The constant Gag to Gag-Pol ratio is essential for the virion structure and infectivity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we show that the frameshifting efficiency is modulated by Leu-tRNA Leu that reads the UUA codon at the mRNA slippery site .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "This tRNA Leu isoacceptor is particularly rare in human cell lines derived from T-lymphocytes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the cells that are targeted by HIV-1 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "When UUA decoding is delayed ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the frameshifting follows an alternative route ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which maintains the Gag to Gag-Pol ratio constant .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A second potential slippery site downstream of the first one is normally inefficient but can also support -1-frameshifting when altered by a compensatory resistance mutation in response to current antiviral drug therapy .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Together these different regimes allow the virus to maintain a constant -1-frameshifting efficiency to ensure successful virus propagation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Figure 1 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "-1 FS on HIV-1 gag-pol mRNA .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "( A ) Scheme of the gag-pol frameshifting site .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Slippery site ( SS1 ) and the putative second slippery site ( pSS2 ) are highlighted in green ; the stimulatory mRNA structure element downstream of the SS1 is indicated as a stem-loop ( SL1 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Amino acids incorporated into 0-frame and -1-frame peptides as well as the potential -1 FS routes and in vivo efficiencies are shown below the frameshifting sites .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "( B ) Top panel : Amino acids incorporated into 0-and -1-frames are shown above the mRNA sequence .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Bottom panel : -1 FS efficiency with the wild-type ( wt ) mRNA and U 4 C derivative with disrupted SS1 measured at limiting amounts of Leu-tRNA NAA Leu ( molar ratio 0.3 tRNA to 70S ribosome ) at the end of translation ( 2 min ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The 0-frame is the sum of MQANF and MQANFLG peptides ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "-1-frame corresponds to MQANFFR/FLR peptides .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "MQANF was identified based on its position on the chromatogram while MQANFFR/FLR and MQANFLG products were quantified using ( 14 C ) Arg and ( 3 H ) Gly , respectively .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "( C ) Concentration dependence of -1 FS efficiency on the Leu-tRNA NAA Leu ( tRNA NAA Leu , closed circles ) or a mixture of tRNA Leu isoacceptors reading CUN codons ( tRNA NAG Leu , open circles ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "-1 FS product was detected using ( 14 C ) Arg .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "( D ) Change in the FS regime with the Leu-tRNA NAA Leu concentration .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The ratio of FFR route ( open circles ) versus FLR ( closed circles ) route was calculated from peptides with different radioactive labels as follows .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The sum of FFR and FLR frameshifting products was calculated using ( 14 C ) Arg .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "To determine the amount of FLR ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the mRNA was translated to the 0-frame peptide fMet-Gln-Asn-Phe-Leu-Gly-Lys-Ile ( MQANFLGKI ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The presence of Ile allows for separation between 0-frame MQANFLGKI and -1-frame MQANFLR peptides .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The FFR peptide was then determined by subtracting the FLR from the total Arg-containing product .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "( E ) -1 FS efficiency in the presence of varying concentrations of Gly-tRNA Gly in the presence of excess Arg-tRNA Arg ( 2 M ) ( green squares ) or with varying concentrations of Arg-tRNA Arg in the presence of 3 or 6 M Gly-tRNA Gly ( red and light red squares , respectively ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "25",
+    "segment_num": "30",
+    "token_num": "582"
+  }
+}

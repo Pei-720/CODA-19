@@ -1,0 +1,81 @@
+{
+  "paper_id": "0e1c055e39c45d7cef611b6bd17fb67c249ed742",
+  "metadata": {
+    "title": "Unifying evolutionary and thermodynamic information for RNA folding of multiple alignments",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1013,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Computational methods for determining the secondary structure of RNA sequences from given alignments are currently either based on thermodynamic folding, compensatory base pair substitutions or both. However, there is currently no approach that combines both sources of information in a single optimization problem. Here, we present a model that formally integrates both the energy-based and evolution-based approaches to predict the folding of multiple aligned RNA sequences. We have implemented an extended version of Pfold that identifies base pairs that have high probabilities of being conserved and of being energetically favorable. The consensus structure is predicted using a maximum expected accuracy scoring scheme to smoothen the effect of incorrectly predicted base pairs. Parameter tuning revealed that the probability of base pairing has a higher impact on the RNA structure prediction than the corresponding probability of being single stranded. Furthermore, we found that structurally conserved RNA motifs are mostly supported by folding energies. Other problems (e.g. RNA-folding kinetics) may also benefit from employing the principles of the model we introduce. Our implementation, PETfold, was tested on a set of 46 well-curated Rfam families and its performance compared favorably to that of Pfold and RNAalifold.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Computational methods for determining the secondary structure of RNA sequences from given alignments are currently either based on thermodynamic folding ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "compensatory base pair substitutions or both .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , there is currently no approach that combines both sources of information in a single optimization problem .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we present a model that formally integrates both the energy-based and evolution-based approaches to predict the folding of multiple aligned RNA sequences .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We have implemented an extended version of Pfold that identifies base pairs that have high probabilities of being conserved and of being energetically favorable .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The consensus structure is predicted using a maximum expected accuracy scoring scheme to smoothen the effect of incorrectly predicted base pairs .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Parameter tuning revealed that the probability of base pairing has a higher impact on the RNA structure prediction than the corresponding probability of being single stranded .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , we found that structurally conserved RNA motifs are mostly supported by folding energies .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Other problems ( e.g. RNA-folding kinetics ) may also benefit from employing the principles of the model we introduce .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our implementation , PETfold , was tested on a set of 46 well-curated Rfam families and its performance compared favorably to that of Pfold and RNAalifold .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "9",
+    "segment_num": "10",
+    "token_num": "209"
+  }
+}

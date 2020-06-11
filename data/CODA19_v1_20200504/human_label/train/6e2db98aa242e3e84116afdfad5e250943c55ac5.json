@@ -1,0 +1,105 @@
+{
+  "paper_id": "6e2db98aa242e3e84116afdfad5e250943c55ac5",
+  "metadata": {
+    "title": "Early detection of dynamic harmful cascades in large-scale networks ଝ",
+    "coda_data_split": "train",
+    "coda_paper_id": 6257,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Quickly detecting harmful cascades in networks can allow us to analyze the causes and prevent further spreading of destructive influence. Since it is often impossible to observe the state of all nodes in a network, a common method is to detect harmful cascades from sparsely placed sensors. However, the harmful cascades are usually dynamic (e.g., the cascade initiators and diffusion trajectories can change over the time), which can severely destroy the robustness of selected sensors. Meanwhile the large scale of current networks greatly increases the time complexity of sensor selection. Motivated by the observation, in this paper we investigate the scalable sensor selection problem for early detection of dynamic harmful cascades in networks. Specifically, we first put forward a dynamic susceptible-infected model to describe harmful cascades, and formally define a detection time minimization (DTM) problem which focuses on effective sensors placement for early detection of dynamic cascades. We prove that it is #P-hard to calculate the objective function exactly and propose two Monte-Carlo methods to estimate it efficiently. We prove the NP-hardness of DTM problem and design a corresponding greedy algorithm. Based on that, we propose an efficient upper bound based greedy (UBG) algorithm with the theoretical performance guarantee reserved. To further meet different types of large-scale networks, we propose two accelerations of UBG: Quickest-Path-UBG for sparse networks and Local-Reduction-UBG for dense networks to improve the time complexity. The experimental results on synthetic and real-world social networks demonstrate the practicality of our approaches.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Quickly detecting harmful cascades in networks can allow us to analyze the causes and prevent further spreading of destructive influence .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Since it is often impossible to observe the state of all nodes in a network ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a common method is to detect harmful cascades from sparsely placed sensors .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the harmful cascades are usually dynamic ( e.g. , the cascade initiators and diffusion trajectories can change over the time ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which can severely destroy the robustness of selected sensors .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Meanwhile the large scale of current networks greatly increases the time complexity of sensor selection .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Motivated by the observation , in this paper we investigate the scalable sensor selection problem for early detection of dynamic harmful cascades in networks .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Specifically , we first put forward a dynamic susceptible-infected model to describe harmful cascades ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and formally define a detection time minimization ( DTM ) problem which focuses on effective sensors placement for early detection of dynamic cascades .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We prove that it is # P-hard to calculate the objective function exactly and propose two Monte-Carlo methods to estimate it efficiently .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We prove the NP-hardness of DTM problem and design a corresponding greedy algorithm .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Based on that , we propose an efficient upper bound based greedy ( UBG ) algorithm with the theoretical performance guarantee reserved .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "To further meet different types of large-scale networks ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we propose two accelerations of UBG : Quickest-Path-UBG for sparse networks and Local-Reduction-UBG for dense networks to improve the time complexity .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The experimental results on synthetic and real-world social networks demonstrate the practicality of our approaches .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "11",
+    "segment_num": "15",
+    "token_num": "271"
+  }
+}

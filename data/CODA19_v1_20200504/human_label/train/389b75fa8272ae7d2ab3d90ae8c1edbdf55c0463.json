@@ -1,0 +1,181 @@
+{
+  "paper_id": "389b75fa8272ae7d2ab3d90ae8c1edbdf55c0463",
+  "metadata": {
+    "title": "Sequence-Specific Fidelity Alterations Associated with West Nile Virus Attenuation in Mosquitoes",
+    "coda_data_split": "train",
+    "coda_paper_id": 6559,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "High rates of error-prone replication result in the rapid accumulation of genetic diversity of RNA viruses. Recent studies suggest that mutation rates are selected for optimal viral fitness and that modest variations in replicase fidelity may be associated with viral attenuation. Arthropod-borne viruses (arboviruses) are unique in their requirement for host cycling and may necessitate substantial genetic and phenotypic plasticity. In order to more thoroughly investigate the correlates, mechanisms and consequences of arbovirus fidelity, we selected fidelity variants of West Nile virus (WNV; Flaviviridae, Flavivirus) utilizing selection in the presence of a mutagen. We identified two mutations in the WNV RNA-dependent RNA polymerase associated with increased fidelity, V793I and G806R, and a single mutation in the WNV methyltransferase, T248I, associated with decreased fidelity. Both deepsequencing and in vitro biochemical assays confirmed strain-specific differences in both fidelity and mutational bias. WNV fidelity variants demonstrated host-specific alterations to replicative fitness in vitro, with modest attenuation in mosquito but not vertebrate cell culture. Experimental infections of colonized and field populations of Cx. quinquefaciatus demonstrated that WNV fidelity alterations are associated with a significantly impaired capacity to establish viable infections in mosquitoes. Taken together, these studies (i) demonstrate the importance of allosteric interactions in regulating mutation rates, (ii) establish that mutational spectra can be both sequence and strain-dependent, and (iii) display the profound phenotypic consequences associated with altered replication complex function of flaviviruses.",
+      "sentences": [
+        [
+          {
+            "segment_text": "High rates of error-prone replication result in the rapid accumulation of genetic diversity of RNA viruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recent studies suggest that mutation rates are selected for optimal viral fitness and that modest variations in replicase fidelity may be associated with viral attenuation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Arthropod-borne viruses ( arboviruses ) are unique in their requirement for host cycling and may necessitate substantial genetic and phenotypic plasticity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In order to more thoroughly investigate the correlates ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "mechanisms and consequences of arbovirus fidelity ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "we selected fidelity variants of West Nile virus ( WNV ; Flaviviridae , Flavivirus ) utilizing selection in the presence of a mutagen .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We identified two mutations in the WNV RNA-dependent RNA polymerase associated with increased fidelity ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "V793I and G806R , and a single mutation in the WNV methyltransferase ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "T248I , associated with decreased fidelity .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Both deepsequencing and in vitro biochemical assays confirmed strain-specific differences in both fidelity and mutational bias .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "WNV fidelity variants demonstrated host-specific alterations to replicative fitness in vitro ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with modest attenuation in mosquito but not vertebrate cell culture .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Experimental infections of colonized and field populations of Cx .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "quinquefaciatus demonstrated that WNV fidelity alterations are associated with a significantly impaired capacity to establish viable infections in mosquitoes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Taken together , these studies ( i ) demonstrate the importance of allosteric interactions in regulating mutation rates ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "( ii ) establish that mutational spectra can be both sequence and strain-dependent ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and ( iii ) display the profound phenotypic consequences associated with altered replication complex function of flaviviruses .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "mutable and exists in nature as genetically diverse mutant swarms. Although many recent studies have investigated the relationship between virus mutation rate and viral fitness, this had not previously been determined for WNV or other flaviviruses. We identified WNV mutations associated with variation in mutation rate using cell culture passage in the presence of a mutagen and engineered these mutations into an infectious WNV clone in order to investigate the causes and consequences of altered fidelity. Our results demonstrate that interactions among proteins which comprise the WNV replication complex can significantly alter both the extent and types of mutations that occur. In addition, we show that both increasing and decreasing WNV fidelity has host-specific effects on replication in cell culture and is associated with nearly complete ablation of WNV infection in mosquito vectors. These results have significant implications for our understanding of arbovirus evolution, replication complex function and arboviral fitness in mosquitoes, and identify important targets to study the determinants and mechanisms of vector competence and arbovirus fidelity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "mutable and exists in nature as genetically diverse mutant swarms .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although many recent studies have investigated the relationship between virus mutation rate and viral fitness ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "this had not previously been determined for WNV or other flaviviruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We identified WNV mutations associated with variation in mutation rate using cell culture passage in the presence of a mutagen and engineered these mutations into an infectious WNV clone in order to investigate the causes and consequences of altered fidelity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our results demonstrate that interactions among proteins which comprise the WNV replication complex can significantly alter both the extent and types of mutations that occur .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , we show that both increasing and decreasing WNV fidelity has host-specific effects on replication in cell culture and is associated with nearly complete ablation of WNV infection in mosquito vectors .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These results have significant implications for our understanding of arbovirus evolution ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "replication complex function and arboviral fitness in mosquitoes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and identify important targets to study the determinants and mechanisms of vector competence and arbovirus fidelity .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The WNV NS5 gene was cloned into the pET26Ub-CHIS bacterial expression plasmid [35] . This system allows for the production of ubiquitin fusion proteins containing a carboxy-Characterization of West Nile Virus Fidelity Mutants PLOS Pathogens |",
+      "sentences": [
+        [
+          {
+            "segment_text": "The WNV NS5 gene was cloned into the pET26Ub-CHIS bacterial expression plasmid ( 35 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This system allows for the production of ubiquitin fusion proteins containing a carboxy-Characterization of West Nile Virus Fidelity Mutants PLOS Pathogens |",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "18",
+    "segment_num": "28",
+    "token_num": "477"
+  }
+}

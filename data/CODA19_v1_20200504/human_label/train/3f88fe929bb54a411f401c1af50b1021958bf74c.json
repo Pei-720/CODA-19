@@ -1,0 +1,136 @@
+{
+  "paper_id": "3f88fe929bb54a411f401c1af50b1021958bf74c",
+  "metadata": {
+    "title": "Experimental and numerical study on particle distribution in a two-zone chamber",
+    "coda_data_split": "train",
+    "coda_paper_id": 3005,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Better understanding of aerosol dynamics is an important step for improving personal exposure assessments in indoor environments. Although the limitation of the assumptions in a well-mixed model is well known, there has been very little research reported in the published literature on the discrepancy of exposure assessments between numerical models which take account of gravitational effects and the well-mixed model.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Better understanding of aerosol dynamics is an important step for improving personal exposure assessments in indoor environments .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although the limitation of the assumptions in a well-mixed model is well known ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "there has been very little research reported in the published literature on the discrepancy of exposure assessments between numerical models which take account of gravitational effects and the well-mixed model .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "A new Eulerian-type drift-flux model has been developed to simulate particle dispersion and personal exposure in a twozone geometry, which accounts for the drift velocity resulting from gravitational settling and diffusion.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A new Eulerian-type drift-flux model has been developed to simulate particle dispersion and personal exposure in a twozone geometry ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which accounts for the drift velocity resulting from gravitational settling and diffusion .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "To validate the numerical model, a small-scale chamber was fabricated. The airflow characteristics and particle concentrations were measured by a phase Doppler Anemometer. Both simulated airflow and concentration profiles agree well with the experimental results. A strong inhomogeneous concentration was observed experimentally for 10 mm aerosols.",
+      "sentences": [
+        [
+          {
+            "segment_text": "To validate the numerical model ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "a small-scale chamber was fabricated .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The airflow characteristics and particle concentrations were measured by a phase Doppler Anemometer .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Both simulated airflow and concentration profiles agree well with the experimental results .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A strong inhomogeneous concentration was observed experimentally for 10 mm aerosols .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The computational model was further applied to study a simple hypothetical, yet more realistic scenario. The aim was to explore different levels of exposure predicted by the new model and the well-mixed model. Aerosols are initially uniformly distributed in one zone and subsequently transported and dispersed to an adjacent zone through an opening. Owing to the significant difference in the rates of transport and dispersion between aerosols and gases, inferred from the results, the wellmixed model tends to overpredict the concentration in the source zone, and under-predict the concentration in the exposed zone. The results are very useful to illustrate that the well-mixed assumption must be applied cautiously for exposure assessments as such an ideal condition may not be applied for coarse particles. r",
+      "sentences": [
+        [
+          {
+            "segment_text": "The computational model was further applied to study a simple hypothetical , yet more realistic scenario .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The aim was to explore different levels of exposure predicted by the new model and the well-mixed model .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Aerosols are initially uniformly distributed in one zone and subsequently transported and dispersed to an adjacent zone through an opening .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Owing to the significant difference in the rates of transport and dispersion between aerosols and gases ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "inferred from the results , the wellmixed model tends to overpredict the concentration in the source zone ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and under-predict the concentration in the exposed zone .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results are very useful to illustrate that the well-mixed assumption must be applied cautiously for exposure assessments as such an ideal condition may not be applied for coarse particles .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "r",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "13",
+    "segment_num": "18",
+    "token_num": "280"
+  }
+}

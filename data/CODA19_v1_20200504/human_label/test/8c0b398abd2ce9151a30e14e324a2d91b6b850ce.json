@@ -1,0 +1,139 @@
+{
+  "paper_id": "8c0b398abd2ce9151a30e14e324a2d91b6b850ce",
+  "metadata": {
+    "title": "Rapid and accurate identification of COVID-19 infection through machine learning based on clinical available blood test results",
+    "coda_data_split": "test",
+    "coda_paper_id": 927,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Since the sudden outbreak of coronavirus disease 2019 , it has rapidly evolved into a momentous global health concern. Due to the lack of constructive information on the pathogenesis of COVID-19 and specific treatment, it highlights the importance of early diagnosis and timely treatment.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Since the sudden outbreak of coronavirus disease 2019 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "it has rapidly evolved into a momentous global health concern .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Due to the lack of constructive information on the pathogenesis of COVID-19 and specific treatment ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "it highlights the importance of early diagnosis and timely treatment .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In this study, 11 key blood indices were extracted through random forest algorithm to build the final assistant discrimination tool from 49 clinical available blood test data which were derived by commercial blood test equipments. The method presented robust outcome to accurately identify COVID-19 from a variety of suspected patients with similar CT information or similar symptoms, with accuracy of 0.9795 and 0.9697 for the cross-validation set and test set, respectively. The tool also demonstrated its outstanding performance on an external validation set that was completely independent of the modeling process, with sensitivity, specificity, and overall accuracy of 0.9512, 0.9697, and 0.9595, respectively. Besides, 24 samples from overseas infected patients with COVID-19 were used to make an in-depth clinical assessment with accuracy of 0.9167. After multiple verification, the reliability and repeatability of the tool has been fully evaluated, and it has the potential to develop into an emerging technology to identify COVID-19 and lower the burden of global public health. The . CC-BY-NC-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this study , 11 key blood indices were extracted through random forest algorithm to build the final assistant discrimination tool from 49 clinical available blood test data which were derived by commercial blood test equipments .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The method presented robust outcome to accurately identify COVID-19 from a variety of suspected patients with similar CT information or similar symptoms ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "with accuracy of 0.9795 and 0.9697 for the cross-validation set and test set , respectively .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The tool also demonstrated its outstanding performance on an external validation set that was completely independent of the modeling process ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with sensitivity , specificity , and overall accuracy of 0.9512 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "0.9697 , and 0.9595 , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Besides , 24 samples from overseas infected patients with COVID-19 were used to make an in-depth clinical assessment with accuracy of 0.9167 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "After multiple verification , the reliability and repeatability of the tool has been fully evaluated ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and it has the potential to develop into an emerging technology to identify COVID-19 and lower the burden of global public health .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "CC-BY-NC-ND 4.0 International license It is made available under a is the author/funder ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "who has granted medRxiv a license to display the preprint in perpetuity .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The copyright holder for this preprint . https://doi.org/10. 1101 proposed tool is well-suited to carry out preliminary assessment of suspected patients and help them to get timely treatment and quarantine suggestion. The assistant tool is now available online at",
+      "sentences": [
+        [
+          {
+            "segment_text": "The copyright holder for this preprint .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "https://doi.org/10 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "1101 proposed tool is well-suited to carry out preliminary assessment of suspected patients and help them to get timely treatment and quarantine suggestion .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "The assistant tool is now available online at",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "13",
+    "segment_num": "20",
+    "token_num": "294"
+  }
+}

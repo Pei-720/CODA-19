@@ -1,0 +1,115 @@
+{
+  "paper_id": "3799479a8ad2b8db9f21c68f88dfae6410d0fed0",
+  "metadata": {
+    "title": "BMC Bioinformatics Proceedings A comprehensive assessment of N-terminal signal peptides prediction methods",
+    "coda_data_split": "train",
+    "coda_paper_id": 3789,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Amino-terminal signal peptides (SPs) are short regions that guide the targeting of secretory proteins to the correct subcellular compartments in the cell. They are cleaved off upon the passenger protein reaching its destination. The explosive growth in sequencing technologies has led to the deposition of vast numbers of protein sequences necessitating rapid functional annotation techniques, with subcellular localization being a key feature. Of the myriad software prediction tools developed to automate the task of assigning the SP cleavage site of these new sequences, we review here, the performance and reliability of commonly used SP prediction tools.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Amino-terminal signal peptides ( SPs ) are short regions that guide the targeting of secretory proteins to the correct subcellular compartments in the cell .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "They are cleaved off upon the passenger protein reaching its destination .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The explosive growth in sequencing technologies has led to the deposition of vast numbers of protein sequences necessitating rapid functional annotation techniques ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with subcellular localization being a key feature .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Of the myriad software prediction tools developed to automate the task of assigning the SP cleavage site of these new sequences ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we review here , the performance and reliability of commonly used SP prediction tools .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results: The available signal peptide data has been manually curated and organized into three datasets representing eukaryotes, Gram-positive and Gram-negative bacteria. These datasets are used to evaluate thirteen prediction tools that are publicly available. SignalP (both the HMM and ANN versions) maintains consistency and achieves the best overall accuracy in all three benchmarking experiments, ranging from 0.872 to 0.914 although other prediction tools are narrowing the performance gap.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results : The available signal peptide data has been manually curated and organized into three datasets representing eukaryotes , Gram-positive and Gram-negative bacteria .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These datasets are used to evaluate thirteen prediction tools that are publicly available .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "SignalP ( both the HMM and ANN versions ) maintains consistency and achieves the best overall accuracy in all three benchmarking experiments ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "ranging from 0.872 to 0.914 although other prediction tools are narrowing the performance gap .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The majority of the tools evaluated in this study encounter no difficulty in discriminating between secretory and non-secretory proteins. The challenge clearly remains with pinpointing the correct SP cleavage site. The composite scoring schemes employed by SignalP may help to explain its accuracy. Prediction task is divided into a number of separate steps, thus allowing each score to tackle a particular aspect of the prediction.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The majority of the tools evaluated in this study encounter no difficulty in discriminating between secretory and non-secretory proteins .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The challenge clearly remains with pinpointing the correct SP cleavage site .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The composite scoring schemes employed by SignalP may help to explain its accuracy .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Prediction task is divided into a number of separate steps ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "thus allowing each score to tackle a particular aspect of the prediction .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "11",
+    "segment_num": "15",
+    "token_num": "253"
+  }
+}

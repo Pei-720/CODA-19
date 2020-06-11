@@ -1,0 +1,83 @@
+{
+  "paper_id": "32a5557fdc76f6adff6caf21468421a2269fb3da",
+  "metadata": {
+    "title": "The similarity analysis of financial stocks based on information clustering",
+    "coda_data_split": "train",
+    "coda_paper_id": 7732,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Similarity in time series is an important feature of dynamical systems such as financial systems, with potential use for clustering of series in system. Here, we mainly introduce a novel method: the reconstructed phase space information clustering method to analyze the financial markets. The method is used to examine the similarity of different sequences by calculating the distances between them, which the main difference from previous method is the way to map the original time series to symbolic sequences. Here we make use of the state space reconstruction to construct the symbolic sequences and quantify the similarity of different stock markets and exchange rate markets considering the chaotic behavior between the complex time series. And we compare the results of similarity of artificial and real data using the modified method, information categorization method and system clustering method. We conclude that the reconstructed phase space information clustering method is effective to research the close relationship in time series and for short time series especially. Besides, we report the results of similarity of different exchange rate time series in different periods and find the effect of the exchange rate regime in 2008 on the time series. Also we acquire some characteristics of exchange rate time",
+      "sentences": [
+        [
+          {
+            "segment_text": "Similarity in time series is an important feature of dynamical systems such as financial systems ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with potential use for clustering of series in system .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we mainly introduce a novel method : the reconstructed phase space information clustering method to analyze the financial markets .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The method is used to examine the similarity of different sequences by calculating the distances between them ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which the main difference from previous method is the way to map the original time series to symbolic sequences .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we make use of the state space reconstruction to construct the symbolic sequences and quantify the similarity of different stock markets and exchange rate markets considering the chaotic behavior between the complex time series .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "And we compare the results of similarity of artificial and real data using the modified method ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "information categorization method and system clustering method .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We conclude that the reconstructed phase space information clustering method is effective to research the close relationship in time series and for short time series especially .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Besides , we report the results of similarity of different exchange rate time series in different periods and find the effect of the exchange rate regime in 2008 on the time series .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Also we acquire some characteristics of exchange rate time",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "11",
+    "token_num": "216"
+  }
+}

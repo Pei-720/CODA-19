@@ -1,0 +1,233 @@
+{
+  "paper_id": "14df48701b672ec768ed4fe436e82b69370520a2",
+  "metadata": {
+    "title": "Distributed under Creative Commons CC-BY 4.0 OPEN ACCESS FGL2 is positively correlated with enhanced antitumor responses mediated by T cells in lung adenocarcinoma",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1661,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Lung cancer is the most common malignant tumor, accounting for 25% of cancerrelated deaths and 14% of new cancers worldwide. Lung adenocarcinoma is the most common type of pulmonary cancer. Although there have been some improvements in the traditional therapy of lung cancer, the outcome and prognosis of patients remain poor. Lung cancer is the leading cause of cancer-related deaths worldwide, with 1.8 million new cases being diagnosed each year. Precision medicine based on genetic alterations is considered a new strategy of lung cancer treatment that requires highly specific biomarkers for precision diagnosis and treatment. Fibrinogen-like protein 2 (FGL2) plays important roles in both innate and adaptive immunity. However, the diagnostic value of FGL2 in lung cancer is largely unknown. In this study, we systematically investigated the expression profile and potential functions of FGL2 in lung adenocarcinoma. We used the TCGA and Oncomine datasets to compare the FGL2 expression levels between lung adenocarcinoma and adjacent normal tissues. We utilized the GEPIA, PrognoScan and Kaplan-Meier plotter databases to analyze the relationship between FGL2 expression and the survival of lung adenocarcinoma patients. Then, we investigated the potential roles of FGL2 in lung adenocarcinoma with the TIMER database and functional enrichment analyses. We found that FGL2 expression was significantly lower in lung adenocarcinoma tissue compared with adjacent normal tissue. A high expression level of FGL2 was correlated with better prognostic outcomes of lung adenocarcinoma patients, including overall survival and progression-free survival. FGL2 was positively correlated with the infiltration of immune cells, including dendritic cells, CD8 + T cells, macrophages, B cells, and CD4 + T cells, in lung adenocarcinoma. Functional enrichment analyses also showed that a high expression level of FGL2 was positively correlated with enhanced T cell activities, especially CD8 + T cell activation. Thus, we propose that high FGL2 expression, which is positively associated with enhanced antitumor activities mediated by T cells, is a beneficial marker for lung adenocarcinoma treatment outcomes. . 2020. FGL2 is positively correlated with enhanced antitumor responses mediated by T cells in lung adenocarcinoma. PeerJ 8:e8654 http://doi.D. 2003. p53 mutations and survival in stage I non-small-cell lung cancer: results of a prospective study. BE, Golub TR, Sugarbaker DJ, Meyerson M. 2001. Classification of human lung carcinomas by mRNA expression profiling reveals distinct adenocarcinoma subclasses. Said JW, McBride WH, Kabbinavar FF, Ribas A, Pantuck AJ, Belldegrun AS, Riss J. 2013. Dendritic cell-based immunotherapy in prevention and treatment of renal cell carcinoma: efficacy, safety, and activity of Ad-GM·CAIX in immunocompetent mouse models. Journal",
+      "sentences": [
+        [
+          {
+            "segment_text": "Lung cancer is the most common malignant tumor ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "accounting for 25 % of cancerrelated deaths and 14 % of new cancers worldwide .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Lung adenocarcinoma is the most common type of pulmonary cancer .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although there have been some improvements in the traditional therapy of lung cancer ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the outcome and prognosis of patients remain poor .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Lung cancer is the leading cause of cancer-related deaths worldwide ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with 1.8 million new cases being diagnosed each year .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Precision medicine based on genetic alterations is considered a new strategy of lung cancer treatment that requires highly specific biomarkers for precision diagnosis and treatment .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Fibrinogen-like protein 2 ( FGL2 ) plays important roles in both innate and adaptive immunity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the diagnostic value of FGL2 in lung cancer is largely unknown .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we systematically investigated the expression profile and potential functions of FGL2 in lung adenocarcinoma .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We used the TCGA and Oncomine datasets to compare the FGL2 expression levels between lung adenocarcinoma and adjacent normal tissues .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We utilized the GEPIA , PrognoScan and Kaplan-Meier plotter databases to analyze the relationship between FGL2 expression and the survival of lung adenocarcinoma patients .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Then , we investigated the potential roles of FGL2 in lung adenocarcinoma with the TIMER database and functional enrichment analyses .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We found that FGL2 expression was significantly lower in lung adenocarcinoma tissue compared with adjacent normal tissue .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A high expression level of FGL2 was correlated with better prognostic outcomes of lung adenocarcinoma patients ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including overall survival and progression-free survival .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "FGL2 was positively correlated with the infiltration of immune cells ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including dendritic cells , CD8 + T cells ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "macrophages , B cells , and CD4 + T cells , in lung adenocarcinoma .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Functional enrichment analyses also showed that a high expression level of FGL2 was positively correlated with enhanced T cell activities ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "especially CD8 + T cell activation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , we propose that high FGL2 expression ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which is positively associated with enhanced antitumor activities mediated by T cells ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "is a beneficial marker for lung adenocarcinoma treatment outcomes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": ".",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "2020 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "FGL2 is positively correlated with enhanced antitumor responses mediated by T cells in lung adenocarcinoma .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "PeerJ 8 : e8654 http://doi.D .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "2003 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "p53 mutations and survival in stage I non-small-cell lung cancer : results of a prospective study .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "BE , Golub TR , Sugarbaker DJ , Meyerson M. 2001 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Classification of human lung carcinomas by mRNA expression profiling reveals distinct adenocarcinoma subclasses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Said JW , McBride WH ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "Kabbinavar FF , Ribas A ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "Pantuck AJ , Belldegrun AS , Riss J. 2013 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Dendritic cell-based immunotherapy in prevention and treatment of renal cell carcinoma : efficacy ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "safety , and activity of Ad-GM · CAIX in immunocompetent mouse models .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Journal",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "27",
+    "segment_num": "39",
+    "token_num": "478"
+  }
+}

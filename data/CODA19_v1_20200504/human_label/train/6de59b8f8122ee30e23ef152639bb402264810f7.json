@@ -1,0 +1,110 @@
+{
+  "paper_id": "6de59b8f8122ee30e23ef152639bb402264810f7",
+  "metadata": {
+    "title": "The inhaled corticosteroid ciclesonide blocks coronavirus RNA replication by targeting viral NSP15",
+    "coda_data_split": "train",
+    "coda_paper_id": 9619,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Steroid compounds, which are expected to have dual functions in blocking host inflammation and MERS-CoV replication, were screened from a chemical library. Within this library, ciclesonide, an inhaled corticosteroid, suppressed human coronavirus replication in cultured cells, but did not suppress replication of respiratory syncytial virus or influenza virus.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Steroid compounds , which are expected to have dual functions in blocking host inflammation and MERS-CoV replication ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "were screened from a chemical library .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Within this library , ciclesonide ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "an inhaled corticosteroid , suppressed human coronavirus replication in cultured cells ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but did not suppress replication of respiratory syncytial virus or influenza virus .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The effective concentration of ciclesonide to block SARS-CoV-2 (the cause of replication (EC 90 ) was 6.3 μ M. After the eleventh consecutive MERS-CoV passage in the presence of ciclesonide, a resistant mutation was generated, which resulted in an amino acid substitution (A25V) in nonstructural protein (NSP) 15, as identified using reverse genetics. A recombinant virus with the mutation was also resistant to ciclesonide suppression of viral replication. These observations suggest that the effect of ciclesonide was specific to coronavirus, suggesting this is a candidate drug for treatment of patients suffering MERS or COVID-19. author/funder. All rights reserved. No reuse allowed without permission.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The effective concentration of ciclesonide to block SARS-CoV-2 ( the cause of replication ( EC 90 ) was 6.3 μ M .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "After the eleventh consecutive MERS-CoV passage in the presence of ciclesonide ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a resistant mutation was generated ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which resulted in an amino acid substitution ( A25V ) in nonstructural protein ( NSP ) 15 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as identified using reverse genetics .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A recombinant virus with the mutation was also resistant to ciclesonide suppression of viral replication .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These observations suggest that the effect of ciclesonide was specific to coronavirus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "suggesting this is a candidate drug for treatment of patients suffering MERS or COVID-19 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "author/funder .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "All rights reserved .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "No reuse allowed without permission .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "9",
+    "segment_num": "16",
+    "token_num": "176"
+  }
+}

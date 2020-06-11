@@ -1,0 +1,107 @@
+{
+  "paper_id": "6598644894c24fccef62e4df45e859f023bea4c6",
+  "metadata": {
+    "title": "Risk factors for the evolutionary emergence of pathogens",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1125,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Recent outbreaks of novel infectious diseases (e.g. SARS, influenza H1N1) have highlighted the threat of cross-species pathogen transmission. When first introduced to a population, a pathogen is often poorly adapted to its new host and must evolve in order to escape extinction. Theoretical arguments and empirical studies have suggested various factors to explain why some pathogens emerge and others do not, including host contact structure, pathogen adaptive pathways and mutation rates. Using a multi-type branching process, we model the spread of an introduced pathogen evolving through several strains. Extending previous models, we use a network-based approach to separate host contact patterns from pathogen transmissibility. We also allow for arbitrary adaptive pathways. These generalizations lead to novel predictions regarding the impact of hypothesized risk factors. Pathogen fitness depends on the host population in which it circulates, and the \u0027riskiest\u0027 contact distribution and adaptive pathway depend on initial transmissibility. Emergence probability is sensitive to mutation probabilities and number of adaptive steps required, with the possibility of large adaptive steps (e.g. simultaneous point mutations or recombination) having a dramatic effect. In most situations, increasing overall mutation probability increases the risk of emergence; however, notable exceptions arise when deleterious mutations are available.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Recent outbreaks of novel infectious diseases ( e.g. SARS , influenza H1N1 ) have highlighted the threat of cross-species pathogen transmission .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "When first introduced to a population ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a pathogen is often poorly adapted to its new host and must evolve in order to escape extinction .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Theoretical arguments and empirical studies have suggested various factors to explain why some pathogens emerge and others do not ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including host contact structure , pathogen adaptive pathways and mutation rates .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using a multi-type branching process ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we model the spread of an introduced pathogen evolving through several strains .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Extending previous models , we use a network-based approach to separate host contact patterns from pathogen transmissibility .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also allow for arbitrary adaptive pathways .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "These generalizations lead to novel predictions regarding the impact of hypothesized risk factors .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Pathogen fitness depends on the host population in which it circulates ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the ` riskiest \u0027 contact distribution and adaptive pathway depend on initial transmissibility .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Emergence probability is sensitive to mutation probabilities and number of adaptive steps required ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with the possibility of large adaptive steps ( e.g. simultaneous point mutations or recombination ) having a dramatic effect .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In most situations , increasing overall mutation probability increases the risk of emergence ; however ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "notable exceptions arise when deleterious mutations are available .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "10",
+    "segment_num": "16",
+    "token_num": "225"
+  }
+}

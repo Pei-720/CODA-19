@@ -1,0 +1,194 @@
+{
+  "paper_id": "780226950b15c78ff3c51f89d2a057558ef79482",
+  "metadata": {
+    "title": "Immunopathology and Infectious Disease Targeting Inflammatory Demyelinating Lesions to Sites of Wallerian Degeneration",
+    "coda_data_split": "train",
+    "coda_paper_id": 8425,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "infection , an animal model for multiple sclerosis (MS) , axonal injury precedes inflammatory demyelinating lesions , and the distribution of axonal damage present during the early phase of infection corresponds to regions where subsequent demyelination occurs during the chronic phase. We hypothesized that axonal damage recruits inflammatory cells to sites of Wallerian degeneration , leading to demyelination. Three weeks after TMEV infection , axonal degeneration was induced in the posterior funiculus of mice by injecting the toxic lectin Ricinus communis agglutinin (RCA) I into the sciatic nerve. Neuropathology was examined 1 week after lectin injection. Control mice , infected with TMEV but receiving no RCA I , had inflammatory demyelinating lesions in the anterior/lateral funiculi. Other control mice that received RCA I alone did not develop inflammatory lesions. In contrast, RCA I injection into TMEV-infected mice induced lesions in the posterior funiculus in addition to the anterior/lateral funiculi. We found no differences in lymphoproliferative responses or antibody titers against TMEV among the groups. This suggests that axonal degeneration contributes to the recruitment of inflammatory cells into the central nervous system by altering the local microenvironment. In this scenario, lesions develop from the axon (inside) to the myelin (outside) (Inside-Out model).",
+      "sentences": [
+        [
+          {
+            "segment_text": "infection , an animal model for multiple sclerosis ( MS ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "axonal injury precedes inflammatory demyelinating lesions ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and the distribution of axonal damage present during the early phase of infection corresponds to regions where subsequent demyelination occurs during the chronic phase .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We hypothesized that axonal damage recruits inflammatory cells to sites of Wallerian degeneration , leading to demyelination .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Three weeks after TMEV infection ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "axonal degeneration was induced in the posterior funiculus of mice by injecting the toxic lectin Ricinus communis agglutinin ( RCA ) I into the sciatic nerve .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Neuropathology was examined 1 week after lectin injection .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Control mice , infected with TMEV but receiving no RCA I ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "had inflammatory demyelinating lesions in the anterior/lateral funiculi .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Other control mice that received RCA I alone did not develop inflammatory lesions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In contrast , RCA I injection into TMEV-infected mice induced lesions in the posterior funiculus in addition to the anterior/lateral funiculi .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We found no differences in lymphoproliferative responses or antibody titers against TMEV among the groups .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This suggests that axonal degeneration contributes to the recruitment of inflammatory cells into the central nervous system by altering the local microenvironment .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this scenario , lesions develop from the axon ( inside ) to the myelin ( outside ) ( Inside-Out model ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Multiple sclerosis (MS) is an inflammatory demyelinating disease of the central nervous system (CNS). 1 Although its etiology is unknown, epidemiological data and clinical reports support the association of MS with environmental factors, particularly viral infection. In recent years, pathological and neuroimaging studies have re-emphasized the importance of axonal damage in MS. 2 Immunostaining studies have provided direct evidence for axonal damage using antibodies against two markers of injured axons: nonphosphorylated neurofilament protein (NFP) 3 and amyloid precursor protein. 4 Several groups have demonstrated that axonal damage occurred early during the course of MS and that damaged axons were found not only in active demyelinating lesions but also in periplaque white matter without demyelination, 5 remyelinating lesions and normal-appearing white matter. 6,7 Magnetic resonance spectroscopy analyses have also demonstrated gray matter lesions 8 and axonal injury in normal-appearing white matter in MS patients. 7, 9, 10 Axonal damage in normal-appearing white matter has also been found in an animal model for MS, coronavirus-induced demyelination. 11 Although axonal damage in MS is believed to occur secondarily after the destruction of the myelin sheath or oligodendrocytes, the myelin-forming cells, these findings suggest that axonal damage could be independent of demyelinating activity. 12 Wallerian degeneration is the anterograde degeneration of axons caused by injury to the proximal part of the axon or by death of the neuronal cell body. 13 In most cases, the demonstration of Wallerian degeneration in humans has been limited to compact neuronal tracts, such as the corticospinal tract and optic radiation. In MS, Wallerian degeneration was believed to be rare; this was probably attributable to a difficulty in detection because MS lesions are usually not confined to a single pathway or tract. However, more recently, magnetic resonance imaging, 14 -17 magnetic resonance spectroscopy, 18 and autopsy 19 studies have documented the presence of Wallerian degeneration in some patients with MS.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Multiple sclerosis ( MS ) is an inflammatory demyelinating disease of the central nervous system ( CNS ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "1 Although its etiology is unknown ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "epidemiological data and clinical reports support the association of MS with environmental factors , particularly viral infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In recent years , pathological and neuroimaging studies have re-emphasized the importance of axonal damage in MS. 2 Immunostaining studies have provided direct evidence for axonal damage using antibodies against two markers of injured axons : nonphosphorylated neurofilament protein ( NFP ) 3 and amyloid precursor protein .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "4 Several groups have demonstrated that axonal damage occurred early during the course of MS and that damaged axons were found not only in active demyelinating lesions but also in periplaque white matter without demyelination ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "5 remyelinating lesions and normal-appearing white matter .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "6,7 Magnetic resonance spectroscopy analyses have also demonstrated gray matter lesions 8 and axonal injury in normal-appearing white matter in MS patients .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "7 , 9 , 10 Axonal damage in normal-appearing white matter has also been found in an animal model for MS , coronavirus-induced demyelination .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "11 Although axonal damage in MS is believed to occur secondarily after the destruction of the myelin sheath or oligodendrocytes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the myelin-forming cells , these findings suggest that axonal damage could be independent of demyelinating activity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "12 Wallerian degeneration is the anterograde degeneration of axons caused by injury to the proximal part of the axon or by death of the neuronal cell body .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "13 In most cases , the demonstration of Wallerian degeneration in humans has been limited to compact neuronal tracts ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "such as the corticospinal tract and optic radiation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In MS , Wallerian degeneration was believed to be rare ; this was probably attributable to a difficulty in detection because MS lesions are usually not confined to a single pathway or tract .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , more recently , magnetic resonance imaging ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "14 -17 magnetic resonance spectroscopy ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "18 and autopsy 19 studies have documented the presence of Wallerian degeneration in some patients with MS.",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "21",
+    "segment_num": "31",
+    "token_num": "568"
+  }
+}

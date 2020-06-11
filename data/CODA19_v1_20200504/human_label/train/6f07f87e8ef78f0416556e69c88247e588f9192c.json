@@ -1,0 +1,120 @@
+{
+  "paper_id": "6f07f87e8ef78f0416556e69c88247e588f9192c",
+  "metadata": {
+    "title": "A Three-Stemmed mRNA Pseudoknot in the SARS Coronavirus Frameshift Signal",
+    "coda_data_split": "train",
+    "coda_paper_id": 10375,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "A wide range of RNA viruses use programmed À1 ribosomal frameshifting for the production of viral fusion proteins. Inspection of the overlap regions between ORF1a and ORF1b of the SARS-CoV genome revealed that, similar to all coronaviruses, a programmed À1 ribosomal frameshift could be used by the virus to produce a fusion protein.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A wide range of RNA viruses use programmed À1 ribosomal frameshifting for the production of viral fusion proteins .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Inspection of the overlap regions between ORF1a and ORF1b of the SARS-CoV genome revealed that ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "similar to all coronaviruses , a programmed À1 ribosomal frameshift could be used by the virus to produce a fusion protein .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Computational analyses of the frameshift signal predicted the presence of an mRNA pseudoknot containing three double-stranded RNA stem structures rather than two. Phylogenetic analyses showed the conservation of potential three-stemmed pseudoknots in the frameshift signals of all other coronaviruses in the GenBank database. Though the presence of the three-stemmed structure is supported by nuclease mapping and two-dimensional nuclear magnetic resonance studies, our findings suggest that interactions between the stem structures may result in local distortions in the A-form RNA. These distortions are particularly evident in the vicinity of predicted A-bulges in stems 2 and 3. In vitro and in vivo frameshifting assays showed that the SARS-CoV frameshift signal is functionally similar to other viral frameshift signals: it promotes efficient frameshifting in all of the standard assay systems, and it is sensitive to a drug and a genetic mutation that are known to affect frameshifting efficiency of a yeast virus. Mutagenesis studies reveal that both the specific sequences and structures of stems 2 and 3 are important for efficient frameshifting. We have identified a new RNA structural motif that is capable of promoting efficient programmed ribosomal frameshifting. The high degree of conservation of three-stemmed mRNA pseudoknot structures among the coronaviruses suggests that this presents a novel target for antiviral therapeutics. Citation: Plant EP, Pérez-Alvarado GC, Jacobs JL, Mukhopadhyay B, Hennig M, et al. (2005) A three-stemmed mRNA pseudoknot in the SARS coronavirus frameshift signal. PLoS Biol 3(6): e172.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Computational analyses of the frameshift signal predicted the presence of an mRNA pseudoknot containing three double-stranded RNA stem structures rather than two .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Phylogenetic analyses showed the conservation of potential three-stemmed pseudoknots in the frameshift signals of all other coronaviruses in the GenBank database .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Though the presence of the three-stemmed structure is supported by nuclease mapping and two-dimensional nuclear magnetic resonance studies ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "our findings suggest that interactions between the stem structures may result in local distortions in the A-form RNA .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These distortions are particularly evident in the vicinity of predicted A-bulges in stems 2 and 3 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In vitro and in vivo frameshifting assays showed that the SARS-CoV frameshift signal is functionally similar to other viral frameshift signals : it promotes efficient frameshifting in all of the standard assay systems ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and it is sensitive to a drug and a genetic mutation that are known to affect frameshifting efficiency of a yeast virus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Mutagenesis studies reveal that both the specific sequences and structures of stems 2 and 3 are important for efficient frameshifting .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We have identified a new RNA structural motif that is capable of promoting efficient programmed ribosomal frameshifting .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The high degree of conservation of three-stemmed mRNA pseudoknot structures among the coronaviruses suggests that this presents a novel target for antiviral therapeutics .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Citation : Plant EP , Pérez-Alvarado GC ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "Jacobs JL , Mukhopadhyay B ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "Hennig M , et al. ( 2005 ) A three-stemmed mRNA pseudoknot in the SARS coronavirus frameshift signal .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "PLoS Biol 3 ( 6 ) : e172 .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "12",
+    "segment_num": "17",
+    "token_num": "319"
+  }
+}

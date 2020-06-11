@@ -1,0 +1,77 @@
+{
+  "paper_id": "43b31f8b7b5a755f529b7863f7c300b1c91b500b",
+  "metadata": {
+    "title": "Identification of novel drug scaffolds for inhibition of SARS-CoV 3-Chymotrypsin-like protease using virtual and high-throughput screenings",
+    "coda_data_split": "train",
+    "coda_paper_id": 7554,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "We have used a combination of virtual screening (VS) and high-throughput screening (HTS) techniques to identify novel, non-peptidic small molecule inhibitors against human SARS-CoV 3CLpro. A structurebased VS approach integrating docking and pharmacophore based methods was employed to computationally screen 621,000 compounds from the ZINC library. The screening protocol was validated using known 3CLpro inhibitors and was optimized for speed, improved selectivity, and for accommodating receptor flexibility. Subsequently, a fluorescence-based enzymatic HTS assay was developed and optimized to experimentally screen approximately 41,000 compounds from four structurally diverse libraries chosen mainly based on the VS results. False positives from initial HTS hits were eliminated by a secondary orthogonal binding analysis using surface plasmon resonance (SPR). The campaign identified a reversible small molecule inhibitor exhibiting mixed-type inhibition with a K i value of 11.1 lM. Together, these results validate our protocols as suitable approaches to screen virtual and chemical libraries, and the newly identified compound reported in our study represents a promising structural scaffold to pursue for further SARS-CoV 3CLpro inhibitor development.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We have used a combination of virtual screening ( VS ) and high-throughput screening ( HTS ) techniques to identify novel ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "non-peptidic small molecule inhibitors against human SARS-CoV 3CLpro .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A structurebased VS approach integrating docking and pharmacophore based methods was employed to computationally screen 621,000 compounds from the ZINC library .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The screening protocol was validated using known 3CLpro inhibitors and was optimized for speed ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "improved selectivity , and for accommodating receptor flexibility .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Subsequently , a fluorescence-based enzymatic HTS assay was developed and optimized to experimentally screen approximately 41,000 compounds from four structurally diverse libraries chosen mainly based on the VS results .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "False positives from initial HTS hits were eliminated by a secondary orthogonal binding analysis using surface plasmon resonance ( SPR ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The campaign identified a reversible small molecule inhibitor exhibiting mixed-type inhibition with a K i value of 11.1 lM .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Together , these results validate our protocols as suitable approaches to screen virtual and chemical libraries ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the newly identified compound reported in our study represents a promising structural scaffold to pursue for further SARS-CoV 3CLpro inhibitor development .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "10",
+    "token_num": "189"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "paper_id": "f1ce5a3f2541bb557c6f0dbae6261248dd8a286c",
+  "metadata": {
+    "title": "Topoisomerase III-ß is required for efficient replication of positive-sense RNA viruses",
+    "coda_data_split": "train",
+    "coda_paper_id": 4328,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Based on genome-scale loss-of-function screens we discovered that Topoisomerase III-ß (TOP3B), a human topoisomerase that acts on DNA and RNA, is required for yellow fever virus and dengue virus-2 replication. Remarkably, we found that TOP3B is required for efficient replication of all positive-sense-single stranded RNA viruses tested, including SARS-CoV-2.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Based on genome-scale loss-of-function screens we discovered that Topoisomerase III-ß ( TOP3B ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a human topoisomerase that acts on DNA and RNA ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "is required for yellow fever virus and dengue virus-2 replication .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Remarkably , we found that TOP3B is required for efficient replication of all positive-sense-single stranded RNA viruses tested , including SARS-CoV-2 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "While there are no drugs that specifically inhibit this topoisomerase, we posit that TOP3B is an attractive anti-viral target.",
+      "sentences": [
+        [
+          {
+            "segment_text": "While there are no drugs that specifically inhibit this topoisomerase ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we posit that TOP3B is an attractive anti-viral target .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "3",
+    "segment_num": "6",
+    "token_num": "78"
+  }
+}

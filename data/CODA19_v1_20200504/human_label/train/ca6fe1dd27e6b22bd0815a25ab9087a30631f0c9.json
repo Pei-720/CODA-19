@@ -1,0 +1,135 @@
+{
+  "paper_id": "ca6fe1dd27e6b22bd0815a25ab9087a30631f0c9",
+  "metadata": {
+    "title": "RNA genome conservation and secondary structure in SARS-CoV-2 and SARS-related viruses",
+    "coda_data_split": "train",
+    "coda_paper_id": 7676,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "As the COVID-19 outbreak spreads, there is a growing need for a compilation of conserved RNA genome regions in the SARS-CoV-2 virus along with their structural propensities to guide development of antivirals and diagnostics. Using sequence alignments spanning a range of betacoronaviruses, we rank genomic regions by RNA sequence conservation, identifying 79 regions of length at least 15 nucleotides as exactly conserved over SARS-related complete genome sequences available near the beginning of the COVID-19 outbreak. We then confirm the conservation of the majority of these genome regions across 739 SARS-CoV-2 sequences reported to date from the current COVID-19 outbreak, and we present a curated list of 30 \u0027SARS-relatedconserved\u0027 regions. We find that known RNA structured elements curated as Rfam families and in prior literature are enriched in these conserved genome regions, and we predict additional conserved, stable secondary structures across the viral genome. We provide 106 \u0027SARS-CoV-2conserved-structured\u0027 regions as potential targets for antivirals that bind to structured RNA. We further provide detailed secondary structure models for the 5´ UTR, frame-shifting element, and 3´ UTR. Last, we predict regions of the SARS-CoV-2 viral genome have low propensity for RNA secondary structure and are conserved within SARS-CoV-2 strains. These 59 \u0027SARS-CoV-2conserved-unstructured\u0027 genomic regions may be most easily targeted in primer-based diagnostic and oligonucleotide-based therapeutic strategies.",
+      "sentences": [
+        [
+          {
+            "segment_text": "As the COVID-19 outbreak spreads ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "there is a growing need for a compilation of conserved RNA genome regions in the SARS-CoV-2 virus along with their structural propensities to guide development of antivirals and diagnostics .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using sequence alignments spanning a range of betacoronaviruses ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we rank genomic regions by RNA sequence conservation ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "identifying 79 regions of length at least 15 nucleotides as exactly conserved over SARS-related complete genome sequences available near the beginning of the COVID-19 outbreak .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We then confirm the conservation of the majority of these genome regions across 739 SARS-CoV-2 sequences reported to date from the current COVID-19 outbreak ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and we present a curated list of 30 ` SARS-relatedconserved \u0027 regions .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We find that known RNA structured elements curated as Rfam families and in prior literature are enriched in these conserved genome regions ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and we predict additional conserved ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "stable secondary structures across the viral genome .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We provide 106 ` SARS-CoV-2conserved-structured \u0027 regions as potential targets for antivirals that bind to structured RNA .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We further provide detailed secondary structure models for the 5 \u0027 UTR ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "frame-shifting element , and 3 \u0027 UTR .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Last , we predict regions of the SARS-CoV-2 viral genome have low propensity for RNA secondary structure and are conserved within SARS-CoV-2 strains .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These 59 ` SARS-CoV-2conserved-unstructured \u0027 genomic regions may be most easily targeted in primer-based diagnostic and oligonucleotide-based therapeutic strategies .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "To identify potential regions of conserved RNA secondary structure in the virus, we located stretches of the SARS-CoV-2 genome with high RNA sequence conservation across SARS-related betacoronavirus full genome sequences. By identifying regions with high RNA sequence conservation as a first step, we reasoned that we would be more likely to filter for functionally relevant structures that must be conserved through virus evolution and thereby discover targets that are potentially less likely to develop resistance against therapeutics or to escape diagnosis as the",
+      "sentences": [
+        [
+          {
+            "segment_text": "To identify potential regions of conserved RNA secondary structure in the virus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we located stretches of the SARS-CoV-2 genome with high RNA sequence conservation across SARS-related betacoronavirus full genome sequences .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "By identifying regions with high RNA sequence conservation as a first step ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we reasoned that we would be more likely to filter for functionally relevant structures that must be conserved through virus evolution and thereby discover targets that are potentially less likely to develop resistance against therapeutics or to escape diagnosis as the",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "11",
+    "segment_num": "20",
+    "token_num": "325"
+  }
+}

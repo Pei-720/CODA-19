@@ -1,0 +1,162 @@
+{
+  "paper_id": "4ed134293562340d043a5e0b6f5d822df7cf7079",
+  "metadata": {
+    "title": "Functional repertoire, molecular pathways and diseases associated with 3D domain swapping in the human proteome",
+    "coda_data_split": "train",
+    "coda_paper_id": 9657,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: 3D domain swapping is a novel structural phenomenon observed in diverse set of protein structures in oligomeric conformations. A distinct structural feature, where structural segments in a protein dimer or higher oligomer were shared between two or more chains of a protein structure, characterizes 3D domain swapping. 3D domain swapping was observed as a key mediator of numerous functional mechanisms and play pathogenic role in various diseases including conformational diseases like amyloidosis, Alzheimer\u0027s disease, Parkinson\u0027s disease and prion diseases. We report the first study with a focus on identifying functional classes, pathways and diseases mediated by 3D domain swapping in the human proteome.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : 3D domain swapping is a novel structural phenomenon observed in diverse set of protein structures in oligomeric conformations .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A distinct structural feature , where structural segments in a protein dimer or higher oligomer were shared between two or more chains of a protein structure , characterizes 3D domain swapping .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "3D domain swapping was observed as a key mediator of numerous functional mechanisms and play pathogenic role in various diseases including conformational diseases like amyloidosis ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Alzheimer \u0027s disease , Parkinson \u0027s disease and prion diseases .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We report the first study with a focus on identifying functional classes ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "pathways and diseases mediated by 3D domain swapping in the human proteome .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Methods: We used a panel of four enrichment tools with two different ontologies and two annotations database to derive biological and clinical relevant information associated with 3D domain swapping. Protein domain enrichment analysis followed by Gene Ontology (GO) term enrichment analysis revealed the functional repertoire of proteins involved in swapping. Pathway analysis using KEGG annotations revealed diverse pathway associations of human proteins involved in 3D domain swapping. Disease Ontology was used to find statistically significant associations with proteins in swapped conformation and various disease categories (P-value \u003c 0.05).",
+      "sentences": [
+        [
+          {
+            "segment_text": "Methods : We used a panel of four enrichment tools with two different ontologies and two annotations database to derive biological and clinical relevant information associated with 3D domain swapping .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Protein domain enrichment analysis followed by Gene Ontology ( GO ) term enrichment analysis revealed the functional repertoire of proteins involved in swapping .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Pathway analysis using KEGG annotations revealed diverse pathway associations of human proteins involved in 3D domain swapping .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Disease Ontology was used to find statistically significant associations with proteins in swapped conformation and various disease categories ( P-value \u003c 0.05 ) .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results: We report meta-analysis results of a literature-curated dataset of human gene products involved in 3D domain swapping and discuss new insights about the functional repertoire, pathway associations and disease implications of proteins involved in 3D domain swapping. Conclusions: Our integrated bioinformatics pipeline comprising of four different enrichment tools, two ontologies and two annotations revealed new insights into the functional and disease correlations with 3D domain swapping. GO term enrichment were used to infer terms associated with three different GO categories. Protein domain enrichment was used to identify conserved domains enriched in swapped proteins. Pathway enrichment analysis using KEGG annotations revealed that proteins with swapped conformations are present in all six classes of KEGG BRITE hierarchy and significantly enriched KEGG pathways were observed in five classes. Five major classes of disease were found to be associated with 3D domain swapping using functional disease ontology based enrichment analysis. Five classes of human diseases: cancer, diseases of the respiratory or pulmonary system, degenerative diseases of the central nervous system, vascular disease and encephalitis were found to be significant.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results : We report meta-analysis results of a literature-curated dataset of human gene products involved in 3D domain swapping and discuss new insights about the functional repertoire ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "pathway associations and disease implications of proteins involved in 3D domain swapping .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Conclusions : Our integrated bioinformatics pipeline comprising of four different enrichment tools ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "two ontologies and two annotations revealed new insights into the functional and disease correlations with 3D domain swapping .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "GO term enrichment were used to infer terms associated with three different GO categories .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Protein domain enrichment was used to identify conserved domains enriched in swapped proteins .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Pathway enrichment analysis using KEGG annotations revealed that proteins with swapped conformations are present in all six classes of KEGG BRITE hierarchy and significantly enriched KEGG pathways were observed in five classes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Five major classes of disease were found to be associated with 3D domain swapping using functional disease ontology based enrichment analysis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Five classes of human diseases : cancer ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "diseases of the respiratory or pulmonary system ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "degenerative diseases of the central nervous system ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "vascular disease and encephalitis were found to be significant .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In conclusion, our study shows that bioinformatics based analytical approaches using curated data can enhance the understanding of functional and disease implications of 3D domain swapping.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In conclusion , our study shows that bioinformatics based analytical approaches using curated data can enhance the understanding of functional and disease implications of 3D domain swapping .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "16",
+    "segment_num": "23",
+    "token_num": "432"
+  }
+}

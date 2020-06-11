@@ -1,0 +1,83 @@
+{
+  "paper_id": "a22060c187132a4900e3f00b06315aa6be5a1d77",
+  "metadata": {
+    "title": "Conformational plasticity of the VEEV macro domain is important for binding of ADP-ribose",
+    "coda_data_split": "train",
+    "coda_paper_id": 6657,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Venezuelan equine encephalitis virus (VEEV) is a new world alphavirus which can be involved in several central nervous system disorders such as encephalitis and meningitis. The VEEV genome codes for 4 non-structural proteins (nsP), of which nsP3 contains a Macro domain. Macro domains (MD) can be found as stand-alone proteins or embedded within larger proteins in viruses, bacteria and eukaryotes. Their most common feature is the binding of ADP-ribose (ADPr), while several macro domains act as ribosylation writers, erasers or readers. Alphavirus MD erase ribosylation but their precise contribution in viral replication is still under investigation. NMR-driven titration experiments of ADPr in solution with the VEEV macro domain (in apo-and complex state) show that it adopts a suitable conformation for ADPr binding. Specific experiments indicate that the flexibility of the loops β5-α3 and α3-β6 is critical for formation of the complex and assists a wrapping mechanism for ADPr binding. Furthermore, along with this sequence of events, the VEEV MD undergoes a conformational exchange process between the apo state and a low-populated \"dark\" conformational state.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Venezuelan equine encephalitis virus ( VEEV ) is a new world alphavirus which can be involved in several central nervous system disorders such as encephalitis and meningitis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The VEEV genome codes for 4 non-structural proteins ( nsP ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "of which nsP3 contains a Macro domain .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Macro domains ( MD ) can be found as stand-alone proteins or embedded within larger proteins in viruses , bacteria and eukaryotes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Their most common feature is the binding of ADP-ribose ( ADPr ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "while several macro domains act as ribosylation writers , erasers or readers .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Alphavirus MD erase ribosylation but their precise contribution in viral replication is still under investigation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "NMR-driven titration experiments of ADPr in solution with the VEEV macro domain ( in apo-and complex state ) show that it adopts a suitable conformation for ADPr binding .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Specific experiments indicate that the flexibility of the loops β5-α3 and α3-β6 is critical for formation of the complex and assists a wrapping mechanism for ADPr binding .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , along with this sequence of events ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the VEEV MD undergoes a conformational exchange process between the apo state and a low-populated `` dark \u0027\u0027 conformational state .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "11",
+    "token_num": "200"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "paper_id": "39f8fc7fe362f52cdef1d3b637989901fa41f8fc",
+  "metadata": {
+    "title": "Engineering a stable CHO cell line for the expression of a MERS-coronavirus vaccine antigen",
+    "coda_data_split": "train",
+    "coda_paper_id": 5806,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Middle East respiratory syndrome coronavirus (MERS-CoV) has infected at least 2040 patients and caused 712 deaths since its first appearance in 2012, yet neither pathogen-specific therapeutics nor approved vaccines are available. To address this need, we are developing a subunit recombinant protein vaccine comprising residues 377-588 of the MERS-CoV spike protein receptor-binding domain (RBD), which, when formulated with the AddaVax adjuvant, it induces a significant neutralizing antibody response and protection against MERS-CoV challenge in vaccinated animals. To prepare for the manufacture and first-in-human testing of the vaccine, we have developed a process to stably produce the recombinant MERS S377-588 protein in Chinese hamster ovary (CHO) cells. To accomplish this, we transfected an adherent dihydrofolate reductase-deficient CHO cell line (adCHO) with a plasmid encoding S377-588 fused with the human IgG Fc fragment (S377-588-Fc). We then demonstrated the interleukin-2 signal peptide-directed secretion of the recombinant protein into extracellular milieu. Using a gradually increasing methotrexate (MTX) concentration to 5 lM, we increased protein yield by a factor of 40.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Middle East respiratory syndrome coronavirus ( MERS-CoV ) has infected at least 2040 patients and caused 712 deaths since its first appearance in 2012 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "yet neither pathogen-specific therapeutics nor approved vaccines are available .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To address this need , we are developing a subunit recombinant protein vaccine comprising residues 377-588 of the MERS-CoV spike protein receptor-binding domain ( RBD ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which , when formulated with the AddaVax adjuvant ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "it induces a significant neutralizing antibody response and protection against MERS-CoV challenge in vaccinated animals .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To prepare for the manufacture and first-in-human testing of the vaccine ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we have developed a process to stably produce the recombinant MERS S377-588 protein in Chinese hamster ovary ( CHO ) cells .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "To accomplish this , we transfected an adherent dihydrofolate reductase-deficient CHO cell line ( adCHO ) with a plasmid encoding S377-588 fused with the human IgG Fc fragment ( S377-588-Fc ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We then demonstrated the interleukin-2 signal peptide-directed secretion of the recombinant protein into extracellular milieu .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using a gradually increasing methotrexate ( MTX ) concentration to 5 lM ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we increased protein yield by a factor of 40 .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The adCHO-expressed S377-588-Fc recombinant protein demonstrated functionality and binding specificity identical to those of the protein from transiently transfected HEK293T cells. In addition, hCD26/ dipeptidyl peptidase-4 (DPP4) transgenic mice vaccinated with AddaVax-adjuvanted S377-588-Fc could produce neutralizing antibodies against MERS-CoV and survived for at least 21 days after challenge with live MERS-CoV with no evidence of immunological toxicity or eosinophilic immune enhancement. To prepare for large scale-manufacture of the vaccine antigen, we have further developed a high-yield monoclonal suspension CHO cell line.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The adCHO-expressed S377-588-Fc recombinant protein demonstrated functionality and binding specificity identical to those of the protein from transiently transfected HEK293T cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , hCD26 / dipeptidyl peptidase-4 ( DPP4 ) transgenic mice vaccinated with AddaVax-adjuvanted S377-588-Fc could produce neutralizing antibodies against MERS-CoV and survived for at least 21 days after challenge with live MERS-CoV with no evidence of immunological toxicity or eosinophilic immune enhancement .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "To prepare for large scale-manufacture of the vaccine antigen ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we have further developed a high-yield monoclonal suspension CHO cell line .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "9",
+    "segment_num": "15",
+    "token_num": "281"
+  }
+}

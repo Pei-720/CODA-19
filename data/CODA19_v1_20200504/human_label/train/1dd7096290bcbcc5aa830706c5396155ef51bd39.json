@@ -1,0 +1,235 @@
+{
+  "paper_id": "1dd7096290bcbcc5aa830706c5396155ef51bd39",
+  "metadata": {
+    "title": "Situations Leading to Reduced Effectiveness of Current Hand Hygiene against Infectious Mucus from Influenza Virus- Infected Patients",
+    "coda_data_split": "train",
+    "coda_paper_id": 6701,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Both antiseptic hand rubbing (AHR) using ethanol-based disinfectants (EBDs) and antiseptic hand washing (AHW) are important means of infection control to prevent seasonal influenza A virus (IAV) outbreaks. However, previous reports suggest a reduced efficacy of ethanol disinfection against pathogens in mucus. We aimed to elucidate the situations and mechanisms underlying the reduced efficacy of EBDs against IAV in infectious mucus. We evaluated IAV inactivation and ethanol concentration change using IAV-infected patients\u0027 mucus (sputum). Additionally, AHR and AHW effectiveness against infectious mucus adhering to the hands and fingers was evaluated in 10 volunteers. Our clinical study showed that EBD effectiveness against IAV in mucus was extremely reduced compared to IAV in saline. IAV in mucus remained active despite 120 s of AHR; however, IAV in saline was completely inactivated within 30 s. Due to the low rate of diffusion/convection because of the physical properties of mucus as a hydrogel, the time required for the ethanol concentration to reach an IAV inactivation level and thus for EBDs to completely inactivate IAV was approximately eight times longer in mucus than in saline. On the other hand, AHR inactivated IAV in mucus within 30 s when the mucus dried completely because the hydrogel characteristics were lost. Additionally, AHW rapidly inactivated IAV. Until infectious mucus has completely dried, infectious IAV can remain on the hands and fingers, even after appropriate AHR using EBD, thereby increasing the risk of IAV transmission. We clarified the ineffectiveness of EBD use against IAV in infectious mucus. IMPORTANCE Antiseptic hand rubbing (AHR) and antiseptic hand washing (AHW) are important to prevent the spread of influenza A virus (IAV). This study elucidated the situations/mechanisms underlying the reduced efficacy of AHR against infectious mucus derived from IAV-infected individuals and indicated the weaknesses of the current hand hygiene regimens. Due to the low rate of diffusion/convection because of the physical properties of mucus as a hydrogel, the efficacy of AHR using ethanolbased disinfectant against mucus is greatly reduced until infectious mucus adhering to the hands/fingers has completely dried. If there is insufficient time before treating the next patient (i.e., if the infectious mucus is not completely dry), medical staff should be aware that effectiveness of AHR is reduced. Since AHW is effective against both dry and nondry infectious mucus, AHW should be adopted to compensate for these weaknesses of AHR. FIG 1 Analysis of the physical properties of mucus from 19 influenza A virus-infected patients. (A) Rheological analysis: mean, maximum, and minimum viscosities of mucus (sputum) samples at different shear rates (left panel). Shown is a comparison of mucus and saline viscosities at different shear rates (right panel). (B) Average parameters measured for saline and mucus samples: contact angles, surface tension, and densities at different temperatures. (C) Time required for saline and mucus to completely dry (complete drying time). (D) Ethanol diffusion coefficients of saline and mucus exposed to an 80% ethanol concentration. Situations of Reduced Hand Hygiene Effectiveness September/October 2019 Volume 4 Issue 5 e00474-19 msphere.asm.org 3 FIG 6 Additional fluid simulation of changes in the ethanol concentrations in mucus. (A) Addition of 95 l of 80% ethanol to 5 l saline was modeled in OpenFOAM, demonstrating the disappearance over time of the region with Ͻ31% ethanol (shown in red). See also Movie S1. (B) Addition of 95 l of 80% ethanol to 5 l mucus was modeled. The simulation was performed under conditions of reduced viscosity (16.7% of the actual measurement value) because of the long time required for disappearance of the concentration region of Ͻ31%. See also Movie S2.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Both antiseptic hand rubbing ( AHR ) using ethanol-based disinfectants ( EBDs ) and antiseptic hand washing ( AHW ) are important means of infection control to prevent seasonal influenza A virus ( IAV ) outbreaks .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , previous reports suggest a reduced efficacy of ethanol disinfection against pathogens in mucus .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We aimed to elucidate the situations and mechanisms underlying the reduced efficacy of EBDs against IAV in infectious mucus .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We evaluated IAV inactivation and ethanol concentration change using IAV-infected patients \u0027 mucus ( sputum ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Additionally , AHR and AHW effectiveness against infectious mucus adhering to the hands and fingers was evaluated in 10 volunteers .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our clinical study showed that EBD effectiveness against IAV in mucus was extremely reduced compared to IAV in saline .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "IAV in mucus remained active despite 120 s of AHR ; however ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "IAV in saline was completely inactivated within 30 s. Due to the low rate of diffusion/convection because of the physical properties of mucus as a hydrogel ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the time required for the ethanol concentration to reach an IAV inactivation level and thus for EBDs to completely inactivate IAV was approximately eight times longer in mucus than in saline .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "On the other hand , AHR inactivated IAV in mucus within 30 s when the mucus dried completely because the hydrogel characteristics were lost .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Additionally , AHW rapidly inactivated IAV .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Until infectious mucus has completely dried ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "infectious IAV can remain on the hands and fingers ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "even after appropriate AHR using EBD ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "thereby increasing the risk of IAV transmission .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We clarified the ineffectiveness of EBD use against IAV in infectious mucus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "IMPORTANCE Antiseptic hand rubbing ( AHR ) and antiseptic hand washing ( AHW ) are important to prevent the spread of influenza A virus ( IAV ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study elucidated the situations/mechanisms underlying the reduced efficacy of AHR against infectious mucus derived from IAV-infected individuals and indicated the weaknesses of the current hand hygiene regimens .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Due to the low rate of diffusion/convection because of the physical properties of mucus as a hydrogel ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the efficacy of AHR using ethanolbased disinfectant against mucus is greatly reduced until infectious mucus adhering to the hands/fingers has completely dried .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "If there is insufficient time before treating the next patient ( i.e. , if the infectious mucus is not completely dry ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "medical staff should be aware that effectiveness of AHR is reduced .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Since AHW is effective against both dry and nondry infectious mucus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "AHW should be adopted to compensate for these weaknesses of AHR .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "FIG 1 Analysis of the physical properties of mucus from 19 influenza A virus-infected patients .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( A ) Rheological analysis : mean ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "maximum , and minimum viscosities of mucus ( sputum ) samples at different shear rates ( left panel ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Shown is a comparison of mucus and saline viscosities at different shear rates ( right panel ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( B ) Average parameters measured for saline and mucus samples : contact angles ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "surface tension , and densities at different temperatures .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( C ) Time required for saline and mucus to completely dry ( complete drying time ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( D ) Ethanol diffusion coefficients of saline and mucus exposed to an 80 % ethanol concentration .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Situations of Reduced Hand Hygiene Effectiveness September/October 2019 Volume 4 Issue 5 e00474-19 msphere.asm.org 3 FIG 6 Additional fluid simulation of changes in the ethanol concentrations in mucus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( A ) Addition of 95 l of 80 % ethanol to 5 l saline was modeled in OpenFOAM ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "demonstrating the disappearance over time of the region with Ͻ31 % ethanol ( shown in red ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "See also Movie S1 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "( B ) Addition of 95 l of 80 % ethanol to 5 l mucus was modeled .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The simulation was performed under conditions of reduced viscosity ( 16.7 % of the actual measurement value ) because of the long time required for disappearance of the concentration region of Ͻ31 % .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "See also Movie S2 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "28",
+    "segment_num": "39",
+    "token_num": "688"
+  }
+}

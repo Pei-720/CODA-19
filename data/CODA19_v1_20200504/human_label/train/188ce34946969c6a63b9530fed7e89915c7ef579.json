@@ -1,0 +1,286 @@
+{
+  "paper_id": "188ce34946969c6a63b9530fed7e89915c7ef579",
+  "metadata": {
+    "title": "CHLAMYDIA PERSISTENCE -A TOOL TO DISSECT CHLAMYDIA-HOST INTERACTIONS",
+    "coda_data_split": "train",
+    "coda_paper_id": 2982,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Under stress, chlamydiae can enter a non-infectious but viable state termed persistence. In the absence of a tractable genetic system, persistence induction provides an important experimental tool with which to study these fascinating organisms. This review will discuss examples of: i) persistence studies that have illuminated critical chlamydiae/host interactions; and ii) novel persistence models that will do so in the future. infection (hpi), depending upon the chlamydial species examined, RB mature into infectious EB and are released by either host cell lysis or extrusion of a portion of the inclusion [3] . Though chlamydiae can successfully infect many cell types in culture, many of the species that infect humans and non-human animals target mucosal epithelial cells in vivo.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Under stress , chlamydiae can enter a non-infectious but viable state termed persistence .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the absence of a tractable genetic system ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "persistence induction provides an important experimental tool with which to study these fascinating organisms .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This review will discuss examples of : i ) persistence studies that have illuminated critical chlamydiae/host interactions ; and ii ) novel persistence models that will do so in the future .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "infection ( hpi ) , depending upon the chlamydial species examined ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "RB mature into infectious EB and are released by either host cell lysis or extrusion of a portion of the inclusion ( 3 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Though chlamydiae can successfully infect many cell types in culture ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "many of the species that infect humans and non-human animals target mucosal epithelial cells in vivo .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Over the past 50 years, ever more sophisticated analyses suggest that viewing the chlamydial developmental cycle as a simple \"biphasic\" process may significantly underestimate it\u0027s complexity. In 1961, Galasso and Manire demonstrated that penicillinand antiserum-exposed C. psittaci could be maintained in culture for up to 9 months in a non-infectious, but viable, state; when the stressor was removed, developmental cycle progression and production of infectious EB ensued [4] . Subsequent transmission electron microscopy (TEM) analyses of penicillin G-exposed chlamydiae revealed abnormal developmental forms that did not correspond to \"normal\" EB or RB (variously termed aberrant RB, persistent bodies or aberrant bodies (AB)). Penicillin-exposure inhibited C. psittaci RB to EB conversion, forming greatly enlarged, irregular, less electron-dense RB (ie. AB) that shed membrane blebs [5] . Amoxicillin-exposed, C. muridarum-infected murine epithelial cells show the characteristic AB morphology (Fig. 2C ). While AB are occasionally observed within normally-developing inclusions (compare Fig. 2A to 2B), they are more abundant when the chlamydiae are exposed to physiologic stressors, such as βlactam antibiotics (Fig. 2C ).",
+      "sentences": [
+        [
+          {
+            "segment_text": "Over the past 50 years ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "ever more sophisticated analyses suggest that viewing the chlamydial developmental cycle as a simple `` biphasic \u0027\u0027 process may significantly underestimate it \u0027s complexity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In 1961 , Galasso and Manire demonstrated that penicillinand antiserum-exposed C. psittaci could be maintained in culture for up to 9 months in a non-infectious ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but viable , state ; when the stressor was removed ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "developmental cycle progression and production of infectious EB ensued ( 4 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Subsequent transmission electron microscopy ( TEM ) analyses of penicillin G-exposed chlamydiae revealed abnormal developmental forms that did not correspond to `` normal \u0027\u0027 EB or RB ( variously termed aberrant RB , persistent bodies or aberrant bodies ( AB ) ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Penicillin-exposure inhibited C. psittaci RB to EB conversion ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "forming greatly enlarged , irregular ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "less electron-dense RB ( ie .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "AB ) that shed membrane blebs ( 5 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Amoxicillin-exposed , C. muridarum-infected murine epithelial cells show the characteristic AB morphology ( Fig. 2C ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "While AB are occasionally observed within normally-developing inclusions ( compare Fig. 2A to 2B ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "they are more abundant when the chlamydiae are exposed to physiologic stressors ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as βlactam antibiotics ( Fig. 2C ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Numerous subsequent studies (recently reviewed in [6; 7] have made it abundantly clear that when they encounter specific stimuli, developing chlamydiae can divert from the productive developmental cycle into a state termed persistence. In the chlamydial field, persistence isdefined as a developmental stage in which the chlamydiae are viable but non-infectious. This usage can be somewhat confusing, as most microbiologists use the term \"persistence\" to refer to a long-term infection within a host. During persistence, chlamydial metabolism is slowed and RB division, as well as differentiation into EB, halts, which reduces infectious particle production and stimulates AB formation. Persistent chlamydiae are viable, as indicated by continued synthesis of unprocessed 16S rRNA and genomic DNA replication. This state is also reversible; persistent chlamydiae can be maintained for weeks or months in culture, after which they continue productive replication if the inducer is removed. Persistence, therefore, appears to be a mechanism that allows the chlamydiae to \"ride out\" hostile conditions and maintain long-term infection within a host cell. It is important to note that persistent (i.e. viable but not infectious) chlamydiae have been primarily studied in culture. Although AB have been demonstrated in vivo[6; 7], whether or not chlamydiae enter this developmental state in order to establish chronic host infections has not yet been determined.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Numerous subsequent studies ( recently reviewed in ( 6 ; 7 ) have made it abundantly clear that when they encounter specific stimuli ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "developing chlamydiae can divert from the productive developmental cycle into a state termed persistence .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the chlamydial field , persistence isdefined as a developmental stage in which the chlamydiae are viable but non-infectious .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This usage can be somewhat confusing ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as most microbiologists use the term `` persistence \u0027\u0027 to refer to a long-term infection within a host .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "During persistence , chlamydial metabolism is slowed and RB division ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as well as differentiation into EB ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "halts , which reduces infectious particle production and stimulates AB formation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Persistent chlamydiae are viable , as indicated by continued synthesis of unprocessed 16S rRNA and genomic DNA replication .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This state is also reversible ; persistent chlamydiae can be maintained for weeks or months in culture ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "after which they continue productive replication if the inducer is removed .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Persistence , therefore , appears to be a mechanism that allows the chlamydiae to `` ride out \u0027\u0027 hostile conditions and maintain long-term infection within a host cell .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is important to note that persistent ( i.e. viable but not infectious ) chlamydiae have been primarily studied in culture .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although AB have been demonstrated in vivo ( 6 ; 7 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "whether or not chlamydiae enter this developmental state in order to establish chronic host infections has not yet been determined .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Several different stimuli induce persistence in culture; the best characterized are: i) IFN-γand penicillin-exposure; ii) chlamydiaphage infection; iii) heat shock; and iv) amino acid, glucose and iron deprivation. These stimuli do not alter the developmental cycle if they are delivered after RB to EB maturation initiates. Chlamydiae can also establish persistent infections in monocytes, as well as during continuous culture in other cells [6] . Since 2004, several new culture models of chlamydial persistence have been described: i) exposure to cigarette smoke components [8] and extracellular adenosine [9]; and ii) host cell coinfection with Herpes Simplex Virus (HSV) [10] or Porcine Epidemic Diarrhea Virus (PEDV) [11] . As many of the \"older\" persistence models have been exhaustively reviewed, this discussion will focus upon the relationship between IFN-γ-induced persistence and C. trachomatis tissue tropism, in order to illustrate how culture models of persistence have been used as tools to explore chlamydia/host interactions. In addition, several recently-developed, novel persistence models will be described. Note that given length and reference limitations",
+      "sentences": [
+        [
+          {
+            "segment_text": "Several different stimuli induce persistence in culture ; the best characterized are : i ) IFN-γand penicillin-exposure ; ii ) chlamydiaphage infection ; iii ) heat shock ; and iv ) amino acid , glucose and iron deprivation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These stimuli do not alter the developmental cycle if they are delivered after RB to EB maturation initiates .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Chlamydiae can also establish persistent infections in monocytes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as well as during continuous culture in other cells ( 6 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Since 2004 , several new culture models of chlamydial persistence have been described : i ) exposure to cigarette smoke components ( 8 ) and extracellular adenosine ( 9 ) ; and ii ) host cell coinfection with Herpes Simplex Virus ( HSV ) ( 10 ) or Porcine Epidemic Diarrhea Virus ( PEDV ) ( 11 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As many of the `` older \u0027\u0027 persistence models have been exhaustively reviewed ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "this discussion will focus upon the relationship between IFN-γ-induced persistence and C. trachomatis tissue tropism ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "in order to illustrate how culture models of persistence have been used as tools to explore chlamydia/host interactions .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , several recently-developed ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "novel persistence models will be described .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Note that given length and reference limitations",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "28",
+    "segment_num": "48",
+    "token_num": "802"
+  }
+}

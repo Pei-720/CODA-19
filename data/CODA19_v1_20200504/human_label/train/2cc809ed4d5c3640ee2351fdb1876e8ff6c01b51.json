@@ -1,0 +1,193 @@
+{
+  "paper_id": "2cc809ed4d5c3640ee2351fdb1876e8ff6c01b51",
+  "metadata": {
+    "title": "Title: Feasibility of controlling 2019-nCoV outbreaks by isolation of cases and contacts",
+    "coda_data_split": "train",
+    "coda_paper_id": 10212,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "To assess the viability of isolation and contact tracing to control onwards transmission from imported cases of 2019-nCoV.",
+      "sentences": [
+        [
+          {
+            "segment_text": "To assess the viability of isolation and contact tracing to control onwards transmission from imported cases of 2019-nCoV .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We developed a stochastic transmission model, parameterised to the 2019-nCoV outbreak. We used the model to quantify the potential effectiveness of contact tracing and isolation of cases at controlling a 2019 nCoV-like pathogen. We considered scenarios that varied in: the number of initial cases; the basic reproduction number R0; the delay from symptom onset to isolation; the probability contacts were traced; the proportion of transmission that occurred before symptom onset, and the proportion of subclinical infections. We assumed isolation prevented all further transmission in the model. Outbreaks",
+      "sentences": [
+        [
+          {
+            "segment_text": "We developed a stochastic transmission model ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "parameterised to the 2019-nCoV outbreak .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We used the model to quantify the potential effectiveness of contact tracing and isolation of cases at controlling a 2019 nCoV-like pathogen .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We considered scenarios that varied in : the number of initial cases ; the basic reproduction number R0 ; the delay from symptom onset to isolation ; the probability contacts were traced ; the proportion of transmission that occurred before symptom onset ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and the proportion of subclinical infections .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We assumed isolation prevented all further transmission in the model .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Outbreaks",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "were deemed controlled if transmission ended within 12 weeks or before 5000 cases in total.",
+      "sentences": [
+        [
+          {
+            "segment_text": "were deemed controlled if transmission ended within 12 weeks or before 5000 cases in total .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We measured the success of controlling outbreaks using isolation and contact tracing, and quantified the weekly maximum number of cases traced to measure feasibility of public health effort.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We measured the success of controlling outbreaks using isolation and contact tracing ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and quantified the weekly maximum number of cases traced to measure feasibility of public health effort .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Findings: While simulated outbreaks starting with only 5 initial cases, R0 of 1.5 and little transmission before symptom onset could be controlled even with low contact tracing probability, the prospects of controlling an outbreak dramatically dropped with the number of initial cases, with higher R0, and with more transmission before symptom onset. Across different initial numbers of cases, the majority of scenarios with an R0 of 1.5 were controllable with under 50% of contacts successfully traced. For R0 of 2.5 and 3.5, more than 70% and 90% of contacts respectively had to be traced to control the majority of outbreaks.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Findings : While simulated outbreaks starting with only 5 initial cases ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "R0 of 1.5 and little transmission before symptom onset could be controlled even with low contact tracing probability ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the prospects of controlling an outbreak dramatically dropped with the number of initial cases ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with higher R0 , and with more transmission before symptom onset .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Across different initial numbers of cases ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the majority of scenarios with an R0 of 1.5 were controllable with under 50 % of contacts successfully traced .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "For R0 of 2.5 and 3.5 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "more than 70 % and 90 % of contacts respectively had to be traced to control the majority of outbreaks .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The delay between symptom onset and isolation played the largest role in determining whether an outbreak was controllable for lower values of R0. For higher values of R0 and a large initial number of cases, contact tracing and isolation was only potentially feasible when less than 1% of transmission occurred before symptom onset.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The delay between symptom onset and isolation played the largest role in determining whether an outbreak was controllable for lower values of R0 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "For higher values of R0 and a large initial number of cases ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "contact tracing and isolation was only potentially feasible when less than 1 % of transmission occurred before symptom onset .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Interpretation: We found that in most scenarios contact tracing and case isolation alone is unlikely to control a new outbreak of 2019-nCov within three months. The probability of control decreases with longer delays from symptom onset to isolation, fewer cases ascertained by contact tracing, and increasing transmission before symptoms. This model can be modified to reflect updated transmission characteristics and more specific definitions of outbreak control to assess the potential success of local response efforts.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Interpretation : We found that in most scenarios contact tracing and case isolation alone is unlikely to control a new outbreak of 2019-nCov within three months .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The probability of control decreases with longer delays from symptom onset to isolation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "fewer cases ascertained by contact tracing ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and increasing transmission before symptoms .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This model can be modified to reflect updated transmission characteristics and more specific definitions of outbreak control to assess the potential success of local response efforts .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "7",
+    "sentence_num": "16",
+    "segment_num": "27",
+    "token_num": "414"
+  }
+}

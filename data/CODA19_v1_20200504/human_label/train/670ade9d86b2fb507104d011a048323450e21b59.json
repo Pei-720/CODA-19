@@ -1,0 +1,155 @@
+{
+  "paper_id": "670ade9d86b2fb507104d011a048323450e21b59",
+  "metadata": {
+    "title": "Efficient oligonucleotide probe selection for pan-genomic tiling arrays",
+    "coda_data_split": "train",
+    "coda_paper_id": 2264,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Array comparative genomic hybridization is a fast and cost-effective method for detecting, genotyping, and comparing the genomic sequence of unknown bacterial isolates. This method, as with all microarray applications, requires adequate coverage of probes targeting the regions of interest. An unbiased tiling of probes across the entire length of the genome is the most flexible design approach. However, such a whole-genome tiling requires that the genome sequence is known in advance. For the accurate analysis of uncharacterized bacteria, an array must query a fully representative set of sequences from the species\u0027 pan-genome. Prior microarrays have included only a single strain per array or the conserved sequences of gene families. These arrays omit potentially important genes and sequence variants from the pan-genome.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Array comparative genomic hybridization is a fast and cost-effective method for detecting ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "genotyping , and comparing the genomic sequence of unknown bacterial isolates .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This method , as with all microarray applications ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "requires adequate coverage of probes targeting the regions of interest .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "An unbiased tiling of probes across the entire length of the genome is the most flexible design approach .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , such a whole-genome tiling requires that the genome sequence is known in advance .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "For the accurate analysis of uncharacterized bacteria ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "an array must query a fully representative set of sequences from the species \u0027 pan-genome .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Prior microarrays have included only a single strain per array or the conserved sequences of gene families .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These arrays omit potentially important genes and sequence variants from the pan-genome .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results: This paper presents a new probe selection algorithm (PanArray) that can tile multiple whole genomes using a minimal number of probes. Unlike arrays built on clustered gene families, PanArray uses an unbiased, probe-centric approach that does not rely on annotations, gene clustering, or multi-alignments. Instead, probes are evenly tiled across all sequences of the pangenome at a consistent level of coverage. To minimize the required number of probes, probes conserved across multiple strains in the pan-genome are selected first, and additional probes are used only where necessary to span polymorphic regions of the genome. The viability of the algorithm is demonstrated by array designs for seven different bacterial pan-genomes and, in particular, the design of a 385,000 probe array that fully tiles the genomes of 20 different Listeria monocytogenes strains with overlapping probes at greater than twofold coverage.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results : This paper presents a new probe selection algorithm ( PanArray ) that can tile multiple whole genomes using a minimal number of probes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Unlike arrays built on clustered gene families ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "PanArray uses an unbiased , probe-centric approach that does not rely on annotations ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "gene clustering , or multi-alignments .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Instead , probes are evenly tiled across all sequences of the pangenome at a consistent level of coverage .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "To minimize the required number of probes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "probes conserved across multiple strains in the pan-genome are selected first ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and additional probes are used only where necessary to span polymorphic regions of the genome .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The viability of the algorithm is demonstrated by array designs for seven different bacterial pan-genomes and ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "in particular , the design of a 385,000 probe array that fully tiles the genomes of 20 different Listeria monocytogenes strains with overlapping probes at greater than twofold coverage .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "PanArray is an oligonucleotide probe selection algorithm for tiling multiple genome sequences using a minimal number of probes. It is capable of fully tiling all genomes of a species on a single microarray chip. These unique pan-genome tiling arrays provide maximum flexibility for the analysis of both known and uncharacterized strains.",
+      "sentences": [
+        [
+          {
+            "segment_text": "PanArray is an oligonucleotide probe selection algorithm for tiling multiple genome sequences using a minimal number of probes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is capable of fully tiling all genomes of a species on a single microarray chip .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These unique pan-genome tiling arrays provide maximum flexibility for the analysis of both known and uncharacterized strains .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "15",
+    "segment_num": "23",
+    "token_num": "347"
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "paper_id": "185bc5c5addfa50d75d15b288537d11bd4a4aa5d",
+  "metadata": {
+    "title": "CRISPR screening using an expanded toolkit of autophagy reporters identifies TMEM41B as a novel autophagy factor",
+    "coda_data_split": "train",
+    "coda_paper_id": 7215,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "The power of forward genetics in yeast is the foundation on which the field of autophagy research firmly stands. Complementary work on autophagy in higher eukaryotes has revealed both the deep conservation of this process, as well as novel mechanisms by which autophagy is regulated in the context of development, immunity, and neuronal homeostasis. The recent emergence of new clustered regularly interspaced palindromic repeats/ CRISPR-associated protein 9 (CRISPR/Cas9)-based technologies has begun facilitating efforts to define novel autophagy factors and pathways by forward genetic screening in mammalian cells. Here, we set out to develop an expanded toolkit of autophagy reporters amenable to CRISPR/Cas9 screening. Genome-wide screening of our reporters in mammalian cells recovered virtually all known autophagy-related (ATG) factors as well as previously uncharacterized factors, including vacuolar protein sorting 37 homolog A (VPS37A), transmembrane protein 251 (TMEM251), amyotrophic lateral sclerosis 2 (ALS2), and TMEM41B. To validate this data set, we used quantitative microscopy and biochemical analyses to show that 1 novel hit, TMEM41B, is required for phagophore maturation. TMEM41B is an integral endoplasmic reticulum (ER) membrane protein distantly related to the established autophagy factor vacuole membrane protein 1 (VMP1), and our data show that these two factors play related, albeit not fully overlapping, roles in autophagosome biogenesis. In sum, our work uncovers new ATG factors, reveals a malleable network of autophagy receptor genetic interactions, and provides a valuable resource (http://crispr.deniclab.com) for further mining of novel autophagy mechanisms.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The power of forward genetics in yeast is the foundation on which the field of autophagy research firmly stands .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Complementary work on autophagy in higher eukaryotes has revealed both the deep conservation of this process ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as well as novel mechanisms by which autophagy is regulated in the context of development ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "immunity , and neuronal homeostasis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The recent emergence of new clustered regularly interspaced palindromic repeats / CRISPR-associated protein 9 ( CRISPR/Cas9 ) - based technologies has begun facilitating efforts to define novel autophagy factors and pathways by forward genetic screening in mammalian cells .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we set out to develop an expanded toolkit of autophagy reporters amenable to CRISPR/Cas9 screening .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Genome-wide screening of our reporters in mammalian cells recovered virtually all known autophagy-related ( ATG ) factors as well as previously uncharacterized factors ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including vacuolar protein sorting 37 homolog A ( VPS37A ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "transmembrane protein 251 ( TMEM251 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "amyotrophic lateral sclerosis 2 ( ALS2 ) , and TMEM41B .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "To validate this data set ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we used quantitative microscopy and biochemical analyses to show that 1 novel hit ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "TMEM41B , is required for phagophore maturation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "TMEM41B is an integral endoplasmic reticulum ( ER ) membrane protein distantly related to the established autophagy factor vacuole membrane protein 1 ( VMP1 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and our data show that these two factors play related ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "albeit not fully overlapping , roles in autophagosome biogenesis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In sum , our work uncovers new ATG factors ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "reveals a malleable network of autophagy receptor genetic interactions ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and provides a valuable resource ( http://crispr.deniclab.com ) for further mining of novel autophagy mechanisms .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Eukaryotic cells use autophagy to eliminate unwanted structures-such as protein aggregates, intracellular pathogens, and damaged organelles-that are too large to be handled PLOS Biology | https://doi.Citation: Shoemaker CJ, Huang TQ, Weir NR, Polyakov NJ, Schultz SW, Denic V (2019) CRISPR screening using an expanded toolkit of autophagy reporters identifies TMEM41B as a novel autophagy factor. PLoS Biol 17(4): e2007044.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Eukaryotic cells use autophagy to eliminate unwanted structures-such as protein aggregates ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "intracellular pathogens , and damaged organelles-that are too large to be handled PLOS Biology | https://doi.Citation : Shoemaker CJ ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Huang TQ , Weir NR ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "Polyakov NJ , Schultz SW ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "Denic V ( 2019 ) CRISPR screening using an expanded toolkit of autophagy reporters identifies TMEM41B as a novel autophagy factor .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "PLoS Biol 17 ( 4 ) : e2007044 .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "by the proteasome. This unusual vesicle transport pathway begins with packaging of cytoplasmic targets into a double-membrane vesicle (autophagosome) and ends with their degradation in the lysosome. A deeper understanding of autophagy as a regulated mechanism for protein turnover has the potential to provide new therapies for diverse human pathologies, including neurodegenerative disease, cardiometabolic disease, and cancer.",
+      "sentences": [
+        [
+          {
+            "segment_text": "by the proteasome .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This unusual vesicle transport pathway begins with packaging of cytoplasmic targets into a double-membrane vesicle ( autophagosome ) and ends with their degradation in the lysosome .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A deeper understanding of autophagy as a regulated mechanism for protein turnover has the potential to provide new therapies for diverse human pathologies ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including neurodegenerative disease , cardiometabolic disease , and cancer .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Here, we set out to build new reporters for studying mammalian autophagy by genetic screening. This approach allowed us to carry out pooled genome-wide clustered regularly interspaced palindromic repeats (CRISPR) knockout screens and recover virtually all known mammalian autophagy-related (ATG) factors. In addition, we uncovered several uncharacterized proteins, including the endoplasmic reticulum (ER) transmembrane protein 41B (TMEM41B), which we went on to show is required for normal growth of autophagosome precursor membranes around their targets. More broadly, our data set provides a comprehensive resource of genes that affect autophagosome trafficking to the lysosome for further hypothesis testing.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Here , we set out to build new reporters for studying mammalian autophagy by genetic screening .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "This approach allowed us to carry out pooled genome-wide clustered regularly interspaced palindromic repeats ( CRISPR ) knockout screens and recover virtually all known mammalian autophagy-related ( ATG ) factors .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , we uncovered several uncharacterized proteins ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including the endoplasmic reticulum ( ER ) transmembrane protein 41B ( TMEM41B ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which we went on to show is required for normal growth of autophagosome precursor membranes around their targets .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "More broadly , our data set provides a comprehensive resource of genes that affect autophagosome trafficking to the lysosome for further hypothesis testing .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Defining the genetic landscape of mammalian autophagy PLOS Biology | https://doi.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Defining the genetic landscape of mammalian autophagy PLOS Biology | https://doi .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "18",
+    "segment_num": "36",
+    "token_num": "546"
+  }
+}

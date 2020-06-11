@@ -1,0 +1,223 @@
+{
+  "paper_id": "dfc76bec0889529fc8cfd5075db5b638ee8cefbc",
+  "metadata": {
+    "title": "Gene-expression reversal of lncRNAs and associated mRNAs expression in active vs latent HIV infection OPEN",
+    "coda_data_split": "train",
+    "coda_paper_id": 3319,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Here for the first time, we delineate the influence of HIV on global lncRNAs expression in monocytic cells lines. Our analysis revealed the expression modulation of nearly 1060 such lncRNAs which are associated with differentially expressed mRNAs in active and latent infection. This suggests a greater role of lncRNAs in regulating transcriptional and post-transcriptional gene expression during HIV infection. The differentially expressed mRNAs were involved in several different biological pathways where immunological networks were most enriched. Importantly, we discovered that HIV induces expression reversal of more than 150 lncRNAs between its active and latent infection. Also, hundreds of unique lncRNAs were identified in both infection conditions. The pathology specific \"gene-expression reversal\" and \"on-and-off\" switching of lncRNAs and associated mRNAs may lead to establish the relationship between active and HIV infection.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Here for the first time ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "we delineate the influence of HIV on global lncRNAs expression in monocytic cells lines .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our analysis revealed the expression modulation of nearly 1060 such lncRNAs which are associated with differentially expressed mRNAs in active and latent infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This suggests a greater role of lncRNAs in regulating transcriptional and post-transcriptional gene expression during HIV infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The differentially expressed mRNAs were involved in several different biological pathways where immunological networks were most enriched .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Importantly , we discovered that HIV induces expression reversal of more than 150 lncRNAs between its active and latent infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Also , hundreds of unique lncRNAs were identified in both infection conditions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The pathology specific `` gene-expression reversal \u0027\u0027 and `` on-and-off \u0027\u0027 switching of lncRNAs and associated mRNAs may lead to establish the relationship between active and HIV infection .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The highly active antiretroviral therapy (HAART) can certainly decrease the plasma viral load below the detection limit; however, complete elimination of HIV infection remains far out of reach. The major hindrance in this direction is the latent HIV infection in cell subpopulations where anti-HIV drugs and immune clearance is not effective. HIV can persist in these viral reservoirs for years with little or no productive infection and can reactivate later 1 . In contrast to initial belief, latent HIV reservoirs are present beyond the realm of memory CD4 + T cells 2-5 . Subpopulations of all kind of immune cells such as dendritic cells, hematopoietic progenitor cells, natural killer cells, mast cells, monocytes, macrophages, etc. also serve as HIV reservoirs. It is noteworthy to mention that infected/non-infected cells of monocyte-macrophage lineage naturally transmigrate to brain from peripheral circulation and vice-versa. This results in HIV dissemination into brain. CNS is also reported to be a major site of HIV reservoir 2,6 . Thus, macrophages/monocytes serve as major connecting link between peripheral and brain infection of HIV, be it active or latent 7 . It has been widely accepted that HIV latency is driven by multitude of epigenetic-based transcriptional factors after integration of pro-viral genomes into the host genome 8-10 . Role of histone modifications such as acetylation, methylation, etc. in HIV latency have already been shown in several studies [11] [12] [13] [14] . However, these factors proved not more than a fractional player and despite intensive efforts by global scientific community during last decade, the molecular essence of HIV latency still remains indistinct.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The highly active antiretroviral therapy ( HAART ) can certainly decrease the plasma viral load below the detection limit ; however ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "complete elimination of HIV infection remains far out of reach .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The major hindrance in this direction is the latent HIV infection in cell subpopulations where anti-HIV drugs and immune clearance is not effective .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "HIV can persist in these viral reservoirs for years with little or no productive infection and can reactivate later 1 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In contrast to initial belief ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "latent HIV reservoirs are present beyond the realm of memory CD4 + T cells 2-5 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Subpopulations of all kind of immune cells such as dendritic cells ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "hematopoietic progenitor cells , natural killer cells ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "mast cells , monocytes , macrophages ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "etc. also serve as HIV reservoirs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is noteworthy to mention that infected/non-infected cells of monocyte-macrophage lineage naturally transmigrate to brain from peripheral circulation and vice-versa .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This results in HIV dissemination into brain .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "CNS is also reported to be a major site of HIV reservoir 2,6 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , macrophages/monocytes serve as major connecting link between peripheral and brain infection of HIV ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "be it active or latent 7 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It has been widely accepted that HIV latency is driven by multitude of epigenetic-based transcriptional factors after integration of pro-viral genomes into the host genome 8-10 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Role of histone modifications such as acetylation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "methylation , etc. in HIV latency have already been shown in several studies ( 11 ) ( 12 ) ( 13 ) ( 14 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , these factors proved not more than a fractional player and despite intensive efforts by global scientific community during last decade ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the molecular essence of HIV latency still remains indistinct .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The epigenetic landscape -beyond histone modifications -is extended deep into the genomic \"dark matter\". This refers to non-protein-coding RNAs which comprises nearly 70% of genome. These are categorized into small and long non-coding RNAs (lncRNAs) with later being \u003e 200nt in length 15 . Similarly, plethora of research suggest possible role of one or more microRNAs (miRNAs) in the HIV latency 16 . While vast majority of small non-coding RNAs (e.g. miRNAs) are being researched over a decade, functional role of lncRNAs has commenced only recently. Human genome is expected to have more than 23,000 lncRNAs that can regulate various",
+      "sentences": [
+        [
+          {
+            "segment_text": "The epigenetic landscape - beyond histone modifications - is extended deep into the genomic `` dark matter \u0027\u0027 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This refers to non-protein-coding RNAs which comprises nearly 70 % of genome .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These are categorized into small and long non-coding RNAs ( lncRNAs ) with later being \u003e 200nt in length 15 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Similarly , plethora of research suggest possible role of one or more microRNAs ( miRNAs ) in the HIV latency 16 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "While vast majority of small non-coding RNAs ( e.g. miRNAs ) are being researched over a decade ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "functional role of lncRNAs has commenced only recently .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Human genome is expected to have more than 23,000 lncRNAs that can regulate various",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "25",
+    "segment_num": "35",
+    "token_num": "554"
+  }
+}

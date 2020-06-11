@@ -1,0 +1,225 @@
+{
+  "paper_id": "28f89ac0fa6a72cf3dc315817c2e670c10dec347",
+  "metadata": {
+    "title": "of Viral Nonstructural Proteins",
+    "coda_data_split": "train",
+    "coda_paper_id": 3166,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Many positive-strand RNA viruses encode genes that can function in trans, whereas other genes are required in cis for genome replication. The mechanisms underlying trans-and cis-preferences are not fully understood. Here, we evaluate this concept for hepatitis C virus (HCV), an important cause of chronic liver disease and member of the Flaviviridae family. HCV encodes five nonstructural (NS) genes that are required for RNA replication. To date, only two of these genes, NS4B and NS5A, have been trans-complemented, leading to suggestions that other replicase genes work only in cis. We describe a new quantitative system to measure the cis-and trans-requirements for HCV NS gene function in RNA replication and identify several lethal mutations in the NS3, NS4A, NS4B, NS5A, and NS5B genes that can be complemented in trans, alone or in combination, by expressing the NS3-5B polyprotein from a synthetic mRNA. Although NS5B RNA binding and polymerase activities can be supplied in trans, NS5B protein expression was required in cis, indicating that NS5B has a cis-acting role in replicase assembly distinct from its known enzymatic activity. Furthermore, the RNA binding and NTPase activities of the NS3 helicase domain were required in cis, suggesting that these activities play an essential role in RNA template selection. A comprehensive complementation group analysis revealed functional linkages between NS3-4A and NS4B and between NS5B and the upstream NS3-5A genes. Finally, NS5B polymerase activity segregated with a daclatasvir-sensitive NS5A activity, which could explain the synergy of this antiviral compound with nucleoside analogs in patients. Together, these studies define several new aspects of HCV replicase structure-function, help to explain the potency of HCV-specific combination therapies, and provide an experimental framework for the study of cis-and trans-acting activities in positive-strand RNA virus replication more generally.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Many positive-strand RNA viruses encode genes that can function in trans ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "whereas other genes are required in cis for genome replication .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The mechanisms underlying trans-and cis-preferences are not fully understood .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we evaluate this concept for hepatitis C virus ( HCV ) ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "an important cause of chronic liver disease and member of the Flaviviridae family .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "HCV encodes five nonstructural ( NS ) genes that are required for RNA replication .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To date , only two of these genes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "NS4B and NS5A , have been trans-complemented ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "leading to suggestions that other replicase genes work only in cis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We describe a new quantitative system to measure the cis-and trans-requirements for HCV NS gene function in RNA replication and identify several lethal mutations in the NS3 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "NS4A , NS4B , NS5A ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and NS5B genes that can be complemented in trans ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "alone or in combination , by expressing the NS3-5B polyprotein from a synthetic mRNA .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although NS5B RNA binding and polymerase activities can be supplied in trans ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "NS5B protein expression was required in cis ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "indicating that NS5B has a cis-acting role in replicase assembly distinct from its known enzymatic activity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , the RNA binding and NTPase activities of the NS3 helicase domain were required in cis ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "suggesting that these activities play an essential role in RNA template selection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A comprehensive complementation group analysis revealed functional linkages between NS3-4A and NS4B and between NS5B and the upstream NS3-5A genes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , NS5B polymerase activity segregated with a daclatasvir-sensitive NS5A activity ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which could explain the synergy of this antiviral compound with nucleoside analogs in patients .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Together , these studies define several new aspects of HCV replicase structure-function ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "help to explain the potency of HCV-specific combination therapies ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and provide an experimental framework for the study of cis-and trans-acting activities in positive-strand RNA virus replication more generally .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "PLOS Pathogens | RNA viruses encode one or more proteins that form an RNA replicase, which serves to propagate the viral RNA genome. Some replication genes can function in trans, meaning that proteins expressed by one viral genome can complement and assist in the replication of a defective mutant virus within the same cell. Other viral genes work in cis, meaning that they are unable to complement defective mutants; these cis-acting genes therefore link the replication of a viral RNA genome to its translation. Because genetic complementation reflects the formation of molecular interactions that were previously absent or nonfunctional, understanding the cis-and trans-activities of viral replication proteins can provide insights into the structure and function of viral replicases. Here we develop a novel methodology to study interactions between components of the viral replicase to define essential cis-and trans-activities for all five hepatitis C virus (HCV) replication gene products. Our studies show that representative defects in each HCV replication protein can be complemented in trans. However, specific features of NS3 and NS5B were required in cis, indicating that these proteins specifically function to replicate the genome that encodes them. These data define important activities of the HCV replication proteins and provide new insight into how these proteins function together as an enzyme complex.",
+      "sentences": [
+        [
+          {
+            "segment_text": "PLOS Pathogens | RNA viruses encode one or more proteins that form an RNA replicase ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which serves to propagate the viral RNA genome .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Some replication genes can function in trans ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "meaning that proteins expressed by one viral genome can complement and assist in the replication of a defective mutant virus within the same cell .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Other viral genes work in cis ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "meaning that they are unable to complement defective mutants ; these cis-acting genes therefore link the replication of a viral RNA genome to its translation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Because genetic complementation reflects the formation of molecular interactions that were previously absent or nonfunctional ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "understanding the cis-and trans-activities of viral replication proteins can provide insights into the structure and function of viral replicases .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we develop a novel methodology to study interactions between components of the viral replicase to define essential cis-and trans-activities for all five hepatitis C virus ( HCV ) replication gene products .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our studies show that representative defects in each HCV replication protein can be complemented in trans .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , specific features of NS3 and NS5B were required in cis ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "indicating that these proteins specifically function to replicate the genome that encodes them .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These data define important activities of the HCV replication proteins and provide new insight into how these proteins function together as an enzyme complex .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "PLOS Pathogens |",
+      "sentences": [
+        [
+          {
+            "segment_text": "PLOS Pathogens |",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "20",
+    "segment_num": "38",
+    "token_num": "556"
+  }
+}

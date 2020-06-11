@@ -1,0 +1,106 @@
+{
+  "paper_id": "06e48fb706294d231412a2740f57f38abf127655",
+  "metadata": {
+    "title": "Variant Effect of First-and Second-Generation Antihistamines as Clues to Their Mechanism of Action on the Sneeze Reflex in the Common Cold",
+    "coda_data_split": "train",
+    "coda_paper_id": 5208,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Treatment with first-generation antihistamines reduces sneezing, rhinorrhea, nasal mucus weight, and, in some instances, cough in subjects with experimental or natural colds; however, treatment with second-generation antihistamines has not been effective for these complaints in trials in subjects with natural colds. This article reports the negative results of a clinical trial with loratadine, a second-generation antihistamine, in adults in the rhinovirus challenge model. This finding in the highly controlled setting of the challenge model confirms the earlier negative studies with second-generation antihistamines in natural colds. First-generation antihistamines block both histaminic and muscarinic receptors as well as passing the blood-brain barrier. Secondgeneration antihistamines mainly block histaminic receptors and do not pass the blood-brain barrier. The effectiveness of first-generation antihistamines in blocking sneezing in colds may be due primarily to neuropharmacological manipulation of histaminic and muscarinic receptors in the medulla.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Treatment with first-generation antihistamines reduces sneezing ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "rhinorrhea , nasal mucus weight ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and , in some instances ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "cough in subjects with experimental or natural colds ; however ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "treatment with second-generation antihistamines has not been effective for these complaints in trials in subjects with natural colds .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This article reports the negative results of a clinical trial with loratadine ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "a second-generation antihistamine , in adults in the rhinovirus challenge model .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "This finding in the highly controlled setting of the challenge model confirms the earlier negative studies with second-generation antihistamines in natural colds .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "First-generation antihistamines block both histaminic and muscarinic receptors as well as passing the blood-brain barrier .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Secondgeneration antihistamines mainly block histaminic receptors and do not pass the blood-brain barrier .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The effectiveness of first-generation antihistamines in blocking sneezing in colds may be due primarily to neuropharmacological manipulation of histaminic and muscarinic receptors in the medulla .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The individual symptoms of a common cold are due to multiple and somewhat specific pathways of inflammation [1]. Sneezing has been generally thought to result from the release of histamine from nasal mast cells and basophils, which are activated by a cold virus infection. Supporting this belief is the finding that intranasal challenge with histamine in normal volunteers elicited sneezing whereas intranasal exposure to other",
+      "sentences": [
+        [
+          {
+            "segment_text": "The individual symptoms of a common cold are due to multiple and somewhat specific pathways of inflammation ( 1 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Sneezing has been generally thought to result from the release of histamine from nasal mast cells and basophils ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which are activated by a cold virus infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Supporting this belief is the finding that intranasal challenge with histamine in normal volunteers elicited sneezing whereas intranasal exposure to other",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "9",
+    "segment_num": "15",
+    "token_num": "223"
+  }
+}

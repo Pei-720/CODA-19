@@ -1,0 +1,236 @@
+{
+  "paper_id": "169886ed560d25fc250346b0eb02b9b5fa73e5f9",
+  "metadata": {
+    "title": "Immune Cell Profiling of COVID-19 Patients in the Recovery Stage by Single-Cell Sequencing",
+    "coda_data_split": "train",
+    "coda_paper_id": 7984,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "COVID-19, caused by SARS-CoV-2, has recently affected over 300,000 people and killed more than 10,000. The manner in which the key immune cell subsets change and their states during the course of COVID-19 remain unclear. Here, we applied single-cell technology to comprehensively characterize transcriptional changes in peripheral blood mononuclear cells during the recovery stage of COVID-19. Compared with healthy controls, in patients in the early recovery stage (ERS) of COVID-19, T cells decreased remarkably, whereas monocytes increased. A detailed analysis of the monocytes revealed that there was an increased ratio of classical CD14 ++ monocytes with high inflammatory gene expression as well as a greater abundance of CD14 ++ IL1B + monocytes in the ERS. CD4 + and CD8 + T cells decreased significantly and expressed high levels of inflammatory genes in the ERS. Among the B cells, the plasma cells increased remarkably, whereas the naïve B cells decreased. Our study identified several novel B cell-receptor (BCR) changes, such as IGHV3-23 and IGHV3-7, and confirmed isotypes (IGHV3-15, IGHV3-30, and IGKV3-11) previously used for virus vaccine development. The strongest pairing frequencies, IGHV3-23-IGHJ4, indicated a monoclonal state associated with SARS-CoV-2 specificity. Furthermore, integrated analysis predicted that IL-1β and M-CSF may be novel candidate target genes for inflammatory storm and that TNFSF13, IL-18, IL-2 and IL-4 may be beneficial for the recovery of COVID-19 patients. Our study provides the first evidence of an inflammatory immune signature in the ERS, suggesting that COVID-19 patients are still vulnerable after hospital discharge. Our identification of novel BCR signaling may lead to the development of vaccines and antibodies for the treatment of COVID-19.",
+      "sentences": [
+        [
+          {
+            "segment_text": "COVID-19 , caused by SARS-CoV-2 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "has recently affected over 300,000 people and killed more than 10,000 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The manner in which the key immune cell subsets change and their states during the course of COVID-19 remain unclear .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we applied single-cell technology to comprehensively characterize transcriptional changes in peripheral blood mononuclear cells during the recovery stage of COVID-19 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Compared with healthy controls , in patients in the early recovery stage ( ERS ) of COVID-19 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "T cells decreased remarkably , whereas monocytes increased .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A detailed analysis of the monocytes revealed that there was an increased ratio of classical CD14 + + monocytes with high inflammatory gene expression as well as a greater abundance of CD14 + + IL1B + monocytes in the ERS .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "CD4 + and CD8 + T cells decreased significantly and expressed high levels of inflammatory genes in the ERS .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Among the B cells , the plasma cells increased remarkably ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "whereas the naïve B cells decreased .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our study identified several novel B cell-receptor ( BCR ) changes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "such as IGHV3-23 and IGHV3-7 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and confirmed isotypes ( IGHV3-15 , IGHV3-30 , and IGKV3-11 ) previously used for virus vaccine development .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The strongest pairing frequencies , IGHV3-23-IGHJ4 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "indicated a monoclonal state associated with SARS-CoV-2 specificity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , integrated analysis predicted that IL-1β and M-CSF may be novel candidate target genes for inflammatory storm and that TNFSF13 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "IL-18 , IL-2 and IL-4 may be beneficial for the recovery of COVID-19 patients .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our study provides the first evidence of an inflammatory immune signature in the ERS ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "suggesting that COVID-19 patients are still vulnerable after hospital discharge .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our identification of novel BCR signaling may lead to the development of vaccines and antibodies for the treatment of COVID-19 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "All rights reserved. No reuse allowed without permission. author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "All rights reserved .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "No reuse allowed without permission .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "author/funder , who has granted medRxiv a license to display the preprint in perpetuity .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "-The immune response was sustained for more than 7 days in the early recovery stage of COVID-19, suggesting that COVID-19 patients are still vulnerable after hospital discharge.",
+      "sentences": [
+        [
+          {
+            "segment_text": "- The immune response was sustained for more than 7 days in the early recovery stage of COVID-19 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "suggesting that COVID-19 patients are still vulnerable after hospital discharge .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "-Single-cell analysis revealed a predominant subset of CD14 ++ IL1β + monocytes in patients in the ERS of COVID-19.",
+      "sentences": [
+        [
+          {
+            "segment_text": "- Single-cell analysis revealed a predominant subset of CD14 + + IL1β + monocytes in patients in the ERS of COVID-19 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "-Newly identified virus-specific B cell-receptor changes, such as IGHV3-23, IGHV3-7, IGHV3-15, IGHV3-30, and IGKV3-11, could be helpful in the development of vaccines and antibodies against SARS-CoV-2.",
+      "sentences": [
+        [
+          {
+            "segment_text": "- Newly identified virus-specific B cell-receptor changes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "such as IGHV3-23 , IGHV3-7 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "IGHV3-15 , IGHV3-30 , and IGKV3-11 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "could be helpful in the development of vaccines and antibodies against SARS-CoV-2 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "-IL-1β and M-CSF were discovered as novel mediators of inflammatory cytokine storm, and TNFSF13, IL-2, IL-4, and IL-18 may be beneficial for recovery. All rights reserved. No reuse allowed without permission. author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "- IL-1β and M-CSF were discovered as novel mediators of inflammatory cytokine storm ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and TNFSF13 , IL-2 , IL-4 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and IL-18 may be beneficial for recovery .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "All rights reserved .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "No reuse allowed without permission .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "author/funder , who has granted medRxiv a license to display the preprint in perpetuity .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "6",
+    "sentence_num": "22",
+    "segment_num": "36",
+    "token_num": "469"
+  }
+}

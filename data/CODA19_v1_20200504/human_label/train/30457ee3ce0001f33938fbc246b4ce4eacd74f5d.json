@@ -1,0 +1,477 @@
+{
+  "paper_id": "30457ee3ce0001f33938fbc246b4ce4eacd74f5d",
+  "metadata": {
+    "title": "ZODIAC: database-independent molecular formula annotation using Gibbs sampling reveals unknown small molecules",
+    "coda_data_split": "train",
+    "coda_paper_id": 8432,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The condent high-throughput identication of small molecules remains one of the most challenging tasks in mass spectrometry-based metabolomics. SIRIUS has become a powerful tool for the interpretation of tandem mass spectra, and shows outstanding performance for identifying the molecular formula of a query compound, being the rst step of structure identication. Nevertheless, the identication of both molecular formulas for large compounds above 500 Daltons and novel molecular formulas remains highly challenging. Here, we present ZODIAC, a network-based algorithm for the de novo estimation of molecular formulas. ZODIAC reranks SIRIUS\u0027 molecular formula candidates, combining fragmentation tree computation with Bayesian statistics using Gibbs sampling. Through careful algorithm engineering, ZODIAC\u0027s Gibbs sampling is very swift in practice. ZODIAC decreases incorrect annotations 16.2-fold on a challenging plant extract dataset with most compounds above 700 Dalton; we then show improvements on four additional, diverse datasets. Our analysis led to the discovery of compounds with novel molecular formulas such as C 24 H 47 BrNO 8 P which, as of today, is not present in any publicly available molecular structure databases.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The condent high-throughput identication of small molecules remains one of the most challenging tasks in mass spectrometry-based metabolomics .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "SIRIUS has become a powerful tool for the interpretation of tandem mass spectra ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and shows outstanding performance for identifying the molecular formula of a query compound ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "being the rst step of structure identication .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Nevertheless , the identication of both molecular formulas for large compounds above 500 Daltons and novel molecular formulas remains highly challenging .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we present ZODIAC ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a network-based algorithm for the de novo estimation of molecular formulas .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "ZODIAC reranks SIRIUS \u0027 molecular formula candidates ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "combining fragmentation tree computation with Bayesian statistics using Gibbs sampling .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Through careful algorithm engineering , ZODIAC \u0027s Gibbs sampling is very swift in practice .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "ZODIAC decreases incorrect annotations 16.2-fold on a challenging plant extract dataset with most compounds above 700 Dalton ; we then show improvements on four additional , diverse datasets .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our analysis led to the discovery of compounds with novel molecular formulas such as C 24 H 47 BrNO 8 P which ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as of today , is not present in any publicly available molecular structure databases .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Metabolomics characterizes metabolites with high-throughput techniques. In the past decade, liquid chromatography coupled with tandem mass spectrometry (LC-MS/MS) became widely adopted by the metabolomics community as a powerful and sensitive analytical platform, but yet only a fraction of the detected compounds can be eectively annotated, even partially. In untargeted LC-MS/MS experiments, thousands of metabolites can be detected and fragmented from a single biological sample. The measured fragmentation spectra (MS/MS spectra) are then used to examine the metabolite\u0027s structure. But condent high-throughput annotation of those MS/MS spectra remains highly challenging; this prevents the building of comprehensive knowledge in elds where metabolomics has become central, such as biomedical research, natural products drug discovery 1 , environmental science, and food science. Tandem mass spectrometry data is often searched against spectral libraries 2 ; unfortunately, spectral libraries are of limited size, in particular when it comes to biomolecules 3 . Although public spectral libraries are being expanded, only a fraction of acquired MS/MS spectra can be annotated by spectral library searches 1,46 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Metabolomics characterizes metabolites with high-throughput techniques .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the past decade , liquid chromatography coupled with tandem mass spectrometry ( LC-MS/MS ) became widely adopted by the metabolomics community as a powerful and sensitive analytical platform ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but yet only a fraction of the detected compounds can be eectively annotated , even partially .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In untargeted LC-MS/MS experiments , thousands of metabolites can be detected and fragmented from a single biological sample .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The measured fragmentation spectra ( MS/MS spectra ) are then used to examine the metabolite \u0027s structure .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "But condent high-throughput annotation of those MS/MS spectra remains highly challenging ; this prevents the building of comprehensive knowledge in elds where metabolomics has become central ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as biomedical research , natural products drug discovery 1 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "environmental science , and food science .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Tandem mass spectrometry data is often searched against spectral libraries 2 ; unfortunately ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "spectral libraries are of limited size ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "in particular when it comes to biomolecules 3 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although public spectral libraries are being expanded ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "only a fraction of acquired MS/MS spectra can be annotated by spectral library searches 1,46 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Computational methods have been developed that do not search in spectral libraries but rather in molecular structure databases 7 . Among these methods, CSI:FingerID 8 has repeatedly shown the . doi: bioRxiv preprint 2 Ludwig, Nothias, Dührkop, et al. best performance 912 . One reason for CSI:FingerID\u0027s improved performance is the integration of SIRIUS 10 , deducing the molecular formula of each query as the rst step of its analysis. Other tools lter candidates using the query precursor mass, reducing molecular formula annotation to a byproduct. This worsens identication rates 11 and can result in severe hidden prior problems 13,14 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Computational methods have been developed that do not search in spectral libraries but rather in molecular structure databases 7 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Among these methods , CSI : FingerID 8 has repeatedly shown the .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "doi : bioRxiv preprint 2 Ludwig ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Nothias , Dührkop , et al. best performance 912 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "One reason for CSI : FingerID \u0027s improved performance is the integration of SIRIUS 10 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "deducing the molecular formula of each query as the rst step of its analysis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Other tools lter candidates using the query precursor mass ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "reducing molecular formula annotation to a byproduct .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This worsens identication rates 11 and can result in severe hidden prior problems 13,14 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Identifying the molecular formula is also the very rst step in structural elucidation using Nuclear Magnetic Resonance (NMR) or X-ray crystallography, guiding data interpretation based on atoms and unsaturation degree. The condent annotation of molecular formulas from mass spectrometry data is far from trivial, especially if executed de novo (without a structure database): Here, the number of candidate molecular formula grows rapidly with the compound size and elements beyond CHNOPS. To counter this growth, one can use heuristic constraints 15 or use only molecular formulas from some structure database 16,17 . Restricting the search space will improve the performance of a method in evaluation, but will prevent the discovery of novel molecular formulas in application.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Identifying the molecular formula is also the very rst step in structural elucidation using Nuclear Magnetic Resonance ( NMR ) or X-ray crystallography ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "guiding data interpretation based on atoms and unsaturation degree .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The condent annotation of molecular formulas from mass spectrometry data is far from trivial ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "especially if executed de novo ( without a structure database ) : Here ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the number of candidate molecular formula grows rapidly with the compound size and elements beyond CHNOPS .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To counter this growth , one can use heuristic constraints 15 or use only molecular formulas from some structure database 16,17 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Restricting the search space will improve the performance of a method in evaluation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but will prevent the discovery of novel molecular formulas in application .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Arguably the best-performing computational method for molecular formula annotation is SIRIUS 4 10 , which combines isotope pattern matching 15,1823 and MS/MS fragmentation tree computation 22,2426 . SIRIUS reaches best-of-class performance without ltering or meta-scores 24 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Arguably the best-performing computational method for molecular formula annotation is SIRIUS 4 10 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which combines isotope pattern matching 15,1823 and MS/MS fragmentation tree computation 22,2426 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "SIRIUS reaches best-of-class performance without ltering or meta-scores 24 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "But even SIRIUS has problems annotating molecular formula for compounds above 500 Da:",
+      "sentences": [
+        [
+          {
+            "segment_text": "But even SIRIUS has problems annotating molecular formula for compounds above 500 Da :",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Böcker \u0026 Dührkop 24 found that the percentage of correctly identied molecular formulas dropped substantially for larger masses.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Böcker \u0026 Dührkop 24 found that the percentage of correctly identied molecular formulas dropped substantially for larger masses .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "An alternative approach to annotate molecular formulas for a complete LC-MS run uses Gibbs sampling and Bayesian statistics, utilizing co-occurrence of molecular formulas diering by a predened set of biotransformations 2730 . Implicitly, these approaches try to identify molecular structures (or their isomers) from a restricted structure database, and cannot annotate novel molecular formulas. Network visualization approaches which connect compounds by hypothetical biotransformations and common chemical functional groups have been demonstrated to ease manual molecular formula annotation 31 . Independently, network-based methods were developed for structural elucidation and dereplication 1,32,33 . All of these approaches are based on the fact that compounds in an LC-MS run usually co-occur in a network of derivatives.",
+      "sentences": [
+        [
+          {
+            "segment_text": "An alternative approach to annotate molecular formulas for a complete LC-MS run uses Gibbs sampling and Bayesian statistics ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "utilizing co-occurrence of molecular formulas diering by a predened set of biotransformations 2730 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Implicitly , these approaches try to identify molecular structures ( or their isomers ) from a restricted structure database ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and can not annotate novel molecular formulas .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Network visualization approaches which connect compounds by hypothetical biotransformations and common chemical functional groups have been demonstrated to ease manual molecular formula annotation 31 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Independently , network-based methods were developed for structural elucidation and dereplication 1,32,33 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "All of these approaches are based on the fact that compounds in an LC-MS run usually co-occur in a network of derivatives .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We present ZODIAC (ZODIAC: Organic compound Determination by Integral Assignment of elemental Compositions) for condent, database-independent molecular formula annotation in LC-MS/MS data. ZODIAC takes advantage of the fact that an organism produces related metabolites that are derived from multiple, but limited, biosynthetic pathways. ZODIAC builds upon SIRIUS and uses, say, the top 50 molecular formula annotations from SIRIUS as candidates for one compound. ZODIAC then reranks molecular formula candidates using Bayesian statistics. Prior probabilities are derived from fragmentation tree similarity, which supports reciprocal plausibility within an LC-MS/MS dataset. On the theoretical side, we establish that nding an optimal solution to the resulting computational problem is non-deterministic polynomial time (NP)-hard; to this end, we resort to Gibbs sampling. Using extensive algorithm engineering, Gibbs sampling running times were reduced to a practical level. To boost robustness, ZODIAC can integrate spectral library search hits. We show that ZODIAC improves molecular formula annotation on a diverse set of biological samples. Furthermore, ZODIAC scores allow us to rank molecular formula annotations by condence. ZODIAC is not limited to molecular formulas from some structure database, allowing us to discover novel molecular formulas not present in any structural databases.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We present ZODIAC ( ZODIAC : Organic compound Determination by Integral Assignment of elemental Compositions ) for condent ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "database-independent molecular formula annotation in LC-MS/MS data .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "ZODIAC takes advantage of the fact that an organism produces related metabolites that are derived from multiple ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but limited , biosynthetic pathways .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "ZODIAC builds upon SIRIUS and uses ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "say , the top 50 molecular formula annotations from SIRIUS as candidates for one compound .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "ZODIAC then reranks molecular formula candidates using Bayesian statistics .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Prior probabilities are derived from fragmentation tree similarity ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which supports reciprocal plausibility within an LC-MS/MS dataset .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "On the theoretical side , we establish that nding an optimal solution to the resulting computational problem is non-deterministic polynomial time ( NP ) - hard ; to this end ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we resort to Gibbs sampling .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using extensive algorithm engineering , Gibbs sampling running times were reduced to a practical level .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "To boost robustness , ZODIAC can integrate spectral library search hits .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We show that ZODIAC improves molecular formula annotation on a diverse set of biological samples .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , ZODIAC scores allow us to rank molecular formula annotations by condence .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "ZODIAC is not limited to molecular formulas from some structure database ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "allowing us to discover novel molecular formulas not present in any structural databases .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "ZODIAC was evaluated on ve diverse datasets representing samples from plants, human plasma, marine microalgae and mice fecal sample, see Supplementary Table 1, 5 and 6 and Supplementary",
+      "sentences": [
+        [
+          {
+            "segment_text": "ZODIAC was evaluated on ve diverse datasets representing samples from plants ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "human plasma , marine microalgae and mice fecal sample ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "see Supplementary Table 1 , 5 and 6 and Supplementary",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Fig. 6. Input mzML/mzXML les were processed with OpenMS 34 and low-quality MS/MS spectra .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Fig. 6 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Input mzML/mzXML les were processed with OpenMS 34 and low-quality MS/MS spectra .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "11",
+    "sentence_num": "48",
+    "segment_num": "77",
+    "token_num": "1091"
+  }
+}

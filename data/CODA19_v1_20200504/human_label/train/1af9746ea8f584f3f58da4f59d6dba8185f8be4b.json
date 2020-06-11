@@ -1,0 +1,396 @@
+{
+  "paper_id": "1af9746ea8f584f3f58da4f59d6dba8185f8be4b",
+  "metadata": {
+    "title": "Building Ventilation as an Effective Disease Intervention Strategy in a Dense Indoor Contact Network in an Ideal City",
+    "coda_data_split": "train",
+    "coda_paper_id": 3492,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Emerging diseases may spread rapidly through dense and large urban contact networks, especially they are transmitted by the airborne route, before new vaccines can be made available. Airborne diseases may spread rapidly as people visit different indoor environments and are in frequent contact with others. We constructed a simple indoor contact model for an ideal city with 7 million people and 3 million indoor spaces, and estimated the probability and duration of contact between any two individuals during one day. To do this, we used data from actual censuses, social behavior surveys, building surveys, and ventilation measurements in Hong Kong to define eight population groups and seven indoor location groups. Our indoor contact model was integrated with an existing epidemiological Susceptible, Exposed, Infectious, and Recovered (SEIR) model to estimate disease spread and with the Wells-Riley equation to calculate local infection risks, resulting in an integrated indoor transmission network model. This model was used to estimate the probability of an infected individual infecting others in the city and to study the disease transmission dynamics. We predicted the infection probability of each sub-population under different ventilation systems in each location type in the case of a hypothetical airborne disease outbreak, which is assumed to have the same natural history and infectiousness as smallpox. We compared the effectiveness of controlling ventilation in each location type with other intervention strategies. We conclude that increasing building ventilation rates using methods such as natural ventilation in classrooms, offices, and homes is a relatively effective strategy for airborne diseases in a large city.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Emerging diseases may spread rapidly through dense and large urban contact networks ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "especially they are transmitted by the airborne route ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "before new vaccines can be made available .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Airborne diseases may spread rapidly as people visit different indoor environments and are in frequent contact with others .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We constructed a simple indoor contact model for an ideal city with 7 million people and 3 million indoor spaces ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and estimated the probability and duration of contact between any two individuals during one day .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "To do this , we used data from actual censuses ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "social behavior surveys , building surveys ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and ventilation measurements in Hong Kong to define eight population groups and seven indoor location groups .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our indoor contact model was integrated with an existing epidemiological Susceptible ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "Exposed , Infectious , and Recovered ( SEIR ) model to estimate disease spread and with the Wells-Riley equation to calculate local infection risks ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "resulting in an integrated indoor transmission network model .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This model was used to estimate the probability of an infected individual infecting others in the city and to study the disease transmission dynamics .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We predicted the infection probability of each sub-population under different ventilation systems in each location type in the case of a hypothetical airborne disease outbreak ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which is assumed to have the same natural history and infectiousness as smallpox .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We compared the effectiveness of controlling ventilation in each location type with other intervention strategies .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We conclude that increasing building ventilation rates using methods such as natural ventilation in classrooms ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "offices , and homes is a relatively effective strategy for airborne diseases in a large city .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "population density and a more connected world, new or non-vaccinable respiratory infectious diseases [2], especially airborne diseases [3] [4] [5] , can be widely and rapidly transmitted.",
+      "sentences": [
+        [
+          {
+            "segment_text": "population density and a more connected world ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "new or non-vaccinable respiratory infectious diseases ( 2 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "especially airborne diseases ( 3 ) ( 4 ) ( 5 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "can be widely and rapidly transmitted .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Many interventions for controlling airborne disease transmission have been studied, such as masks, hand hygiene, isolation, quarantine, vaccination, school closure, etc. [6, 7] . Building ventilation is known to be effective for reducing the spread of airborne diseases such as tuberculosis, SARS, smallpox, chicken pox, and influenza in single indoor environments [8-12], but has not been studied at the community level. Ventilation intervention decreases transmission probability by directing the flow of airborne infectious agents away from susceptible persons and/or by removing infectious agents from room air. Because it relies less on individual compliance, ventilation has an advantage over other non-pharmaceutical interventions (e.g., hand washing or mask use). But questions remain. Is ventilation as effective at the community level as other interventions?",
+      "sentences": [
+        [
+          {
+            "segment_text": "Many interventions for controlling airborne disease transmission have been studied ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as masks , hand hygiene ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "isolation , quarantine , vaccination ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "school closure , etc. ( 6 , 7 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Building ventilation is known to be effective for reducing the spread of airborne diseases such as tuberculosis ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "SARS , smallpox , chicken pox ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and influenza in single indoor environments ( 8-12 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but has not been studied at the community level .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Ventilation intervention decreases transmission probability by directing the flow of airborne infectious agents away from susceptible persons and/or by removing infectious agents from room air .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Because it relies less on individual compliance ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "ventilation has an advantage over other non-pharmaceutical interventions ( e.g. , hand washing or mask use ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "But questions remain .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Is ventilation as effective at the community level as other interventions ?",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Airborne infection, if any, occurs predominantly in indoor environments, where people in modern society spend more than 90% of their time [13] . An individual infected in one building may infect others in the building(s) that he/she subsequently visits. People move from one indoor environment to another, and are in frequent contact with others, creating an indoor contact network in which an airborne disease can spread. To study ventilation as a community-level intervention, the disease spread dynamics must be ideally modeled at the individual person and location level for an entire urban social network [14] . Many widely used social contact network models, such as a random network [15] or a small world network [16, 17] , may be too simplistic to describe the complicated dynamic between individuals and indoor environments. Environment parameters such as ventilation cannot be considered in these models, as in these models location is not refined to the individual indoor-space level. More recently, Eubank and colleagues [18, 19] developed a location-based social network model. However, the resources for building a realistic urban network in a large city are generally not available.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Airborne infection , if any ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "occurs predominantly in indoor environments ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "where people in modern society spend more than 90 % of their time ( 13 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "An individual infected in one building may infect others in the building ( s ) that he/she subsequently visits .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "People move from one indoor environment to another ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and are in frequent contact with others ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "creating an indoor contact network in which an airborne disease can spread .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To study ventilation as a community-level intervention ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the disease spread dynamics must be ideally modeled at the individual person and location level for an entire urban social network ( 14 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Many widely used social contact network models ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as a random network ( 15 ) or a small world network ( 16 , 17 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "may be too simplistic to describe the complicated dynamic between individuals and indoor environments .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Environment parameters such as ventilation can not be considered in these models ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as in these models location is not refined to the individual indoor-space level .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "More recently , Eubank and colleagues ( 18 , 19 ) developed a location-based social network model .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the resources for building a realistic urban network in a large city are generally not available .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "One of the significant limitations on the simulation of an indoor-contact network at the community level is computational power. In a large city such as Hong Kong, there are around 7 million people (N P ) and an estimated 3 million indoor locations (N L , as a building can have many indoor locations). Ideally, we need to know the probability and duration of any two people meeting in any one indoor space in Hong Kong at any time. That is, we need to know \"Who meets whom, where, when, and for how long. \" Clearly, to model a large city there is need for a fast algorithm and huge computer storage capacity. The computer storage requirement can be formidably large; it is proportional to the cubic of the population (N 3 P ), assuming that the indoor space population is at the same order of population as in Hong Kong. It is thus unrealistic to trace every individual on an hourly scale in a large city, i.e., when and where each person enters and leaves a room.",
+      "sentences": [
+        [
+          {
+            "segment_text": "One of the significant limitations on the simulation of an indoor-contact network at the community level is computational power .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In a large city such as Hong Kong ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "there are around 7 million people ( N P ) and an estimated 3 million indoor locations ( N L , as a building can have many indoor locations ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Ideally , we need to know the probability and duration of any two people meeting in any one indoor space in Hong Kong at any time .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "That is , we need to know `` Who meets whom ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "where , when , and for how long . \u0027\u0027",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Clearly , to model a large city there is need for a fast algorithm and huge computer storage capacity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The computer storage requirement can be formidably large ; it is proportional to the cubic of the population ( N 3 P ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "assuming that the indoor space population is at the same order of population as in Hong Kong .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is thus unrealistic to trace every individual on an hourly scale in a large city ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "i.e. , when and where each person enters and leaves a room .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Consequently, we constructed a probability indoor contact model for an ideal city using real Hong Kong data with a linear memory requirement. Our model used the available data on population, buildings, and indoor spaces; the probability of people visiting each location type; ventilation rates; etc. Then, we developed a probability urban airborne transmission model by integrating the indoor contact network model with both the SEIR model for the spread of community diseases and the Wells-Riley equation for local infection risks. The transmission dynamics of a hypothetical airborne disease outbreak was studied and the effectiveness of different interventions such as isolation, home isolation, and increasing ventilation were evaluated and compared. In this feasibility study, we assumed that this hypothetical airborne disease has the same natural history and infectiousness as smallpox with no pre-existing immunity in the population.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Consequently , we constructed a probability indoor contact model for an ideal city using real Hong Kong data with a linear memory requirement .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our model used the available data on population ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "buildings , and indoor spaces ; the probability of people visiting each location type ; ventilation rates ; etc. .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Then , we developed a probability urban airborne transmission model by integrating the indoor contact network model with both the SEIR model for the spread of community diseases and the Wells-Riley equation for local infection risks .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The transmission dynamics of a hypothetical airborne disease outbreak was studied and the effectiveness of different interventions such as isolation ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "home isolation , and increasing ventilation were evaluated and compared .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this feasibility study , we assumed that this hypothetical airborne disease has the same natural history and infectiousness as smallpox with no pre-existing immunity in the population .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "6",
+    "sentence_num": "36",
+    "segment_num": "69",
+    "token_num": "1036"
+  }
+}

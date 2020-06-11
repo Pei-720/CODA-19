@@ -1,0 +1,124 @@
+{
+  "paper_id": "d486d51868e8d420880e5f21ae906a5150642763",
+  "metadata": {
+    "title": "Bayesian inference of transmission chains using timing of symptoms, pathogen genomes and contact data",
+    "coda_data_split": "train",
+    "coda_paper_id": 9682,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "There exists significant interest in developing statistical and computational tools for inferring \u0027who infected whom\u0027 in an infectious disease outbreak from densely sampled case data, with most recent studies focusing on the analysis of whole genome sequence data. However, genomic data can be poorly informative of transmission events if mutations accumulate too slowly to resolve individual transmission pairs or if there exist multiple pathogens lineages within-host, and there has been little focus on incorporating other types of outbreak data. We present here a methodology that uses contact data for the inference of transmission trees in a statistically rigorous manner, alongside genomic data and temporal data. Contact data is frequently collected in outbreaks of pathogens spread by close contact, including Ebola virus (EBOV), severe acute respiratory syndrome coronavirus (SARS-CoV) and Mycobacterium tuberculosis (TB), and routinely used to reconstruct transmission chains. As an improvement over previous, ad-hoc approaches, we developed a probabilistic model that relates a set of contact data to an underlying transmission tree and integrated this in the outbreaker2 inference framework. By analyzing simulated outbreaks under various contact tracing scenarios, we demonstrate that contact data significantly improves our ability to reconstruct transmission trees, even under realistic limitations on the coverage of the contact tracing effort and the amount of non-infectious mixing between cases. Indeed, contact data is equally or more informative than fully sampled whole genome sequence data in certain scenarios. We then use our method to analyze the early stages of the 2003 SARS outbreak in Singapore and describe the range of transmission scenarios consistent with contact data and genetic sequence in a probabilistic manner for the first time. This simple yet flexible model can easily be incorporated into existing tools for outbreak reconstruction and should permit a better integration of genomic and epidemiological data for inferring transmission chains.",
+      "sentences": [
+        [
+          {
+            "segment_text": "There exists significant interest in developing statistical and computational tools for inferring ` who infected whom \u0027 in an infectious disease outbreak from densely sampled case data ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with most recent studies focusing on the analysis of whole genome sequence data .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , genomic data can be poorly informative of transmission events if mutations accumulate too slowly to resolve individual transmission pairs or if there exist multiple pathogens lineages within-host ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and there has been little focus on incorporating other types of outbreak data .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We present here a methodology that uses contact data for the inference of transmission trees in a statistically rigorous manner ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "alongside genomic data and temporal data .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Contact data is frequently collected in outbreaks of pathogens spread by close contact ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "including Ebola virus ( EBOV ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "severe acute respiratory syndrome coronavirus ( SARS-CoV ) and Mycobacterium tuberculosis ( TB ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and routinely used to reconstruct transmission chains .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "As an improvement over previous ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "ad-hoc approaches , we developed a probabilistic model that relates a set of contact data to an underlying transmission tree and integrated this in the outbreaker2 inference framework .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "By analyzing simulated outbreaks under various contact tracing scenarios ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we demonstrate that contact data significantly improves our ability to reconstruct transmission trees ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "even under realistic limitations on the coverage of the contact tracing effort and the amount of non-infectious mixing between cases .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Indeed , contact data is equally or more informative than fully sampled whole genome sequence data in certain scenarios .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We then use our method to analyze the early stages of the 2003 SARS outbreak in Singapore and describe the range of transmission scenarios consistent with contact data and genetic sequence in a probabilistic manner for the first time .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This simple yet flexible model can easily be incorporated into existing tools for outbreak reconstruction and should permit a better integration of genomic and epidemiological data for inferring transmission chains .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "PLOS Computational Biology | https://doi.",
+      "sentences": [
+        [
+          {
+            "segment_text": "PLOS Computational Biology | https://doi .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "10",
+    "segment_num": "19",
+    "token_num": "335"
+  }
+}

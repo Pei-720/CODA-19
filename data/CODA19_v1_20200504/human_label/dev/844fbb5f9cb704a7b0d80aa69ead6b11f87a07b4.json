@@ -1,0 +1,222 @@
+{
+  "paper_id": "844fbb5f9cb704a7b0d80aa69ead6b11f87a07b4",
+  "metadata": {
+    "title": "Supported by the National Institutes of Health (grants NS 18146 to S.A.S. and NS 25304 to",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1742,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "ing in the cell that synthesizes and maintains the myelin sheath, we analyzed JHMV pathogenesis in transgenic mice expressing a dominant-negative IFN-␥ receptor on oligodendroglia. Defective IFN-␥ signaling was associated with enhanced oligodendroglial tropism and delayed virus clearance. However, the CNS inflammatory cell composition and CD8 ؉ T-cell effector functions were similar between transgenic and wild-type mice, supporting unimpaired peripheral and CNS immune responses in transgenic mice. Surprisingly, increased viral load in oligodendroglia did not affect the extent of myelin loss, the frequency of oligodendroglial apoptosis, or CNS recruitment of macrophages. These data demonstrate that IFN-␥ receptor signaling is critical for the control of JHMV replication in oligodendroglia. In addition, the absence of a correlation between increased oligodendroglial infection and the extent of demyelination suggests a complex pathobiology of myelin loss in which infection of oligodendroglia is required but not sufficient. (Am J Pathol 2006, 168:796 -804; DOI: 10.2353/ajpath.2006.050496)",
+      "sentences": [
+        [
+          {
+            "segment_text": "ing in the cell that synthesizes and maintains the myelin sheath ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we analyzed JHMV pathogenesis in transgenic mice expressing a dominant-negative IFN - ␥ receptor on oligodendroglia .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Defective IFN - ␥ signaling was associated with enhanced oligodendroglial tropism and delayed virus clearance .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the CNS inflammatory cell composition and CD8 ؉ T-cell effector functions were similar between transgenic and wild-type mice ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "supporting unimpaired peripheral and CNS immune responses in transgenic mice .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Surprisingly , increased viral load in oligodendroglia did not affect the extent of myelin loss ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the frequency of oligodendroglial apoptosis ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "or CNS recruitment of macrophages .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These data demonstrate that IFN - ␥ receptor signaling is critical for the control of JHMV replication in oligodendroglia .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , the absence of a correlation between increased oligodendroglial infection and the extent of demyelination suggests a complex pathobiology of myelin loss in which infection of oligodendroglia is required but not sufficient .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( Am J Pathol 2006 , 168:796 -804 ; DOI : 10.2353 / ajpath .2006.050496 )",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The central nervous system (CNS), which is composed of highly specialized cells with limited renewal capacity, is the target of many viral infections. 1,2 Although the host immune response to viral CNS infections is often effective at limiting acute disease, it can also contribute to immunopathology. 3 The definition of immune effector mechanisms that control virus replication within specific subsets of CNS cells has been facilitated by analysis of models differing in cellular tropism. For example, viruses that preferentially infect and/or persist in neurons are generally controlled by noncytolytic effector strategies, including neutralizing antibodies (Ab) and interferon-␥ (IFN-␥). 2 By contrast, acute lymphocytic choriomeningitis virus infection, which results in inflammation of the choroid plexus and meninges, is controlled by CD8 ϩ T cells that use perforin-dependent cytolysis. 3,4 However, during chronic lymphocytic choriomeningitis virus infection in which virus persists predominantly in neurons, cytolytic CD8 ϩ T-cell mechanisms are ineffective with recovery mediated by Ab and cytokines. 5,6 The neurotropic coronavirus, mouse hepatitis virus (MHV) strain JHM (JHMV), induces an acute encephalomyelitis associated with myelin loss; however, an insufficient immune response results in viral persistence. 7,8 JHMV initially infects ependymal cells, but as infection progresses it becomes polytropic and infects astrocytes, microglia, and macrophages. 8 As infection enters the white matter, oligodendroglia are primary targets of JHMV replication. 8 A concerted immune response, involving cellular and humoral effector mechanisms, controls acute and chronic JHMV infection. 7,9 -11 JHMV infection induces CNS recruitment of inflammatory cells comprising components of both the innate and adaptive immune responses. Virus-specific CD4 ϩ and CD8 ϩ T cells are both present within the inflamed CNS. 9 However, CD8 ϩ T cells are directly associated with the control of infectious virus. 9,10 By contrast CD4 ϩ T cells appear to play an auxiliary role by promoting CD8 ϩ T cell expansion and survival 12 and",
+      "sentences": [
+        [
+          {
+            "segment_text": "The central nervous system ( CNS ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which is composed of highly specialized cells with limited renewal capacity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "is the target of many viral infections .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "1,2 Although the host immune response to viral CNS infections is often effective at limiting acute disease ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "it can also contribute to immunopathology .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "3 The definition of immune effector mechanisms that control virus replication within specific subsets of CNS cells has been facilitated by analysis of models differing in cellular tropism .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "For example , viruses that preferentially infect and/or persist in neurons are generally controlled by noncytolytic effector strategies ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including neutralizing antibodies ( Ab ) and interferon - ␥ ( IFN - ␥ ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "2 By contrast , acute lymphocytic choriomeningitis virus infection ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which results in inflammation of the choroid plexus and meninges ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "is controlled by CD8 ϩ T cells that use perforin-dependent cytolysis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "3,4 However , during chronic lymphocytic choriomeningitis virus infection in which virus persists predominantly in neurons ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "cytolytic CD8 ϩ T-cell mechanisms are ineffective with recovery mediated by Ab and cytokines .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "5,6 The neurotropic coronavirus , mouse hepatitis virus ( MHV ) strain JHM ( JHMV ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "induces an acute encephalomyelitis associated with myelin loss ; however ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "an insufficient immune response results in viral persistence .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "7,8 JHMV initially infects ependymal cells ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but as infection progresses it becomes polytropic and infects astrocytes , microglia , and macrophages .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "8 As infection enters the white matter ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "oligodendroglia are primary targets of JHMV replication .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "8 A concerted immune response ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "involving cellular and humoral effector mechanisms ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "controls acute and chronic JHMV infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "7,9 -11 JHMV infection induces CNS recruitment of inflammatory cells comprising components of both the innate and adaptive immune responses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Virus-specific CD4 ϩ and CD8 ϩ T cells are both present within the inflamed CNS .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "9 However , CD8 ϩ T cells are directly associated with the control of infectious virus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "9,10 By contrast CD4 ϩ T cells appear to play an auxiliary role by promoting CD8 ϩ T cell expansion and survival 12 and",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "21",
+    "segment_num": "38",
+    "token_num": "532"
+  }
+}

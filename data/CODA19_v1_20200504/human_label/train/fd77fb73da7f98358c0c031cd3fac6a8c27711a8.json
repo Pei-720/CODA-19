@@ -1,0 +1,145 @@
+{
+  "paper_id": "fd77fb73da7f98358c0c031cd3fac6a8c27711a8",
+  "metadata": {
+    "title": "Spatial and temporal epidemiological analysis in the Big Data era",
+    "coda_data_split": "train",
+    "coda_paper_id": 6552,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Concurrent with global economic development in the last 50 years, the opportunities for the spread of existing diseases and emergence of new infectious pathogens, have increased substantially. The activities associated with the enormously intensified global connectivity have resulted in large amounts of data being generated, which in turn provides opportunities for generating knowledge that will allow more effective management of animal and human health risks. This so-called Big Data has, more recently, been accompanied by the Internet of Things which highlights the increasing presence of a wide range of sensors, interconnected via the Internet. Analysis of this data needs to exploit its complexity, accommodate variation in data quality and should take advantage of its spatial and temporal dimensions, where available. Apart from the development of hardware technologies and networking/communication infrastructure, it is necessary to develop appropriate data management tools that make this data accessible for analysis. This includes relational databases, geographical information systems and most recently, cloud-based data storage such as Hadoop distributed file systems. While the development in analytical methodologies has not quite caught up with the data deluge, important advances have been made in a number of areas, including spatial and temporal data analysis where the spectrum of analytical methods ranges from visualisation and exploratory analysis, to modelling. While there used to be a primary focus on statistical science in terms of methodological development for data analysis, the newly emerged discipline of data science is a reflection of the challenges presented by the need to integrate diverse data sources and exploit them using novel data-and knowledge-driven modelling methods while simultaneously recognising the value of quantitative as well as qualitative analytical approaches. Machine learning regression methods, which are more robust and can handle large datasets faster than classical regression approaches, are now also used to analyse spatial and spatio-temporal data. Multi-criteria decision analysis methods have gained greater acceptance, due in part, to the need to increasingly combine data from diverse sources including published scientific information and expert opinion in an attempt to fill important knowledge gaps. The opportunities for more effective prevention, detection and control of animal health threats arising from these developments are immense, but not without risks given the different types, and much higher frequency, of biases associated with these data.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Concurrent with global economic development in the last 50 years ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the opportunities for the spread of existing diseases and emergence of new infectious pathogens , have increased substantially .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The activities associated with the enormously intensified global connectivity have resulted in large amounts of data being generated ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which in turn provides opportunities for generating knowledge that will allow more effective management of animal and human health risks .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This so-called Big Data has ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "more recently , been accompanied by the Internet of Things which highlights the increasing presence of a wide range of sensors , interconnected via the Internet .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Analysis of this data needs to exploit its complexity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "accommodate variation in data quality and should take advantage of its spatial and temporal dimensions , where available .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Apart from the development of hardware technologies and networking/communication infrastructure ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "it is necessary to develop appropriate data management tools that make this data accessible for analysis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This includes relational databases , geographical information systems and most recently ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "cloud-based data storage such as Hadoop distributed file systems .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "While the development in analytical methodologies has not quite caught up with the data deluge ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "important advances have been made in a number of areas ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including spatial and temporal data analysis where the spectrum of analytical methods ranges from visualisation and exploratory analysis , to modelling .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "While there used to be a primary focus on statistical science in terms of methodological development for data analysis ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the newly emerged discipline of data science is a reflection of the challenges presented by the need to integrate diverse data sources and exploit them using novel data-and knowledge-driven modelling methods while simultaneously recognising the value of quantitative as well as qualitative analytical approaches .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Machine learning regression methods , which are more robust and can handle large datasets faster than classical regression approaches ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "are now also used to analyse spatial and spatio-temporal data .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Multi-criteria decision analysis methods have gained greater acceptance ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "due in part , to the need to increasingly combine data from diverse sources including published scientific information and expert opinion in an attempt to fill important knowledge gaps .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The opportunities for more effective prevention ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "detection and control of animal health threats arising from these developments are immense ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but not without risks given the different types ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and much higher frequency , of biases associated with these data .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "11",
+    "segment_num": "25",
+    "token_num": "408"
+  }
+}

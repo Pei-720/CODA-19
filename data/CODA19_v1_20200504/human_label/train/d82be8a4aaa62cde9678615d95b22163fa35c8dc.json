@@ -1,0 +1,73 @@
+{
+  "paper_id": "d82be8a4aaa62cde9678615d95b22163fa35c8dc",
+  "metadata": {
+    "title": "Fatal Primary Human Bocavirus Pneumonia in an Immunocompetent Adult",
+    "coda_data_split": "train",
+    "coda_paper_id": 8446,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "A 70-year-old woman was admitted to our hospital for dyspnea and a fever of 2 weeks duration. Chest imaging showed bilateral infiltration, and a rapid diagnostic test for influenza virus, Mycoplasma pneumoniae, Streptococcus pneumoniae, and Legionella spp. was negative. She was intubated and mechanically ventilated and underwent bronchoalveolar lavage. Bronchoalveolar lavage fluid yielded no significant pathogens, and the multiplex polymerase chain reaction test was positive only for human bocavirus. Specific antibodies against significant pathogens were not increased in paired sera, so we diagnosed her with primary human bocavirus pneumonia.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A 70-year-old woman was admitted to our hospital for dyspnea and a fever of 2 weeks duration .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Chest imaging showed bilateral infiltration ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and a rapid diagnostic test for influenza virus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Mycoplasma pneumoniae , Streptococcus pneumoniae ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and Legionella spp. was negative .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "She was intubated and mechanically ventilated and underwent bronchoalveolar lavage .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Bronchoalveolar lavage fluid yielded no significant pathogens ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the multiplex polymerase chain reaction test was positive only for human bocavirus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Specific antibodies against significant pathogens were not increased in paired sera ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "so we diagnosed her with primary human bocavirus pneumonia .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "10",
+    "token_num": "100"
+  }
+}

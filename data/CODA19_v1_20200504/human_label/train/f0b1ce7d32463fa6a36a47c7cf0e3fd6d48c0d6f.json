@@ -1,0 +1,85 @@
+{
+  "paper_id": "f0b1ce7d32463fa6a36a47c7cf0e3fd6d48c0d6f",
+  "metadata": {
+    "title": "siRNAs targeting terminal sequences of the SARS-associated coronavirus membrane gene inhibit M protein expression through degradation of M mRNA",
+    "coda_data_split": "train",
+    "coda_paper_id": 2603,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "SARS-associated coronavirus (SCoV) M protein plays a key role in viral assembly and budding. Recent studies revealed that M protein could interact with N protein in the Golgi complex. In this study, we showed that SCoV M protein co-localized in the Golgi apparatus with a Golgi vector marker. To study M protein function, three candidate small interfering RNAs (siRNAs) corresponding to M gene sequences were designed, transcribed in vitro, and then tested for their ability to silence M protein expression. The plasmid, pEGFP-M, encoding SCoV M protein as a fusion protein with EGFP, was used for silencing and for reporter gene detection in HEK 293T cells transfected with siRNA constructs. The results showed that the mean green fluorescence intensity and M RNA transcripts were significantly reduced, and that the expression of M glycoprotein was strongly inhibited in those cells co-transfected with M-specific siRNAs. These findings demonstrated that the three M-specific siRNAs were able to specifically and effectively inhibit M glycoprotein expression in cultured cells by blocking the accumulation of mRNA, which provides an approach for studies on the functions of M protein and for the development of novel prophylactic or therapeutic agents for SCoV infection.",
+      "sentences": [
+        [
+          {
+            "segment_text": "SARS-associated coronavirus ( SCoV ) M protein plays a key role in viral assembly and budding .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recent studies revealed that M protein could interact with N protein in the Golgi complex .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we showed that SCoV M protein co-localized in the Golgi apparatus with a Golgi vector marker .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "To study M protein function ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "three candidate small interfering RNAs ( siRNAs ) corresponding to M gene sequences were designed ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "transcribed in vitro , and then tested for their ability to silence M protein expression .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The plasmid , pEGFP-M , encoding SCoV M protein as a fusion protein with EGFP ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "was used for silencing and for reporter gene detection in HEK 293T cells transfected with siRNA constructs .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results showed that the mean green fluorescence intensity and M RNA transcripts were significantly reduced ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and that the expression of M glycoprotein was strongly inhibited in those cells co-transfected with M-specific siRNAs .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These findings demonstrated that the three M-specific siRNAs were able to specifically and effectively inhibit M glycoprotein expression in cultured cells by blocking the accumulation of mRNA ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which provides an approach for studies on the functions of M protein and for the development of novel prophylactic or therapeutic agents for SCoV infection .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "12",
+    "token_num": "215"
+  }
+}

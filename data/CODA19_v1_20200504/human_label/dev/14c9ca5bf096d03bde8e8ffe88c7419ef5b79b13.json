@@ -1,0 +1,71 @@
+{
+  "paper_id": "14c9ca5bf096d03bde8e8ffe88c7419ef5b79b13",
+  "metadata": {
+    "title": "KnotInFrame: prediction of À1 ribosomal frameshift events",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1399,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Programmed À1 ribosomal frameshift (À1 PRF) allows for alternative reading frames within one mRNA. First found in several viruses, it is now believed to exist in all kingdoms of life. Strong stimulators for À1 PRF are a heptameric slippery site and an RNA pseudoknot. Here, we present a new algorithm KnotInFrame, for the automatic detection of À1 PRF signals from genomic sequences. It finds the frameshifting stimulators by means of a specialized RNA-pseudoknot folding program, fast enough for genome-wide analyses. Evaluations on known À1 PRF signals demonstrate a high sensitivity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Programmed À1 ribosomal frameshift ( À1 PRF ) allows for alternative reading frames within one mRNA .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "First found in several viruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "it is now believed to exist in all kingdoms of life .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Strong stimulators for À1 PRF are a heptameric slippery site and an RNA pseudoknot .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we present a new algorithm KnotInFrame ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "for the automatic detection of À1 PRF signals from genomic sequences .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It finds the frameshifting stimulators by means of a specialized RNA-pseudoknot folding program ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "fast enough for genome-wide analyses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Evaluations on known À1 PRF signals demonstrate a high sensitivity .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "9",
+    "token_num": "102"
+  }
+}

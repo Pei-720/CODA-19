@@ -1,0 +1,53 @@
+{
+  "paper_id": "8213acea5f1a592dae49adae07380fea8203910d",
+  "metadata": {
+    "title": "Predicting the number of reported and unreported cases for the COVID-19 epidemic in",
+    "coda_data_split": "train",
+    "coda_paper_id": 3914,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "We model the COVID-19 coronavirus epidemic in South Korea, Italy, France, and Germany. We use early reported case data to predict the cumulative number of reported cases to a final size. The key features of our model are the timing of implementation of major public policies restricting social movement, the identification and isolation of unreported cases, and the impact of asymptomatic infectious cases.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We model the COVID-19 coronavirus epidemic in South Korea ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Italy , France , and Germany .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We use early reported case data to predict the cumulative number of reported cases to a final size .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The key features of our model are the timing of implementation of major public policies restricting social movement ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the identification and isolation of unreported cases ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and the impact of asymptomatic infectious cases .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "3",
+    "segment_num": "6",
+    "token_num": "71"
+  }
+}

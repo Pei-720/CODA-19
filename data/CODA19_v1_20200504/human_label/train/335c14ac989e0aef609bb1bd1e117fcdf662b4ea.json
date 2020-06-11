@@ -1,0 +1,49 @@
+{
+  "paper_id": "335c14ac989e0aef609bb1bd1e117fcdf662b4ea",
+  "metadata": {
+    "title": "Isolation and identification of human coronavirus 229E from frequently touched environmental surfaces of a university classroom that is cleaned daily",
+    "coda_data_split": "train",
+    "coda_paper_id": 6200,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Frequently touched surfaces of a university classroom that is cleaned daily contained viable human coronavirus 229E (CoV-229E). Tests of a CoV-229E laboratory strain under conditions that simulated the ambient light, temperature, and relative humidity conditions of the classroom revealed that some of the virus remained viable on various surfaces for 7 days, suggesting CoV-229E is relatively stable in the environment. Our findings reinforce the notion that contact transmission may be possible for this virus.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Frequently touched surfaces of a university classroom that is cleaned daily contained viable human coronavirus 229E ( CoV-229E ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Tests of a CoV-229E laboratory strain under conditions that simulated the ambient light ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "temperature , and relative humidity conditions of the classroom revealed that some of the virus remained viable on various surfaces for 7 days ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "suggesting CoV-229E is relatively stable in the environment .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our findings reinforce the notion that contact transmission may be possible for this virus .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "3",
+    "segment_num": "5",
+    "token_num": "82"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "paper_id": "f7778201dec1d1cf942577562819fa9841b1db50",
+  "metadata": {
+    "title": "376 APACHE \u003d Acute Physiology and Chronic Health Evaluation; ED \u003d emergency department; GCS \u003d Glasgow Come Scale; ICU \u003d intensive care unit; MEDS \u003d Mortality in Emergency Department Sepsis Score; MEES \u003d Mainz Emergency Evaluation Systems; MODS \u003d Multiple Organ Dysfunc- tion Score; RAPS \u003d Rapid Acute Physiology Score; REMS \u003d Rapid Emergency Medicine Score; ROC \u003d receiver operating characteristic; SAPS \u003d Simplified Acute Physiology Score; SARS \u003d severe acute respiratory syndrome; SIRS \u003d systemic inflammatory response syndrome; TISS \u003d Thera- peutic Intervention Scoring System; TRISS \u003d Trauma and Injury Severity Score. Bench-to-bedside review: Outcome predictions for critically ill patients in the emergency department",
+    "coda_data_split": "train",
+    "coda_paper_id": 3692,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The escalating number of emergency department (ED) visits, length of stay, and hospital overcrowding have been associated with an increasing number of critically ill patients cared for in the ED. Existing physiologic scoring systems have traditionally been used for outcome prediction, clinical research, quality of care analysis, and benchmarking in the intensive care unit (ICU) environment. However, there is limited experience with scoring systems in the ED, while early and aggressive intervention in critically ill patients in the ED is becoming increasingly important. Development and implementation of physiologic scoring systems specific to this setting is potentially useful in the early recognition and prognostication of illness severity. A few existing ICU physiologic scoring systems have been applied in the ED, with some success. Other ED specific scoring systems have been developed for various applications: recognition of patients at risk for infection; prediction of mortality after critical care transport; prediction of in-hospital mortality after admission; assessment of prehospital therapeutic efficacy; screening for severe acute respiratory syndrome; and prediction of pediatric hospital admission. Further efforts at developing unique physiologic assessment methodologies for use in the ED will improve quality of patient care, aid in resource allocation, improve prognostic accuracy, and objectively measure the impact of early intervention in the ED.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The escalating number of emergency department ( ED ) visits ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "length of stay , and hospital overcrowding have been associated with an increasing number of critically ill patients cared for in the ED .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Existing physiologic scoring systems have traditionally been used for outcome prediction ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "clinical research , quality of care analysis ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and benchmarking in the intensive care unit ( ICU ) environment .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , there is limited experience with scoring systems in the ED ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "while early and aggressive intervention in critically ill patients in the ED is becoming increasingly important .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Development and implementation of physiologic scoring systems specific to this setting is potentially useful in the early recognition and prognostication of illness severity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A few existing ICU physiologic scoring systems have been applied in the ED , with some success .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Other ED specific scoring systems have been developed for various applications : recognition of patients at risk for infection ; prediction of mortality after critical care transport ; prediction of in-hospital mortality after admission ; assessment of prehospital therapeutic efficacy ; screening for severe acute respiratory syndrome ; and prediction of pediatric hospital admission .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Further efforts at developing unique physiologic assessment methodologies for use in the ED will improve quality of patient care ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "aid in resource allocation , improve prognostic accuracy ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and objectively measure the impact of early intervention in the ED .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "13",
+    "token_num": "235"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "paper_id": "41f4306fc7b9476d2248889ffaf9c19dc5832a9c",
+  "metadata": {
+    "title": "A cloud-compatible bioinformatics pipeline for ultrarapid pathogen identification from next-generation sequencing of clinical samples",
+    "coda_data_split": "train",
+    "coda_paper_id": 6146,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Unbiased next-generation sequencing (NGS) approaches enable comprehensive pathogen detection in the clinical microbiology laboratory and have numerous applications for public health surveillance, outbreak investigation, and the diagnosis of infectious diseases. However, practical deployment of the technology is hindered by the bioinformatics challenge of analyzing results accurately and in a clinically relevant timeframe. Here we describe SURPI (\u0027\u0027sequence-based ultrarapid pathogen identification\u0027\u0027), a computational pipeline for pathogen identification from complex metagenomic NGS data generated from clinical samples, and demonstrate use of the pipeline in the analysis of 237 clinical samples comprising more than 1.1 billion sequences. Deployable on both cloud-based and standalone servers, SURPI leverages two state-of-the-art aligners for accelerated analyses, SNAP and RAPSearch, which are as accurate as existing bioinformatics tools but orders of magnitude faster in performance. In fast mode, SURPI detects viruses and bacteria by scanning data sets of 7-500 million reads in 11 min to 5 h, while in comprehensive mode, all known microorganisms are identified, followed by de novo assembly and protein homology searches for divergent viruses in 50 min to 16 h. SURPI has also directly contributed to real-time microbial diagnosis in acutely ill patients, underscoring its potential key role in the development of unbiased NGS-based clinical assays in infectious diseases that demand rapid turnaround times.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Unbiased next-generation sequencing ( NGS ) approaches enable comprehensive pathogen detection in the clinical microbiology laboratory and have numerous applications for public health surveillance ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "outbreak investigation , and the diagnosis of infectious diseases .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , practical deployment of the technology is hindered by the bioinformatics challenge of analyzing results accurately and in a clinically relevant timeframe .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we describe SURPI ( `` sequence-based ultrarapid pathogen identification \u0027\u0027 ) ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "a computational pipeline for pathogen identification from complex metagenomic NGS data generated from clinical samples ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and demonstrate use of the pipeline in the analysis of 237 clinical samples comprising more than 1.1 billion sequences .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Deployable on both cloud-based and standalone servers ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "SURPI leverages two state-of-the-art aligners for accelerated analyses ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "SNAP and RAPSearch , which are as accurate as existing bioinformatics tools but orders of magnitude faster in performance .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In fast mode , SURPI detects viruses and bacteria by scanning data sets of 7-500 million reads in 11 min to 5 h ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while in comprehensive mode , all known microorganisms are identified ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "followed by de novo assembly and protein homology searches for divergent viruses in 50 min to 16 h. SURPI has also directly contributed to real-time microbial diagnosis in acutely ill patients ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "underscoring its potential key role in the development of unbiased NGS-based clinical assays in infectious diseases that demand rapid turnaround times .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "13",
+    "token_num": "234"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "paper_id": "c5951ca76cdaca2e05098d8e7c0830b13410d1ec",
+  "metadata": {
+    "title": "Predicting linear B-cell epitopes using string kernels",
+    "coda_data_split": "train",
+    "coda_paper_id": 9629,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The identification and characterization of B-cell epitopes play an important role in vaccine design, immunodiagnostic tests, and antibody production. Therefore, computational tools for reliably predicting linear B-cell epitopes are highly desirable. We evaluated Support Vector Machine (SVM) classifiers trained utilizing five different kernel methods using fivefold cross-validation on a homology-reduced data set of 701 linear B-cell epitopes, extracted from Bcipep database, and 701 non-epitopes, randomly extracted from SwissProt sequences. Based on the results of our computational experiments, we propose BCPred, a novel method for predicting linear B-cell epitopes using the subsequence kernel. We show that the predictive performance of BCPred (AUC ¼ 0.758) outperforms 11 SVM-based classifiers developed and evaluated in our experiments as well as our implementation of AAP (AUC ¼ 0.7), a recently proposed method for predicting linear B-cell epitopes using amino acid pair antigenicity. Furthermore, we compared BCPred with AAP and ABCPred, a method that uses recurrent neural networks, using two data sets of unique B-cell epitopes that had been previously used to evaluate ABCPred. Analysis of the data sets used and the results of this comparison show that conclusions about the relative performance of different B-cell epitope prediction methods drawn on the basis of experiments using data sets of unique B-cell epitopes are likely to yield overly optimistic estimates of performance of evaluated methods. This argues for the use of carefully homology-reduced data sets in comparing B-cell epitope prediction methods to avoid misleading conclusions about how different methods compare to each other. Our homology-reduced data set and implementations of BCPred as well as the APP method are publicly available through our web-based server, BCPREDS, at:",
+      "sentences": [
+        [
+          {
+            "segment_text": "The identification and characterization of B-cell epitopes play an important role in vaccine design ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "immunodiagnostic tests , and antibody production .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , computational tools for reliably predicting linear B-cell epitopes are highly desirable .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We evaluated Support Vector Machine ( SVM ) classifiers trained utilizing five different kernel methods using fivefold cross-validation on a homology-reduced data set of 701 linear B-cell epitopes ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "extracted from Bcipep database , and 701 non-epitopes ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "randomly extracted from SwissProt sequences .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Based on the results of our computational experiments ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we propose BCPred , a novel method for predicting linear B-cell epitopes using the subsequence kernel .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We show that the predictive performance of BCPred ( AUC 1/4 0.758 ) outperforms 11 SVM-based classifiers developed and evaluated in our experiments as well as our implementation of AAP ( AUC 1/4 0.7 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a recently proposed method for predicting linear B-cell epitopes using amino acid pair antigenicity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , we compared BCPred with AAP and ABCPred ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "a method that uses recurrent neural networks ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "using two data sets of unique B-cell epitopes that had been previously used to evaluate ABCPred .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Analysis of the data sets used and the results of this comparison show that conclusions about the relative performance of different B-cell epitope prediction methods drawn on the basis of experiments using data sets of unique B-cell epitopes are likely to yield overly optimistic estimates of performance of evaluated methods .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This argues for the use of carefully homology-reduced data sets in comparing B-cell epitope prediction methods to avoid misleading conclusions about how different methods compare to each other .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our homology-reduced data set and implementations of BCPred as well as the APP method are publicly available through our web-based server , BCPREDS , at :",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "9",
+    "segment_num": "16",
+    "token_num": "298"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "paper_id": "9e3188c8f3c67558283d4edf439b0926ea068748",
+  "metadata": {
+    "title": "Multiplex PCR theranostics of severe respiratory infections",
+    "coda_data_split": "train",
+    "coda_paper_id": 4912,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "In 2002, lower respiratory tract infections accounted for approximately 4 million deaths worldwide and 7% of all deaths that year.\" Scope of the problem Acute respiratory tract infection is the leading cause of hospitalization for infants and young children in developed countries, and a major determinant of death in developing countries. In 2002, lower respiratory tract infections accounted for approximately 4 million deaths worldwide and 7% of all deaths that year [1]. Therefore, there is a huge need for new diagnostic tools that enable the detection of a broad range of respiratory pathogens, especially those that are difficult or impossible to obtain by conventional culture methods.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In 2002 , lower respiratory tract infections accounted for approximately 4 million deaths worldwide and 7 % of all deaths that year . \u0027\u0027",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Scope of the problem Acute respiratory tract infection is the leading cause of hospitalization for infants and young children in developed countries ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and a major determinant of death in developing countries .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In 2002 , lower respiratory tract infections accounted for approximately 4 million deaths worldwide and 7 % of all deaths that year ( 1 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , there is a huge need for new diagnostic tools that enable the detection of a broad range of respiratory pathogens ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "especially those that are difficult or impossible to obtain by conventional culture methods .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "4",
+    "segment_num": "6",
+    "token_num": "120"
+  }
+}

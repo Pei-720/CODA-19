@@ -1,0 +1,79 @@
+{
+  "paper_id": "0e2c40e7b144b5187f44333dd18e8c01ef7100fe",
+  "metadata": {
+    "title": "Article Bat Origins of MERS-CoV Supported by Bat Coronavirus HKU4 Usage of Human Receptor CD26",
+    "coda_data_split": "train",
+    "coda_paper_id": 5881,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The recently reported Middle East respiratory syndrome coronavirus (MERS-CoV) is phylogenetically closely related to the bat coronaviruses (BatCoVs) HKU4 and HKU5. However, the evolutionary pathway of MERS-CoV is still unclear. A receptor binding domain (RBD) in the MERS-CoV envelope-embedded spike protein specifically engages human CD26 (hCD26) to initiate viral entry. The high sequence identity in the viral spike protein prompted us to investigate if HKU4 and HKU5 can recognize hCD26 for cell entry. We found that HKU4-RBD, but not HKU5-RBD, binds to hCD26, and pseudotyped viruses embedding HKU4 spike can infect cells via hCD26 recognition. The structure of the HKU4-RBD/hCD26 complex revealed a hCD26-binding mode similar overall to that observed for MERS-RBD. HKU4-RBD, however, is less adapted to hCD26 than MERS-RBD, explaining its lower affinity for receptor binding. Our findings support a bat origin for MERS-CoV and indicate the need for surveillance of HKU4-related viruses in bats.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The recently reported Middle East respiratory syndrome coronavirus ( MERS-CoV ) is phylogenetically closely related to the bat coronaviruses ( BatCoVs ) HKU4 and HKU5 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the evolutionary pathway of MERS-CoV is still unclear .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A receptor binding domain ( RBD ) in the MERS-CoV envelope-embedded spike protein specifically engages human CD26 ( hCD26 ) to initiate viral entry .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The high sequence identity in the viral spike protein prompted us to investigate if HKU4 and HKU5 can recognize hCD26 for cell entry .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We found that HKU4-RBD , but not HKU5-RBD ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "binds to hCD26 , and pseudotyped viruses embedding HKU4 spike can infect cells via hCD26 recognition .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The structure of the HKU4-RBD/hCD26 complex revealed a hCD26-binding mode similar overall to that observed for MERS-RBD .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "HKU4-RBD , however , is less adapted to hCD26 than MERS-RBD ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "explaining its lower affinity for receptor binding .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our findings support a bat origin for MERS-CoV and indicate the need for surveillance of HKU4-related viruses in bats .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "10",
+    "token_num": "170"
+  }
+}

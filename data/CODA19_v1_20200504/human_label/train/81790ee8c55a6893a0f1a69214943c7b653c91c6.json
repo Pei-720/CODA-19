@@ -1,0 +1,77 @@
+{
+  "paper_id": "81790ee8c55a6893a0f1a69214943c7b653c91c6",
+  "metadata": {
+    "title": "Newcastle disease virus induces G 0 /G 1 cell cycle arrest in asynchronously growing cells",
+    "coda_data_split": "train",
+    "coda_paper_id": 2743,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The cell cycle, as a basic cellular process, is conservatively regulated. Consequently, subversion of the host cell replication cycle is a common strategy employed by many viruses to create a cellular environment favorable for viral replication. Newcastle disease virus (NDV) causes disease in poultry and is also an effective oncolytic agent. However, the effects of NDV infection on cell cycle progression are unknown. In this study, we showed that NDV replication in asynchronized cells resulted in the accumulation of infected cells in the G 0 /G 1 phase of the cell cycle, which benefitted the proliferation of NDV. Examination of various cell cycle-regulatory proteins showed that expression of cyclin D1, was significantly reduced following NDV infection. Importantly, the decreased expression of cyclin D1 was reversed by inhibition of CHOP expression, indicating that induction of the PERK-eIF-2a-ATF4-CHOP signaling pathway was involved in the G 0 /G 1 phase cell cycle arrest observed following NDV infection.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The cell cycle , as a basic cellular process , is conservatively regulated .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Consequently , subversion of the host cell replication cycle is a common strategy employed by many viruses to create a cellular environment favorable for viral replication .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Newcastle disease virus ( NDV ) causes disease in poultry and is also an effective oncolytic agent .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the effects of NDV infection on cell cycle progression are unknown .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we showed that NDV replication in asynchronized cells resulted in the accumulation of infected cells in the G 0 / G 1 phase of the cell cycle ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which benefitted the proliferation of NDV .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Examination of various cell cycle-regulatory proteins showed that expression of cyclin D1 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "was significantly reduced following NDV infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Importantly , the decreased expression of cyclin D1 was reversed by inhibition of CHOP expression ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "indicating that induction of the PERK-eIF-2a-ATF4-CHOP signaling pathway was involved in the G 0 / G 1 phase cell cycle arrest observed following NDV infection .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "10",
+    "token_num": "174"
+  }
+}

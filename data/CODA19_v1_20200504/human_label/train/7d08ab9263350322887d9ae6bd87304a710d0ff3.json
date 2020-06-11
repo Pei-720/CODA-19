@@ -1,0 +1,93 @@
+{
+  "paper_id": "7d08ab9263350322887d9ae6bd87304a710d0ff3",
+  "metadata": {
+    "title": "Impact of the topology of metapopulations on the resurgence of epidemics rendered by a new multiscale hybrid modeling approach",
+    "coda_data_split": "train",
+    "coda_paper_id": 4969,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Simulating epidemics in metapopulations is a challenging issue due to the large demographic and geographic scales to incorporate. Traditional epidemiologic models choose to simplify reality by ignoring both the spatial distribution of populations and possible intrapopulation heterogeneities, whereas more recent solutions based on Individual-Based Modeling (IBM) can achieve high precision but are costly to compute and analyze. We introduce here an original alternative to these two approaches, which relies on a novel hybrid modeling framework and incarnates a multiscale view of epidemics. The model relies on a technical fusion of two modeling paradigms: System Dynamics (SD) and Individual-Based Modeling. It features an aggregated representation of local outbreaks rendered in SD, and at the same time a spatially-explicit simulation of the spread between populations simulated in IBM. We first present the design of this deterministic model, show that it can reproduce the dynamics of real resurgent epidemics, and infer from the sensitivity of several spatial factors absent in compartmental models the importance of having large-scale epidemiological processes represented inside of an explicitly disaggregated metapopulation. After discussing the implications of results obtained from simulation runs and the applicability of this model, we conclude that SD-IB hybrid modeling can be an interesting choice to represent epidemics in a spatially-explicit way without necessarily taking into account individual heterogeneities, and therefore it can be considered as a valuable alternative to simple compartmental models suffering from detrimental effects of the well-mixed assumption.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Simulating epidemics in metapopulations is a challenging issue due to the large demographic and geographic scales to incorporate .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Traditional epidemiologic models choose to simplify reality by ignoring both the spatial distribution of populations and possible intrapopulation heterogeneities ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "whereas more recent solutions based on Individual-Based Modeling ( IBM ) can achieve high precision but are costly to compute and analyze .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We introduce here an original alternative to these two approaches ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which relies on a novel hybrid modeling framework and incarnates a multiscale view of epidemics .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The model relies on a technical fusion of two modeling paradigms : System Dynamics ( SD ) and Individual-Based Modeling .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "It features an aggregated representation of local outbreaks rendered in SD ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and at the same time a spatially-explicit simulation of the spread between populations simulated in IBM .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We first present the design of this deterministic model ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "show that it can reproduce the dynamics of real resurgent epidemics ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and infer from the sensitivity of several spatial factors absent in compartmental models the importance of having large-scale epidemiological processes represented inside of an explicitly disaggregated metapopulation .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "After discussing the implications of results obtained from simulation runs and the applicability of this model ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we conclude that SD-IB hybrid modeling can be an interesting choice to represent epidemics in a spatially-explicit way without necessarily taking into account individual heterogeneities ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and therefore it can be considered as a valuable alternative to simple compartmental models suffering from detrimental effects of the well-mixed assumption .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "14",
+    "token_num": "255"
+  }
+}

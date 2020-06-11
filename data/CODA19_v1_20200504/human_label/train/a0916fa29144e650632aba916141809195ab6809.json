@@ -1,0 +1,102 @@
+{
+  "paper_id": "a0916fa29144e650632aba916141809195ab6809",
+  "metadata": {
+    "title": "An IDEA for Short Term Outbreak Projection: Nearcasting Using the Basic Reproduction Number",
+    "coda_data_split": "train",
+    "coda_paper_id": 10174,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Communicable disease outbreaks of novel or existing pathogens threaten human health around the globe. It would be desirable to rapidly characterize such outbreaks and develop accurate projections of their duration and cumulative size even when limited preliminary data are available. Here we develop a mathematical model to aid public health authorities in tracking the expansion and contraction of outbreaks with explicit representation of factors (other than population immunity) that may slow epidemic growth.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Communicable disease outbreaks of novel or existing pathogens threaten human health around the globe .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It would be desirable to rapidly characterize such outbreaks and develop accurate projections of their duration and cumulative size even when limited preliminary data are available .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we develop a mathematical model to aid public health authorities in tracking the expansion and contraction of outbreaks with explicit representation of factors ( other than population immunity ) that may slow epidemic growth .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Methodology: The Incidence Decay and Exponential Adjustment (IDEA) model is a parsimonious function that uses the basic reproduction number R 0 , along with a discounting factor to project the growth of outbreaks using only basic epidemiological information (e.g., daily incidence counts).",
+      "sentences": [
+        [
+          {
+            "segment_text": "Methodology : The Incidence Decay and Exponential Adjustment ( IDEA ) model is a parsimonious function that uses the basic reproduction number R 0 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "along with a discounting factor to project the growth of outbreaks using only basic epidemiological information ( e.g. , daily incidence counts ) .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Principal Findings: Compared to simulated data, IDEA provides highly accurate estimates of total size and duration for a given outbreak when R 0 is low or moderate, and also identifies turning points or new waves. When tested with an outbreak of pandemic influenza A (H1N1), the model generates estimated incidence at the i+1 th serial interval using data from the i th serial interval within an average of 20% of actual incidence.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Principal Findings : Compared to simulated data ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "IDEA provides highly accurate estimates of total size and duration for a given outbreak when R 0 is low or moderate ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and also identifies turning points or new waves .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "When tested with an outbreak of pandemic influenza A ( H1N1 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the model generates estimated incidence at the i +1 th serial interval using data from the i th serial interval within an average of 20 % of actual incidence .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Conclusions and Significance: This model for communicable disease outbreaks provides rapid assessments of outbreak growth and public health interventions. Further evaluation in the context of real-world outbreaks will establish the utility of IDEA as a tool for front-line epidemiologists.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Conclusions and Significance : This model for communicable disease outbreaks provides rapid assessments of outbreak growth and public health interventions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Further evaluation in the context of real-world outbreaks will establish the utility of IDEA as a tool for front-line epidemiologists .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "8",
+    "segment_num": "12",
+    "token_num": "253"
+  }
+}

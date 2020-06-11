@@ -1,0 +1,81 @@
+{
+  "paper_id": "aca7ebdfaf454b97c94d94e2d4267f347b1d718d",
+  "metadata": {
+    "title": "A Simple Platform for the Rapid Development of Antimicrobials",
+    "coda_data_split": "train",
+    "coda_paper_id": 8215,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Recent infectious outbreaks highlight the need for platform technologies that can be quickly deployed to develop therapeutics needed to contain the outbreak. We present a simple concept for rapid development of new antimicrobials. The goal was to produce in as little as one week thousands of doses of an intervention for a new pathogen. We tested the feasibility of a system based on antimicrobial synbodies. The system involves creating an array of 100 peptides that have been selected for broad capability to bind and/or kill viruses and bacteria. The peptides are pre-screened for low cell toxicity prior to large scale synthesis. Any pathogen is then assayed on the chip to find peptides that bind or kill it. Peptides are combined in pairs as synbodies and further screened for activity and toxicity. The lead synbody can be quickly produced in large scale, with completion of the entire process in one week.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Recent infectious outbreaks highlight the need for platform technologies that can be quickly deployed to develop therapeutics needed to contain the outbreak .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We present a simple concept for rapid development of new antimicrobials .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The goal was to produce in as little as one week thousands of doses of an intervention for a new pathogen .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We tested the feasibility of a system based on antimicrobial synbodies .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The system involves creating an array of 100 peptides that have been selected for broad capability to bind and/or kill viruses and bacteria .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The peptides are pre-screened for low cell toxicity prior to large scale synthesis .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Any pathogen is then assayed on the chip to find peptides that bind or kill it .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Peptides are combined in pairs as synbodies and further screened for activity and toxicity .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The lead synbody can be quickly produced in large scale ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with completion of the entire process in one week .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "9",
+    "segment_num": "10",
+    "token_num": "160"
+  }
+}

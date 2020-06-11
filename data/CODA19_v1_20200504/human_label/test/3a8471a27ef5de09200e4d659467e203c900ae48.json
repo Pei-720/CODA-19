@@ -1,0 +1,164 @@
+{
+  "paper_id": "3a8471a27ef5de09200e4d659467e203c900ae48",
+  "metadata": {
+    "title": "The spreading frontiers of avian-human influenza described by the free boundary",
+    "coda_data_split": "test",
+    "coda_paper_id": 939,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "In this paper, a reaction-diffusion system is proposed to investigate avian-human influenza. Two free boundaries are introduced to describe the spreading frontiers of the avian influenza. The basic reproduction numbers r F 0 (t) and R F 0 (t) are defined for the bird with the avian influenza and for the human with the mutant avian influenza of the free boundary problem, respectively. Properties of these two time-dependent basic reproduction numbers are obtained. Sufficient conditions both for spreading and for vanishing of the avian influenza are given. It is shown that if r F 0 (0) \u003c 1 and the initial number of the infected birds is small, the avian influenza vanishes in the bird world. Furthermore, if r F 0 (0) \u003c 1 and R F 0 (0) \u003c 1, the avian influenza vanishes in the bird and human worlds. In the case that r F 0 (0) \u003c 1 and R F 0 (0) \u003e 1, spreading of the mutant avian influenza in the human world is possible. It is also shown that if r F 0 (t 0 ) 1 for any t 0 0, the avian influenza spreads in the bird world.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this paper , a reaction-diffusion system is proposed to investigate avian-human influenza .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Two free boundaries are introduced to describe the spreading frontiers of the avian influenza .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The basic reproduction numbers r F 0 ( t ) and R F 0 ( t ) are defined for the bird with the avian influenza and for the human with the mutant avian influenza of the free boundary problem , respectively .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Properties of these two time-dependent basic reproduction numbers are obtained .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Sufficient conditions both for spreading and for vanishing of the avian influenza are given .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is shown that if r F 0 ( 0 ) \u003c 1 and the initial number of the infected birds is small ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the avian influenza vanishes in the bird world .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , if r F 0 ( 0 ) \u003c 1 and R F 0 ( 0 ) \u003c 1 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the avian influenza vanishes in the bird and human worlds .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the case that r F 0 ( 0 ) \u003c 1 and R F 0 ( 0 ) \u003e 1 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "spreading of the mutant avian influenza in the human world is possible .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is also shown that if r F 0 ( t 0 ) 1 for any t 0 0 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the avian influenza spreads in the bird world .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "infectious diseases, see the book [21] and references therein. To explore the pattern of the plague in London and the pest in Mumbai, Kermack and McKendrick constructed the well-known SIR compartment model in 1927 (see [9] ), and the SIS compartment model [10] was introduced by them in 1932. The readers can see some related work in [15] . To understand the epidemiology of some infectious diseases, other compartment models were formulated, for example, the SI compartment model [19] , which is constructed by the assumption that the individual cannot recover from the disease. This model is appropriate for the diseases such as herpes and HIV. If the individual first goes through a exposed period before becoming to the infectious, this can be described by the SEI compartment model (see [27] for example). The SIRS compartment model [20] supposes that the recovered individual has the temporary immunity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "infectious diseases , see the book ( 21 ) and references therein .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To explore the pattern of the plague in London and the pest in Mumbai ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Kermack and McKendrick constructed the well-known SIR compartment model in 1927 ( see ( 9 ) ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and the SIS compartment model ( 10 ) was introduced by them in 1932 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The readers can see some related work in ( 15 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To understand the epidemiology of some infectious diseases ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "other compartment models were formulated ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "for example , the SI compartment model ( 19 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which is constructed by the assumption that the individual can not recover from the disease .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This model is appropriate for the diseases such as herpes and HIV .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "If the individual first goes through a exposed period before becoming to the infectious ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "this can be described by the SEI compartment model ( see ( 27 ) for example ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The SIRS compartment model ( 20 ) supposes that the recovered individual has the temporary immunity .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "16",
+    "segment_num": "26",
+    "token_num": "405"
+  }
+}

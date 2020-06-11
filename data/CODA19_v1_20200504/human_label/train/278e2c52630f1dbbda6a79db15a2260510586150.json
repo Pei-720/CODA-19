@@ -1,0 +1,39 @@
+{
+  "paper_id": "278e2c52630f1dbbda6a79db15a2260510586150",
+  "metadata": {
+    "title": "PhyloFold: Precise and Swift Prediction of RNA Secondary Structures to Incorporate Phylogeny among Homologs Associate Editor: XXXXXXX Received on XXXXX; revised on XXXXX; accepted on XXXXX",
+    "coda_data_split": "train",
+    "coda_paper_id": 6864,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The simultaneous consideration of sequence alignment and RNA secondary structure, or structural alignment, is known to help predict more accurate secondary structures of homologs. However, the consideration is heavy and can be done only roughly to decompose structural alignments.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The simultaneous consideration of sequence alignment and RNA secondary structure ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "or structural alignment , is known to help predict more accurate secondary structures of homologs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the consideration is heavy and can be done only roughly to decompose structural alignments .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "2",
+    "segment_num": "3",
+    "token_num": "44"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "paper_id": "d77b87674e1c63f9e5af85a96a28c1105c6abed8",
+  "metadata": {
+    "title": "When individual behaviour matters: homogeneous and network models in epidemiology",
+    "coda_data_split": "train",
+    "coda_paper_id": 10047,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Heterogeneity in host contact patterns profoundly shapes population-level disease dynamics. Many epidemiological models make simplifying assumptions about the patterns of diseasecausing interactions among hosts. In particular, homogeneous-mixing models assume that all hosts have identical rates of disease-causing contacts. In recent years, several network-based approaches have been developed to explicitly model heterogeneity in host contact patterns. Here, we use a network perspective to quantify the extent to which real populations depart from the homogeneous-mixing assumption, in terms of both the underlying network structure and the resulting epidemiological dynamics. We find that human contact patterns are indeed more heterogeneous than assumed by homogeneous-mixing models, but are not as variable as some have speculated. We then evaluate a variety of methodologies for incorporating contact heterogeneity, including network-based models and several modifications to the simple SIR compartmental model. We conclude that the homogeneous-mixing compartmental model is appropriate when host populations are nearly homogeneous, and can be modified effectively for a few classes of non-homogeneous networks. In general, however, network models are more intuitive and accurate for predicting disease spread through heterogeneous host populations.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Heterogeneity in host contact patterns profoundly shapes population-level disease dynamics .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Many epidemiological models make simplifying assumptions about the patterns of diseasecausing interactions among hosts .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In particular , homogeneous-mixing models assume that all hosts have identical rates of disease-causing contacts .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In recent years , several network-based approaches have been developed to explicitly model heterogeneity in host contact patterns .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we use a network perspective to quantify the extent to which real populations depart from the homogeneous-mixing assumption ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "in terms of both the underlying network structure and the resulting epidemiological dynamics .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We find that human contact patterns are indeed more heterogeneous than assumed by homogeneous-mixing models ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but are not as variable as some have speculated .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We then evaluate a variety of methodologies for incorporating contact heterogeneity ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including network-based models and several modifications to the simple SIR compartmental model .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We conclude that the homogeneous-mixing compartmental model is appropriate when host populations are nearly homogeneous ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and can be modified effectively for a few classes of non-homogeneous networks .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In general , however , network models are more intuitive and accurate for predicting disease spread through heterogeneous host populations .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "9",
+    "segment_num": "13",
+    "token_num": "197"
+  }
+}

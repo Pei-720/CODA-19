@@ -1,0 +1,101 @@
+{
+  "paper_id": "07f2cb1f2ae4015b357962d59a3e198bcc31475e",
+  "metadata": {
+    "title": "Multi-target QPDR classification model for human breast and colon cancer-related proteins using star graph topological indices",
+    "coda_data_split": "train",
+    "coda_paper_id": 2656,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The cancer diagnostic is a complex process and, sometimes, the specific markers can interfere or produce negative results. Thus, new simple and fast theoretical models are required. One option is the complex network graphs theory that permits us to describe any real system, from the small molecules to the complex genetic, neural or social networks by transforming real properties in topological indices. This work converts the protein primary structure data in specific Randic\u0027s star networks topological indices using the new sequence to star networks (S2SNet) application. A set of 1054 proteins were selected from previous works and contains proteins related or not with two types of cancer, human breast cancer (HBC) and human colon cancer (HCC). The general discriminant analysis method generates an input-coded multi-target classification model with the training/predicting set accuracies of 90.0% for the forward stepwise model type. In addition, a protein subset was modified by single amino acid mutations with higher log-odds PAM250 values and tested with the new classification if can be related with HBC or HCC. In conclusion, we shown that, using simple input data such is the primary protein sequence and the simples linear analysis, it is possible to obtain accurate classification models that can predict if a new protein related with two types of cancer. These results promote the use of the S2SNet in clinical proteomics.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The cancer diagnostic is a complex process and ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "sometimes , the specific markers can interfere or produce negative results .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , new simple and fast theoretical models are required .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "One option is the complex network graphs theory that permits us to describe any real system ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "from the small molecules to the complex genetic ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "neural or social networks by transforming real properties in topological indices .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This work converts the protein primary structure data in specific Randic \u0027s star networks topological indices using the new sequence to star networks ( S2SNet ) application .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A set of 1054 proteins were selected from previous works and contains proteins related or not with two types of cancer ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "human breast cancer ( HBC ) and human colon cancer ( HCC ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The general discriminant analysis method generates an input-coded multi-target classification model with the training/predicting set accuracies of 90.0 % for the forward stepwise model type .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , a protein subset was modified by single amino acid mutations with higher log-odds PAM250 values and tested with the new classification if can be related with HBC or HCC .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In conclusion , we shown that ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "using simple input data such is the primary protein sequence and the simples linear analysis ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "it is possible to obtain accurate classification models that can predict if a new protein related with two types of cancer .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These results promote the use of the S2SNet in clinical proteomics .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "9",
+    "segment_num": "15",
+    "token_num": "250"
+  }
+}

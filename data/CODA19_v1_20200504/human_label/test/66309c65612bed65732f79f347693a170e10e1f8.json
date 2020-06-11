@@ -1,0 +1,272 @@
+{
+  "paper_id": "66309c65612bed65732f79f347693a170e10e1f8",
+  "metadata": {
+    "title": "Angiotensin-converting enzyme 2/ angiotensin-(1-7)/Mas axis prevents lipopolysaccharide-induced apoptosis of pulmonary microvascular endothelial cells by inhibiting JNK/NF-kB pathways",
+    "coda_data_split": "test",
+    "coda_paper_id": 400,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "ACE2 and Ang-(1-7) have important roles in preventing acute lung injury. However, it is not clear whether upregulation of the ACE2/Ang-(1-7)/Mas axis prevents LPS-induced injury in pulmonary microvascular endothelial cells (PMVECs) by inhibiting the MAPKs/NF-kB pathways. Primary cultured rat PMVECs were transduced with lentiviral-borne Ace2 or shRNA-Ace2, and then treated or not with Mas receptor blocker (A779) before exposure to LPS. LPS stimulation resulted in the higher levels of AngII, Ang-(1-7), cytokine secretion, and apoptosis rates, and the lower ACE2/ACE ratio. Ace2 reversed the ACE2/ACE imbalance and increased Ang-(1-7) levels, thus reducing LPS-induced apoptosis and inflammation, while inhibition of Ace2 reversed all these effects. A779 abolished these protective effects of Ace2. LPS treatment was associated with activation of the ERK, p38, JNK, and NF-kB pathways, which were aggravated by A779. Pretreatment with A779 prevented the Ace2-induced blockade of p38, JNK, and NF-kB phosphorylation. However, only JNK inhibitor markedly reduced apoptosis and cytokine secretion in PMVECs with Ace2 deletion and A779 pretreatment. These results suggest that the ACE2/Ang-(1-7)/Mas axis has a crucial role in preventing LPS-induced apoptosis and inflammation of PMVECs, by inhibiting the JNK/NF-kB pathways.",
+      "sentences": [
+        [
+          {
+            "segment_text": "ACE2 and Ang - ( 1-7 ) have important roles in preventing acute lung injury .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , it is not clear whether upregulation of the ACE2/Ang - ( 1-7 ) / Mas axis prevents LPS-induced injury in pulmonary microvascular endothelial cells ( PMVECs ) by inhibiting the MAPKs/NF-kB pathways .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Primary cultured rat PMVECs were transduced with lentiviral-borne Ace2 or shRNA-Ace2 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and then treated or not with Mas receptor blocker ( A779 ) before exposure to LPS .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "LPS stimulation resulted in the higher levels of AngII ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Ang - ( 1-7 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "cytokine secretion , and apoptosis rates ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the lower ACE2/ACE ratio .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Ace2 reversed the ACE2/ACE imbalance and increased Ang - ( 1-7 ) levels ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "thus reducing LPS-induced apoptosis and inflammation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while inhibition of Ace2 reversed all these effects .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A779 abolished these protective effects of Ace2 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "LPS treatment was associated with activation of the ERK ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "p38 , JNK , and NF-kB pathways ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which were aggravated by A779 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Pretreatment with A779 prevented the Ace2-induced blockade of p38 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "JNK , and NF-kB phosphorylation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , only JNK inhibitor markedly reduced apoptosis and cytokine secretion in PMVECs with Ace2 deletion and A779 pretreatment .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These results suggest that the ACE2/Ang - ( 1-7 ) / Mas axis has a crucial role in preventing LPS-induced apoptosis and inflammation of PMVECs ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "by inhibiting the JNK/NF-kB pathways .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "A cute respiratory distress syndrome (ARDS) is an inflammatory response to both pulmonary and extrapulmonary stimuli, characterized by acute onset of new or worsening respiratory dysfunction. Despite improvements in intensive care with optimal ventilation support and fluid balance, the mortality of patients with ARDS remains above 30% 1,2 . Diffuse pulmonary endothelial cell injury that results in impairment of the alveolar-capillary barrier, and increase in microvascular endothelial permeability, are considered central to the pathogenesis of ARDS 3 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "A cute respiratory distress syndrome ( ARDS ) is an inflammatory response to both pulmonary and extrapulmonary stimuli ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "characterized by acute onset of new or worsening respiratory dysfunction .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Despite improvements in intensive care with optimal ventilation support and fluid balance ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the mortality of patients with ARDS remains above 30 % 1,2 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Diffuse pulmonary endothelial cell injury that results in impairment of the alveolar-capillary barrier ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and increase in microvascular endothelial permeability ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "are considered central to the pathogenesis of ARDS 3 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The renin-angiotensin system (RAS) is a complex hormonal system and a pivotal regulator in maintaining homeostasis of blood pressure and electrolyte balance; RAS also has an important role in inflammation 4 . Abnormal activation of the RAS is involved in the pathogenesis of cardiovascular, renal, and lung diseases 5-7 . Angiotensin-converting enzyme (ACE) 2, a homologue of ACE, is a recently discovered component of the RAS 8 . In contrast to ACE which converts angiotensin (Ang) I (AngI) to generate AngII, ACE2 reduces the generation of AngII by catalyzing the conversion of AngII to Ang-(1-7), which attenuates the vasoconstrictive, proliferative, and inflammatory effects of AngII. Hence, ACE2 has a pertinent role in the anti-inflammatory RAS-ACE2-Ang-(1-7) axis, as it counteracts the pro-inflammatory effects of the ACE-AngII axis 9,10 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "The renin-angiotensin system ( RAS ) is a complex hormonal system and a pivotal regulator in maintaining homeostasis of blood pressure and electrolyte balance ; RAS also has an important role in inflammation 4 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Abnormal activation of the RAS is involved in the pathogenesis of cardiovascular ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "renal , and lung diseases 5-7 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Angiotensin-converting enzyme ( ACE ) 2 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a homologue of ACE , is a recently discovered component of the RAS 8 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In contrast to ACE which converts angiotensin ( Ang ) I ( AngI ) to generate AngII ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "ACE2 reduces the generation of AngII by catalyzing the conversion of AngII to Ang - ( 1-7 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which attenuates the vasoconstrictive , proliferative ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and inflammatory effects of AngII .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hence , ACE2 has a pertinent role in the anti-inflammatory RAS-ACE2-Ang - ( 1-7 ) axis ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as it counteracts the pro-inflammatory effects of the ACE-AngII axis 9,10 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "ACE2 is a membrane-associated aminopeptidase in vascular endothelia, renal and cardiovascular tissues, and epithelia of the small intestine and testes 11, 12 . ACE2 is also broadly expressed in almost all kinds of cell types in the lung, including endothelial and smooth muscle cells of blood vessels, types I and II alveolar epithelial cells, and bronchial epithelial cells. There is also evidence that ACE2 has an important role in the development of ARDS. In fact, ACE2 levels positively correlated with severe acute respiratory syndrome (SARS) coronavirus infection of human airway epithelia 13 . In addition, ACE2-deficient mice suffered more aggravated lung injury compared with wild-type mice in models of ARDS, whereas therapy with recombinant ACE2 improved ARDS in Ace2-knock-",
+      "sentences": [
+        [
+          {
+            "segment_text": "ACE2 is a membrane-associated aminopeptidase in vascular endothelia ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "renal and cardiovascular tissues , and epithelia of the small intestine and testes 11 , 12 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "ACE2 is also broadly expressed in almost all kinds of cell types in the lung ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including endothelial and smooth muscle cells of blood vessels ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "types I and II alveolar epithelial cells , and bronchial epithelial cells .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "There is also evidence that ACE2 has an important role in the development of ARDS .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In fact , ACE2 levels positively correlated with severe acute respiratory syndrome ( SARS ) coronavirus infection of human airway epithelia 13 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , ACE2-deficient mice suffered more aggravated lung injury compared with wild-type mice in models of ARDS ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "whereas therapy with recombinant ACE2 improved ARDS in Ace2-knock -",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "23",
+    "segment_num": "47",
+    "token_num": "614"
+  }
+}

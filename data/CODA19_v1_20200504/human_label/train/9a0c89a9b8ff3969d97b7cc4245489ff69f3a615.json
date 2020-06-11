@@ -1,0 +1,139 @@
+{
+  "paper_id": "9a0c89a9b8ff3969d97b7cc4245489ff69f3a615",
+  "metadata": {
+    "title": "Development and external validation of a prognostic multivariable model on admission for hospitalized patients with COVID-19",
+    "coda_data_split": "train",
+    "coda_paper_id": 2497,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Since the outbreak of COVID-19, there has been a pressing need for development of a prognostic tool that is easy for clinicians to use. Recently, a Lancet publication showed that in a cohort of 191 patients with COVID-19, age, SOFA score and D-dimer measurements were associated with mortality. No other publication involving prognostic factors or models has been identified to date.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Since the outbreak of COVID-19 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "there has been a pressing need for development of a prognostic tool that is easy for clinicians to use .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recently , a Lancet publication showed that in a cohort of 191 patients with COVID-19 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "age , SOFA score and D-dimer measurements were associated with mortality .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "No other publication involving prognostic factors or models has been identified to date .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In our cohorts of 444 patients from two hospitals, SOFA scores were low in the majority of patients on admission. The relevance of D-dimer could not be verified, as it is not included in routine laboratory tests. In this study, we have established a multivariable clinical prediction model using a development cohort of 299 patients from one hospital. After backwards selection, four variables, including age, lymphocyte count, lactate dehydrogenase and SpO2 remained in the model to predict mortality. This has been validated internally and externally with a cohort of 145 patients from a different hospital. Discrimination of the model was excellent in both internal (c\u003d0·89) and external (c\u003d0·98) validation. Calibration plots showed excellent agreement between predicted and observed probabilities of mortality after recalibration of the model to account for underlying differences in the risk profile of the datasets. This . CC-BY-NC-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In our cohorts of 444 patients from two hospitals ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "SOFA scores were low in the majority of patients on admission .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The relevance of D-dimer could not be verified ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as it is not included in routine laboratory tests .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we have established a multivariable clinical prediction model using a development cohort of 299 patients from one hospital .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "After backwards selection , four variables ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "including age , lymphocyte count ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "lactate dehydrogenase and SpO2 remained in the model to predict mortality .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This has been validated internally and externally with a cohort of 145 patients from a different hospital .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Discrimination of the model was excellent in both internal ( c \u003d 0 · 89 ) and external ( c \u003d 0 · 98 ) validation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Calibration plots showed excellent agreement between predicted and observed probabilities of mortality after recalibration of the model to account for underlying differences in the risk profile of the datasets .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "CC-BY-NC-ND 4.0 International license It is made available under a is the author/funder ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "who has granted medRxiv a license to display the preprint in perpetuity .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "(which was not peer-reviewed) The copyright holder for this preprint .",
+      "sentences": [
+        [
+          {
+            "segment_text": "( which was not peer-reviewed ) The copyright holder for this preprint .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "13",
+    "segment_num": "20",
+    "token_num": "274"
+  }
+}

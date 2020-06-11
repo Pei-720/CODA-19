@@ -1,0 +1,104 @@
+{
+  "paper_id": "f00aa8ea03c8fd2b564a6f3fe1dbfbde34e78e5f",
+  "metadata": {
+    "title": "The sequence of human ACE2 is suboptimal for binding the S spike protein of SARS coronavirus 2",
+    "coda_data_split": "train",
+    "coda_paper_id": 2233,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The rapid and escalating spread of SARS coronavirus 2 (SARS-CoV-2) 6 poses an immediate public health emergency. The viral spike protein S binds ACE2 7 on host cells to initiate molecular events that release the viral genome 8",
+      "sentences": [
+        [
+          {
+            "segment_text": "The rapid and escalating spread of SARS coronavirus 2 ( SARS-CoV-2 ) 6 poses an immediate public health emergency .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The viral spike protein S binds ACE2 7 on host cells to initiate molecular events that release the viral genome 8",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "intracellularly. Soluble ACE2 inhibits entry of both SARS and SARS-2 coronaviruses 9 by acting as a decoy for S binding sites, and is a candidate for therapeutic and 10 prophylactic development. Using deep mutagenesis, variants of ACE2 are identified 11",
+      "sentences": [
+        [
+          {
+            "segment_text": "intracellularly .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Soluble ACE2 inhibits entry of both SARS and SARS-2 coronaviruses 9 by acting as a decoy for S binding sites ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and is a candidate for therapeutic and 10 prophylactic development .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using deep mutagenesis , variants of ACE2 are identified 11",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "with increased binding to the receptor binding domain of S. Mutations are found 12 across the interface, in the N90-glycosylation motif, and at buried sites where they 13 are predicted to enhance folding and presentation of the interaction epitope. When 14 single substitutions are combined, large increases in binding can be achieved. The 15 mutational landscape offers a blueprint for engineering high affinity proteins and 16",
+      "sentences": [
+        [
+          {
+            "segment_text": "with increased binding to the receptor binding domain of S. Mutations are found 12 across the interface ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "in the N90-glycosylation motif , and at buried sites where they 13 are predicted to enhance folding and presentation of the interaction epitope .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "When 14 single substitutions are combined ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "large increases in binding can be achieved .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The 15 mutational landscape offers a blueprint for engineering high affinity proteins and 16",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "peptides that block receptor binding sites on S to meet this unprecedented 17 challenge.",
+      "sentences": [
+        [
+          {
+            "segment_text": "peptides that block receptor binding sites on S to meet this unprecedented 17 challenge .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "9",
+    "segment_num": "12",
+    "token_num": "171"
+  }
+}

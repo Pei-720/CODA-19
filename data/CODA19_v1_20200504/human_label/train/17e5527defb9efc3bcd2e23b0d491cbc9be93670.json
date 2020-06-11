@@ -1,0 +1,161 @@
+{
+  "paper_id": "17e5527defb9efc3bcd2e23b0d491cbc9be93670",
+  "metadata": {
+    "title": "Pressure-Regulated Ventilator Splitting (PReVentS) - A COVID-19 Response Paradigm from Yale University",
+    "coda_data_split": "train",
+    "coda_paper_id": 7888,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "In the current COVID-19 crisis, the US and many countries in the world are suffering acute shortages of modern ventilators to care for desperately ill patients. Since modern ICU ventilators are powerful devices that can deliver very high gas flow rates and pressures, multiple physicians have attempted to ventilate more than one patient on a single ventilatorso-called \"vent splitting\". Early applications of this approach have utilized simple concatenations of ventilator tubing and T-pieces, to provide flow to more than one patient. Additional approaches using custom flow splitters -sometimes made using 3D printing technologies -have also advanced into the clinic with FDA approval. However, heretofore there has been less progress made on controlling individual ventilatory pressures for patients with severe lung disease. Given the inherent variability and instability of lung compliance amongst patients with COVID-19, there remains an important need to provide a means of extending ventilator usefulness to more than one patient, but in a way that provides more tailored pressures that can be titrated over time. In this descriptive report, we provide the basis for a ventilator circuit that can support two patients with individualized peak inspiratory and end-expiratory pressures. The circuit is comprised of exclusively \"off the shelf\" materials and is inexpensive to produce. The circuit can be used with typical ICU ventilators, and with anesthesia ventilators used in operating rooms. Inspiratory and end-expiratory pressures for each patient can be titrated over time, without changes for one patient affecting the ventilation parameters of the other patient. Using in-line spirometry, individual tidal volumes can be measured for each patient. This Pressure-Regulated Ventilator Splitting (PReVentS) Yale University protocol operates under a pressure-control ventilatory mode, and may function optimally when patients are not triggering breaths from the ventilator. This method has been tested thus far only in the laboratory with mock lungs, and has not yet been deployed in animals or in patients. However, given the novelty and potential utility of this approach, we deemed it appropriate to provide this information to the broader critical care community at the present time. In coming days and weeks, we will continue to characterize and refine this approach, using large animal models and proof-of-principle human studies.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In the current COVID-19 crisis ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the US and many countries in the world are suffering acute shortages of modern ventilators to care for desperately ill patients .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Since modern ICU ventilators are powerful devices that can deliver very high gas flow rates and pressures ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "multiple physicians have attempted to ventilate more than one patient on a single ventilatorso-called `` vent splitting \u0027\u0027 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Early applications of this approach have utilized simple concatenations of ventilator tubing and T-pieces ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "to provide flow to more than one patient .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Additional approaches using custom flow splitters - sometimes made using 3D printing technologies - have also advanced into the clinic with FDA approval .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , heretofore there has been less progress made on controlling individual ventilatory pressures for patients with severe lung disease .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Given the inherent variability and instability of lung compliance amongst patients with COVID-19 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "there remains an important need to provide a means of extending ventilator usefulness to more than one patient ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but in a way that provides more tailored pressures that can be titrated over time .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this descriptive report , we provide the basis for a ventilator circuit that can support two patients with individualized peak inspiratory and end-expiratory pressures .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The circuit is comprised of exclusively `` off the shelf \u0027\u0027 materials and is inexpensive to produce .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The circuit can be used with typical ICU ventilators ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and with anesthesia ventilators used in operating rooms .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Inspiratory and end-expiratory pressures for each patient can be titrated over time ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "without changes for one patient affecting the ventilation parameters of the other patient .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using in-line spirometry , individual tidal volumes can be measured for each patient .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This Pressure-Regulated Ventilator Splitting ( PReVentS ) Yale University protocol operates under a pressure-control ventilatory mode ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and may function optimally when patients are not triggering breaths from the ventilator .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This method has been tested thus far only in the laboratory with mock lungs ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and has not yet been deployed in animals or in patients .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , given the novelty and potential utility of this approach ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we deemed it appropriate to provide this information to the broader critical care community at the present time .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In coming days and weeks ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we will continue to characterize and refine this approach ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "using large animal models and proof-of-principle human studies .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "15",
+    "segment_num": "27",
+    "token_num": "401"
+  }
+}

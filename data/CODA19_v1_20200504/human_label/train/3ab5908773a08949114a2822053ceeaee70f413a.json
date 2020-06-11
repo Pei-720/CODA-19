@@ -1,0 +1,159 @@
+{
+  "paper_id": "3ab5908773a08949114a2822053ceeaee70f413a",
+  "metadata": {
+    "title": "JAMIA Focus on Media-based Biosurveillance Model Formulation Ⅲ HealthMap: Global Infectious Disease Monitoring through Automated Classification and Visualization of Internet Media Reports",
+    "coda_data_split": "train",
+    "coda_paper_id": 10928,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "A b s t r a c t Objective: Unstructured electronic information sources, such as news reports, are proving to be valuable inputs for public health surveillance. However, staying abreast of current disease outbreaks requires scouring a continually growing number of disparate news sources and alert services, resulting in information overload. Our objective is to address this challenge through the HealthMap.org Web application, an automated system for querying, filtering, integrating and visualizing unstructured reports on disease outbreaks.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A b s t r a c t Objective : Unstructured electronic information sources ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as news reports , are proving to be valuable inputs for public health surveillance .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , staying abreast of current disease outbreaks requires scouring a continually growing number of disparate news sources and alert services , resulting in information overload .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our objective is to address this challenge through the HealthMap.org Web application ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "an automated system for querying ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "filtering , integrating and visualizing unstructured reports on disease outbreaks .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Design: This report describes the design principles, software architecture and implementation of HealthMap and discusses key challenges and future plans.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Design : This report describes the design principles ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "software architecture and implementation of HealthMap and discusses key challenges and future plans .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We describe the process by which HealthMap collects and integrates outbreak data from a variety of sources, including news media (e.g., Google News), expert-curated accounts (e.g., ProMED Mail), and validated official alerts. Through the use of text processing algorithms, the system classifies alerts by location and disease and then overlays them on an interactive geographic map. We measure the accuracy of the classification algorithms based on the level of human curation necessary to correct misclassifications, and examine geographic coverage.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We describe the process by which HealthMap collects and integrates outbreak data from a variety of sources ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "including news media ( e.g. , Google News ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "expert-curated accounts ( e.g. , ProMED Mail ) , and validated official alerts .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Through the use of text processing algorithms ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the system classifies alerts by location and disease and then overlays them on an interactive geographic map .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We measure the accuracy of the classification algorithms based on the level of human curation necessary to correct misclassifications , and examine geographic coverage .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results: As part of the evaluation of the system, we analyzed 778 reports with HealthMap, representing 87 disease categories and 89 countries. The automated classifier performed with 84% accuracy, demonstrating significant usefulness in managing the large volume of information processed by the system. Accuracy for ProMED alerts is 91% compared to Google News reports at 81%, as ProMED messages follow a more regular structure.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results : As part of the evaluation of the system ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we analyzed 778 reports with HealthMap ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "representing 87 disease categories and 89 countries .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The automated classifier performed with 84 % accuracy ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "demonstrating significant usefulness in managing the large volume of information processed by the system .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Accuracy for ProMED alerts is 91 % compared to Google News reports at 81 % ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as ProMED messages follow a more regular structure .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "HealthMap is a useful free and open resource employing text-processing algorithms to identify important disease outbreak information through a user-friendly interface. Ⅲ J Am Med Inform Assoc. 2008;15:150 -157.",
+      "sentences": [
+        [
+          {
+            "segment_text": "HealthMap is a useful free and open resource employing text-processing algorithms to identify important disease outbreak information through a user-friendly interface .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Ⅲ J Am Med Inform Assoc. 2008 ; 15:150 -157 .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "12",
+    "segment_num": "23",
+    "token_num": "312"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "paper_id": "64c3c76e69e65e4149d408fc3a384f6ebb8d840c",
+  "metadata": {
+    "title": "A pseudoknot improves selection efficiency in ribosome display",
+    "coda_data_split": "train",
+    "coda_paper_id": 7439,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The size and diversity of ribosome display libraries depends upon stability of the complex formed between the ribosome, mRNA and translated protein. To investigate if mRNA secondary structure improves stability of the complex, we tested a pseudoknot, originating from the genomic RNA of infectious bronchitis virus (IBV), a member of the positive-stranded coronavirus group. We used the previously-isolated anti-DNA scFv, 3D8, as a target protein. During in vitro translation in rabbit reticulocyte lysate, we observed that incorporation of the pseudoknot into the mRNA resulted in production of a translational intermediate that corresponded to the expected size for ribosomal arrest at the pseudoknot. Complexes containing the mRNA pseudoknot exhibited a higher efficiency of affinity selection than that those without, indicating that the pseudoknot improves stability of the mRNA-ribosome-antibody complex in a eukaryotic translation system. Thus, in order to improve the efficiency of selection, this relatively short pseudoknot sequence could be incorporated into ribosome display.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The size and diversity of ribosome display libraries depends upon stability of the complex formed between the ribosome , mRNA and translated protein .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To investigate if mRNA secondary structure improves stability of the complex ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we tested a pseudoknot , originating from the genomic RNA of infectious bronchitis virus ( IBV ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "a member of the positive-stranded coronavirus group .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We used the previously-isolated anti-DNA scFv ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "3D8 , as a target protein .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "During in vitro translation in rabbit reticulocyte lysate ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we observed that incorporation of the pseudoknot into the mRNA resulted in production of a translational intermediate that corresponded to the expected size for ribosomal arrest at the pseudoknot .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Complexes containing the mRNA pseudoknot exhibited a higher efficiency of affinity selection than that those without ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "indicating that the pseudoknot improves stability of the mRNA-ribosome-antibody complex in a eukaryotic translation system .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , in order to improve the efficiency of selection ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "this relatively short pseudoknot sequence could be incorporated into ribosome display .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "12",
+    "token_num": "171"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "paper_id": "625ebf6fb0e903bee91ebbbf16a9223e3cad7eca",
+  "metadata": {
+    "title": "Prediction of smallpox outbreak and evaluation of control-measure policy in Japan, using a mathematical model",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1113,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Since the September 1 terrorist attacks and moreover, since the anthrax exposure events in 2001 in the United States, bioterrorism attacks seem to be a real threat. Of course, the public health authorities in Japan have started to prepare control measures for such events. We report here our attempts, using a mathematical model, to estimate outbreak size and to examine the most effective measures; comparing ring vaccination (contact tracing, isolation, and vaccination among contacts) and mass vaccination of the susceptible population in the area. The basic framework of the mathematical model follows a model used in previous research. The initial susceptible population is assumed to be 30 million persons. Concerning the important parameters, such as the number of initial-exposure cases, R 0 (infectious power, or natural history) and, the starting day of intervention after the initial exposure, we checked the robustness of our conclusions by sensitivity analysis. We found that mass vaccination is preferable to ring vaccination when the values for the initial-exposure cases and R 0 are high and when the start of intervention by public health authorities is delayed. In the base-case situation, the mass vaccination strategy needs almost 30 million vaccine doses. On the other hand, though ring vaccination needs fewer doses, it needs fewer than 50 000 doses in the worst-case scenario, that with larger first exposure, higher R 0 , or later start of public health authority intervention. This mathematical model can measure the prevalence of an infectious disease and can evaluate control measures for it before an outbreak. Especially, it is useful for the planning of the outbreaks of emerging diseases such as severe acute respiratory syndrome (SARS) or for bioterrorism attacks involving such diseases as smallpox. In further research, we will have to take into account the population people vaccinated of for smallpox, who account for about 70% of the total population in Japan.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Since the September 1 terrorist attacks and moreover ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "since the anthrax exposure events in 2001 in the United States ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "bioterrorism attacks seem to be a real threat .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Of course , the public health authorities in Japan have started to prepare control measures for such events .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We report here our attempts ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "using a mathematical model , to estimate outbreak size and to examine the most effective measures ; comparing ring vaccination ( contact tracing , isolation , and vaccination among contacts ) and mass vaccination of the susceptible population in the area .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The basic framework of the mathematical model follows a model used in previous research .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The initial susceptible population is assumed to be 30 million persons .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Concerning the important parameters , such as the number of initial-exposure cases ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "R 0 ( infectious power , or natural history ) and ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the starting day of intervention after the initial exposure ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we checked the robustness of our conclusions by sensitivity analysis .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We found that mass vaccination is preferable to ring vaccination when the values for the initial-exposure cases and R 0 are high and when the start of intervention by public health authorities is delayed .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the base-case situation , the mass vaccination strategy needs almost 30 million vaccine doses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "On the other hand , though ring vaccination needs fewer doses ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "it needs fewer than 50 000 doses in the worst-case scenario ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "that with larger first exposure ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "higher R 0 , or later start of public health authority intervention .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This mathematical model can measure the prevalence of an infectious disease and can evaluate control measures for it before an outbreak .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Especially , it is useful for the planning of the outbreaks of emerging diseases such as severe acute respiratory syndrome ( SARS ) or for bioterrorism attacks involving such diseases as smallpox .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In further research , we will have to take into account the population people vaccinated of for smallpox ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "who account for about 70 % of the total population in Japan .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "12",
+    "segment_num": "22",
+    "token_num": "351"
+  }
+}

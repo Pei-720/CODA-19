@@ -1,0 +1,154 @@
+{
+  "paper_id": "f0813fe3f70fb9a52ec5944b43bdd953a08cc49a",
+  "metadata": {
+    "title": "The v-sis Oncoprotein Loses Transforming Activity When Targeted to the Early Golgi Complex",
+    "coda_data_split": "train",
+    "coda_paper_id": 5132,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "The location of autocrine interactions between the v-sis protein and PDGF receptors remains uncertain and controversial. To examine whether receptor-ligand interactions can occur intracellularly, we have constructed fusion proteins that anchor v-sis to specific intracellular membranes. Fusion of a cis-Golgi retention signal from a coronavirus E1 glycoprotein to v-sis protein completely abolished its transforming ability when transfected into NIH3T3 cells. Fusion proteins incorporating mutations in this retention signal were not retained within the Golgi complex but instead were transported to the cell surface, resulting in efficient transformation. All chimeric proteins were shown to dimerize properly. Derivatives of some of these constructs were also constructed bearing the cytoplasmic tail from the glycoprotein of vesicular stomatitis virus (VSV-G). These constructs allowed examination of subcellular localization by double-label immunofluorescence, using antibodies that distinguish between the extraceUular PDGF-related domain and the VSV-G cytoplasmic tail. Colocalization of sis-E1-G with Golgi markers confirmed its targeting to the early Golgi complex. The sis-E1 constructs, targeted to the early Golgi complex, exhibited no proteo-lyric processing whereas the mutant forms of sis-E1 exhibited normal proteolytic processing. Treatment with suramin, a polyanionic compound that disrupts ligand/receptor interactions at the cell surface, was able to revert the transformed phenotype induced by the mutant sis-E1 constructs described here. Our results demonstrate that autocrine interactions between the v-sis oncoprotein and PDGF receptors within the early Golgi complex do not result in functional signal transduction.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The location of autocrine interactions between the v-sis protein and PDGF receptors remains uncertain and controversial .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To examine whether receptor-ligand interactions can occur intracellularly ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "we have constructed fusion proteins that anchor v-sis to specific intracellular membranes .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Fusion of a cis-Golgi retention signal from a coronavirus E1 glycoprotein to v-sis protein completely abolished its transforming ability when transfected into NIH3T3 cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Fusion proteins incorporating mutations in this retention signal were not retained within the Golgi complex but instead were transported to the cell surface , resulting in efficient transformation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "All chimeric proteins were shown to dimerize properly .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Derivatives of some of these constructs were also constructed bearing the cytoplasmic tail from the glycoprotein of vesicular stomatitis virus ( VSV-G ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These constructs allowed examination of subcellular localization by double-label immunofluorescence ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "using antibodies that distinguish between the extraceUular PDGF-related domain and the VSV-G cytoplasmic tail .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Colocalization of sis-E1-G with Golgi markers confirmed its targeting to the early Golgi complex .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The sis-E1 constructs , targeted to the early Golgi complex ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "exhibited no proteo-lyric processing whereas the mutant forms of sis-E1 exhibited normal proteolytic processing .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Treatment with suramin , a polyanionic compound that disrupts ligand/receptor interactions at the cell surface ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "was able to revert the transformed phenotype induced by the mutant sis-E1 constructs described here .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our results demonstrate that autocrine interactions between the v-sis oncoprotein and PDGF receptors within the early Golgi complex do not result in functional signal transduction .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Another v-sis fusion protein was constructed by attaching the transmembrane domain and COOHterminus of TGN38, a protein that localizes to the trans-Golgi network (TGN). This construct was primarily retained intracellularly, although some of the fusion protein reached the surface. Deletion of the COOH-terminal region of the TGN38 retention signal abrogated the TGN-localization, as evidenced by very prominent cell surface localization, and resulted in increased transforming activity. The behavior of the sis-TGN38 derivatives is discussed within the context of the properties of TGN38 itself, which is known to recycle from the cell surface to the TGN.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Another v-sis fusion protein was constructed by attaching the transmembrane domain and COOHterminus of TGN38 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a protein that localizes to the trans-Golgi network ( TGN ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This construct was primarily retained intracellularly ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "although some of the fusion protein reached the surface .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Deletion of the COOH-terminal region of the TGN38 retention signal abrogated the TGN-localization ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as evidenced by very prominent cell surface localization ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and resulted in increased transforming activity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The behavior of the sis-TGN38 derivatives is discussed within the context of the properties of TGN38 itself ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which is known to recycle from the cell surface to the TGN .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "15",
+    "segment_num": "24",
+    "token_num": "357"
+  }
+}

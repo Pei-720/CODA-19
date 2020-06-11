@@ -1,0 +1,247 @@
+{
+  "paper_id": "e0f76974abe7c6d61b7ddea1c46fff36831d34a4",
+  "metadata": {
+    "title": "Structure of M pro from COVID-19 virus and discovery of its inhibitors",
+    "coda_data_split": "train",
+    "coda_paper_id": 10397,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "A new coronavirus (CoV) identified as COVID-19 virus is the etiological agent responsible 31 for the 2019-2020 viral pneumonia outbreak that commenced in Wuhan 1-4 . Currently there 32 is no targeted therapeutics and effective treatment options remain very limited. In order to 33 rapidly discover lead compounds for clinical use, we initiated a program of combined 34 structure-assisted drug design, virtual drug screening and high-throughput screening to 35 identify new drug leads that target the COVID-19 virus main protease (M pro ). M pro is a key 36 CoV enzyme, which plays a pivotal role in mediating viral replication and transcription, 37 making it an attractive drug target for this virus 5,6 . Here, we identified a mechanism-based 38 inhibitor, N3, by computer-aided drug design and subsequently determined the crystal 39 structure of COVID-19 virus M pro in complex with this compound. Next, through a 40 combination of structure-based virtual and high-throughput screening, we assayed over 41 10,000 compounds including approved drugs, drug candidates in clinical trials, and other 42 pharmacologically active compounds as inhibitors of M pro . Six of these inhibit M pro with 43 IC50 values ranging from 0.67 to 21.4 μM. Ebselen also exhibited promising antiviral 44 activity in cell-based assays. Our results demonstrate the efficacy of this screening strategy, 45 which can lead to the rapid discovery of drug leads with clinical potential in response to 46 new infectious diseases where no specific drugs or vaccines are available. 47 48 author/funder. All rights reserved. No reuse allowed without permission. : bioRxiv preprint CoVs infect humans and other animal species, causing a variety of highly prevalent and 49 severe diseases, including Severe Acute Respiratory Syndrome (SARS) and Middle East 50 Respiratory Syndrome (MERS) 7 . The COVID-19 virus genome is comprised of ~30,000 51 nucleotides; its replicase gene encodes two overlapping polyproteins, pp1a and pp1ab, 52 required for viral replication and transcription 3,4 . The functional polypeptides are released 53 from the polyproteins by extensive proteolytic processing, predominantly by a 33.8-kDa 54 main protease (M pro ), also referred to as the 3C-like protease. M pro digests the polyprotein 55 at no less than 11 conserved sites, starting with the autolytic cleavage of this enzyme itself 56 from pp1a and pp1ab 8 . The functional importance of M pro in the viral life cycle, together 57 with the absence of closely related homologues in humans, identify the M pro as an attractive 58 target for antiviral drug design 9 . 59 To facilitate the rapid discovery of antiviral compounds with clinical potential, we 60 developed a strategy combining structure-assisted drug design, virtual drug screening and 61 high-throughput screening to repurpose existing drugs to target COVID-19 virus M pro . 62 Establishing a high-throughput activity assay 63 Recombinant COVID-19 virus M pro with native N and C termini was expressed in 64 Escherichia coli and subsequently purified (Extended Data Fig. 1a, b). The molecular 65 weight of COVID-19 virus M pro as determined by mass spectroscopy is 33797.0 Da, 66 consistent with its theoretical molecular weight 33796.8 Da. In order to characterize its 67 enzymatic activity and to carry out high-throughput screening of inhibitors, we developed 68 a fluorescence resonance energy transfer (FRET) assay. To do this, a fluorescently labeled 69 substrate, MCA-AVLQ↓SGFR-Lys(Dnp)-Lys-NH2, derived from the N-terminal auto-70 cleavage sequence of the viral protease was designed and synthesized for time-dependent",
+      "sentences": [
+        [
+          {
+            "segment_text": "A new coronavirus ( CoV ) identified as COVID-19 virus is the etiological agent responsible 31 for the 2019-2020 viral pneumonia outbreak that commenced in Wuhan 1-4 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Currently there 32 is no targeted therapeutics and effective treatment options remain very limited .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In order to 33 rapidly discover lead compounds for clinical use ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "we initiated a program of combined 34 structure-assisted drug design ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "virtual drug screening and high-throughput screening to 35 identify new drug leads that target the COVID-19 virus main protease ( M pro ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "M pro is a key 36 CoV enzyme ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which plays a pivotal role in mediating viral replication and transcription ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "37 making it an attractive drug target for this virus 5,6 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we identified a mechanism-based 38 inhibitor ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "N3 , by computer-aided drug design and subsequently determined the crystal 39 structure of COVID-19 virus M pro in complex with this compound .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Next , through a 40 combination of structure-based virtual and high-throughput screening ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we assayed over 41 10,000 compounds including approved drugs ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "drug candidates in clinical trials ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and other 42 pharmacologically active compounds as inhibitors of M pro .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Six of these inhibit M pro with 43 IC50 values ranging from 0.67 to 21.4 μM .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Ebselen also exhibited promising antiviral 44 activity in cell-based assays .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our results demonstrate the efficacy of this screening strategy ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "45 which can lead to the rapid discovery of drug leads with clinical potential in response to 46 new infectious diseases where no specific drugs or vaccines are available .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "47 48 author/funder .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "All rights reserved .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "No reuse allowed without permission .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": ": bioRxiv preprint CoVs infect humans and other animal species ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "causing a variety of highly prevalent and 49 severe diseases ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including Severe Acute Respiratory Syndrome ( SARS ) and Middle East 50 Respiratory Syndrome ( MERS ) 7 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The COVID-19 virus genome is comprised of ~ 30,000 51 nucleotides ; its replicase gene encodes two overlapping polyproteins ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "pp1a and pp1ab , 52 required for viral replication and transcription 3,4 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The functional polypeptides are released 53 from the polyproteins by extensive proteolytic processing ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "predominantly by a 33.8-kDa 54 main protease ( M pro ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "also referred to as the 3C-like protease .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "M pro digests the polyprotein 55 at no less than 11 conserved sites ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "starting with the autolytic cleavage of this enzyme itself 56 from pp1a and pp1ab 8 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The functional importance of M pro in the viral life cycle ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "together 57 with the absence of closely related homologues in humans ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "identify the M pro as an attractive 58 target for antiviral drug design 9 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "59 To facilitate the rapid discovery of antiviral compounds with clinical potential ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "we 60 developed a strategy combining structure-assisted drug design ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "virtual drug screening and 61 high-throughput screening to repurpose existing drugs to target COVID-19 virus M pro .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "62 Establishing a high-throughput activity assay 63 Recombinant COVID-19 virus M pro with native N and C termini was expressed in 64 Escherichia coli and subsequently purified ( Extended Data Fig. 1a , b ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The molecular 65 weight of COVID-19 virus M pro as determined by mass spectroscopy is 33797.0 Da ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "66 consistent with its theoretical molecular weight 33796.8 Da .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In order to characterize its 67 enzymatic activity and to carry out high-throughput screening of inhibitors ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "we developed 68 a fluorescence resonance energy transfer ( FRET ) assay .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "To do this , a fluorescently labeled 69 substrate ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "MCA-AVLQ ↓ SGFR-Lys ( Dnp ) - Lys-NH2 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "derived from the N-terminal auto-70 cleavage sequence of the viral protease was designed and synthesized for time-dependent",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "22",
+    "segment_num": "45",
+    "token_num": "627"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "paper_id": "096797c22e471cc23384fd840a53cc6a0f454529",
+  "metadata": {
+    "title": "",
+    "coda_data_split": "train",
+    "coda_paper_id": 4150,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "publicly funded repositories, such as the WHO COVID database with rights for unrestricted research re-use and analyses in any form or by any means with acknowledgement of the original source. These permissions are granted for free by Elsevier for as long as the COVID-19 resource centre remains active. Correspondence Submissions should be made via our electronic submission system at http://ees.elsevier.com/ thelancet/ www.thelancet.com Published online March 23, 2020 https://doi.org/10.1016/S0140-6736(20)30690-5 1",
+      "sentences": [
+        [
+          {
+            "segment_text": "publicly funded repositories , such as the WHO COVID database with rights for unrestricted research re-use and analyses in any form or by any means with acknowledgement of the original source .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These permissions are granted for free by Elsevier for as long as the COVID-19 resource centre remains active .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Correspondence Submissions should be made via our electronic submission system at http://ees.elsevier.com/ thelancet / www.thelancet.com Published online March 23 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "2020 https://doi.org/10.1016/S0140-6736 ( 20 ) 30690-5 1",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "appears to be higher than previously estimated, with a crude case-fatality rate of almost 4%. 6 We declare no competing interests.",
+      "sentences": [
+        [
+          {
+            "segment_text": "appears to be higher than previously estimated ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with a crude case-fatality rate of almost 4 % .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "6 We declare no competing interests .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "5",
+    "segment_num": "7",
+    "token_num": "103"
+  }
+}

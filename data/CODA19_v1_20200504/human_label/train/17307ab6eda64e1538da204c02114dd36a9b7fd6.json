@@ -1,0 +1,379 @@
+{
+  "paper_id": "17307ab6eda64e1538da204c02114dd36a9b7fd6",
+  "metadata": {
+    "title": "The immune vulnerability landscape of the 2019 Novel Coronavirus, SARS- CoV-2",
+    "coda_data_split": "train",
+    "coda_paper_id": 5290,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The outbreak of the 2019 Novel Coronavirus (SARS-CoV-2) rapidly spread from Wuhan, China to more than 150 countries, areas or territories, causing staggering number of infections and deaths. A systematic profiling of the immune vulnerability landscape of SARS-CoV-2, which can bring critical insights into the immune clearance mechanism, peptide vaccine development, and antiviral antibody development, is lacking. In this study, we investigated the potential of the SARS-CoV-2 viral proteins to induce class I and II MHC presentation and to form linear antibody epitopes. We created an online database to broadly share the predictions as a resource for the research community. Using this resource, we showed that genetic variations in SARS-CoV-2, though still few for the moment, already follow the pattern of mutations in related coronaviruses, and could alter the immune vulnerability landscape of this virus. Importantly, we discovered evidence that SARS-CoV-2, along with related coronaviruses, used mutations to evade attack from the human immune system. Overall, we present an immunological resource for SARS-CoV-2 that could promote both therapeutic development and mechanistic research. : bioRxiv preprint Chinese and European populations. (c) The B cell epitope profiles of the SARS-CoV-2. The Y axis shows the predicted B cell epitope score. Only showing residues with predicted epitope score \u003e0.6. (d) BLASTing the motif binding domain of the SARS-CoV-2 S protein and the SARS-CoV S protein. (e) The T cell and B cell epitope profiles of SARS-CoV. (f) The T cell and B cell epitope profiles of MERS-CoV.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The outbreak of the 2019 Novel Coronavirus ( SARS-CoV-2 ) rapidly spread from Wuhan ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "China to more than 150 countries ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "areas or territories , causing staggering number of infections and deaths .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A systematic profiling of the immune vulnerability landscape of SARS-CoV-2 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which can bring critical insights into the immune clearance mechanism ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "peptide vaccine development , and antiviral antibody development , is lacking .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we investigated the potential of the SARS-CoV-2 viral proteins to induce class I and II MHC presentation and to form linear antibody epitopes .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We created an online database to broadly share the predictions as a resource for the research community .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using this resource , we showed that genetic variations in SARS-CoV-2 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "though still few for the moment ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "already follow the pattern of mutations in related coronaviruses ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and could alter the immune vulnerability landscape of this virus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Importantly , we discovered evidence that SARS-CoV-2 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "along with related coronaviruses , used mutations to evade attack from the human immune system .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Overall , we present an immunological resource for SARS-CoV-2 that could promote both therapeutic development and mechanistic research .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": ": bioRxiv preprint Chinese and European populations .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( c ) The B cell epitope profiles of the SARS-CoV-2 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The Y axis shows the predicted B cell epitope score .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Only showing residues with predicted epitope score \u003e 0.6 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( d ) BLASTing the motif binding domain of the SARS-CoV-2 S protein and the SARS-CoV S protein .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( e ) The T cell and B cell epitope profiles of SARS-CoV .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( f ) The T cell and B cell epitope profiles of MERS-CoV .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Fig. 2 Genetic drifts in SARS-CoV-2 are influenced by host immune pressure. (a-c) The relative mutational rate profiles of the three coronaviruses: (a) SARS-CoV-2, (b) SARS-CoV, and (c) MERS-CoV. The relative mutational rates are calculated by the percentage of nucleotides (nts) from all strains of each virus (n\u003d114 for SARS-CoV-2, 19 for SARS-CoV-, and 519 for MERS-CoV) in each 60-nt bin that are different from the reference genome. The semi-transparent boxes mark the regions of high mutational rates due to artefacts of incomplete sequencing. These regions are shielded from calculations of gain and loss of immunogenicity. (d-f) The \"lost\" immunogenicity and \"gained\" immunogenicity due to mutations in each SARS-CoV-2 isolate compared with the reference genome. (d) CD8 + T epitopes, (e) CD4 + T epitopes, and (f) B cell epitopes. The red line indicates the total number of predicted B cell epitope-encoding amino acids in the reference sequence. (g-i) The same immunogenicity change analyses as in (d-f), but for SARS-CoV. (j-l) The same analysis for MERS-CoV. Sup. Fig. 1 The T cell epitope profiles of the European population. (a) SARS-CoV-2, (b) SARS-CoV, and (c) MERS-CoV.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Fig. 2 Genetic drifts in SARS-CoV-2 are influenced by host immune pressure .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( a-c ) The relative mutational rate profiles of the three coronaviruses : ( a ) SARS-CoV-2 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "( b ) SARS-CoV , and ( c ) MERS-CoV .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The relative mutational rates are calculated by the percentage of nucleotides ( nts ) from all strains of each virus ( n \u003d 114 for SARS-CoV-2 , 19 for SARS-CoV - , and 519 for MERS-CoV ) in each 60-nt bin that are different from the reference genome .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The semi-transparent boxes mark the regions of high mutational rates due to artefacts of incomplete sequencing .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These regions are shielded from calculations of gain and loss of immunogenicity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( d-f ) The `` lost \u0027\u0027 immunogenicity and `` gained \u0027\u0027 immunogenicity due to mutations in each SARS-CoV-2 isolate compared with the reference genome .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( d ) CD8 + T epitopes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "( e ) CD4 + T epitopes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and ( f ) B cell epitopes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The red line indicates the total number of predicted B cell epitope-encoding amino acids in the reference sequence .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( g-i ) The same immunogenicity change analyses as in ( d-f ) , but for SARS-CoV .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( j-l ) The same analysis for MERS-CoV .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Sup .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Fig. 1 The T cell epitope profiles of the European population .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( a ) SARS-CoV-2 , ( b ) SARS-CoV ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and ( c ) MERS-CoV .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Sup. Fig. 2 The variation of T cell epitope profiles for SARS-CoV-2, SARS-CoV and MERS-CoV across populations. The heatmap represents the number of immunogenic binding epitopes across the binned genomes (500bp) of (a) SARS-CoV-2, (b) SARS-CoV and (c) MERS-CoV for the major HLA-A alleles shown as examples (allele frequency larger than 1%) in the European American (EA) and Hongkong Chinese (HK) populations. These major alleles are colored in black, blue or red if they are common to both EA and HK population, unique to EA population, or unique to HK population, respectively. On the right, the band of strength represents the cumulative number of immunogenic peptides, and the bands of EA and HK represent the HLA allele frequency of EA and HK populations, respectively. Fig. 3 Part of the multiple alignment results of all the SARS-CoV-2 strains. Fig. 4 B cell epitope-encoding amino acids in contiguous stretches of \u003e10 epitope-encoding amino acids. (a) SARS-CoV-2, (b) SARS-CoV, and (c) MERS-CoV. Red lines denote the total numbers of epitope-encoding amino acids of the reference sequences.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Sup .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Fig. 2 The variation of T cell epitope profiles for SARS-CoV-2 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "SARS-CoV and MERS-CoV across populations .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The heatmap represents the number of immunogenic binding epitopes across the binned genomes ( 500bp ) of ( a ) SARS-CoV-2 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "( b ) SARS-CoV and ( c ) MERS-CoV for the major HLA-A alleles shown as examples ( allele frequency larger than 1 % ) in the European American ( EA ) and Hongkong Chinese ( HK ) populations .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These major alleles are colored in black ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "blue or red if they are common to both EA and HK population ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "unique to EA population , or unique to HK population , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "On the right , the band of strength represents the cumulative number of immunogenic peptides ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the bands of EA and HK represent the HLA allele frequency of EA and HK populations , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Fig. 3 Part of the multiple alignment results of all the SARS-CoV-2 strains .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Fig. 4 B cell epitope-encoding amino acids in contiguous stretches of \u003e 10 epitope-encoding amino acids .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( a ) SARS-CoV-2 , ( b ) SARS-CoV ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and ( c ) MERS-CoV .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Red lines denote the total numbers of epitope-encoding amino acids of the reference sequences .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Sup.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Sup .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Sup. Fig. 5 The trend of immunogenicity to SARS-CoV-2 over time. (a) \"Gained/lost\" T cell immunogenicity (class I). (b) \"Gained/lost\" T cell immunogenicity (class II). (c) Changes in B cell immunogenicity (all epitope-encoding residues). (d) Changes in B cell immunogenicity (epitope-encoding residues in stretches of \u003e10 epitope-encoding residues). The strains were grouped according to their collection time of",
+      "sentences": [
+        [
+          {
+            "segment_text": "Sup .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Fig. 5 The trend of immunogenicity to SARS-CoV-2 over time .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "( a ) `` Gained/lost \u0027\u0027 T cell immunogenicity ( class I ) .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "( b ) `` Gained/lost \u0027\u0027 T cell immunogenicity ( class II ) .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "( c ) Changes in B cell immunogenicity ( all epitope-encoding residues ) .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "( d ) Changes in B cell immunogenicity ( epitope-encoding residues in stretches of \u003e 10 epitope-encoding residues ) .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "The strains were grouped according to their collection time of",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "44",
+    "segment_num": "62",
+    "token_num": "834"
+  }
+}

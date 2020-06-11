@@ -1,0 +1,199 @@
+{
+  "paper_id": "0557950cd56edc7c85ef5b3bc9961bdd1d20516a",
+  "metadata": {
+    "title": "RNAi therapeutics: a potential new class of pharmaceutical drugs R E V I E W",
+    "coda_data_split": "train",
+    "coda_paper_id": 9923,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The rapid identification of highly specific and potent drug candidates continues to be a substantial challenge with traditional pharmaceutical approaches. Moreover, many targets have proven to be intractable to traditional small-molecule and protein approaches. Therapeutics based on RNA interference (RNAi) offer a powerful method for rapidly identifying specific and potent inhibitors of disease targets from all molecular classes. Numerous proof-of-concept studies in animal models of human disease demonstrate the broad potential application of RNAi therapeutics. The major challenge for successful drug development is identifying delivery strategies that can be translated to the clinic. With advances in this area and the commencement of multiple clinical trials with RNAi therapeutic candidates, a transformation in modern medicine may soon be realized.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The rapid identification of highly specific and potent drug candidates continues to be a substantial challenge with traditional pharmaceutical approaches .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , many targets have proven to be intractable to traditional small-molecule and protein approaches .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therapeutics based on RNA interference ( RNAi ) offer a powerful method for rapidly identifying specific and potent inhibitors of disease targets from all molecular classes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Numerous proof-of-concept studies in animal models of human disease demonstrate the broad potential application of RNAi therapeutics .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The major challenge for successful drug development is identifying delivery strategies that can be translated to the clinic .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "With advances in this area and the commencement of multiple clinical trials with RNAi therapeutic candidates ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a transformation in modern medicine may soon be realized .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The RNase Dicer initiates RNAi by cleaving double-stranded RNA substrates into small fragments of about 21-25 nucleotides in length (Fig. 1) . These siRNA duplexes are incorporated into a protein complex called the RNA-induced silencing complex (RISC; Fig. 1 ). Biochemical analysis identified Argonaute 2 (Ago2) as the protein in RISC responsible for mRNA cleavage 3 , and the crystal structure of RNA-bound Ago2 has been reported, revealing key interactions 4 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "The RNase Dicer initiates RNAi by cleaving double-stranded RNA substrates into small fragments of about 21-25 nucleotides in length ( Fig. 1 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These siRNA duplexes are incorporated into a protein complex called the RNA-induced silencing complex ( RISC ; Fig. 1 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Biochemical analysis identified Argonaute 2 ( Ago2 ) as the protein in RISC responsible for mRNA cleavage 3 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and the crystal structure of RNA-bound Ago2 has been reported , revealing key interactions 4 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Before RISC activation, the sense (nonguide) strand of the siRNA duplex is cleaved by Ago2, in the same manner as it cleaves mRNA substrates 5,6 . Preventing sense-strand cleavage by chemical modification can reduce siRNA potency in vitro; however, experimental context is important, as siRNAs with highly stabilized (uncleavable) sense strands can be highly active.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Before RISC activation , the sense ( nonguide ) strand of the siRNA duplex is cleaved by Ago2 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "in the same manner as it cleaves mRNA substrates 5,6 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Preventing sense-strand cleavage by chemical modification can reduce siRNA potency in vitro ; however ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "experimental context is important , as siRNAs with highly stabilized ( uncleavable ) sense strands can be highly active .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Small-molecule pharmaceutical drugs, almost without exception, meet the \u0027Lipinski Rules\u0027 , criteria including high lipophilicity and molecular weight of not more than 500. In sharp contrast, siRNAs naturally lack these drug-like properties owing to their large size (two turns of a nucleic acid double helix), nearly 40 anionic charges due to the phosphodiester backbone, and high molecular weight (over 13 kDa). In aqueous solution, with their sugar-phosphate backbone exposed to water, siRNAs are extremely hydrophilic and heavily hydrated. Furthermore, siRNAs are unstable in serum as a result of degradation by serum nucleases, contributing to their short half-lives in vivo 7 . Although the molecular weight of siRNAs cannot be reduced, these molecules can be made more \u0027drug-like\u0027 through judicious use of chemical modification to the sugars, backbone or bases of the oligoribonucleotides.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Small-molecule pharmaceutical drugs , almost without exception ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "meet the ` Lipinski Rules \u0027 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "criteria including high lipophilicity and molecular weight of not more than 500 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In sharp contrast , siRNAs naturally lack these drug-like properties owing to their large size ( two turns of a nucleic acid double helix ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "nearly 40 anionic charges due to the phosphodiester backbone ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and high molecular weight ( over 13 kDa ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In aqueous solution , with their sugar-phosphate backbone exposed to water ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "siRNAs are extremely hydrophilic and heavily hydrated .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , siRNAs are unstable in serum as a result of degradation by serum nucleases ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "contributing to their short half-lives in vivo 7 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although the molecular weight of siRNAs can not be reduced ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "these molecules can be made more ` drug-like \u0027 through judicious use of chemical modification to the sugars ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "backbone or bases of the oligoribonucleotides .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Chemically modified siRNA duplexes have been evaluated in cellbased assays and in animal models. The modifications discussed are",
+      "sentences": [
+        [
+          {
+            "segment_text": "Chemically modified siRNA duplexes have been evaluated in cellbased assays and in animal models .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The modifications discussed are",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "18",
+    "segment_num": "30",
+    "token_num": "448"
+  }
+}

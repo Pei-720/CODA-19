@@ -1,0 +1,109 @@
+{
+  "paper_id": "c012578f0cfd8aebefdfd443611b745f378fbd0d",
+  "metadata": {
+    "title": "Deducing the N-and O-glycosylation profile of the spike protein of novel coronavirus SARS-CoV-2",
+    "coda_data_split": "train",
+    "coda_paper_id": 10321,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The current emergence of the novel coronavirus pandemic caused by SARS-CoV-2 demands the development of new therapeutic strategies to prevent rapid progress of mortalities. The coronavirus spike (S) protein, which facilitates viral attachment, entry and membrane fusion is heavily glycosylated and plays a critical role in the elicitation of the host immune response. The spike protein is comprised of two protein subunits (S1 and S2), which together possess 22 potential N-glycosylation sites. Herein, we report the glycosylation mapping on spike protein subunits S1 and S2 expressed on human cells through high resolution mass spectrometry. We have characterized the quantitative N-glycosylation profile on spike protein and interestingly, observed unexpected O-glycosylation modifications on the receptor binding domain (RBD) of spike protein subunit S1. Even though O-glycosylation has been predicted on the spike protein of SARS-CoV-2, this is the first report of experimental data for both the site of O-glycosylation and identity of the O-glycans attached on the subunit S1. Our data on the N-and O-glycosylation is strengthened by extensive manual interpretation of each glycopeptide spectra in addition to using bioinformatics tools to confirm the complexity of glycosylation in the spike protein. The elucidation of the glycan repertoire on the spike protein provides insights into the viral binding studies and more importantly, propels research towards the development of a suitable vaccine candidate. author/funder. All rights reserved. No reuse allowed without permission.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The current emergence of the novel coronavirus pandemic caused by SARS-CoV-2 demands the development of new therapeutic strategies to prevent rapid progress of mortalities .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The coronavirus spike ( S ) protein ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which facilitates viral attachment , entry and membrane fusion is heavily glycosylated and plays a critical role in the elicitation of the host immune response .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The spike protein is comprised of two protein subunits ( S1 and S2 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which together possess 22 potential N-glycosylation sites .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Herein , we report the glycosylation mapping on spike protein subunits S1 and S2 expressed on human cells through high resolution mass spectrometry .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We have characterized the quantitative N-glycosylation profile on spike protein and interestingly ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "observed unexpected O-glycosylation modifications on the receptor binding domain ( RBD ) of spike protein subunit S1 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Even though O-glycosylation has been predicted on the spike protein of SARS-CoV-2 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "this is the first report of experimental data for both the site of O-glycosylation and identity of the O-glycans attached on the subunit S1 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our data on the N-and O-glycosylation is strengthened by extensive manual interpretation of each glycopeptide spectra in addition to using bioinformatics tools to confirm the complexity of glycosylation in the spike protein .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The elucidation of the glycan repertoire on the spike protein provides insights into the viral binding studies and more importantly ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "propels research towards the development of a suitable vaccine candidate .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "author/funder .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "All rights reserved .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "No reuse allowed without permission .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "11",
+    "segment_num": "16",
+    "token_num": "252"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "paper_id": "f5188ef9c97d21bff6b592a1af4265c68e7ca28e",
+  "metadata": {
+    "title": "Visualization of protein sequence space with force-directed graphs, and their application to the choice of target-template pairs for homology modelling",
+    "coda_data_split": "train",
+    "coda_paper_id": 9892,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The protein sequence-structure gap results from the contrast between rapid, low-cost deep sequencing, and slow, expensive experimental structure determination techniques. Comparative homology modelling may have the potential to close this gap by predicting protein structure in target sequences using existing experimentally solved structures as templates. This paper presents the first use of force-directed graphs for the visualization of sequence space in two dimensions, and applies them to the choice of suitable RNA-dependent RNA polymerase (RdRP) target-template pairs within human-infective RNA virus genera. Measures of centrality in protein sequence space for each genus were also derived and used to identify centroid nearest-neighbour sequences (CNNs) potentially useful for production of homology models most representative of their genera. Homology modelling was then carried out for targettemplate pairs in different species, different genera and different families, and model quality assessed using several metrics. Reconstructed ancestral RdRP sequences for individual genera were also used as templates for the production of ancestral RdRP homology models. High quality ancestral RdRP models were consistently produced, as were good quality models for target-template pairs in the same genus. Homology modelling between genera in the same family produced mixed results and inter-family modelling was unreliable. We present a protocol for the production of optimal RdRP homology models for use in further experiments, e.g. docking to discover novel anti-viral compounds. (219 words)",
+      "sentences": [
+        [
+          {
+            "segment_text": "The protein sequence-structure gap results from the contrast between rapid ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "low-cost deep sequencing , and slow ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "expensive experimental structure determination techniques .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Comparative homology modelling may have the potential to close this gap by predicting protein structure in target sequences using existing experimentally solved structures as templates .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This paper presents the first use of force-directed graphs for the visualization of sequence space in two dimensions ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and applies them to the choice of suitable RNA-dependent RNA polymerase ( RdRP ) target-template pairs within human-infective RNA virus genera .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Measures of centrality in protein sequence space for each genus were also derived and used to identify centroid nearest-neighbour sequences ( CNNs ) potentially useful for production of homology models most representative of their genera .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Homology modelling was then carried out for targettemplate pairs in different species ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "different genera and different families ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and model quality assessed using several metrics .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Reconstructed ancestral RdRP sequences for individual genera were also used as templates for the production of ancestral RdRP homology models .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "High quality ancestral RdRP models were consistently produced ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "as were good quality models for target-template pairs in the same genus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Homology modelling between genera in the same family produced mixed results and inter-family modelling was unreliable .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We present a protocol for the production of optimal RdRP homology models for use in further experiments ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "e.g. docking to discover novel anti-viral compounds .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( 219 words )",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "10",
+    "segment_num": "17",
+    "token_num": "244"
+  }
+}

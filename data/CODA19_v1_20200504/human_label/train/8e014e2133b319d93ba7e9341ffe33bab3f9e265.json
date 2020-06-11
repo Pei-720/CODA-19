@@ -1,0 +1,67 @@
+{
+  "paper_id": "8e014e2133b319d93ba7e9341ffe33bab3f9e265",
+  "metadata": {
+    "title": "A HLA-A2-restricted CTL epitope induces anti-tumor effects against human lung cancer in mouse xenograft model",
+    "coda_data_split": "train",
+    "coda_paper_id": 8008,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "cancer xenograft models. The tumor associated antigen L6 (TAL6) is highly expressed in human lung cancer cell lines and tumor specimens as compared to normal lung tissues. TAL6 derived peptides strongly inhibited tumor growth, cancer metastasis and prolonged survival time in HLA-A2 transgenic mice immunized with a formulation of T-helper (Th) peptide, synthetic CpG ODN, and adjuvant Montanide ISA-51 (ISA-51). Adoptive transfer of peptide-induced CTL cells from HLA-A2 transgenic mice into human tumor xenograft SCID mice significantly inhibited tumor growth. Furthermore, combination of CTL-peptide immunotherapy and gemcitabine additively improved the therapeutic effects. This pre-clinical evaluation model provides a useful platform to develop efficient immunotherapeutic drugs to treat lung cancer and demonstrates a promising strategy with benefit of antitumor immune responses worthy of further development in clinical trials.",
+      "sentences": [
+        [
+          {
+            "segment_text": "cancer xenograft models .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The tumor associated antigen L6 ( TAL6 ) is highly expressed in human lung cancer cell lines and tumor specimens as compared to normal lung tissues .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "TAL6 derived peptides strongly inhibited tumor growth ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "cancer metastasis and prolonged survival time in HLA-A2 transgenic mice immunized with a formulation of T-helper ( Th ) peptide ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "synthetic CpG ODN , and adjuvant Montanide ISA-51 ( ISA-51 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Adoptive transfer of peptide-induced CTL cells from HLA-A2 transgenic mice into human tumor xenograft SCID mice significantly inhibited tumor growth .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , combination of CTL-peptide immunotherapy and gemcitabine additively improved the therapeutic effects .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This pre-clinical evaluation model provides a useful platform to develop efficient immunotherapeutic drugs to treat lung cancer and demonstrates a promising strategy with benefit of antitumor immune responses worthy of further development in clinical trials .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "8",
+    "token_num": "143"
+  }
+}

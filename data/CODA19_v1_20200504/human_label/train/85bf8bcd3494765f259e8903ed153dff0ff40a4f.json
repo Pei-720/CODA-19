@@ -1,0 +1,405 @@
+{
+  "paper_id": "85bf8bcd3494765f259e8903ed153dff0ff40a4f",
+  "metadata": {
+    "title": "TMV mutants with poly(A) tracts of different lengths demonstrate structural variations in 3′UTR affecting viral RNAs accumulation and symptom expression OPEN",
+    "coda_data_split": "train",
+    "coda_paper_id": 4108,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "and TMV(42A+UPD) formed a similar structure as that of TMV 3′-UTR, but TMV(62A+UPD) structures altered by the introduced poly(A) tract. In addition, TMV(24A+UPD) had a higher viral RNAs accumulation than TMV in N. benthamiana protoplasts, and induced lethal symptoms in the infected plants. TMV(62A+UPD) showed a drastically reduced accumulation, its coat protein was undetectable in protoplasts, and the inoculated plants remained symptomless. This study analyzed the structures of 3′-UTR of TMV and found that the longer poly(A) tract introduced upstream of UPD reduced viral RNAs accumulation and induced milder symptoms in N. benthamiana. In conclusion, different lengths of the internal poly(A) tract introduced into the TMV 3′UTR lead to structural variations that affect virus accumulation and symptom expression.",
+      "sentences": [
+        [
+          {
+            "segment_text": "and TMV ( 42A + UPD ) formed a similar structure as that of TMV 3 ′ - UTR ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but TMV ( 62A + UPD ) structures altered by the introduced poly ( A ) tract .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , TMV ( 24A + UPD ) had a higher viral RNAs accumulation than TMV in N. benthamiana protoplasts ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and induced lethal symptoms in the infected plants .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "TMV ( 62A + UPD ) showed a drastically reduced accumulation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "its coat protein was undetectable in protoplasts ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the inoculated plants remained symptomless .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study analyzed the structures of 3 ′ - UTR of TMV and found that the longer poly ( A ) tract introduced upstream of UPD reduced viral RNAs accumulation and induced milder symptoms in N. benthamiana .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "In conclusion , different lengths of the internal poly ( A ) tract introduced into the TMV 3 ′ UTR lead to structural variations that affect virus accumulation and symptom expression .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Tobacco mosaic virus (TMV) is a positive-sense single-stranded RNA virus that belongs to the genus Tobamovirus. TMV has a wide host range and the symptoms vary with plant species and environmental conditions. In the field, tobacco plants infected by TMV show a typical mosaic pattern of light and dark green colour on the leaves, and distortion of newly emerged leaves. In the greenhouse, TMV infected N. benthamiana plants show severe leaf necrosis and stem collapse, leading to plant death within a few days. Similar to other tobamoviruses, the genome of the TMV-U1 strain 1,2 encodes four major proteins, two RNA-dependent RNA polymerases (p126/p183), a movement protein (p30) and a coat protein (p17.5), which are essential for virus replication, cell-to-cell and long distance movement in plants 3-5 , respectively. A poly(CAA) segment of nucleotides located in the 5′ untranslated region (UTR) serves as a binding site for the host heat shock protein, HSP101, which is essential for viral translation. The poly(CAA) sequence is functionally similar to a 5′ -cap or a poly(A) tail that recruits host elongation factor eIF4F for viral translation 6-8 . In TMV 3′ -UTR, five pseudoknots (PKs) are present. Three belong to an upstream pseudoknots domain (UPD), and two are located in the tRNA-like structure (TLS) 9,10 . TMV UPD plays an important role in both viral replication and translation. Mutational analysis shows that UPD could interact with eEF1A/GTP with high affinity, and the PK2 and PK3 of the UPD located immediately upstream of the TLS are involved 11,12 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Tobacco mosaic virus ( TMV ) is a positive-sense single-stranded RNA virus that belongs to the genus Tobamovirus .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "TMV has a wide host range and the symptoms vary with plant species and environmental conditions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the field , tobacco plants infected by TMV show a typical mosaic pattern of light and dark green colour on the leaves ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and distortion of newly emerged leaves .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the greenhouse , TMV infected N. benthamiana plants show severe leaf necrosis and stem collapse ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "leading to plant death within a few days .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Similar to other tobamoviruses , the genome of the TMV-U1 strain 1,2 encodes four major proteins ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "two RNA-dependent RNA polymerases ( p126/p183 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a movement protein ( p30 ) and a coat protein ( p17 .5 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which are essential for virus replication ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "cell-to-cell and long distance movement in plants 3-5 , respectively .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A poly ( CAA ) segment of nucleotides located in the 5 ′ untranslated region ( UTR ) serves as a binding site for the host heat shock protein ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "HSP101 , which is essential for viral translation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The poly ( CAA ) sequence is functionally similar to a 5 ′ - cap or a poly ( A ) tail that recruits host elongation factor eIF4F for viral translation 6-8 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In TMV 3 ′ - UTR ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "five pseudoknots ( PKs ) are present .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Three belong to an upstream pseudoknots domain ( UPD ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and two are located in the tRNA-like structure ( TLS ) 9,10 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "TMV UPD plays an important role in both viral replication and translation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Mutational analysis shows that UPD could interact with eEF1A/GTP with high affinity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and the PK2 and PK3 of the UPD located immediately upstream of the TLS are involved 11,12 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Polyadenylation is known to function in regulating RNA stability and translation. The importance of the poly(A) tail to viral infectivity has been reported in some viruses and the poly(A) length could also affect virus replication 13-16 . A poly(A) tail of sufficient length in Bamboo mosaic virus interacts with secondary structural elements upstream to form a pseudoknot structure, and disruption of this interaction reduces virus accumulation 17,18 . Several plant viral RNAs do not have a poly(A) tail, but possess an internal polyadenylate sequence in the 3′ terminal region of their genomes 19 . The length of the poly(A) tract varies in different viruses. So far, internal poly(A) tracts are found in bromoviruses, hordeiviruses, and tymoviruses 20 . Dulcamara mottle virus possesses an internal poly(A) tract in the 3′ -UTR which lacks a 3′ -terminal tRNA-like sequence (TLS). This is different from other tymoviruses 21 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Polyadenylation is known to function in regulating RNA stability and translation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The importance of the poly ( A ) tail to viral infectivity has been reported in some viruses and the poly ( A ) length could also affect virus replication 13-16 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A poly ( A ) tail of sufficient length in Bamboo mosaic virus interacts with secondary structural elements upstream to form a pseudoknot structure ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and disruption of this interaction reduces virus accumulation 17,18 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Several plant viral RNAs do not have a poly ( A ) tail ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but possess an internal polyadenylate sequence in the 3 ′ terminal region of their genomes 19 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The length of the poly ( A ) tract varies in different viruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "So far , internal poly ( A ) tracts are found in bromoviruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "hordeiviruses , and tymoviruses 20 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Dulcamara mottle virus possesses an internal poly ( A ) tract in the 3 ′ - UTR which lacks a 3 ′ - terminal tRNA-like sequence ( TLS ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This is different from other tymoviruses 21 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In recent years, two tobamoviruses isolated from Hibiscus spp. were reported to contain an internal poly(A) tract upstream of 3′ -TLS. They are Hibiscus latent Singapore virus (HLSV) 22 and Hibiscus latent Fort Pierce virus 23,24 . The length of HLSV internal poly(A) tract ranges from 78 to 96 nt 22 . HLSV is unable to replicate when the length of internal poly(A) tract is less than 24 nt 25 . Therefore, the 24 nt internal poly(A) tract is the minimal length required for HLSV replication in N. benthamiana. Moreover, HLSV is unable to replicate if the internal poly(A) tract is substituted by TMV UPD sequences, indicating that the internal poly(A) tract is not replaceable. This is different from previous studies that the UPD can functionally substitute for a poly(A) tail in plant and animal cells 26 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "In recent years , two tobamoviruses isolated from Hibiscus spp. were reported to contain an internal poly ( A ) tract upstream of 3 ′ - TLS .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "They are Hibiscus latent Singapore virus ( HLSV ) 22 and Hibiscus latent Fort Pierce virus 23,24 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The length of HLSV internal poly ( A ) tract ranges from 78 to 96 nt 22 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "HLSV is unable to replicate when the length of internal poly ( A ) tract is less than 24 nt 25 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , the 24 nt internal poly ( A ) tract is the minimal length required for HLSV replication in N. benthamiana .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , HLSV is unable to replicate if the internal poly ( A ) tract is substituted by TMV UPD sequences ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "indicating that the internal poly ( A ) tract is not replaceable .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This is different from previous studies that the UPD can functionally substitute for a poly ( A ) tail in plant and animal cells 26 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In general, the 3′ -UTR is considered as a modular element that largely provides self-contained functions. The TLS mimics the tRNA structure, and it enhances virus translation and promotes minus-strand synthesis 27,28 . In vitro competition experiments reveal that the TMV-TLS has the highest binding affinity for RNA polymerase 29 . Deletion studies of UPD showed that the pseudoknot which is closest to the TLS is essential for TMV replication 11 . It is known that the pseudoknot structure, not sequences in UPD, plays an important role in virus replication. The poly(A) tract is a simple RNA element and its length affects virus replication efficiency of HLSV. In this study, a series of TMV mutants were constructed with different lengths of internal poly(A) tract. The internal poly(A) tract is positioned upstream of UPD in the TMV genome. Results showed that TMV(24A+ UPD) possessed the highest infectivity and induced most severe lethal symptoms. The accumulation of viral RNAs induced by TMV(24A+ UPD) was higher than that of TMV in N. benthamiana. TMV(42A+ UPD) induced necrosis in the inoculated leaves, and systemic movement to the upper leaves was slower than that of TMV(24A+ UPD). The accumulation of viral RNAs of TMV(62A+ UPD) declined rapidly in N. benthamiana protoplasts and infected plants were symptomless after inoculation. The RNA structures of the mutated TMV fragments were subjected to selective 2′ -hydroxyl acylation analyzed by the primer extension (SHAPE) method. Structural change in the 3′ -UTR was dependent on the length of the poly(A) tract that was introduced upstream of the UPD in TMV genomes, and the longer the tract, the lower the viral RNAs accumulation and its infectivity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In general , the 3 ′ - UTR is considered as a modular element that largely provides self-contained functions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The TLS mimics the tRNA structure ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and it enhances virus translation and promotes minus-strand synthesis 27,28 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In vitro competition experiments reveal that the TMV-TLS has the highest binding affinity for RNA polymerase 29 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Deletion studies of UPD showed that the pseudoknot which is closest to the TLS is essential for TMV replication 11 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is known that the pseudoknot structure ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "not sequences in UPD , plays an important role in virus replication .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The poly ( A ) tract is a simple RNA element and its length affects virus replication efficiency of HLSV .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , a series of TMV mutants were constructed with different lengths of internal poly ( A ) tract .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The internal poly ( A ) tract is positioned upstream of UPD in the TMV genome .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results showed that TMV ( 24A + UPD ) possessed the highest infectivity and induced most severe lethal symptoms .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The accumulation of viral RNAs induced by TMV ( 24A + UPD ) was higher than that of TMV in N. benthamiana .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "TMV ( 42A + UPD ) induced necrosis in the inoculated leaves ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and systemic movement to the upper leaves was slower than that of TMV ( 24A + UPD ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The accumulation of viral RNAs of TMV ( 62A + UPD ) declined rapidly in N. benthamiana protoplasts and infected plants were symptomless after inoculation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The RNA structures of the mutated TMV fragments were subjected to selective 2 ′ - hydroxyl acylation analyzed by the primer extension ( SHAPE ) method .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Structural change in the 3 ′ - UTR was dependent on the length of the poly ( A ) tract that was introduced upstream of the UPD in TMV genomes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the longer the tract ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the lower the viral RNAs accumulation and its infectivity .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "45",
+    "segment_num": "68",
+    "token_num": "1157"
+  }
+}

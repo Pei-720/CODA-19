@@ -1,0 +1,61 @@
+{
+  "paper_id": "af0fe2d533d6f1bb9cc3b431676abef8fe1810fd",
+  "metadata": {
+    "title": "Label-Free, Electrical Detection of the SARS Virus N-Protein with Nanowire Biosensors Utilizing Antibody Mimics as Capture Probes",
+    "coda_data_split": "train",
+    "coda_paper_id": 5437,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Antibody mimic proteins (AMPs) are poly-peptides that bind to their target analytes with high affinity and specificity, just like conventional antibodies, but are much smaller in size (2-5 nm, less than 10kDa). In this report, we describe the first application of AMP in the field of nanobiosensors. In 2 O 3 nanowire based biosensors have been configured with an AMP (Fibronectin, Fn) to detect nucleocapsid (N) protein, a biomarker for severe acute respiratory syndrome (SARS). Using these devices, N protein was detected at sub-nanomolar concentration in the presence of 44 µM bovine serum albumin as a background. Furthermore, the binding constant of the AMP to Fn was determined from the concentration dependence of the response of our biosensors.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Antibody mimic proteins ( AMPs ) are poly-peptides that bind to their target analytes with high affinity and specificity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "just like conventional antibodies , but are much smaller in size ( 2-5 nm , less than 10kDa ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this report , we describe the first application of AMP in the field of nanobiosensors .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "In 2 O 3 nanowire based biosensors have been configured with an AMP ( Fibronectin , Fn ) to detect nucleocapsid ( N ) protein ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "a biomarker for severe acute respiratory syndrome ( SARS ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using these devices , N protein was detected at sub-nanomolar concentration in the presence of 44 µM bovine serum albumin as a background .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , the binding constant of the AMP to Fn was determined from the concentration dependence of the response of our biosensors .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "7",
+    "token_num": "141"
+  }
+}

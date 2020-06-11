@@ -1,0 +1,123 @@
+{
+  "paper_id": "e977ca94d7eb88b4b650c25c3543e9d48afd535b",
+  "metadata": {
+    "title": "Predicting social response to infectious disease outbreaks from internet-based news streams",
+    "coda_data_split": "train",
+    "coda_paper_id": 7423,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Infectious disease outbreaks often have consequences beyond human health, including concern among the population, economic instability, and sometimes violence. A warning system capable of anticipating social disruptions resulting from disease outbreaks is urgently needed to help decision makers prepare appropriately. We designed a system that operates in near real-time to identify and predict social response. Over 150,000 Internet-based news articles related to outbreaks of 16 diseases in 72 countries and territories were provided by HealthMap. These articles were automatically tagged with indicators of the disease activity and population reaction. An anomaly detection algorithm was implemented on the population reaction indicators to identify periods of unusually severe social response. Then a model was developed to predict the probability of these periods of unusually severe social response occurring in the coming week, 2 and 3 weeks. This model exhibited remarkably strong performance for diseases with substantial media coverage. For country-disease pairs with a median of 20 or more articles per year, the onset of social response in the next week was correctly predicted over 60% of the time, and 87% of weeks were correctly predicted. Performance was weaker for diseases with little media coverage, and, for these diseases, the main utility of our system is in identifying social response when it occurs, rather than predicting when it will happen in the future. Overall, the developed near real-time prediction approach is a promising step toward developing predictive models to inform responders of the likely social consequences of disease spread. This research was funded by Defense Threat Reduction Agency (www.dtra.mil) contact HDTRA1-12-C-0061.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Infectious disease outbreaks often have consequences beyond human health ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including concern among the population ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "economic instability , and sometimes violence .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A warning system capable of anticipating social disruptions resulting from disease outbreaks is urgently needed to help decision makers prepare appropriately .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We designed a system that operates in near real-time to identify and predict social response .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Over 150,000 Internet-based news articles related to outbreaks of 16 diseases in 72 countries and territories were provided by HealthMap .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "These articles were automatically tagged with indicators of the disease activity and population reaction .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "An anomaly detection algorithm was implemented on the population reaction indicators to identify periods of unusually severe social response .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Then a model was developed to predict the probability of these periods of unusually severe social response occurring in the coming week , 2 and 3 weeks .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This model exhibited remarkably strong performance for diseases with substantial media coverage .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "For country-disease pairs with a median of 20 or more articles per year ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the onset of social response in the next week was correctly predicted over 60 % of the time ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and 87 % of weeks were correctly predicted .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Performance was weaker for diseases with little media coverage ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and , for these diseases ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the main utility of our system is in identifying social response when it occurs ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "rather than predicting when it will happen in the future .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Overall , the developed near real-time prediction approach is a promising step toward developing predictive models to inform responders of the likely social consequences of disease spread .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This research was funded by Defense Threat Reduction Agency ( www.dtra.mil ) contact HDTRA1-12-C-0061 .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "12",
+    "segment_num": "19",
+    "token_num": "285"
+  }
+}

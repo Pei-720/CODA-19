@@ -1,0 +1,129 @@
+{
+  "paper_id": "2ab40cd143985f0fe1f581a31c3aa4009e94e759",
+  "metadata": {
+    "title": "Accuracy of dengue clinical diagnosis with and without NS1 antigen rapid test: Comparison between human and Bayesian network model decision",
+    "coda_data_split": "train",
+    "coda_paper_id": 10113,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Differentiating dengue patients from other acute febrile illness patients is a great challenge among physicians. Several dengue diagnosis methods are recommended by WHO. The application of specific laboratory tests is still limited due to high cost, lack of equipment, and uncertain validity. Therefore, clinical diagnosis remains a common practice especially in resource limited settings. Bayesian networks have been shown to be a useful tool for diagnostic decision support. This study aimed to construct Bayesian network models using basic demographic, clinical, and laboratory profiles of acute febrile illness patients to diagnose dengue. Data of 397 acute undifferentiated febrile illness patients who visited the fever clinic of the Bangkok Hospital for Tropical Diseases, Thailand, were used for model construction and validation. The two best final models were selected: one with and one without NS1 rapid test result. The diagnostic accuracy of the models was compared with that of physicians on the same set of patients. The Bayesian network models provided good diagnostic accuracy of dengue infection, with ROC AUC of 0.80 and 0.75 for models with and without NS1 rapid test result, respectively. The models had approximately 80% specificity and 70% sensitivity, similar to the diagnostic accuracy of the hospital\u0027s fellows in infectious disease. Including information on NS1 rapid test improved the specificity, but reduced the sensitivity, both in model and physician diagnoses. The Bayesian network model developed in this study could be useful to assist physicians in diagnosing dengue, particularly in regions where experienced physicians and laboratory confirmation tests are limited.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Differentiating dengue patients from other acute febrile illness patients is a great challenge among physicians .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Several dengue diagnosis methods are recommended by WHO .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The application of specific laboratory tests is still limited due to high cost ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "lack of equipment , and uncertain validity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , clinical diagnosis remains a common practice especially in resource limited settings .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Bayesian networks have been shown to be a useful tool for diagnostic decision support .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study aimed to construct Bayesian network models using basic demographic ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "clinical , and laboratory profiles of acute febrile illness patients to diagnose dengue .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Data of 397 acute undifferentiated febrile illness patients who visited the fever clinic of the Bangkok Hospital for Tropical Diseases ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "Thailand , were used for model construction and validation .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The two best final models were selected : one with and one without NS1 rapid test result .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The diagnostic accuracy of the models was compared with that of physicians on the same set of patients .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The Bayesian network models provided good diagnostic accuracy of dengue infection ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with ROC AUC of 0.80 and 0.75 for models with and without NS1 rapid test result , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The models had approximately 80 % specificity and 70 % sensitivity ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "similar to the diagnostic accuracy of the hospital \u0027s fellows in infectious disease .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Including information on NS1 rapid test improved the specificity ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but reduced the sensitivity , both in model and physician diagnoses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The Bayesian network model developed in this study could be useful to assist physicians in diagnosing dengue ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "particularly in regions where experienced physicians and laboratory confirmation tests are limited .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "13",
+    "segment_num": "20",
+    "token_num": "280"
+  }
+}

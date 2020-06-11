@@ -1,0 +1,147 @@
+{
+  "paper_id": "8ecb2c48d129fe9df101cb136f9496000d4bb581",
+  "metadata": {
+    "title": "Characterization of Angiotensin-Converting Enzyme 2 Ectodomain Shedding from Mouse Proximal Tubular Cells",
+    "coda_data_split": "train",
+    "coda_paper_id": 5272,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Angiotensin-converting enzyme 2 (ACE2) is highly expressed in the kidney proximal tubule, where it cleaves angiotensin (Ang) II to Ang-(1-7). Urinary ACE2 levels increase in diabetes, suggesting that ACE2 may be shed from tubular cells. The aim of this study was to determine if ACE2 is shed from proximal tubular cells, to characterize ACE2 fragments, and to study pathways for shedding. Studies involved primary cultures of mouse proximal tubular cells, with ACE2 activity measured using a synthetic substrate, and analysis of ACE2 fragments by immunoblots and mass spectrometry. The culture media from mouse proximal tubular cells demonstrated a time-dependent increase in ACE2 activity, suggesting constitutive ACE2 shedding. ACE2 was detected in media as two bands at ,90 kDa and ,70 kDa on immunoblots. By contrast, full-length ACE2 appeared at ,100 kDa in cell lysates or mouse kidney cortex. Mass spectrometry of the two deglycosylated fragments identified peptides matching mouse ACE2 at positions 18-706 and 18-577, respectively. The C-terminus of the 18-706 peptide fragment contained a non-tryptic site, suggesting that Met 706 is a candidate ACE2 cleavage site. Incubation of cells in high D-glucose (25 mM) (and to a lesser extent Ang II) for 48-72 h increased ACE2 activity in the media (p,0.001), an effect blocked by inhibition of a disintegrin and metalloproteinase (ADAM)17. High D-glucose increased ADAM17 activity in cell lysates (p,0.05). These data indicate that two glycosylated ACE2 fragments are constitutively shed from mouse proximal tubular cells. ACE2 shedding is stimulated by high D-glucose, at least partly via an ADAM17-mediated pathway. The results suggest that proximal tubular shedding of ACE2 may increase in diabetes, which could enhance degradation of Ang II in the tubular lumen, and increase levels of Ang-(1-7).",
+      "sentences": [
+        [
+          {
+            "segment_text": "Angiotensin-converting enzyme 2 ( ACE2 ) is highly expressed in the kidney proximal tubule ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "where it cleaves angiotensin ( Ang ) II to Ang - ( 1-7 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Urinary ACE2 levels increase in diabetes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "suggesting that ACE2 may be shed from tubular cells .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The aim of this study was to determine if ACE2 is shed from proximal tubular cells ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "to characterize ACE2 fragments , and to study pathways for shedding .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Studies involved primary cultures of mouse proximal tubular cells ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "with ACE2 activity measured using a synthetic substrate ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and analysis of ACE2 fragments by immunoblots and mass spectrometry .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The culture media from mouse proximal tubular cells demonstrated a time-dependent increase in ACE2 activity , suggesting constitutive ACE2 shedding .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "ACE2 was detected in media as two bands at ,90 kDa and ,70 kDa on immunoblots .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "By contrast , full-length ACE2 appeared at ,100 kDa in cell lysates or mouse kidney cortex .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Mass spectrometry of the two deglycosylated fragments identified peptides matching mouse ACE2 at positions 18-706 and 18-577 , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The C-terminus of the 18-706 peptide fragment contained a non-tryptic site ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "suggesting that Met 706 is a candidate ACE2 cleavage site .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Incubation of cells in high D-glucose ( 25 mM ) ( and to a lesser extent Ang II ) for 48-72 h increased ACE2 activity in the media ( p ,0.001 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "an effect blocked by inhibition of a disintegrin and metalloproteinase ( ADAM ) 17 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "High D-glucose increased ADAM17 activity in cell lysates ( p ,0.05 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These data indicate that two glycosylated ACE2 fragments are constitutively shed from mouse proximal tubular cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "ACE2 shedding is stimulated by high D-glucose ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "at least partly via an ADAM17-mediated pathway .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results suggest that proximal tubular shedding of ACE2 may increase in diabetes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which could enhance degradation of Ang II in the tubular lumen ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and increase levels of Ang - ( 1-7 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "14",
+    "segment_num": "24",
+    "token_num": "334"
+  }
+}

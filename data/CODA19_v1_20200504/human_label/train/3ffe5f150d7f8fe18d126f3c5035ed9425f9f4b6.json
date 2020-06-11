@@ -1,0 +1,186 @@
+{
+  "paper_id": "3ffe5f150d7f8fe18d126f3c5035ed9425f9f4b6",
+  "metadata": {
+    "title": "Network perturbation analysis of gene transcriptional profiles reveals protein targets and mechanism of action of drugs and influenza A viral infection",
+    "coda_data_split": "train",
+    "coda_paper_id": 8410,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Genome-wide transcriptional profiling provides a global view of cellular state and how this state changes under different treatments (e.g. drugs) or conditions (e.g. healthy and diseased). Here, we present ProTINA (Protein Target Inference by Network Analysis), a network perturbation analysis method for inferring protein targets of compounds from gene transcriptional profiles. ProTINA uses a dynamic model of the cell-type specific protein-gene transcriptional regulation to infer network perturbations from steady state and time-series differential gene expression profiles. A candidate protein target is scored based on the gene network\u0027s dysregulation, including enhancement and attenuation of transcriptional regulatory activity of the protein on its downstream genes, caused by drug treatments. For benchmark datasets from three drug treatment studies, ProTINA was able to provide highly accurate protein target predictions and to reveal the mechanism of action of compounds with high sensitivity and specificity. Further, an application of ProTINA to gene expression profiles of influenza A viral infection led to new insights of the early events in the infection. Figure 1. Protein target prediction by ProTINA. (A) The protein-gene network describes direct and indirect regulations of gene expression by transcription factors (TF) and their protein partners (P), respectively. A drug interaction with a protein is expected to cause differential expression of the downstream genes in the PGN. (B)",
+      "sentences": [
+        [
+          {
+            "segment_text": "Genome-wide transcriptional profiling provides a global view of cellular state and how this state changes under different treatments ( e.g. drugs ) or conditions ( e.g. healthy and diseased ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we present ProTINA ( Protein Target Inference by Network Analysis ) ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "a network perturbation analysis method for inferring protein targets of compounds from gene transcriptional profiles .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "ProTINA uses a dynamic model of the cell-type specific protein-gene transcriptional regulation to infer network perturbations from steady state and time-series differential gene expression profiles .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A candidate protein target is scored based on the gene network \u0027s dysregulation ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "including enhancement and attenuation of transcriptional regulatory activity of the protein on its downstream genes , caused by drug treatments .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "For benchmark datasets from three drug treatment studies ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "ProTINA was able to provide highly accurate protein target predictions and to reveal the mechanism of action of compounds with high sensitivity and specificity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Further , an application of ProTINA to gene expression profiles of influenza A viral infection led to new insights of the early events in the infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Figure 1 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Protein target prediction by ProTINA .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( A ) The protein-gene network describes direct and indirect regulations of gene expression by transcription factors ( TF ) and their protein partners ( P ) , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A drug interaction with a protein is expected to cause differential expression of the downstream genes in the PGN .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( B )",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Based on a kinetic model of gene transcriptional process, ProTINA infers the weights of the protein-gene regulatory edges, denoted by a kj , using gene expression data. The variable a kj describes the regulation of protein j on gene k, where the magnitude and sign of a kj indicate the strength and mode (+a kj : activation, -a kj : repression) of the regulatory interaction, respectively. (C) A candidate protein target is scored based on the deviations in the expression of downstream genes from the PGN model prediction (P j : log 2 FC expression of protein j, G k : log 2 FC expression of gene k). The colored dots in the plots illustrate the log 2 FC data of a particular drug treatment, while the lines show the predicted expression of gene k by the (linear) PGN model. The variable z k denotes the z-score of the deviation of the expression of gene k from the PGN model prediction. A drug-induced enhancement of protein-gene regulatory interactions is indicated by a positive (negative) z k in the expression of genes that are activated (repressed) by the protein (i.e. a kj z k \u003e 0). Vice versa, a drug-induced attenuation is indicated by a negative (positive) z k in the expression of genes that are activated (repressed) by the protein (i.e. a kj z k \u003c 0). (D) The score of a candidate protein target is determined by combining the z-scores of the set of regulatory edges associated with the protein in the PGN. A positive (negative) score indicates a drug-induced enhancement (attenuation). The larger the magnitude of the score, the more consistent is the drug induced perturbations (enhancement/attenuation) on the protein-gene regulatory edges.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Based on a kinetic model of gene transcriptional process ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "ProTINA infers the weights of the protein-gene regulatory edges ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "denoted by a kj , using gene expression data .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The variable a kj describes the regulation of protein j on gene k ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "where the magnitude and sign of a kj indicate the strength and mode ( + a kj : activation , - a kj : repression ) of the regulatory interaction , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( C ) A candidate protein target is scored based on the deviations in the expression of downstream genes from the PGN model prediction ( P j : log 2 FC expression of protein j , G k : log 2 FC expression of gene k ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The colored dots in the plots illustrate the log 2 FC data of a particular drug treatment ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while the lines show the predicted expression of gene k by the ( linear ) PGN model .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The variable z k denotes the z-score of the deviation of the expression of gene k from the PGN model prediction .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A drug-induced enhancement of protein-gene regulatory interactions is indicated by a positive ( negative ) z k in the expression of genes that are activated ( repressed ) by the protein ( i.e. a kj z k \u003e 0 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Vice versa , a drug-induced attenuation is indicated by a negative ( positive ) z k in the expression of genes that are activated ( repressed ) by the protein ( i.e. a kj z k \u003c 0 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( D ) The score of a candidate protein target is determined by combining the z-scores of the set of regulatory edges associated with the protein in the PGN .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A positive ( negative ) score indicates a drug-induced enhancement ( attenuation ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The larger the magnitude of the score ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the more consistent is the drug induced perturbations ( enhancement/attenuation ) on the protein-gene regulatory edges .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "21",
+    "segment_num": "29",
+    "token_num": "578"
+  }
+}

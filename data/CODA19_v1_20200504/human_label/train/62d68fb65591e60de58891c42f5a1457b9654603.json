@@ -1,0 +1,166 @@
+{
+  "paper_id": "62d68fb65591e60de58891c42f5a1457b9654603",
+  "metadata": {
+    "title": "Lactate dehydrogenase, a Risk Factor of Severe COVID-19 Patients: A Retrospective and Observational Study",
+    "coda_data_split": "train",
+    "coda_paper_id": 4291,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The World Health Organization (WHO) has recently declared coronavirus disease 2019 (COVID-19) a public health emergency of global concern. Updated analysis of cases might help identify the characteristic and risk factors of the illness severity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The World Health Organization ( WHO ) has recently declared coronavirus disease 2019 ( COVID-19 ) a public health emergency of global concern .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Updated analysis of cases might help identify the characteristic and risk factors of the illness severity .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We extracted data regarding 47 patients with confirmed COVID-19 from Renmin Hospital of Wuhan University between February 1 and February 18, 2020. The degree of severity of COVID-19 patients (severe vs. non-severe) was defined at the time of admission according to American Thoracic Society (ATS) guidelines for communityacquired pneumonia (CAP).",
+      "sentences": [
+        [
+          {
+            "segment_text": "We extracted data regarding 47 patients with confirmed COVID-19 from Renmin Hospital of Wuhan University between February 1 and February 18 , 2020 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The degree of severity of COVID-19 patients ( severe vs. non-severe ) was defined at the time of admission according to American Thoracic Society ( ATS ) guidelines for communityacquired pneumonia ( CAP ) .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The median age was 64.91 years, 26 cases (55.31%) were male of which, and 70.83% were severe cases. Severe patients had higher APACHE II (9.92 vs 4.74) and SOFA (3.0 vs 1.0) scores on admission, as well as the higher PSI (86.13 vs 61.39), Curb-65 (1.14 vs 0.48) and CT semiquantitative scores (5.0 vs 2.0) when compared with nonsevere patients. Among all univariable parameters, APACHE II, SOFA, lymphocytes, CRP, LDH, AST, cTnI, BNP, et al were significantly independent risk factors of COVID-19 severity. Among which, LDH was most positively related both with APACHE II (R \u003d 0.682) and SOFA (R \u003d 0.790) scores, as well as PSI (R \u003d 0.465) and",
+      "sentences": [
+        [
+          {
+            "segment_text": "The median age was 64.91 years ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "26 cases ( 55.31 % ) were male of which ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and 70.83 % were severe cases .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Severe patients had higher APACHE II ( 9.92 vs 4.74 ) and SOFA ( 3.0 vs 1.0 ) scores on admission ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as well as the higher PSI ( 86.13 vs 61.39 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Curb-65 ( 1.14 vs 0.48 ) and CT semiquantitative scores ( 5.0 vs 2.0 ) when compared with nonsevere patients .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Among all univariable parameters , APACHE II ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "SOFA , lymphocytes , CRP ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "LDH , AST , cTnI ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "BNP , et al were significantly independent risk factors of COVID-19 severity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Among which , LDH was most positively related both with APACHE II ( R \u003d 0.682 ) and SOFA ( R \u003d 0.790 ) scores ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as well as PSI ( R \u003d 0.465 ) and",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "CT (R \u003d 0.837) scores. To assess the diagnostic value of these selected parameters, LDH (0.9727) had maximum sensitivity (100.00%) and specificity (86.67%), with the cutoff value of 283. As a protective factor, lymphocyte counts less than 1.045 x 10 9 /L showed a good accuracy for identification of severe patients with AUC \u003d 0.9845 (95%CI 0.959-1.01), the maximum specificity (91.30%) and sensitivity (95.24%). In addition, LDH was positively correlated with CRP, AST, BNP and cTnI, while negatively correlated with lymphocyte cells and its subsets, including CD3 + , CD4 + and CD8 + T cells (P \u003c 0.01).",
+      "sentences": [
+        [
+          {
+            "segment_text": "CT ( R \u003d 0.837 ) scores .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "To assess the diagnostic value of these selected parameters ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "LDH ( 0.9727 ) had maximum sensitivity ( 100.00 % ) and specificity ( 86.67 % ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with the cutoff value of 283 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "As a protective factor , lymphocyte counts less than 1.045 x 10 9 / L showed a good accuracy for identification of severe patients with AUC \u003d 0.9845 ( 95 % CI 0.959-1.01 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the maximum specificity ( 91.30 % ) and sensitivity ( 95.24 % ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , LDH was positively correlated with CRP ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "AST , BNP and cTnI ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while negatively correlated with lymphocyte cells and its subsets ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including CD3 + , CD4 + and CD8 + T cells ( P \u003c 0.01 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "12",
+    "segment_num": "26",
+    "token_num": "384"
+  }
+}

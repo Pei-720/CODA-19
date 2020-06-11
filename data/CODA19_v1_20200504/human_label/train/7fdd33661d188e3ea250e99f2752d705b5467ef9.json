@@ -1,0 +1,95 @@
+{
+  "paper_id": "7fdd33661d188e3ea250e99f2752d705b5467ef9",
+  "metadata": {
+    "title": "Glycoinformatics approach for identifying target positions to inhibit initial binding of SARS-CoV-2 S1 protein to the host cell",
+    "coda_data_split": "train",
+    "coda_paper_id": 3415,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "COVID-19 outbreak is still threatening the public health. Therefore, in the middle of the pandemic, all kind of knowledge on SARS-CoV-2 may help us to find the solution.",
+      "sentences": [
+        [
+          {
+            "segment_text": "COVID-19 outbreak is still threatening the public health .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , in the middle of the pandemic ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "all kind of knowledge on SARS-CoV-2 may help us to find the solution .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Determining the 3D structures of the proteins involved in host-pathogen interactions are of great importance in the fight against infection. Besides, post-translational modifications of the protein on 3D structure should be revealed in order to understand the protein function since these modifications are responsible for the host-pathogen interaction. Based on these, we predicted O-glycosylation and phosphorylation positions using full amino acid sequence of S1 protein. Candidate positions were further analyzed with enzyme binding activity, solvent accessibility, surface area parameters and the positions determined with high accuracy rate were used to design full 3D glycoprotein structure of the S1 protein using carbohydrate force field. In addition, the interaction between the C-type lectin CD209L and α -mannose residues was examined and carbohydrate recognition positions were predicted. We suggest these positions as a potential target for the inhibition of the initial binding of SARS-CoV-2 S1",
+      "sentences": [
+        [
+          {
+            "segment_text": "Determining the 3D structures of the proteins involved in host-pathogen interactions are of great importance in the fight against infection .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Besides , post-translational modifications of the protein on 3D structure should be revealed in order to understand the protein function since these modifications are responsible for the host-pathogen interaction .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Based on these , we predicted O-glycosylation and phosphorylation positions using full amino acid sequence of S1 protein .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Candidate positions were further analyzed with enzyme binding activity ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "solvent accessibility , surface area parameters and the positions determined with high accuracy rate were used to design full 3D glycoprotein structure of the S1 protein using carbohydrate force field .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , the interaction between the C-type lectin CD209L and α - mannose residues was examined and carbohydrate recognition positions were predicted .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We suggest these positions as a potential target for the inhibition of the initial binding of SARS-CoV-2 S1",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "protein to the host cell.",
+      "sentences": [
+        [
+          {
+            "segment_text": "protein to the host cell .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "9",
+    "segment_num": "11",
+    "token_num": "191"
+  }
+}

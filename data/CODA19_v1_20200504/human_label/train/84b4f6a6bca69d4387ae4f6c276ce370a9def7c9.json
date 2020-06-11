@@ -1,0 +1,95 @@
+{
+  "paper_id": "84b4f6a6bca69d4387ae4f6c276ce370a9def7c9",
+  "metadata": {
+    "title": "Bayesian mixture analysis for metagenomic community profiling",
+    "coda_data_split": "train",
+    "coda_paper_id": 7234,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Motivation: Deep sequencing of clinical samples is now an established tool for the detection of infectious pathogens, with direct medical applications. The large amount of data generated produces an opportunity to detect species even at very low levels, provided that computational tools can effectively profile the relevant metagenomic communities. Data interpretation is complicated by the fact that short sequencing reads can match multiple organisms and by the lack of completeness of existing databases, in particular for viral pathogens. Here we present metaMix, a Bayesian mixture model framework for resolving complex metagenomic mixtures. We show that the use of parallel Monte Carlo Markov chains for the exploration of the species space enables the identification of the set of species most likely to contribute to the mixture. Results: We demonstrate the greater accuracy of metaMix compared with relevant methods, particularly for profiling complex communities consisting of several related species. We designed metaMix specifically for the analysis of deep transcriptome sequencing datasets, with a focus on viral pathogen detection; however, the principles are generally applicable to all types of metagenomic mixtures. Availability and implementation: metaMix is implemented as a user friendly R package, freely available on CRAN: http://cran.r-project.org/web/packages/metaMix Contact: sofia.morfopoulou.10@ucl.ac.uk Supplementary information: Supplementary data are available at Bionformatics online.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Motivation : Deep sequencing of clinical samples is now an established tool for the detection of infectious pathogens , with direct medical applications .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The large amount of data generated produces an opportunity to detect species even at very low levels ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "provided that computational tools can effectively profile the relevant metagenomic communities .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Data interpretation is complicated by the fact that short sequencing reads can match multiple organisms and by the lack of completeness of existing databases ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "in particular for viral pathogens .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we present metaMix , a Bayesian mixture model framework for resolving complex metagenomic mixtures .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We show that the use of parallel Monte Carlo Markov chains for the exploration of the species space enables the identification of the set of species most likely to contribute to the mixture .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results : We demonstrate the greater accuracy of metaMix compared with relevant methods ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "particularly for profiling complex communities consisting of several related species .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We designed metaMix specifically for the analysis of deep transcriptome sequencing datasets ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with a focus on viral pathogen detection ; however ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the principles are generally applicable to all types of metagenomic mixtures .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Availability and implementation : metaMix is implemented as a user friendly R package ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "freely available on CRAN : http://cran.r-project.org/web/packages/metaMix Contact : sofia.morfopoulou.10@ucl.ac.uk Supplementary information : Supplementary data are available at Bionformatics online .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "14",
+    "token_num": "229"
+  }
+}

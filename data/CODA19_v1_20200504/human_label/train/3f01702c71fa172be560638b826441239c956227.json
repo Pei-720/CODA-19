@@ -1,0 +1,99 @@
+{
+  "paper_id": "3f01702c71fa172be560638b826441239c956227",
+  "metadata": {
+    "title": "Drug Design, Development and Therapy T10B9 monoclonal antibody: A short-acting nonstimulating monoclonal antibody that spares γδ T-cells and treats and prevents cellular rejection",
+    "coda_data_split": "train",
+    "coda_paper_id": 3745,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "T10B9.1A-31/MEDI-500 is a nonmitogenic immunoglobulin M kappa murine monoclonal antibody (mAb) directed against the alpha-beta (αβ) heterodimer of the T-lymphocyte receptor complex. The hybridoma was first produced by fusing spleen cells from BALB/C mice immunized with human peripheral blood T-lymphocytes with SP2/O-Ag14 mutant myeloma cells. The mAb is produced and purified using multistep ion exchange and molecular sieve chromatography protocols. T10B9 has been used successfully to treat acute cellular rejection in renal transplantation and as an immunosuppression induction agent in heart and simultaneous kidney-pancreas transplantation. Because T10B9 is nonmitogenic and causes minimal cytokine release, both treatment of rejection and induction of immunosuppression were accomplished with significantly fewer and milder untoward effects (cytokine release syndrome) than its comparator OKT3. Since T10B9 is directed against the αβ heterodimer of the CD3 epitope, it spares the gamma delta (γδ) region. These gamma delta (γδ) T cells have a unique role in the immune response controlling many serious human diseases and perhaps facilitating the development of immunologic tolerance. T10B9 has a relatively short duration of action, depleting T cells for only 10 to 14 days, unlike the protracted depletion seen with thymoglobulin and Campath-1H. There is no B-lymphocyte depletion with T10B9 as there is with both of the aforementioned reagents. The lack of prolonged lymphocyte depletion may account for less infection observed with T10B9 treatment.",
+      "sentences": [
+        [
+          {
+            "segment_text": "T10B9.1A-31 / MEDI-500 is a nonmitogenic immunoglobulin M kappa murine monoclonal antibody ( mAb ) directed against the alpha-beta ( αβ ) heterodimer of the T-lymphocyte receptor complex .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The hybridoma was first produced by fusing spleen cells from BALB/C mice immunized with human peripheral blood T-lymphocytes with SP2/O-Ag 14 mutant myeloma cells .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The mAb is produced and purified using multistep ion exchange and molecular sieve chromatography protocols .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "T10B9 has been used successfully to treat acute cellular rejection in renal transplantation and as an immunosuppression induction agent in heart and simultaneous kidney-pancreas transplantation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Because T10B9 is nonmitogenic and causes minimal cytokine release ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "both treatment of rejection and induction of immunosuppression were accomplished with significantly fewer and milder untoward effects ( cytokine release syndrome ) than its comparator OKT3 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Since T10B9 is directed against the αβ heterodimer of the CD3 epitope ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "it spares the gamma delta ( γδ ) region .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These gamma delta ( γδ ) T cells have a unique role in the immune response controlling many serious human diseases and perhaps facilitating the development of immunologic tolerance .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "T10B9 has a relatively short duration of action ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "depleting T cells for only 10 to 14 days ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "unlike the protracted depletion seen with thymoglobulin and Campath-1H .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "There is no B-lymphocyte depletion with T10B9 as there is with both of the aforementioned reagents .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The lack of prolonged lymphocyte depletion may account for less infection observed with T10B9 treatment .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "10",
+    "segment_num": "14",
+    "token_num": "248"
+  }
+}

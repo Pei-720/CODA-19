@@ -1,0 +1,143 @@
+{
+  "paper_id": "12af3b3c07569926eb1ce96ebd4d5bffd05ce54a",
+  "metadata": {
+    "title": "Genetic Variation of the Human a-2-Heremans-Schmid Glycoprotein (AHSG) Gene Associated with the Risk of SARS-CoV Infection",
+    "coda_data_split": "train",
+    "coda_paper_id": 4089,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Genetic background may play an important role in the process of SARS-CoV infection and SARS development. We found several proteins that could interact with the nucleocapsid protein of the SARS coronavirus (SARS-CoV). a-2-Heremans-Schmid Glycoprotein (AHSG), which is required for macrophage deactivation by endogenous cations, is associated with inflammatory regulation. Cytochrome P450 Family 3A (CYP4F3A) is an v-oxidase that inactivates Leukotriene B4 (LTB4) in human neutrophils and the liver. We investigated the association between the polymorphisms of these two inflammationassociated genes and SARS development. The linkage disequilibrium (LD) maps of these two genes were built with Haploview using data on CHB+JPT (version 2) from the HapMap. A total of ten tag SNPs were selected and genotyped. In the Guangzhou cohort study, after adjusting for age and sex, two AHSG SNPs and one CYP4F3 SNP were found to be associated with SARS susceptibility: rs2248690 (adjusted odds ratio [AOR] 2.42; 95% confidence interval [CI] 1.30-4.51); rs4917 (AOR 1.84; 95% CI 1.02-3.34); and rs3794987 (AOR 2.01; 95% CI 1.10-3.68). To further validate the association, the ten tag SNPs were genotyped in the Beijing cohort. After adjusting for age and sex, only rs2248690 (AOR, 1.63; 95% CI, 1.30-2.04) was found to be associated with SARS susceptibility. The combined analysis of the two studies confirmed tag SNP rs2248690 in AHSG as a susceptibility variant (AOR 1.70; 95% CI 1.37-2.09). The statistical analysis of the rs2248690 genotype data among the patients and healthy controls in the HCW cohort, who were all similarly exposed to the SARS virus, also supported the findings. Further, the SNP rs2248690 affected the transcriptional activity of the AHSG promoter and thus regulated the AHSG serum level. Therefore, our study has demonstrated that the AA genotype of rs2268690, which leads to a higher AHSG serum concentration, was significantly associated with protection against SARS development.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Genetic background may play an important role in the process of SARS-CoV infection and SARS development .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We found several proteins that could interact with the nucleocapsid protein of the SARS coronavirus ( SARS-CoV ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "a-2-Heremans-Schmid Glycoprotein ( AHSG ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which is required for macrophage deactivation by endogenous cations ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "is associated with inflammatory regulation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Cytochrome P450 Family 3A ( CYP4F3A ) is an v-oxidase that inactivates Leukotriene B4 ( LTB4 ) in human neutrophils and the liver .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We investigated the association between the polymorphisms of these two inflammationassociated genes and SARS development .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The linkage disequilibrium ( LD ) maps of these two genes were built with Haploview using data on CHB+JPT ( version 2 ) from the HapMap .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A total of ten tag SNPs were selected and genotyped .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the Guangzhou cohort study ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "after adjusting for age and sex ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "two AHSG SNPs and one CYP4F3 SNP were found to be associated with SARS susceptibility : rs2248690 ( adjusted odds ratio ( AOR ) 2.42 ; 95 % confidence interval ( CI ) 1.30-4.51 ) ; rs4917 ( AOR 1.84 ; 95 % CI 1.02-3.34 ) ; and rs3794987 ( AOR 2.01 ; 95 % CI 1.10-3.68 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "To further validate the association ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the ten tag SNPs were genotyped in the Beijing cohort .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "After adjusting for age and sex ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "only rs2248690 ( AOR , 1.63 ; 95 % CI , 1.30-2.04 ) was found to be associated with SARS susceptibility .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The combined analysis of the two studies confirmed tag SNP rs2248690 in AHSG as a susceptibility variant ( AOR 1.70 ; 95 % CI 1.37-2.09 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The statistical analysis of the rs2248690 genotype data among the patients and healthy controls in the HCW cohort ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "who were all similarly exposed to the SARS virus , also supported the findings .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Further , the SNP rs2248690 affected the transcriptional activity of the AHSG promoter and thus regulated the AHSG serum level .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , our study has demonstrated that the AA genotype of rs2268690 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which leads to a higher AHSG serum concentration ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "was significantly associated with protection against SARS development .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "14",
+    "segment_num": "23",
+    "token_num": "367"
+  }
+}

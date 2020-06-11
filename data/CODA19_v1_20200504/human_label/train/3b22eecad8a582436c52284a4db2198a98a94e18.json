@@ -1,0 +1,258 @@
+{
+  "paper_id": "3b22eecad8a582436c52284a4db2198a98a94e18",
+  "metadata": {
+    "title": "Robitaille et al. 1 DUSP1 regulates apoptosis and cell migration, but not the JIP1-protected cytokine response, during Respiratory Syncytial Virus and Sendai Virus infection",
+    "coda_data_split": "train",
+    "coda_paper_id": 9323,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The host antiviral response involves the induction of interferons and proinflammatory cytokines, but also the activation of cell death pathways, including apoptosis, to limit viral replication and spreading. This host defense is strictly regulated to eliminate the infection while limiting tissue damage that is associated with virus pathogenesis. Post-translational modifications, most notably phosphorylation, are key regulators of the antiviral defense implying an important role of protein phosphatases. Here, we investigated the role of the dual-specificity phosphatase 1 (DUSP1) in the host defense against human respiratory syncytial virus (RSV), a pathogenic virus of the Pneumoviridae family, and Sendai virus (SeV), a model virus being developed as a vector for anti-RSV vaccine. We found that DUSP1 is upregulated before being subjected to proteasomal degradation. DUSP1 does not inhibit the antiviral response, but negatively regulates virus-induced JNK/p38 MAPK phosphorylation. Interaction with the JNK-interacting protein 1 scaffold protein prevents dephosphorylation of JNK by DUSP1, likely explaining that AP-1 activation and downstream cytokine production are protected from DUSP1 inhibition.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The host antiviral response involves the induction of interferons and proinflammatory cytokines ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but also the activation of cell death pathways ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including apoptosis , to limit viral replication and spreading .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This host defense is strictly regulated to eliminate the infection while limiting tissue damage that is associated with virus pathogenesis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Post-translational modifications , most notably phosphorylation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "are key regulators of the antiviral defense implying an important role of protein phosphatases .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we investigated the role of the dual-specificity phosphatase 1 ( DUSP1 ) in the host defense against human respiratory syncytial virus ( RSV ) ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "a pathogenic virus of the Pneumoviridae family ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and Sendai virus ( SeV ) ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "a model virus being developed as a vector for anti-RSV vaccine .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We found that DUSP1 is upregulated before being subjected to proteasomal degradation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "DUSP1 does not inhibit the antiviral response ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but negatively regulates virus-induced JNK/p38 MAPK phosphorylation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Interaction with the JNK-interacting protein 1 scaffold protein prevents dephosphorylation of JNK by DUSP1 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "likely explaining that AP-1 activation and downstream cytokine production are protected from DUSP1 inhibition .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Importantly, DUSP1 promotes SeV-induced apoptosis and suppresses cell migration in RSVinfected cells. Collectively, our data unveil a previously unrecognized selective role of DUSP1 in the regulation of tissue damage and repair during infections by RSV and SeV.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Importantly , DUSP1 promotes SeV-induced apoptosis and suppresses cell migration in RSVinfected cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Collectively , our data unveil a previously unrecognized selective role of DUSP1 in the regulation of tissue damage and repair during infections by RSV and SeV .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": ". CC-BY-NC-ND 4.0 International license is made available under a The copyright holder for this preprint (which was not peer-reviewed) is the author/funder. It . https://doi.org/10.1101/163360 doi: bioRxiv preprint relies on a complex set of phosphorylations mainly mediated by the TANK-binding kinase 1 (TBK1)/ IκB kinase epsilon (IKKε) kinases 13-17 . NF-κB, mainly p65/p50, activation during SeV and RSV infections occurs through IκB kinase (IKK)-dependent phosphorylation of the NF-κB inhibitor protein IκBα and of the p65 subunit 18, 19 . The signaling cascade leading to AP-1 activation is more elusive, but ultimately results in the phosphorylation of the nuclear Activating Transcription Factor 2 (ATF-2) and c-Jun subunits by JNK and p38 Mitogen-Activated Protein Kinases (MAPKs) 10,20,21 . The activation of these transcription factors promotes the transcription of early antiviral genes, type I/III IFNs and proinflammatory cytokines and chemokines 12, 22, 23 . In response to IFNs, hundreds of interferon-stimulated genes (ISGs) are induced to limit virus replication through enhancement of virus detection and innate immune signaling, cytoskeleton remodelling, inhibition of protein translation, induction of apoptosis, amongst other antiviral functions 24-26 . These same PRRs have also been shown to activate IFN-independent cell death pathways, including apoptosis 8 .",
+      "sentences": [
+        [
+          {
+            "segment_text": ".",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "CC-BY-NC-ND 4.0 International license is made available under a The copyright holder for this preprint ( which was not peer-reviewed ) is the author/funder .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "https://doi.org/10.1101/163360 doi : bioRxiv preprint relies on a complex set of phosphorylations mainly mediated by the TANK-binding kinase 1 ( TBK1 ) / IκB kinase epsilon ( IKKε ) kinases 13-17 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "NF-κB , mainly p65/p50 , activation during SeV and RSV infections occurs through IκB kinase ( IKK ) - dependent phosphorylation of the NF-κB inhibitor protein IκBα and of the p65 subunit 18 , 19 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The signaling cascade leading to AP-1 activation is more elusive ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but ultimately results in the phosphorylation of the nuclear Activating Transcription Factor 2 ( ATF-2 ) and c-Jun subunits by JNK and p38 Mitogen-Activated Protein Kinases ( MAPKs ) 10,20,21 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The activation of these transcription factors promotes the transcription of early antiviral genes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "type I/III IFNs and proinflammatory cytokines and chemokines 12 , 22 , 23 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In response to IFNs , hundreds of interferon-stimulated genes ( ISGs ) are induced to limit virus replication through enhancement of virus detection and innate immune signaling ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "cytoskeleton remodelling , inhibition of protein translation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "induction of apoptosis , amongst other antiviral functions 24-26 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These same PRRs have also been shown to activate IFN-independent cell death pathways , including apoptosis 8 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Post-translational modifications (PTMs), including phosphorylation, ubiquitylation and acetylation, of signal transduction proteins involved in the pathways engaged downstream of virus sensing are crucial to reach a fine-tuned regulation of the innate immune response 27 . In light of the very well documented importance of phosphorylation PTMs in the regulation of the antiviral response, the protein phosphatases negatively regulating the signaling events have started to be identified. The exact role of the Ser/Thr protein phosphatase 1 (PP1) in the antiviral response remains elusive as PP1α and PP1γ were found to dephosphorylate MDA-5 and RIG-I leading to their activation 28 , while they were also described to be responsible for the dephosphorylation of key C-terminal phosphoresidues of IRF3 leading to its inhibition 29 . Most . CC-BY-NC-ND 4.0 International license is made available under a The copyright holder for this preprint (which was not peer-reviewed) is the author/funder. It . https://doi.org/10.1101/163360 doi: bioRxiv preprint 15 Clement, J. F. et al. Phosphorylation of IRF-3 on Ser 339 generates a hyperactive form of IRF-3 through regulation of dimerization and CBP association.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Post-translational modifications ( PTMs ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including phosphorylation , ubiquitylation and acetylation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "of signal transduction proteins involved in the pathways engaged downstream of virus sensing are crucial to reach a fine-tuned regulation of the innate immune response 27 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In light of the very well documented importance of phosphorylation PTMs in the regulation of the antiviral response ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the protein phosphatases negatively regulating the signaling events have started to be identified .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The exact role of the Ser/Thr protein phosphatase 1 ( PP1 ) in the antiviral response remains elusive as PP1α and PP1γ were found to dephosphorylate MDA-5 and RIG-I leading to their activation 28 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while they were also described to be responsible for the dephosphorylation of key C-terminal phosphoresidues of IRF3 leading to its inhibition 29 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Most .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "CC-BY-NC-ND 4.0 International license is made available under a The copyright holder for this preprint ( which was not peer-reviewed ) is the author/funder .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "https://doi.org/10.1101/163360 doi : bioRxiv preprint 15 Clement , J. F. et al. .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Phosphorylation of IRF-3 on Ser 339 generates a hyperactive form of IRF-3 through regulation of dimerization and CBP association .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "26",
+    "segment_num": "42",
+    "token_num": "652"
+  }
+}

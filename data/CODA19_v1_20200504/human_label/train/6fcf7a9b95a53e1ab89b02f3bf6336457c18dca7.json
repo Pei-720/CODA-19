@@ -1,0 +1,145 @@
+{
+  "paper_id": "6fcf7a9b95a53e1ab89b02f3bf6336457c18dca7",
+  "metadata": {
+    "title": "LETTERS TO NATURE Human aminopeptidase N is a receptor for human coronavirus 229E",
+    "coda_data_split": "train",
+    "coda_paper_id": 2595,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "HUMAN coronaviruses (HCV) in two serogroups represented by HCV-229E and HCV-OC43 are an important cause of upper respiratory tract infections i • Here we report that human aminopeptidase N, a cell-surface metalloprotease on intestinal, lung and kidney epithelial cells~5, is a receptor for human coronavirus strain HCV-229E, but not for HCV-OC43. A monoclonal antibody, RBS, blocked HCV-229E virus infection of human lung fibroblasts, immunoprecipitated aminopeptidase N and inhibited its enzymatic activity. HCV-229E-resistant murine fibroblasts became susceptible after transfection with complementary DNA encoding human aminopeptidase N. By contrast, infection of human cells with HCV-OC43 was not inhibited by antibody RBS and expression of aminopeptidase N did not enhance HCV-OC43 replication in mouse cells. A mutant aminopeptidase lacking the catalytic site of the enzyme did not bind HCV-229E or RBS and did not render murine cells susceptible to HCV-229E infection, suggesting that the virus-binding site may lie at or near the active site of the human aminopeptidase molecule.",
+      "sentences": [
+        [
+          {
+            "segment_text": "HUMAN coronaviruses ( HCV ) in two serogroups represented by HCV-229E and HCV-OC43 are an important cause of upper respiratory tract infections i • Here we report that human aminopeptidase N ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a cell-surface metalloprotease on intestinal ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "lung and kidney epithelial cells ~ 5 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "is a receptor for human coronavirus strain HCV-229E , but not for HCV-OC43 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A monoclonal antibody , RBS ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "blocked HCV-229E virus infection of human lung fibroblasts ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "immunoprecipitated aminopeptidase N and inhibited its enzymatic activity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "HCV-229E-resistant murine fibroblasts became susceptible after transfection with complementary DNA encoding human aminopeptidase N. By contrast ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "infection of human cells with HCV-OC43 was not inhibited by antibody RBS and expression of aminopeptidase N did not enhance HCV-OC43 replication in mouse cells .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A mutant aminopeptidase lacking the catalytic site of the enzyme did not bind HCV-229E or RBS and did not render murine cells susceptible to HCV-229E infection ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "suggesting that the virus-binding site may lie at or near the active site of the human aminopeptidase molecule .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "To develop a monoclonal antibody against the HCV-229E receptor, we produced hybridomas against deoxycholatesolubilized membrane proteins of two HCV-229E-susceptible human cell lines (WI38 lung fibroblasts and HL60 myeloid leukaemia cells). A monoclonal antibody designated RBS protected WI38 and RD human cell lines from HCV-229E-induced cytopathic effects and protected WI38 cells from virus infection ( Fig. la-c) . RBS pretreatment reduced the number of HCV-229E-infected WI-38 cells at 10 h post-infection by 96%, compared with cells pretreated with control mouse ascites. By contrast, RBS did not inhibit replication of HCV-OC43 in WI38 or RD cells, indicating that the receptor specificities of HCV-OC43 and HCV-229E are different.",
+      "sentences": [
+        [
+          {
+            "segment_text": "To develop a monoclonal antibody against the HCV-229E receptor ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "we produced hybridomas against deoxycholatesolubilized membrane proteins of two HCV-229E-susceptible human cell lines ( WI38 lung fibroblasts and HL60 myeloid leukaemia cells ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A monoclonal antibody designated RBS protected WI38 and RD human cell lines from HCV-229E-induced cytopathic effects and protected WI38 cells from virus infection ( Fig .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "la-c ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "RBS pretreatment reduced the number of HCV-229E-infected WI-38 cells at 10 h post-infection by 96 % ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "compared with cells pretreated with control mouse ascites .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "By contrast , RBS did not inhibit replication of HCV-OC43 in WI38 or RD cells ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "indicating that the receptor specificities of HCV-OC43 and HCV-229E are different .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Susceptibility to HCV-229E infection in mouse-human somatic cell hybrids depends on a gene located on human chromosome 15 (ref. 6). A promising candidate for the HCV-",
+      "sentences": [
+        [
+          {
+            "segment_text": "Susceptibility to HCV-229E infection in mouse-human somatic cell hybrids depends on a gene located on human chromosome 15 ( ref .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "6 ) .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "A promising candidate for the HCV -",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "12",
+    "segment_num": "22",
+    "token_num": "321"
+  }
+}

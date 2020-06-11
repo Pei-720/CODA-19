@@ -1,0 +1,53 @@
+{
+  "paper_id": "5dbe4b9a8dd26a76e09955736ad52dcf28c094af",
+  "metadata": {
+    "title": "On the basic reproduction number and the topological properties of the contact network: An epidemiological study in mainly locally connected cellular automata",
+    "coda_data_split": "train",
+    "coda_paper_id": 6513,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "We study the spreading of contagious diseases in a population of constant size using susceptible-infectiverecovered (SIR) models described in terms of ordinary differential equations (ODEs) and probabilistic cellular automata (PCA). In the PCA model, each individual (represented by a cell in the lattice) is mainly locally connected to others. We investigate how the topological properties of the random network representing contacts among individuals influence the transient behavior and the permanent regime of the epidemiological system described by ODE and PCA. Our main conclusions are: (1) the basic reproduction number (commonly called R 0 ) related to a disease propagation in a population cannot be uniquely determined from some features of transient behavior of the infective group; (2) R 0 cannot be associated to a unique combination of clustering coefficient and average shortest path length characterizing the contact network. We discuss how these results can embarrass the specification of control strategies for combating disease propagations.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We study the spreading of contagious diseases in a population of constant size using susceptible-infectiverecovered ( SIR ) models described in terms of ordinary differential equations ( ODEs ) and probabilistic cellular automata ( PCA ) .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the PCA model , each individual ( represented by a cell in the lattice ) is mainly locally connected to others .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We investigate how the topological properties of the random network representing contacts among individuals influence the transient behavior and the permanent regime of the epidemiological system described by ODE and PCA .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our main conclusions are : ( 1 ) the basic reproduction number ( commonly called R 0 ) related to a disease propagation in a population can not be uniquely determined from some features of transient behavior of the infective group ; ( 2 ) R 0 can not be associated to a unique combination of clustering coefficient and average shortest path length characterizing the contact network .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We discuss how these results can embarrass the specification of control strategies for combating disease propagations .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "5",
+    "token_num": "177"
+  }
+}

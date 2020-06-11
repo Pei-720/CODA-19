@@ -1,0 +1,71 @@
+{
+  "paper_id": "db283edb4c862a8a65934bb764d3287dfbfc9d99",
+  "metadata": {
+    "title": "How Long Will My Mouse Live? Machine Learning Approaches for Prediction of Mouse Life Span",
+    "coda_data_split": "train",
+    "coda_paper_id": 7149,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Prediction of individual life span based on characteristics evaluated at middle-age represents a challenging objective for aging research. In this study, we used machine learning algorithms to construct models that predict life span in a stock of genetically heterogeneous mice. Life-span prediction accuracy of 22 algorithms was evaluated using a cross-validation approach, in which models were trained and tested with distinct subsets of data. Using a combination of body weight and T-cell subset measures evaluated before 2 years of age, we show that the life-span quartile to which an individual mouse belongs can be predicted with an accuracy of 35.3% (60.10%). This result provides a new benchmark for the development of life-span-predictive models, but improvement can be expected through identification of new predictor variables and development of computational approaches. Future work in this direction can provide tools for aging research and will shed light on associations between phenotypic traits and longevity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Prediction of individual life span based on characteristics evaluated at middle-age represents a challenging objective for aging research .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we used machine learning algorithms to construct models that predict life span in a stock of genetically heterogeneous mice .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Life-span prediction accuracy of 22 algorithms was evaluated using a cross-validation approach ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "in which models were trained and tested with distinct subsets of data .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using a combination of body weight and T-cell subset measures evaluated before 2 years of age ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we show that the life-span quartile to which an individual mouse belongs can be predicted with an accuracy of 35.3 % ( 60.10 % ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This result provides a new benchmark for the development of life-span-predictive models ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but improvement can be expected through identification of new predictor variables and development of computational approaches .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Future work in this direction can provide tools for aging research and will shed light on associations between phenotypic traits and longevity .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "9",
+    "token_num": "165"
+  }
+}

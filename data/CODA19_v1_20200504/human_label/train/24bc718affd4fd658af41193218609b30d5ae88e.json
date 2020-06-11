@@ -1,0 +1,75 @@
+{
+  "paper_id": "24bc718affd4fd658af41193218609b30d5ae88e",
+  "metadata": {
+    "title": "A model to forecast regional demand for COVID-19 related hospital beds",
+    "coda_data_split": "train",
+    "coda_paper_id": 8708,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "COVID-19 threatens to overwhelm hospital facilities throughout the United States. We created an interactive, quantitative model that forecasts demand for COVID-19 related hospitalization based on county-level population characteristics, data from the literature on COVID-19, and data from online repositories. Using this information as well as user inputs, the model estimates a time series of demand for intensive care beds and acute care beds as well as the availability of those beds. The online model is designed to be intuitive and interactive so that local leaders with limited technical or epidemiological expertise may make decisions based on a variety of scenarios. This complements high-level models designed for public consumption and technically sophisticated models designed for use by epidemiologists. The model is actively being used by several academic medical centers and policy makers, and we believe that broader access will continue to aid community and hospital leaders in their response to COVID-19.",
+      "sentences": [
+        [
+          {
+            "segment_text": "COVID-19 threatens to overwhelm hospital facilities throughout the United States .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We created an interactive , quantitative model that forecasts demand for COVID-19 related hospitalization based on county-level population characteristics ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "data from the literature on COVID-19 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and data from online repositories .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using this information as well as user inputs ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the model estimates a time series of demand for intensive care beds and acute care beds as well as the availability of those beds .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The online model is designed to be intuitive and interactive so that local leaders with limited technical or epidemiological expertise may make decisions based on a variety of scenarios .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This complements high-level models designed for public consumption and technically sophisticated models designed for use by epidemiologists .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The model is actively being used by several academic medical centers and policy makers ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and we believe that broader access will continue to aid community and hospital leaders in their response to COVID-19 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "10",
+    "token_num": "161"
+  }
+}

@@ -1,0 +1,414 @@
+{
+  "paper_id": "09c9fcabc66a106e01ef42247cbd86b6d85bd67f",
+  "metadata": {
+    "title": "Mono-ADP-ribosylation by ARTD10 restricts Chikungunya virus replication by interfering with the proteolytic activity of nsP2 2 3 4",
+    "coda_data_split": "train",
+    "coda_paper_id": 2439,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "24 A subset of intracellular mono-ADP-ribosyltransferases diphtheria toxin-like (ARTDs, aka 25 mono-PARPs) is induced by type I interferons. Some of these mono-ARTDs feature antiviral 26 activity while certain RNA viruses, including Chikungunya virus (CHIKV), encode mono-ADP-27 ribosylhydrolases, suggesting a role for mono-ADP-ribosylation (MARylation) in host-virus 28 conflicts. CHIKV expresses four non-structural proteins (nsP1-nsP4), with nsP3 containing a 29 macrodomain that hydrolyzes and thereby reverses protein MARylation in vitro and in cells. 30 This de-MARylation activity is essential as hydrolase inactivating mutations result in 31 replication defective virus. However, the substrates of MARylation during CHIKV infection 32 are unknown and thus it is unclear how the macrodomain contributes to virus replication 33 and how mono-ARTD-dependent MARylation confers antiviral immunity. We identified 34 ARTD10 and ARTD12 as restriction factors for CHIKV replication in a catalytic activity-35 dependent manner. CHIKV replication requires processing of the non-structural polyprotein 36 nsP1-4 by the nsP2-encoded protease and the assembly of the four individual nsPs into a 37 functional replication complex. Expression of ARTD10 and ARTD12 resulted in a reduction 38 of processed nsPs. Similarly, MAR hydrolase inactive CHIKV replicon mutants revealed a 39 decrease in processed nsPs, comparable to an nsP2 protease defective mutant. This 40 suggested that the macrodomain contributes to nsP2 protease activity. In support, a 41 hydrolase-deficient virus was complemented by a protease-deficient virus. We 42 hypothesized that MARylation regulates the proteolytic function of nsP2. Indeed, we found 43 that nsP2 is MARylated by ARTD10. This inhibited nsP2 protease activity, thereby preventing 44 polyprotein processing and consequently virus replication. This inhibition was antagonized 45 by the MAR hydrolase activity of nsP3. Together, our findings provide a mechanistic 46 explanation for the need of the viral MAR hydrolase for efficient replication of CHIKV. 47 Author Summary 48 Infectious diseases still pose major health threats. Especially fast evolving viruses find ever 49 new strategies to manipulate the immune response. With climate warming and increased 50 human mobility vector-borne pathogens like Chikungunya virus (CHIKV) spread and cause 51 world-wide epidemics. Beyond the acute phase, CHIKV patients regularly suffer from chronic 52 rheumatism. This entails a decline in life quality and an economic burden. To date no drugs 53 are approved and the mode of pathogenesis remains elusive. Here we describe a mechanistic 54 function of the CHIKV nsP3 macrodomain. We found that the viral nsP2 is mono-ADP-55 ribosylated interfering with its auto-proteolytic function. The nsP3 macrodomain removes this 56 modification and restores the protease activity that is essential for replication. Because 57 macrodomains are highly conserved they might represent broad antiviral targets. 58 59 Introduction 60 Upon viral infection host cells initiate an antiviral immune response. Because the regulation 61 of protein function through post-translational modifications (PTMs) is among the quickest 62 mechanisms to adapt to challenges such as viral infections, PTMs display an essential part of 63 antiviral signaling. Viruses have developed multifaceted strategies to evade or even hijack 64 cellular mechanisms, e.g. encoding proteins that regulate PTMs and thereby counteract the 65 antiviral reaction of the host [1-5]. Recent findings have elaborated on the role of intracellular 66 ADP-ribosylation at the host-pathogen interface [6-12]. ADP-ribosylation is an ancient PTM of 67 proteins and intracellularly mainly catalyzed by members of the ADP-ribosyltransferase 68 diphtheria toxin-like (ARTD) family (also known as poly-ADP-ribosylpolymerases (PARPs)), 69",
+      "sentences": [
+        [
+          {
+            "segment_text": "24 A subset of intracellular mono-ADP-ribosyltransferases diphtheria toxin-like ( ARTDs , aka 25 mono-PARPs ) is induced by type I interferons .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Some of these mono-ARTDs feature antiviral 26 activity while certain RNA viruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including Chikungunya virus ( CHIKV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "encode mono-ADP-27 ribosylhydrolases , suggesting a role for mono-ADP-ribosylation ( MARylation ) in host-virus 28 conflicts .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "CHIKV expresses four non-structural proteins ( nsP1-nsP4 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with nsP3 containing a 29 macrodomain that hydrolyzes and thereby reverses protein MARylation in vitro and in cells .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "30 This de-MARylation activity is essential as hydrolase inactivating mutations result in 31 replication defective virus .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the substrates of MARylation during CHIKV infection 32 are unknown and thus it is unclear how the macrodomain contributes to virus replication 33 and how mono-ARTD-dependent MARylation confers antiviral immunity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We identified 34 ARTD10 and ARTD12 as restriction factors for CHIKV replication in a catalytic activity-35 dependent manner .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "CHIKV replication requires processing of the non-structural polyprotein 36 nsP1-4 by the nsP2-encoded protease and the assembly of the four individual nsPs into a 37 functional replication complex .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Expression of ARTD10 and ARTD12 resulted in a reduction 38 of processed nsPs .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Similarly , MAR hydrolase inactive CHIKV replicon mutants revealed a 39 decrease in processed nsPs ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "comparable to an nsP2 protease defective mutant .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This 40 suggested that the macrodomain contributes to nsP2 protease activity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In support , a 41 hydrolase-deficient virus was complemented by a protease-deficient virus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We 42 hypothesized that MARylation regulates the proteolytic function of nsP2 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Indeed , we found 43 that nsP2 is MARylated by ARTD10 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This inhibited nsP2 protease activity ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "thereby preventing 44 polyprotein processing and consequently virus replication .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This inhibition was antagonized 45 by the MAR hydrolase activity of nsP3 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Together , our findings provide a mechanistic 46 explanation for the need of the viral MAR hydrolase for efficient replication of CHIKV .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "47 Author Summary 48 Infectious diseases still pose major health threats .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Especially fast evolving viruses find ever 49 new strategies to manipulate the immune response .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "With climate warming and increased 50 human mobility vector-borne pathogens like Chikungunya virus ( CHIKV ) spread and cause 51 world-wide epidemics .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Beyond the acute phase , CHIKV patients regularly suffer from chronic 52 rheumatism .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This entails a decline in life quality and an economic burden .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "To date no drugs 53 are approved and the mode of pathogenesis remains elusive .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we describe a mechanistic 54 function of the CHIKV nsP3 macrodomain .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We found that the viral nsP2 is mono-ADP-55 ribosylated interfering with its auto-proteolytic function .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The nsP3 macrodomain removes this 56 modification and restores the protease activity that is essential for replication .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Because 57 macrodomains are highly conserved they might represent broad antiviral targets .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "58 59 Introduction 60 Upon viral infection host cells initiate an antiviral immune response .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Because the regulation 61 of protein function through post-translational modifications ( PTMs ) is among the quickest 62 mechanisms to adapt to challenges such as viral infections ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "PTMs display an essential part of 63 antiviral signaling .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Viruses have developed multifaceted strategies to evade or even hijack 64 cellular mechanisms ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "e.g. encoding proteins that regulate PTMs and thereby counteract the 65 antiviral reaction of the host ( 1-5 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recent findings have elaborated on the role of intracellular 66 ADP-ribosylation at the host-pathogen interface ( 6-12 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "ADP-ribosylation is an ancient PTM of 67 proteins and intracellularly mainly catalyzed by members of the ADP-ribosyltransferase 68 diphtheria toxin-like ( ARTD ) family ( also known as poly-ADP-ribosylpolymerases ( PARPs ) ) , 69",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "which is composed of seventeen proteins [1, 13]. These enzymes use NAD + as co-factor to 70 transfer ADP-ribose onto a substrate protein with release of nicotinamide. Based on their 71 . : bioRxiv preprint 4 catalytic features the ARTDs are subdivided into three classes. The first class contains ARTD1, 72 2, 5, and 6, which are capable of transferring multiple ADP-ribose moieties in an iterative 73 process and thereby forming long polymers. This results in poly-ADP-ribosylation (PARylation) 74 of substrate proteins. The second and largest class is defined by members that are restricted 75 to mono-ADP-ribosylation (MARylation) (ARTD3, 4,(7)(8)(9)(10)(11)(12)(14)(15)(16)(17), whereas the third 76 group is defined by ARTD13, which lacks the ability to bind NAD + and thus is catalytically 77 inactive [18]. 78 79 PARylation, arguably best known for its function in DNA damage response, has also been 80 linked to chromatin organization, ribosome biogenesis, telomere maintenance, signaling 81 processes and cell death [1, 19, 20]. In contrast functions of MARylation are less well 82 understood but expanding with links to DNA damage repair, gene expression, signaling, stress 83 response and cell death [1, 21]. Recent findings indicate a role for MARylation in host-84 pathogen conflicts [1, 21, 22]. The expression of several mono-ARTDs is triggered by type I 85 interferons (IFNs) or pathogen-associated molecular patterns (PAMPs), like LPS, as part of an 86 innate immune response to pathogens [6, 8, 11,[23][24][25]. Among these mono-ARTDs are ARTD7, 87 ARTD10 and ARTD12, which have been identified to mediate clearance of Venezuelan Equine 88",
+      "sentences": [
+        [
+          {
+            "segment_text": "which is composed of seventeen proteins ( 1 , 13 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These enzymes use NAD + as co-factor to 70 transfer ADP-ribose onto a substrate protein with release of nicotinamide .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Based on their 71 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": ": bioRxiv preprint 4 catalytic features the ARTDs are subdivided into three classes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The first class contains ARTD1 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "72 2 , 5 , and 6 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which are capable of transferring multiple ADP-ribose moieties in an iterative 73 process and thereby forming long polymers .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This results in poly-ADP-ribosylation ( PARylation ) 74 of substrate proteins .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The second and largest class is defined by members that are restricted 75 to mono-ADP-ribosylation ( MARylation ) ( ARTD3 , 4 , ( 7 ) ( 8 ) ( 9 ) ( 10 ) ( 11 ) ( 12 ) ( 14 ) ( 15 ) ( 16 ) ( 17 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "whereas the third 76 group is defined by ARTD13 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which lacks the ability to bind NAD + and thus is catalytically 77 inactive ( 18 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "78 79 PARylation , arguably best known for its function in DNA damage response ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "has also been 80 linked to chromatin organization ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "ribosome biogenesis , telomere maintenance ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "signaling 81 processes and cell death ( 1 , 19 , 20 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In contrast functions of MARylation are less well 82 understood but expanding with links to DNA damage repair ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "gene expression , signaling , stress 83 response and cell death ( 1 , 21 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recent findings indicate a role for MARylation in host-84 pathogen conflicts ( 1 , 21 , 22 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The expression of several mono-ARTDs is triggered by type I 85 interferons ( IFNs ) or pathogen-associated molecular patterns ( PAMPs ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "like LPS , as part of an 86 innate immune response to pathogens ( 6 , 8 , 11 , ( 23 ) ( 24 ) ( 25 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Among these mono-ARTDs are ARTD7 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "87 ARTD10 and ARTD12 , which have been identified to mediate clearance of Venezuelan Equine 88",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Encephalitis Virus (VEEV) by interfering with viral replication [7, 8]. In line with this, Zika virus 89 replication is restricted by ARTD12 [26] . In addition to these molecular and cell-based studies, 90 evolutionary analysis suggests a role for several ARTD family members at the host-pathogen 91 interface, among them the macrodomain containing ARTDs (ARTD7-9) and ARTD13 [27]. 92",
+      "sentences": [
+        [
+          {
+            "segment_text": "Encephalitis Virus ( VEEV ) by interfering with viral replication ( 7 , 8 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In line with this , Zika virus 89 replication is restricted by ARTD12 ( 26 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition to these molecular and cell-based studies ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "90 evolutionary analysis suggests a role for several ARTD family members at the host-pathogen 91 interface ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "among them the macrodomain containing ARTDs ( ARTD7-9 ) and ARTD13 ( 27 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "92",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Although catalytically inactive, the latter is best studied for being restrictive for viral 93 replication by recognizing foreign CG-rich RNA through its Zinc finger domains [28, 29]. 94 95 . CC-BY-NC-ND 4.0",
+      "sentences": [
+        [
+          {
+            "segment_text": "Although catalytically inactive , the latter is best studied for being restrictive for viral 93 replication by recognizing foreign CG-rich RNA through its Zinc finger domains ( 28 , 29 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "94 95 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "CC-BY-NC-ND 4.0",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "50",
+    "segment_num": "69",
+    "token_num": "1080"
+  }
+}

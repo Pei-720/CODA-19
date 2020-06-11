@@ -1,0 +1,152 @@
+{
+  "paper_id": "5d3612cd95331a2f0c43ef9d03ce583b5ff8c995",
+  "metadata": {
+    "title": "Integrative Bioinformatics Analysis Provides Insight into the Molecular Mechanisms of 2019-nCoV",
+    "coda_data_split": "train",
+    "coda_paper_id": 3545,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The 2019-nCoV is reported to share the same entry (ACE2) as SARS-CoV according to the updated findings. Analyzing the distribution and expression level of the route of coronavirus may help reveal underlying mechanisms of viral susceptibility and post-infection modulation. In this study, we found that the expression of ACE2 in healthy populations and patients with underlying diseases was not significantly different, suggesting relatively similar susceptibility. Besides, based on the expression of ACE2 in smoking individuals, we inferred that long-term smoking might be a risk factor for 2019-nCoV. Analyzing the ACE2 in SARS-CoV infected cells suggested that ACE2 was more than just a receptor but also participated in post-infection regulation, including immune response, cytokine secretion, and viral genome replication. Moreover, we also constructed Protein-protein interaction (PPI) networks and identified hub genes in viral activity and cytokine secretion. Our findings may explain the clinical symptoms so far and help clinicians and researchers understand the pathogenesis and design therapeutic strategies for 2019-nCoV. : medRxiv preprint GO biological process annotation gmt file was downloaded from MSigDB (https://www.gsea-msigdb.org/gsea/msigdb/). GSEA was performed to analyze the possible biological processes related to ACE2 in healthy people using clusterProfiler (12) . The parameters were nPerm \u003d 1000, minGSSize \u003d 10, maxGSSize \u003d 500, the biological processes with p-value \u003c 0.05 were considered significant. GSVA was performed using GSVA R package. The immune infiltrating was quantified using the ssGSEA method in GSVA R package. The gene list for immune cells was derived from Bindea G et al.(13).",
+      "sentences": [
+        [
+          {
+            "segment_text": "The 2019-nCoV is reported to share the same entry ( ACE2 ) as SARS-CoV according to the updated findings .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Analyzing the distribution and expression level of the route of coronavirus may help reveal underlying mechanisms of viral susceptibility and post-infection modulation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we found that the expression of ACE2 in healthy populations and patients with underlying diseases was not significantly different , suggesting relatively similar susceptibility .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Besides , based on the expression of ACE2 in smoking individuals ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we inferred that long-term smoking might be a risk factor for 2019-nCoV .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Analyzing the ACE2 in SARS-CoV infected cells suggested that ACE2 was more than just a receptor but also participated in post-infection regulation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including immune response , cytokine secretion , and viral genome replication .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , we also constructed Protein-protein interaction ( PPI ) networks and identified hub genes in viral activity and cytokine secretion .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our findings may explain the clinical symptoms so far and help clinicians and researchers understand the pathogenesis and design therapeutic strategies for 2019-nCoV .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": ": medRxiv preprint GO biological process annotation gmt file was downloaded from MSigDB ( https://www.gsea-msigdb.org/gsea/msigdb/ ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "GSEA was performed to analyze the possible biological processes related to ACE2 in healthy people using clusterProfiler ( 12 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The parameters were nPerm \u003d 1000 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "minGSSize \u003d 10 , maxGSSize \u003d 500 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the biological processes with p-value \u003c 0.05 were considered significant .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "GSVA was performed using GSVA R package .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The immune infiltrating was quantified using the ssGSEA method in GSVA R package .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The gene list for immune cells was derived from Bindea G et al. ( 13 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "All viral-related biological process and cytokine secretion-biological process proteins were extracted from the gmt file, Cytoscape v3.7.2 was used to construct the PPI network using BisoGenet application, the PPI sources include DIP, BIOGRID, HPRD, INTACT, MINT and BIND. And the nodes with topological importance in the interaction network were screened by calculating Degree Centrality (DC) with the Cytoscape plugin CytoNCA. Hub proteins were identified using Cytoscape plugin CytoHubba.",
+      "sentences": [
+        [
+          {
+            "segment_text": "All viral-related biological process and cytokine secretion-biological process proteins were extracted from the gmt file ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Cytoscape v3 .7.2 was used to construct the PPI network using BisoGenet application ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the PPI sources include DIP ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "BIOGRID , HPRD , INTACT , MINT and BIND .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "And the nodes with topological importance in the interaction network were screened by calculating Degree Centrality ( DC ) with the Cytoscape plugin CytoNCA .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hub proteins were identified using Cytoscape plugin CytoHubba .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "16",
+    "segment_num": "23",
+    "token_num": "361"
+  }
+}

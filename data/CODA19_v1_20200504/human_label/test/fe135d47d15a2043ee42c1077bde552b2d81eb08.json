@@ -1,0 +1,174 @@
+{
+  "paper_id": "fe135d47d15a2043ee42c1077bde552b2d81eb08",
+  "metadata": {
+    "title": "The promises and pitfalls of RNA-interference-based therapeutics NIH Public Access",
+    "coda_data_split": "test",
+    "coda_paper_id": 451,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The discovery that gene expression can be controlled by the Watson-Crick base-pairing of small RNAs with messenger RNAs containing complementary sequence -a process known as RNA interference -has markedly advanced our understanding of eukaryotic gene regulation and function. The ability of short RNA sequences to modulate gene expression has provided a powerful tool with which to study gene function and is set to revolutionize the treatment of disease. Remarkably, despite being just one decade from its discovery, the phenomenon is already being used therapeutically in human clinical trials, and biotechnology companies that focus on RNA-interference-based therapeutics are already publicly traded.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The discovery that gene expression can be controlled by the Watson-Crick base-pairing of small RNAs with messenger RNAs containing complementary sequence - a process known as RNA interference - has markedly advanced our understanding of eukaryotic gene regulation and function .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The ability of short RNA sequences to modulate gene expression has provided a powerful tool with which to study gene function and is set to revolutionize the treatment of disease .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Remarkably , despite being just one decade from its discovery ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the phenomenon is already being used therapeutically in human clinical trials ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and biotechnology companies that focus on RNA-interference-based therapeutics are already publicly traded .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Before 1980, RNA was generally considered to be no more than a passive intermediate carrying information between DNA and protein synthesis. The discovery of catalytic RNAs in the early 1980s merited a shared Nobel prize to Tom Cech and Sidney Altman, and in 1986 the concept of \u0027the RNA world\u0027, an idiom created by Walter Gilbert, was proposed. Today, this is a common expression, and RNA has claimed a pivotal place in cellular biology.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Before 1980 , RNA was generally considered to be no more than a passive intermediate carrying information between DNA and protein synthesis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The discovery of catalytic RNAs in the early 1980s merited a shared Nobel prize to Tom Cech and Sidney Altman ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and in 1986 the concept of ` the RNA world \u0027 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "an idiom created by Walter Gilbert , was proposed .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Today , this is a common expression ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and RNA has claimed a pivotal place in cellular biology .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Just ten years ago, RNA\u0027s functional repertoire was expanded further with the discovery in the nematode Caenorhabditis elegans 1 that double-stranded RNAs (dsRNAs) can trigger silencing of complementary messenger RNA sequences, and the term \u0027RNA interference\u0027 (RNAi) was born. Shortly thereafter, short dsRNAs -or short interfering RNAs (siRNAs) (reviewed in ref. 1 ) -were generated artificially and used to demonstrate that this process also occurs in mammalian cells, usually, but not always, without triggering the innate immune sys tem, which normally recognizes RNAs as part of an antiviral defence mechanism (see page 421). The knowledge that small RNAs can affect gene expression has had a tremendous impact on basic and applied research, and RNAi is currently one of the most promising new approaches for disease therapy.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Just ten years ago , RNA \u0027s functional repertoire was expanded further with the discovery in the nematode Caenorhabditis elegans 1 that double-stranded RNAs ( dsRNAs ) can trigger silencing of complementary messenger RNA sequences ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and the term ` RNA interference \u0027 ( RNAi ) was born .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Shortly thereafter , short dsRNAs - or short interfering RNAs ( siRNAs ) ( reviewed in ref .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "1 ) - were generated artificially and used to demonstrate that this process also occurs in mammalian cells ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "usually , but not always ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "without triggering the innate immune sys tem ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which normally recognizes RNAs as part of an antiviral defence mechanism ( see page 421 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The knowledge that small RNAs can affect gene expression has had a tremendous impact on basic and applied research ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and RNAi is currently one of the most promising new approaches for disease therapy .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "That RNAi could be triggered in vivo in mammals was first shown in animals infected with hepatitis B virus 2 . This was followed by the first therapeutic application of siRNAs: siRNAs were targeted to Fas mRNA in a mouse model of autoimmune hepatitis, resulting in protection of the treated animals against liver fibrosis 3 . In 2004, only six years after the discovery of RNAi, the first siRNA-based human therapeutics -developed as treatments for wet agerelated macular degeneration -entered phase I clinical trials. RNAi is one of the fastest advancing fields in biology, and the flow of discoveries gives true meaning to the expression \u0027from the bench to the bedside\u0027.",
+      "sentences": [
+        [
+          {
+            "segment_text": "That RNAi could be triggered in vivo in mammals was first shown in animals infected with hepatitis B virus 2 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This was followed by the first therapeutic application of siRNAs : siRNAs were targeted to Fas mRNA in a mouse model of autoimmune hepatitis ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "resulting in protection of the treated animals against liver fibrosis 3 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In 2004 , only six years after the discovery of RNAi ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the first siRNA-based human therapeutics - developed as treatments for wet agerelated macular degeneration - entered phase I clinical trials .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "RNAi is one of the fastest advancing fields in biology ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the flow of discoveries gives true meaning to the expression ` from the bench to the bedside \u0027 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "14",
+    "segment_num": "27",
+    "token_num": "467"
+  }
+}

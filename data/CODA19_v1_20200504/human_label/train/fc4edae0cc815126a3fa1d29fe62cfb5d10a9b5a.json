@@ -1,0 +1,57 @@
+{
+  "paper_id": "fc4edae0cc815126a3fa1d29fe62cfb5d10a9b5a",
+  "metadata": {
+    "title": "Feeding associated neonatal necrotizing enterocolitis (Primary NEC) is an inflammatory bowel disease",
+    "coda_data_split": "train",
+    "coda_paper_id": 8471,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Neonatal necrotizing enterocolitis which develops after feeding preterm infants is characterized by severe intestinal inflammation and profound systemic metabolic acidosis. The fermentation of undigested dietary carbohydrate by colonic flora yields gases (CO 2 and H 2 ) and short chain organic acids. These organic acids can disrupt the intestinal mucosa and initiate inflammation driven predominantly by resident mast cells and by granulocytes which are recruited from blood. A systemic acidosis ensues derived from intestinal acids, not classic lactic acidosis produced from anaerobic metabolism. The systemic acidosis further compromises inflamed bowel leading to bowel necrosis.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Neonatal necrotizing enterocolitis which develops after feeding preterm infants is characterized by severe intestinal inflammation and profound systemic metabolic acidosis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The fermentation of undigested dietary carbohydrate by colonic flora yields gases ( CO 2 and H 2 ) and short chain organic acids .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These organic acids can disrupt the intestinal mucosa and initiate inflammation driven predominantly by resident mast cells and by granulocytes which are recruited from blood .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A systemic acidosis ensues derived from intestinal acids ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "not classic lactic acidosis produced from anaerobic metabolism .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The systemic acidosis further compromises inflamed bowel leading to bowel necrosis .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "6",
+    "token_num": "101"
+  }
+}

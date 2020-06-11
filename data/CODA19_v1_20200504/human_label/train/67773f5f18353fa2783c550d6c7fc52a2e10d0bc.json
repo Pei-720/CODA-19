@@ -1,0 +1,120 @@
+{
+  "paper_id": "67773f5f18353fa2783c550d6c7fc52a2e10d0bc",
+  "metadata": {
+    "title": "A novel fast vector method for genetic sequence comparison OPEN",
+    "coda_data_split": "train",
+    "coda_paper_id": 9083,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "With sharp increasing in biological sequences, the traditional sequence alignment methods become unsuitable and infeasible. It motivates a surge of fast alignment-free techniques for sequence analysis. Among these methods, many sorts of feature vector methods are established and applied to reconstruction of species phylogeny. The vectors basically consist of some typical numerical features for certain biological problems. The features may come from the primary sequences, secondary or three dimensional structures of macromolecules. In this study, we propose a novel numerical vector based on only primary sequences of organism to build their phylogeny. Three chemical and physical properties of primary sequences: purine, pyrimidine and keto are also incorporated to the vector. Using each property, we convert the nucleotide sequence into a new sequence consisting of only two kinds of letters. Therefore, three sequences are constructed according to the three properties. For each letter of each sequence we calculate the number of the letter, the average position of the letter and the variation of the position of the letter appearing in the sequence. Tested on several datasets related to mammals, viruses and bacteria, this new tool is fast in speed and accurate for inferring the phylogeny of organisms.",
+      "sentences": [
+        [
+          {
+            "segment_text": "With sharp increasing in biological sequences ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the traditional sequence alignment methods become unsuitable and infeasible .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It motivates a surge of fast alignment-free techniques for sequence analysis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Among these methods , many sorts of feature vector methods are established and applied to reconstruction of species phylogeny .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The vectors basically consist of some typical numerical features for certain biological problems .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The features may come from the primary sequences ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "secondary or three dimensional structures of macromolecules .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we propose a novel numerical vector based on only primary sequences of organism to build their phylogeny .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Three chemical and physical properties of primary sequences : purine ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "pyrimidine and keto are also incorporated to the vector .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using each property , we convert the nucleotide sequence into a new sequence consisting of only two kinds of letters .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , three sequences are constructed according to the three properties .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "For each letter of each sequence we calculate the number of the letter ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the average position of the letter and the variation of the position of the letter appearing in the sequence .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Tested on several datasets related to mammals ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "viruses and bacteria , this new tool is fast in speed and accurate for inferring the phylogeny of organisms .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Published: xx xx xxxx OPEN www.nature.com/scientificreports/ 2 Scientific RepoRts | 7: 12226 |",
+      "sentences": [
+        [
+          {
+            "segment_text": "Published : xx xx xxxx OPEN www.nature.com/scientificreports/ 2 Scientific RepoRts | 7 : 12226 |",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "12",
+    "segment_num": "17",
+    "token_num": "233"
+  }
+}

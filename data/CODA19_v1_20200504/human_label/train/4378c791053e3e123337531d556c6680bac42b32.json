@@ -1,0 +1,85 @@
+{
+  "paper_id": "4378c791053e3e123337531d556c6680bac42b32",
+  "metadata": {
+    "title": "SPAAN: a software program for prediction of adhesins and adhesin-like proteins using neural networks",
+    "coda_data_split": "train",
+    "coda_paper_id": 8121,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The adhesion of microbial pathogens to host cells is mediated by adhesins. Experimental methods used for characterizing adhesins are time-consuming and demand large resources. The availability of specialized software can rapidly aid experimenters in simplifying this problem. We have employed 105 compositional properties and artificial neural networks to develop SPAAN, which predicts the probability of a protein being an adhesin (P ad ). Results: SPAAN had optimal sensitivity of 89% and specificity of 100% on a defined test set and could identify 97.4% of known adhesins at high P ad value from a wide range of bacteria. Furthermore, SPAAN facilitated improved annotation of several proteins as adhesins. Novel adhesins were identified in 17 pathogenic organisms causing diseases in humans and plants. In the severe acute respiratory syndrome (SARS) associated human corona virus, the spike glycoprotein and nsps (nsp2, nsp5, nsp6 and nsp7) were identified as having adhesin-like characteristics. These results offer new lead for rapid experimental testing.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The adhesion of microbial pathogens to host cells is mediated by adhesins .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Experimental methods used for characterizing adhesins are time-consuming and demand large resources .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The availability of specialized software can rapidly aid experimenters in simplifying this problem .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We have employed 105 compositional properties and artificial neural networks to develop SPAAN ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which predicts the probability of a protein being an adhesin ( P ad ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results : SPAAN had optimal sensitivity of 89 % and specificity of 100 % on a defined test set and could identify 97.4 % of known adhesins at high P ad value from a wide range of bacteria .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , SPAAN facilitated improved annotation of several proteins as adhesins .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Novel adhesins were identified in 17 pathogenic organisms causing diseases in humans and plants .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the severe acute respiratory syndrome ( SARS ) associated human corona virus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the spike glycoprotein and nsps ( nsp2 , nsp5 , nsp6 and nsp7 ) were identified as having adhesin-like characteristics .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These results offer new lead for rapid experimental testing .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "9",
+    "segment_num": "11",
+    "token_num": "180"
+  }
+}

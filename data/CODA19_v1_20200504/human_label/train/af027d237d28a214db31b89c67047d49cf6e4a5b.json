@@ -1,0 +1,203 @@
+{
+  "paper_id": "af027d237d28a214db31b89c67047d49cf6e4a5b",
+  "metadata": {
+    "title": "Pre-fusion structure of a human coronavirus spike protein",
+    "coda_data_split": "train",
+    "coda_paper_id": 9223,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "HKU1 is a human betacoronavirus that causes mild yet prevalent respiratory disease 1 , and is related to the zoonotic SARS 2 and MERS 3 betacoronaviruses, which have high fatality rates and pandemic potential. Cell tropism and host range is determined in part by the coronavirus spike (S) protein 4 , which binds cellular receptors and mediates membrane fusion. As the largest known class I fusion protein, its size and extensive glycosylation have hindered structural studies of the full ectodomain, thus preventing a molecular understanding of its function and limiting development of effective interventions. Here we present the 4.0 Å resolution structure of the trimeric HKU1 S protein determined using singleparticle cryo-electron microscopy. In the pre-fusion conformation, the receptor-binding subunits, S1, rest above the fusion-mediating subunits, S2, preventing their conformational rearrangement. Surprisingly, the S1 C-terminal domains are interdigitated and form extensive quaternary interactions that occlude surfaces known in other coronaviruses to bind protein receptors. These features, along with the location of the two protease sites known to be important for coronavirus entry, provide a structural basis to support a model of membrane fusion mediated by progressive S protein destabilization through receptor binding and proteolytic cleavage. These studies should also serve as a foundation for the structure-based design of betacoronavirus vaccine immunogens.",
+      "sentences": [
+        [
+          {
+            "segment_text": "HKU1 is a human betacoronavirus that causes mild yet prevalent respiratory disease 1 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and is related to the zoonotic SARS 2 and MERS 3 betacoronaviruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which have high fatality rates and pandemic potential .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Cell tropism and host range is determined in part by the coronavirus spike ( S ) protein 4 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which binds cellular receptors and mediates membrane fusion .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As the largest known class I fusion protein ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "its size and extensive glycosylation have hindered structural studies of the full ectodomain ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "thus preventing a molecular understanding of its function and limiting development of effective interventions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we present the 4.0 Å resolution structure of the trimeric HKU1 S protein determined using singleparticle cryo-electron microscopy .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the pre-fusion conformation , the receptor-binding subunits ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "S1 , rest above the fusion-mediating subunits ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "S2 , preventing their conformational rearrangement .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Surprisingly , the S1 C-terminal domains are interdigitated and form extensive quaternary interactions that occlude surfaces known in other coronaviruses to bind protein receptors .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These features , along with the location of the two protease sites known to be important for coronavirus entry ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "provide a structural basis to support a model of membrane fusion mediated by progressive S protein destabilization through receptor binding and proteolytic cleavage .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These studies should also serve as a foundation for the structure-based design of betacoronavirus vaccine immunogens .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Betacoronavirus S proteins are processed into S1 and S2 subunits by host proteases 5 . Like other class I viral fusion proteins, the two subunits trimerize and fold into a metastable pre-fusion conformation. The S1 subunit is responsible for receptor binding, while the S2 subunit mediates membrane fusion. Coronaviruses typically possess two domains within S1 capable of binding to host receptors: an amino (N)-terminal domain (NTD) and a carboxy (C)-terminal domain (CTD), with the latter recognizing protein receptors for SARS-CoV and MERS-CoV 6,7 . Although these individual domains have been structurally characterized, the organization of the complete spike has not yet been determined, preventing a mechanistic understanding of S protein function.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Betacoronavirus S proteins are processed into S1 and S2 subunits by host proteases 5 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Like other class I viral fusion proteins ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the two subunits trimerize and fold into a metastable pre-fusion conformation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The S1 subunit is responsible for receptor binding ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "while the S2 subunit mediates membrane fusion .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Coronaviruses typically possess two domains within S1 capable of binding to host receptors : an amino ( N ) - terminal domain ( NTD ) and a carboxy ( C ) - terminal domain ( CTD ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with the latter recognizing protein receptors for SARS-CoV and MERS-CoV 6,7 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although these individual domains have been structurally characterized ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the organization of the complete spike has not yet been determined ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "preventing a mechanistic understanding of S protein function .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Here, we present the structure of the HKU1 S protein ectodomain determined using cryo-electron microscopy (cryo-EM) to 4.0 Å resolution ( Fig. 1a and Extended Data Figs 1 and 2 and Extended Data Table 1 ). The protein construct contains a C-terminal T4 fibritin trimerization motif and a mutated S1/S2 furin-cleavage site (Extended Data Fig. 3 ). The S1 subunit adopts an extended conformation with short linkers between domains and sub-domains (Fig. 1b) . The S1 NTD (amino acids 14-297) has strong structural and sequence homology to the bovine coronavirus (BCoV) S1 NTD (Extended Data Fig. 4) , which recognizes acetylated sialic acids on glycosylated cell-surface receptors 8 . The glycan-binding site in the BCoV S1 NTD is conserved in the HKU1 S1 NTD and is located at the apex of the trimer, oriented towards target cells. Indeed, HKU1 S1 was recently shown to bind O-acetylated sialic",
+      "sentences": [
+        [
+          {
+            "segment_text": "Here , we present the structure of the HKU1 S protein ectodomain determined using cryo-electron microscopy ( cryo-EM ) to 4.0 Å resolution ( Fig. 1a and Extended Data Figs 1 and 2 and Extended Data Table 1 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The protein construct contains a C-terminal T4 fibritin trimerization motif and a mutated S1/S2 furin-cleavage site ( Extended Data Fig. 3 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The S1 subunit adopts an extended conformation with short linkers between domains and sub-domains ( Fig. 1b ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The S1 NTD ( amino acids 14-297 ) has strong structural and sequence homology to the bovine coronavirus ( BCoV ) S1 NTD ( Extended Data Fig. 4 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which recognizes acetylated sialic acids on glycosylated cell-surface receptors 8 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The glycan-binding site in the BCoV S1 NTD is conserved in the HKU1 S1 NTD and is located at the apex of the trimer , oriented towards target cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Indeed , HKU1 S1 was recently shown to bind O-acetylated sialic",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "19",
+    "segment_num": "33",
+    "token_num": "528"
+  }
+}

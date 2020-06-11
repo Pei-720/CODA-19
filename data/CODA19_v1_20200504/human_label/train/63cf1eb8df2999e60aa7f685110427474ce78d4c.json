@@ -1,0 +1,128 @@
+{
+  "paper_id": "63cf1eb8df2999e60aa7f685110427474ce78d4c",
+  "metadata": {
+    "title": "Cholera Modeling: Challenges to Quantitative Analysis and Predicting the Impact of Interventions NIH Public Access",
+    "coda_data_split": "train",
+    "coda_paper_id": 4670,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Several mathematical models of epidemic cholera have recently been proposed in response to outbreaks in Zimbabwe and Haiti. These models aim to estimate the dynamics of cholera transmission and the impact of possible interventions, with a goal of providing guidance to policymakers in deciding among alternative courses of action, including vaccination, provision of clean water, and antibiotics. Here we discuss concerns about model misspecification, parameter uncertainty, and spatial heterogeneity intrinsic to models for cholera. We argue for caution in interpreting quantitative predictions, particularly predictions of the effectiveness of interventions. We specify sensitivity analyses that would be necessary to improve confidence in model-based quantitative prediction, and suggest types of monitoring in future epidemic settings that would improve analysis and prediction.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Several mathematical models of epidemic cholera have recently been proposed in response to outbreaks in Zimbabwe and Haiti .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These models aim to estimate the dynamics of cholera transmission and the impact of possible interventions ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with a goal of providing guidance to policymakers in deciding among alternative courses of action ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including vaccination , provision of clean water , and antibiotics .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we discuss concerns about model misspecification ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "parameter uncertainty , and spatial heterogeneity intrinsic to models for cholera .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We argue for caution in interpreting quantitative predictions ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "particularly predictions of the effectiveness of interventions .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We specify sensitivity analyses that would be necessary to improve confidence in model-based quantitative prediction ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and suggest types of monitoring in future epidemic settings that would improve analysis and prediction .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The recent cholera epidemic in Zimbabwe (2008)(2009) and the ongoing cholera epidemic in Haiti (2010-2011) are catastrophes in two regions already devastated by disease and poverty. The extent of these disasters has prompted inquiries into whether interventions -such as vaccination, antibiotic administration, and the provision of clean water -could have slowed or aborted these cholera epidemics, and how such interventions might be most effectively implemented in future epidemics. Cholera spreads in areas with poor sanitation and through contaminated water, and the ideal solution is to improve infrastructure to provide clean water and effective sanitation --an approach that has been successful since the 19 th century. 1 On the timescale of an epidemic, creation of such infrastructure is rarely feasible. Administration of vaccine, a staple of preventive medicine, is one of the few potentially life-5 Corresponding author: Marc Lipsitch, Professor of Epidemiology,",
+      "sentences": [
+        [
+          {
+            "segment_text": "The recent cholera epidemic in Zimbabwe ( 2008 ) ( 2009 ) and the ongoing cholera epidemic in Haiti ( 2010-2011 ) are catastrophes in two regions already devastated by disease and poverty .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The extent of these disasters has prompted inquiries into whether interventions - such as vaccination ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "antibiotic administration , and the provision of clean water - could have slowed or aborted these cholera epidemics ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and how such interventions might be most effectively implemented in future epidemics .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Cholera spreads in areas with poor sanitation and through contaminated water ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and the ideal solution is to improve infrastructure to provide clean water and effective sanitation -- an approach that has been successful since the 19 th century .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "1 On the timescale of an epidemic ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "creation of such infrastructure is rarely feasible .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Administration of vaccine , a staple of preventive medicine ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "is one of the few potentially life-5 Corresponding author : Marc Lipsitch , Professor of Epidemiology ,",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "10",
+    "segment_num": "20",
+    "token_num": "297"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "paper_id": "472009a32d26c4decb765dbbf8f23c541d365879",
+  "metadata": {
+    "title": "",
+    "coda_data_split": "train",
+    "coda_paper_id": 3116,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "publicly funded repositories, such as the WHO COVID database with rights for unrestricted research re-use and analyses in any form or by any means with acknowledgement of the original source. These permissions are granted for free by Elsevier for as long as the COVID-19 resource centre remains active.",
+      "sentences": [
+        [
+          {
+            "segment_text": "publicly funded repositories , such as the WHO COVID database with rights for unrestricted research re-use and analyses in any form or by any means with acknowledgement of the original source .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These permissions are granted for free by Elsevier for as long as the COVID-19 resource centre remains active .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Some viruses are capable of integrating their genome into the host cell DNA, producing a new structure known as a \"provirus\" (Voyles, 1993) . The provirus is committed to one of three outcomes: latency, controlled growth, September 1995 J O G N N 659 660 J O C N N Volume 24, Number 7 OD, 21(2), 317-333. 922-925.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Some viruses are capable of integrating their genome into the host cell DNA ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "producing a new structure known as a `` provirus \u0027\u0027 ( Voyles , 1993 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The provirus is committed to one of three outcomes : latency ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "controlled growth , September 1995 J O G N N 659 660 J O C N N Volume 24 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Number 7 OD , 21 ( 2 ) , 317-333 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "922-925 .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "5",
+    "segment_num": "8",
+    "token_num": "126"
+  }
+}

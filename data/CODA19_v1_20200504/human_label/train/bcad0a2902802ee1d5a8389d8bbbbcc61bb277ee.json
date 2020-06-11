@@ -1,0 +1,302 @@
+{
+  "paper_id": "bcad0a2902802ee1d5a8389d8bbbbcc61bb277ee",
+  "metadata": {
+    "title": "Characterization of Bafinivirus Main Protease Autoprocessing Activities ᰔ Downloaded from",
+    "coda_data_split": "train",
+    "coda_paper_id": 2990,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The production of functional nidovirus replication-transcription complexes involves extensive proteolytic processing by virus-encoded proteases. In this study, we characterized the viral main protease (M pro ) of the type species, White bream virus (WBV), of the newly established genus Bafinivirus (order Nidovirales, family Coronaviridae, subfamily Torovirinae). Comparative sequence analysis and mutagenesis data confirmed that the WBV M pro is a picornavirus 3C-like serine protease that uses a Ser-His-Asp catalytic triad embedded in a predicted two-␤-barrel fold, which is extended by a third domain at its C terminus. Bacterially expressed WBV M pro autocatalytically released itself from flanking sequences and was able to mediate proteolytic processing in trans. Using N-terminal sequencing of autoproteolytic processing products we tentatively identified Gln2(Ala, Thr) as a substrate consensus sequence. Mutagenesis data provided evidence to suggest that two conserved His and Thr residues are part of the S1 subsite of the enzyme\u0027s substrate-binding pocket. Interestingly, we observed two N-proximal and two C-proximal autoprocessing sites in the bacterial expression system. The detection of two major forms of M pro , resulting from processing at two different N-proximal and one C-proximal site, in WBV-infected epithelioma papulosum cyprini cells confirmed the biological relevance of the biochemical data obtained in heterologous expression systems. To our knowledge, the use of alternative M pro autoprocessing sites has not been described previously for other nidovirus M pro domains. The data presented in this study lend further support to our previous conclusion that bafiniviruses represent a distinct group of viruses that significantly diverged from other phylogenetic clusters of the order Nidovirales.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The production of functional nidovirus replication-transcription complexes involves extensive proteolytic processing by virus-encoded proteases .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we characterized the viral main protease ( M pro ) of the type species ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "White bream virus ( WBV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "of the newly established genus Bafinivirus ( order Nidovirales , family Coronaviridae , subfamily Torovirinae ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Comparative sequence analysis and mutagenesis data confirmed that the WBV M pro is a picornavirus 3C-like serine protease that uses a Ser-His-Asp catalytic triad embedded in a predicted two - ␤ - barrel fold ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which is extended by a third domain at its C terminus .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Bacterially expressed WBV M pro autocatalytically released itself from flanking sequences and was able to mediate proteolytic processing in trans .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using N-terminal sequencing of autoproteolytic processing products we tentatively identified Gln2 ( Ala , Thr ) as a substrate consensus sequence .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Mutagenesis data provided evidence to suggest that two conserved His and Thr residues are part of the S1 subsite of the enzyme \u0027s substrate-binding pocket .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Interestingly , we observed two N-proximal and two C-proximal autoprocessing sites in the bacterial expression system .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The detection of two major forms of M pro ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "resulting from processing at two different N-proximal and one C-proximal site ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "in WBV-infected epithelioma papulosum cyprini cells confirmed the biological relevance of the biochemical data obtained in heterologous expression systems .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To our knowledge , the use of alternative M pro autoprocessing sites has not been described previously for other nidovirus M pro domains .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The data presented in this study lend further support to our previous conclusion that bafiniviruses represent a distinct group of viruses that significantly diverged from other phylogenetic clusters of the order Nidovirales .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Cell culture and propagation of virus. Epithelioma papulosum cyprini (EPC) cells (RIE173) were obtained from the cell culture collection of the Friedrich-Loeffler-Institut (Greifswald-Insel Riems, Germany). They were grown in minimum essential medium with Earle\u0027s salts, 25 mM HEPES, GlutaMAX I (Invitrogen, catalog no. 42360-024) supplemented with 1 mM sodium pyruvate (Invitrogen, catalog no. 11360-039) and 10% fetal bovine serum (PAA Laboratories) at 27°C in a 5% CO 2 atmosphere. WBV isolate DF24/00 (23) was propagated on EPC cells at 20°C.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Cell culture and propagation of virus .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Epithelioma papulosum cyprini ( EPC ) cells ( RIE173 ) were obtained from the cell culture collection of the Friedrich-Loeffler-Institut ( Greifswald-Insel Riems , Germany ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "They were grown in minimum essential medium with Earle \u0027s salts ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "25 mM HEPES , GlutaMAX I ( Invitrogen , catalog no. 42360-024 ) supplemented with 1 mM sodium pyruvate ( Invitrogen , catalog no. 11360-039 ) and 10 % fetal bovine serum ( PAA Laboratories ) at 27 °C in a 5 % CO 2 atmosphere .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "WBV isolate DF24/00 ( 23 ) was propagated on EPC cells at 20 °C .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Construction and mutagenesis of expression plasmids. Plasmids were generated by using standard cloning procedures. All PCR products were generated by using Pfu polymerase (Promega) according to the manufacturer\u0027s instructions. The correct sequences of the inserts were verified by sequencing using a BigDye Terminator v3.1 cycle sequencing kit (Applied Biosystems). To generate pMal-WBV-3424-3725-GST and pMal-WBV-3424-3725_S3589A-GST, the coding sequence for the WBV pp1a/pp1ab amino acid residues Gln-3424 to Met-3725 was amplified by using the primers MalE24 (5Ј-GGTCGTCAGACTGTCGATGAA GCC-3Ј) and M pro _BbsI (5Ј-AATAAGAAGACTGTTGTTAACTGGTGATG TGAGTGT-3Ј) and pMal-WBV-3CL_559-560 or pMal-WBV-3CL_S3589A (38) as a template, while the Schistosoma japonicum glutathione S-transferase (GST) coding sequence was amplified from pCITE-GST (44) by using the primers GSTup_BsaI (5Ј-AAAAGGTCTCTACAACATGAGCCCTATACTAGGTTA TTGG-3Ј) and GSTdn_BamHI (5Ј-AAAGGATCCTTAACGCGGAACCAGA TCCGATTTTGG-3Ј). The resulting PCR products were digested with BbsI and BsaI, respectively, and subsequently ligated by using T4 DNA ligase (New England Biolabs [NEB]). The resulting pp1a-3424-3725-GST fusion sequence was amplified by using MalE24 and GSTdn_BamHI, digested with SacI and BamHI, and ligated with SacI/BamHI-digested pMal-c2X plasmid DNA (NEB).",
+      "sentences": [
+        [
+          {
+            "segment_text": "Construction and mutagenesis of expression plasmids .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Plasmids were generated by using standard cloning procedures .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "All PCR products were generated by using Pfu polymerase ( Promega ) according to the manufacturer \u0027s instructions .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The correct sequences of the inserts were verified by sequencing using a BigDye Terminator v3 .1 cycle sequencing kit ( Applied Biosystems ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "To generate pMal-WBV-3424-3725-GST and pMal-WBV-3424-3725 _ S3589A-GST ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the coding sequence for the WBV pp1a/pp1ab amino acid residues Gln-3424 to Met-3725 was amplified by using the primers MalE24 ( 5Ј-GGTCGTCAGACTGTCGATGAA GCC-3Ј ) and M pro _ BbsI ( 5Ј-AATAAGAAGACTGTTGTTAACTGGTGATG TGAGTGT-3Ј ) and pMal-WBV-3CL _ 559-560 or pMal-WBV-3CL _ S3589A ( 38 ) as a template ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while the Schistosoma japonicum glutathione S-transferase ( GST ) coding sequence was amplified from pCITE-GST ( 44 ) by using the primers GSTup _ BsaI ( 5Ј-AAAAGGTCTCTACAACATGAGCCCTATACTAGGTTA TTGG-3Ј ) and GSTdn _ BamHI ( 5Ј-AAAGGATCCTTAACGCGGAACCAGA TCCGATTTTGG-3Ј ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The resulting PCR products were digested with BbsI and BsaI ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "respectively , and subsequently ligated by using T4 DNA ligase ( New England Biolabs ( NEB ) ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The resulting pp1a-3424-3725-GST fusion sequence was amplified by using MalE24 and GSTdn _ BamHI ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "digested with SacI and BamHI ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and ligated with SacI/BamHI-digested pMal-c2X plasmid DNA ( NEB ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "To construct pMal-WBV-M pro -CHis, the coding region for pp1a/pp1ab amino acids Gln-3424 to Thr-3707 was amplified from pMal-pp1a-3424-3725-GST by using the primers JZ559 (5Ј-TCAGCATCAGAATGCATTCTGTAT-3Ј) and RU32 (5Ј-TTTGGATCCTTAGTGATGGTGATGGTGATGTGTTACTGGT GCTACTGGGAG-3Ј). The resulting PCR product was phosphorylated by using T4 polynucleotide kinase (PNK; NEB), digested with EcoRI and ligated with XmnI/EcoRI-digested pMal-c2X plasmid DNA (NEB).",
+      "sentences": [
+        [
+          {
+            "segment_text": "To construct pMal-WBV-M pro - CHis ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the coding region for pp1a/pp1ab amino acids Gln-3424 to Thr-3707 was amplified from pMal-pp1a-3424-3725-GST by using the primers JZ559 ( 5Ј-TCAGCATCAGAATGCATTCTGTAT-3Ј ) and RU32 ( 5Ј-TTTGGATCCTTAGTGATGGTGATGGTGATGTGTTACTGGT GCTACTGGGAG-3Ј ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The resulting PCR product was phosphorylated by using T4 polynucleotide kinase ( PNK ; NEB ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "digested with EcoRI and ligated with XmnI/EcoRI-digested pMal-c2X plasmid DNA ( NEB ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The inserts for plasmids pMal-WBV-N1-C1, pMal-WBV-N1-C2, pMal-WBV-N2-C1, and pMal-WBV-N2-C2 were amplified from pMal-WBV-3424-3725_S3589A-GST with the primers RU36 (5Ј-GCCCTCCAACGTATCAGAC AAGC-3Ј) in combination with RU177 (5Ј-ATAGAATTCTTATTGTCTGGT GATGGTGTTAC-3Ј), RU36 in combination with RU191 (5Ј-AAAGGATCCT TATTGTCCTACTGTGACAGATGT-3Ј), RU37 (5Ј-GCAGTCACAGTTGTT GTAACAC-3Ј) in combination with RU177, and RU37 in combination with RU191, respectively. The 5Ј termini of the resulting PCR products were phosphorylated by using PNK. The inserts for pMal-WBV-N1-C1 and pMal-WBV-N2-C1 were digested with EcoRI and then ligated with XmnI/EcoRI-digested pMal-c2X plasmid DNA. The inserts for pMal-WBV-N1-C2 and pMal-WBV-N2-C2 were digested with BamHI and ligated with XmnI/BamHI-digested pMal-c2X plasmid DNA. Site-directed mutagenesis of plasmid constructs was carried out by PCR-based methods essentially as described previously (28, 55) . Sequences of oligonucleotides used for mutagenesis are available on request.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The inserts for plasmids pMal-WBV-N1-C1 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "pMal-WBV-N1-C2 , pMal-WBV-N2-C1 , and pMal-WBV-N2-C2 were amplified from pMal-WBV-3424-3725 _ S3589A-GST with the primers RU36 ( 5Ј-GCCCTCCAACGTATCAGAC AAGC-3Ј ) in combination with RU177 ( 5Ј-ATAGAATTCTTATTGTCTGGT GATGGTGTTAC-3Ј ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "RU36 in combination with RU191 ( 5Ј-AAAGGATCCT TATTGTCCTACTGTGACAGATGT-3Ј ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "RU37 ( 5Ј-GCAGTCACAGTTGTT GTAACAC-3Ј ) in combination with RU177 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and RU37 in combination with RU191 , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The 5Ј termini of the resulting PCR products were phosphorylated by using PNK .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The inserts for pMal-WBV-N1-C1 and pMal-WBV-N2-C1 were digested with EcoRI and then ligated with XmnI/EcoRI-digested pMal-c2X plasmid DNA .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The inserts for pMal-WBV-N1-C2 and pMal-WBV-N2-C2 were digested with BamHI and ligated with XmnI/BamHI-digested pMal-c2X plasmid DNA .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Site-directed mutagenesis of plasmid constructs was carried out by PCR-based methods essentially as described previously ( 28 , 55 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Sequences of oligonucleotides used for mutagenesis are available on request .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Expression of fusion proteins. Escherichia coli TB1 (NEB) cells transformed with pMal-pp1a-3424-3725-GST or pMal-pp1a-3424-3725_S3589A-GST were grown in Luria-Bertani (LB) medium containing ampicillin at a concentration of 100 g per ml until the culture reached an optical density at 600 nm (OD 600 ) of",
+      "sentences": [
+        [
+          {
+            "segment_text": "Expression of fusion proteins .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Escherichia coli TB1 ( NEB ) cells transformed with pMal-pp1a-3424-3725-GST or pMal-pp1a-3424-3725 _ S3589A-GST were grown in Luria-Bertani ( LB ) medium containing ampicillin at a concentration of 100 g per ml until the culture reached an optical density at 600 nm ( OD 600 ) of",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "6",
+    "sentence_num": "31",
+    "segment_num": "48",
+    "token_num": "879"
+  }
+}

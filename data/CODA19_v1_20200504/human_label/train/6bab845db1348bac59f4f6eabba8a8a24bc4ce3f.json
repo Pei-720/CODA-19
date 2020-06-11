@@ -1,0 +1,87 @@
+{
+  "paper_id": "6bab845db1348bac59f4f6eabba8a8a24bc4ce3f",
+  "metadata": {
+    "title": "A novel model for protein sequence similarity analysis based on spectral radius",
+    "coda_data_split": "train",
+    "coda_paper_id": 3395,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Advances in sequencing technologies led to rapid increase in the number and diversity of biological sequences, which facilitated development in the sequence research. In this paper, we present a new method for analyzing protein sequence similarity. We calculated the spectral radii of 20 amino acids (AAs) and put forward a novel 2-D graphical representation of protein sequences. To characterize protein sequences numerically, three groups of features were extracted and related to statistical, dynamics measurements and fluctuation complexity of the sequences. With the obtained feature vector, two models utilizing Gaussian Kernel similarity and Cosine similarity were built to measure the similarity between sequences. We applied our method to analyze the similarities/dissimilarities of four data sets. Both proposed models received consistent results with improvements when compared to that obtained by the ClustalW analysis. The novel approach we present in this study may therefore benefit protein research in medical and scientific fields.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Advances in sequencing technologies led to rapid increase in the number and diversity of biological sequences ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which facilitated development in the sequence research .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this paper , we present a new method for analyzing protein sequence similarity .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We calculated the spectral radii of 20 amino acids ( AAs ) and put forward a novel 2-D graphical representation of protein sequences .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "To characterize protein sequences numerically ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "three groups of features were extracted and related to statistical ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "dynamics measurements and fluctuation complexity of the sequences .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "With the obtained feature vector ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "two models utilizing Gaussian Kernel similarity and Cosine similarity were built to measure the similarity between sequences .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We applied our method to analyze the similarities/dissimilarities of four data sets .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Both proposed models received consistent results with improvements when compared to that obtained by the ClustalW analysis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The novel approach we present in this study may therefore benefit protein research in medical and scientific fields .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "12",
+    "token_num": "164"
+  }
+}

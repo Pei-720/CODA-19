@@ -1,0 +1,118 @@
+{
+  "paper_id": "76d2990a2663635e195b8a9818f9664872b6d3af",
+  "metadata": {
+    "title": "Metagenomic Assay for Identification of Microbial Pathogens in Tumor Tissues",
+    "coda_data_split": "train",
+    "coda_paper_id": 9985,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Screening for thousands of viruses and other pathogenic microorganisms, including bacteria, fungi, and parasites, in human tumor tissues will provide a better understanding of the contributory role of the microbiome in the predisposition for, causes of, and therapeutic responses to the associated cancer. Metagenomic assays designed to perform these tasks will have to include rapid and economical processing of large numbers of samples, supported by straightforward data analysis pipeline and flexible sample preparation options for multiple input tissue types from individual patients, mammals, or environmental samples. To meet these requirements, the PathoChip platform was developed by targeting viral, prokaryotic, and eukaryotic genomes with multiple DNA probes in a microarray format that can be combined with a variety of upstream sample preparation protocols and downstream data analysis. PathoChip screening of DNA plus RNA from formalin-fixed, paraffin-embedded tumor tissues demonstrated the utility of this platform, and the detection of oncogenic viruses was validated using independent PCR and deep sequencing methods. These studies demonstrate the use of the PathoChip technology combined with PCR and deep sequencing as a valuable strategy for detecting the presence of pathogens in human cancers and other diseases.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Screening for thousands of viruses and other pathogenic microorganisms ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including bacteria , fungi , and parasites ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "in human tumor tissues will provide a better understanding of the contributory role of the microbiome in the predisposition for ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "causes of , and therapeutic responses to the associated cancer .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Metagenomic assays designed to perform these tasks will have to include rapid and economical processing of large numbers of samples ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "supported by straightforward data analysis pipeline and flexible sample preparation options for multiple input tissue types from individual patients ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "mammals , or environmental samples .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To meet these requirements , the PathoChip platform was developed by targeting viral ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "prokaryotic , and eukaryotic genomes with multiple DNA probes in a microarray format that can be combined with a variety of upstream sample preparation protocols and downstream data analysis .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "PathoChip screening of DNA plus RNA from formalin-fixed ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "paraffin-embedded tumor tissues demonstrated the utility of this platform ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the detection of oncogenic viruses was validated using independent PCR and deep sequencing methods .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These studies demonstrate the use of the PathoChip technology combined with PCR and deep sequencing as a valuable strategy for detecting the presence of pathogens in human cancers and other diseases .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Citation Baldwin DA, Feldman M, Alwine JC, Robertson ES. 2014. Metagenomic assay for identification of microbial pathogens in tumor tissues. mBio 5(5):e01714-14.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Citation Baldwin DA , Feldman M ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "Alwine JC , Robertson ES .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "2014 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Metagenomic assay for identification of microbial pathogens in tumor tissues .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "mBio 5 ( 5 ) : e01714-14 .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "9",
+    "segment_num": "18",
+    "token_num": "242"
+  }
+}

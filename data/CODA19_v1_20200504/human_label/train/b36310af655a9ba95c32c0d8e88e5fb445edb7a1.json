@@ -1,0 +1,65 @@
+{
+  "paper_id": "b36310af655a9ba95c32c0d8e88e5fb445edb7a1",
+  "metadata": {
+    "title": "-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/). Infectious Disease Modelling 5 (2020) 264e270",
+    "coda_data_split": "train",
+    "coda_paper_id": 9935,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "An outbreak of COVID-19 developed aboard the Princess Cruises Ship during January eFebruary 2020. Using mathematical modeling and time-series incidence data describing the trajectory of the outbreak among passengers and crew members, we characterize how the transmission potential varied over the course of the outbreak. Our estimate of the mean reproduction number in the confined setting reached values as high as~11, which is higher than mean estimates reported from community-level transmission dynamics in China and Singapore (approximate range: 1.1e7). Our findings suggest that R t decreased substantially compared to values during the early phase after the Japanese government implemented an enhanced quarantine control. Most recent estimates of R t reached values largely below the epidemic threshold, indicating that a secondary outbreak of the novel coronavirus was unlikely to occur aboard the Diamond Princess Ship.",
+      "sentences": [
+        [
+          {
+            "segment_text": "An outbreak of COVID-19 developed aboard the Princess Cruises Ship during January eFebruary 2020 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using mathematical modeling and time-series incidence data describing the trajectory of the outbreak among passengers and crew members ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we characterize how the transmission potential varied over the course of the outbreak .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our estimate of the mean reproduction number in the confined setting reached values as high as ~ 11 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which is higher than mean estimates reported from community-level transmission dynamics in China and Singapore ( approximate range : 1.1 e7 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our findings suggest that R t decreased substantially compared to values during the early phase after the Japanese government implemented an enhanced quarantine control .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Most recent estimates of R t reached values largely below the epidemic threshold ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "indicating that a secondary outbreak of the novel coronavirus was unlikely to occur aboard the Diamond Princess Ship .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "8",
+    "token_num": "148"
+  }
+}

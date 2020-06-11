@@ -1,0 +1,313 @@
+{
+  "paper_id": "db0b1c57b81cdb3facc4177cf7f6a208eab730b9",
+  "metadata": {
+    "title": "Osteopontin Fragments with Intact Thrombin-Sensitive Site Circulate in Cervical Cancer Patients",
+    "coda_data_split": "train",
+    "coda_paper_id": 6935,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "We investigated whether circulating osteopontin (OPN) could be used as a biomarker for cervical cancer. We employed a monoclonal antibody (mAb 659) specific for the unique and intact thrombin-sensitive site in OPN using an inhibition ELISA. We found significantly higher levels of OPN in 33 cervical cancer patients in both the plasma (mean +/-SD, 612 +/-106 ng/ mL) and serum (424 +/-121 ng/mL) compared to healthy subjects [409 +/-56 ng/mL, from 31 plasma samples (P \u003c 0.0001), and 314 +/-98 ng/mL, from 32 serum samples (P \u003d 0.0002), respectively]. Similar results were obtained when the plasma from a bigger group (147 individuals) of cervical cancer patients (560 +/-211 ng/mL) were compared with the same plasma samples of the healthy individuals (P \u003d 0.0014). More significantly, the OPN level was highest in stage III-IV disease (614 +/-210 ng/mL, from 52 individuals; P \u003d 0.0001) and least and nondiscriminatory in stage I (473 +/-110 ng/mL, from 40 individuals; P \u003d 0.5318). No such discrimination was found when a mAb of a different specificity (mAb 446) was used in a similar inhibition ELISA to compare the two groups in the first study; a commercial capture ELISA also failed. The possibility that the target epitope recognized by the antibody probe in these assays was absent from the circulating OPN due to protein truncation was supported by gel fractionation of the OPN found in patients\u0027 plasma: 60-64 kDa fragments were found instead of the presumably full-length OPN (68 kDa) seen in healthy people. How these fragments are generated and what possible role they play in cancer biology remain interesting questions.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We investigated whether circulating osteopontin ( OPN ) could be used as a biomarker for cervical cancer .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We employed a monoclonal antibody ( mAb 659 ) specific for the unique and intact thrombin-sensitive site in OPN using an inhibition ELISA .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We found significantly higher levels of OPN in 33 cervical cancer patients in both the plasma ( mean + / - SD , 612 + / -106 ng / mL ) and serum ( 424 + / -121 ng/mL ) compared to healthy subjects ( 409 + / -56 ng/mL , from 31 plasma samples ( P \u003c 0.0001 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and 314 + / -98 ng/mL ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "from 32 serum samples ( P \u003d 0.0002 ) , respectively ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Similar results were obtained when the plasma from a bigger group ( 147 individuals ) of cervical cancer patients ( 560 + / -211 ng/mL ) were compared with the same plasma samples of the healthy individuals ( P \u003d 0.0014 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "More significantly , the OPN level was highest in stage III-IV disease ( 614 + / -210 ng/mL , from 52 individuals ; P \u003d 0.0001 ) and least and nondiscriminatory in stage I ( 473 + / -110 ng/mL , from 40 individuals ; P \u003d 0.5318 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "No such discrimination was found when a mAb of a different specificity ( mAb 446 ) was used in a similar inhibition ELISA to compare the two groups in the first study ; a commercial capture ELISA also failed .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The possibility that the target epitope recognized by the antibody probe in these assays was absent from the circulating OPN due to protein truncation was supported by gel fractionation of the OPN found in patients \u0027 plasma : 60-64 kDa fragments were found instead of the presumably full-length OPN ( 68 kDa ) seen in healthy people .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "How these fragments are generated and what possible role they play in cancer biology remain interesting questions .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": ". As a member of the family of small integrin-binding ligand, N-linked glycophosphoproteins (SIBLINGs), OPN is highly conserved among mammals [3] .",
+      "sentences": [
+        [
+          {
+            "segment_text": ".",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "As a member of the family of small integrin-binding ligand ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "N-linked glycophosphoproteins ( SIBLINGs ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "OPN is highly conserved among mammals ( 3 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Human OPN has 314 amino acids, including a unique and conserved thrombin-sensitive site. Cleavage of this site by thrombin, which normally occurs in the circulation, fragments the protein roughly into two equal halves, each with different biological activities. The amino-terminal half of the protein binds to a variety of cell surface integrins, such as αvβ1, αvβ3, αvβ5, αvβ6, and α8β1, through the arginine-glycine-aspartate ( 159 RGD 161 ) motif in the protein, and also with α4β1 and α9β1 integrins, through the thrombin-generated site ( 162 SVVYGLR 168 ). The carboxy-terminal half interacts with the CD44 cell surface splice variants, CD44v6 and CD44v3 [4, 5] . Through these various extracellular interactions, thrombin-activated OPN plays pivotal roles in diverse physiological processes, such as bone remodeling, inflammation, and wound healing [6], as well as in various pathologies, including autoimmunity [7-9] and tumor metastasis [10] or progression [11, 12] . Thrombin-activated OPN has also been reported to inhibit the apoptosis in, or promote the survival and proliferation of, cancer cells [3] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Human OPN has 314 amino acids ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including a unique and conserved thrombin-sensitive site .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Cleavage of this site by thrombin ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which normally occurs in the circulation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "fragments the protein roughly into two equal halves ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "each with different biological activities .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The amino-terminal half of the protein binds to a variety of cell surface integrins ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as αvβ1 , αvβ3 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "αvβ5 , αvβ6 , and α8β1 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "through the arginine-glycine-aspartate ( 159 RGD 161 ) motif in the protein ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and also with α4β1 and α9β1 integrins ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "through the thrombin-generated site ( 162 SVVYGLR 168 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The carboxy-terminal half interacts with the CD44 cell surface splice variants ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "CD44v6 and CD44v3 ( 4 , 5 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Through these various extracellular interactions ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "thrombin-activated OPN plays pivotal roles in diverse physiological processes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as bone remodeling , inflammation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and wound healing ( 6 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as well as in various pathologies ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including autoimmunity ( 7-9 ) and tumor metastasis ( 10 ) or progression ( 11 , 12 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thrombin-activated OPN has also been reported to inhibit the apoptosis in ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "or promote the survival and proliferation of ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "cancer cells ( 3 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "More recently, OPN was shown to exert an intracellular function which can affect diverse cellular processes such as tumor progression [13] and interferon-α production in dendritic cells [14] . Here, too, these functions require the OPN protein to be appropriately cleaved, not by thrombin, but by various caspases [15] or produced as appropriate truncates from RNA splice variants [16] [17] [18] . Extracellularly, various metalloproteinases (MMPs) also cleave OPN into various types of fragments which have various tumorigenic or biological activities [19, 20] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "More recently , OPN was shown to exert an intracellular function which can affect diverse cellular processes such as tumor progression ( 13 ) and interferon-α production in dendritic cells ( 14 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , too , these functions require the OPN protein to be appropriately cleaved ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "not by thrombin , but by various caspases ( 15 ) or produced as appropriate truncates from RNA splice variants ( 16 ) ( 17 ) ( 18 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Extracellularly , various metalloproteinases ( MMPs ) also cleave OPN into various types of fragments which have various tumorigenic or biological activities ( 19 , 20 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Overexpression of OPN in the form of mRNA transcripts or intracellular proteins was observed in tumor tissues derived from breast or lung cancer [21, 22] , ovarian cancer [23] , and cervical cancer [24] [25] [26] [27] . Significantly increased levels of circulating OPN were also reported for several types of cancer including cervical cancer [26] , prostate cancer [28] , and colorectal cancer [29] . However, there were conflicting reports regarding head and neck squamous cell carcinoma [30, 31] . In addition, different diagnostic kits were found to yield quite different results from one another for the same patient samples [32] . We were interested to use this non-invasive method to examine our cervical cancer patients. This type of cancer is very common in Hong Kong [24]; it is highly invasive and lethal since the disease can progress rapidly and asymptomatically from preclinical-lesion to overt cancer. We were disappointed with the results obtained initially using a commercial OPN detection kit, and consequently decided to devise our own detection assays. We herein describe the development of such an assay based on the use of a unique monoclonal antibody and an assay format that is used infrequently-inhibition ELISA.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Overexpression of OPN in the form of mRNA transcripts or intracellular proteins was observed in tumor tissues derived from breast or lung cancer ( 21 , 22 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "ovarian cancer ( 23 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and cervical cancer ( 24 ) ( 25 ) ( 26 ) ( 27 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Significantly increased levels of circulating OPN were also reported for several types of cancer including cervical cancer ( 26 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "prostate cancer ( 28 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and colorectal cancer ( 29 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , there were conflicting reports regarding head and neck squamous cell carcinoma ( 30 , 31 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , different diagnostic kits were found to yield quite different results from one another for the same patient samples ( 32 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We were interested to use this non-invasive method to examine our cervical cancer patients .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "This type of cancer is very common in Hong Kong ( 24 ) ; it is highly invasive and lethal since the disease can progress rapidly and asymptomatically from preclinical-lesion to overt cancer .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We were disappointed with the results obtained initially using a commercial OPN detection kit ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and consequently decided to devise our own detection assays .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We herein describe the development of such an assay based on the use of a unique monoclonal antibody and an assay format that is used infrequently-inhibition ELISA .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "27",
+    "segment_num": "54",
+    "token_num": "904"
+  }
+}

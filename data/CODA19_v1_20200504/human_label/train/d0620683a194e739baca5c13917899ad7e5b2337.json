@@ -1,0 +1,228 @@
+{
+  "paper_id": "d0620683a194e739baca5c13917899ad7e5b2337",
+  "metadata": {
+    "title": "VIP: an integrated pipeline for metagenomics of virus identification and discovery OPEN",
+    "coda_data_split": "train",
+    "coda_paper_id": 9851,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Identification and discovery of viruses using next-generation sequencing technology is a fastdeveloping area with potential wide application in clinical diagnostics, public health monitoring and novel virus discovery. However, tremendous sequence data from NGS study has posed great challenge both in accuracy and velocity for application of NGS study. Here we describe VIP (\"Virus Identification Pipeline\"), a one-touch computational pipeline for virus identification and discovery from metagenomic NGS data. VIP performs the following steps to achieve its goal: (i) map and filter out background-related reads, (ii) extensive classification of reads on the basis of nucleotide and remote amino acid homology, (iii) multiple k-mer based de novo assembly and phylogenetic analysis to provide evolutionary insight. We validated the feasibility and veracity of this pipeline with sequencing results of various types of clinical samples and public datasets. VIP has also contributed to timely virus diagnosis (~10 min) in acutely ill patients, demonstrating its potential in the performance of unbiased NGS-based clinical studies with demand of short turnaround time. VIP is released under GPLv3 and is available for free download at: https://github.com/keylabivdc/VIP.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Identification and discovery of viruses using next-generation sequencing technology is a fastdeveloping area with potential wide application in clinical diagnostics ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "public health monitoring and novel virus discovery .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , tremendous sequence data from NGS study has posed great challenge both in accuracy and velocity for application of NGS study .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we describe VIP ( `` Virus Identification Pipeline \u0027\u0027 ) ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "a one-touch computational pipeline for virus identification and discovery from metagenomic NGS data .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "VIP performs the following steps to achieve its goal : ( i ) map and filter out background-related reads ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "( ii ) extensive classification of reads on the basis of nucleotide and remote amino acid homology ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "( iii ) multiple k-mer based de novo assembly and phylogenetic analysis to provide evolutionary insight .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We validated the feasibility and veracity of this pipeline with sequencing results of various types of clinical samples and public datasets .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "VIP has also contributed to timely virus diagnosis ( ~ 10 min ) in acutely ill patients ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "demonstrating its potential in the performance of unbiased NGS-based clinical studies with demand of short turnaround time .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "VIP is released under GPLv3 and is available for free download at : https://github.com/keylabivdc/VIP .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The world contains a high diversity of human viral pathogens. There are approximately 300 recognized viral pathogen species, and additional species continue to be discovered. The identification of viral pathogens has a tremendous impact on infectious diseases, virology and public health. Nearly all of the outbreaks of public health issues over the last decade have been caused by viruses, including Severe Acute Respiratory Syndrome (SARS) coronavirus 1 , 2009 pandemic influenza H1N1 2 , H7N9 avian influenza viruses 3 and the recently described Ebola virus in West Africa 4 . Traditional diagnostic methods for viruses, such as cell culture, serodiagnosis, or nucleic acid-based testing are narrow in scope and require a priori knowledge of the potential infectious agents 5,6 . Accurate diagnosis and timely treatment for the infection dramatically reduced the risk of continued transmission and mortality in hospitalized patients 7 . Wild interest in comprehensive detection of these newly emerging and re-emerging viruses from clinical samples highlight the need for rapid, broad-spectrum diagnostic assays.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The world contains a high diversity of human viral pathogens .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "There are approximately 300 recognized viral pathogen species ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and additional species continue to be discovered .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The identification of viral pathogens has a tremendous impact on infectious diseases , virology and public health .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Nearly all of the outbreaks of public health issues over the last decade have been caused by viruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including Severe Acute Respiratory Syndrome ( SARS ) coronavirus 1 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "2009 pandemic influenza H1N1 2 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "H7N9 avian influenza viruses 3 and the recently described Ebola virus in West Africa 4 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Traditional diagnostic methods for viruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as cell culture , serodiagnosis ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "or nucleic acid-based testing are narrow in scope and require a priori knowledge of the potential infectious agents 5,6 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Accurate diagnosis and timely treatment for the infection dramatically reduced the risk of continued transmission and mortality in hospitalized patients 7 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Wild interest in comprehensive detection of these newly emerging and re-emerging viruses from clinical samples highlight the need for rapid , broad-spectrum diagnostic assays .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Shotgun metagenomic sequencing of clinical samples for viral pathogen identification provides a promising alternative solution. Although metagenomics is typically applied to understanding genomic diversity from environment samples, this methodology has also revolutionized virology with comprehensive applications, including viral pathogen identification of infectious disease in clinical laboratories 8 and virus discovery in acute and chronic illnesses of unknown origin 9 . Many novel viruses have been discovered using popular next generation sequencing (NGS) platforms such as pyrosequencing (454 Roche), semiconductor sequencing (Life Technology) and illumina dye sequencing (Illumina) 10-12 . Achievements obtained by viral metagenomics show significant advantages over traditional methods of identifying a viral pathogen, including no need of sequence information for that pathogen, identifying multiple pathogens in a single assay and eliminating the need for time-consuming culturing or antibody laboratory tests.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Shotgun metagenomic sequencing of clinical samples for viral pathogen identification provides a promising alternative solution .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although metagenomics is typically applied to understanding genomic diversity from environment samples ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "this methodology has also revolutionized virology with comprehensive applications ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including viral pathogen identification of infectious disease in clinical laboratories 8 and virus discovery in acute and chronic illnesses of unknown origin 9 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Many novel viruses have been discovered using popular next generation sequencing ( NGS ) platforms such as pyrosequencing ( 454 Roche ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "semiconductor sequencing ( Life Technology ) and illumina dye sequencing ( Illumina ) 10-12 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Achievements obtained by viral metagenomics show significant advantages over traditional methods of identifying a viral pathogen ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including no need of sequence information for that pathogen ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "identifying multiple pathogens in a single assay and eliminating the need for time-consuming culturing or antibody laboratory tests .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "A key feature of latest NGS platforms is their speed. It takes minimum turnaround times about 8 hours for sequencing 13 . Thus, it is critical that subsequent computational handling of the large amount of sequence",
+      "sentences": [
+        [
+          {
+            "segment_text": "A key feature of latest NGS platforms is their speed .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It takes minimum turnaround times about 8 hours for sequencing 13 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , it is critical that subsequent computational handling of the large amount of sequence",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "21",
+    "segment_num": "37",
+    "token_num": "569"
+  }
+}

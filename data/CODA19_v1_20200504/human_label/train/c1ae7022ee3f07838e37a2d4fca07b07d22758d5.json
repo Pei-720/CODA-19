@@ -1,0 +1,152 @@
+{
+  "paper_id": "c1ae7022ee3f07838e37a2d4fca07b07d22758d5",
+  "metadata": {
+    "title": "Physica A Coupled effects of local movement and global interaction on contagion",
+    "coda_data_split": "train",
+    "coda_paper_id": 8549,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "• Segregated spatial domain and individual-based linkage are incorporated into SIS model.",
+      "sentences": [
+        [
+          {
+            "segment_text": "• Segregated spatial domain and individual-based linkage are incorporated into SIS model .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "• Activating a small number of individual-based linkage between different spatial domains can prompt the outbreak of epidemic globally. • Narrowing segregated spatial domain and reducing mobility are conducive to suppression of infectious disease. a b s t r a c t By incorporating segregated spatial domain and individual-based linkage into the SIS (susceptible-infected-susceptible) model, we propose a generalized epidemic model which can change from the territorial epidemic model to the networked epidemic model. The role of the individual-based linkage between different spatial domains is investigated. As we adjust the timescale parameter τ from 0 to unity, which represents the degree of activation of the individual-based linkage, three regions are found. Within the region of 0 \u003c τ \u003c 0.02, the epidemic is determined by local movement and is sensitive to the timescale τ . Within the region of 0.02 \u003c τ \u003c 0.5, the epidemic is insensitive to the timescale τ . Within the region of 0.5 \u003c τ \u003c 1, the outbreak of the epidemic is determined by the structure of the individual-based linkage. As we keep an eye on the first region, the role of activating the individual-based linkage in the present model is similar to the role of the shortcuts in the two-dimensional small world network. Only activating a small number of the individualbased linkage can prompt the outbreak of the epidemic globally. The role of narrowing segregated spatial domain and reducing mobility in epidemic control is checked. These two measures are found to be conducive to curbing the spread of infectious disease only when the global interaction is suppressed. A log-log relation between the change in the number of infected individuals and the timescale τ is found. By calculating the epidemic threshold * L.-X. Zhong et al. / Physica A 436 (2015) 482-491 483 and the mean first encounter time, we heuristically analyze the microscopic characteristics of the propagation of the epidemic in the present model.",
+      "sentences": [
+        [
+          {
+            "segment_text": "• Activating a small number of individual-based linkage between different spatial domains can prompt the outbreak of epidemic globally .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "• Narrowing segregated spatial domain and reducing mobility are conducive to suppression of infectious disease .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "a b s t r a c t By incorporating segregated spatial domain and individual-based linkage into the SIS ( susceptible-infected-susceptible ) model ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we propose a generalized epidemic model which can change from the territorial epidemic model to the networked epidemic model .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The role of the individual-based linkage between different spatial domains is investigated .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As we adjust the timescale parameter τ from 0 to unity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which represents the degree of activation of the individual-based linkage , three regions are found .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Within the region of 0 \u003c τ \u003c 0.02 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the epidemic is determined by local movement and is sensitive to the timescale τ .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Within the region of 0.02 \u003c τ \u003c 0.5 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the epidemic is insensitive to the timescale τ .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Within the region of 0.5 \u003c τ \u003c 1 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the outbreak of the epidemic is determined by the structure of the individual-based linkage .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As we keep an eye on the first region ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the role of activating the individual-based linkage in the present model is similar to the role of the shortcuts in the two-dimensional small world network .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Only activating a small number of the individualbased linkage can prompt the outbreak of the epidemic globally .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The role of narrowing segregated spatial domain and reducing mobility in epidemic control is checked .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These two measures are found to be conducive to curbing the spread of infectious disease only when the global interaction is suppressed .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A log-log relation between the change in the number of infected individuals and the timescale τ is found .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "By calculating the epidemic threshold * L.-X .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Zhong et al. / Physica A 436 ( 2015 ) 482-491 483 and the mean first encounter time ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we heuristically analyze the microscopic characteristics of the propagation of the epidemic in the present model .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "16",
+    "segment_num": "23",
+    "token_num": "358"
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "paper_id": "788c83e7ccca711b4f7da85aa2ed5ea69af268e9",
+  "metadata": {
+    "title": "Journal Pre-proof The COVID-19 pandemic: Implications for the cytology laboratory Title: The COVID-19 pandemic: Implications for the cytology laboratory",
+    "coda_data_split": "train",
+    "coda_paper_id": 9212,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "This work was performed without specific funding. The author has no financial interest in any of the companies mentioned in the manuscript.",
+      "sentences": [
+        [
+          {
+            "segment_text": "This work was performed without specific funding .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "The author has no financial interest in any of the companies mentioned in the manuscript .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The coronavirus disease 2019 (COVID-19) is a pandemic with the SARS-CoV-2 virus. The infection has predominantly respiratory transmission and is transmitted through large droplets or aerosols, and less commonly by contact with infected surfaces or fomites. The alarming spread of the infection and the severe clinical disease that it may cause, have led to the widespread institution of social distancing measures. Due to repeated exposure to potentially infectious patients and specimens, healthcare and laboratory personnel are particularly susceptible to contract COVID-19. This review paper provides an assessment of the current state of knowledge about the disease and its pathology, and the potential presence of the virus in cytology specimens. It also discusses the measures that cytology laboratories can take to function during the pandemic, and minimize the risk to their personnel, trainees and pathologists. In addition, it explores potential means to continue to educate trainees during the COVID-19 pandemic.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The coronavirus disease 2019 ( COVID-19 ) is a pandemic with the SARS-CoV-2 virus .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The infection has predominantly respiratory transmission and is transmitted through large droplets or aerosols ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and less commonly by contact with infected surfaces or fomites .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The alarming spread of the infection and the severe clinical disease that it may cause ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "have led to the widespread institution of social distancing measures .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Due to repeated exposure to potentially infectious patients and specimens ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "healthcare and laboratory personnel are particularly susceptible to contract COVID-19 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This review paper provides an assessment of the current state of knowledge about the disease and its pathology ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and the potential presence of the virus in cytology specimens .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It also discusses the measures that cytology laboratories can take to function during the pandemic ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and minimize the risk to their personnel , trainees and pathologists .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , it explores potential means to continue to educate trainees during the COVID-19 pandemic .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "At the time of the writing of this review, the COVID-19 pandemic, caused by a novel coronavirus, has already affected over 350,000 people in 192 countries and territories, and killed over 15,000 people worldwide. The number of cases reported worldwide and in the United States increase daily at an alarming rate, in part as a consequence of more widespread testing.",
+      "sentences": [
+        [
+          {
+            "segment_text": "At the time of the writing of this review ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the COVID-19 pandemic , caused by a novel coronavirus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "has already affected over 350,000 people in 192 countries and territories ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and killed over 15,000 people worldwide .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The number of cases reported worldwide and in the United States increase daily at an alarming rate ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "in part as a consequence of more widespread testing .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "As the fears of a global coronavirus COVID-19 pandemic, a disease caused by the SARS-CoV-2 virus continue to grow, the cytology laboratory must also brace itself to continue to offer the best service to patients, while in the same time protect its technicians, technologists, trainees and pathologists.",
+      "sentences": [
+        [
+          {
+            "segment_text": "As the fears of a global coronavirus COVID-19 pandemic ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a disease caused by the SARS-CoV-2 virus continue to grow ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the cytology laboratory must also brace itself to continue to offer the best service to patients ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "while in the same time protect its technicians ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "technologists , trainees and pathologists .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Recently, a series of public health measures have been taken to reduce the spread of the disease. These \"social distancing\" measures vary somewhat by state and city but are generally wide-ranging. They include cancelling sports, music, cultural and even political events, and the closing of gyms, schools and colleges, recommendations to work from home, to avoid discretionary travel, to avoid eating or drinking in bars, restaurants and food courts, and avoid social gatherings in groups of more than 10 people. This situation is not unprecedented, although the 100-year-old precedent is mostly forgotten. During the 1918-19 H1N1 \"Spanish\" influenza pandemic, which infected a fifth to a third of the world population, and during which 50 million people have died worldwide 1, 2 , including an estimated 675,000 Americans, the United States has adopted a range of nonpharmaceutical (public health) interventions. These measures, which were similar to those currently adopted, included closure of schools and churches, banning of mass gatherings, mandated mask wearing, case isolation, and disinfection/hygiene measures 3 . However, these measures were not implemented at the same time or for the same duration in different cities, nor were they uniformly followed. A recent analysis concluded that in some cities (San Francisco, St. Louis, Milwaukee, and Kansas City), where the measures were implemented early, they reduced transmission rates by up to 30-50% 3 . Cities that implemented such measures earlier had greater delays in reaching peak",
+      "sentences": [
+        [
+          {
+            "segment_text": "Recently , a series of public health measures have been taken to reduce the spread of the disease .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These `` social distancing \u0027\u0027 measures vary somewhat by state and city but are generally wide-ranging .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "They include cancelling sports , music ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "cultural and even political events ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and the closing of gyms ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "schools and colleges , recommendations to work from home ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "to avoid discretionary travel , to avoid eating or drinking in bars ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "restaurants and food courts , and avoid social gatherings in groups of more than 10 people .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This situation is not unprecedented ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "although the 100-year-old precedent is mostly forgotten .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "During the 1918-19 H1N1 `` Spanish \u0027\u0027 influenza pandemic ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which infected a fifth to a third of the world population ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and during which 50 million people have died worldwide 1 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "2 , including an estimated 675,000 Americans ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the United States has adopted a range of nonpharmaceutical ( public health ) interventions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These measures , which were similar to those currently adopted ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "included closure of schools and churches ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "banning of mass gatherings , mandated mask wearing ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "case isolation , and disinfection/hygiene measures 3 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , these measures were not implemented at the same time or for the same duration in different cities ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "nor were they uniformly followed .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A recent analysis concluded that in some cities ( San Francisco , St. Louis , Milwaukee , and Kansas City ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "where the measures were implemented early ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "they reduced transmission rates by up to 30-50 % 3 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Cities that implemented such measures earlier had greater delays in reaching peak",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "No highlights are required as this is not a research article, per https://www.elsevier.com/authors/journal-authors/highlights",
+      "sentences": [
+        [
+          {
+            "segment_text": "No highlights are required as this is not a research article , per https://www.elsevier.com/authors/journal-authors/highlights",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "6",
+    "sentence_num": "22",
+    "segment_num": "51",
+    "token_num": "601"
+  }
+}

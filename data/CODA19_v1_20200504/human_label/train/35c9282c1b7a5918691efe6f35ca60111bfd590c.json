@@ -1,0 +1,98 @@
+{
+  "paper_id": "35c9282c1b7a5918691efe6f35ca60111bfd590c",
+  "metadata": {
+    "title": "The C-terminal domain of the MERS coronavirus M protein contains a trans-Golgi network localization signal",
+    "coda_data_split": "train",
+    "coda_paper_id": 7288,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Coronavirus M proteins represent the major protein component of the viral envelope. They play an essential role during viral assembly by interacting with all of the other structural proteins. Coronaviruses bud into the endoplasmic reticulum (ER)-Golgi intermediate compartment (ERGIC), but the mechanisms by which M proteins are transported from their site of synthesis, the ER, to the budding site remain poorly understood.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Coronavirus M proteins represent the major protein component of the viral envelope .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "They play an essential role during viral assembly by interacting with all of the other structural proteins .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Coronaviruses bud into the endoplasmic reticulum ( ER ) - Golgi intermediate compartment ( ERGIC ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but the mechanisms by which M proteins are transported from their site of synthesis ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the ER , to the budding site remain poorly understood .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "M in the ER. The second motif, 199 KxGxYR 204 , was responsible for retaining the M protein in the TGN. Substitution of this motif resulted in MERS-CoV M leakage toward the plasma membrane. We further confirmed the role of 199 KxGxYR 204 as a TGN retention signal by using chimeras between MERS-CoV M and the M protein of infectious bronchitis virus (IBV). Our results indicated that the C-terminal domains of both proteins determine their specific localization, namely TGN and ERGIC/cis-Golgi for MERS-M and IBV-M, respectively. Our findings indicate that MERS-CoV M protein localizes to the TGN because of the combined presence of an ER export signal and a TGN retention motif.",
+      "sentences": [
+        [
+          {
+            "segment_text": "M in the ER .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "The second motif , 199 KxGxYR 204 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "was responsible for retaining the M protein in the TGN .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Substitution of this motif resulted in MERS-CoV M leakage toward the plasma membrane .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We further confirmed the role of 199 KxGxYR 204 as a TGN retention signal by using chimeras between MERS-CoV M and the M protein of infectious bronchitis virus ( IBV ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our results indicated that the C-terminal domains of both proteins determine their specific localization ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "namely TGN and ERGIC/cis-Golgi for MERS-M and IBV-M , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our findings indicate that MERS-CoV M protein localizes to the TGN because of the combined presence of an ER export signal and a TGN retention motif .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "9",
+    "segment_num": "13",
+    "token_num": "197"
+  }
+}

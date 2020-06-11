@@ -1,0 +1,77 @@
+{
+  "paper_id": "e7256385b8f8dbe4b799388e5f49ab12a083db23",
+  "metadata": {
+    "title": "RNAVLab: A virtual laboratory for studying RNA secondary structures based on grid computing technology",
+    "coda_data_split": "train",
+    "coda_paper_id": 2118,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "As ribonucleic acid (RNA) molecules play important roles in many biological processes including gene expression and regulation, their secondary structures have been the focus of many recent studies. Despite the computing power of supercomputers, computationally predicting secondary structures with thermodynamic methods is still not feasible when the RNA molecules have long nucleotide sequences and include complex motifs such as pseudoknots. This paper presents RNAVLab (RNA Virtual Laboratory), a virtual laboratory for studying RNA secondary structures including pseudoknots that allows scientists to address this challenge. Two important case studies show the versatility and functionalities of RNAVLab. The first study quantifies its capability to rebuild longer secondary structures from motifs found in systematically sampled nucleotide segments. The extensive sampling and predictions are made feasible in a short turnaround time because of the grid technology used. The second study shows how RNAVLab allows scientists to study the viral RNA genome replication mechanisms used by members of the virus family Nodaviridae.",
+      "sentences": [
+        [
+          {
+            "segment_text": "As ribonucleic acid ( RNA ) molecules play important roles in many biological processes including gene expression and regulation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "their secondary structures have been the focus of many recent studies .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Despite the computing power of supercomputers ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "computationally predicting secondary structures with thermodynamic methods is still not feasible when the RNA molecules have long nucleotide sequences and include complex motifs such as pseudoknots .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This paper presents RNAVLab ( RNA Virtual Laboratory ) ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "a virtual laboratory for studying RNA secondary structures including pseudoknots that allows scientists to address this challenge .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Two important case studies show the versatility and functionalities of RNAVLab .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The first study quantifies its capability to rebuild longer secondary structures from motifs found in systematically sampled nucleotide segments .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The extensive sampling and predictions are made feasible in a short turnaround time because of the grid technology used .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The second study shows how RNAVLab allows scientists to study the viral RNA genome replication mechanisms used by members of the virus family Nodaviridae .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "10",
+    "token_num": "171"
+  }
+}

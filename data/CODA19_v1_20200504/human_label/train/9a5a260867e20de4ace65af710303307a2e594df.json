@@ -1,0 +1,85 @@
+{
+  "paper_id": "9a5a260867e20de4ace65af710303307a2e594df",
+  "metadata": {
+    "title": "Molecular docking identifies the binding of 3-chloropyridine moieties specifically to the S1 pocket of SARS-CoV M pro",
+    "coda_data_split": "train",
+    "coda_paper_id": 3667,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The 3C-like main proteinase of the severe acute respiratory syndrome (SARS) coronavirus, SARS-CoV M pro , is widely considered to be a major drug target for the development of anti-SARS treatment. Based on the chemical structure of a lead compound from a previous screening, we have designed and synthesized a number of non-peptidyl inhibitors, some of which have shown significantly improved inhibitory activity against SARS-CoV M pro with IC 50 values of $60 nM. In the absence of SARS-CoV M pro crystal structures in complex with these synthetic inhibitors, molecular docking tools have been employed to study possible interactions between these inhibitors and SARS-CoV M pro . The docking results suggest two major modes for the initial binding of these inhibitors to the active site of SARS-CoV M pro . They also establish a structural basis for the \u0027core design\u0027 of these inhibitors by showing that the 3-chloropyridine functions common to all of the present inhibitors tend to cluster in the S1 specificity pocket. In addition, intrinsic flexibility in the S4 pocket allows for the accommodation of bulky groups such as benzene rings, suggesting that this structural plasticity can be further exploited for optimizing inhibitor-enzyme interactions that should promote a tighter binding mode. Most importantly, our results provide the structural basis for rational design of wide-spectrum antiviral drugs targeting the chymotrypsin-like cysteine proteinases from coronaviruses and picornaviruses.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The 3C-like main proteinase of the severe acute respiratory syndrome ( SARS ) coronavirus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "SARS-CoV M pro , is widely considered to be a major drug target for the development of anti-SARS treatment .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Based on the chemical structure of a lead compound from a previous screening ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "we have designed and synthesized a number of non-peptidyl inhibitors ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "some of which have shown significantly improved inhibitory activity against SARS-CoV M pro with IC 50 values of $ 60 nM .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the absence of SARS-CoV M pro crystal structures in complex with these synthetic inhibitors ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "molecular docking tools have been employed to study possible interactions between these inhibitors and SARS-CoV M pro .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The docking results suggest two major modes for the initial binding of these inhibitors to the active site of SARS-CoV M pro .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "They also establish a structural basis for the ` core design \u0027 of these inhibitors by showing that the 3-chloropyridine functions common to all of the present inhibitors tend to cluster in the S1 specificity pocket .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , intrinsic flexibility in the S4 pocket allows for the accommodation of bulky groups such as benzene rings ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "suggesting that this structural plasticity can be further exploited for optimizing inhibitor-enzyme interactions that should promote a tighter binding mode .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Most importantly , our results provide the structural basis for rational design of wide-spectrum antiviral drugs targeting the chymotrypsin-like cysteine proteinases from coronaviruses and picornaviruses .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "12",
+    "token_num": "244"
+  }
+}

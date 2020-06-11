@@ -1,0 +1,107 @@
+{
+  "paper_id": "b48c4779aeb4c5d68971cc74ac6e6974d39d9195",
+  "metadata": {
+    "title": "and the Scientific and Technical Project of Administration of Traditional Chinese Medicine of Jilin Province (nos",
+    "coda_data_split": "test",
+    "coda_paper_id": 689,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Epitope mapping from affinity-selected peptides has become popular in epitope prediction, and correspondingly many Web-based tools have been developed in recent years. However, the performance of these tools varies in different circumstances. To address this problem, we employed an ensemble approach to incorporate two popular Web tools, MimoPro and Pep-3D-Search, together for taking advantages offered by both methods so as to give users more options for their specific purposes of epitope-peptide mapping. The combined operation of Union finds as many associated peptides as possible from both methods, which increases sensitivity in finding potential epitopic regions on a given antigen surface. The combined operation of Intersection achieves to some extent the mutual verification by the two methods and hence increases the likelihood of locating the genuine epitopic region on a given antigen in relation to the interacting peptides. The Consistency between Intersection and Union is an indirect sufficient condition to assess the likelihood of successful peptide-epitope mapping. On average from 27 tests, the combined operations of PepMapper outperformed either MimoPro or Pep-3D-Search alone. Therefore, PepMapper is another multipurpose mapping tool for epitope prediction from affinity-selected peptides. The Web server can be freely accessed at: http://informatics.nenu.edu.cn/PepMapper/ Citation: Chen W, Guo WW, Huang Y, Ma Z (2012) PepMapper: A Collaborative Web Tool for Mapping Epitopes from Affinity-Selected Peptides. PLoS ONE 7(5): e37869.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Epitope mapping from affinity-selected peptides has become popular in epitope prediction ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and correspondingly many Web-based tools have been developed in recent years .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the performance of these tools varies in different circumstances .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To address this problem , we employed an ensemble approach to incorporate two popular Web tools ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "MimoPro and Pep-3D-Search , together for taking advantages offered by both methods so as to give users more options for their specific purposes of epitope-peptide mapping .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The combined operation of Union finds as many associated peptides as possible from both methods ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which increases sensitivity in finding potential epitopic regions on a given antigen surface .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The combined operation of Intersection achieves to some extent the mutual verification by the two methods and hence increases the likelihood of locating the genuine epitopic region on a given antigen in relation to the interacting peptides .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The Consistency between Intersection and Union is an indirect sufficient condition to assess the likelihood of successful peptide-epitope mapping .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "On average from 27 tests ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the combined operations of PepMapper outperformed either MimoPro or Pep-3D-Search alone .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , PepMapper is another multipurpose mapping tool for epitope prediction from affinity-selected peptides .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The Web server can be freely accessed at : http://informatics.nenu.edu.cn/PepMapper/ Citation : Chen W ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Guo WW , Huang Y ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "Ma Z ( 2012 ) PepMapper : A Collaborative Web Tool for Mapping Epitopes from Affinity-Selected Peptides .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "PLoS ONE 7 ( 5 ) : e37869 .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "10",
+    "segment_num": "16",
+    "token_num": "249"
+  }
+}

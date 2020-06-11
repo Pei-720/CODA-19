@@ -1,0 +1,63 @@
+{
+  "paper_id": "c35675e5426c3a70835a0ce56c2921b4416f8686",
+  "metadata": {
+    "title": "ICU \u003d intensive care unit",
+    "coda_data_split": "train",
+    "coda_paper_id": 8900,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Disaster medical response has historically focused on the prehospital and initial treatment needs of casualties. In particular, the critical care component of many disaster response plans is incomplete. Equally important, routinely available critical care resources are almost always insufficient to respond to disasters that generate anything beyond a \u0027modest\u0027 casualty stream. Large-scale monetary funding to effectively remedy these shortfalls is unavailable. Education, training, and improved planning are our most effective initial steps. We suggest several areas for further development, including dual usage of resources that may specifically augment critical care disaster medical capabilities over time.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Disaster medical response has historically focused on the prehospital and initial treatment needs of casualties .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In particular , the critical care component of many disaster response plans is incomplete .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Equally important , routinely available critical care resources are almost always insufficient to respond to disasters that generate anything beyond a ` modest \u0027 casualty stream .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Large-scale monetary funding to effectively remedy these shortfalls is unavailable .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Education , training , and improved planning are our most effective initial steps .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We suggest several areas for further development ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including dual usage of resources that may specifically augment critical care disaster medical capabilities over time .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "7",
+    "token_num": "108"
+  }
+}

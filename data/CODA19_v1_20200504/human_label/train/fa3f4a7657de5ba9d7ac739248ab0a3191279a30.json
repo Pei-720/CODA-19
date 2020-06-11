@@ -1,0 +1,91 @@
+{
+  "paper_id": "fa3f4a7657de5ba9d7ac739248ab0a3191279a30",
+  "metadata": {
+    "title": "Itraconazole Inhibits Enterovirus Replication by Targeting the Oxysterol-Binding Protein",
+    "coda_data_split": "train",
+    "coda_paper_id": 4752,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Highlights d ITZ, an antifungal and anticancer agent, is a broad-spectrum enterovirus inhibitor d OSBP and ORP4 are identified as novel targets of ITZ d ITZ binds OSBP and inhibits OSBP-mediated lipid exchange at membrane contact sites d ITZ also inhibits hepatitis C virus replication SUMMARY Itraconazole (ITZ) is a well-known antifungal agent that also has anticancer activity. In this study, we identify ITZ as a broad-spectrum inhibitor of enteroviruses (e.g., poliovirus, coxsackievirus, enterovirus-71, rhinovirus). We demonstrate that ITZ inhibits viral RNA replication by targeting oxysterol-binding protein (OSBP) and OSBP-related protein 4 (ORP4). Consistently, OSW-1, a specific OSBP/ORP4 antagonist, also inhibits enterovirus replication. Knockdown of OSBP inhibits virus replication, whereas overexpression of OSBP or ORP4 counteracts the antiviral effects of ITZ and OSW-1. ITZ binds OSBP and inhibits its function, i.e., shuttling of cholesterol and phosphatidylinositol-4phosphate between membranes, thereby likely perturbing the virus-induced membrane alterations essential for viral replication organelle formation. ITZ also inhibits hepatitis C virus replication, which also relies on OSBP. Together, these data implicate OSBP/ORP4 as molecular targets of ITZ and point to an essential role of OSBP/ORP4-mediated lipid exchange in virus replication that can be targeted by antiviral drugs.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Highlights d ITZ , an antifungal and anticancer agent ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "is a broad-spectrum enterovirus inhibitor d OSBP and ORP4 are identified as novel targets of ITZ d ITZ binds OSBP and inhibits OSBP-mediated lipid exchange at membrane contact sites d ITZ also inhibits hepatitis C virus replication SUMMARY Itraconazole ( ITZ ) is a well-known antifungal agent that also has anticancer activity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we identify ITZ as a broad-spectrum inhibitor of enteroviruses ( e.g. , poliovirus , coxsackievirus , enterovirus-71 , rhinovirus ) .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We demonstrate that ITZ inhibits viral RNA replication by targeting oxysterol-binding protein ( OSBP ) and OSBP-related protein 4 ( ORP4 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Consistently , OSW-1 , a specific OSBP/ORP4 antagonist , also inhibits enterovirus replication .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Knockdown of OSBP inhibits virus replication ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "whereas overexpression of OSBP or ORP4 counteracts the antiviral effects of ITZ and OSW-1 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "ITZ binds OSBP and inhibits its function ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "i.e. , shuttling of cholesterol and phosphatidylinositol-4phosphate between membranes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "thereby likely perturbing the virus-induced membrane alterations essential for viral replication organelle formation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "ITZ also inhibits hepatitis C virus replication ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which also relies on OSBP .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Together , these data implicate OSBP/ORP4 as molecular targets of ITZ and point to an essential role of OSBP/ORP4-mediated lipid exchange in virus replication that can be targeted by antiviral drugs .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "13",
+    "token_num": "225"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "paper_id": "50574a335111531f99e850854c30220630d96108",
+  "metadata": {
+    "title": "Novel algorithm for accelerated electroanatomic mapping and prediction of earliest activation of focal cardiac arrhythmias using mathematical optimization",
+    "coda_data_split": "train",
+    "coda_paper_id": 5776,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "BACKGROUND Premature beats (PBs) are a common finding in patients suffering from structural heart disease, but they can also be present in healthy individuals. Catheter ablation represents a suitable therapeutic approach. However, the exact localization of the origin can be challenging, especially in cases of low PB burden during the procedure.",
+      "sentences": [
+        [
+          {
+            "segment_text": "BACKGROUND Premature beats ( PBs ) are a common finding in patients suffering from structural heart disease ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but they can also be present in healthy individuals .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Catheter ablation represents a suitable therapeutic approach .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the exact localization of the origin can be challenging ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "especially in cases of low PB burden during the procedure .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "OBJECTIVE The aim of this study was to develop an automated mapping algorithm on the basis of the hypothesis that mathematical optimization would significantly accelerate the localization of earliest activation.",
+      "sentences": [
+        [
+          {
+            "segment_text": "OBJECTIVE The aim of this study was to develop an automated mapping algorithm on the basis of the hypothesis that mathematical optimization would significantly accelerate the localization of earliest activation .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "METHODS The algorithm is based on iterative regression analyses. When acquiring local activation times (LATs) within a 3-dimensional anatomic map of the corresponding heart chamber, this algorithm is able to identify that exact position where a next LAT measurement adds maximum information about the predicted site of origin. Furthermore, on the basis of the acquired LAT measurements, the algorithm is able to predict earliest activation with high accuracy.",
+      "sentences": [
+        [
+          {
+            "segment_text": "METHODS The algorithm is based on iterative regression analyses .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "When acquiring local activation times ( LATs ) within a 3-dimensional anatomic map of the corresponding heart chamber ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "this algorithm is able to identify that exact position where a next LAT measurement adds maximum information about the predicted site of origin .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , on the basis of the acquired LAT measurements ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the algorithm is able to predict earliest activation with high accuracy .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "A systematic retrospective analysis of the mapping performance comparing the operator with simulated search processes by the algorithm within 17 electroanatomic maps of focal spreading arrhythmias revealed a highly significant reduction of necessary LAT measurements from 55 6 8.8 to 10 6 0.51 (n 5 17; P , .0001).",
+      "sentences": [
+        [
+          {
+            "segment_text": "A systematic retrospective analysis of the mapping performance comparing the operator with simulated search processes by the algorithm within 17 electroanatomic maps of focal spreading arrhythmias revealed a highly significant reduction of necessary LAT measurements from 55 6 8.8 to 10 6 0.51 ( n 5 17 ; P , .0001 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "CONCLUSION On the basis of mathematical optimization, we developed an algorithm that is able to reduce the number of LAT measurements necessary to locate the site of earliest activation. This algorithm might significantly accelerate the mapping procedure by guiding the operator to the optimal position for the next LAT measurement. Furthermore, the algorithm would be able to predict the site of origin with high accuracy early during the mapping procedure.",
+      "sentences": [
+        [
+          {
+            "segment_text": "CONCLUSION On the basis of mathematical optimization ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we developed an algorithm that is able to reduce the number of LAT measurements necessary to locate the site of earliest activation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This algorithm might significantly accelerate the mapping procedure by guiding the operator to the optimal position for the next LAT measurement .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , the algorithm would be able to predict the site of origin with high accuracy early during the mapping procedure .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "11",
+    "segment_num": "16",
+    "token_num": "294"
+  }
+}

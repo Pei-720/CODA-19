@@ -1,0 +1,217 @@
+{
+  "paper_id": "03cda737465b68fbf1a76dafe2e3788961f986be",
+  "metadata": {
+    "title": "Journal Pre-proof Monitoring Transmissibility and Mortality of COVID-19 in Europe TITLE PAGE Monitoring Transmissibility and Mortality of COVID-19 in Europe",
+    "coda_data_split": "train",
+    "coda_paper_id": 9234,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "J o u r n a l P r e -p r o o f Highlights • As of 10 March 2020, Italy has reported 9,172 COVID-19 cases with 463 deaths.",
+      "sentences": [
+        [
+          {
+            "segment_text": "J o u r n a l P r e - p r o o f Highlights • As of 10 March 2020 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Italy has reported 9,172 COVID-19 cases with 463 deaths .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "• We reported real-time reproductive numbers (R(t))and case fatality rate in in selected European countries (Italy, France, Germany, and Spain) by 9 March 2020.",
+      "sentences": [
+        [
+          {
+            "segment_text": "• We reported real-time reproductive numbers ( R ( t ) ) and case fatality rate in in selected European countries ( Italy , France , Germany , and Spain ) by 9 March 2020 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "• The R(t) was greater than 2 in the selected European countries, indicating the outbreak will continue.",
+      "sentences": [
+        [
+          {
+            "segment_text": "• The R ( t ) was greater than 2 in the selected European countries ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "indicating the outbreak will continue .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Objectives: As a global pandemic is inevitable, real-time monitoring of transmission is vital for containing the spread of COVID-19. The main objective was to report real-time effective reproduction numbers (R(t)) case fatality rate (CFR).",
+      "sentences": [
+        [
+          {
+            "segment_text": "Objectives : As a global pandemic is inevitable ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "real-time monitoring of transmission is vital for containing the spread of COVID-19 .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The main objective was to report real-time effective reproduction numbers ( R ( t ) ) case fatality rate ( CFR ) .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Methods: Data were mainly obtained from WHO website, up to 9 March 2020. R(t) was estimated by exponential growth rate (EG) and time dependent (TD) methods. \"R0\" package in R was employed to estimate R(t) by fitting the existing epidemic curve. Both naïve CFR (nCFR) and adjust CFR (aCFR) were estimated.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Methods : Data were mainly obtained from WHO website ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "up to 9 March 2020 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "R ( t ) was estimated by exponential growth rate ( EG ) and time dependent ( TD ) methods .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "`` R0 \u0027\u0027 package in R was employed to estimate R ( t ) by fitting the existing epidemic curve .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Both naïve CFR ( nCFR ) and adjust CFR ( aCFR ) were estimated .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": ": In EG method, R(t) was 3.27 [3.17-3.38] for Italy, 6.32 [5.72-6.99] for France, 6.07 [5.51-6.69] for Germany, 5.08 [4.51-5.74] for Spain. With TD method, the R value for March 9 was 3.10 J o u r n a l P r e -p r o o f [2.21-4.11] for Italy, 6.56 [2.04-12.26] for France, 4.43 [1.83-7.92] for Germany, and 3.95 [0-10.19] for Spain. Conclusions: This study provides important findings on an early outbreak of COVID-19 in Europe. Due to the recent rapid increase in new cases of COVID-19, real-time monitoring of the transmissibility and mortality in Spain and France is a priority J o u r n a l P r e -p r o o f disease 2019 in China. N Engl J Med. 2020; 9. Kucharski AJ, Edmunds WJ. Case fatality rate for Ebola virus disease in west Africa. Lancet. 2014;384(9950):1260.",
+      "sentences": [
+        [
+          {
+            "segment_text": ": In EG method , R ( t ) was 3.27 ( 3.17-3.38 ) for Italy ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "6.32 ( 5.72-6.99 ) for France ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "6.07 ( 5.51-6.69 ) for Germany ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "5.08 ( 4.51-5.74 ) for Spain .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "With TD method , the R value for March 9 was 3.10 J o u r n a l P r e - p r o o f ( 2.21-4.11 ) for Italy ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "6.56 ( 2.04-12.26 ) for France ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "4.43 ( 1.83-7.92 ) for Germany ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and 3.95 ( 0-10.19 ) for Spain .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Conclusions : This study provides important findings on an early outbreak of COVID-19 in Europe .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Due to the recent rapid increase in new cases of COVID-19 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "real-time monitoring of the transmissibility and mortality in Spain and France is a priority J o u r n a l P r e - p r o o f disease 2019 in China .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "N Engl J Med .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "2020 ; 9 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Kucharski AJ , Edmunds WJ .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Case fatality rate for Ebola virus disease in west Africa .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Lancet .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "2014 ; 384 ( 9950 ) : 1260 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "J o u r n a l P r e -p r o o f",
+      "sentences": [
+        [
+          {
+            "segment_text": "J o u r n a l P r e - p r o o f",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "7",
+    "sentence_num": "20",
+    "segment_num": "31",
+    "token_num": "420"
+  }
+}

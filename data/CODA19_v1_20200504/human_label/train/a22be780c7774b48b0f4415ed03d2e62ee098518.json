@@ -1,0 +1,61 @@
+{
+  "paper_id": "a22be780c7774b48b0f4415ed03d2e62ee098518",
+  "metadata": {
+    "title": "marine drugs A Chemoinformatics Approach to the Discovery of Lead-Like Molecules from Marine and Microbial Sources En Route to Antitumor and Antibiotic Drugs",
+    "coda_data_split": "train",
+    "coda_paper_id": 9912,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "The comprehensive information of small molecules and their biological activities in the PubChem database allows chemoinformatic researchers to access and make use of large-scale biological activity data to improve the precision of drug profiling. A Quantitative Structure-Activity Relationship approach, for classification, was used for the prediction of active/inactive compounds relatively to overall biological activity, antitumor and antibiotic activities using a data set of 1804 compounds from PubChem. Using the best classification models for antibiotic and antitumor activities a data set of marine and microbial natural products from the AntiMarin database were screened-57 and 16 new lead compounds for antibiotic and antitumor drug design were proposed, respectively. All compounds proposed by our approach are classified as non-antibiotic and non-antitumor compounds in the AntiMarin database. Recently several of the lead-like compounds proposed by us were reported as being active in the literature.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The comprehensive information of small molecules and their biological activities in the PubChem database allows chemoinformatic researchers to access and make use of large-scale biological activity data to improve the precision of drug profiling .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A Quantitative Structure-Activity Relationship approach ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "for classification , was used for the prediction of active/inactive compounds relatively to overall biological activity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "antitumor and antibiotic activities using a data set of 1804 compounds from PubChem .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using the best classification models for antibiotic and antitumor activities a data set of marine and microbial natural products from the AntiMarin database were screened-57 and 16 new lead compounds for antibiotic and antitumor drug design were proposed , respectively .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "All compounds proposed by our approach are classified as non-antibiotic and non-antitumor compounds in the AntiMarin database .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recently several of the lead-like compounds proposed by us were reported as being active in the literature .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "7",
+    "token_num": "149"
+  }
+}

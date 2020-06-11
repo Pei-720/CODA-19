@@ -1,0 +1,287 @@
+{
+  "paper_id": "96f4f1ca5652927c92b3b1bb023ef31c80fa2d96",
+  "metadata": {
+    "title": "ARTICLE Structure-based discovery of Middle East respiratory syndrome coronavirus fusion inhibitor",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1891,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "A novel human coronavirus, Middle East respiratory syndrome coronavirus (MERS-CoV), has caused outbreaks of a SARS-like illness with high case fatality rate. The reports of its personto-person transmission through close contacts have raised a global concern about its pandemic potential. Here we characterize the six-helix bundle fusion core structure of MERS-CoV spike protein S2 subunit by X-ray crystallography and biophysical analysis. We find that two peptides, HR1P and HR2P, spanning residues 998-1039 in HR1 and 1251-1286 in HR2 domains, respectively, can form a stable six-helix bundle fusion core structure, suggesting that MERS-CoV enters into the host cell mainly through membrane fusion mechanism. HR2P can effectively inhibit MERS-CoV replication and its spike protein-mediated cell-cell fusion. Introduction of hydrophilic residues into HR2P results in significant improvement of its stability, solubility and antiviral activity. Therefore, the HR2P analogues have good potential to be further developed into effective viral fusion inhibitors for treating MERS-CoV infection.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A novel human coronavirus , Middle East respiratory syndrome coronavirus ( MERS-CoV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "has caused outbreaks of a SARS-like illness with high case fatality rate .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The reports of its personto-person transmission through close contacts have raised a global concern about its pandemic potential .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we characterize the six-helix bundle fusion core structure of MERS-CoV spike protein S2 subunit by X-ray crystallography and biophysical analysis .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We find that two peptides ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "HR1P and HR2P , spanning residues 998-1039 in HR1 and 1251-1286 in HR2 domains ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "respectively , can form a stable six-helix bundle fusion core structure ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "suggesting that MERS-CoV enters into the host cell mainly through membrane fusion mechanism .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "HR2P can effectively inhibit MERS-CoV replication and its spike protein-mediated cell-cell fusion .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Introduction of hydrophilic residues into HR2P results in significant improvement of its stability , solubility and antiviral activity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , the HR2P analogues have good potential to be further developed into effective viral fusion inhibitors for treating MERS-CoV infection .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "A decade ago, a novel human coronavirus, termed Severe Acute Respiratory Syndrome coronavirus (SARS-CoV), caused a large epidemic with a case fatality rate of B10%, creating worldwide panic and economic damage 1,2 . In 2012, another novel coronavirus, termed Middle East respiratory syndrome coronavirus (MERS-CoV), emerged in the Middle East 3 . MERS-CoV infection results in SARS-like disease with multiorgan failure 4 . As of 11 November 2013, WHO had been informed of 153 confirmed cases, including 64 deaths (a case fatality rate of 42%) 5 . The reports of clusters that have occurred among family contacts or in health-care settings have indicated its person-to-person transmissibility through close contacts, raising concerns over its pandemic potential 3,6-8 . Therefore, it is essential to identify the drug targets in the life cycle of MERS-CoV, and in turn, to develop anti-MERS therapeutics to treat patients with MERS-CoV infection and combat any potential pandemic.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A decade ago , a novel human coronavirus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "termed Severe Acute Respiratory Syndrome coronavirus ( SARS-CoV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "caused a large epidemic with a case fatality rate of B10 % ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "creating worldwide panic and economic damage 1,2 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In 2012 , another novel coronavirus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "termed Middle East respiratory syndrome coronavirus ( MERS-CoV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "emerged in the Middle East 3 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "MERS-CoV infection results in SARS-like disease with multiorgan failure 4 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As of 11 November 2013 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "WHO had been informed of 153 confirmed cases ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including 64 deaths ( a case fatality rate of 42 % ) 5 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The reports of clusters that have occurred among family contacts or in health-care settings have indicated its person-to-person transmissibility through close contacts ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "raising concerns over its pandemic potential 3,6-8 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , it is essential to identify the drug targets in the life cycle of MERS-CoV ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and in turn , to develop anti-MERS therapeutics to treat patients with MERS-CoV infection and combat any potential pandemic .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "MERS-CoV is an enveloped positive-sense single-stranded RNA virus with a genome size of B30 kb (ref. 3). It belongs to the lineage C betacoronavirus in the family Coronaviridae within the order Nidovirales. Genetically, it is closer to the bat coronaviruses HKU4 and HKU5 than SARS-CoV 9,10 . Nonetheless, its broader animal species and human tissue tropism suggests that it has jumped interspecies barriers to cause human infection, although its origin is still elusive 9,11,12 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "MERS-CoV is an enveloped positive-sense single-stranded RNA virus with a genome size of B30 kb ( ref .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "3 ) .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "It belongs to the lineage C betacoronavirus in the family Coronaviridae within the order Nidovirales .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Genetically , it is closer to the bat coronaviruses HKU4 and HKU5 than SARS-CoV 9,10 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Nonetheless , its broader animal species and human tissue tropism suggests that it has jumped interspecies barriers to cause human infection ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "although its origin is still elusive 9,11,12 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Similar to SARS-CoV, MERS-CoV binds to the host cell through the interaction between the receptor-binding domain in its spike (S) protein S1 subunit 13-17 and its receptor dipeptidyl peptidase-4 (DPP4, also known as CD26) 18 . We hypothesized that the S2 subunit of MERS-CoV would then change conformation by inserting its fusion peptide into the target cell membrane, forming a six-bundle (6-HB) fusion core between the heptad repeat 1 and 2 (HR1 and HR2) domains in the S2 subunit, thus bringing the viral and cell membranes into close apposition to facilitate fusion, and, in turn, releasing the viral genetic materials into the cytoplasm 19, 20 . If this hypothesis is proven, then the HR1 in the 6-HB could serve as a target for developing MERS-CoV fusion inhibitors, like those against HIV infection, such as the peptides SJ-2176 and T20 (enfuvirtide) 21-23 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Similar to SARS-CoV , MERS-CoV binds to the host cell through the interaction between the receptor-binding domain in its spike ( S ) protein S1 subunit 13-17 and its receptor dipeptidyl peptidase-4 ( DPP4 , also known as CD26 ) 18 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We hypothesized that the S2 subunit of MERS-CoV would then change conformation by inserting its fusion peptide into the target cell membrane ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "forming a six-bundle ( 6-HB ) fusion core between the heptad repeat 1 and 2 ( HR1 and HR2 ) domains in the S2 subunit ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "thus bringing the viral and cell membranes into close apposition to facilitate fusion ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and , in turn , releasing the viral genetic materials into the cytoplasm 19 , 20 .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "If this hypothesis is proven ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "then the HR1 in the 6-HB could serve as a target for developing MERS-CoV fusion inhibitors ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "like those against HIV infection ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "such as the peptides SJ-2176 and T20 ( enfuvirtide ) 21-23 .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Here we solve the crystal structure of the 6-HB formed by MERS-CoV S protein HR1 and HR2 domains. Based on the structure, we design several peptides spanning the HR1 and HR2 sequences, respectively. We find that one of the HR2 peptides, HR2P, potently inhibits MERS-CoV infection and its S proteinmediated cell-cell fusion. Introduction of Glu, Lys or Arg residue into HR2P leads to the increase of its stability, solubility and anti-MERS-CoV activity, suggesting that these peptides can be further developed as effective MERS therapeutics. *A [y] 222 value of À 33,000 deg cm 2 dmol À 1 was taken to correspond to 100% a-helicity as described by Chen et al. 58 NATURE COMMUNICATIONS |",
+      "sentences": [
+        [
+          {
+            "segment_text": "Here we solve the crystal structure of the 6-HB formed by MERS-CoV S protein HR1 and HR2 domains .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Based on the structure , we design several peptides spanning the HR1 and HR2 sequences , respectively .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We find that one of the HR2 peptides ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "HR2P , potently inhibits MERS-CoV infection and its S proteinmediated cell-cell fusion .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Introduction of Glu , Lys or Arg residue into HR2P leads to the increase of its stability ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "solubility and anti-MERS-CoV activity , suggesting that these peptides can be further developed as effective MERS therapeutics .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "* A ( y ) 222 value of À 33,000 deg cm 2 dmol À 1 was taken to correspond to 100 % a-helicity as described by Chen et al. 58 NATURE COMMUNICATIONS |",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "26",
+    "segment_num": "48",
+    "token_num": "716"
+  }
+}

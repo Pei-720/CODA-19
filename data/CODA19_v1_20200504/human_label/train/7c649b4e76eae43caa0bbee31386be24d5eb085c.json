@@ -1,0 +1,101 @@
+{
+  "paper_id": "7c649b4e76eae43caa0bbee31386be24d5eb085c",
+  "metadata": {
+    "title": "Generation interval contraction and epidemic data analysis",
+    "coda_data_split": "train",
+    "coda_paper_id": 7533,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The generation interval is the time between the infection time of an infected person and the infection time of his or her infector. Probability density functions for generation intervals have been an important input for epidemic models and epidemic data analysis. In this paper, we specify a general stochastic SIR epidemic model and prove that the mean generation interval decreases when susceptible persons are at risk of infectious contact from multiple sources. The intuition behind this is that when a susceptible person has multiple potential infectors, there is a \"race\" to infect him or her in which only the first infectious contact leads to infection. In an epidemic, the mean generation interval contracts as the prevalence of infection increases. We call this global competition among potential infectors. When there is rapid transmission within clusters of contacts, generation interval contraction can be caused by a high local prevalence of infection even when the global prevalence is low. We call this local competition among potential infectors. Using simulations, we illustrate both types of competition. Finally, we show that hazards of infectious contact can be used instead of generation intervals to estimate the time course of the effective reproductive number in an epidemic. This approach leads naturally to partial likelihoods for epidemic data that are very similar to those that arise in survival analysis, opening a promising avenue of methodological research in infectious disease epidemiology.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The generation interval is the time between the infection time of an infected person and the infection time of his or her infector .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Probability density functions for generation intervals have been an important input for epidemic models and epidemic data analysis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this paper , we specify a general stochastic SIR epidemic model and prove that the mean generation interval decreases when susceptible persons are at risk of infectious contact from multiple sources .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The intuition behind this is that when a susceptible person has multiple potential infectors ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "there is a `` race \u0027\u0027 to infect him or her in which only the first infectious contact leads to infection .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In an epidemic , the mean generation interval contracts as the prevalence of infection increases .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We call this global competition among potential infectors .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "When there is rapid transmission within clusters of contacts ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "generation interval contraction can be caused by a high local prevalence of infection even when the global prevalence is low .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We call this local competition among potential infectors .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using simulations , we illustrate both types of competition .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , we show that hazards of infectious contact can be used instead of generation intervals to estimate the time course of the effective reproductive number in an epidemic .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This approach leads naturally to partial likelihoods for epidemic data that are very similar to those that arise in survival analysis ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "opening a promising avenue of methodological research in infectious disease epidemiology .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "11",
+    "segment_num": "14",
+    "token_num": "252"
+  }
+}

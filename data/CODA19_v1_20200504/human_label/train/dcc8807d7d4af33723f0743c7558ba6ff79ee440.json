@@ -1,0 +1,134 @@
+{
+  "paper_id": "dcc8807d7d4af33723f0743c7558ba6ff79ee440",
+  "metadata": {
+    "title": "Antiviral Response in the Nasopharynx Identifies Patients With Respiratory Virus Infection",
+    "coda_data_split": "train",
+    "coda_paper_id": 8847,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Background. Despite the high burden of respiratory infection and the importance of early and accurate diagnosis, there is no simple diagnostic test to rule in viral infection as a cause of respiratory symptoms.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Despite the high burden of respiratory infection and the importance of early and accurate diagnosis ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "there is no simple diagnostic test to rule in viral infection as a cause of respiratory symptoms .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Methods. We performed RNA sequencing on human nasal epithelial cells following stimulation of the intracellular viral recognition receptor RIG-I. Next, we evaluated whether measuring identified host mRNAs and proteins from patient nasopharyngeal swabs could predict the presence of a respiratory virus in the sample.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Methods .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We performed RNA sequencing on human nasal epithelial cells following stimulation of the intracellular viral recognition receptor RIG-I .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Next , we evaluated whether measuring identified host mRNAs and proteins from patient nasopharyngeal swabs could predict the presence of a respiratory virus in the sample .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results. Our first study showed that a signature of 3 mRNAs, CXCL10, IFIT2, and OASL, predicted respiratory virus detection with an accuracy of 97% (95% confidence interval [CI], 0.9-1.0), and identified proteins correlating with virus detection. In a second study, elevated CXCL11 or CXCL10 protein levels identified samples containing respiratory viruses, including viruses not on the initial test panel. Overall area under the curve (AUC) values were: CXCL11 AUC \u003d 0.901 (95% CI, 0.86-0.94); CXCL10 AUC \u003d 0.85 (95% CI, 0.80-0.91).",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our first study showed that a signature of 3 mRNAs ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "CXCL10 , IFIT2 , and OASL ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "predicted respiratory virus detection with an accuracy of 97 % ( 95 % confidence interval ( CI ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "0.9-1.0 ) , and identified proteins correlating with virus detection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In a second study , elevated CXCL11 or CXCL10 protein levels identified samples containing respiratory viruses ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including viruses not on the initial test panel .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Overall area under the curve ( AUC ) values were : CXCL11 AUC \u003d 0.901 ( 95 % CI , 0.86-0.94 ) ; CXCL10 AUC \u003d 0.85 ( 95 % CI , 0.80-0.91 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Conclusions. Host antiviral mRNAs and single host proteins detectable using nasopharyngeal swabs accurately predict the presence of viral infection. This approach holds promise for developing rapid, cost-effective tests to improve management of patients with respiratory illnesses.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Conclusions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Host antiviral mRNAs and single host proteins detectable using nasopharyngeal swabs accurately predict the presence of viral infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This approach holds promise for developing rapid ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "cost-effective tests to improve management of patients with respiratory illnesses .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "12",
+    "segment_num": "18",
+    "token_num": "235"
+  }
+}

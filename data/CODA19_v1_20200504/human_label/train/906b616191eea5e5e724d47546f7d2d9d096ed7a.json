@@ -1,0 +1,156 @@
+{
+  "paper_id": "906b616191eea5e5e724d47546f7d2d9d096ed7a",
+  "metadata": {
+    "title": "Ensemble Feature Selection and Meta-Analysis of Cancer miRNA Biomarkers",
+    "coda_data_split": "train",
+    "coda_paper_id": 3501,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The role of microRNAs (miRNAs) in cellular processes captured the attention of many researchers, since their dysregulation is shown to affect the cancer disease landscape by sustaining proliferative signaling, evading program cell death, and inhibiting growth suppressors. Thus, miRNAs have been considered important diagnostic and prognostic biomarkers for several types of tumors. Machine learning algorithms have proven to be able to exploit the information contained in thousands of miRNAs to accurately predict and classify cancer types. Nevertheless, extracting the most relevant miRNA expressions is fundamental to allow human experts to validate and make sense of the results obtained by automatic algorithms. We propose a novel feature selection approach, able to identify the most important miRNAs for tumor classification, based on consensus on feature relevance from high-accuracy classifiers of different typologies. The proposed methodology is tested on a real-world dataset featuring 8,129 patients, 29 different types of tumors, and 1,046 miRNAs per patient, taken from The Cancer Genome Atlas (TCGA) database. A new miRNA signature is suggested, containing the 100 most important oncogenic miRNAs identified by the presented approach. Such a signature is proved to be sufficient to identify all 29 types of cancer considered in the study, with results nearly identical to those obtained using all 1,046 features in the original dataset. Subsequently, a meta-analysis of the medical literature is performed to find references to the most important biomarkers extracted by the methodology. Besides known oncomarkers, 15 new miRNAs previously not ranked as important biomarkers for diagnosis and prognosis in cancer pathologies are uncovered. Such miRNAs, considered relevant by the machine learning algorithms, but still relatively unexplored by specialized literature, could provide further insights in the biology of cancer.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The role of microRNAs ( miRNAs ) in cellular processes captured the attention of many researchers ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "since their dysregulation is shown to affect the cancer disease landscape by sustaining proliferative signaling ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "evading program cell death , and inhibiting growth suppressors .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , miRNAs have been considered important diagnostic and prognostic biomarkers for several types of tumors .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Machine learning algorithms have proven to be able to exploit the information contained in thousands of miRNAs to accurately predict and classify cancer types .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Nevertheless , extracting the most relevant miRNA expressions is fundamental to allow human experts to validate and make sense of the results obtained by automatic algorithms .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We propose a novel feature selection approach ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "able to identify the most important miRNAs for tumor classification ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "based on consensus on feature relevance from high-accuracy classifiers of different typologies .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The proposed methodology is tested on a real-world dataset featuring 8,129 patients ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "29 different types of tumors ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and 1,046 miRNAs per patient ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "taken from The Cancer Genome Atlas ( TCGA ) database .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A new miRNA signature is suggested ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "containing the 100 most important oncogenic miRNAs identified by the presented approach .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Such a signature is proved to be sufficient to identify all 29 types of cancer considered in the study ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with results nearly identical to those obtained using all 1,046 features in the original dataset .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Subsequently , a meta-analysis of the medical literature is performed to find references to the most important biomarkers extracted by the methodology .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Besides known oncomarkers , 15 new miRNAs previously not ranked as important biomarkers for diagnosis and prognosis in cancer pathologies are uncovered .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Such miRNAs , considered relevant by the machine learning algorithms ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but still relatively unexplored by specialized literature ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "could provide further insights in the biology of cancer .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "MicroRNAs (miRNAs) are non-coding RNA molecules that regulate gene expression. In the last years, the under and over expression of miRNAs has been related to the diagnosis and prognosis of specific cancer types. While machine learning techniques can efficiently exploit the information contained in thousands of miRNAs to detect the",
+      "sentences": [
+        [
+          {
+            "segment_text": "MicroRNAs ( miRNAs ) are non-coding RNA molecules that regulate gene expression .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the last years , the under and over expression of miRNAs has been related to the diagnosis and prognosis of specific cancer types .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "While machine learning techniques can efficiently exploit the information contained in thousands of miRNAs to detect the",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "14",
+    "segment_num": "25",
+    "token_num": "366"
+  }
+}

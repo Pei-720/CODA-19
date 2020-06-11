@@ -1,0 +1,81 @@
+{
+  "paper_id": "e4d8c41844be4fb2ddcd8e0fd66e893e7ac68119",
+  "metadata": {
+    "title": "Sequence-specific Sensing of Nucleic Acids",
+    "coda_data_split": "train",
+    "coda_paper_id": 6314,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Innate immune cells are endowed with many nucleic acid receptors, but the role of sequence in the detection of foreign organisms remains unclear. Can sequence patterns influence recognition? And how can we infer those patterns from sequence data? Here, we detail recent computational and experimental evidence associated with sequence-specific sensing. We review the mechanisms underlying the detection and discrimination of foreign sequences from self. We also describe quantitative approaches used to infer the stimulatory capacity of a given pathogen nucleic acid species, and the influence of sequence-specific sensing on host-pathogen coevolution, including endogenous sequences of foreign origin. Finally, we speculate how further studies of sequencespecific sensing will be useful to improve vaccine design, gene therapy and cancer treatment.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Innate immune cells are endowed with many nucleic acid receptors ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but the role of sequence in the detection of foreign organisms remains unclear .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Can sequence patterns influence recognition ?",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "And how can we infer those patterns from sequence data ?",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we detail recent computational and experimental evidence associated with sequence-specific sensing .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We review the mechanisms underlying the detection and discrimination of foreign sequences from self .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also describe quantitative approaches used to infer the stimulatory capacity of a given pathogen nucleic acid species ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and the influence of sequence-specific sensing on host-pathogen coevolution ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "including endogenous sequences of foreign origin .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , we speculate how further studies of sequencespecific sensing will be useful to improve vaccine design ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "gene therapy and cancer treatment .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "11",
+    "token_num": "131"
+  }
+}

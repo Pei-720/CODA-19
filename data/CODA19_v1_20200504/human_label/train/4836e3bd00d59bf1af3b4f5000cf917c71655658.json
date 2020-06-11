@@ -1,0 +1,152 @@
+{
+  "paper_id": "4836e3bd00d59bf1af3b4f5000cf917c71655658",
+  "metadata": {
+    "title": "Accounting for non-stationarity in epidemiology by embedding time-varying parameters in stochastic models",
+    "coda_data_split": "train",
+    "coda_paper_id": 3604,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "The spread of disease through human populations is complex. The characteristics of disease propagation evolve with time, as a result of a multitude of environmental and anthropic factors, this non-stationarity is a key factor in this huge complexity. In the absence of appropriate external data sources, to correctly describe the disease propagation, we explore a flexible approach, based on stochastic models for the disease dynamics, and on diffusion processes for the parameter dynamics. Using such a diffusion process has the advantage of not requiring a specific mathematical function for the parameter dynamics. Coupled with particle MCMC, this approach allows us to reconstruct the time evolution of some key parameters (average transmission rate for instance). Thus, by capturing the time-varying nature of the different mechanisms involved in disease propagation, the epidemic can be described. Firstly we demonstrate the efficiency of this methodology on a toy model, where the parameters and the observation process are known. Applied then to real datasets, our methodology is able, based solely on simple stochastic models, to reconstruct complex epidemics, such as flu or dengue, over long time periods. Hence we demonstrate that timevarying parameters can improve the accuracy of model performances, and we suggest that our methodology can be used as a first step towards a better understanding of a complex epidemic, in situation where data is limited and/or uncertain.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The spread of disease through human populations is complex .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The characteristics of disease propagation evolve with time ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as a result of a multitude of environmental and anthropic factors ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "this non-stationarity is a key factor in this huge complexity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the absence of appropriate external data sources ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "to correctly describe the disease propagation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we explore a flexible approach ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "based on stochastic models for the disease dynamics ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and on diffusion processes for the parameter dynamics .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using such a diffusion process has the advantage of not requiring a specific mathematical function for the parameter dynamics .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Coupled with particle MCMC , this approach allows us to reconstruct the time evolution of some key parameters ( average transmission rate for instance ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , by capturing the time-varying nature of the different mechanisms involved in disease propagation ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the epidemic can be described .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Firstly we demonstrate the efficiency of this methodology on a toy model ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "where the parameters and the observation process are known .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Applied then to real datasets ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "our methodology is able , based solely on simple stochastic models ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "to reconstruct complex epidemics , such as flu or dengue , over long time periods .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hence we demonstrate that timevarying parameters can improve the accuracy of model performances ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and we suggest that our methodology can be used as a first step towards a better understanding of a complex epidemic ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "in situation where data is limited and/or uncertain .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Citation: Cazelles B, Champagne C, Dureau J (2018) Accounting for non-stationarity in epidemiology by embedding time-varying parameters in stochastic models. PLoS Comput Biol 14(8): e1006211. https://doi.org/10.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Citation : Cazelles B , Champagne C ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "Dureau J ( 2018 ) Accounting for non-stationarity in epidemiology by embedding time-varying parameters in stochastic models .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "PLoS Comput Biol 14 ( 8 ) : e1006211 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "https://doi.org/10 .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "12",
+    "segment_num": "25",
+    "token_num": "290"
+  }
+}

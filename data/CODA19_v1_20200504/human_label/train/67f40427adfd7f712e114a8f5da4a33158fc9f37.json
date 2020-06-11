@@ -1,0 +1,77 @@
+{
+  "paper_id": "67f40427adfd7f712e114a8f5da4a33158fc9f37",
+  "metadata": {
+    "title": "Signal Recognition Particle-dependent Membrane Insertion of Mouse Invariant Chain: A Membrane-spanning Protein with a Cytoplasmically Exposed Amino Terminus",
+    "coda_data_split": "train",
+    "coda_paper_id": 2975,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Invariant (Ii) chain is a membrane-spanning protein that is found associated intracellularly with class II histocompatibility antigens.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Invariant ( Ii ) chain is a membrane-spanning protein that is found associated intracellularly with class II histocompatibility antigens .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In the endoplasmic reticulum Ii chain spans the membrane and exposes the NH2 terminus on the cytoplasmic and the C O O H terminus on the lumenal side. This orientation across the membrane is demonstrated directly with the monoclonal antibody In-l, which exclusively recognizes the NH2 terminal cytoplasmically exposed part of Ii chain.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In the endoplasmic reticulum Ii chain spans the membrane and exposes the NH2 terminus on the cytoplasmic and the C O O H terminus on the lumenal side .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This orientation across the membrane is demonstrated directly with the monoclonal antibody In-l ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which exclusively recognizes the NH2 terminal cytoplasmically exposed part of Ii chain .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Membrane insertion of Ii chain requires signal recognition particle and docking protein. When tested in a wheat germ cell free system, signal recognition particle arrests translation of Ii chain. No signal sequence is cleaved from Ii chain upon membrane insertion.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Membrane insertion of Ii chain requires signal recognition particle and docking protein .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "When tested in a wheat germ cell free system ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "signal recognition particle arrests translation of Ii chain .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "No signal sequence is cleaved from Ii chain upon membrane insertion .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "6",
+    "segment_num": "8",
+    "token_num": "120"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "paper_id": "f4b1d7b5fe0f6d5a488fb02da8ca8fd3ea8e6493",
+  "metadata": {
+    "title": "Some properties of a simple stochastic epidemic model of SIR type",
+    "coda_data_split": "train",
+    "coda_paper_id": 9286,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "We investigate the properties of a simple discrete time stochastic epidemic model. The model is Markovian of the SIR type in which the total population is constant and individuals meet a random number of other individuals at each time step. Individuals remain infectious for R time units, after which they become removed or immune. Individual transition probabilities from susceptible to diseased states are given in terms of the binomial distribution. An expression is given for the probability that any individuals beyond those initially infected become diseased. In the model with a finite recovery time R, simulations reveal large variability in both the total number of infected individuals and in the total duration of the epidemic, even when the variability in number of contacts per day is small. In the case of no recovery, R \u003d 1, a formal diffusion approximation is obtained for the number infected. The mean for the diffusion process can be approximated by a logistic which is more accurate for larger contact rates or faster developing epidemics. For finite R we then proceed mainly by simulation and investigate in the mean the effects of varying the parameters p (the probability of transmission), R, and the number of contacts per day per individual. A scale invariant property is noted for the size of an outbreak in relation to the total population size. Most notable are the existence of maxima in the duration of an epidemic as a function of R and the extremely large differences in the sizes of outbreaks which can occur for small changes in R. These findings have practical applications in controlling the size and duration of epidemics and hence reducing their human and economic costs.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We investigate the properties of a simple discrete time stochastic epidemic model .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The model is Markovian of the SIR type in which the total population is constant and individuals meet a random number of other individuals at each time step .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Individuals remain infectious for R time units ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "after which they become removed or immune .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Individual transition probabilities from susceptible to diseased states are given in terms of the binomial distribution .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "An expression is given for the probability that any individuals beyond those initially infected become diseased .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the model with a finite recovery time R ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "simulations reveal large variability in both the total number of infected individuals and in the total duration of the epidemic ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "even when the variability in number of contacts per day is small .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the case of no recovery ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "R \u003d 1 , a formal diffusion approximation is obtained for the number infected .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The mean for the diffusion process can be approximated by a logistic which is more accurate for larger contact rates or faster developing epidemics .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "For finite R we then proceed mainly by simulation and investigate in the mean the effects of varying the parameters p ( the probability of transmission ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "R , and the number of contacts per day per individual .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A scale invariant property is noted for the size of an outbreak in relation to the total population size .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Most notable are the existence of maxima in the duration of an epidemic as a function of R and the extremely large differences in the sizes of outbreaks which can occur for small changes in R .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These findings have practical applications in controlling the size and duration of epidemics and hence reducing their human and economic costs .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "12",
+    "segment_num": "17",
+    "token_num": "302"
+  }
+}

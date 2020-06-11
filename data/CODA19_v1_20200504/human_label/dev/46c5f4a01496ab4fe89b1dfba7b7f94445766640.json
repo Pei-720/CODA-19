@@ -1,0 +1,114 @@
+{
+  "paper_id": "46c5f4a01496ab4fe89b1dfba7b7f94445766640",
+  "metadata": {
+    "title": "Forecasting of COVID-19 Confirmed Cases in Different Countries with ARIMA Models Forecasting of COVID-19 Confirmed Cases in Different Countries with ARIMA Models",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1516,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The epidemic of a novel coronavirus illness becomes as a global threat. The aim of this study is first to find the best prediction models for daily confirmed cases in countries with high number of confirmed cases in the world and second to predict confirmed cases with these models in order to have more readiness in healthcare systems.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The epidemic of a novel coronavirus illness becomes as a global threat .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The aim of this study is first to find the best prediction models for daily confirmed cases in countries with high number of confirmed cases in the world and second to predict confirmed cases with these models in order to have more readiness in healthcare systems .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": ": This study was conducted based on daily confirmed cases of COVID-19 that were collected from the official website of Johns Hopkins University from January 22 th , 2020 to March 1 th , 2020. Auto Regressive Integrated Moving Average (ARIMA) model was used to predict the trend of confirmed cases. Stata version 12 were used. Results: Parameters used for ARIMA were (2,1,0) for Mainland China, ARIMA (2,2,2) for Italy , ARIMA(1,0,0) for South Korea, ARIMA (2,3,0) for Iran, and ARIMA(3,1,0) for Thailand. Mainland China and Thailand had almost a stable trend. The trend of South Korea was decreasing and will become stable in near future. Iran and Italy had unstable trends. Conclusions: Mainland China and Thailand were successful in haltering COVID-19 epidemic. Investigating their protocol in this control like quarantine should be in the first line of other countries\u0027 program",
+      "sentences": [
+        [
+          {
+            "segment_text": ": This study was conducted based on daily confirmed cases of COVID-19 that were collected from the official website of Johns Hopkins University from January 22 th ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "2020 to March 1 th , 2020 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Auto Regressive Integrated Moving Average ( ARIMA ) model was used to predict the trend of confirmed cases .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Stata version 12 were used .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results : Parameters used for ARIMA were ( 2,1,0 ) for Mainland China ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "ARIMA ( 2,2,2 ) for Italy ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "ARIMA ( 1,0,0 ) for South Korea ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "ARIMA ( 2,3,0 ) for Iran ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and ARIMA ( 3,1,0 ) for Thailand .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Mainland China and Thailand had almost a stable trend .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The trend of South Korea was decreasing and will become stable in near future .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Iran and Italy had unstable trends .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Conclusions : Mainland China and Thailand were successful in haltering COVID-19 epidemic .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Investigating their protocol in this control like quarantine should be in the first line of other countries \u0027 program",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "11",
+    "segment_num": "16",
+    "token_num": "229"
+  }
+}

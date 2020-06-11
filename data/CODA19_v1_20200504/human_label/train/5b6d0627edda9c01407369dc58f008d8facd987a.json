@@ -1,0 +1,90 @@
+{
+  "paper_id": "5b6d0627edda9c01407369dc58f008d8facd987a",
+  "metadata": {
+    "title": "The S proteins of human coronavirus NL63 and severe acute respiratory syndrome coronavirus bind overlapping regions of ACE2",
+    "coda_data_split": "train",
+    "coda_paper_id": 6677,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The cellular receptor for human coronavirus NL63 (HCoV-NL63), a group I coronavirus, is angiotensin-converting enzyme2 (ACE2). ACE2 is also the receptor for the SARS coronavirus (SARS-CoV), a group II coronavirus. Here we describe the ability of HCoV-NL63 to utilize a number of ACE2 variants previously characterized as SARS-CoV receptors. Several ACE2 variants that reduced SARS-CoV S-protein association similarly reduced that of HCoV-NL63, whereas alteration of a number of solvent-exposed ACE2 residues did not interfere with binding by either S protein.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The cellular receptor for human coronavirus NL63 ( HCoV-NL63 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a group I coronavirus , is angiotensin-converting enzyme2 ( ACE2 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "ACE2 is also the receptor for the SARS coronavirus ( SARS-CoV ) , a group II coronavirus .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we describe the ability of HCoV-NL63 to utilize a number of ACE2 variants previously characterized as SARS-CoV receptors .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Several ACE2 variants that reduced SARS-CoV S-protein association similarly reduced that of HCoV-NL63 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "whereas alteration of a number of solvent-exposed ACE2 residues did not interfere with binding by either S protein .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "One notable exception is ACE2 residue 354, at the boundary of the SARS-CoV binding site, whose alteration markedly inhibited utilization by the HCoV-NL63 but not SARS-CoV S proteins. In addition, the SARS-CoV S-protein receptor-binding domain inhibited entry mediated by the HCoV-NL63 S protein. These studies indicate that HCoV-NL63, like SARS-CoV, associates region of human ACE2 that includes a key loop formed by β-strands 4 and 5.",
+      "sentences": [
+        [
+          {
+            "segment_text": "One notable exception is ACE2 residue 354 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "at the boundary of the SARS-CoV binding site ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "whose alteration markedly inhibited utilization by the HCoV-NL63 but not SARS-CoV S proteins .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , the SARS-CoV S-protein receptor-binding domain inhibited entry mediated by the HCoV-NL63 S protein .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These studies indicate that HCoV-NL63 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "like SARS-CoV , associates region of human ACE2 that includes a key loop formed by β-strands 4 and 5 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "7",
+    "segment_num": "12",
+    "token_num": "168"
+  }
+}

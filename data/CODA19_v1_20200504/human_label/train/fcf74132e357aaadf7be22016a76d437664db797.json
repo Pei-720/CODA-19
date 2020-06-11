@@ -1,0 +1,180 @@
+{
+  "paper_id": "fcf74132e357aaadf7be22016a76d437664db797",
+  "metadata": {
+    "title": "pharmaceuticals Lipid Metabolism as a Source of Druggable Targets for Antiviral Discovery against Zika and Other Flaviviruses",
+    "coda_data_split": "train",
+    "coda_paper_id": 10757,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "The Zika virus (ZIKV) is a mosquito-borne flavivirus that can lead to birth defects (microcephaly), ocular lesions and neurological disorders (Guillain-Barré syndrome). There is no licensed vaccine or antiviral treatment against ZIKV infection. The effort to understand the complex interactions of ZIKV with cellular networks contributes to the identification of novel host-directed antiviral (HDA) candidates. Among the cellular pathways involved in infection, lipid metabolism gains attention. In ZIKV-infected cells lipid metabolism attributed to intracellular membrane remodeling, virion morphogenesis, autophagy modulation, innate immunity and inflammation. The key roles played by the cellular structures associated with lipid metabolism, such as peroxisomes and lipid droplets, are starting to be deciphered. Consequently, there is a wide variety of lipid-related antiviral strategies that are currently under consideration, which include an inhibition of sterol regulatory element-binding proteins (SREBP), the activation of adenosine-monophosphate activated kinase (AMPK), an inhibition of acetyl-Coenzyme A carboxylase (ACC), interference with sphingolipid metabolism, blockage of intracellular cholesterol trafficking, or a treatment with cholesterol derivatives. Remarkably, most of the HDAs identified in these studies are also effective against flaviviruses other than ZIKV (West Nile virus and dengue virus), supporting their broad-spectrum effect. Considering that lipid metabolism is one of the main cellular pathways suitable for pharmacological intervention, the idea of repositioning drugs targeting lipid metabolism as antiviral candidates is gaining force.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The Zika virus ( ZIKV ) is a mosquito-borne flavivirus that can lead to birth defects ( microcephaly ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "ocular lesions and neurological disorders ( Guillain-Barré syndrome ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "There is no licensed vaccine or antiviral treatment against ZIKV infection .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The effort to understand the complex interactions of ZIKV with cellular networks contributes to the identification of novel host-directed antiviral ( HDA ) candidates .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Among the cellular pathways involved in infection , lipid metabolism gains attention .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In ZIKV-infected cells lipid metabolism attributed to intracellular membrane remodeling ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "virion morphogenesis , autophagy modulation , innate immunity and inflammation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The key roles played by the cellular structures associated with lipid metabolism ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as peroxisomes and lipid droplets ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "are starting to be deciphered .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Consequently , there is a wide variety of lipid-related antiviral strategies that are currently under consideration ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which include an inhibition of sterol regulatory element-binding proteins ( SREBP ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the activation of adenosine-monophosphate activated kinase ( AMPK ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "an inhibition of acetyl-Coenzyme A carboxylase ( ACC ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "interference with sphingolipid metabolism , blockage of intracellular cholesterol trafficking ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "or a treatment with cholesterol derivatives .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Remarkably , most of the HDAs identified in these studies are also effective against flaviviruses other than ZIKV ( West Nile virus and dengue virus ) , supporting their broad-spectrum effect .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Considering that lipid metabolism is one of the main cellular pathways suitable for pharmacological intervention ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the idea of repositioning drugs targeting lipid metabolism as antiviral candidates is gaining force .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Pharmaceuticals 2019, 12, 97 2 of 11 in nervous tissues [6] . Currently, there are two major lines of investigation for the development of antivirals against ZIKV: (i) The search for Direct Acting Antivirals (DAAs) that are based on interference with viral components (e.g., inhibitors of fusion, viral protease, or RNA dependent RNA polymerase); (ii) The identification of Host-Directed Antivirals (HDAs) that inhibit host factors co-opted for the virus to complete its infectious cycle. Theoretically, HDAs carry the advantage that they are less prone to the selection of resistant mutants, which could lead to the identification of broad-spectrum antivirals that are effective against taxonomically-related viruses [7] [8] [9] . During the last years, the knowledge on virus-host interactions has exponentially grown, revealing that the life cycle of many viruses, including ZIKV, is dependent upon host lipid metabolism [10, 11] . This valuable information has unveiled potential antiviral targets that are now starting to be explored. It is expected that the detailed knowledge of the metabolic alterations (e.g., lipid metabolism) during ZIKV and other arboviral infections could help to design novel therapeutics, but also be useful to the identification of molecular biomarkers suitable for improved diagnostic [12] . This review summarizes the principal findings and the current status on the progress of the development of drugs that interfere with lipid metabolism and function as antivirals against ZIKV.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Pharmaceuticals 2019 , 12 , 97 2 of 11 in nervous tissues ( 6 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Currently , there are two major lines of investigation for the development of antivirals against ZIKV : ( i ) The search for Direct Acting Antivirals ( DAAs ) that are based on interference with viral components ( e.g. , inhibitors of fusion , viral protease , or RNA dependent RNA polymerase ) ; ( ii ) The identification of Host-Directed Antivirals ( HDAs ) that inhibit host factors co-opted for the virus to complete its infectious cycle .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Theoretically , HDAs carry the advantage that they are less prone to the selection of resistant mutants ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which could lead to the identification of broad-spectrum antivirals that are effective against taxonomically-related viruses ( 7 ) ( 8 ) ( 9 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "During the last years , the knowledge on virus-host interactions has exponentially grown ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "revealing that the life cycle of many viruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including ZIKV , is dependent upon host lipid metabolism ( 10 , 11 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This valuable information has unveiled potential antiviral targets that are now starting to be explored .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is expected that the detailed knowledge of the metabolic alterations ( e.g. , lipid metabolism ) during ZIKV and other arboviral infections could help to design novel therapeutics ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but also be useful to the identification of molecular biomarkers suitable for improved diagnostic ( 12 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This review summarizes the principal findings and the current status on the progress of the development of drugs that interfere with lipid metabolism and function as antivirals against ZIKV .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "16",
+    "segment_num": "30",
+    "token_num": "529"
+  }
+}

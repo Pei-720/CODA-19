@@ -1,0 +1,106 @@
+{
+  "paper_id": "f99cb5d12a8de00c772ca8af371cf9c2800c6eb7",
+  "metadata": {
+    "title": "Computational simulations reveal the binding dynamics between human ACE2 and the receptor binding domain of SARS-CoV-2 spike protein",
+    "coda_data_split": "train",
+    "coda_paper_id": 10378,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "A novel coronavirus (the SARS-CoV-2) has been identified in January 2020 as the causal pathogen for COVID-19 pneumonia, an outbreak started near the end of 2019 in Wuhan, China. The SARS-CoV-2 was found to be closely related to the SARS-CoV, based on the genomic analysis. The Angiotensin converting enzyme 2 protein (ACE2) utilized by the SARS-CoV as a receptor was found to facilitate the infection of SARS-CoV-2, initiated by the binding of the spike protein to the human ACE2. Using homology modeling and molecular dynamics (MD) simulation methods, we report here the detailed structure of the ACE2 in complex with the receptor binding domain (RBD) of the SARS-CoV-2 spike protein. The predicted model is highly consistent with the experimentally determined complex structures. Besides the binding interface reported in the crystal structures, new plausible binding poses were revealed from all-atom MD simulations. The simulation data helped identify critical residues at the complex interface and provided more details about the interactions between the SARS-CoV-2 RBD and human ACE2. Two mutants mimicking rat ACE2 were modeled to study the mutation effects on RBD binding to ACE2.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A novel coronavirus ( the SARS-CoV-2 ) has been identified in January 2020 as the causal pathogen for COVID-19 pneumonia ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "an outbreak started near the end of 2019 in Wuhan , China .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The SARS-CoV-2 was found to be closely related to the SARS-CoV ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "based on the genomic analysis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The Angiotensin converting enzyme 2 protein ( ACE2 ) utilized by the SARS-CoV as a receptor was found to facilitate the infection of SARS-CoV-2 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "initiated by the binding of the spike protein to the human ACE2 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using homology modeling and molecular dynamics ( MD ) simulation methods ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we report here the detailed structure of the ACE2 in complex with the receptor binding domain ( RBD ) of the SARS-CoV-2 spike protein .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The predicted model is highly consistent with the experimentally determined complex structures .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Besides the binding interface reported in the crystal structures ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "new plausible binding poses were revealed from all-atom MD simulations .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The simulation data helped identify critical residues at the complex interface and provided more details about the interactions between the SARS-CoV-2 RBD and human ACE2 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Two mutants mimicking rat ACE2 were modeled to study the mutation effects on RBD binding to ACE2 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The simulations showed that the N-terminal helix and the K353 are very important for the tight binding of the complex, the mutants were found to alter the binding modes of the CoV2-RBD to ACE2.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The simulations showed that the N-terminal helix and the K353 are very important for the tight binding of the complex ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the mutants were found to alter the binding modes of the CoV2-RBD to ACE2 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "9",
+    "segment_num": "15",
+    "token_num": "241"
+  }
+}

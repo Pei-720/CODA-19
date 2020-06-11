@@ -1,0 +1,75 @@
+{
+  "paper_id": "049a3686399336c189e23f0b0ea953097f19f482",
+  "metadata": {
+    "title": "Insertion of Introns: A Strategy to Facilitate Assembly of Infectious Full Length Clones",
+    "coda_data_split": "train",
+    "coda_paper_id": 5900,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Some DNA fragments are difficult to clone in Escherichia coli by standard methods. It has been speculated that unintended transcription and translation result in expression of proteins that are toxic to the bacteria. This problem is frequently observed during assembly of infectious full-length virus clones. If the clone is constructed for transcription in vivo, interrupting the virus sequence with an intron can solve the toxicity problem. The AU-rich introns generally contain many stop codons, which interrupt translation in E. coli, while the intron sequence is precisely eliminated from the virus sequence in the plant nucleus. The resulting RNA, which enters the cytoplasm, is identical to the virus sequence and can initiate infection.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Some DNA fragments are difficult to clone in Escherichia coli by standard methods .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It has been speculated that unintended transcription and translation result in expression of proteins that are toxic to the bacteria .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This problem is frequently observed during assembly of infectious full-length virus clones .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "If the clone is constructed for transcription in vivo ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "interrupting the virus sequence with an intron can solve the toxicity problem .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The AU-rich introns generally contain many stop codons ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which interrupt translation in E. coli ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "while the intron sequence is precisely eliminated from the virus sequence in the plant nucleus .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The resulting RNA , which enters the cytoplasm ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "is identical to the virus sequence and can initiate infection .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "10",
+    "token_num": "123"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "paper_id": "9b6e8a9925f7b7052a2ee8f276791c1b1bb51229",
+  "metadata": {
+    "title": "Drug repurposing for breast cancer therapy: Old weapon for new battle",
+    "coda_data_split": "train",
+    "coda_paper_id": 3201,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Despite tremendous resources being invested in prevention and treatment, breast cancer remains a leading cause of cancer deaths in women globally. The available treatment modalities are very costly and produces severe side effects. Drug repurposing that relate to new uses for old drugs has emerged as a novel approach for drug development. Repositioning of old, clinically approved, off patent non-cancer drugs with known targets, into newer indication is like using old weapons for new battle. The advances in genomics, proteomics and information computational biology has facilitated the process of drug repurposing. Repositioning approach not only fastens the process of drug development but also offers more effective, cheaper, safer drugs with lesser/known side effects. During the last decade, drugs such as alkylating agents, anthracyclins, antimetabolite, CDK4/6 inhibitor, aromatase inhibitor, mTOR inhibitor and mitotic inhibitors has been repositioned for breast cancer treatment. The repositioned drugs have been successfully used for the treatment of most aggressive triple negative breast cancer. The literature review suggest that serendipity plays a major role in the drug development. This article describes the comprehensive overview of the current scenario of drug repurposing for the breast cancer treatment. The strategies as well as several examples of repurposed drugs are provided. The challenges associated with drug repurposing are discussed.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Despite tremendous resources being invested in prevention and treatment ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "breast cancer remains a leading cause of cancer deaths in women globally .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The available treatment modalities are very costly and produces severe side effects .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Drug repurposing that relate to new uses for old drugs has emerged as a novel approach for drug development .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Repositioning of old , clinically approved ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "off patent non-cancer drugs with known targets ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "into newer indication is like using old weapons for new battle .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The advances in genomics , proteomics and information computational biology has facilitated the process of drug repurposing .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Repositioning approach not only fastens the process of drug development but also offers more effective ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "cheaper , safer drugs with lesser/known side effects .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "During the last decade , drugs such as alkylating agents ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "anthracyclins , antimetabolite , CDK4/6 inhibitor ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "aromatase inhibitor , mTOR inhibitor and mitotic inhibitors has been repositioned for breast cancer treatment .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The repositioned drugs have been successfully used for the treatment of most aggressive triple negative breast cancer .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The literature review suggest that serendipity plays a major role in the drug development .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This article describes the comprehensive overview of the current scenario of drug repurposing for the breast cancer treatment .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The strategies as well as several examples of repurposed drugs are provided .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The challenges associated with drug repurposing are discussed .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Unlike a decade ago, clinicians today have multiple choices for breast cancer treatment depending on the size, stage, grade, metastatic behavior, aggressiveness and intrinsic molecular subtyping of tumor, age, menopausal status, overall health, comorbidities, and preferences of the patient [9-13]. Chemotherapy, hormone therapy, immunotherapy, radiotherapy, and surgery are the common modalities for breast cancer [10, 14] . Primary choice of treatment usually includes surgery with the aim of complete resection of the major tumor mass on the first hand. Breast conserving (lumpectomy) and breast reconstruction surgeries, mastectomy or lymph node dissections are performed initially in the breast cancer patients [15] . Surgery may be preceded with the systemic neoadjuvant therapies in order to shrink the tumor for effective surgery and to maximize breast conservation. For example, in HER2+ cases, Trastuzumab (Herceptin) and Pertuzumab (Perjeta)",
+      "sentences": [
+        [
+          {
+            "segment_text": "Unlike a decade ago , clinicians today have multiple choices for breast cancer treatment depending on the size ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "stage , grade , metastatic behavior ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "aggressiveness and intrinsic molecular subtyping of tumor ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "age , menopausal status , overall health ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "comorbidities , and preferences of the patient ( 9-13 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Chemotherapy , hormone therapy , immunotherapy ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "radiotherapy , and surgery are the common modalities for breast cancer ( 10 , 14 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Primary choice of treatment usually includes surgery with the aim of complete resection of the major tumor mass on the first hand .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Breast conserving ( lumpectomy ) and breast reconstruction surgeries ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "mastectomy or lymph node dissections are performed initially in the breast cancer patients ( 15 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Surgery may be preceded with the systemic neoadjuvant therapies in order to shrink the tumor for effective surgery and to maximize breast conservation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "For example , in HER2 + cases ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Trastuzumab ( Herceptin ) and Pertuzumab ( Perjeta )",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "18",
+    "segment_num": "31",
+    "token_num": "402"
+  }
+}

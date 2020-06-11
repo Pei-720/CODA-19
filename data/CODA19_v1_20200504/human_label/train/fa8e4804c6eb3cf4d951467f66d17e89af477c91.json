@@ -1,0 +1,111 @@
+{
+  "paper_id": "fa8e4804c6eb3cf4d951467f66d17e89af477c91",
+  "metadata": {
+    "title": "Crystal structure-based exploration of the important role of Arg106 in the RNA-binding domain of human coronavirus OC43 nucleocapsid protein NIH Public Access Author Manuscript",
+    "coda_data_split": "train",
+    "coda_paper_id": 8770,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Human coronavirus OC43 (HCoV-OC43) is a causative agent of the common cold. The nucleocapsid (N) protein, which is a major structural protein of CoVs, binds to the viral RNA genome to form the virion core and results in the formation of the ribonucleoprotein (RNP) complex. We have solved the crystal structure of the N-terminal domain of HCoV-OC43 N protein (N-NTD) (residues 58 to 195) to a resolution of 2.0Å. The HCoV-OC43 N-NTD is a single domain protein composed of a five-stranded -sheet core and a long extended loop, similar to that observed in the structures of N-NTDs from other coronaviruses. The positively charged loop of the HCoV-OC43 N-NTD contains a structurally well-conserved positively charged residue, R106. To assess the role of R106 in RNA binding, we undertook a series of site-directed mutagenesis experiments and docking simulations to characterize the interaction between R106 and RNA. The results show that R106 plays an important role in the interaction between the N protein and RNA. In addition, we showed that, in cells transfected with plasmids that encoded the mutant (R106A) N protein and infected with virus, the level of the matrix protein gene was decreased by 7-fold compared to cells that were transfected with the wild-type N protein. This finding suggests that R106, by enhancing binding of the N protein to viral RNA plays a critical role in the viral replication. The results also indicate that the strength of N protein/RNA interactions is critical for HCoV-OC43 replication.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Human coronavirus OC43 ( HCoV-OC43 ) is a causative agent of the common cold .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The nucleocapsid ( N ) protein ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which is a major structural protein of CoVs ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "binds to the viral RNA genome to form the virion core and results in the formation of the ribonucleoprotein ( RNP ) complex .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We have solved the crystal structure of the N-terminal domain of HCoV-OC43 N protein ( N-NTD ) ( residues 58 to 195 ) to a resolution of 2.0 Å .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The HCoV-OC43 N-NTD is a single domain protein composed of a five-stranded - sheet core and a long extended loop ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "similar to that observed in the structures of N-NTDs from other coronaviruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The positively charged loop of the HCoV-OC43 N-NTD contains a structurally well-conserved positively charged residue , R106 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To assess the role of R106 in RNA binding ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we undertook a series of site-directed mutagenesis experiments and docking simulations to characterize the interaction between R106 and RNA .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results show that R106 plays an important role in the interaction between the N protein and RNA .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , we showed that ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "in cells transfected with plasmids that encoded the mutant ( R106A ) N protein and infected with virus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the level of the matrix protein gene was decreased by 7-fold compared to cells that were transfected with the wild-type N protein .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This finding suggests that R106 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "by enhancing binding of the N protein to viral RNA plays a critical role in the viral replication .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results also indicate that the strength of N protein/RNA interactions is critical for HCoV-OC43 replication .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "10",
+    "segment_num": "17",
+    "token_num": "277"
+  }
+}

@@ -1,0 +1,404 @@
+{
+  "paper_id": "c9cf89e7642b3da75a33d482d26a330212677479",
+  "metadata": {
+    "title": "cells Deubiquitinating Enzymes Related to Autophagy: New Therapeutic Opportunities?",
+    "coda_data_split": "test",
+    "coda_paper_id": 327,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Autophagy is an evolutionary conserved catabolic process that allows for the degradation of intracellular components by lysosomes. This process can be triggered by nutrient deprivation, microbial infections or other challenges to promote cell survival under these stressed conditions. However, basal levels of autophagy are also crucial for the maintenance of proper cellular homeostasis by ensuring the selective removal of protein aggregates and dysfunctional organelles. A tight regulation of this process is essential for cellular survival and organismal health. Indeed, deregulation of autophagy is associated with a broad range of pathologies such as neuronal degeneration, inflammatory diseases, and cancer progression. Ubiquitination and deubiquitination of autophagy substrates, as well as components of the autophagic machinery, are critical regulatory mechanisms of autophagy. Here, we review the main evidence implicating deubiquitinating enzymes (DUBs) in the regulation of autophagy. We also discuss how they may constitute new therapeutic opportunities in the treatment of pathologies such as cancers, neurodegenerative diseases or infections.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Autophagy is an evolutionary conserved catabolic process that allows for the degradation of intracellular components by lysosomes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This process can be triggered by nutrient deprivation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "microbial infections or other challenges to promote cell survival under these stressed conditions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , basal levels of autophagy are also crucial for the maintenance of proper cellular homeostasis by ensuring the selective removal of protein aggregates and dysfunctional organelles .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A tight regulation of this process is essential for cellular survival and organismal health .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Indeed , deregulation of autophagy is associated with a broad range of pathologies such as neuronal degeneration ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "inflammatory diseases , and cancer progression .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Ubiquitination and deubiquitination of autophagy substrates ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as well as components of the autophagic machinery ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "are critical regulatory mechanisms of autophagy .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we review the main evidence implicating deubiquitinating enzymes ( DUBs ) in the regulation of autophagy .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also discuss how they may constitute new therapeutic opportunities in the treatment of pathologies such as cancers , neurodegenerative diseases or infections .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Cells 2018, 7, 112 2 of 24 conformation or the activity of the targeted protein or direct proteins for degradation by either the proteasome or the autophagy process [16, 17] . Ubiquitin linkage is involved in most, if not all, cellular processes and signaling pathways. As for autophagy, defects in ubiquitination and deregulation of DUBs are associated with human disorders [18] [19] [20] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Cells 2018 , 7 , 112 2 of 24 conformation or the activity of the targeted protein or direct proteins for degradation by either the proteasome or the autophagy process ( 16 , 17 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Ubiquitin linkage is involved in most ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "if not all , cellular processes and signaling pathways .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As for autophagy , defects in ubiquitination and deregulation of DUBs are associated with human disorders ( 18 ) ( 19 ) ( 20 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Here, we chose to focus on the role of DUBs related to the regulation of autophagy and cargo lysosomal degradation. We extended our review to the recent development of small-molecule inhibitors modulating DUBs\u0027 activity on autophagy, thus highlighting their potential as therapeutic targets.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Here , we chose to focus on the role of DUBs related to the regulation of autophagy and cargo lysosomal degradation .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We extended our review to the recent development of small-molecule inhibitors modulating DUBs \u0027 activity on autophagy ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "thus highlighting their potential as therapeutic targets .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Autophagy and Ubiquitin System: A Brief Overview",
+      "sentences": [
+        [
+          {
+            "segment_text": "Autophagy and Ubiquitin System : A Brief Overview",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Autophagy was first described in 1966 by C. de Duve and R. Wattiaux based on observations from mammalian cells deprived of serum and amino acids [21] . The name autophagy was coined later, after electron microscopy observations that revealed the presence of double-membrane vesicles containing part of the cytoplasm. Autophagy can be induced in response to various stressors such as lack of nutrients or growth factors, hypoxia, or infection [22] . As such, autophagy was initially described as a survival mechanism in response to various stresses. However, it is now widely recognized that basal levels of autophagy also operate independently of any stress, contributing to the maintenance of cellular homeostasis by the removal of dysfunctional or unnecessary proteins and organelles (for instance, mitochondria) and ribosomes [2] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Autophagy was first described in 1966 by C. de Duve and R. Wattiaux based on observations from mammalian cells deprived of serum and amino acids ( 21 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The name autophagy was coined later ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "after electron microscopy observations that revealed the presence of double-membrane vesicles containing part of the cytoplasm .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Autophagy can be induced in response to various stressors such as lack of nutrients or growth factors ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "hypoxia , or infection ( 22 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As such , autophagy was initially described as a survival mechanism in response to various stresses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , it is now widely recognized that basal levels of autophagy also operate independently of any stress ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "contributing to the maintenance of cellular homeostasis by the removal of dysfunctional or unnecessary proteins and organelles ( for instance , mitochondria ) and ribosomes ( 2 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "One can distinguish three types of autophagy: macroautophagy (mostly referred to as autophagy), chaperone-mediated autophagy and microautophagy. These autophagy processes differ by the way substrates are being delivered to the lysosome for degradation. In macroautophagy, autophagy substrates are isolated from the cytoplasm through their engulfment in double-membrane vesicles called autophagosomes [23] . Autophagosomes are formed by the elongation of an isolation membrane derived from the endoplasmic reticulum [24] . The autophagosomes eventually mature and fuse with the lysosomes where hydrolases degrade the substrates (Figure 1 ). In chaperone-mediated autophagy, soluble cytosolic proteins are recruited by the chaperone HSC70/HSP8A and directly translocated into the lysosome through pores made of LAMP2A multimers. Substrate translocation into the lysosome requires a second HSC70 chaperone resident in the lysosomal lumen [25] [26] [27] . In microautophagy, cytosolic substrates are transferred to the lysosome through direct invagination of the lysosomal membrane (in yeast) or from the late endosomes (in mammals and Drosophila, referred to as endosomal-microautophagy) that eventually fuse with the lysosomes [28] [29] [30] . As for chaperone-mediated autophagy, endosomal-microautophagy requires the chaperone protein HSC70 for the selection of the substrates [28, 30, 31] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "One can distinguish three types of autophagy : macroautophagy ( mostly referred to as autophagy ) , chaperone-mediated autophagy and microautophagy .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These autophagy processes differ by the way substrates are being delivered to the lysosome for degradation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In macroautophagy , autophagy substrates are isolated from the cytoplasm through their engulfment in double-membrane vesicles called autophagosomes ( 23 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Autophagosomes are formed by the elongation of an isolation membrane derived from the endoplasmic reticulum ( 24 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The autophagosomes eventually mature and fuse with the lysosomes where hydrolases degrade the substrates ( Figure 1 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In chaperone-mediated autophagy , soluble cytosolic proteins are recruited by the chaperone HSC70/HSP8A and directly translocated into the lysosome through pores made of LAMP2A multimers .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Substrate translocation into the lysosome requires a second HSC70 chaperone resident in the lysosomal lumen ( 25 ) ( 26 ) ( 27 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In microautophagy , cytosolic substrates are transferred to the lysosome through direct invagination of the lysosomal membrane ( in yeast ) or from the late endosomes ( in mammals and Drosophila , referred to as endosomal-microautophagy ) that eventually fuse with the lysosomes ( 28 ) ( 29 ) ( 30 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As for chaperone-mediated autophagy , endosomal-microautophagy requires the chaperone protein HSC70 for the selection of the substrates ( 28 , 30 , 31 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The major components of the autophagy machinery are the ATG (autophagy-related gene) proteins, which are required for the formation and maturation of the autophagosome (Figure 1 ). ATG proteins form specific macromolecular complexes acting at several steps of autophagosome formation and regulating different stages of the autophagy process [23] . Autophagy induction by starvation is controlled by the TOR (target of rapamycin) complex 1, which is an essential signaling pathway for the sensing of nutrient availability [32] . Lack of nutrients leads to the down-regulation of TOR activity, resulting in the activation of the ULK1/ATG1 complex. The activation of the ULK1 complex then initiates autophagy by recruiting other ATG proteins to the nascent autophagosome. Downstream ULK1 complex, the class III PtdIns3K (PI3K-III) complex, is responsible for the production of phosphatidylinositol-3-phosphate (PtdIns3P), which triggers the proper localization and membrane association of other ATG proteins [33] . Beclin1, a multivalent adaptor, is one major component of the PI3K-III complex. The expansion of the autophagosomal membrane requires two ubiquitin-like conjugation cascades: the Atg12-conjugation system and the Atg8/LC3-conjugation system. The modification of the Atg8 protein by lipidation and its anchorage in the autophagosome membrane is a hallmark of autophagy induction [34] [35] [36] . After completion and closure, the autophagosome is Cells 2018, 7, 112 3 of 24 targeted to and fuses with the lysosome, leading to the degradation of its content. Posttranslational modifications on autophagy regulators contribute to the rapid and efficient response to various stresses. If attention is focused first on phosphorylation, a growing body of evidence shows that ubiquitination also plays a crucial role in the dynamic regulation of autophagy notably by targeting substrates to autophagosome, and modifying the activity of ULK1 and PI3K-III complexes [11, 37, 38] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "The major components of the autophagy machinery are the ATG ( autophagy-related gene ) proteins ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which are required for the formation and maturation of the autophagosome ( Figure 1 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "ATG proteins form specific macromolecular complexes acting at several steps of autophagosome formation and regulating different stages of the autophagy process ( 23 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Autophagy induction by starvation is controlled by the TOR ( target of rapamycin ) complex 1 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which is an essential signaling pathway for the sensing of nutrient availability ( 32 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Lack of nutrients leads to the down-regulation of TOR activity ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "resulting in the activation of the ULK1/ATG1 complex .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The activation of the ULK1 complex then initiates autophagy by recruiting other ATG proteins to the nascent autophagosome .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Downstream ULK1 complex , the class III PtdIns3K ( PI3K-III ) complex ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "is responsible for the production of phosphatidylinositol-3-phosphate ( PtdIns3P ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which triggers the proper localization and membrane association of other ATG proteins ( 33 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Beclin1 , a multivalent adaptor ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "is one major component of the PI3K-III complex .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The expansion of the autophagosomal membrane requires two ubiquitin-like conjugation cascades : the Atg12-conjugation system and the Atg8/LC3-conjugation system .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The modification of the Atg8 protein by lipidation and its anchorage in the autophagosome membrane is a hallmark of autophagy induction ( 34 ) ( 35 ) ( 36 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "After completion and closure , the autophagosome is Cells 2018 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "7 , 112 3 of 24 targeted to and fuses with the lysosome ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "leading to the degradation of its content .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Posttranslational modifications on autophagy regulators contribute to the rapid and efficient response to various stresses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "If attention is focused first on phosphorylation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a growing body of evidence shows that ubiquitination also plays a crucial role in the dynamic regulation of autophagy notably by targeting substrates to autophagosome ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and modifying the activity of ULK1 and PI3K-III complexes ( 11 , 37 , 38 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Cells 2018, 7, x FOR PEER REVIEW 3 of 23 autophagosome is targeted to and fuses with the lysosome, leading to the degradation of its content. Posttranslational modifications on autophagy regulators contribute to the rapid and efficient response to various stresses. If attention is focused first on phosphorylation, a growing body of evidence shows that ubiquitination also plays a crucial role in the dynamic regulation of autophagy notably by targeting substrates to autophagosome, and modifying the activity of ULK1 and PI3K-III complexes [11, 37, 38] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Cells 2018 , 7 , x FOR PEER REVIEW 3 of 23 autophagosome is targeted to and fuses with the lysosome ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "leading to the degradation of its content .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Posttranslational modifications on autophagy regulators contribute to the rapid and efficient response to various stresses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "If attention is focused first on phosphorylation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a growing body of evidence shows that ubiquitination also plays a crucial role in the dynamic regulation of autophagy notably by targeting substrates to autophagosome ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and modifying the activity of ULK1 and PI3K-III complexes ( 11 , 37 , 38 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "8",
+    "sentence_num": "43",
+    "segment_num": "65",
+    "token_num": "1114"
+  }
+}

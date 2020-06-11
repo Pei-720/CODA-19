@@ -1,0 +1,133 @@
+{
+  "paper_id": "e9895961fa3aee4ebcaa947a2111ec9e64cbbfbf",
+  "metadata": {
+    "title": "Improved deep learning model for differentiating novel coronavirus pneumonia and influenza pneumonia Running title: Deep learning model for differentiating NCP and IP",
+    "coda_data_split": "train",
+    "coda_paper_id": 5104,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Chest CT had high sensitivity in diagnosing novel coronavirus pneumonia (NCP) at early stage, giving it an advantage over nucleic acid detection in time of crisis. Deep learning was reported to discover intricate structures from clinical images and achieve expert-level performance in medical image analysis. To develop and validate an integrated deep learning framework on chest CT images for autodetection of NCP, particularly focusing on differentiating NCP from influenza pneumonia (IP).",
+      "sentences": [
+        [
+          {
+            "segment_text": "Chest CT had high sensitivity in diagnosing novel coronavirus pneumonia ( NCP ) at early stage ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "giving it an advantage over nucleic acid detection in time of crisis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Deep learning was reported to discover intricate structures from clinical images and achieve expert-level performance in medical image analysis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To develop and validate an integrated deep learning framework on chest CT images for autodetection of NCP ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "particularly focusing on differentiating NCP from influenza pneumonia ( IP ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": ": 35 confirmed NCP cases were consecutively enrolled as training set from 1138 suspected patients in three NCP designated hospitals together with 361 confirmed viral pneumonia patients from center one including 156 IP patients, from May, 2015 to February, 2020. The external validation set enrolled 57 NCP patients and 50 IP patients from eight centers.",
+      "sentences": [
+        [
+          {
+            "segment_text": ": 35 confirmed NCP cases were consecutively enrolled as training set from 1138 suspected patients in three NCP designated hospitals together with 361 confirmed viral pneumonia patients from center one including 156 IP patients ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "from May , 2015 to February , 2020 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The external validation set enrolled 57 NCP patients and 50 IP patients from eight centers .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results: 96.6% of NCP lesions were larger than 1 cm and 76.8% were with intensity below -500 Hu, indicating less consolidation than IP lesions which had nodules ranging 5-10 mm. The classification schemes accurately distinguished NCP and IP lesions with area under the receiver operating characteristic curve (AUC) above 0.93.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results : 96.6 % of NCP lesions were larger than 1 cm and 76.8 % were with intensity below -500 Hu ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "indicating less consolidation than IP lesions which had nodules ranging 5-10 mm .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The classification schemes accurately distinguished NCP and IP lesions with area under the receiver operating characteristic curve ( AUC ) above 0.93 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The Trinary scheme was more device-independent and consistent with specialists than the Plain scheme, which achieved a F1 score of 0.847, higher than the Plain scheme (0.774), specialists (0.785) and residents (0.644).",
+      "sentences": [
+        [
+          {
+            "segment_text": "The Trinary scheme was more device-independent and consistent with specialists than the Plain scheme ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which achieved a F1 score of 0.847 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "higher than the Plain scheme ( 0.774 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "specialists ( 0.785 ) and residents ( 0.644 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Our study potentially provides an accurate early diagnosis tool on chest CT for NCP with high transferability, and shows high efficiency in differentiating NCP and IP, helping to reduce misdiagnosis and contain the pandemic transmission.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Our study potentially provides an accurate early diagnosis tool on chest CT for NCP with high transferability ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and shows high efficiency in differentiating NCP and IP ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "helping to reduce misdiagnosis and contain the pandemic transmission .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "9",
+    "segment_num": "18",
+    "token_num": "278"
+  }
+}

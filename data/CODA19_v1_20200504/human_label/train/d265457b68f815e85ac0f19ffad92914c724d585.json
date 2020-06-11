@@ -1,0 +1,87 @@
+{
+  "paper_id": "d265457b68f815e85ac0f19ffad92914c724d585",
+  "metadata": {
+    "title": "Segmentation with Area Constraints",
+    "coda_data_split": "train",
+    "coda_paper_id": 2992,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Image segmentation approaches typically incorporate weak regularity conditions such as boundary length or curvature terms, or use shape information. High-level information such as a desired area or volume, or a particular topology are only implicitly specified. In this paper we develop a segmentation method with explicit bounds on the segmented area. Area constraints allow for the soft selection of meaningful solutions, and can counteract the shrinking bias of length-based regularization. We analyze the intrinsic problems of convex relaxations proposed in the literature for segmentation with size constraints. Hence, we formulate the area-constrained segmentation task as a mixed integer program, propose a branch and bound method for exact minimization, and use convex relaxations to obtain the required lower energy bounds on candidate solutions. We also provide a numerical scheme to solve the convex subproblems. We demonstrate the method for segmentations of vesicles from electron tomography images.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Image segmentation approaches typically incorporate weak regularity conditions such as boundary length or curvature terms , or use shape information .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "High-level information such as a desired area or volume ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "or a particular topology are only implicitly specified .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this paper we develop a segmentation method with explicit bounds on the segmented area .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Area constraints allow for the soft selection of meaningful solutions ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and can counteract the shrinking bias of length-based regularization .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We analyze the intrinsic problems of convex relaxations proposed in the literature for segmentation with size constraints .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hence , we formulate the area-constrained segmentation task as a mixed integer program ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "propose a branch and bound method for exact minimization ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and use convex relaxations to obtain the required lower energy bounds on candidate solutions .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also provide a numerical scheme to solve the convex subproblems .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We demonstrate the method for segmentations of vesicles from electron tomography images .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "12",
+    "token_num": "159"
+  }
+}

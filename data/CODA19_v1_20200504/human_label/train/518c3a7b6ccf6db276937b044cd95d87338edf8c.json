@@ -1,0 +1,47 @@
+{
+  "paper_id": "518c3a7b6ccf6db276937b044cd95d87338edf8c",
+  "metadata": {
+    "title": "RLadyBug-An R package for stochastic epidemic models",
+    "coda_data_split": "train",
+    "coda_paper_id": 7834,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "RLadyBug is an S4 package for the simulation, visualization and estimation of stochastic epidemic models in R. Maximum likelihood and Bayesian inference can be performed to estimate the parameters in a susceptible-exposed-infectious-recovered (SEIR) model, which is a stochastic model for describing a single outbreak of an infectious disease. The package is thus one step towards statistical software supporting parameter estimation, calculation of confidence intervals and hypothesis testing for transmission models.",
+      "sentences": [
+        [
+          {
+            "segment_text": "RLadyBug is an S4 package for the simulation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "visualization and estimation of stochastic epidemic models in R. Maximum likelihood and Bayesian inference can be performed to estimate the parameters in a susceptible-exposed-infectious-recovered ( SEIR ) model ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which is a stochastic model for describing a single outbreak of an infectious disease .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The package is thus one step towards statistical software supporting parameter estimation ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "calculation of confidence intervals and hypothesis testing for transmission models .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "2",
+    "segment_num": "5",
+    "token_num": "77"
+  }
+}

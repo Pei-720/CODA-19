@@ -1,0 +1,67 @@
+{
+  "paper_id": "aeb2fd035cedb1adb0f4498c351310f5f2fea5a8",
+  "metadata": {
+    "title": "Open and Closed Structures Reveal Allostery and Pliability in the HIV-1 Envelope Spike",
+    "coda_data_split": "train",
+    "coda_paper_id": 7255,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "For many enveloped viruses, binding to a receptor(s) on a host cell acts as a first step in a series of events culminating in fusion with the host cell membrane and transfer of genetic material for replication [for review see 1,2 ]. The envelope glycoprotein (Env) trimer on the surface of HIV is responsible for receptor binding and fusion. While Env can tolerate a high degree of mutation in five variable regions (V1-V5), and also at N-linked glycosylation sites that contribute roughly half the mass of Env, the functional sites for recognition of receptor CD4 and co-receptor CXCR4/ CCR5 are conserved and essential for viral fitness. Soluble SOSIP Env trimers are structural and Users may view, print, copy, and download text and data-mine the content in such documents, for the purposes of academic research, subject always to the full Conditions of use: http://www.nature.",
+      "sentences": [
+        [
+          {
+            "segment_text": "For many enveloped viruses , binding to a receptor ( s ) on a host cell acts as a first step in a series of events culminating in fusion with the host cell membrane and transfer of genetic material for replication ( for review see 1,2 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The envelope glycoprotein ( Env ) trimer on the surface of HIV is responsible for receptor binding and fusion .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "While Env can tolerate a high degree of mutation in five variable regions ( V1-V5 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and also at N-linked glycosylation sites that contribute roughly half the mass of Env ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the functional sites for recognition of receptor CD4 and co-receptor CXCR4 / CCR5 are conserved and essential for viral fitness .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Soluble SOSIP Env trimers are structural and Users may view ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "print , copy , and download text and data-mine the content in such documents ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "for the purposes of academic research ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "subject always to the full Conditions of use : http://www.nature .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "4",
+    "segment_num": "9",
+    "token_num": "165"
+  }
+}

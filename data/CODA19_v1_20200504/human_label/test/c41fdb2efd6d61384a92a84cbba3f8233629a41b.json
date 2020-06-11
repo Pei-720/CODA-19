@@ -1,0 +1,350 @@
+{
+  "paper_id": "c41fdb2efd6d61384a92a84cbba3f8233629a41b",
+  "metadata": {
+    "title": "The infant airway microbiome in health and disease impacts later asthma development",
+    "coda_data_split": "test",
+    "coda_paper_id": 864,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The nasopharynx (NP) is a reservoir for microbes associated with acute respiratory illnesses (ARI). The development of asthma is initiated during infancy, driven by airway inflammation associated with infections. Here, we report viral and bacterial community profiling of NP aspirates across a birth cohort, capturing all lower respiratory illnesses during their first year. Most infants were initially colonized with Staphylococcus or Corynebacterium before stable colonization with Alloiococcus or Moraxella, with transient incursions of Streptococcus, Moraxella or Haemophilus marking virus-associated ARIs. Our data identify the NP microbiome as a determinant for infection spread to the lower airways, severity of accompanying inflammatory symptoms, and risk for future asthma development. Early asymptomatic colonization with Streptococcus was a strong asthma predictor, and antibiotic usage disrupted asymptomatic colonization patterns. doi: bioRxiv preprint (154/782) of recorded episodes of upper respiratory illness (URI). The characteristics of the infants are summarized in Table S1 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "The nasopharynx ( NP ) is a reservoir for microbes associated with acute respiratory illnesses ( ARI ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The development of asthma is initiated during infancy ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "driven by airway inflammation associated with infections .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we report viral and bacterial community profiling of NP aspirates across a birth cohort ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "capturing all lower respiratory illnesses during their first year .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Most infants were initially colonized with Staphylococcus or Corynebacterium before stable colonization with Alloiococcus or Moraxella ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with transient incursions of Streptococcus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Moraxella or Haemophilus marking virus-associated ARIs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our data identify the NP microbiome as a determinant for infection spread to the lower airways ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "severity of accompanying inflammatory symptoms ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and risk for future asthma development .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Early asymptomatic colonization with Streptococcus was a strong asthma predictor ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and antibiotic usage disrupted asymptomatic colonization patterns .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "doi : bioRxiv preprint ( 154/782 ) of recorded episodes of upper respiratory illness ( URI ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The characteristics of the infants are summarized in Table S1 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Across all NP samples, more than 193 million high quality 16S rRNA sequences were classified into 14,131 operational taxonomic units (OTUs), of which 1,010 were supported by \u003e1,000 reads each. The dominant phyla were Proteobacteria (48%), Firmicutes (38%), Actinobacteria (13%), Bacteroidetes (1%) and Fusobacteria (0.5%) (Fig. 1A) . The NP microbiomes were dominated by six genera -Moraxella (31.2%), Streptococcus (15.5%), Corynebacterium (13.5%), Staphylococcus (10.3%), Haemophilus (9.7%) and Alloiococcus (8.8%; grouped under genus Dolosigranulum in some databases) (Error! Reference source not found.A). Despite the inclusion of diverse OTUs of these genera in the Greengenes reference database (138 Moraxella; 2,361 Streptococcus; 1,592 Corynebacterium; 1,936 Staphylococcus; 684 Haemophilus; 82 Alloiococcus), our sequences were dominated by one OTU per genus ( Fig. S1-6) , consistent with culture-based studies reporting NP colonization with the species Moraxella catarrhalis, Streptococcus pneumoniae, Staphylococcus aureus, Haemophilus influenzae and Alloiococcus otitidis. Hierarchical clustering of NP microbiomes based on relative abundance of the six major genera identified six microbiome profile groups (MPGs, Fig. 1B) . Each MPG was dominated by one of the six genera, although some samples in the Alloiococcus MPG also had relatively high abundance of Corynebacterium (Fig. 1B) . The distribution of other rarer OTUs, including those of Neisseria, Pseudomonas, Veillonella, Gemella, Rothia and Prevotella, is shown in Fig. S7 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Across all NP samples , more than 193 million high quality 16S rRNA sequences were classified into 14,131 operational taxonomic units ( OTUs ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "of which 1,010 were supported by \u003e 1,000 reads each .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The dominant phyla were Proteobacteria ( 48 % ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Firmicutes ( 38 % ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Actinobacteria ( 13 % ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Bacteroidetes ( 1 % ) and Fusobacteria ( 0.5 % ) ( Fig. 1A ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The NP microbiomes were dominated by six genera - Moraxella ( 31.2 % ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Streptococcus ( 15.5 % ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Corynebacterium ( 13.5 % ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Staphylococcus ( 10.3 % ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Haemophilus ( 9.7 % ) and Alloiococcus ( 8.8 % ; grouped under genus Dolosigranulum in some databases ) ( Error !",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Reference source not found.A ) .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Despite the inclusion of diverse OTUs of these genera in the Greengenes reference database ( 138 Moraxella ; 2,361 Streptococcus ; 1,592 Corynebacterium ; 1,936 Staphylococcus ; 684 Haemophilus ; 82 Alloiococcus ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "our sequences were dominated by one OTU per genus ( Fig .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "S1-6 ) , consistent with culture-based studies reporting NP colonization with the species Moraxella catarrhalis ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Streptococcus pneumoniae , Staphylococcus aureus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Haemophilus influenzae and Alloiococcus otitidis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hierarchical clustering of NP microbiomes based on relative abundance of the six major genera identified six microbiome profile groups ( MPGs , Fig. 1B ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Each MPG was dominated by one of the six genera ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "although some samples in the Alloiococcus MPG also had relatively high abundance of Corynebacterium ( Fig. 1B ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The distribution of other rarer OTUs ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including those of Neisseria , Pseudomonas ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Veillonella , Gemella , Rothia and Prevotella , is shown in Fig .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "S7 .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Healthy NP samples collected around 2 months of age were dominated by the Staphylococcus (41%) and Corynebacterium (22%) MPGs, but the frequency of these MPGs declined with age (11% and 10%, respectively, at 12 months old) (Fig. 1C) . In contrast, the prevalence of Alloiococcus and Moraxella MPGs in healthy samples increased with age (14% and 9% at 2 months, 26% and 41% at 12 months, respectively). Analysis of MPG transitions amongst consecutive healthy NP samples from the same individuals ( Fig. S8A-B) suggested that Staphylococcus carriage was unstable or transient, particularly where an ARI had occurred in the intervening period between sampling. Alloiococcus was a stable colonizer, but less so if an ARI occurred between sampling. Where an ARI occurred in the intervening period between healthy samples, the most common transitions were to the Moraxella MPG from other MPGs, or the maintenance of stable colonization with Moraxella (Fig.  S8B) . Almost all Moraxella-colonized infants experienced subsequent ARI before the next healthy sample was taken; this is explored further below. Haemophilus was very rarely detected in healthy NP microbiomes, while Streptococcus was present in 14% of healthy samples at each of the 2, 6 and 12 month sampling times (Fig. 1C) . Similar age-related patterns were observed amongst infection samples, with a decline in Staphylococcus and Corynebacterium MPGs and increase in Moraxella, Haemophilus and Streptococcus MPGs in older children (Fig. 1D) . Interestingly, boys had significantly more Moraxella in healthy samples (OR 1.3 for log abundance; 95% CI 1.1-1.5, p\u003d0.0014, adjusted for age); no other gender effects were detected.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Healthy NP samples collected around 2 months of age were dominated by the Staphylococcus ( 41 % ) and Corynebacterium ( 22 % ) MPGs ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but the frequency of these MPGs declined with age ( 11 % and 10 % , respectively , at 12 months old ) ( Fig. 1C ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In contrast , the prevalence of Alloiococcus and Moraxella MPGs in healthy samples increased with age ( 14 % and 9 % at 2 months , 26 % and 41 % at 12 months , respectively ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Analysis of MPG transitions amongst consecutive healthy NP samples from the same individuals ( Fig .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "S8A-B ) suggested that Staphylococcus carriage was unstable or transient ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "particularly where an ARI had occurred in the intervening period between sampling .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Alloiococcus was a stable colonizer ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but less so if an ARI occurred between sampling .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Where an ARI occurred in the intervening period between healthy samples ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the most common transitions were to the Moraxella MPG from other MPGs ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "or the maintenance of stable colonization with Moraxella ( Fig .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "S8B ) .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Almost all Moraxella-colonized infants experienced subsequent ARI before the next healthy sample was taken ; this is explored further below .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Haemophilus was very rarely detected in healthy NP microbiomes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while Streptococcus was present in 14 % of healthy samples at each of the 2 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "6 and 12 month sampling times ( Fig. 1C ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Similar age-related patterns were observed amongst infection samples ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with a decline in Staphylococcus and Corynebacterium MPGs and increase in Moraxella ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Haemophilus and Streptococcus MPGs in older children ( Fig. 1D ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Interestingly , boys had significantly more Moraxella in healthy samples ( OR 1.3 for log abundance ; 95 % CI 1.1-1.5 , p \u003d 0.0014 , adjusted for age ) ; no other gender effects were detected .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We next assessed the impact of environmental factors on the relative abundance of the common NP microbiome genera. We found no significant effects of delivery mode or . CC-BY 4.0",
+      "sentences": [
+        [
+          {
+            "segment_text": "We next assessed the impact of environmental factors on the relative abundance of the common NP microbiome genera .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We found no significant effects of delivery mode or .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "CC-BY 4.0",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "32",
+    "segment_num": "62",
+    "token_num": "813"
+  }
+}

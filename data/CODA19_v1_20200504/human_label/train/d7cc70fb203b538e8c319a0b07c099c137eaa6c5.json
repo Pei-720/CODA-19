@@ -1,0 +1,259 @@
+{
+  "paper_id": "d7cc70fb203b538e8c319a0b07c099c137eaa6c5",
+  "metadata": {
+    "title": "A novel clustering method via nucleotide-based Fourier power spectrum analysis",
+    "coda_data_split": "train",
+    "coda_paper_id": 2068,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "A novel clustering method is proposed to classify genes or genomes. This method uses a natural representation of genomic data by binary indicator sequences of each nucleotide (adenine (A), cytosine (C), guanine (G), and thymine (T)). Afterwards, the discrete Fourier transform is applied to these indicator sequences to calculate spectra of the nucleotides. Mathematical moments are calculated for each of these spectra to create a multidimensional vector in a Euclidean space for each gene or genome sequence. Thus, each gene or genome sequence is realized as a geometric point in the Euclidean space. Finally, pairwise Euclidean distances between these points (i.e. genome sequences) are calculated to cluster the gene or genome sequences. This method is applied to three sets of data. The first is 34 strains of coronavirus genomic data, the second is 118 of the known strains of Human rhinovirus (HRV), and the third is 30 bacteria genomes. The distance matrices are computed based on the three sets, showing the distances from each point to the others. We used the complete linkage clustering algorithm to build phylogenetic trees to indicate how the distances among these sequence correspond to the evolutionary relationship among these sequences. This genome representation provides a powerful and efficient method to classify genomes and is much faster than the widely acknowledged multiple sequence alignment method.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A novel clustering method is proposed to classify genes or genomes .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This method uses a natural representation of genomic data by binary indicator sequences of each nucleotide ( adenine ( A ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "cytosine ( C ) , guanine ( G ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and thymine ( T ) ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Afterwards , the discrete Fourier transform is applied to these indicator sequences to calculate spectra of the nucleotides .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Mathematical moments are calculated for each of these spectra to create a multidimensional vector in a Euclidean space for each gene or genome sequence .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , each gene or genome sequence is realized as a geometric point in the Euclidean space .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , pairwise Euclidean distances between these points ( i.e. genome sequences ) are calculated to cluster the gene or genome sequences .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This method is applied to three sets of data .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The first is 34 strains of coronavirus genomic data ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the second is 118 of the known strains of Human rhinovirus ( HRV ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and the third is 30 bacteria genomes .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The distance matrices are computed based on the three sets ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "showing the distances from each point to the others .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We used the complete linkage clustering algorithm to build phylogenetic trees to indicate how the distances among these sequence correspond to the evolutionary relationship among these sequences .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This genome representation provides a powerful and efficient method to classify genomes and is much faster than the widely acknowledged multiple sequence alignment method .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "\u0026 2011 Elsevier Ltd. All rights reserved.",
+      "sentences": [
+        [
+          {
+            "segment_text": "\u0026 2011 Elsevier Ltd. .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "All rights reserved .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Recently, there has been much research regarding methods to classify genomes into correct biological groups. A prominent method in use today is the multiple sequence alignment method. However, while this method is widely recognized as an accurate means of grouping genomes, it is extremely time consuming and can take up to several days or more depending on the amount of data being examined. In this project, we seek to find an alternative method to cluster genomes that does not require vast computational power.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Recently , there has been much research regarding methods to classify genomes into correct biological groups .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A prominent method in use today is the multiple sequence alignment method .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , while this method is widely recognized as an accurate means of grouping genomes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "it is extremely time consuming and can take up to several days or more depending on the amount of data being examined .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this project , we seek to find an alternative method to cluster genomes that does not require vast computational power .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Multiple sequence alignment arranges the genomes and finds the differences and similarities in the nucleotide data. Typically, parts of the genome that are compared include DNA and RNA. This allows for accurate determination of functional, structural, or evolutionary relationships between genomes.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Multiple sequence alignment arranges the genomes and finds the differences and similarities in the nucleotide data .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Typically , parts of the genome that are compared include DNA and RNA .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This allows for accurate determination of functional ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "structural , or evolutionary relationships between genomes .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Our method is based on Fourier analysis. Fourier analysis has been used in previous research. While researching applications of Fourier analysis, we see that it has been used before to differentiate exons from introns using 3-base periodicity (Yin and Yau, 2005, Prediction of protein coding regions by the 3-base periodicity analysis of a DNA sequence, 2007). Yin and Yau (2007) showed that the discrete Fourier transform has powerful uses in extracting useful information from genomic data. This leads us to wonder if we could use the Fourier power spectrum to introduce a new method to cluster genomes rather than use multiple sequence alignment.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Our method is based on Fourier analysis .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Fourier analysis has been used in previous research .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "While researching applications of Fourier analysis ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we see that it has been used before to differentiate exons from introns using 3-base periodicity ( Yin and Yau , 2005 , Prediction of protein coding regions by the 3-base periodicity analysis of a DNA sequence , 2007 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Yin and Yau ( 2007 ) showed that the discrete Fourier transform has powerful uses in extracting useful information from genomic data .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This leads us to wonder if we could use the Fourier power spectrum to introduce a new method to cluster genomes rather than use multiple sequence alignment .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "To do this, we propose using a method involving the discrete Fourier transform and moment vectors. A quicker, but still accurate method to cluster genomes would allow people to better understand evolution of organisms as well as the relationships between various genomes because multiple sequence alignment takes too much time to be a reasonable approach for a huge data set.",
+      "sentences": [
+        [
+          {
+            "segment_text": "To do this , we propose using a method involving the discrete Fourier transform and moment vectors .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A quicker , but still accurate method to cluster genomes would allow people to better understand evolution of organisms as well as the relationships between various genomes because multiple sequence alignment takes too much time to be a reasonable approach for a huge data set .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Our research provides an efficient method to cluster genomes with much less time-consumption compared to the multiple sequence alignment method. This work can lead to discoveries in the world of biology as scientists are able to more quickly analyze the relationships between various organisms.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Our research provides an efficient method to cluster genomes with much less time-consumption compared to the multiple sequence alignment method .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This work can lead to discoveries in the world of biology as scientists are able to more quickly analyze the relationships between various organisms .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "7",
+    "sentence_num": "29",
+    "segment_num": "37",
+    "token_num": "626"
+  }
+}

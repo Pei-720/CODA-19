@@ -1,0 +1,81 @@
+{
+  "paper_id": "068f7225f65e0ce09a8ea4337416f186807ff3ee",
+  "metadata": {
+    "title": "Infection on a chip: a microscale platform for simple and sensitive cell-based virus assays",
+    "coda_data_split": "train",
+    "coda_paper_id": 2606,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The plaque assay has long served as the \"gold standard\" to measure virus infectivity and test antiviral drugs, but the assay is labor-intensive, lacks sensitivity, uses excessive reagents, and is hard to automate. Recent modification of the assay to exploit flow-enhanced virus spread with quantitative imaging has increased its sensitivity. Here we performed flow-enhanced infection assays in microscale channels, employing passive fluid pumping to inoculate cell monolayers with virus and drive infection spread. Our test of an antiviral drug (5-fluorouracil) against vesicular stomatitis virus infections of BHK cell monolayers yielded a two-fold improvement in sensitivity, relative to the standard assay based on plaque counting. The reduction in scale, simplified fluid handling, imagebased quantification, and higher assay sensitivity will enable infection measurements for highthroughput drug screening, sero-conversion testing, and patient-specific diagnosis of viral infections.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The plaque assay has long served as the `` gold standard \u0027\u0027 to measure virus infectivity and test antiviral drugs ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but the assay is labor-intensive ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "lacks sensitivity , uses excessive reagents ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and is hard to automate .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recent modification of the assay to exploit flow-enhanced virus spread with quantitative imaging has increased its sensitivity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we performed flow-enhanced infection assays in microscale channels ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "employing passive fluid pumping to inoculate cell monolayers with virus and drive infection spread .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our test of an antiviral drug ( 5-fluorouracil ) against vesicular stomatitis virus infections of BHK cell monolayers yielded a two-fold improvement in sensitivity ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "relative to the standard assay based on plaque counting .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The reduction in scale , simplified fluid handling ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "imagebased quantification , and higher assay sensitivity will enable infection measurements for highthroughput drug screening ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "sero-conversion testing , and patient-specific diagnosis of viral infections .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "12",
+    "token_num": "153"
+  }
+}

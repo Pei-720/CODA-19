@@ -1,0 +1,55 @@
+{
+  "paper_id": "e1d44dbb1c9744bff72bf4e8726d70d807405279",
+  "metadata": {
+    "title": "Modifiable Areal Unit Problem",
+    "coda_data_split": "train",
+    "coda_paper_id": 3932,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Areal/aggregated/ecological data Data gathered together into spatial units, typically rendered in choropleth maps. Ecological fallacy Mistaken assumptions and inferences about one spatial scale of analysis based on another, whether from larger to smaller scales or vice versa. Small numbers problem The statistical instability or uncertainty that results from input of a small number of observations whose variability may be subject to the influence of outliers. Spatial autocorrelation/dependence The correlation of observations made in geographical space where their characteristics are explained in part by their geographical proximity and not other explanatory factors.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Areal/aggregated/ecological data Data gathered together into spatial units ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "typically rendered in choropleth maps .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Ecological fallacy Mistaken assumptions and inferences about one spatial scale of analysis based on another ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "whether from larger to smaller scales or vice versa .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Small numbers problem The statistical instability or uncertainty that results from input of a small number of observations whose variability may be subject to the influence of outliers .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Spatial autocorrelation/dependence The correlation of observations made in geographical space where their characteristics are explained in part by their geographical proximity and not other explanatory factors .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "4",
+    "segment_num": "6",
+    "token_num": "97"
+  }
+}

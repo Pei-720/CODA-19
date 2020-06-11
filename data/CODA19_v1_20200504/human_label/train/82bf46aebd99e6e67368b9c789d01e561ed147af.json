@@ -1,0 +1,135 @@
+{
+  "paper_id": "82bf46aebd99e6e67368b9c789d01e561ed147af",
+  "metadata": {
+    "title": "High-Throughput Sequencing-Based immune Repertoire Study during infectious Disease",
+    "coda_data_split": "train",
+    "coda_paper_id": 3142,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "The selectivity of the adaptive immune response is based on the enormous diversity of T and B cell antigen-specific receptors. The immune repertoire, the collection of T and B cells with functional diversity in the circulatory system at any given time, is dynamic and reflects the essence of immune selectivity. In this article, we review the recent advances in immune repertoire study of infectious diseases, which were achieved by traditional techniques and high-throughput sequencing (HTS) techniques. HTS techniques enable the determination of complementary regions of lymphocyte receptors with unprecedented efficiency and scale. This progress in methodology enhances the understanding of immunologic changes during pathogen challenge and also provides a basis for further development of novel diagnostic markers, immunotherapies, and vaccines.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The selectivity of the adaptive immune response is based on the enormous diversity of T and B cell antigen-specific receptors .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The immune repertoire , the collection of T and B cells with functional diversity in the circulatory system at any given time ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "is dynamic and reflects the essence of immune selectivity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this article , we review the recent advances in immune repertoire study of infectious diseases ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "which were achieved by traditional techniques and high-throughput sequencing ( HTS ) techniques .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "HTS techniques enable the determination of complementary regions of lymphocyte receptors with unprecedented efficiency and scale .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This progress in methodology enhances the understanding of immunologic changes during pathogen challenge and also provides a basis for further development of novel diagnostic markers , immunotherapies , and vaccines .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "FiGURe 1 | Process of generating a diverse B cell repertoire. The structure of each heavy chain (left) originates from rearrangement of Variable (V), Diversity (D), and Joining (J) gene segments. Recombination occurs first between D and J segment, and then V segment and D-J segment. Along with the selection of gene segments, insertion and deletion of nucleotides at the junctions between segments provides initial diversity for the primary BCR repertoire. In comparison, the light chain (right) is formed only by two segments (V and J), which makes the light chain to be less diverse. After encountering cognate antigen, somatic hypermutation introduces point mutations to frame region and complementary determining region of BCRs. This process further diversifies the repertoire and generates BCRs with higher affinity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "FiGURe 1 | Process of generating a diverse B cell repertoire .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The structure of each heavy chain ( left ) originates from rearrangement of Variable ( V ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Diversity ( D ) , and Joining ( J ) gene segments .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recombination occurs first between D and J segment ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and then V segment and D-J segment .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Along with the selection of gene segments ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "insertion and deletion of nucleotides at the junctions between segments provides initial diversity for the primary BCR repertoire .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In comparison , the light chain ( right ) is formed only by two segments ( V and J ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which makes the light chain to be less diverse .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "After encountering cognate antigen , somatic hypermutation introduces point mutations to frame region and complementary determining region of BCRs .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This process further diversifies the repertoire and generates BCRs with higher affinity .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "2 Hou et al.",
+      "sentences": [
+        [
+          {
+            "segment_text": "2 Hou et al. .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "13",
+    "segment_num": "19",
+    "token_num": "289"
+  }
+}

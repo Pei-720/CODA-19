@@ -1,0 +1,130 @@
+{
+  "paper_id": "3c14c4c3a176c86833794029e787ce460c9d89dd",
+  "metadata": {
+    "title": "A comprehensive annotation and differential expression analysis of short and long non-coding RNAs in 16 bat genomes",
+    "coda_data_split": "train",
+    "coda_paper_id": 5750,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Although bats are increasingly becoming the focus of scientific studies due to their unique properties, these exceptional animals are still among the least studied mammals. Assembly quality and completeness of bat genomes vary a lot and especially non-coding RNA (ncRNA) annotations are incomplete or simply missing. Accordingly, standard bioinformatics pipelines for gene expression analysis often ignore ncRNAs such as microRNAs or long antisense RNAs. The main cause of this problem is the use of incomplete genome annotations. We present a complete screening for ncRNAs within 16 bat genomes. NcRNAs affect a remarkable variety of vital biological functions, including gene expression regulation, RNA processing, RNA interference and, as recently described, regulatory processes in viral infections. Within all investigated bat assemblies we annotated 667 ncRNA families including 162 snoRNAs and 193 miRNAs as well as rRNAs, tRNAs, several snRNAs and lncRNAs, and other structural ncRNA elements. We validated our ncRNA candidates by six RNA-Seq data sets and show significant expression patterns that have never been described before in a bat species on such a large scale. Our annotations will be usable as a resource (Electronic Supplement) for deeper studying of bat evolution, ncRNAs repertoire, gene expression and regulation, ecology, and important host-virus interactions.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Although bats are increasingly becoming the focus of scientific studies due to their unique properties ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "these exceptional animals are still among the least studied mammals .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Assembly quality and completeness of bat genomes vary a lot and especially non-coding RNA ( ncRNA ) annotations are incomplete or simply missing .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Accordingly , standard bioinformatics pipelines for gene expression analysis often ignore ncRNAs such as microRNAs or long antisense RNAs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The main cause of this problem is the use of incomplete genome annotations .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We present a complete screening for ncRNAs within 16 bat genomes .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "NcRNAs affect a remarkable variety of vital biological functions ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including gene expression regulation , RNA processing ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "RNA interference and , as recently described ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "regulatory processes in viral infections .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Within all investigated bat assemblies we annotated 667 ncRNA families including 162 snoRNAs and 193 miRNAs as well as rRNAs ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "tRNAs , several snRNAs and lncRNAs ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and other structural ncRNA elements .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We validated our ncRNA candidates by six RNA-Seq data sets and show significant expression patterns that have never been described before in a bat species on such a large scale .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our annotations will be usable as a resource ( Electronic Supplement ) for deeper studying of bat evolution ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "ncRNAs repertoire , gene expression and regulation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "ecology , and important host-virus interactions .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Supplementary information: is available at rna.uni-jena.de/supplements/bats, the Open Science Framework (doi.org/10.17605/OSF.IO/4CMDN), and GitHub (github.com/rnajena/bats_ncrna).",
+      "sentences": [
+        [
+          {
+            "segment_text": "Supplementary information : is available at rna.uni-jena .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "de/supplements/bats , the Open Science Framework ( doi.org/10.17605/OSF.IO/4CMDN ) ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "and GitHub ( github.com/rnajena/bats_ncrna ) .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "11",
+    "segment_num": "20",
+    "token_num": "252"
+  }
+}

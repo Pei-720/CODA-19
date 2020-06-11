@@ -1,0 +1,412 @@
+{
+  "paper_id": "8b61716032c98b87bbc4276d9fcec91025574467",
+  "metadata": {
+    "title": "Enhanced Autophagy Contributes to Reduced Viral Infection in Black Flying Fox Cells",
+    "coda_data_split": "train",
+    "coda_paper_id": 8578,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Bats are increasingly implicated as hosts of highly pathogenic viruses. The underlying virus-host interactions and cellular mechanisms that promote co-existence remain ill-defined, but physiological traits such as flight and longevity are proposed to drive these adaptations. Autophagy is a cellular homeostatic process that regulates ageing, metabolism, and intrinsic immune defense. We quantified basal and stimulated autophagic responses in black flying fox cells, and demonstrated that although black flying fox cells are susceptible to Australian bat lyssavirus (ABLV) infection, viral replication is dampened in these bat cells. Black flying fox cells tolerated prolonged ABLV infection with less cell death relative to comparable human cells, suggesting post-entry mechanisms interference with virus replication. An elevated basal autophagic level was observed and autophagy was induced in response to high virus doses. Pharmacological stimulation of the autophagy pathway reduced virus replication, indicating autophagy acts as an anti-viral mechanism. Enhancement of basal and virus-induced autophagy in bat cells connects related reports that long-lived species possess homeostatic processes that dampen oxidative stress and macromolecule damage. Exemplifying the potential that evolved cellular homeostatic adaptations like autophagy may secondarily act as anti-viral mechanisms, enabling bats to serve as natural hosts to an assortment of pathogenic viruses. Furthermore, our data suggest autophagy-inducing drugs may provide a novel therapeutic strategy for combating lyssavirus infection. Viruses 2019, 11, 260 2 of 18 (EBOV) [9], and MARV [3,4,10], seroconverted, but did not develop pathology and only a minority of infected bats shed low level of virus in urine (NiV) [8] or high levels of virus orally (MARV) [4].",
+      "sentences": [
+        [
+          {
+            "segment_text": "Bats are increasingly implicated as hosts of highly pathogenic viruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The underlying virus-host interactions and cellular mechanisms that promote co-existence remain ill-defined ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but physiological traits such as flight and longevity are proposed to drive these adaptations .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Autophagy is a cellular homeostatic process that regulates ageing ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "metabolism , and intrinsic immune defense .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We quantified basal and stimulated autophagic responses in black flying fox cells ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and demonstrated that although black flying fox cells are susceptible to Australian bat lyssavirus ( ABLV ) infection ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "viral replication is dampened in these bat cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Black flying fox cells tolerated prolonged ABLV infection with less cell death relative to comparable human cells ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "suggesting post-entry mechanisms interference with virus replication .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "An elevated basal autophagic level was observed and autophagy was induced in response to high virus doses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Pharmacological stimulation of the autophagy pathway reduced virus replication ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "indicating autophagy acts as an anti-viral mechanism .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Enhancement of basal and virus-induced autophagy in bat cells connects related reports that long-lived species possess homeostatic processes that dampen oxidative stress and macromolecule damage .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Exemplifying the potential that evolved cellular homeostatic adaptations like autophagy may secondarily act as anti-viral mechanisms ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "enabling bats to serve as natural hosts to an assortment of pathogenic viruses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , our data suggest autophagy-inducing drugs may provide a novel therapeutic strategy for combating lyssavirus infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Viruses 2019 , 11 , 260 2 of 18 ( EBOV ) ( 9 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and MARV ( 3,4,10 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "seroconverted , but did not develop pathology and only a minority of infected bats shed low level of virus in urine ( NiV ) ( 8 ) or high levels of virus orally ( MARV ) ( 4 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "This combination of host-viral richness and apparent lack of clinical disease presentation after NiV, HeV, EBOV, or MARV infection raises the question how novel intrinsic traits or host adaptations might promote tolerance of virus infection in bats [11, 12] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "This combination of host-viral richness and apparent lack of clinical disease presentation after NiV ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "HeV , EBOV , or MARV infection raises the question how novel intrinsic traits or host adaptations might promote tolerance of virus infection in bats ( 11 , 12 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "As bats are the only volant mammals, flight has been proposed to contribute to the ability of bats to function as natural reservoirs [11] [12] [13] . The aerobic demands of flight experienced by bats is higher than the aerobic demands of other terrestrial mammals experienced during aerobic exertion [14] . Positive selection of genes involved in DNA-damage repair pathways [11] and reduced free-radical production [15] in bats suggest an evolved response to the deleterious effects of an increased generation of reactive oxygen species (ROS) from the high aerobic demands of flight. Cellular ageing occurs through a progressive accumulation of damaged organelles, misfolded and aggregated proteins, and dysregulation of cellular homeostatic processes [16, 17] . ROS can cause oxidative damage to macromolecules and DNA [18] , and ultimately contribute to cellular ageing. However, bats have a greater longevity [19] than what is typically projected in relation to their body size [20, 21] , and resistance to oxidative stress has been observed in long-lived bat species [22, 23] . Furthermore, the loss of DNA sensors in the PYHIN family [24] and decreased activity of stimulator of interferon genes (STING) [12] , may contribute to dampened inflammatory responses to the release of cytosolic DNA due to metabolic-related DNA damage or microbial infection [25] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "As bats are the only volant mammals ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "flight has been proposed to contribute to the ability of bats to function as natural reservoirs ( 11 ) ( 12 ) ( 13 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The aerobic demands of flight experienced by bats is higher than the aerobic demands of other terrestrial mammals experienced during aerobic exertion ( 14 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Positive selection of genes involved in DNA-damage repair pathways ( 11 ) and reduced free-radical production ( 15 ) in bats suggest an evolved response to the deleterious effects of an increased generation of reactive oxygen species ( ROS ) from the high aerobic demands of flight .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Cellular ageing occurs through a progressive accumulation of damaged organelles ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "misfolded and aggregated proteins , and dysregulation of cellular homeostatic processes ( 16 , 17 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "ROS can cause oxidative damage to macromolecules and DNA ( 18 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and ultimately contribute to cellular ageing .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , bats have a greater longevity ( 19 ) than what is typically projected in relation to their body size ( 20 , 21 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and resistance to oxidative stress has been observed in long-lived bat species ( 22 , 23 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , the loss of DNA sensors in the PYHIN family ( 24 ) and decreased activity of stimulator of interferon genes ( STING ) ( 12 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "may contribute to dampened inflammatory responses to the release of cytosolic DNA due to metabolic-related DNA damage or microbial infection ( 25 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In addition, enhanced protein homeostatic mechanisms, such as macroautophagy (hereafter referred to as autophagy), were observed in bat cells [26] . At the crossroads of DNA-damage, oxidative stress, and microbial infection [27, 28] , autophagy, is a proteostatic process involved in cellular homeostasis, longevity, and survival [29, 30] . Canonically regarded as a response to starvation, the autophagy pathway recycles long-lived proteins, misfolded proteins, and damaged organelles during times of nutrient depletion. However, there are also multiple examples of selective autophagic pathways that utilize specific protein receptors to traffic ubiquitinated target organelles and proteins into cytoplasmic double-membraned vesicles, termed autophagosomes [31] . In addition to cellular stressors such as DNA damage and ROS, pathogen-recognition receptors can activate distinct autophagic processes as part of an intrinsic immune response [32] [33] [34] . For example, \"xenophagy\" shuttles intracellular microbes to autolysosomes for lysis, whereas \"aggrephagy\" removes toxic protein aggregates [35, 36] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "In addition , enhanced protein homeostatic mechanisms ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as macroautophagy ( hereafter referred to as autophagy ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "were observed in bat cells ( 26 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "At the crossroads of DNA-damage ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "oxidative stress , and microbial infection ( 27 , 28 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "autophagy , is a proteostatic process involved in cellular homeostasis ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "longevity , and survival ( 29 , 30 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Canonically regarded as a response to starvation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the autophagy pathway recycles long-lived proteins ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "misfolded proteins , and damaged organelles during times of nutrient depletion .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , there are also multiple examples of selective autophagic pathways that utilize specific protein receptors to traffic ubiquitinated target organelles and proteins into cytoplasmic double-membraned vesicles ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "termed autophagosomes ( 31 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition to cellular stressors such as DNA damage and ROS ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "pathogen-recognition receptors can activate distinct autophagic processes as part of an intrinsic immune response ( 32 ) ( 33 ) ( 34 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "For example , `` xenophagy \u0027\u0027 shuttles intracellular microbes to autolysosomes for lysis ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "whereas `` aggrephagy \u0027\u0027 removes toxic protein aggregates ( 35 , 36 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Aerobic demands, ROS, nutritional starvation, or virus infections are all physical stressors that challenge cellular homeostasis [37] . Virus exploitation of host cell transcriptional and translational machinery ensures successful replication, but can trigger the unfolded protein response [38] , and dysregulation of cellular homeostatic mechanisms [39] . Therefore, if bats have evolved mechanisms to dampen cellular damage caused by the by-products of heightened aerobic respiration through improved proteostatic mechanisms, then these same proteostatic mechanisms might also function as anti-viral defenses.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Aerobic demands , ROS , nutritional starvation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "or virus infections are all physical stressors that challenge cellular homeostasis ( 37 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Virus exploitation of host cell transcriptional and translational machinery ensures successful replication ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but can trigger the unfolded protein response ( 38 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and dysregulation of cellular homeostatic mechanisms ( 39 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , if bats have evolved mechanisms to dampen cellular damage caused by the by-products of heightened aerobic respiration through improved proteostatic mechanisms ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "then these same proteostatic mechanisms might also function as anti-viral defenses .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We undertook a comparative study to examine host-pathogen interactions in bat versus human cells, focusing on the potential anti-viral or pro-survival mechanism of autophagy. For this study we chose to utilize Australian bat lyssavirus (ABLV), a neurotropic rabies-related virus that naturally infects black flying foxes (Pteropus alecto) [40, 41] , but is classified as a biosafety level 2 (BSL-2) pathogen. Pteropus species are also the natural reservoirs of several zoonotic viruses including HeV, NiV [2], and Menangle virus [42, 43] . Cell lines have been established from the black flying fox [44] , which with the publication of its reference genome [11] , has been promoted as a model bat species. Black flying fox cell lines have been used to investigate the interferon response [45] [46] [47] [48] [49] [50] , as well as transcriptomic and proteomic responses after HeV infection [51] . We rescued a modified recombinant ABLV expressing a green fluorescent protein (rABLV-GFP) and used both rABLV-GFP and a wild-type ABLV (wt-ABLV) to examine the role of autophagy after virus infection. In black flying fox cells, the basal level of autophagy was significantly higher than the levels of autophagy quantified in the human cell line used for comparative purposes. We observed that ABLV infection activated the autophagy pathway",
+      "sentences": [
+        [
+          {
+            "segment_text": "We undertook a comparative study to examine host-pathogen interactions in bat versus human cells ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "focusing on the potential anti-viral or pro-survival mechanism of autophagy .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "For this study we chose to utilize Australian bat lyssavirus ( ABLV ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "a neurotropic rabies-related virus that naturally infects black flying foxes ( Pteropus alecto ) ( 40 , 41 ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "but is classified as a biosafety level 2 ( BSL-2 ) pathogen .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Pteropus species are also the natural reservoirs of several zoonotic viruses including HeV ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "NiV ( 2 ) , and Menangle virus ( 42 , 43 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Cell lines have been established from the black flying fox ( 44 ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which with the publication of its reference genome ( 11 ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "has been promoted as a model bat species .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Black flying fox cell lines have been used to investigate the interferon response ( 45 ) ( 46 ) ( 47 ) ( 48 ) ( 49 ) ( 50 ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "as well as transcriptomic and proteomic responses after HeV infection ( 51 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We rescued a modified recombinant ABLV expressing a green fluorescent protein ( rABLV-GFP ) and used both rABLV-GFP and a wild-type ABLV ( wt-ABLV ) to examine the role of autophagy after virus infection .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In black flying fox cells ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the basal level of autophagy was significantly higher than the levels of autophagy quantified in the human cell line used for comparative purposes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We observed that ABLV infection activated the autophagy pathway",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "6",
+    "sentence_num": "36",
+    "segment_num": "73",
+    "token_num": "1137"
+  }
+}

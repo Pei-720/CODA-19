@@ -1,0 +1,256 @@
+{
+  "paper_id": "a2653477ea4b1457ef27327c2fd539dad44185a9",
+  "metadata": {
+    "title": "A rate equation approach to model the denaturation or replication behavior of the SARS coronavirus",
+    "coda_data_split": "train",
+    "coda_paper_id": 3873,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "As a newly emerging virus, little is known about the SARS coronavirus, whose outbreak has brought away several hundred people\u0027s lives over the world in the year of 2003 and is seriously imperiling the human health. Revealing the denaturation and replication mechanisms of SARS coronavirus has great importance for successfully fighting SARS. However, experiments related to SARS coronavirus are extremely dangerous and therefore restricted only to certain specific labs with high safety standard. Clearly, predicting the behaviors of SARS coronavirus in a wide variety of environmental conditions, which are not easily accessible, are thus critically necessary. In this study, we proposed to quantify the survival time of SARS coronavirus either in vitro or in vivo, through introducing thermal rate process models established from the well-known Arrhenius law. The complex physical and chemical behaviors of the SARS coronavirus can then be attributed to its activation energy, frequency factor, damage function as well as the surrounding environmental conditions. Based on the first data on stability and resistance of SARS coronavirus measured by members of WHO laboratory network, the rate coefficients involved in the above equations were estimated for the first time. Predictions on the survival time of SARS coronavirus in different temperature scale were then performed. It was found theoretically that, such survival time falls in an extremely wide range, say from several seconds in high temperature to an almost infinitely long time in a low temperature environment, which has already or is being supported by the currently available tests data. Applications of the present theory to interpret several existing phenomena were presented and their implementations in developing new technical ways for SARS prevention and clinical therapy were discussed. Uncertainties involved in the theoretical models were also analyzed and predicted. Parametric studies were performed to test the effects of the rate coefficients to the survival time of SARS coronavirus. Some important factors, which can significantly vary the denaturation or replication process of SARS coronavirus were pointed out. Through regulating the parameters involved in the equation, certain potential therapies either through drug delivery or engineering approach to treat the SARS disease can possibly be established. Extension of the present model for further studies was also suggested. This study opens a new theoretical way for probing into the complex behaviors of SARS coronavirus.",
+      "sentences": [
+        [
+          {
+            "segment_text": "As a newly emerging virus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "little is known about the SARS coronavirus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "whose outbreak has brought away several hundred people \u0027s lives over the world in the year of 2003 and is seriously imperiling the human health .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Revealing the denaturation and replication mechanisms of SARS coronavirus has great importance for successfully fighting SARS .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , experiments related to SARS coronavirus are extremely dangerous and therefore restricted only to certain specific labs with high safety standard .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Clearly , predicting the behaviors of SARS coronavirus in a wide variety of environmental conditions ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which are not easily accessible , are thus critically necessary .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we proposed to quantify the survival time of SARS coronavirus either in vitro or in vivo ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "through introducing thermal rate process models established from the well-known Arrhenius law .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The complex physical and chemical behaviors of the SARS coronavirus can then be attributed to its activation energy ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "frequency factor , damage function as well as the surrounding environmental conditions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Based on the first data on stability and resistance of SARS coronavirus measured by members of WHO laboratory network ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the rate coefficients involved in the above equations were estimated for the first time .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Predictions on the survival time of SARS coronavirus in different temperature scale were then performed .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "It was found theoretically that ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "such survival time falls in an extremely wide range ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "say from several seconds in high temperature to an almost infinitely long time in a low temperature environment ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which has already or is being supported by the currently available tests data .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Applications of the present theory to interpret several existing phenomena were presented and their implementations in developing new technical ways for SARS prevention and clinical therapy were discussed .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Uncertainties involved in the theoretical models were also analyzed and predicted .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Parametric studies were performed to test the effects of the rate coefficients to the survival time of SARS coronavirus .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Some important factors , which can significantly vary the denaturation or replication process of SARS coronavirus were pointed out .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Through regulating the parameters involved in the equation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "certain potential therapies either through drug delivery or engineering approach to treat the SARS disease can possibly be established .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Extension of the present model for further studies was also suggested .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study opens a new theoretical way for probing into the complex behaviors of SARS coronavirus .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Zusammenfassung Der Kenntnisstand über die Eigenschaften des in 2003 neu aufgetretenen SARS Korona Virus, der einige Hundert Menschenleben gekostet hat, ist relativ gering. Die Ermittlung des Denaturierungs-und Replizierungsmechanismuses des SARS Virus ist für seine Bekämpfung von hoher Bedeutung. Experimentelle Untersuchungen an diesem extrem gefährlichen Virus dürfen nur durch Laboratorien mit einem hohen Sicherheitsstandard erfolgen. Die Vorhersage des Verhaltens des SARS Virus in unterschiedlichen Umgebungsbedingungen ist dabei erforderlich. In der vorliegenden Studie wird die Ü berlebensdauer des Virus unter Labor-und realen Bedingungen durch Anwendung der bekannten Arrhenius-Beziehung für temperaturabhängige Vorgänge ermittelt. Das physikalische und chemische Verhalten des SARS Virus wird anhand der zugrundeliegenden Modell-Parameter beschrieben. Basierend auf den ersten Messungen von Mitgliedern des WHO-laboratory-network über die Stabilität und Widerstandsfähigkeit des Virus wurden erstmalig die Geschwindigkeitskoeffizienten des Berechnungsmodells bestimmt. Vorhersagen der Ü berlebensdauer des SARS-Virus unter unterschiedlichen Temperaturbedingungen wurden ausgeführt. Das sich hieraus ergebende, sehr unterschiedliche Ausmaß der Ü berlebensfähigkeit in Abhängigkeit der Umgebungstemperatur ist durch den Vergleich mit verfügbaren experimentellen Ergebnissen bestätigt worden. Die Anwendung der vorgestellten Modellierung zur Interpretation realer Phänomene und zur Entwicklung technischer Maßnahmen zur Vorbeugung und klinischen Therapierung von SARS wird diskutiert. Der Einfluß von Unsicherheiten des Modells wird analysiert und abgeschätzt. Parametrische Studien sind durchgeführt worden, um den Einfluß der Geschwindigkeitskoeffizienten auf die Ü berlebensdauer des SARS Virus darzustellen. Einige wichtige Einflußgrößen auf die Denaturierung und Replikationsfähigkeit des SARS Virus werden aufgezeigt. Durch eine Variation der Modellparameter kann die potentielle Wirksamkeit medika-",
+      "sentences": [
+        [
+          {
+            "segment_text": "Zusammenfassung Der Kenntnisstand über die Eigenschaften des in 2003 neu aufgetretenen SARS Korona Virus ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "der einige Hundert Menschenleben gekostet hat , ist relativ gering .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Die Ermittlung des Denaturierungs-und Replizierungsmechanismuses des SARS Virus ist für seine Bekämpfung von hoher Bedeutung .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Experimentelle Untersuchungen an diesem extrem gefährlichen Virus dürfen nur durch Laboratorien mit einem hohen Sicherheitsstandard erfolgen .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Die Vorhersage des Verhaltens des SARS Virus in unterschiedlichen Umgebungsbedingungen ist dabei erforderlich .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "In der vorliegenden Studie wird die Ü berlebensdauer des Virus unter Labor-und realen Bedingungen durch Anwendung der bekannten Arrhenius-Beziehung für temperaturabhängige Vorgänge ermittelt .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Das physikalische und chemische Verhalten des SARS Virus wird anhand der zugrundeliegenden Modell-Parameter beschrieben .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Basierend auf den ersten Messungen von Mitgliedern des WHO-laboratory-network über die Stabilität und Widerstandsfähigkeit des Virus wurden erstmalig die Geschwindigkeitskoeffizienten des Berechnungsmodells bestimmt .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Vorhersagen der Ü berlebensdauer des SARS-Virus unter unterschiedlichen Temperaturbedingungen wurden ausgeführt .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Das sich hieraus ergebende , sehr unterschiedliche Ausmaß der Ü berlebensfähigkeit in Abhängigkeit der Umgebungstemperatur ist durch den Vergleich mit verfügbaren experimentellen Ergebnissen bestätigt worden .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Die Anwendung der vorgestellten Modellierung zur Interpretation realer Phänomene und zur Entwicklung technischer Maßnahmen zur Vorbeugung und klinischen Therapierung von SARS wird diskutiert .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Der Einfluß von Unsicherheiten des Modells wird analysiert und abgeschätzt .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Parametrische Studien sind durchgeführt worden ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "um den Einfluß der Geschwindigkeitskoeffizienten auf die Ü berlebensdauer des SARS Virus darzustellen .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Einige wichtige Einflußgrößen auf die Denaturierung und Replikationsfähigkeit des SARS Virus werden aufgezeigt .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Durch eine Variation der Modellparameter kann die potentielle Wirksamkeit medika -",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "30",
+    "segment_num": "42",
+    "token_num": "666"
+  }
+}

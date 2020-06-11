@@ -1,0 +1,87 @@
+{
+  "paper_id": "47266ea82145a11ad6e82db70a4d0fbd86a27cb2",
+  "metadata": {
+    "title": "SNAD: sequence name annotation-based designer",
+    "coda_data_split": "train",
+    "coda_paper_id": 6514,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: A growing diversity of biological data is tagged with unique identifiers (UIDs) associated with polynucleotides and proteins to ensure efficient computer-mediated data storage, maintenance, and processing. These identifiers, which are not informative for most people, are often substituted by biologically meaningful names in various presentations to facilitate utilization and dissemination of sequence-based knowledge. This substitution is commonly done manually that may be a tedious exercise prone to mistakes and omissions.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : A growing diversity of biological data is tagged with unique identifiers ( UIDs ) associated with polynucleotides and proteins to ensure efficient computer-mediated data storage , maintenance , and processing .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These identifiers , which are not informative for most people ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "are often substituted by biologically meaningful names in various presentations to facilitate utilization and dissemination of sequence-based knowledge .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This substitution is commonly done manually that may be a tedious exercise prone to mistakes and omissions .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Here we introduce SNAD (Sequence Name Annotation-based Designer) that mediates automatic conversion of sequence UIDs (associated with multiple alignment or phylogenetic tree, or supplied as plain text list) into biologically meaningful names and acronyms. This conversion is directed by precompiled or user-defined templates that exploit wealth of annotation available in cognate entries of external databases. Using examples, we demonstrate how this tool can be used to generate names for practical purposes, particularly in virology.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Here we introduce SNAD ( Sequence Name Annotation-based Designer ) that mediates automatic conversion of sequence UIDs ( associated with multiple alignment or phylogenetic tree , or supplied as plain text list ) into biologically meaningful names and acronyms .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This conversion is directed by precompiled or user-defined templates that exploit wealth of annotation available in cognate entries of external databases .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using examples , we demonstrate how this tool can be used to generate names for practical purposes , particularly in virology .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "A tool for controllable annotation-based conversion of sequence UIDs into biologically meaningful names and acronyms has been developed and placed into service, fostering links between quality of sequence annotation, and efficiency of communication and knowledge dissemination among researchers.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A tool for controllable annotation-based conversion of sequence UIDs into biologically meaningful names and acronyms has been developed and placed into service ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "fostering links between quality of sequence annotation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and efficiency of communication and knowledge dissemination among researchers .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "7",
+    "segment_num": "10",
+    "token_num": "206"
+  }
+}

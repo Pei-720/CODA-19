@@ -1,0 +1,295 @@
+{
+  "paper_id": "adb3a6501ad731eda95d0a1a182a793a0dcd58b0",
+  "metadata": {
+    "title": "Quantifying bias of COVID-19 prevalence and severity estimates in Wuhan, China that depend on reported cases in international travelers",
+    "coda_data_split": "train",
+    "coda_paper_id": 6087,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Risk of COVID-19 infection in Wuhan has been estimated using imported case counts of international travelers, often under the assumption that all cases in travelers are ascertained. Recent work indicates variation among countries in detection capacity for imported cases. Singapore has historically had very strong epidemiological surveillance and contact-tracing capacity and has shown in the COVID-19 epidemic evidence of a high sensitivity of case detection. We therefore used a Bayesian modeling approach to estimate the relative imported case detection capacity for other countries compared to that of Singapore.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Risk of COVID-19 infection in Wuhan has been estimated using imported case counts of international travelers ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "often under the assumption that all cases in travelers are ascertained .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recent work indicates variation among countries in detection capacity for imported cases .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Singapore has historically had very strong epidemiological surveillance and contact-tracing capacity and has shown in the COVID-19 epidemic evidence of a high sensitivity of case detection .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We therefore used a Bayesian modeling approach to estimate the relative imported case detection capacity for other countries compared to that of Singapore .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We estimate that the global ability to detect imported cases is 38% (95% HPDI 22% -64%) of Singapore\u0027s capacity. Equivalently, an estimate of 2.8 (95% HPDI 1.5 -4.4) times the current number of imported cases, could have been detected, if all countries had had the same detection capacity as Singapore. Using the second component of the Global Health Security index to stratify likely case-detection capacities, we found that the ability to detect imported cases relative to Singapore among high surveillance locations is 40% (95% HPDI 22% -67%), among intermediate surveillance locations it is 37% (95% HPDI 18% -68%), and among low surveillance locations it is 11% (95% HPDI 0% -42%). Using a simple mathematical model, we further find that treating all travelers as if they were residents (rather than accounting for the brief stay of some of these travelers in Wuhan) can modestly contribute to underestimation of prevalence as well. We conclude that estimates of case counts in Wuhan based on assumptions of perfect detection in travelers . CC-BY-NC-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. : medRxiv preprint",
+      "sentences": [
+        [
+          {
+            "segment_text": "We estimate that the global ability to detect imported cases is 38 % ( 95 % HPDI 22 % -64 % ) of Singapore \u0027s capacity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Equivalently , an estimate of 2.8 ( 95 % HPDI 1.5 -4.4 ) times the current number of imported cases ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "could have been detected , if all countries had had the same detection capacity as Singapore .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using the second component of the Global Health Security index to stratify likely case-detection capacities ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we found that the ability to detect imported cases relative to Singapore among high surveillance locations is 40 % ( 95 % HPDI 22 % -67 % ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "among intermediate surveillance locations it is 37 % ( 95 % HPDI 18 % -68 % ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and among low surveillance locations it is 11 % ( 95 % HPDI 0 % -42 % ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using a simple mathematical model ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we further find that treating all travelers as if they were residents ( rather than accounting for the brief stay of some of these travelers in Wuhan ) can modestly contribute to underestimation of prevalence as well .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We conclude that estimates of case counts in Wuhan based on assumptions of perfect detection in travelers .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "CC-BY-NC-ND 4.0 International license It is made available under a is the author/funder ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "who has granted medRxiv a license to display the preprint in perpetuity .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": ": medRxiv preprint",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "term can be well approximated as We plot this approximation of V given doubling times . V ≈ 1 − e −(r+γ)d aligned with 4 , a range of durations of detectable infection and a range of lengths of stay 2 ( Figure 2 ).",
+      "sentences": [
+        [
+          {
+            "segment_text": "term can be well approximated as We plot this approximation of V given doubling times .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "V ≈ 1 − e − ( r + γ ) d aligned with 4 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "a range of durations of detectable infection and a range of lengths of stay 2 ( Figure 2 ) .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We estimate that the global ability to detect imported cases is 38% ( 95% HPDI 22% -64%) of Singapore\u0027s capacity. Equivalently, an estimate of 2.8 (95% HPDI 1.5 -4.4) times the current number of imported cases, could have been detected, if all countries had had the same detection capacity as Singapore, which leads to 1.8 (95% CI 0.5 -3.4) undetected cases per detected case. The ability to detect imported cases among high surveillance countries is 40% (95% HPDI 22% -67%), among intermediate surveillance countries it is 37% (95% HPDI 18% -68%), and among low surveillance countries it is 11% (95% HPDI 0% -42%). : medRxiv preprint 7",
+      "sentences": [
+        [
+          {
+            "segment_text": "We estimate that the global ability to detect imported cases is 38 % ( 95 % HPDI 22 % -64 % ) of Singapore \u0027s capacity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Equivalently , an estimate of 2.8 ( 95 % HPDI 1.5 -4.4 ) times the current number of imported cases ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "could have been detected , if all countries had had the same detection capacity as Singapore ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which leads to 1.8 ( 95 % CI 0.5 -3.4 ) undetected cases per detected case .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The ability to detect imported cases among high surveillance countries is 40 % ( 95 % HPDI 22 % -67 % ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "among intermediate surveillance countries it is 37 % ( 95 % HPDI 18 % -68 % ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and among low surveillance countries it is 11 % ( 95 % HPDI 0 % -42 % ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": ": medRxiv preprint 7",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In this paper, we have aimed to test two assumptions underlying the estimation of incidence at the epicentre of the SARS-Cov2 outbreak. The first of these is that the capacity for detection of international imported cases is 100% sensitive and specific across locations. While we know of no reason to doubt specificity of detection, we tested the assumption of perfect sensitivity. Based on our previous estimates 5 we assumed Singapore has the highest capacity of surveillance with respect to COVID-19. We regressed the cumulative cases against Wuhan-to-location air travel volume considering Singapore to have the greatest detection capacity and estimating the relative underdetection compared to Singapore in the remaining 190 locations classified according to the GHS 2 index 9 . While it is unlikely that this index reflects the true ranking of countries for any specific epidemic, such as the current one of COVID-19, we assume that it captures different levels of surveillance capacity. We therefore grouped the remaining locations into three big classes high, medium, and low surveillance capacity instead of using exact ranking.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this paper , we have aimed to test two assumptions underlying the estimation of incidence at the epicentre of the SARS-Cov2 outbreak .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The first of these is that the capacity for detection of international imported cases is 100 % sensitive and specific across locations .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "While we know of no reason to doubt specificity of detection ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "we tested the assumption of perfect sensitivity .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Based on our previous estimates 5 we assumed Singapore has the highest capacity of surveillance with respect to COVID-19 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We regressed the cumulative cases against Wuhan-to-location air travel volume considering Singapore to have the greatest detection capacity and estimating the relative underdetection compared to Singapore in the remaining 190 locations classified according to the GHS 2 index 9 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "While it is unlikely that this index reflects the true ranking of countries for any specific epidemic ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "such as the current one of COVID-19 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we assume that it captures different levels of surveillance capacity .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We therefore grouped the remaining locations into three big classes high ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "medium , and low surveillance capacity instead of using exact ranking .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We estimated that detection of exported cases from Wuhan worldwide is 38% (95% HPDI 22%-64%) as sensitive as it has been in Singapore. Put another way, this implies that the true number of cases in travelers is at least 2.8 (95% HPDI 1.5 -4.4) times the number that has been detected.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We estimated that detection of exported cases from Wuhan worldwide is 38 % ( 95 % HPDI 22 % -64 % ) as sensitive as it has been in Singapore .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Put another way , this implies that the true number of cases in travelers is at least 2.8 ( 95 % HPDI 1.5 -4.4 ) times the number that has been detected .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Equivalently, for each detected case there are at least 1.8 (95% CI 0.5-3.4) undetected cases. If the model is correct, this is an upper bound on the detection frequency because (1) Singapore\u0027s detection is probably not 100% efficient. Singapore had as of 12 February 2020 eight",
+      "sentences": [
+        [
+          {
+            "segment_text": "Equivalently , for each detected case there are at least 1.8 ( 95 % CI 0.5-3.4 ) undetected cases .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "If the model is correct ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "this is an upper bound on the detection frequency because ( 1 ) Singapore \u0027s detection is probably not 100 % efficient .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Singapore had as of 12 February 2020 eight",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "7",
+    "sentence_num": "29",
+    "segment_num": "46",
+    "token_num": "839"
+  }
+}

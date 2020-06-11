@@ -1,0 +1,55 @@
+{
+  "paper_id": "89860bed01edcabbb95ae9ea724e7f60feac25da",
+  "metadata": {
+    "title": "",
+    "coda_data_split": "train",
+    "coda_paper_id": 10177,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "hospital with pneumonia had evidence of recent B. pertussis infection. In these persons, whether B. pertussis is a primary or secondary pathogen or an innocent bystander is not clear. Further work is needed to clarify the precise role of B. pertussis in developing adult pneumonia, the risk factors for B. pertussis-associated pneumonia, and the value of specific B. pertussis therapy in this setting. These data will also help inform about the role of pertussis vaccination in adults.",
+      "sentences": [
+        [
+          {
+            "segment_text": "hospital with pneumonia had evidence of recent B. pertussis infection .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In these persons , whether B. pertussis is a primary or secondary pathogen or an innocent bystander is not clear .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Further work is needed to clarify the precise role of B. pertussis in developing adult pneumonia ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the risk factors for B. pertussis-associated pneumonia ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the value of specific B. pertussis therapy in this setting .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These data will also help inform about the role of pertussis vaccination in adults .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "4",
+    "segment_num": "6",
+    "token_num": "84"
+  }
+}

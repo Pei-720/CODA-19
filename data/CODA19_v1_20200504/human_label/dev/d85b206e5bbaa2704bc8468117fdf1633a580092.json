@@ -1,0 +1,59 @@
+{
+  "paper_id": "d85b206e5bbaa2704bc8468117fdf1633a580092",
+  "metadata": {
+    "title": "Chapter 18 Customized Predictions of Peptide-MHC Binding and T-Cell Epitopes Using EPIMHC",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1941,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Peptide binding to major histocompatibility complex (MHC) molecules is the most selective requisite for T-cell recognition. Therefore, prediction of peptide-MHC binding is the main basis for anticipating T-cell epitopes. A very popular and accurate method to predict peptide-MHC binding is based on motif-profi les and here we show how to make them using EPIMHC ( http://imed.med.ucm.es/epimhc/ ). EPIMHC is a database of T-cell epitopes and MHC-binding peptides that unlike any related resource provides a framework for computational vaccinology. In this chapter, we describe how to derive peptide-MHC binding motif-profi les in EPIMHC and use them to predict peptide-MHC binding and T-cell epitopes. Moreover, we show evidence that customization of peptide-MHC binding predictors can lead to enhanced epitope predictions.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Peptide binding to major histocompatibility complex ( MHC ) molecules is the most selective requisite for T-cell recognition .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , prediction of peptide-MHC binding is the main basis for anticipating T-cell epitopes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A very popular and accurate method to predict peptide-MHC binding is based on motif-profi les and here we show how to make them using EPIMHC ( http://imed.med.ucm.es/epimhc/ ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "EPIMHC is a database of T-cell epitopes and MHC-binding peptides that unlike any related resource provides a framework for computational vaccinology .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this chapter , we describe how to derive peptide-MHC binding motif-profi les in EPIMHC and use them to predict peptide-MHC binding and T-cell epitopes .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , we show evidence that customization of peptide-MHC binding predictors can lead to enhanced epitope predictions .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "6",
+    "token_num": "129"
+  }
+}

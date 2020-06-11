@@ -1,0 +1,93 @@
+{
+  "paper_id": "4fc7caae919d6b80f27561b9d034650a220affbb",
+  "metadata": {
+    "title": "Inferring population-level contact heterogeneity from common epidemic data",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1476,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Models of infectious disease spread that incorporate contact heterogeneity through contact networks are an important tool for epidemiologists studying disease dynamics and assessing intervention strategies. One of the challenges of contact network epidemiology has been the difficulty of collecting individual and population-level data needed to develop an accurate representation of the underlying host population\u0027s contact structure. In this study, we evaluate the utility of common epidemiological measures (R 0 , epidemic peak size, duration and final size) for inferring the degree of heterogeneity in a population\u0027s unobserved contact structure through a Bayesian approach. We test the method using ground truth data and find that some of these epidemiological metrics are effective at classifying contact heterogeneity. The classification is also consistent across pathogen transmission probabilities, and so can be applied even when this characteristic is unknown. In particular, the reproductive number, R 0 , turns out to be a poor classifier of the degree heterogeneity, while, unexpectedly, final epidemic size is a powerful predictor of network structure across the range of heterogeneity. We also evaluate our framework on empirical epidemiological data from past and recent outbreaks to demonstrate its application in practice and to gather insights about the relevance of particular contact structures for both specific systems and general classes of infectious disease. We thus introduce a simple approach that can shed light on the unobserved connectivity of a host population given epidemic data. Our study has the potential to inform future data-collection efforts and study design by driving our understanding of germane epidemic measures, and highlights a general inferential approach to learning about host contact structure in contemporary or historic populations of humans and animals.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Models of infectious disease spread that incorporate contact heterogeneity through contact networks are an important tool for epidemiologists studying disease dynamics and assessing intervention strategies .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "One of the challenges of contact network epidemiology has been the difficulty of collecting individual and population-level data needed to develop an accurate representation of the underlying host population \u0027s contact structure .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we evaluate the utility of common epidemiological measures ( R 0 , epidemic peak size , duration and final size ) for inferring the degree of heterogeneity in a population \u0027s unobserved contact structure through a Bayesian approach .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We test the method using ground truth data and find that some of these epidemiological metrics are effective at classifying contact heterogeneity .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The classification is also consistent across pathogen transmission probabilities ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and so can be applied even when this characteristic is unknown .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In particular , the reproductive number ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "R 0 , turns out to be a poor classifier of the degree heterogeneity ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while , unexpectedly , final epidemic size is a powerful predictor of network structure across the range of heterogeneity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also evaluate our framework on empirical epidemiological data from past and recent outbreaks to demonstrate its application in practice and to gather insights about the relevance of particular contact structures for both specific systems and general classes of infectious disease .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We thus introduce a simple approach that can shed light on the unobserved connectivity of a host population given epidemic data .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our study has the potential to inform future data-collection efforts and study design by driving our understanding of germane epidemic measures ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and highlights a general inferential approach to learning about host contact structure in contemporary or historic populations of humans and animals .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "9",
+    "segment_num": "13",
+    "token_num": "297"
+  }
+}

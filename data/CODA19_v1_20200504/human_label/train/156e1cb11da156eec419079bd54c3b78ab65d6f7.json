@@ -1,0 +1,43 @@
+{
+  "paper_id": "156e1cb11da156eec419079bd54c3b78ab65d6f7",
+  "metadata": {
+    "title": "Late Recognition of SARS in Nosocomial Outbreak, Toronto",
+    "coda_data_split": "train",
+    "coda_paper_id": 5489,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Late recognition of severe acute respiratory syndrome (SARS) was associated with no known SARS contact, hospitalization before the nosocomial outbreak was recognized, symptom onset while hospitalized, wards with SARS clusters, and postoperative status. SARS is difficult to recognize in hospitalized patients with a variety of underlying conditions in the absence of epidemiologic links.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Late recognition of severe acute respiratory syndrome ( SARS ) was associated with no known SARS contact ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "hospitalization before the nosocomial outbreak was recognized ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "symptom onset while hospitalized , wards with SARS clusters , and postoperative status .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "SARS is difficult to recognize in hospitalized patients with a variety of underlying conditions in the absence of epidemiologic links .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "2",
+    "segment_num": "4",
+    "token_num": "61"
+  }
+}

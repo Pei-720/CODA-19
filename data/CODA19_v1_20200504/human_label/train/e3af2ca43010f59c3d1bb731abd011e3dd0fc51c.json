@@ -1,0 +1,160 @@
+{
+  "paper_id": "e3af2ca43010f59c3d1bb731abd011e3dd0fc51c",
+  "metadata": {
+    "title": "BMC Infectious Diseases Date of origin of the SARS coronavirus strains",
+    "coda_data_split": "train",
+    "coda_paper_id": 2776,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "A new respiratory infectious epidemic, severe acute respiratory syndrome (SARS), broke out and spread throughout the world. By now the putative pathogen of SARS has been identified as a new coronavirus, a single positive-strand RNA virus. RNA viruses commonly have a high rate of genetic mutation. It is therefore important to know the mutation rate of the SARS coronavirus as it spreads through the population. Moreover, finding a date for the last common ancestor of SARS coronavirus strains would be useful for understanding the circumstances surrounding the emergence of the SARS pandemic and the rate at which SARS coronavirus diverge.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A new respiratory infectious epidemic ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "severe acute respiratory syndrome ( SARS ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "broke out and spread throughout the world .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "By now the putative pathogen of SARS has been identified as a new coronavirus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a single positive-strand RNA virus .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "RNA viruses commonly have a high rate of genetic mutation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is therefore important to know the mutation rate of the SARS coronavirus as it spreads through the population .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , finding a date for the last common ancestor of SARS coronavirus strains would be useful for understanding the circumstances surrounding the emergence of the SARS pandemic and the rate at which SARS coronavirus diverge .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We propose a mathematical model to estimate the evolution rate of the SARS coronavirus genome and the time of the last common ancestor of the sequenced SARS strains. Under some common assumptions and justifiable simplifications, a few simple equations incorporating the evolution rate (K) and time of the last common ancestor of the strains (T 0 ) can be deduced. We then implemented the least square method to estimate K and T 0 from the dataset of sequences and corresponding times. Monte Carlo stimulation was employed to discuss the results.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We propose a mathematical model to estimate the evolution rate of the SARS coronavirus genome and the time of the last common ancestor of the sequenced SARS strains .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Under some common assumptions and justifiable simplifications ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "a few simple equations incorporating the evolution rate ( K ) and time of the last common ancestor of the strains ( T 0 ) can be deduced .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We then implemented the least square method to estimate K and T 0 from the dataset of sequences and corresponding times .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Monte Carlo stimulation was employed to discuss the results .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results: Based on 6 strains with accurate dates of host death, we estimated the time of the last common ancestor to be about August or September 2002, and the evolution rate to be about 0.16 base/day, that is, the SARS coronavirus would on average change a base every seven days. We validated our method by dividing the strains into two groups, which coincided with the results from comparative genomics.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results : Based on 6 strains with accurate dates of host death ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we estimated the time of the last common ancestor to be about August or September 2002 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the evolution rate to be about 0.16 base/day ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "that is , the SARS coronavirus would on average change a base every seven days .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We validated our method by dividing the strains into two groups ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which coincided with the results from comparative genomics .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The applied method is simple to implement and avoid the difficulty and subjectivity of choosing the root of phylogenetic tree. Based on 6 strains with accurate date of host death, we estimated a time of the last common ancestor, which is coincident with epidemic investigations, and an evolution rate in the same range as that reported for the HIV-1 virus.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The applied method is simple to implement and avoid the difficulty and subjectivity of choosing the root of phylogenetic tree .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Based on 6 strains with accurate date of host death ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we estimated a time of the last common ancestor ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which is coincident with epidemic investigations ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and an evolution rate in the same range as that reported for the HIV-1 virus .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "13",
+    "segment_num": "24",
+    "token_num": "351"
+  }
+}

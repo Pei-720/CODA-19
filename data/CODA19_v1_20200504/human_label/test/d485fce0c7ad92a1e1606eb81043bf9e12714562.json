@@ -1,0 +1,160 @@
+{
+  "paper_id": "d485fce0c7ad92a1e1606eb81043bf9e12714562",
+  "metadata": {
+    "title": "Realized generation times: contraction and impact of infectious period, reproduction number and population size",
+    "coda_data_split": "test",
+    "coda_paper_id": 582,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "One of the key characteristics of the transmission dynamics of infectious diseases is the generation time which refers to the time interval between the infection of a secondary case and the infection of its infector. The generation time distribution together with the reproduction number determines the rate at which an infection spreads in a population. When defining the generation time distribution at a calendar time t two definitions are plausible according whether we regard t as the infection time of the infector or the infection time of the infectee. The resulting measurements are respectively called forward generation time and backward generation time. It has been observed that the mean forward generation time contracts around the peak of an epidemic. This contraction effect has previously been attributed to either competition among potential infectors or depletion of susceptibles in the population. The first explanation requires many infectives for contraction to occur whereas the latter explanation suggests that contraction occurs even when there are few infectives. With a simulation study we show that both competition and depletion cause the mean forward generation time to contract. Our results also reveal that the distribution of the infectious period and the reproduction number have a strong effect on the size and timing of the contraction, as well as on the mean value of the generation time in both forward and backward scheme. These observations relate to the \u0027serial interval\u0027, the time interval between symptom 26 onset of a secondary case and symptom onset of its infector [10]. Many authors have 27 used the serial interval as a synonym for the generation time. However, unlike the 28 generation time, the serial interval can have a negative duration when the clinical 29 March 5, 2019 2/23 . CC-BY-ND 4.0 International license is made available under a The copyright holder for this preprint (which was not peer-reviewed) is the author/funder. It . https://doi.org/10.1101/568485 doi: bioRxiv preprint 75 impact of competition and depletion on the mean forward generation interval. In 76 addition to a baseline scenario we present three artificial scenarios accounting for 77 different levels of competition and depletion level since in the SIR model these 78 phenomena cannot be disentangle. Finally, we conclude by explaining under which 79 conditions the two hypotheses give rise to the generation interval contraction.",
+      "sentences": [
+        [
+          {
+            "segment_text": "One of the key characteristics of the transmission dynamics of infectious diseases is the generation time which refers to the time interval between the infection of a secondary case and the infection of its infector .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The generation time distribution together with the reproduction number determines the rate at which an infection spreads in a population .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "When defining the generation time distribution at a calendar time t two definitions are plausible according whether we regard t as the infection time of the infector or the infection time of the infectee .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The resulting measurements are respectively called forward generation time and backward generation time .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It has been observed that the mean forward generation time contracts around the peak of an epidemic .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This contraction effect has previously been attributed to either competition among potential infectors or depletion of susceptibles in the population .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The first explanation requires many infectives for contraction to occur whereas the latter explanation suggests that contraction occurs even when there are few infectives .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "With a simulation study we show that both competition and depletion cause the mean forward generation time to contract .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our results also reveal that the distribution of the infectious period and the reproduction number have a strong effect on the size and timing of the contraction ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as well as on the mean value of the generation time in both forward and backward scheme .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These observations relate to the ` serial interval \u0027 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the time interval between symptom 26 onset of a secondary case and symptom onset of its infector ( 10 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Many authors have 27 used the serial interval as a synonym for the generation time .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , unlike the 28 generation time ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the serial interval can have a negative duration when the clinical 29 March 5 , 2019 2/23 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "CC-BY-ND 4.0 International license is made available under a The copyright holder for this preprint ( which was not peer-reviewed ) is the author/funder .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "It .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "https://doi.org/10.1101/568485 doi : bioRxiv preprint 75 impact of competition and depletion on the mean forward generation interval .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In 76 addition to a baseline scenario we present three artificial scenarios accounting for 77 different levels of competition and depletion level since in the SIR model these 78 phenomena can not be disentangle .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , we conclude by explaining under which 79 conditions the two hypotheses give rise to the generation interval contraction .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Average values of duration (T max ), final size (F S), mean forward (ω f ) and mean backward (ω b ) generation times, maximum, minimum and range of the loess regression (Max loess, Min loess and Range loess) and depletion intensity (ϕ).",
+      "sentences": [
+        [
+          {
+            "segment_text": "Average values of duration ( T max ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "final size ( F S ) ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "mean forward ( ω f ) and mean backward ( ω b ) generation times ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "maximum , minimum and range of the loess regression ( Max loess , Min loess and Range loess ) and depletion intensity ( ϕ ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "18",
+    "segment_num": "24",
+    "token_num": "467"
+  }
+}

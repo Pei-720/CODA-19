@@ -1,0 +1,498 @@
+{
+  "paper_id": "f9e8af068e552f4327e0e7cdd359674967d9d422",
+  "metadata": {
+    "title": "Reducing burden of disease from residential indoor air exposures in Europe (HEALTHVENT project) Reducing burden of disease from residential indoor air exposures in Europe (HEALTHVENT project)",
+    "coda_data_split": "train",
+    "coda_paper_id": 4599,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "This paper attempts to understand optimal ventilation rates at the national level across 26 European countries and to contrast the benefits of optimizing ventilation with filtration of outdoor air pollution and control of indoor sources. This is an important topic given the key role of the housing sector in tackling both air pollution and climate change. Although the methods used are relatively simplistic, they are appropriate for analyses performed at the scale presented in the paper. The findings and conclusions are well supported by the results. I would therefore support publication. However, I believe the manuscript would benefit from a stronger statement of the aims of the work and some clarifications regarding the methods (see below).",
+      "sentences": [
+        [
+          {
+            "segment_text": "This paper attempts to understand optimal ventilation rates at the national level across 26 European countries and to contrast the benefits of optimizing ventilation with filtration of outdoor air pollution and control of indoor sources .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "This is an important topic given the key role of the housing sector in tackling both air pollution and climate change .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although the methods used are relatively simplistic ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "they are appropriate for analyses performed at the scale presented in the paper .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The findings and conclusions are well supported by the results .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "I would therefore support publication .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , I believe the manuscript would benefit from a stronger statement of the aims of the work and some clarifications regarding the methods ( see below ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "My main concern relates to the assumption made by the authors that indoor-generated PM2.5 is equally as harmful to health as outdoor-generated PM2.5. There is little evidence to support this (though it is quite a commonly made assumption). I would like to see some form of sensitivity analysis in relation to this assumption, since it may have an impact on the final results (though probably not on the ultimate conclusions).",
+      "sentences": [
+        [
+          {
+            "segment_text": "My main concern relates to the assumption made by the authors that indoor-generated PM2 .5 is equally as harmful to health as outdoor-generated PM2 .5 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "There is little evidence to support this ( though it is quite a commonly made assumption ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "I would like to see some form of sensitivity analysis in relation to this assumption ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "since it may have an impact on the final results ( though probably not on the ultimate conclusions ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "More detailed comments can be found below. I consider the suggested revisions to be relatively minor.",
+      "sentences": [
+        [
+          {
+            "segment_text": "More detailed comments can be found below .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "I consider the suggested revisions to be relatively minor .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "1. Is the question posed original, important and well defined?",
+      "sentences": [
+        [
+          {
+            "segment_text": "1 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Is the question posed original , important and well defined ?",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The research question posed by the paper is important and I believe the methods used are appropriate to answer it. However, the aims of the paper are not currently well stated (in both the main text and in the abstract). The main statement of the aims comes towards the end of page 5, which states \"This work aims to summarize the current understanding of the sources of health risks in indoor environments and their relationship to ventilation requirements\". This doesn\u0027t really capture what the authors have actually done. There is a slightly better statement of the aims hidden in the Methods (top of page 7) but even this doesn\u0027t quite feel sufficient.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The research question posed by the paper is important and I believe the methods used are appropriate to answer it .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the aims of the paper are not currently well stated ( in both the main text and in the abstract ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The main statement of the aims comes towards the end of page 5 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which states `` This work aims to summarize the current understanding of the sources of health risks in indoor environments and their relationship to ventilation requirements \u0027\u0027 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This does n\u0027t really capture what the authors have actually done .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "There is a slightly better statement of the aims hidden in the Methods ( top of page 7 ) but even this does n\u0027t quite feel sufficient .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "2. Are the data sound and well controlled?",
+      "sentences": [
+        [
+          {
+            "segment_text": "2 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Are the data sound and well controlled ?",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Yes, although the source of some of the input data can be made clearer in the text, especially in relation to Table 2 (see below) .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Yes , although the source of some of the input data can be made clearer in the text ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "especially in relation to Table 2 ( see below ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "3. Is the interpretation (discussion and conclusion) well balanced and supported by the data?",
+      "sentences": [
+        [
+          {
+            "segment_text": "3 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Is the interpretation ( discussion and conclusion ) well balanced and supported by the data ?",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Yes.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Yes .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "4. Are the methods appropriate and well described, and are sufficient details provided to allow others to evaluate and/or replicate the work?",
+      "sentences": [
+        [
+          {
+            "segment_text": "4 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Are the methods appropriate and well described ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and are sufficient details provided to allow others to evaluate and/or replicate the work ?",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The methods are generally well described. However, I have a few specific issues (see the additional comments below).",
+      "sentences": [
+        [
+          {
+            "segment_text": "The methods are generally well described .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , I have a few specific issues ( see the additional comments below ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The methods are based on relatively simplistic tools (both the mass-balance exposure model and the risk/health impact model). However, I think they are appropriate for the type of analysis presented in the paper.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The methods are based on relatively simplistic tools ( both the mass-balance exposure model and the risk/health impact model ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , I think they are appropriate for the type of analysis presented in the paper .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "My main concern relates to the assumption of equal health risk associated with both outdoor-and indoor-generated PM2.5. The authors discuss this briefly in the Discussion section but this assumption is highly uncertain since almost all of the published epidemiology is based on outdoor PM2.5. The paper would benefit from greater emphasis on the sensitivity of the results to this assumption. Perhaps, the analysis (or part of it) could be repeated without the effects of indoorgenerated PM2.5 or with a reduced exposure-response coefficient?",
+      "sentences": [
+        [
+          {
+            "segment_text": "My main concern relates to the assumption of equal health risk associated with both outdoor-and indoor-generated PM2 .5 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The authors discuss this briefly in the Discussion section but this assumption is highly uncertain since almost all of the published epidemiology is based on outdoor PM2 .5 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The paper would benefit from greater emphasis on the sensitivity of the results to this assumption .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Perhaps , the analysis ( or part of it ) could be repeated without the effects of indoorgenerated PM2 .5 or with a reduced exposure-response coefficient ?",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "6. Can the writing, organization, tables and figures be improved?",
+      "sentences": [
+        [
+          {
+            "segment_text": "6 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Can the writing , organization ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "tables and figures be improved ?",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Although the manuscript is generally well written, there are reoccurring problems, most importantly missing articles throughout the paper (e.g. a, the). For instance, in the abstract, \"Based on measurements of the European Environment Agency (EEA),…\" and \"A framework for developing European health-based ventilation guidelines…\" would be preferable. I realise that English is not the authors\u0027 first language (and, again, I should stress that most of the language used is very good). However, I think the paper would benefit from a thorough edit by a native English speaker.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Although the manuscript is generally well written ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "there are reoccurring problems , most importantly missing articles throughout the paper ( e.g. a , the ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "For instance , in the abstract ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "`` Based on measurements of the European Environment Agency ( EEA ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "... \u0027\u0027 and `` A framework for developing European health-based ventilation guidelines ... \u0027\u0027 would be preferable .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "I realise that English is not the authors \u0027 first language ( and , again , I should stress that most of the language used is very good ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , I think the paper would benefit from a thorough edit by a native English speaker .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Also, the figures appear to be quite pixelated and may not be in an appropriate format for publication.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Also , the figures appear to be quite pixelated and may not be in an appropriate format for publication .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "7. When revisions are requested.",
+      "sentences": [
+        [
+          {
+            "segment_text": "7 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "When revisions are requested .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "No preference.",
+      "sentences": [
+        [
+          {
+            "segment_text": "No preference .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "8. Are there any ethical or competing interests issues you would like to raise?",
+      "sentences": [
+        [
+          {
+            "segment_text": "8 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Are there any ethical or competing interests issues you would like to raise ?",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "None.",
+      "sentences": [
+        [
+          {
+            "segment_text": "None .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "• I believe the abstract would benefit from a little editing. At present, the Background section feels unnecessarily long and there isn\u0027t enough detail in either the Methods or Results sections. The methods used for the health impact calculations aren\u0027t mentioned at all, despite being key to the paper. At the moment, I don\u0027t feel the main results are clearly stated in the abstract.",
+      "sentences": [
+        [
+          {
+            "segment_text": "• I believe the abstract would benefit from a little editing .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "At present , the Background section feels unnecessarily long and there is n\u0027t enough detail in either the Methods or Results sections .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The methods used for the health impact calculations are n\u0027t mentioned at all ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "despite being key to the paper .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "At the moment , I do n\u0027t feel the main results are clearly stated in the abstract .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "• The paper refers throughout to \"optimization\". I think a mathematician might object to the use of the term because the method doesn\u0027t actually use a formal optimization process. I don\u0027t think this is too much of a problem but I do think a clear statement of what the authors mean by optimization would be helpful (e.g. in the Methods). As I understand it, the \"optimal\" ventilation rate is just taken to be the one for which the health burden is smallest.",
+      "sentences": [
+        [
+          {
+            "segment_text": "• The paper refers throughout to `` optimization \u0027\u0027 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "I think a mathematician might object to the use of the term because the method does n\u0027t actually use a formal optimization process .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "I do n\u0027t think this is too much of a problem but I do think a clear statement of what the authors mean by optimization would be helpful ( e.g. in the Methods ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "As I understand it , the `` optimal \u0027\u0027 ventilation rate is just taken to be the one for which the health burden is smallest .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "22",
+    "sentence_num": "55",
+    "segment_num": "65",
+    "token_num": "946"
+  }
+}

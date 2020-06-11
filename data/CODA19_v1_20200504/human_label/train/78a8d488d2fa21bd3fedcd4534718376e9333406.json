@@ -1,0 +1,125 @@
+{
+  "paper_id": "78a8d488d2fa21bd3fedcd4534718376e9333406",
+  "metadata": {
+    "title": "Transmission of rhinovirus in the Utah BIG- LoVE families: Consequences of age and household structure",
+    "coda_data_split": "train",
+    "coda_paper_id": 8438,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Common cold viruses create significant health and financial burdens, and understanding key loci of transmission would help focus control strategies. This study (1) examines factors that influence when individuals transition from a negative to positive test (acquisition) or a positive to negative test (loss) of rhinovirus (HRV) and other respiratory tract viruses in 26 households followed weekly for one year, (2) investigates evidence for intrahousehold and interhousehold transmission and the characteristics of individuals implicated in transmission, and (3) builds data-based simulation models to identify factors that most strongly affect patterns of prevalence.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Common cold viruses create significant health and financial burdens ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and understanding key loci of transmission would help focus control strategies .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study ( 1 ) examines factors that influence when individuals transition from a negative to positive test ( acquisition ) or a positive to negative test ( loss ) of rhinovirus ( HRV ) and other respiratory tract viruses in 26 households followed weekly for one year ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "( 2 ) investigates evidence for intrahousehold and interhousehold transmission and the characteristics of individuals implicated in transmission ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and ( 3 ) builds data-based simulation models to identify factors that most strongly affect patterns of prevalence .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We detected HRV, coronavirus, paramyxovirus, influenza and bocavirus with the FilmArray polymerase chain reaction (PCR) platform (BioFire Diagnostics, LLC). We used logistic regression to find covariates affecting acquisition or loss of HRV including demographic characteristics of individuals, their household, their current infection status, and prevalence within their household and across the population. We apply generalized linear mixed models to test robustness of results.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We detected HRV , coronavirus ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "paramyxovirus , influenza and bocavirus with the FilmArray polymerase chain reaction ( PCR ) platform ( BioFire Diagnostics , LLC ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We used logistic regression to find covariates affecting acquisition or loss of HRV including demographic characteristics of individuals ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "their household , their current infection status ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and prevalence within their household and across the population .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We apply generalized linear mixed models to test robustness of results .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Acquisition of HRV was less probable in older individuals and those infected with a coronavirus, and higher with a higher proportion of other household members infected. Loss of HRV is reduced with a higher proportion of other household members infected. Within households, only children and symptomatic individuals show evidence for transmission, while between households only a higher number of infected older children (ages 5-19) increases the probability of acquisition. Coronaviruses, paramyxoviruses and bocavirus also show evidence of intrahousehold transmission. Simulations show that age-dependent susceptibility and transmission have the largest effects on mean HRV prevalence.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Acquisition of HRV was less probable in older individuals and those infected with a coronavirus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and higher with a higher proportion of other household members infected .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Loss of HRV is reduced with a higher proportion of other household members infected .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Within households , only children and symptomatic individuals show evidence for transmission ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while between households only a higher number of infected older children ( ages 5-19 ) increases the probability of acquisition .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Coronaviruses , paramyxoviruses and bocavirus also show evidence of intrahousehold transmission .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Simulations show that age-dependent susceptibility and transmission have the largest effects on mean HRV prevalence .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "10",
+    "segment_num": "18",
+    "token_num": "291"
+  }
+}

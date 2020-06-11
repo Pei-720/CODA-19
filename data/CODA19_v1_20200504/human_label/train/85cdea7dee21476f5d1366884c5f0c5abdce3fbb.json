@@ -1,0 +1,286 @@
+{
+  "paper_id": "85cdea7dee21476f5d1366884c5f0c5abdce3fbb",
+  "metadata": {
+    "title": "Synthesis, characterization and biological activity of a niobium-substituted-heteropolytungstate on hepatitis B virus",
+    "coda_data_split": "train",
+    "coda_paper_id": 4193,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "To synthesise and characterize the polyoxometalate Cs 2 K 4 Na[SiW 9 Nb 3 O 40 ]ÁH 2 O 1 for its anti-hepatitis B virus (HBV) properties by using the HepG2.2.15 cell. The methylthiazol tetrazolium assay was used to evaluate the growth inhibitory effect of Compound 1 on HepG2.2.15 cell. By using ELISA and real-time PCR, respectively, the presence of extracellular hepatitis B surface antigen (HBsAg), e antigen (HBeAg), and HBV DNA were measured. The levels of intracellular HBV DNA and mRNA were determined by using Southern blot or reverse-transcription-PCR, respectively. Intracellular distribution of antigen were measured by Western blot. A 1995 lmol/L concentration of the commercially-available hepatitis B drug, adefovir dipivoxil (ADV), was required to achieve 50% cytotoxicity against cultured cells (CC 50 ) by day nine; in contrast, only 1747 lmol/L of Compound 1 was required for the same result. Treatment of HepG2.2.15 cells with Compound 1 effectively suppress the secretion of HBV antigens and HBV DNA in a dose-dependent and time-dependent manner. IC 50 values were determined to be 80 lmol/L for HBsAg, 75 lmol/L for HBeAg and 3.72 lmol/L for supernatant HBV DNA at day nine post-exposure, as opposed to 266, 296, 30.09 lmol/L, respectively, for ADV. Intracellular HBV DNA, mRNA and antigen were also found to be decreased by Compound 1. The same dose of ADV yielded a significantly less robust inhibitory effect. Compound 1 can clear HBV from hepatic cells and may represent a therapeutic agent to treat HBV infection.",
+      "sentences": [
+        [
+          {
+            "segment_text": "To synthesise and characterize the polyoxometalate Cs 2 K 4 Na ( SiW 9 Nb 3 O 40 ) ÁH 2 O 1 for its anti-hepatitis B virus ( HBV ) properties by using the HepG2 .2.15 cell .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The methylthiazol tetrazolium assay was used to evaluate the growth inhibitory effect of Compound 1 on HepG2 .2.15 cell .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "By using ELISA and real-time PCR ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "respectively , the presence of extracellular hepatitis B surface antigen ( HBsAg ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "e antigen ( HBeAg ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and HBV DNA were measured .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The levels of intracellular HBV DNA and mRNA were determined by using Southern blot or reverse-transcription-PCR , respectively .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Intracellular distribution of antigen were measured by Western blot .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A 1995 lmol/L concentration of the commercially-available hepatitis B drug ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "adefovir dipivoxil ( ADV ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "was required to achieve 50 % cytotoxicity against cultured cells ( CC 50 ) by day nine ; in contrast ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "only 1747 lmol/L of Compound 1 was required for the same result .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Treatment of HepG2 .2.15 cells with Compound 1 effectively suppress the secretion of HBV antigens and HBV DNA in a dose-dependent and time-dependent manner .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "IC 50 values were determined to be 80 lmol/L for HBsAg ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "75 lmol/L for HBeAg and 3.72 lmol/L for supernatant HBV DNA at day nine post-exposure ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "as opposed to 266 , 296 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "30.09 lmol/L , respectively , for ADV. Intracellular HBV DNA ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "mRNA and antigen were also found to be decreased by Compound 1 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The same dose of ADV yielded a significantly less robust inhibitory effect .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Compound 1 can clear HBV from hepatic cells and may represent a therapeutic agent to treat HBV infection .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Approximately 2 billion people worldwide have been infected with hepatitis B and about 350 million live with chronic infection. HBV belongs to the Hepadnaviridae family and is a non-cytopathic DNA virus that can replicate via reverse-transcription of an RNA intermediate. 1 The pregenomic RNA (pgRNA) intermediate is produced inside the cellular nucleus. Next, the pgRNA is exported to the cytoplasm, where a virally-encoded polymerase can then convert the pgRNA into minus-strand DNA; ultimately, a doublestranded, relaxed circular DNA molecule is generated. 2,3 This life cycle places HBV into the larger family of retroviruses, which are characterized by the reverse-transcription activity involving an RNA intermediate.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Approximately 2 billion people worldwide have been infected with hepatitis B and about 350 million live with chronic infection .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "HBV belongs to the Hepadnaviridae family and is a non-cytopathic DNA virus that can replicate via reverse-transcription of an RNA intermediate .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "1 The pregenomic RNA ( pgRNA ) intermediate is produced inside the cellular nucleus .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Next , the pgRNA is exported to the cytoplasm ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "where a virally-encoded polymerase can then convert the pgRNA into minus-strand DNA ; ultimately ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a doublestranded , relaxed circular DNA molecule is generated .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "2,3 This life cycle places HBV into the larger family of retroviruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which are characterized by the reverse-transcription activity involving an RNA intermediate .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Chronic hepatitis B patients are commonly treated with either interferon alpha (INF-a) or the nucleoside analog lamivudine (3TC), adefovir, entecavir, or telbivudine, which are all synthetic reverse-transcriptase inhibitors. 4,5 INF-a inhibits viral replication and acts as an immuno-modulator, but is limited in effectiveness (40% response rate), 6 is costly, and elicits serious, undesirable side effects. 3TC mediates a reversible inhibition event, but continuous treatment has been associated with development of drug-resistant HBV variants in up to 70% of patients after 4 years of treatment. 7 Adefovir, entecavir, and telbivudine are used when 3TC-resistant strains are detected; however, resistances to these drugs have also been reported. 8 Combination therapy, such as a nucleoside analog plus INF-a, is a promising approach that may yield additive or synergistic effects and may reduce the emergence of resistant strains. Unfortunately, the serious side effects associated with each of the agents used remain and may even be compounded. Therefore, it is critical to develop therapeutic agents with improved efficacy and minimal to no side effects.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Chronic hepatitis B patients are commonly treated with either interferon alpha ( INF-a ) or the nucleoside analog lamivudine ( 3TC ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "adefovir , entecavir , or telbivudine ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which are all synthetic reverse-transcriptase inhibitors .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "4,5 INF-a inhibits viral replication and acts as an immuno-modulator ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but is limited in effectiveness ( 40 % response rate ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "6 is costly , and elicits serious , undesirable side effects .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "3TC mediates a reversible inhibition event ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but continuous treatment has been associated with development of drug-resistant HBV variants in up to 70 % of patients after 4 years of treatment .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "7 Adefovir , entecavir , and telbivudine are used when 3TC-resistant strains are detected ; however ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "resistances to these drugs have also been reported .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "8 Combination therapy , such as a nucleoside analog plus INF-a ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "is a promising approach that may yield additive or synergistic effects and may reduce the emergence of resistant strains .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Unfortunately , the serious side effects associated with each of the agents used remain and may even be compounded .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , it is critical to develop therapeutic agents with improved efficacy and minimal to no side effects .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Polyoxometalates (POMs) are metal-oxide cluster anions which have applicable potential in electronics, magnetics, homogeneous and heterogeneous photo-catalysis, and in medicine where they can act as anti-tumor, -viral, and -bacterial agents. 9 Many studies have found evidence that POMs can inhibit the replication of both 0960-894X/$ -see front matter Ó Abbreviations: SI, selectivity index; IC50, the concentrations that inhibit HBV DNA replication, and HBsAg and HBeAg secretions to 50%; CC50, the concentration that achieved 50% cytotoxicity against cultured cells; ADV, adefovir dipivoxil.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Polyoxometalates ( POMs ) are metal-oxide cluster anions which have applicable potential in electronics ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "magnetics , homogeneous and heterogeneous photo-catalysis ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and in medicine where they can act as anti-tumor ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "- viral , and - bacterial agents .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "9 Many studies have found evidence that POMs can inhibit the replication of both 0960-894X / $ - see front matter Ó Abbreviations : SI ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "selectivity index ; IC50 , the concentrations that inhibit HBV DNA replication ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and HBsAg and HBeAg secretions to 50 % ; CC50 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the concentration that achieved 50 % cytotoxicity against cultured cells ; ADV , adefovir dipivoxil .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "24",
+    "segment_num": "50",
+    "token_num": "712"
+  }
+}

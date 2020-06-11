@@ -1,0 +1,111 @@
+{
+  "paper_id": "aa34a2ba35c3daf0b882dfa8b96e65aa251b5ea8",
+  "metadata": {
+    "title": "Epigrass: a tool to study disease spread in complex networks",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1984,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "The construction of complex spatial simulation models such as those used in network epidemiology, is a daunting task due to the large amount of data involved in their parameterization. Such data, which frequently resides on large geo-referenced databases, has to be processed and assigned to the various components of the model. All this just to construct the model, then it still has to be simulated and analyzed under different epidemiological scenarios. This workflow can only be achieved efficiently by computational tools that can automate most, if not all, these time-consuming tasks. In this paper, we present a simulation software, Epigrass, aimed to help designing and simulating network-epidemic models with any kind of node behavior.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The construction of complex spatial simulation models such as those used in network epidemiology ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "is a daunting task due to the large amount of data involved in their parameterization .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Such data , which frequently resides on large geo-referenced databases ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "has to be processed and assigned to the various components of the model .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "All this just to construct the model ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "then it still has to be simulated and analyzed under different epidemiological scenarios .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This workflow can only be achieved efficiently by computational tools that can automate most ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "if not all , these time-consuming tasks .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this paper , we present a simulation software ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "Epigrass , aimed to help designing and simulating network-epidemic models with any kind of node behavior .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": ": A Network epidemiological model representing the spread of a directly transmitted disease through a bus-transportation network connecting mid-size cities in Brazil. Results show that the topological context of the starting point of the epidemic is of great importance from both control and preventive perspectives.",
+      "sentences": [
+        [
+          {
+            "segment_text": ": A Network epidemiological model representing the spread of a directly transmitted disease through a bus-transportation network connecting mid-size cities in Brazil .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results show that the topological context of the starting point of the epidemic is of great importance from both control and preventive perspectives .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Epigrass is shown to facilitate greatly the construction, simulation and analysis of complex network models. The output of model results in standard GIS file formats facilitate the post-processing and analysis of results by means of sophisticated GIS software.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Epigrass is shown to facilitate greatly the construction ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "simulation and analysis of complex network models .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The output of model results in standard GIS file formats facilitate the post-processing and analysis of results by means of sophisticated GIS software .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "9",
+    "segment_num": "15",
+    "token_num": "216"
+  }
+}

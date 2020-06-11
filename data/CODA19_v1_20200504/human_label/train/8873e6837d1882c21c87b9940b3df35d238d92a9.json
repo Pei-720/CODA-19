@@ -1,0 +1,87 @@
+{
+  "paper_id": "8873e6837d1882c21c87b9940b3df35d238d92a9",
+  "metadata": {
+    "title": "Identification of a clinical compound losmapimod that blocks Lassa virus entry",
+    "coda_data_split": "train",
+    "coda_paper_id": 9129,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Lassa virus (LASV) causes Lassa hemorrhagic fever in humans and poses a significant threat to public health in West Africa. Current therapeutic treatments for Lassa fever are limited, making the development of novel countermeasures an urgent priority. In this study, we identified losmapimod, a p38 mitogen-activated protein kinase (MAPK) inhibitor, from 102 screened compounds as an inhibitor of LASV infection. Losmapimod exerted its inhibitory effect against LASV after p38 MAPK down-regulation, and, interestingly, had no effect on other arenaviruses capable of causing viral hemorrhagic fever. Mechanistic studies showed that losmapimod inhibited LASV entry by affecting the stable signal peptide (SSP)-GP2 subunit interface of the LASV glycoprotein, thereby blocking pH-dependent viral fusion. As an aryl heteroaryl bis-carboxyamide derivative, losmapimod represents a novel chemical scaffold with anti-LASV activity, and it provides a new lead structure for the future development of LASV fusion inhibitors.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Lassa virus ( LASV ) causes Lassa hemorrhagic fever in humans and poses a significant threat to public health in West Africa .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Current therapeutic treatments for Lassa fever are limited ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "making the development of novel countermeasures an urgent priority .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we identified losmapimod ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "a p38 mitogen-activated protein kinase ( MAPK ) inhibitor ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "from 102 screened compounds as an inhibitor of LASV infection .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Losmapimod exerted its inhibitory effect against LASV after p38 MAPK down-regulation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and , interestingly , had no effect on other arenaviruses capable of causing viral hemorrhagic fever .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Mechanistic studies showed that losmapimod inhibited LASV entry by affecting the stable signal peptide ( SSP ) - GP2 subunit interface of the LASV glycoprotein ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "thereby blocking pH-dependent viral fusion .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "As an aryl heteroaryl bis-carboxyamide derivative ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "losmapimod represents a novel chemical scaffold with anti-LASV activity ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and it provides a new lead structure for the future development of LASV fusion inhibitors .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "13",
+    "token_num": "165"
+  }
+}

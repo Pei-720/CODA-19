@@ -1,0 +1,67 @@
+{
+  "paper_id": "052bf4fb7deaf593862991af3b118b5f11a9fbe1",
+  "metadata": {
+    "title": "Autocatalytic Model for Covid-19 Progression in a Country",
+    "coda_data_split": "train",
+    "coda_paper_id": 10865,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Herewith we present a computational model for the forecasting of cumulative diagnosed cases of Covid-19 pneumonia within a country. The only explicit parameter of the model is the population density. The implicit parameter is a moving average ambient temperature, currently integrated into the kinetic constants. Other finer details pertaining to the mechanism of the pathogen SARS-CoV-2 spread within a given region are implicitly manifested in the exponent parameters derived from the non-linear fitting of the published data on Covid-19 occurrence. The performance of the model is demonstrated on a few selected countries, and on the Diamond Princess cruising ship outbreak. The model might be used as an aiding tool for the policy makers regarding the decisions on the containment measures and quarantine regime required.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Herewith we present a computational model for the forecasting of cumulative diagnosed cases of Covid-19 pneumonia within a country .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The only explicit parameter of the model is the population density .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The implicit parameter is a moving average ambient temperature ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "currently integrated into the kinetic constants .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Other finer details pertaining to the mechanism of the pathogen SARS-CoV-2 spread within a given region are implicitly manifested in the exponent parameters derived from the non-linear fitting of the published data on Covid-19 occurrence .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The performance of the model is demonstrated on a few selected countries ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and on the Diamond Princess cruising ship outbreak .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The model might be used as an aiding tool for the policy makers regarding the decisions on the containment measures and quarantine regime required .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "8",
+    "token_num": "132"
+  }
+}

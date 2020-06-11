@@ -1,0 +1,141 @@
+{
+  "paper_id": "eb8769154d6a5a4a44f5cea8a1b92082f9c278a6",
+  "metadata": {
+    "title": "Nerve growth factor reduces amiloride-sensitive Na + transport in human airway epithelial cells",
+    "coda_data_split": "train",
+    "coda_paper_id": 9395,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Nerve growth factor (NGF) is overexpressed in patients with inflammatory lung diseases, including virus infections. Airway surface liquid (ASL), which is regulated by epithelial cell ion transport, is essential for normal lung function. No information is available regarding the effect of NGF on ion transport of airway epithelium. To investigate whether NGF can affect ion transport, human primary air-interface cultured epithelial cells were placed in Ussing chambers to obtain transepithelial voltage (À7.1 AE 3.4 mV), short-circuit current (I sc , 5.9 AE 1.0 lA), and transepithelial resistance (750 OÁcm 2 ), and to measure responses to ion transport inhibitors. Amiloride (apical, 3.5 9 10 À5 mol/L) decreased I sc by 55.3%. Apically applied NGF (1 ng/mL) reduced I sc by 5.3% in 5 min; basolaterally applied NGF had no effect. The response to amiloride was reduced (41.6%) in the presence of NGF. K-252a (10 nmol/ L, apical) did not itself affect Na + transport, but it attenuated the NGFinduced reduction in Na + transport, indicating the participation of the trkA receptor in the NGF-induced reduction in Na + transport. PD-98059 (30 lmol/L, apical and basolateral) did not itself affect Na + transport, but attenuated the NGF-induced reduction in Na + transport, indicating that trkA activated the Erk 1/2 signaling cascade. NGF stimulated phosphorylation of Erk 1/2 and the b-subunit of ENaC. K-252a and PD-98059 inhibited these responses. NGF had no effect on I sc in the presence of apical nystatin (50 lmol/L). These results indicate that NGF inhibits Na + transport through a trkA-Erk 1/2-activated signaling pathway linked to ENaC phosphorylation.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Nerve growth factor ( NGF ) is overexpressed in patients with inflammatory lung diseases , including virus infections .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Airway surface liquid ( ASL ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which is regulated by epithelial cell ion transport ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "is essential for normal lung function .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "No information is available regarding the effect of NGF on ion transport of airway epithelium .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To investigate whether NGF can affect ion transport ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "human primary air-interface cultured epithelial cells were placed in Ussing chambers to obtain transepithelial voltage ( À7 .1 AE 3.4 mV ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "short-circuit current ( I sc , 5.9 AE 1.0 lA ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and transepithelial resistance ( 750 OÁcm 2 ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and to measure responses to ion transport inhibitors .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Amiloride ( apical , 3.5 9 10 À5 mol/L ) decreased I sc by 55.3 % .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Apically applied NGF ( 1 ng/mL ) reduced I sc by 5.3 % in 5 min ; basolaterally applied NGF had no effect .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The response to amiloride was reduced ( 41.6 % ) in the presence of NGF .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "K-252a ( 10 nmol / L , apical ) did not itself affect Na + transport ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but it attenuated the NGFinduced reduction in Na + transport ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "indicating the participation of the trkA receptor in the NGF-induced reduction in Na + transport .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "PD-98059 ( 30 lmol/L , apical and basolateral ) did not itself affect Na + transport ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but attenuated the NGF-induced reduction in Na + transport ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "indicating that trkA activated the Erk 1/2 signaling cascade .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "NGF stimulated phosphorylation of Erk 1/2 and the b-subunit of ENaC .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "K-252a and PD-98059 inhibited these responses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "NGF had no effect on I sc in the presence of apical nystatin ( 50 lmol/L ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These results indicate that NGF inhibits Na + transport through a trkA-Erk 1/2-activated signaling pathway linked to ENaC phosphorylation .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "13",
+    "segment_num": "23",
+    "token_num": "315"
+  }
+}

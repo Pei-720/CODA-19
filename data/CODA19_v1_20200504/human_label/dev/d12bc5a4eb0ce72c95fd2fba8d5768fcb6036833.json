@@ -1,0 +1,81 @@
+{
+  "paper_id": "d12bc5a4eb0ce72c95fd2fba8d5768fcb6036833",
+  "metadata": {
+    "title": "Characterizing and controlling the inflammatory network during influenza A virus infection",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1093,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "To gain insights into the pathogenesis of influenza A virus (IAV) infections, this study focused on characterizing the inflammatory network and identifying key proteins by combining high-throughput data and computational techniques. We constructed the cell-specific normal and inflammatory networks for H5N1 and H1N1 infections through integrating high-throughput data. We demonstrated that better discrimination between normal and inflammatory networks by network entropy than by other topological metrics. Moreover, we identified different dynamical interactions among TLR2, IL-1b, IL10 and NFkB between normal and inflammatory networks using optimization algorithm. In particular, good robustness and multistability of inflammatory sub-networks were discovered. Furthermore, we identified a complex, TNFSF10/HDAC4/HDAC5, which may play important roles in controlling inflammation, and demonstrated that changes in network entropy of this complex negatively correlated to those of three proteins: TNFa, NFkB and COX-2. These findings provide significant hypotheses for further exploring the molecular mechanisms of infectious diseases and developing control strategies.",
+      "sentences": [
+        [
+          {
+            "segment_text": "To gain insights into the pathogenesis of influenza A virus ( IAV ) infections ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "this study focused on characterizing the inflammatory network and identifying key proteins by combining high-throughput data and computational techniques .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We constructed the cell-specific normal and inflammatory networks for H5N1 and H1N1 infections through integrating high-throughput data .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We demonstrated that better discrimination between normal and inflammatory networks by network entropy than by other topological metrics .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , we identified different dynamical interactions among TLR2 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "IL-1b , IL10 and NFkB between normal and inflammatory networks using optimization algorithm .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In particular , good robustness and multistability of inflammatory sub-networks were discovered .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , we identified a complex ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "TNFSF10/HDAC4/HDAC5 , which may play important roles in controlling inflammation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and demonstrated that changes in network entropy of this complex negatively correlated to those of three proteins : TNFa , NFkB and COX-2 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These findings provide significant hypotheses for further exploring the molecular mechanisms of infectious diseases and developing control strategies .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "11",
+    "token_num": "170"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "paper_id": "1275c64d711b3973f7e25ebc72bbc7c99341dd00",
+  "metadata": {
+    "title": "Alphaherpesvirus infection of mice primes PNS neurons to an inflammatory state regulated by TLR2 and type I IFN signaling",
+    "coda_data_split": "train",
+    "coda_paper_id": 4869,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Pseudorabies virus (PRV), an alphaherpesvirus closely related to Varicella-Zoster virus (VZV) and Herpes simplex type 1 (HSV1) infects mucosa epithelia and the peripheral nervous system (PNS) of its host. We previously demonstrated that PRV infection induces a specific and lethal inflammatory response, contributing to severe neuropathy in mice. So far, the mechanisms that initiate this neuroinflammation remain unknown. Using a mouse footpad inoculation model, we found that PRV infection rapidly and simultaneously induces high G-CSF and IL-6 levels in several mouse tissues, including the footpad, PNS and central nervous system (CNS) tissues. Interestingly, this global increase occurred before PRV had replicated in dorsal root ganglia (DRGs) neurons and also was independent of systemic inflammation. These high G-CSF and IL-6 levels were not caused by neutrophil infiltration in PRV infected tissues, as we did not detect any neutrophils. Efficient PRV replication and spread in the footpad was sufficient to activate DRGs to produce cytokines. Finally, by using knockout mice, we demonstrated that TLR2 and IFN type I play crucial roles in modulating the early neuroinflammatory response and clinical outcome of PRV infection in mice. Overall, these results give new insights into the initiation of virus-induced neuroinflammation during herpesvirus infections.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Pseudorabies virus ( PRV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "an alphaherpesvirus closely related to Varicella-Zoster virus ( VZV ) and Herpes simplex type 1 ( HSV1 ) infects mucosa epithelia and the peripheral nervous system ( PNS ) of its host .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We previously demonstrated that PRV infection induces a specific and lethal inflammatory response ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "contributing to severe neuropathy in mice .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "So far , the mechanisms that initiate this neuroinflammation remain unknown .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using a mouse footpad inoculation model ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we found that PRV infection rapidly and simultaneously induces high G-CSF and IL-6 levels in several mouse tissues ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including the footpad , PNS and central nervous system ( CNS ) tissues .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Interestingly , this global increase occurred before PRV had replicated in dorsal root ganglia ( DRGs ) neurons and also was independent of systemic inflammation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These high G-CSF and IL-6 levels were not caused by neutrophil infiltration in PRV infected tissues ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as we did not detect any neutrophils .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Efficient PRV replication and spread in the footpad was sufficient to activate DRGs to produce cytokines .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , by using knockout mice ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we demonstrated that TLR2 and IFN type I play crucial roles in modulating the early neuroinflammatory response and clinical outcome of PRV infection in mice .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Overall , these results give new insights into the initiation of virus-induced neuroinflammation during herpesvirus infections .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Herpesviruses are major pathogens worldwide. Pseudorabies virus (PRV) is an alphaherpesvirus related to varicella-zoster virus (VZV) and herpes simplex virus type 1 (HSV1). The natural host is the pig, but PRV can infect most mammals. In these non-natural hosts, the virus causes a severe pruritus called the \u0027mad itch\u0027. Interestingly, PRV infects the peripheral nervous system (PNS) and induces a specific and lethal inflammatory response in mice, yet little is know about how this neuroinflammatory response is initiated. In this study, we demonstrated for the first time how PNS neurons tightly regulate the inflammatory response during PRV infection and contribute to severe clinical outcome in mice. Our work provides new insights into the process of alphaherpesvirus-induced neuropathies, leading to the development of innovative therapeutic strategies.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Herpesviruses are major pathogens worldwide .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Pseudorabies virus ( PRV ) is an alphaherpesvirus related to varicella-zoster virus ( VZV ) and herpes simplex virus type 1 ( HSV1 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The natural host is the pig ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but PRV can infect most mammals .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In these non-natural hosts , the virus causes a severe pruritus called the ` mad itch \u0027 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Interestingly , PRV infects the peripheral nervous system ( PNS ) and induces a specific and lethal inflammatory response in mice ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "yet little is know about how this neuroinflammatory response is initiated .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we demonstrated for the first time how PNS neurons tightly regulate the inflammatory response during PRV infection and contribute to severe clinical outcome in mice .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our work provides new insights into the process of alphaherpesvirus-induced neuropathies ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "leading to the development of innovative therapeutic strategies .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "16",
+    "segment_num": "25",
+    "token_num": "378"
+  }
+}

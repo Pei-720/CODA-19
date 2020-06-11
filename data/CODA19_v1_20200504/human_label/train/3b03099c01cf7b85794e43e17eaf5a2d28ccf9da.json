@@ -1,0 +1,61 @@
+{
+  "paper_id": "3b03099c01cf7b85794e43e17eaf5a2d28ccf9da",
+  "metadata": {
+    "title": "Cyclophilin A and viral infections",
+    "coda_data_split": "train",
+    "coda_paper_id": 5999,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "a b s t r a c t Cyclophilin A (CyPA) is a peptidyl-prolyl cis/trans isomerase originally identified as the target of the immunosuppressive drug cyclosporine A. A number of reports have demonstrated that CyPA plays a critical role in the successful replication of viruses such as human immunodeficiency virus (HIV), hepatitis C virus (HCV), hepatitis B virus (HBV), etc. However, recent studies demonstrated that CyPA also possesses a repressive effect on the replication of some viruses like Influenza A virus and rotavirus. Moreover, CyPA could also regulate host IFN-I response to viral infections. Together, these evidences showed diverse roles of CyPA in viral infection.",
+      "sentences": [
+        [
+          {
+            "segment_text": "a b s t r a c t Cyclophilin A ( CyPA ) is a peptidyl-prolyl cis/trans isomerase originally identified as the target of the immunosuppressive drug cyclosporine A .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A number of reports have demonstrated that CyPA plays a critical role in the successful replication of viruses such as human immunodeficiency virus ( HIV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "hepatitis C virus ( HCV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "hepatitis B virus ( HBV ) , etc. .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , recent studies demonstrated that CyPA also possesses a repressive effect on the replication of some viruses like Influenza A virus and rotavirus .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , CyPA could also regulate host IFN-I response to viral infections .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Together , these evidences showed diverse roles of CyPA in viral infection .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "7",
+    "token_num": "124"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "paper_id": "fc43c7b38c770f6f1bce746b5522e4603e8847c4",
+  "metadata": {
+    "title": "Predicting Social Response to Infectious Disease Outbreaks from Internet-based News Streams Online Resource 2: Supplemental Model Results Article Count without Duplicates 3 Week Slope of EWMA Article Count with Duplicates Disease Name Mortality Indicator Article Count without Duplicates 3 Week Slope of Mortality Indicator Article Count with Duplicates Outbreak Worsening Indicator Mortality Indicator 3 Week Slope of Outbreak Worsening Indicator Outbreak Worsening Indicator Population Fear Indicator Novelty Indicator Novelty Indicator Officials Fear Indicator 2 Results for the 30 Countries Used for Model Specification and Tuning",
+    "coda_data_split": "train",
+    "coda_paper_id": 8104,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "A number of features were included in the final models, including article counts, indicator counts and slopes. In Table 2 -1, the ten features with highest Gini importance are listed for Model 0 → 1 and Model 1 → 0, predicting Y 1 i jt and training on all available weeks. There is substantial overlap between the lists for the two models. For both models, the article count and the mortality, outbreak worsening and novelty indicators were among the most important features. The mortality indicator describes whether or not fatalities were reported during the week, the outbreak worsening indicator captures mentions of increasing cases or worsening conditions, and the novelty indicator measures whether the disease is described as new or unfamiliar. The finding that the novelty indicator was among the most important features is consistent with previous research that has shown that outbreaks of novel diseases are more likely to have associated social response (Fast et al, 2015; McGrath, 1991) . Table 2-1: The ten features with highest Gini importance for Model 0 → 1 and Model 1 → 0 Model 0 → 1 Model 1 → 0 Social Response Indicator EWMA as a Percentage of UCL",
+      "sentences": [
+        [
+          {
+            "segment_text": "A number of features were included in the final models ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including article counts , indicator counts and slopes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In Table 2 -1 , the ten features with highest Gini importance are listed for Model 0 → 1 and Model 1 → 0 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "predicting Y 1 i jt and training on all available weeks .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "There is substantial overlap between the lists for the two models .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "For both models , the article count and the mortality ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "outbreak worsening and novelty indicators were among the most important features .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The mortality indicator describes whether or not fatalities were reported during the week ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the outbreak worsening indicator captures mentions of increasing cases or worsening conditions ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and the novelty indicator measures whether the disease is described as new or unfamiliar .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The finding that the novelty indicator was among the most important features is consistent with previous research that has shown that outbreaks of novel diseases are more likely to have associated social response ( Fast et al , 2015 ; McGrath , 1991 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Table 2-1 : The ten features with highest Gini importance for Model 0 → 1 and Model 1 → 0 Model 0 → 1 Model 1 → 0 Social Response Indicator EWMA as a Percentage of UCL",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In this section, we present results for the 30 countries used for model specification and tuning and compare with the overall results in order to access the extent to which tuning and model specification may have affected results for these countries. We experimented with different model specifications and combinations of features on a subset of data consisting of 30 countries, prior to applying our models to the entire collection of countries. Table 2 -2 presents the model performance metrics for both the entire collection of 72 countries and for the subset of 30 countries used for model specification and tuning. Model performance was slightly diminished on the entire collection of countries compared with the 30 countries used for model specification and tuning. In part, the poorer performance can be explained by the fact that the average number of articles per week in the entire collection of countries was lower than in the 30 countries used for model specification -0.14 articles per week versus 3.50 articles per week. We have shown that in general our models perform best on country-disease pairs that receive substantial news coverage.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this section , we present results for the 30 countries used for model specification and tuning and compare with the overall results in order to access the extent to which tuning and model specification may have affected results for these countries .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We experimented with different model specifications and combinations of features on a subset of data consisting of 30 countries ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "prior to applying our models to the entire collection of countries .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Table 2 -2 presents the model performance metrics for both the entire collection of 72 countries and for the subset of 30 countries used for model specification and tuning .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Model performance was slightly diminished on the entire collection of countries compared with the 30 countries used for model specification and tuning .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In part , the poorer performance can be explained by the fact that the average number of articles per week in the entire collection of countries was lower than in the 30 countries used for model specification -0.14 articles per week versus 3.50 articles per week .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We have shown that in general our models perform best on country-disease pairs that receive substantial news coverage .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "13",
+    "segment_num": "19",
+    "token_num": "410"
+  }
+}

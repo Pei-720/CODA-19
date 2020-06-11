@@ -1,0 +1,174 @@
+{
+  "paper_id": "16fc3ea80fcf22241771cba8952982d0faf82a66",
+  "metadata": {
+    "title": "Dynamic Modeling to Identify Mitigation Strategies for Covid-19 Pandemic",
+    "coda_data_split": "train",
+    "coda_paper_id": 4628,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Relevant pandemic-spread scenario simulations provide guiding principles for containment and mitigation policy developments. Here we devise a simple model to predict the effectiveness of different mitigation strategies. The model consists of a set of simple differential equations considering the population size, reported and unreported infections, reported and unreported recoveries and the number of Covid-19-inflicted deaths. For simplification, we assume that Covid-19 survivors are immune (e.g. mutations are not considered) and that the virus can only be passed on by persons with undetected infections. While the latter assumption is a simplification (it is neglected that e.g. hospital staff may be infected by detected patients with symptoms), it was introduced here to keep the model as simple as possible. Moreover, the current version of the model does not account for age-dependent differences in the death rates, but considers higher mortality rates due to temporary shortage of intensive care units. Some of the model parameters have been fitted to the reported cases outside of China 1 from January 22 to March 12 of the 2020 Covid-19 pandemic. The other parameters were chosen in a plausible range to the best of our knowledge. We compared infection rates, the total number of people getting infected and the number of deaths in six different scenarios. Social distancing or increased testing can contain or drastically reduce the infections and the predicted number of deaths when compared to a situation without mitigation. We find that mass-testing alone and subsequent isolation of detected cases can be an effective mitigation strategy, alone and in combination with social distancing. However, unless one assumes that the virus can be globally defeated by reducing the number of infected persons to zero, testing must be upheld, albeit at reduced intensity, to prevent subsequent waves of infection. The model suggests that testing strategies can be equally effective as social distancing, though at much lower economical costs. We discuss how our mathematical model may help to devise an optimal mix of mitigation strategies against the Covid-19 pandemic. The website corona-lab.ch provides an interactive simulation tool based on the presented model.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Relevant pandemic-spread scenario simulations provide guiding principles for containment and mitigation policy developments .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we devise a simple model to predict the effectiveness of different mitigation strategies .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The model consists of a set of simple differential equations considering the population size ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "reported and unreported infections , reported and unreported recoveries and the number of Covid-19-inflicted deaths .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "For simplification , we assume that Covid-19 survivors are immune ( e.g. mutations are not considered ) and that the virus can only be passed on by persons with undetected infections .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "While the latter assumption is a simplification ( it is neglected that e.g. hospital staff may be infected by detected patients with symptoms ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "it was introduced here to keep the model as simple as possible .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , the current version of the model does not account for age-dependent differences in the death rates ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "but considers higher mortality rates due to temporary shortage of intensive care units .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Some of the model parameters have been fitted to the reported cases outside of China 1 from January 22 to March 12 of the 2020 Covid-19 pandemic .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The other parameters were chosen in a plausible range to the best of our knowledge .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We compared infection rates , the total number of people getting infected and the number of deaths in six different scenarios .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Social distancing or increased testing can contain or drastically reduce the infections and the predicted number of deaths when compared to a situation without mitigation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We find that mass-testing alone and subsequent isolation of detected cases can be an effective mitigation strategy ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "alone and in combination with social distancing .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , unless one assumes that the virus can be globally defeated by reducing the number of infected persons to zero ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "testing must be upheld , albeit at reduced intensity ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "to prevent subsequent waves of infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The model suggests that testing strategies can be equally effective as social distancing ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "though at much lower economical costs .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We discuss how our mathematical model may help to devise an optimal mix of mitigation strategies against the Covid-19 pandemic .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The website corona-lab .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "ch provides an interactive simulation tool based on the presented model .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The Covid-19 pandemic is a serious threat that can be mitigated by different strategies. Social isolation is currently practiced in most countries in Europe, at least until alternative mitigation strategies can be implemented or therapies and vaccines become available. We have formulated a simple mathematical model to estimate how well social isolation or improved identification of Covid-19 infected people can slow down virus spread and reduce the death toll.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The Covid-19 pandemic is a serious threat that can be mitigated by different strategies .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Social isolation is currently practiced in most countries in Europe ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "at least until alternative mitigation strategies can be implemented or therapies and vaccines become available .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We have formulated a simple mathematical model to estimate how well social isolation or improved identification of Covid-19 infected people can slow down virus spread and reduce the death toll .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "19",
+    "segment_num": "27",
+    "token_num": "451"
+  }
+}

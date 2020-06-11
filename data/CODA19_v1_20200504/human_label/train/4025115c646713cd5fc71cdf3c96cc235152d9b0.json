@@ -1,0 +1,136 @@
+{
+  "paper_id": "4025115c646713cd5fc71cdf3c96cc235152d9b0",
+  "metadata": {
+    "title": "QUANTIFYING TREATMENT EFFECTS OF HYDROXYCHLOROQUINE AND AZITHROMYCIN FOR COVID-19: A SECONDARY ANALYSIS OF AN OPEN LABEL NON-RANDOMIZED CLINICAL TRIAL A PREPRINT",
+    "coda_data_split": "train",
+    "coda_paper_id": 7879,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Human infections with a novel coronavirus (SARS-CoV-2) were first identified via syndromic surveillance in December of 2019 in Wuhan China. Since identification, infections (coronavirus disease-2019; COVID-19) caused by this novel pathogen have spread globally, with more than 250,000 confirmed cases as of March 21, 2020. An open-label clinical trial has just concluded, suggesting improved resolution of viremia with use of two existing therapies: hydroxychloroquine (HCQ) as monotherapy, and in combination with azithromycin (HCQ-AZ). [1, 2].",
+      "sentences": [
+        [
+          {
+            "segment_text": "Human infections with a novel coronavirus ( SARS-CoV-2 ) were first identified via syndromic surveillance in December of 2019 in Wuhan China .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Since identification , infections ( coronavirus disease-2019 ; COVID-19 ) caused by this novel pathogen have spread globally ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with more than 250,000 confirmed cases as of March 21 , 2020 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "An open-label clinical trial has just concluded ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "suggesting improved resolution of viremia with use of two existing therapies : hydroxychloroquine ( HCQ ) as monotherapy ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and in combination with azithromycin ( HCQ-AZ ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "( 1 , 2 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The results of this important trial have major implications for global policy in the rapid scale-up and response to this pandemic. The authors present results with p-values for differences in proportions between the study arms, but their analysis is not able to provide effect size estimates.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The results of this important trial have major implications for global policy in the rapid scale-up and response to this pandemic .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The authors present results with p-values for differences in proportions between the study arms ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but their analysis is not able to provide effect size estimates .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "To address this gap, more modern analytical methods including survival models, have been applied to these data, and show modest to no impact of HCQ treatment, with more significant effects from the HCQ-AZ combination, potentially suggesting a role for co-infections in COVID-19 pathogenesis.",
+      "sentences": [
+        [
+          {
+            "segment_text": "To address this gap , more modern analytical methods including survival models ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "have been applied to these data ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and show modest to no impact of HCQ treatment ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with more significant effects from the HCQ-AZ combination ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "potentially suggesting a role for co-infections in COVID-19 pathogenesis .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The trial of Gautret and colleagues, with consideration of the effect sizes, and p-values from multiple models, does not provide sufficient evidence to support wide-scale rollout of HCQ monotherapy for the treatment of COVID-19; larger randomzied studies should be considered. However, these data do suggest further study of HCQ-AZ combination therapy should be prioritized as rapidly as possible.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The trial of Gautret and colleagues ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with consideration of the effect sizes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and p-values from multiple models ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "does not provide sufficient evidence to support wide-scale rollout of HCQ monotherapy for the treatment of COVID-19 ; larger randomzied studies should be considered .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , these data do suggest further study of HCQ-AZ combination therapy should be prioritized as rapidly as possible .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "9",
+    "segment_num": "20",
+    "token_num": "260"
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "paper_id": "65883e48cd53ad4bec28036f6dc85c71a9cf702f",
+  "metadata": {
+    "title": "Modeling Approaches Toward Understanding Infectious Disease Transmission",
+    "coda_data_split": "train",
+    "coda_paper_id": 4044,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The global burden of morbidity and mortality associated with communicable diseases is nearly three times that of cancer and 70% higher than that of cardiovascular disease [1] . Much of the infectious disease burden is caused by diseases that have a long history in human populations, such as measles, influenza, and pertussis. In recent years, additional disease burden has emerged from outbreaks of HIV, Chikungunya, Zika virus, Ebola virus, Middle East respiratory syndrome, coronavirus, Nipah virus, and Lassa fever, underscoring the continued vulnerability of human populations to novel and re-emerging threats. Mathematical models of infectious disease can be used to understand and predict epidemiological trajectories of outbreaks; they can then be applied to optimize strategies for mitigating disease transmission. These models incorporate pertinent environmental factors, such as seasonal fluctuations, that affect survival or activity of pathogens and their vectors. They can also address complexities of host behavioral change, including local and global human societal changes, health policy, clinical trial design, and resource allocation, which have been increasingly guided by modeling studies.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The global burden of morbidity and mortality associated with communicable diseases is nearly three times that of cancer and 70 % higher than that of cardiovascular disease ( 1 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Much of the infectious disease burden is caused by diseases that have a long history in human populations ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as measles , influenza , and pertussis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In recent years , additional disease burden has emerged from outbreaks of HIV ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Chikungunya , Zika virus , Ebola virus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Middle East respiratory syndrome , coronavirus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Nipah virus , and Lassa fever ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "underscoring the continued vulnerability of human populations to novel and re-emerging threats .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Mathematical models of infectious disease can be used to understand and predict epidemiological trajectories of outbreaks ; they can then be applied to optimize strategies for mitigating disease transmission .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These models incorporate pertinent environmental factors ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as seasonal fluctuations , that affect survival or activity of pathogens and their vectors .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "They can also address complexities of host behavioral change ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including local and global human societal changes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "health policy , clinical trial design ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and resource allocation , which have been increasingly guided by modeling studies .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The epidemiology of infectious diseases and their control is complex. While models can be structured to represent the intricacies of a disease system, the quality of the information they provide depends on balancing existing data, methodological rigor, and simplifying assumptions. Here we describe factors influencing disease transmission, including both mechanisms of microbial infection and host behavior. We then discuss how model structure and parameterization are optimally used for addressing research and policy questions in the context of available information.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The epidemiology of infectious diseases and their control is complex .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "While models can be structured to represent the intricacies of a disease system ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the quality of the information they provide depends on balancing existing data ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "methodological rigor , and simplifying assumptions .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we describe factors influencing disease transmission ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "including both mechanisms of microbial infection and host behavior .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We then discuss how model structure and parameterization are optimally used for addressing research and policy questions in the context of available information .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The spread and control of infectious diseases are related to biological factors that impact the magnitude, timing, and route of transmission. 14 228",
+      "sentences": [
+        [
+          {
+            "segment_text": "The spread and control of infectious diseases are related to biological factors that impact the magnitude ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "timing , and route of transmission .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "14 228",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Transmission could result from direct contact between hosts, could require host-environment interaction, or could be mediated by a vector-often a phlebotomine insect-that transmits a pathogen between different hosts. Transmission can also vary across strata of the host population, as subgroups determined by behavioral, genetic, demographic, environmental, or other characteristics may result in differential exposure or susceptibility to specific diseases. Much of the art and science of modeling rides on critically evaluating which factors are essential to include in order to generate quantitative understanding of a focal research question.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Transmission could result from direct contact between hosts ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "could require host-environment interaction , or could be mediated by a vector-often a phlebotomine insect-that transmits a pathogen between different hosts .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Transmission can also vary across strata of the host population ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as subgroups determined by behavioral ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "genetic , demographic , environmental ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "or other characteristics may result in differential exposure or susceptibility to specific diseases .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Much of the art and science of modeling rides on critically evaluating which factors are essential to include in order to generate quantitative understanding of a focal research question .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Beyond accounting for the change in number of infected individuals over time, it can be important to also incorporate the course of infection during which microbial load, symptom severity, and contact behavior may all vary. Infection progression, or \"age of infection,\" is associated with temporal changes in infectiousness. Microbiological studies that measure the change in pathogen load over the course of an infection are integral to parameterization of dynamic models of disease, particularly evaluating interventions as the timing of intervention during the infection period could impact predicted effectiveness.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Beyond accounting for the change in number of infected individuals over time ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "it can be important to also incorporate the course of infection during which microbial load ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "symptom severity , and contact behavior may all vary .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Infection progression , or `` age of infection ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "\u0027\u0027 is associated with temporal changes in infectiousness .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Microbiological studies that measure the change in pathogen load over the course of an infection are integral to parameterization of dynamic models of disease ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "particularly evaluating interventions as the timing of intervention during the infection period could impact predicted effectiveness .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The behaviors of human hosts, reservoir hosts, and vectors are fundamental to risks of both infection and transmission to others. For nonhuman hosts and vectors, the geographical distribution of habitat, feeding preferences, and proximity to humans affect the rate of transmission. For human hosts, contact patterns, belief systems, attitudes about public health recommendations, and propensity to seek care impact the real-world effectiveness of infection control measures, including quarantining, school closures, handwashing, and vaccination. To some extent, behavioral effects are implicit in the measures of transmission that are used in and estimated by models. However, in many cases it can be more appropriate to treat the transmission rate as a dynamic variable that evolves in concert with behaviors associated with the epidemic.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The behaviors of human hosts ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "reservoir hosts , and vectors are fundamental to risks of both infection and transmission to others .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "For nonhuman hosts and vectors ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the geographical distribution of habitat ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "feeding preferences , and proximity to humans affect the rate of transmission .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "For human hosts , contact patterns ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "belief systems , attitudes about public health recommendations ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and propensity to seek care impact the real-world effectiveness of infection control measures ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including quarantining , school closures , handwashing , and vaccination .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "To some extent , behavioral effects are implicit in the measures of transmission that are used in and estimated by models .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , in many cases it can be more appropriate to treat the transmission rate as a dynamic variable that evolves in concert with behaviors associated with the epidemic .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "6",
+    "sentence_num": "23",
+    "segment_num": "50",
+    "token_num": "650"
+  }
+}

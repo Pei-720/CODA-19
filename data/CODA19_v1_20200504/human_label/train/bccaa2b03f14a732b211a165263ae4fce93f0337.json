@@ -1,0 +1,162 @@
+{
+  "paper_id": "bccaa2b03f14a732b211a165263ae4fce93f0337",
+  "metadata": {
+    "title": "Building predictive models for MERS-CoV infections using data mining techniques Building predictive models for MERS-CoV infections using data mining techniques 745",
+    "coda_data_split": "train",
+    "coda_paper_id": 8152,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Recently, the outbreak of MERS-CoV infections caused worldwide attention to Saudi Arabia. The novel virus belongs to the coronaviruses family, which is responsible for causing mild to moderate colds. The control and command center of Saudi Ministry of Health issues a daily report on MERS-CoV infection cases. The infection with MERS-CoV can lead to fatal complications, however little information is known about this novel virus. In this paper, we apply two data mining techniques in order to better understand the stability and the possibility of recovery from MERS-CoV infections. Method: The Naive Bayes classifier and J48 decision tree algorithm were used to build our models. The dataset used consists of 1082 records of cases reported between 2013 and 2015. In order to build our prediction models, we split the dataset into two groups. The first group combined recovery and death records. A new attribute was created to indicate the record type, such that the dataset can be used to predict the recovery from MERS-CoV. The second group contained the new case records to be used to predict the stability of the infection based on the current status attribute. Results: The resulting recovery models indicate that healthcare workers are more likely to survive. This could be due to the vaccinations that healthcare workers are required to get on regular basis. As for the stability models using J48, two attributes were found to be important for predicting stability: symptomatic and age. Old patients are at high risk of developing MERS-CoV complications. Finally, the performance of all the models was evaluated using three measures: accuracy, precision, and recall. In general, the accuracy of the models is between 53.6% and 71.58%.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Recently , the outbreak of MERS-CoV infections caused worldwide attention to Saudi Arabia .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The novel virus belongs to the coronaviruses family ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which is responsible for causing mild to moderate colds .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The control and command center of Saudi Ministry of Health issues a daily report on MERS-CoV infection cases .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The infection with MERS-CoV can lead to fatal complications ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "however little information is known about this novel virus .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this paper , we apply two data mining techniques in order to better understand the stability and the possibility of recovery from MERS-CoV infections .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Method : The Naive Bayes classifier and J48 decision tree algorithm were used to build our models .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The dataset used consists of 1082 records of cases reported between 2013 and 2015 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In order to build our prediction models ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we split the dataset into two groups .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The first group combined recovery and death records .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A new attribute was created to indicate the record type ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "such that the dataset can be used to predict the recovery from MERS-CoV .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The second group contained the new case records to be used to predict the stability of the infection based on the current status attribute .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results : The resulting recovery models indicate that healthcare workers are more likely to survive .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This could be due to the vaccinations that healthcare workers are required to get on regular basis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "As for the stability models using J48 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "two attributes were found to be important for predicting stability : symptomatic and age .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Old patients are at high risk of developing MERS-CoV complications .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , the performance of all the models was evaluated using three measures : accuracy , precision , and recall .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In general , the accuracy of the models is between 53.6 % and 71.58 % .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We believe that the performance of the prediction models can be enhanced with the use of more patient data. As future work, we plan to directly contact hospitals in Riyadh in order to collect more information related to patients with MERS-CoV infections.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We believe that the performance of the prediction models can be enhanced with the use of more patient data .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "As future work , we plan to directly contact hospitals in Riyadh in order to collect more information related to patients with MERS-CoV infections .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "19",
+    "segment_num": "24",
+    "token_num": "358"
+  }
+}

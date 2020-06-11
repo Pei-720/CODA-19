@@ -1,0 +1,99 @@
+{
+  "paper_id": "36c129aaa051ff049a4d92fbf4f388e340a865c8",
+  "metadata": {
+    "title": "Mathematical Biology Parameter identification for a stochastic SEIRS epidemic model: case study influenza",
+    "coda_data_split": "test",
+    "coda_paper_id": 164,
+    "coda_has_expert_labels": true,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "A recent parameter identification technique, the local lagged adapted generalized method of moments, is used to identify the time-dependent disease transmission rate and time-dependent noise for the stochastic susceptible, exposed, infectious, temporarily immune, susceptible disease model (S E I RS) with vital rates. The stochasticity appears in the model due to fluctuations in the time-dependent transmission rate of the disease. All other parameter values are assumed to be fixed, known constants. The method is demonstrated with US influenza data from the 2004-2005 through 2016-2017 influenza seasons. The transmission rate and noise intensity stochastically work together to generate the yearly peaks in infections. The local lagged adapted generalized method of moments is tested for forecasting ability. Forecasts are made for the 2016-2017 influenza season and for infection data in year 2017. The forecast method qualitatively matches a single influenza season. Confidence intervals are given for possible future infectious levels. Keywords Compartment disease model · Stochastic disease model · Local lagged adapted generalized method of moments · Time-dependent transmission rate Mathematics Subject Classification 60H10 · 60P10 · 92D30",
+      "sentences": [
+        [
+          {
+            "segment_text": "A recent parameter identification technique ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the local lagged adapted generalized method of moments ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "is used to identify the time-dependent disease transmission rate and time-dependent noise for the stochastic susceptible ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "exposed , infectious , temporarily immune ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "susceptible disease model ( S E I RS ) with vital rates .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The stochasticity appears in the model due to fluctuations in the time-dependent transmission rate of the disease .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "All other parameter values are assumed to be fixed , known constants .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The method is demonstrated with US influenza data from the 2004-2005 through 2016-2017 influenza seasons .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The transmission rate and noise intensity stochastically work together to generate the yearly peaks in infections .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The local lagged adapted generalized method of moments is tested for forecasting ability .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Forecasts are made for the 2016-2017 influenza season and for infection data in year 2017 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The forecast method qualitatively matches a single influenza season .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Confidence intervals are given for possible future infectious levels .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Keywords Compartment disease model · Stochastic disease model · Local lagged adapted generalized method of moments · Time-dependent transmission rate Mathematics Subject Classification 60H10 · 60P10 · 92D30",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "10",
+    "segment_num": "14",
+    "token_num": "194"
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "paper_id": "57eb12d93057a4bc1a043420327251b2327c9b39",
+  "metadata": {
+    "title": "Ministry of Health, Kinshasa, Democratic Republic of Congo g. School of Public Health",
+    "coda_data_split": "train",
+    "coda_paper_id": 3652,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: As of May 27, 2018, 54 cases of Ebola virus disease (EVD) were reported in Équateur Province, Democratic Republic of Congo. We used reported case counts and time series from prior outbreaks to estimate the current outbreak size and duration with and without vaccine use.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : As of May 27 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "2018 , 54 cases of Ebola virus disease ( EVD ) were reported in Équateur Province , Democratic Republic of Congo .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We used reported case counts and time series from prior outbreaks to estimate the current outbreak size and duration with and without vaccine use .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We modeled Ebola virus transmission using a stochastic branching process model with a negative binomial distribution, using both estimates of reproduction number R declining from supercritical to subcritical derived from past Ebola outbreaks, as well as a particle filtering method to generate a probabilistic projection of the future course of the outbreak conditioned on its reported trajectory to date; modeled using 0%, 44%, and 62% estimates of vaccination coverage. Additionally, we used the time series for 18 prior Ebola outbreaks from 1976 to 2016 to parameterize a regression model predicting the outbreak size from the number of observed cases from April 4 to May 27.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We modeled Ebola virus transmission using a stochastic branching process model with a negative binomial distribution ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "using both estimates of reproduction number R declining from supercritical to subcritical derived from past Ebola outbreaks ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "as well as a particle filtering method to generate a probabilistic projection of the future course of the outbreak conditioned on its reported trajectory to date ; modeled using 0 % ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "44 % , and 62 % estimates of vaccination coverage .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Additionally , we used the time series for 18 prior Ebola outbreaks from 1976 to 2016 to parameterize a regression model predicting the outbreak size from the number of observed cases from April 4 to May 27 .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "With the stochastic transmission model, we projected a median outbreak size of 78 EVD cases (95% credible interval: 52, 125.4), 86 cases (95% credible interval: 53, 174.3), and 91 cases (95% credible interval: 52, 843.5), using 62%, 44%, and 0% estimates of vaccination coverage. With the regression All rights reserved. No reuse allowed without permission.",
+      "sentences": [
+        [
+          {
+            "segment_text": "With the stochastic transmission model ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we projected a median outbreak size of 78 EVD cases ( 95 % credible interval : 52 , 125.4 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "86 cases ( 95 % credible interval : 53 , 174.3 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and 91 cases ( 95 % credible interval : 52 , 843.5 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "using 62 % , 44 % ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and 0 % estimates of vaccination coverage .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "With the regression All rights reserved .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "No reuse allowed without permission .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The copyright holder for this preprint (which was not peer-reviewed) is the author/funder. . https://doi.org/10.1101/331447 doi: bioRxiv preprint model, we estimated a median size of 85.0 cases (95% prediction interval: 53.5, 216.6).",
+      "sentences": [
+        [
+          {
+            "segment_text": "The copyright holder for this preprint ( which was not peer-reviewed ) is the author/funder .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": ".",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "https://doi.org/10.1101/331447 doi : bioRxiv preprint model ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "we estimated a median size of 85.0 cases ( 95 % prediction interval : 53.5 , 216.6 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Conclusions: This outbreak has the potential to be the largest outbreak in DRC since 2007. Vaccines are projected to limit outbreak size and duration but are only part of prevention, control, and care strategies.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Conclusions : This outbreak has the potential to be the largest outbreak in DRC since 2007 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Vaccines are projected to limit outbreak size and duration but are only part of prevention ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "control , and care strategies .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "12",
+    "segment_num": "23",
+    "token_num": "334"
+  }
+}

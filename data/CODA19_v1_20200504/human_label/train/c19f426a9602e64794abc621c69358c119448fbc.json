@@ -1,0 +1,355 @@
+{
+  "paper_id": "c19f426a9602e64794abc621c69358c119448fbc",
+  "metadata": {
+    "title": "molecules Synthetic Compounds with 2-Amino-1,3,4-Thiadiazole Moiety Against Viral Infections",
+    "coda_data_split": "train",
+    "coda_paper_id": 2016,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Viral infections have resulted in millions of victims in human history. Although great efforts have been made to find effective medication, there are still no drugs that truly cure viral infections. There are currently approximately 90 drugs approved for the treatment of human viral infections. As resistance toward available antiviral drugs has become a global threat to health, there is an intrinsic need to identify new scaffolds that are useful in discovering innovative, less toxic and highly active antiviral agents. 1,3,4-Thiadiazole derivatives have been extensively studied due to their pharmacological profile, physicochemical and pharmacokinetic properties. This review provides an overview of the various synthetic compounds containing the 2-amino-1,3,4-thiadiazole moiety that has been evaluated for antiviral activity against several viral strains and could be considered possible prototypes for the development of new antiviral drugs.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Viral infections have resulted in millions of victims in human history .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although great efforts have been made to find effective medication ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "there are still no drugs that truly cure viral infections .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "There are currently approximately 90 drugs approved for the treatment of human viral infections .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As resistance toward available antiviral drugs has become a global threat to health ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "there is an intrinsic need to identify new scaffolds that are useful in discovering innovative ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "less toxic and highly active antiviral agents .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "1,3,4-Thiadiazole derivatives have been extensively studied due to their pharmacological profile , physicochemical and pharmacokinetic properties .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This review provides an overview of the various synthetic compounds containing the 2-amino-1,3,4-thiadiazole moiety that has been evaluated for antiviral activity against several viral strains and could be considered possible prototypes for the development of new antiviral drugs .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Molecules 2020, 25, 942 2 of 22 due to the ability of viruses to undergo rapid mutations, the mechanisms involved in developing resistance to antiviral drugs are activated in most cases [1, 3] . As resistance toward antiviral drugs is becoming a global health threat, there is an intrinsic need to identify new scaffolds that are useful in discovering innovative, less toxic and highly active antiviral agents [3,6,7].",
+      "sentences": [
+        [
+          {
+            "segment_text": "Molecules 2020 , 25 , 942 2 of 22 due to the ability of viruses to undergo rapid mutations ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the mechanisms involved in developing resistance to antiviral drugs are activated in most cases ( 1 , 3 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As resistance toward antiviral drugs is becoming a global health threat ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "there is an intrinsic need to identify new scaffolds that are useful in discovering innovative ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "less toxic and highly active antiviral agents ( 3,6,7 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Nitrogen-containing heterocycles are widely distributed in nature and are essential in vegetal and animal metabolism. They are found in nucleic acids, vitamins, antibiotics, alkaloids, etc. [8] [9] [10] [11] [12] [13] [14] . In addition, nitrogen-containing heterocycles are important targets for medicinal chemistry, as they are found in more than half of the commercially available drugs and can also act as versatile intermediates in the synthesis of complex products that exhibit outstanding biological activities [15] . Most of the nitrogen-containing heterocyclic compounds exhibit better biological activity than non-nitrogen compounds [12, 16, 17] . Currently, there are approximately 90 drugs approved for use in the treatment of nine human viral infections caused by human immunodeficiency virus (HIV), hepatitis B virus (HBV), hepatitis C virus (HCV), herpes simplex virus (HSV), Influenza virus, human cytomegalovirus (HCMV), varicella-zoster virus (VZV), respiratory syncytial virus (RSV) and human papillomavirus [18] . Most of these drugs (e.g., acyclovir, cidofovir, idoxuridine, nevirapine, pleconaril, ribavirin, etc.) are nitrogen heterocycle molecules [3, 19] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Nitrogen-containing heterocycles are widely distributed in nature and are essential in vegetal and animal metabolism .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "They are found in nucleic acids ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "vitamins , antibiotics , alkaloids ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "etc. ( 8 ) ( 9 ) ( 10 ) ( 11 ) ( 12 ) ( 13 ) ( 14 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , nitrogen-containing heterocycles are important targets for medicinal chemistry ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as they are found in more than half of the commercially available drugs and can also act as versatile intermediates in the synthesis of complex products that exhibit outstanding biological activities ( 15 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Most of the nitrogen-containing heterocyclic compounds exhibit better biological activity than non-nitrogen compounds ( 12 , 16 , 17 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Currently , there are approximately 90 drugs approved for use in the treatment of nine human viral infections caused by human immunodeficiency virus ( HIV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "hepatitis B virus ( HBV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "hepatitis C virus ( HCV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "herpes simplex virus ( HSV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Influenza virus , human cytomegalovirus ( HCMV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "varicella-zoster virus ( VZV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "respiratory syncytial virus ( RSV ) and human papillomavirus ( 18 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Most of these drugs ( e.g. , acyclovir , cidofovir , idoxuridine , nevirapine , pleconaril , ribavirin , etc. ) are nitrogen heterocycle molecules ( 3 , 19 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Five-membered aromatic systems with three heteroatoms at symmetrical positions, such as the 1,3,4-thiadiazole ring, have been extensively studied due to their pharmacological profile and physicochemical and pharmacokinetic properties. 1,3,4-Thiadiazole derivatives are known as compounds having significant and diverse biological activities such as antibacterial, antifungal, antitubercular [20], analgesic and anti-inflammatory [21, 22] , antidepressant and anxiolytic [23], kinesin inhibitors [24], etc. The 1,3,4-thiadiazole ring is also found in several medicines such as acetazolamide, methazolamide, cefazolin, cefazedone, sulfamethizole or megazol [20, [25] [26] [27] . The 1,3,4-thiadiazole nucleus provides the compounds with high lipophilicity and the ability to form mesoionic systems associated with discrete regions of positive and negative charges. These distinct features allow mesoionic compounds to efficiently cross cellular membranes, leading to good oral absorption, bioavailability and strong unique interactions with biological molecules (e.g., DNA, proteins, etc.) thus increasing the potential of 1,3,4-thiadiazole derivatives to exhibit biological activities [20, [27] [28] [29] . The thiadiazole ring is a bioisostere of the pyrimidine and pyridazine rings. The pyrimidine nucleus is commonly found in naturally occurring compounds of biochemical importance, as well as in drugs (e.g., pyrimidine nucleosides and nucleotides, nucleic acids, antiviral drugs), while the pyridazine nucleus is a component of some pharmacologically active compounds [20, [30] [31] [32] . The thiadiazole ring also acts as a bioisostere of the thiazole ring, and therefore thiadiazole derivatives can act in the same way as third-and fourth-generation antibacterial cephalosporins. This is an additional feature that highlights the high potential of this ring system in medicinal chemistry [20, 28] . Many researchers suppose there is a connection between the biological potential of 1,3,4-thiadiazoles and the strongly aromatic character of the 1,3,4-thiadiazole ring, as well as the presence of the toxophoric \u003dN-C-Slinkage group. Furthermore, the high in vivo stability and low toxicity for higher organisms are also attributed to the 1,3,4-thiadiazole ring [20, 33, 34] . In addition, the amine derivatives of 1,3,4-thiadiazole are also studied. 2-Amino-1,3,4-thiadiazole moiety and its derivatives are known for their antitumor, antitrypanosomal and uricogenic properties [20, 25, 27, [35] [36] [37] [38] . 2-Amino-1,3,4-thiadiazole derivatives are currently being synthesized in many laboratories, and in previous papers, we described several 2-amino-1,3,4-thiadiazoles that exhibit antibacterial, antifungal, antitubercular [20, [39] [40] [41] [42] [43] [44] , and antiparasitic activities [27, 38] . The purpose of this paper is to present some small molecules possessing the 2-amino-1,3,4-thiadiazole moiety that have shown antiviral activity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Five-membered aromatic systems with three heteroatoms at symmetrical positions ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as the 1,3,4-thiadiazole ring ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "have been extensively studied due to their pharmacological profile and physicochemical and pharmacokinetic properties .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "1,3,4-Thiadiazole derivatives are known as compounds having significant and diverse biological activities such as antibacterial ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "antifungal , antitubercular ( 20 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "analgesic and anti-inflammatory ( 21 , 22 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "antidepressant and anxiolytic ( 23 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "kinesin inhibitors ( 24 ) , etc. .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The 1,3,4-thiadiazole ring is also found in several medicines such as acetazolamide ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "methazolamide , cefazolin , cefazedone ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "sulfamethizole or megazol ( 20 , ( 25 ) ( 26 ) ( 27 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The 1,3,4-thiadiazole nucleus provides the compounds with high lipophilicity and the ability to form mesoionic systems associated with discrete regions of positive and negative charges .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These distinct features allow mesoionic compounds to efficiently cross cellular membranes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "leading to good oral absorption ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "bioavailability and strong unique interactions with biological molecules ( e.g. , DNA , proteins , etc. ) thus increasing the potential of 1,3,4-thiadiazole derivatives to exhibit biological activities ( 20 , ( 27 ) ( 28 ) ( 29 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The thiadiazole ring is a bioisostere of the pyrimidine and pyridazine rings .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The pyrimidine nucleus is commonly found in naturally occurring compounds of biochemical importance ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as well as in drugs ( e.g. , pyrimidine nucleosides and nucleotides , nucleic acids , antiviral drugs ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "while the pyridazine nucleus is a component of some pharmacologically active compounds ( 20 , ( 30 ) ( 31 ) ( 32 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The thiadiazole ring also acts as a bioisostere of the thiazole ring ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and therefore thiadiazole derivatives can act in the same way as third-and fourth-generation antibacterial cephalosporins .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This is an additional feature that highlights the high potential of this ring system in medicinal chemistry ( 20 , 28 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Many researchers suppose there is a connection between the biological potential of 1,3,4-thiadiazoles and the strongly aromatic character of the 1,3,4-thiadiazole ring ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as well as the presence of the toxophoric \u003d N-C-Slinkage group .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , the high in vivo stability and low toxicity for higher organisms are also attributed to the 1,3,4-thiadiazole ring ( 20 , 33 , 34 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , the amine derivatives of 1,3,4-thiadiazole are also studied .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "2-Amino-1,3,4-thiadiazole moiety and its derivatives are known for their antitumor ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "antitrypanosomal and uricogenic properties ( 20 , 25 , 27 , ( 35 ) ( 36 ) ( 37 ) ( 38 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "2-Amino-1,3,4-thiadiazole derivatives are currently being synthesized in many laboratories ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and in previous papers , we described several 2-amino-1,3,4-thiadiazoles that exhibit antibacterial ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "antifungal , antitubercular ( 20 , ( 39 ) ( 40 ) ( 41 ) ( 42 ) ( 43 ) ( 44 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and antiparasitic activities ( 27 , 38 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The purpose of this paper is to present some small molecules possessing the 2-amino-1,3,4-thiadiazole moiety that have shown antiviral activity .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Molecules 2020, 25, 942 3 of 22",
+      "sentences": [
+        [
+          {
+            "segment_text": "Molecules 2020 , 25 , 942 3 of 22",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "30",
+    "segment_num": "63",
+    "token_num": "968"
+  }
+}

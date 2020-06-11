@@ -1,0 +1,209 @@
+{
+  "paper_id": "b29af8a410b032d1159bf9cefe0654c43f3503d9",
+  "metadata": {
+    "title": "Practice of Epidemiology Assessing Zika Virus Transmission Within Households During an Outbreak in Martinique, 2015-2016",
+    "coda_data_split": "train",
+    "coda_paper_id": 2880,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Since 2015, Zika virus (ZIKV) has caused large epidemics in the Americas. Households are natural targets for control interventions, but quantification of the contribution of household transmission to overall spread is needed to guide policy. We developed a modeling framework to evaluate this contribution and key epidemic features of the ZIKV epidemic in Martinique in 2015-2016 from the joint analysis of a household transmission study (n \u003d 68 households), a study among symptomatic pregnant women (n \u003d 281), and seroprevalence surveys of blood donors (n \u003d 457). We estimated that the probability of mosquito-mediated within-household transmission (from an infected member to a susceptible one) was 21% (95% credible interval (CrI): 5, 51), and the overall probability of infection from outside the household (i.e., in the community) was 39% (95% CrI: 27, 50). Overall, 50% (95% CrI: 43, 58) of the population was infected, with 22% (95% CrI: 5, 46) of infections acquired in households and 40% (95% CrI: 23, 56) being asymptomatic. The probability of presenting with Zika-like symptoms due to another cause was 16% (95% CrI: 10, 23). This study characterized the contribution of household transmission in ZIKV epidemics, demonstrating the benefits of integrating multiple data sets to gain more insight into epidemic dynamics. asymptomatic infections; final size model; household transmission; Zika virus Abbreviations: CI, confidence interval; CrI, credible interval; ZIKV, Zika virus.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Since 2015 , Zika virus ( ZIKV ) has caused large epidemics in the Americas .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Households are natural targets for control interventions ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but quantification of the contribution of household transmission to overall spread is needed to guide policy .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We developed a modeling framework to evaluate this contribution and key epidemic features of the ZIKV epidemic in Martinique in 2015-2016 from the joint analysis of a household transmission study ( n \u003d 68 households ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "a study among symptomatic pregnant women ( n \u003d 281 ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and seroprevalence surveys of blood donors ( n \u003d 457 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We estimated that the probability of mosquito-mediated within-household transmission ( from an infected member to a susceptible one ) was 21 % ( 95 % credible interval ( CrI ) : 5 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "51 ) , and the overall probability of infection from outside the household ( i.e. , in the community ) was 39 % ( 95 % CrI : 27 , 50 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Overall , 50 % ( 95 % CrI : 43 , 58 ) of the population was infected ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with 22 % ( 95 % CrI : 5 , 46 ) of infections acquired in households and 40 % ( 95 % CrI : 23 , 56 ) being asymptomatic .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The probability of presenting with Zika-like symptoms due to another cause was 16 % ( 95 % CrI : 10 , 23 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study characterized the contribution of household transmission in ZIKV epidemics ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "demonstrating the benefits of integrating multiple data sets to gain more insight into epidemic dynamics .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "asymptomatic infections ; final size model ; household transmission ; Zika virus Abbreviations : CI ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "confidence interval ; CrI , credible interval ; ZIKV , Zika virus .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Aedes mosquitoes in tropical and subtropical regions (1). Discovered in 1947 (2) and regularly detected in Africa and Asia since then (3), ZIKV initially received little attention, mostly because ZIKV infections are usually asymptomatic or do not present severe symptoms, with Zika medical signs including fever, rash, conjunctivitis, arthralgia, myalgia, and headache. However, widespread ZIKV epidemics in Pacific Islands from 2007 (4) and in the Americas from 2015 (5, 6) have highlighted the risks of severe complications. In particular, ZIKV infection has been associated with Guillain-Barré syndrome and microcephaly (7-12). Currently, there is no curative treatment or vaccine for ZIKV infection (13). To develop effective control strategies against ZIKV, it is important to determine where ZIKV transmission occurs. Households might be natural targets for interventions because the abundance of Aedes breeding sites or the mosquito\u0027s feeding behavior and indoor resting, and the spatial proximity between household members might well facilitate mosquito-mediated transmission. However, a precise quantification of the contribution of household transmission to the overall spread is needed to guide policy.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Aedes mosquitoes in tropical and subtropical regions ( 1 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Discovered in 1947 ( 2 ) and regularly detected in Africa and Asia since then ( 3 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "ZIKV initially received little attention ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "mostly because ZIKV infections are usually asymptomatic or do not present severe symptoms ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with Zika medical signs including fever ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "rash , conjunctivitis , arthralgia , myalgia , and headache .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , widespread ZIKV epidemics in Pacific Islands from 2007 ( 4 ) and in the Americas from 2015 ( 5 , 6 ) have highlighted the risks of severe complications .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In particular , ZIKV infection has been associated with Guillain-Barré syndrome and microcephaly ( 7-12 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Currently , there is no curative treatment or vaccine for ZIKV infection ( 13 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To develop effective control strategies against ZIKV ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "it is important to determine where ZIKV transmission occurs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Households might be natural targets for interventions because the abundance of Aedes breeding sites or the mosquito \u0027s feeding behavior and indoor resting ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and the spatial proximity between household members might well facilitate mosquito-mediated transmission .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , a precise quantification of the contribution of household transmission to the overall spread is needed to guide policy .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Using data from a household transmission study where Zika-like symptoms were monitored in household contacts of laboratory-confirmed ZIKV cases, we characterized ZIKV household transmission in Martinique, a French island in the Caribbean that was affected by a large ZIKV outbreak in 2016 (14). We also investigated how such transmission studies, describing the clustering of symptomatic individuals in households, might be used to estimate other key epidemiologic",
+      "sentences": [
+        [
+          {
+            "segment_text": "Using data from a household transmission study where Zika-like symptoms were monitored in household contacts of laboratory-confirmed ZIKV cases ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we characterized ZIKV household transmission in Martinique ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a French island in the Caribbean that was affected by a large ZIKV outbreak in 2016 ( 14 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also investigated how such transmission studies ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "describing the clustering of symptomatic individuals in households ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "might be used to estimate other key epidemiologic",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "18",
+    "segment_num": "35",
+    "token_num": "582"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "paper_id": "456a5a629bd9002e4e318f238483caca96f2c3d6",
+  "metadata": {
+    "title": "Cathepsin B plays a key role in optimal production of the influenza A virus",
+    "coda_data_split": "train",
+    "coda_paper_id": 6476,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "is the etiologic agent of the febrile respiratory illness, commonly referred to as \u0027flu\u0027. The lysosomal protease cathepsin B (CTSB) has shown to be involved in the lifecycle of various viruses. Here, we examined the role of CTSB in the IAV lifecycle.",
+      "sentences": [
+        [
+          {
+            "segment_text": "is the etiologic agent of the febrile respiratory illness ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "commonly referred to as ` flu \u0027 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The lysosomal protease cathepsin B ( CTSB ) has shown to be involved in the lifecycle of various viruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we examined the role of CTSB in the IAV lifecycle .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Methods-CTSB-deficient (CTSB −/− ) macrophages and the human lung epithelial cell line A549 cells treated with CA-074Me were infected with the A/Puerto Rico/8/34 strain of IAV (IAV-PR8). Viral entry and propagation were measured through quantitative real-time RT-PCR; production and localization of hemagglutinin (HA) protein in the infected host cells were analysed by Western blots, flow cytometry and confocal microscopy; production of progeny viruses were measured by a hemagglutination assay.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Methods-CTSB-deficient ( CTSB − / − ) macrophages and the human lung epithelial cell line A549 cells treated with CA-074Me were infected with the A/Puerto Rico/8/34 strain of IAV ( IAV-PR8 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Viral entry and propagation were measured through quantitative real-time RT-PCR ; production and localization of hemagglutinin ( HA ) protein in the infected host cells were analysed by Western blots ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "flow cytometry and confocal microscopy ; production of progeny viruses were measured by a hemagglutination assay .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results-CTSB −/− macrophages and CA-074Me-treated A549 cells had no defects in incorporating IAV-PR8 virions and permitting viral RNA synthesis. However, these cells produced significantly lower amounts of HA protein and progeny virions than wild-type or untreated cells.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results-CTSB − / − macrophages and CA-074Me-treated A549 cells had no defects in incorporating IAV-PR8 virions and permitting viral RNA synthesis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , these cells produced significantly lower amounts of HA protein and progeny virions than wild-type or untreated cells .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Conclusion-These data indicate that CTSB is involved in the expression of IAV-PR8 HA protein and subsequent optimal production of IAV-PR8 progeny virions. Targeting CTSB can be a novel therapeutic strategy for treating IAV infection.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Conclusion-These data indicate that CTSB is involved in the expression of IAV-PR8 HA protein and subsequent optimal production of IAV-PR8 progeny virions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Targeting CTSB can be a novel therapeutic strategy for treating IAV infection .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "9",
+    "segment_num": "11",
+    "token_num": "210"
+  }
+}

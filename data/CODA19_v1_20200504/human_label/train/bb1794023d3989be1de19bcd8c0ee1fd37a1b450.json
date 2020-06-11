@@ -1,0 +1,39 @@
+{
+  "paper_id": "bb1794023d3989be1de19bcd8c0ee1fd37a1b450",
+  "metadata": {
+    "title": "Automatically Fixing Errors in Glycoprotein Structures with Rosetta Graphical Abstract Highlights d New method for refinement of carbohydrates with low- resolution electron density d Improved physical geometry of glycans in protein structures d Compatible with cryoEM and X-ray crystallography data Automatically Fixing Errors in Glycoprotein Structures with Rosetta",
+    "coda_data_split": "train",
+    "coda_paper_id": 6963,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Frenz et al. have developed a new method for refinement of glycoprotein structures against low-resolution cryoEM and X-ray crystallography data. This new method is able to make significantly larger changes to the glycan geometry compared with previous methods, including the ability to changing the glycan\u0027s anomer.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Frenz et al. have developed a new method for refinement of glycoprotein structures against low-resolution cryoEM and X-ray crystallography data .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This new method is able to make significantly larger changes to the glycan geometry compared with previous methods ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including the ability to changing the glycan \u0027s anomer .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "2",
+    "segment_num": "3",
+    "token_num": "50"
+  }
+}

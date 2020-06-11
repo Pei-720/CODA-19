@@ -1,0 +1,95 @@
+{
+  "paper_id": "b835ca19db9b3efe723e5720f510f92ffd5e5000",
+  "metadata": {
+    "title": "Computational design of protein antigens that interact with the CDR H3 loop of HIV broadly neutralizing antibody 2F5 HHS Public Access",
+    "coda_data_split": "train",
+    "coda_paper_id": 7996,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Rational design of proteins with novel binding specificities and increased affinity is one of the major goals of computational protein design. Epitope-scaffolds are a new class of antigens engineered by transplanting viral epitopes of pre-defined structure to protein scaffolds, or by building protein scaffolds around such epitopes. Epitope-scaffolds are of interest as vaccine components to attempt to elicit neutralizing antibodies targeting the specified epitope. In this study we developed a new computational protocol, MultiGraft Interface, that transplants epitopes but also designs additional scaffold features outside the epitope to enhance antibody-binding specificity and potentially influence the specificity of elicited antibodies. We employed MultiGraft Interface to engineer novel epitope-scaffolds that display the known epitope of HIV-1 neutralizing antibody 2F5 and that also interact with the functionally important CDR H3 antibody loop. MultiGraft Interface generated an epitope-scaffold that bound 2F5 with sub-nanomolar affinity (K D \u003d 400 pM) and that interacted with the antibody CDR H3 loop through computationally designed contacts. Substantial structural modifications were necessary to engineer this antigen, with the 2F5 epitope replacing a helix in the native scaffold and with 15% of the native scaffold sequence being modified in the design stage. This epitope-scaffold represents a successful example of rational protein backbone engineering and protein-protein interface design and could prove useful in the field of HIV vaccine design. MultiGraft Interface can be generally applied to engineer novel binding partners with altered specificity and optimized affinity. §",
+      "sentences": [
+        [
+          {
+            "segment_text": "Rational design of proteins with novel binding specificities and increased affinity is one of the major goals of computational protein design .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Epitope-scaffolds are a new class of antigens engineered by transplanting viral epitopes of pre-defined structure to protein scaffolds ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "or by building protein scaffolds around such epitopes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Epitope-scaffolds are of interest as vaccine components to attempt to elicit neutralizing antibodies targeting the specified epitope .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study we developed a new computational protocol ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "MultiGraft Interface , that transplants epitopes but also designs additional scaffold features outside the epitope to enhance antibody-binding specificity and potentially influence the specificity of elicited antibodies .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We employed MultiGraft Interface to engineer novel epitope-scaffolds that display the known epitope of HIV-1 neutralizing antibody 2F5 and that also interact with the functionally important CDR H3 antibody loop .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "MultiGraft Interface generated an epitope-scaffold that bound 2F5 with sub-nanomolar affinity ( K D \u003d 400 pM ) and that interacted with the antibody CDR H3 loop through computationally designed contacts .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Substantial structural modifications were necessary to engineer this antigen ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with the 2F5 epitope replacing a helix in the native scaffold and with 15 % of the native scaffold sequence being modified in the design stage .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This epitope-scaffold represents a successful example of rational protein backbone engineering and protein-protein interface design and could prove useful in the field of HIV vaccine design .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "MultiGraft Interface can be generally applied to engineer novel binding partners with altered specificity and optimized affinity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "§",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "10",
+    "segment_num": "13",
+    "token_num": "252"
+  }
+}

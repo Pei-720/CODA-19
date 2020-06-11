@@ -1,0 +1,260 @@
+{
+  "paper_id": "02fdaf97dd0af539eada2af2f1563e0d77a28f92",
+  "metadata": {
+    "title": "Discovery of an antibody for pan- ebolavirus therapy OPEN",
+    "coda_data_split": "train",
+    "coda_paper_id": 4529,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "During the latest outbreak of Ebola virus disease in West Africa, monoclonal antibody therapy (e.g., ZMapp) was utilized to treat patients. However, due to the antigenic differences among the five ebolavirus species, the current therapeutic monoclonal antibodies are only effective against viruses of the species Zaire ebolavirus. Although this particular species has indeed caused the majority of human infections in Central and, recently, West Africa, other ebolavirus species (e.g., Sudan ebolavirus and Bundibugyo ebolavirus) have also repeatedly caused outbreaks in Central Africa and thus should not be neglected in the development of countermeasures against ebolaviruses. Here we report the generation of an ebolavirus glycoprotein-specific monoclonal antibody that effectively inhibits cellular entry of representative isolates of all known ebolavirus species in vitro and show its protective efficacy in mouse models of ebolavirus infections. This novel neutralizing monoclonal antibody targets a highly conserved internal fusion loop in the glycoprotein molecule and prevents membrane fusion of the viral envelope with cellular membranes. The discovery of this highly cross-neutralizing antibody provides a promising option for broad-acting ebolavirus antibody therapy and will accelerate the design of improved vaccines that can selectively elicit cross-neutralizing antibodies against multiple species of ebolaviruses.",
+      "sentences": [
+        [
+          {
+            "segment_text": "During the latest outbreak of Ebola virus disease in West Africa ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "monoclonal antibody therapy ( e.g. , ZMapp ) was utilized to treat patients .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , due to the antigenic differences among the five ebolavirus species ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the current therapeutic monoclonal antibodies are only effective against viruses of the species Zaire ebolavirus .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although this particular species has indeed caused the majority of human infections in Central and ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "recently , West Africa , other ebolavirus species ( e.g. , Sudan ebolavirus and Bundibugyo ebolavirus ) have also repeatedly caused outbreaks in Central Africa and thus should not be neglected in the development of countermeasures against ebolaviruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we report the generation of an ebolavirus glycoprotein-specific monoclonal antibody that effectively inhibits cellular entry of representative isolates of all known ebolavirus species in vitro and show its protective efficacy in mouse models of ebolavirus infections .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "This novel neutralizing monoclonal antibody targets a highly conserved internal fusion loop in the glycoprotein molecule and prevents membrane fusion of the viral envelope with cellular membranes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The discovery of this highly cross-neutralizing antibody provides a promising option for broad-acting ebolavirus antibody therapy and will accelerate the design of improved vaccines that can selectively elicit cross-neutralizing antibodies against multiple species of ebolaviruses .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Ebolaviruses, members of the family Filoviridae, cause severe hemorrhagic fever in humans and nonhuman primates, with human case fatality rates of up to 90% 1,2 . As proven by the latest epidemic of Ebola virus disease (EVD) in West Africa, ebolaviruses pose a significant public health concern. However, no effective prophylaxis or treatment for EVD is as yet commercially available. Five distinct species are known in the genus Ebolavirus, Zaire ebolavirus, Sudan ebolavirus, Taï forest ebolavirus, Bundibugyo ebolavirus, and Reston ebolavirus, represented by Ebola virus (EBOV), Sudan virus (SUDV), Taï forest virus (TAFV), Bundibugyo virus (BDBV), and Reston virus (RESTV), respectively 3 . Of these, EBOV, SUDV, and BDBV have caused EVD outbreaks with increased frequency in Central and West Africa in the last decade 1,2,4 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Ebolaviruses , members of the family Filoviridae ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "cause severe hemorrhagic fever in humans and nonhuman primates ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with human case fatality rates of up to 90 % 1,2 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As proven by the latest epidemic of Ebola virus disease ( EVD ) in West Africa ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "ebolaviruses pose a significant public health concern .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , no effective prophylaxis or treatment for EVD is as yet commercially available .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Five distinct species are known in the genus Ebolavirus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Zaire ebolavirus , Sudan ebolavirus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Taï forest ebolavirus , Bundibugyo ebolavirus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and Reston ebolavirus , represented by Ebola virus ( EBOV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Sudan virus ( SUDV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Taï forest virus ( TAFV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Bundibugyo virus ( BDBV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and Reston virus ( RESTV ) , respectively 3 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Of these , EBOV , SUDV ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and BDBV have caused EVD outbreaks with increased frequency in Central and West Africa in the last decade 1,2,4 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Ebolaviruses express a single transmembrane glycoprotein (GP) that is responsible for both receptor binding and membrane fusion, and thus the only known target of neutralizing antibodies. GP undergoes proteolytic cleavage by host proteases such as furin, resulting in the two subunits, GP1 and GP2, which are linked by a disulfide bond 5,6 . The GP1 subunit (amino acids 33-501) contains the core of the glycoprotein, receptor binding domain (RBD), a glycan cap, and a large mucin-like domain which extends around the RBD 7 . The GP2 (amino acids 502-676) subunit contains the internal fusion loop (IFL), heptad repeats 1 and 2 (HR1 and HR2), the transmembrane region (TM), and the cytoplasmic tail (CT) 8 . During the transport of ebolavirus particles to late endosomes, low pH leads to proteolytic processing of GPs by host cysteine proteases such as cathepsins 9 , and the exposed receptor binding site of the proteolytically digested GP is thought to interact with a host receptor, Niemann Pick C1, followed by membrane fusion 8, 10, 11 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Ebolaviruses express a single transmembrane glycoprotein ( GP ) that is responsible for both receptor binding and membrane fusion ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and thus the only known target of neutralizing antibodies .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "GP undergoes proteolytic cleavage by host proteases such as furin ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "resulting in the two subunits ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "GP1 and GP2 , which are linked by a disulfide bond 5,6 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The GP1 subunit ( amino acids 33-501 ) contains the core of the glycoprotein ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "receptor binding domain ( RBD ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a glycan cap , and a large mucin-like domain which extends around the RBD 7 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The GP2 ( amino acids 502-676 ) subunit contains the internal fusion loop ( IFL ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "heptad repeats 1 and 2 ( HR1 and HR2 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the transmembrane region ( TM ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the cytoplasmic tail ( CT ) 8 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "During the transport of ebolavirus particles to late endosomes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "low pH leads to proteolytic processing of GPs by host cysteine proteases such as cathepsins 9 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the exposed receptor binding site of the proteolytically digested GP is thought to interact with a host receptor ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Niemann Pick C1 , followed by membrane fusion 8 , 10 , 11 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Several studies have demonstrated that administration of EBOV GP-specific antibodies protects nonhuman primates from lethal EBOV infection and may constitute a leading treatment option for EVD in humans [12] [13] [14] [15] [16] . During the West African EVD outbreak, EBOV GP-specific monoclonal antibody (MAb) cocktails (e.g., ZMapp) 12 , were used to treat several patients 17-20 . However, most of characterized therapeutic MAbs to date are EBOV GP-specific and cross-neutralizing activity against any other ebolavirus species (e.g., SUDV and",
+      "sentences": [
+        [
+          {
+            "segment_text": "Several studies have demonstrated that administration of EBOV GP-specific antibodies protects nonhuman primates from lethal EBOV infection and may constitute a leading treatment option for EVD in humans ( 12 ) ( 13 ) ( 14 ) ( 15 ) ( 16 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "During the West African EVD outbreak ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "EBOV GP-specific monoclonal antibody ( MAb ) cocktails ( e.g. , ZMapp ) 12 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "were used to treat several patients 17-20 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , most of characterized therapeutic MAbs to date are EBOV GP-specific and cross-neutralizing activity against any other ebolavirus species ( e.g. , SUDV and",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "19",
+    "segment_num": "46",
+    "token_num": "675"
+  }
+}

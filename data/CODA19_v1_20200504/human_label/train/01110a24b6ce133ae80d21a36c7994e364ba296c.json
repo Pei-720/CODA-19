@@ -1,0 +1,65 @@
+{
+  "paper_id": "01110a24b6ce133ae80d21a36c7994e364ba296c",
+  "metadata": {
+    "title": "Feature Selection Methods for Identifying Genetic Determinants of Host Species in RNA Viruses",
+    "coda_data_split": "train",
+    "coda_paper_id": 3843,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Despite environmental, social and ecological dependencies, emergence of zoonotic viruses in human populations is clearly also affected by genetic factors which determine cross-species transmission potential. RNA viruses pose an interesting case study given their mutation rates are orders of magnitude higher than any other pathogen -as reflected by the recent emergence of SARS and Influenza for example. Here, we show how feature selection techniques can be used to reliably classify viral sequences by host species, and to identify the crucial minority of host-specific sites in pathogen genomic data. The variability in alleles at those sites can be translated into prediction probabilities that a particular pathogen isolate is adapted to a given host. We illustrate the power of these methods by: 1) identifying the sites explaining SARS coronavirus differences between human, bat and palm civet samples; 2) showing how cross species jumps of rabies virus among bat populations can be readily identified; and 3) de novo identification of likely functional influenza host discriminant markers.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Despite environmental , social and ecological dependencies ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "emergence of zoonotic viruses in human populations is clearly also affected by genetic factors which determine cross-species transmission potential .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "RNA viruses pose an interesting case study given their mutation rates are orders of magnitude higher than any other pathogen - as reflected by the recent emergence of SARS and Influenza for example .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we show how feature selection techniques can be used to reliably classify viral sequences by host species ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and to identify the crucial minority of host-specific sites in pathogen genomic data .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The variability in alleles at those sites can be translated into prediction probabilities that a particular pathogen isolate is adapted to a given host .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We illustrate the power of these methods by : 1 ) identifying the sites explaining SARS coronavirus differences between human ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "bat and palm civet samples ; 2 ) showing how cross species jumps of rabies virus among bat populations can be readily identified ; and 3 ) de novo identification of likely functional influenza host discriminant markers .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "8",
+    "token_num": "180"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "paper_id": "ff54e3e961a72eb1d2500166809b3651b2f98cf6",
+  "metadata": {
+    "title": "China through a drug-target interaction deep learning model",
+    "coda_data_split": "train",
+    "coda_paper_id": 4637,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The infection of a novel coronavirus found in Wuhan of China (2019-nCoV) is rapidly spreading, and the incidence rate is increasing worldwide. Due to the lack of effective treatment options for 2019-nCoV, various strategies are being tested in China, including drug repurposing. In this study, we used our pretrained deep learning-based drug-target interaction model called Molecule Transformer-Drug Target Interaction (MT-DTI) to identify commercially available drugs that could act on viral proteins of 2019-nCoV. The result showed that atazanavir, an antiretroviral medication used to treat and prevent the human immunodeficiency virus (HIV), is the best chemical compound, showing a inhibitory potency with Kd of 94.94 nM against the 2019-nCoV 3C-like proteinase, followed by efavirenz (199.17 nM), ritonavir (204.05 nM), and dolutegravir (336.91 nM). Interestingly, lopinavir, ritonavir, and darunavir are all",
+      "sentences": [
+        [
+          {
+            "segment_text": "The infection of a novel coronavirus found in Wuhan of China ( 2019-nCoV ) is rapidly spreading ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and the incidence rate is increasing worldwide .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Due to the lack of effective treatment options for 2019-nCoV ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "various strategies are being tested in China , including drug repurposing .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we used our pretrained deep learning-based drug-target interaction model called Molecule Transformer-Drug Target Interaction ( MT-DTI ) to identify commercially available drugs that could act on viral proteins of 2019-nCoV .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The result showed that atazanavir ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "an antiretroviral medication used to treat and prevent the human immunodeficiency virus ( HIV ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "is the best chemical compound ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "showing a inhibitory potency with Kd of 94.94 nM against the 2019-nCoV 3C-like proteinase ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "followed by efavirenz ( 199.17 nM ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "ritonavir ( 204.05 nM ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and dolutegravir ( 336.91 nM ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Interestingly , lopinavir , ritonavir , and darunavir are all",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "designed to target viral proteinases. However, in our prediction, they may also bind to the replication complex components of 2019-nCoV with an inhibitory potency with Kd \u003c 1000 nM. In addition, we also found that several antiviral agents, such as Kaletra, could be used for the treatment of 2019-nCoV, although there is no real-world evidence supporting the prediction. Overall, we suggest that the list of antiviral drugs identified by the MT-DTI model should be considered, when establishing effective treatment strategies for 2019-nCoV.",
+      "sentences": [
+        [
+          {
+            "segment_text": "designed to target viral proteinases .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , in our prediction ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "they may also bind to the replication complex components of 2019-nCoV with an inhibitory potency with Kd \u003c 1000 nM .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , we also found that several antiviral agents ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "such as Kaletra , could be used for the treatment of 2019-nCoV ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "although there is no real-world evidence supporting the prediction .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Overall , we suggest that the list of antiviral drugs identified by the MT-DTI model should be considered ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "when establishing effective treatment strategies for 2019-nCoV .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "9",
+    "segment_num": "21",
+    "token_num": "252"
+  }
+}

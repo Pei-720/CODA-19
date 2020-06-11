@@ -1,0 +1,103 @@
+{
+  "paper_id": "d2c7ac58cc309df9d3da8e766184d09c32d16dca",
+  "metadata": {
+    "title": "TaxIt: An iterative and automated computational pipeline for untargeted strain-level identification using MS/MS spectra from pathogenic samples",
+    "coda_data_split": "train",
+    "coda_paper_id": 3231,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Untargeted accurate strain-level classification of a priori unidentified organisms using tandem mass spectrometry is a challenging task. Reference databases often lack taxonomic depth, limiting peptide assignments to the species level. However, the extension with detailed strain information increases runtime and decreases statistical power. In addition, larger databases contain a higher number of similar proteomes. We present TaxIt, an iterative workflow to address the increasing search space required for MS/MS-based strain-level classification of samples with unknown taxonomic origin. TaxIt first applies reference sequence data for initial identification of species candidates, followed by automated acquisition of relevant strain sequences for low level classification. Furthermore, proteome similarities resulting in ambiguous taxonomic assignments are addressed with an abundance weighting strategy to improve candidate confidence. We apply our iterative workflow on several samples of bacterial and viral origin. In comparison to noniterative approaches using unique peptides or advanced abundance correction, TaxIt identifies microbial strains correctly in all examples presented (with one tie), thereby demonstrating the potential for untargeted and deeper taxonomic classification. TaxIt makes extensive use of public, unrestricted and continuously growing sequence resources such as the NCBI databases and is available under open-source license at https://gitlab.com/rki_bioinformatics.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Untargeted accurate strain-level classification of a priori unidentified organisms using tandem mass spectrometry is a challenging task .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Reference databases often lack taxonomic depth ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "limiting peptide assignments to the species level .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the extension with detailed strain information increases runtime and decreases statistical power .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , larger databases contain a higher number of similar proteomes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We present TaxIt , an iterative workflow to address the increasing search space required for MS/MS-based strain-level classification of samples with unknown taxonomic origin .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "TaxIt first applies reference sequence data for initial identification of species candidates ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "followed by automated acquisition of relevant strain sequences for low level classification .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , proteome similarities resulting in ambiguous taxonomic assignments are addressed with an abundance weighting strategy to improve candidate confidence .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We apply our iterative workflow on several samples of bacterial and viral origin .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In comparison to noniterative approaches using unique peptides or advanced abundance correction ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "TaxIt identifies microbial strains correctly in all examples presented ( with one tie ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "thereby demonstrating the potential for untargeted and deeper taxonomic classification .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "TaxIt makes extensive use of public ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "unrestricted and continuously growing sequence resources such as the NCBI databases and is available under open-source license at https://gitlab.com/rki_bioinformatics .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "10",
+    "segment_num": "15",
+    "token_num": "213"
+  }
+}

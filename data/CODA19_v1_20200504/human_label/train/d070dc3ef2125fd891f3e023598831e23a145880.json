@@ -1,0 +1,241 @@
+{
+  "paper_id": "d070dc3ef2125fd891f3e023598831e23a145880",
+  "metadata": {
+    "title": "A data-driven drug repositioning framework discovered a potential therapeutic agent targeting COVID-19",
+    "coda_data_split": "train",
+    "coda_paper_id": 9185,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The global spread of SARS-CoV-2 requires an urgent need to find effective therapeutics for the treatment of COVID-19. We developed a data-driven drug repositioning framework, which applies both machine learning and statistical analysis approaches to systematically integrate and mine large-scale knowledge graph, literature and transcriptome data to discover the potential drug candidates against SARS-CoV-2. The retrospective study using the past SARS-CoV and MERS-CoV data demonstrated that our machine learning based method can successfully predict effective drug candidates : bioRxiv preprint against a specific coronavirus. Our in silico screening followed by wet-lab validation indicated that a poly-ADP-ribose polymerase 1 (PARP1) inhibitor, CVL218, currently in Phase I clinical trial, may be repurposed to treat COVID-19. Our in vitro assays revealed that CVL218 can exhibit effective inhibitory activity against SARS-CoV-2 replication without obvious cytopathic effect. In addition, we showed that CVL218 is able to suppress the CpG-induced IL-6 production in peripheral blood mononuclear cells, suggesting that it may also have anti-inflammatory effect that is highly relevant to the prevention immunopathology induced by SARS-CoV-2 infection. Further pharmacokinetic and toxicokinetic evaluation in rats and monkeys showed a high concentration of CVL218 in lung and observed no apparent signs of toxicity, indicating the appealing potential of this drug for the treatment of the pneumonia caused by SARS-CoV-2 infection. Moreover, molecular docking simulation suggested that CVL218 may bind to the N-terminal domain of nucleocapsid (N) protein of SARS-CoV-2, providing a possible model to explain its antiviral action. We also proposed several possible mechanisms to explain the antiviral activities of PARP1 inhibitors against SARS-CoV-2, based on the data present in this study and previous evidences reported in the literature. In summary, the PARP1 inhibitor CVL218 discovered by our data-driven drug repositioning framework can serve as a potential therapeutic agent for the treatment of COVID-19. author/funder. All rights reserved. No reuse allowed without permission. : bioRxiv preprint known evidences reported in the literature, we also discussed several putative mechanisms of the anti-SARS-CoV-2 effects for CVL218 or other PARP1 inhibitors to be involved in the treatment of COVID-19. Overall, our results indicated that the PARP1 inhibitor CVL218 identified by our drug repositioning pipeline may serve as an effective therapeutic agent against COVID-19.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The global spread of SARS-CoV-2 requires an urgent need to find effective therapeutics for the treatment of COVID-19 .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We developed a data-driven drug repositioning framework ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which applies both machine learning and statistical analysis approaches to systematically integrate and mine large-scale knowledge graph ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "literature and transcriptome data to discover the potential drug candidates against SARS-CoV-2 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The retrospective study using the past SARS-CoV and MERS-CoV data demonstrated that our machine learning based method can successfully predict effective drug candidates : bioRxiv preprint against a specific coronavirus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our in silico screening followed by wet-lab validation indicated that a poly-ADP-ribose polymerase 1 ( PARP1 ) inhibitor ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "CVL218 , currently in Phase I clinical trial ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "may be repurposed to treat COVID-19 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our in vitro assays revealed that CVL218 can exhibit effective inhibitory activity against SARS-CoV-2 replication without obvious cytopathic effect .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , we showed that CVL218 is able to suppress the CpG-induced IL-6 production in peripheral blood mononuclear cells ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "suggesting that it may also have anti-inflammatory effect that is highly relevant to the prevention immunopathology induced by SARS-CoV-2 infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Further pharmacokinetic and toxicokinetic evaluation in rats and monkeys showed a high concentration of CVL218 in lung and observed no apparent signs of toxicity ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "indicating the appealing potential of this drug for the treatment of the pneumonia caused by SARS-CoV-2 infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , molecular docking simulation suggested that CVL218 may bind to the N-terminal domain of nucleocapsid ( N ) protein of SARS-CoV-2 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "providing a possible model to explain its antiviral action .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also proposed several possible mechanisms to explain the antiviral activities of PARP1 inhibitors against SARS-CoV-2 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "based on the data present in this study and previous evidences reported in the literature .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In summary , the PARP1 inhibitor CVL218 discovered by our data-driven drug repositioning framework can serve as a potential therapeutic agent for the treatment of COVID-19 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "author/funder .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "All rights reserved .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "No reuse allowed without permission .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": ": bioRxiv preprint known evidences reported in the literature ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "we also discussed several putative mechanisms of the anti-SARS-CoV-2 effects for CVL218 or other PARP1 inhibitors to be involved in the treatment of COVID-19 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Overall , our results indicated that the PARP1 inhibitor CVL218 identified by our drug repositioning pipeline may serve as an effective therapeutic agent against COVID-19 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The overview of our data-driven drug repositioning framework is shown in Figure 1A . We first constructed a virus related knowledge graph consisting of drug-target interactions, protein-protein interactions and similarity networks from publically available databases (Methods). Three different types of nodes (i.e., drugs, human targets and virus targets) within the knowledge graph were connected through edges describing their interactions, associations or similarities to establish bridges of information aggregation and knowledge mining. We then applied a network-based knowledge mining algorithm to predict an initial list of drug candidates that can be potentially used to treat SARS-CoV-2 infection ( Figure 1B and Methods). Next, we further narrowed down the list of drug candidates with the previously reported evidences of antiviral activities based on the text mining results from the large-scale literature texts, which were derived through a deep learning based relation extraction method named BERE [4] ( Figure 1C and Methods), followed by a minimum of manual checking. After that, we used the connectivity map analysis approach [5] with the gene expression profiles of ten SARS-CoV-infected patients [6] to further refine the list of drug candidates against SARS-CoV-2 ( Figure 1D , Table 1, Table S1 and Methods). The above screening process revealed that a poly-ADP-ribose polymerase 1 (PARP1) inhibitor PJ-34 could potentially have the antiviral activities against SARS-CoV-2. 4 author/funder. All rights reserved. No reuse allowed without permission.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The overview of our data-driven drug repositioning framework is shown in Figure 1A .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We first constructed a virus related knowledge graph consisting of drug-target interactions ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "protein-protein interactions and similarity networks from publically available databases ( Methods ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Three different types of nodes ( i.e. , drugs , human targets and virus targets ) within the knowledge graph were connected through edges describing their interactions ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "associations or similarities to establish bridges of information aggregation and knowledge mining .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We then applied a network-based knowledge mining algorithm to predict an initial list of drug candidates that can be potentially used to treat SARS-CoV-2 infection ( Figure 1B and Methods ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Next , we further narrowed down the list of drug candidates with the previously reported evidences of antiviral activities based on the text mining results from the large-scale literature texts ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which were derived through a deep learning based relation extraction method named BERE ( 4 ) ( Figure 1C and Methods ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "followed by a minimum of manual checking .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "After that , we used the connectivity map analysis approach ( 5 ) with the gene expression profiles of ten SARS-CoV-infected patients ( 6 ) to further refine the list of drug candidates against SARS-CoV-2 ( Figure 1D , Table 1 , Table S1 and Methods ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The above screening process revealed that a poly-ADP-ribose polymerase 1 ( PARP1 ) inhibitor PJ-34 could potentially have the antiviral activities against SARS-CoV-2 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "4 author/funder .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "All rights reserved .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "No reuse allowed without permission .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "26",
+    "segment_num": "39",
+    "token_num": "656"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "paper_id": "b4d9a00412c65725de441654454803bb20ecb931",
+  "metadata": {
+    "title": "In silico approach to accelerate the development of mass spectrometry-based proteomics methods for detection of viral proteins: Application to COVID-19",
+    "coda_data_split": "train",
+    "coda_paper_id": 3781,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The novel coronavirus disease first identified in 2019 in Wuhan, has become a serious global public health concern. One current issue is the ability to adequately screen for the virus causing COVID-2 (SARS-CoV-2). Here we demonstrate the feasibility of shotgun proteomics as a SARS-CoV-2 screening method, through the detection of viral peptides in proteolytically digested body fluids. Using in silico methods, we generated trypsin-based shotgun proteomics methods optimized for LCMS systems from 5 commercial instrument vendors (Thermo, SCIEX, Waters, Shimadzu, and Agilent). First, we generated protein FASTA files and their protein digest maps. Second, the FASTA files were used to generate spectral libraries based on experimental data. Third, transition lists were derived from the",
+      "sentences": [
+        [
+          {
+            "segment_text": "The novel coronavirus disease first identified in 2019 in Wuhan ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "has become a serious global public health concern .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "One current issue is the ability to adequately screen for the virus causing COVID-2 ( SARS-CoV-2 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we demonstrate the feasibility of shotgun proteomics as a SARS-CoV-2 screening method ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "through the detection of viral peptides in proteolytically digested body fluids .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using in silico methods , we generated trypsin-based shotgun proteomics methods optimized for LCMS systems from 5 commercial instrument vendors ( Thermo , SCIEX , Waters , Shimadzu , and Agilent ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "First , we generated protein FASTA files and their protein digest maps .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Second , the FASTA files were used to generate spectral libraries based on experimental data .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Third , transition lists were derived from the",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "9",
+    "token_num": "134"
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "paper_id": "47a14293c2dedaef4d47052573868fdc2cf4d447",
+  "metadata": {
+    "title": "SRSF7 maintains its homeostasis through the expression of Split-ORFs and nuclear body assembly",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1678,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Results",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "To investigate the mechanisms of SRSF7 homeostasis, we generated cell lines SRSF7 is an essential RNA-binding protein whose misexpression promotes cancer. Here, we describe how SRSF7 maintains its protein homeostasis in murine P19 cells using an intricate negative feedback mechanism. SRSF7 binding to its premessenger RNA promotes inclusion of a poison cassette exon and transcript degradation via nonsense-mediated decay (NMD). However, elevated SRSF7 levels inhibit NMD and promote translation of two protein halves, termed Split-ORFs, from the bicistronic SRSF7-PCE transcript. The first half acts as dominant-negative isoform suppressing poison cassette exon inclusion and instead promoting the retention of flanking introns containing repeated SRSF7 binding sites. Massive SRSF7 binding to these sites and its oligomerization promote the assembly of large nuclear bodies, which sequester SRSF7 transcripts at their transcription site, preventing their export and restoring normal SRSF7 protein levels. We further show that hundreds of human and mouse NMD targets, especially RNA-binding proteins, encode potential Split-ORFs, some of which are expressed under specific cellular conditions. SRSF7 binding promotes splicing of NMD-sensitive and -resistant SRSF7 isoforms. To understand the mechanism of SRSF7 auto-regulation, we examined the binding of SRSF7 protein to SRSF7 transcripts using individual-nucleotide resolution ultraviolet (UV) crosslinking and immunoprecipitation (iCLIP). We used normalized significant crosslink events (X-links, false discovery rate (FDR) \u003c 0.05) from SRSF3 and SRSF7 iCLIP datasets of P19 cell lines without OE 8 . Similar to SRSF3, which promotes the inclusion of the PCE in SRSF7 transcripts 17 , SRSF7 showed enriched crosslinks in an extended region encompassing the PCE, its flanking introns 3a and 3b, and exons 3, 4 and 5 (Fig. 1d ). Quantification revealed that SRSF7 binds ~50-fold more to SRSF7 transcripts than SRSF3 (Supplementary Table 1 ), indicating that SRSF7 has an unusual preference for its own transcripts.",
+      "sentences": [
+        [
+          {
+            "segment_text": "To investigate the mechanisms of SRSF7 homeostasis ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "we generated cell lines SRSF7 is an essential RNA-binding protein whose misexpression promotes cancer .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we describe how SRSF7 maintains its protein homeostasis in murine P19 cells using an intricate negative feedback mechanism .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "SRSF7 binding to its premessenger RNA promotes inclusion of a poison cassette exon and transcript degradation via nonsense-mediated decay ( NMD ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , elevated SRSF7 levels inhibit NMD and promote translation of two protein halves ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "termed Split-ORFs , from the bicistronic SRSF7-PCE transcript .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The first half acts as dominant-negative isoform suppressing poison cassette exon inclusion and instead promoting the retention of flanking introns containing repeated SRSF7 binding sites .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Massive SRSF7 binding to these sites and its oligomerization promote the assembly of large nuclear bodies ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which sequester SRSF7 transcripts at their transcription site ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "preventing their export and restoring normal SRSF7 protein levels .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We further show that hundreds of human and mouse NMD targets ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "especially RNA-binding proteins , encode potential Split-ORFs ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "some of which are expressed under specific cellular conditions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "SRSF7 binding promotes splicing of NMD-sensitive and - resistant SRSF7 isoforms .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "To understand the mechanism of SRSF7 auto-regulation ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "we examined the binding of SRSF7 protein to SRSF7 transcripts using individual-nucleotide resolution ultraviolet ( UV ) crosslinking and immunoprecipitation ( iCLIP ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We used normalized significant crosslink events ( X-links , false discovery rate ( FDR ) \u003c 0.05 ) from SRSF3 and SRSF7 iCLIP datasets of P19 cell lines without OE 8 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Similar to SRSF3 , which promotes the inclusion of the PCE in SRSF7 transcripts 17 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "SRSF7 showed enriched crosslinks in an extended region encompassing the PCE ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "its flanking introns 3a and 3b ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and exons 3 , 4 and 5 ( Fig. 1d ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Quantification revealed that SRSF7 binds ~ 50-fold more to SRSF7 transcripts than SRSF3 ( Supplementary Table 1 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "indicating that SRSF7 has an unusual preference for its own transcripts .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "RNA-seq followed by quantification of junction reads revealed that SRSF7 OE promotes inclusion of either the complete PCE (460 nucleotides (nt)) or a partial PCE (107 nt) in SRSF7 transcripts (Fig. 1e) . Additionally, both PCE-flanking introns (3a and 3b) and intron 5 displayed increased read coverage, indicating that they are partly retained upon SRSF7 OE. Semiquantitative reverse transcription PCR and sequencing confirmed that SRSF7 OE caused the appearance of transcripts containing the entire PCE (SRSF7-PCE, orange asterisk), the partial PCE (SRSF7-PCE 1/4 , yellow asterisk) or the PCE in combination with both flanking introns (SRSF7-I3a+b, red asterisk) or with only intron 3b (SRSF7-I3b, green asterisk; Fig. 1f and Extended Data Fig. 1b,c) . Identical isoforms were detected for endogenous and SRSF7-GFP reporter transcripts, indicating that auto-regulation operates similarly on both.",
+      "sentences": [
+        [
+          {
+            "segment_text": "RNA-seq followed by quantification of junction reads revealed that SRSF7 OE promotes inclusion of either the complete PCE ( 460 nucleotides ( nt ) ) or a partial PCE ( 107 nt ) in SRSF7 transcripts ( Fig. 1e ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Additionally , both PCE-flanking introns ( 3a and 3b ) and intron 5 displayed increased read coverage ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "indicating that they are partly retained upon SRSF7 OE .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Semiquantitative reverse transcription PCR and sequencing confirmed that SRSF7 OE caused the appearance of transcripts containing the entire PCE ( SRSF7-PCE , orange asterisk ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the partial PCE ( SRSF7-PCE 1/4 , yellow asterisk ) or the PCE in combination with both flanking introns ( SRSF7-I3a + b , red asterisk ) or with only intron 3b ( SRSF7-I3b , green asterisk ; Fig. 1f and Extended Data Fig. 1b , c ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Identical isoforms were detected for endogenous and SRSF7-GFP reporter transcripts ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "indicating that auto-regulation operates similarly on both .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "All these transcripts contain PTCs and should be susceptible to NMD. Indeed, NMD inhibition using cycloheximide (CHX) increased SRSF7-PCE and SRSF7-PCE 1/4 levels in wild-type (WT) cells, confirming that they are bona fide NMD targets (Fig. 1f) . However, in SRSF7 OE cells, SRSF7-PCE transcript levels were not increased by CHX treatment, which was validated by quantitative PCR (qPCR) with reverse transcription (Fig. 1g) . Cytoplasmicnuclear fractionation confirmed that both PCE-containing isoforms are exported to the cytoplasm, but whereas SRSF7-PCE 1/4 is degraded by NMD, SRSF7-PCE is NMD-resistant ( Fig. 1h and Extended Data Fig. 1d,e) . Intron-containing isoforms SRSF7-I3a+b and SRSF7-I3b were also NMD-resistant, probably due to their nuclear retention. NMD was not globally compromised in SRSF7 OE cells since SRSF7-PCE 1/4 was stabilized by CHX to the same extent in WT and SRSF7 OE cells (Fig. 1g) . These results hint at a multilayered auto-regulatory mechanism, where SRSF7 OE promotes the generation of various SRSF7 transcript isoforms that are NMD-sensitive (SRSF7-PCE 1/4 ) or NMD-resistant (SRSF7-PCE).",
+      "sentences": [
+        [
+          {
+            "segment_text": "All these transcripts contain PTCs and should be susceptible to NMD .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Indeed , NMD inhibition using cycloheximide ( CHX ) increased SRSF7-PCE and SRSF7-PCE 1/4 levels in wild-type ( WT ) cells ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "confirming that they are bona fide NMD targets ( Fig. 1f ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , in SRSF7 OE cells ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "SRSF7-PCE transcript levels were not increased by CHX treatment ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which was validated by quantitative PCR ( qPCR ) with reverse transcription ( Fig. 1g ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Cytoplasmicnuclear fractionation confirmed that both PCE-containing isoforms are exported to the cytoplasm ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but whereas SRSF7-PCE 1/4 is degraded by NMD ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "SRSF7-PCE is NMD-resistant ( Fig. 1h and Extended Data Fig. 1d , e ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Intron-containing isoforms SRSF7-I3a + b and SRSF7-I3b were also NMD-resistant ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "probably due to their nuclear retention .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "NMD was not globally compromised in SRSF7 OE cells since SRSF7-PCE 1/4 was stabilized by CHX to the same extent in WT and SRSF7 OE cells ( Fig. 1g ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These results hint at a multilayered auto-regulatory mechanism ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "where SRSF7 OE promotes the generation of various SRSF7 transcript isoforms that are NMD-sensitive ( SRSF7-PCE 1/4 ) or NMD-resistant ( SRSF7-PCE ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Translation of the SRSF7-PCE transcripts generates truncated SRSF7 proteins. Given that SRSF7-PCE transcripts are not degraded by NMD, they might be translated. Translation of SRSF7-PCE would result in a truncated protein with a predicted molecular weight of 15.7 kDa. This SRSF7 variant contains only the RNAbinding module (RRM + Zn) and a unique C terminus but lacks the RS domain and was termed SRSF7_RRM (Extended Data Fig. 2a) . Indeed, western blots (WBs) using an antibody against the RRM of SRSF7 revealed a protein of ~16 kDa upon SRSF7 OE (Fig. 2a) . This protein was not detectable using the antibody mAb104 for phosphorylated RS domains 24 . SRSF7_RRM was also detectable at low levels in WT cells and accumulated upon NMD inhibition by UPF1 knockdown (KD) (Extended Data Fig. 2b) . Stringent immunoprecipitation (IP) coupled with tandem mass spectrometry (MS/ MS) analyses confirmed the presence of peptides mapping to the RRM and the unique C terminus of SRSF7_RRM (Fig. 2b-d) . Furthermore, ribosome profiling (Ribo-Seq) revealed the presence of ribosome-protected fragments mapping to the exon 3-PCE junction, confirming that SRSF7-PCE transcripts undergo translation and that SRSF7_RRM is produced from these transcripts (Fig. 2e , Extended Data Fig. 2c and Supplementary Table 2) .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Translation of the SRSF7-PCE transcripts generates truncated SRSF7 proteins .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Given that SRSF7-PCE transcripts are not degraded by NMD , they might be translated .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Translation of SRSF7-PCE would result in a truncated protein with a predicted molecular weight of 15.7 kDa .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This SRSF7 variant contains only the RNAbinding module ( RRM + Zn ) and a unique C terminus but lacks the RS domain and was termed SRSF7 _ RRM ( Extended Data Fig. 2a ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Indeed , western blots ( WBs ) using an antibody against the RRM of SRSF7 revealed a protein of ~ 16 kDa upon SRSF7 OE ( Fig. 2a ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This protein was not detectable using the antibody mAb104 for phosphorylated RS domains 24 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "SRSF7 _ RRM was also detectable at low levels in WT cells and accumulated upon NMD inhibition by UPF1 knockdown ( KD ) ( Extended Data Fig. 2b ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Stringent immunoprecipitation ( IP ) coupled with tandem mass spectrometry ( MS / MS ) analyses confirmed the presence of peptides mapping to the RRM and the unique C terminus of SRSF7 _ RRM ( Fig. 2b-d ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , ribosome profiling ( Ribo-Seq ) revealed the presence of ribosome-protected fragments mapping to the exon 3-PCE junction ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "confirming that SRSF7-PCE transcripts undergo translation and that SRSF7 _ RRM is produced from these transcripts ( Fig. 2e , Extended Data Fig. 2c and Supplementary Table 2 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Ribo-Seq reads mapped throughout the PCE, indicating that translation might reinitiate downstream of the PTC (Fig. 2e ). Translation initiation from the 3′ most AUG codon within the PCE would resume the original open reading frame (ORF) and generate a second polypeptide comprising the entire RS domain with 11 additional N-terminal amino acids, termed SRSF7_RS ( Fig. 2c and Extended Data Fig. 2a) . This polypeptide was indeed detectable in SRSF7 OE cells using both anti-GFP and mAb104 antibodies (Extended Data Fig. 2d ,e, pink asterisk). MS/MS analyses after IP confirmed the presence of peptides mapping to the junction between the RS domain and the GFP tag (Extended Data Fig. 2f,g) , although few peptides mapped to the RS domain itself and none to the unique 11-amino acid N terminus. This is likely due to the low abundance of this protein, small peptide sizes and the high charge and repetitive nature of RS domains. The in-frame start codon of SRSF7_RS is ultraconserved in mammals and the same protein halves would also arise from translation of the human SRSF7-PCE isoform (Extended Data Fig. 2h ). Altogether, our data reveal that upon PCE inclusion, the resulting transcript encodes two SRSF7 protein halves (referred to as Split-ORFs).",
+      "sentences": [
+        [
+          {
+            "segment_text": "Ribo-Seq reads mapped throughout the PCE ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "indicating that translation might reinitiate downstream of the PTC ( Fig. 2e ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Translation initiation from the 3 ′ most AUG codon within the PCE would resume the original open reading frame ( ORF ) and generate a second polypeptide comprising the entire RS domain with 11 additional N-terminal amino acids ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "termed SRSF7 _ RS ( Fig. 2c and Extended Data Fig. 2a ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This polypeptide was indeed detectable in SRSF7 OE cells using both anti-GFP and mAb104 antibodies ( Extended Data Fig. 2d , e , pink asterisk ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "MS/MS analyses after IP confirmed the presence of peptides mapping to the junction between the RS domain and the GFP tag ( Extended Data Fig. 2f , g ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "although few peptides mapped to the RS domain itself and none to the unique 11-amino acid N terminus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This is likely due to the low abundance of this protein ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "small peptide sizes and the high charge and repetitive nature of RS domains .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The in-frame start codon of SRSF7 _ RS is ultraconserved in mammals and the same protein halves would also arise from translation of the human SRSF7-PCE isoform ( Extended Data Fig. 2h ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Altogether , our data reveal that upon PCE inclusion ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the resulting transcript encodes two SRSF7 protein halves ( referred to as Split-ORFs ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "6",
+    "sentence_num": "40",
+    "segment_num": "67",
+    "token_num": "1179"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "paper_id": "b2668487afe5796f5a35f8c5f8c49827dc87c2bd",
+  "metadata": {
+    "title": "SEIR and Regression Model based COVID-19 outbreak predictions in India",
+    "coda_data_split": "test",
+    "coda_paper_id": 258,
+    "coda_has_expert_labels": true,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "COVID-19 pandemic has become a major threat to the country. Till date, well tested medication or antidote is not available to cure this disease. According to WHO reports, COVID-19 is a severe acute respiratory syndrome which is transmitted through respiratory droplets and contact routes. Analysis of this disease requires major attention by the Government to take necessary steps in reducing the effect of this global pandemic. In this study, outbreak of this disease has been analysed for India till 30 th March 2020 and predictions have been made for the number of cases for the next 2 weeks. SEIR model and Regression model have been used for predictions based on the data collected from John Hopkins University repository in the time period of 30 th January 2020 to 30 th March 2020. The performance of the models was evaluated using RMSLE and achieved 1.52 for SEIR model and 1.75 for the regression model. The RMSLE error rate between SEIR model and Regression model was found to be 2.01. Also, the value of R 0 which is the spread of the disease was calculated to be 2.02. Expected cases may rise between 5000-6000 in the next two weeks of time. This study will help the Government and doctors in preparing their plans for the next two weeks. Based on the predictions for short-term interval, these models can be tuned for forecasting in long-term intervals.",
+      "sentences": [
+        [
+          {
+            "segment_text": "COVID-19 pandemic has become a major threat to the country .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Till date , well tested medication or antidote is not available to cure this disease .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "According to WHO reports , COVID-19 is a severe acute respiratory syndrome which is transmitted through respiratory droplets and contact routes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Analysis of this disease requires major attention by the Government to take necessary steps in reducing the effect of this global pandemic .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , outbreak of this disease has been analysed for India till 30 th March 2020 and predictions have been made for the number of cases for the next 2 weeks .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "SEIR model and Regression model have been used for predictions based on the data collected from John Hopkins University repository in the time period of 30 th January 2020 to 30 th March 2020 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The performance of the models was evaluated using RMSLE and achieved 1.52 for SEIR model and 1.75 for the regression model .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The RMSLE error rate between SEIR model and Regression model was found to be 2.01 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Also , the value of R 0 which is the spread of the disease was calculated to be 2.02 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Expected cases may rise between 5000-6000 in the next two weeks of time .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study will help the Government and doctors in preparing their plans for the next two weeks .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Based on the predictions for short-term interval ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "these models can be tuned for forecasting in long-term intervals .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "12",
+    "segment_num": "13",
+    "token_num": "250"
+  }
+}

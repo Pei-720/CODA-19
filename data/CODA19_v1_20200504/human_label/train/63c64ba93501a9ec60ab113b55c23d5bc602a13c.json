@@ -1,0 +1,87 @@
+{
+  "paper_id": "63c64ba93501a9ec60ab113b55c23d5bc602a13c",
+  "metadata": {
+    "title": "A bioinformatic filter for improved base-call accuracy and polymorphism detection using the Affymetrix GeneChip Õ whole-genome resequencing platform",
+    "coda_data_split": "train",
+    "coda_paper_id": 7798,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "DNA resequencing arrays enable rapid acquisition of high-quality sequence data. This technology represents a promising platform for rapid highresolution genotyping of microorganisms. Traditional array-based resequencing methods have relied on the use of specific PCR-amplified fragments from the query samples as hybridization targets. While this specificity in the target DNA population reduces the potential for artifacts caused by cross-hybridization, the subsampling of the query genome limits the sequence coverage that can be obtained and therefore reduces the technique\u0027s resolution as a genotyping method. We have developed and validated an Affymetrix Inc. GeneChip array-based, whole-genome resequencing platform for Francisella tularensis, the causative agent of tularemia. A set of bioinformatic filters that targeted systematic base-calling errors caused by cross-hybridization between the wholegenome sample and the array probes and by deletions in the sample DNA relative to the chip reference sequence were developed. Our approach eliminated 91% of the false-positive singlenucleotide polymorphism calls identified in the SCHU S4 query sample, at the cost of 10.7% of the true positives, yielding a total base-calling accuracy of 99.992%.",
+      "sentences": [
+        [
+          {
+            "segment_text": "DNA resequencing arrays enable rapid acquisition of high-quality sequence data .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This technology represents a promising platform for rapid highresolution genotyping of microorganisms .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Traditional array-based resequencing methods have relied on the use of specific PCR-amplified fragments from the query samples as hybridization targets .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "While this specificity in the target DNA population reduces the potential for artifacts caused by cross-hybridization ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the subsampling of the query genome limits the sequence coverage that can be obtained and therefore reduces the technique \u0027s resolution as a genotyping method .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We have developed and validated an Affymetrix Inc. .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "GeneChip array-based , whole-genome resequencing platform for Francisella tularensis ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the causative agent of tularemia .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A set of bioinformatic filters that targeted systematic base-calling errors caused by cross-hybridization between the wholegenome sample and the array probes and by deletions in the sample DNA relative to the chip reference sequence were developed .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our approach eliminated 91 % of the false-positive singlenucleotide polymorphism calls identified in the SCHU S4 query sample ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "at the cost of 10.7 % of the true positives ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "yielding a total base-calling accuracy of 99.992 % .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "12",
+    "token_num": "189"
+  }
+}

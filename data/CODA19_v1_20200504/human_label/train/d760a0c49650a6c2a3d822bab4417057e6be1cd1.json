@@ -1,0 +1,67 @@
+{
+  "paper_id": "d760a0c49650a6c2a3d822bab4417057e6be1cd1",
+  "metadata": {
+    "title": "Correction: Xie, H.; et al. 3D QSAR Studies, Pharmacophore Modeling and Virtual Screening on a Series of Steroidal Aromatase",
+    "coda_data_split": "train",
+    "coda_paper_id": 8607,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "A number of sentences in the first paragraph of the introduction of [28] were copied verbatim from [21, 22, 25, 29] . Although [21, 22, 25] were cited in the text, [29] was omitted and it was not made sufficiently clear that direct quotations were used. The authors wish to apologize to the authors of [21, 22, 25, 29] and to the readers of the journal for any inconvenience.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A number of sentences in the first paragraph of the introduction of ( 28 ) were copied verbatim from ( 21 , 22 , 25 , 29 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although ( 21 , 22 , 25 ) were cited in the text ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "( 29 ) was omitted and it was not made sufficiently clear that direct quotations were used .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The authors wish to apologize to the authors of ( 21 , 22 , 25 , 29 ) and to the readers of the journal for any inconvenience .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The authors wish to replace the introduction of [28] with the following:",
+      "sentences": [
+        [
+          {
+            "segment_text": "The authors wish to replace the introduction of ( 28 ) with the following :",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "OPEN ACCESS",
+      "sentences": [
+        [
+          {
+            "segment_text": "OPEN ACCESS",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "5",
+    "segment_num": "6",
+    "token_num": "107"
+  }
+}

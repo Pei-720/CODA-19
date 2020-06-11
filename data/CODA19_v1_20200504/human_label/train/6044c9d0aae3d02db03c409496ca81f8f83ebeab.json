@@ -1,0 +1,163 @@
+{
+  "paper_id": "6044c9d0aae3d02db03c409496ca81f8f83ebeab",
+  "metadata": {
+    "title": "Meta-genomic analysis of toilet waste from long distance flights; a step towards global surveillance of infectious diseases and antimicrobial resistance OPEN",
+    "coda_data_split": "train",
+    "coda_paper_id": 9992,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Human populations worldwide are increasingly confronted with infectious diseases and antimicrobial resistance spreading faster and appearing more frequently. Knowledge regarding their occurrence and worldwide transmission is important to control outbreaks and prevent epidemics. Here, we performed shotgun sequencing of toilet waste from 18 international airplanes arriving in Copenhagen, Denmark, from nine cities in three world regions. An average of 18.6 Gb (14.8 to 25.7 Gb) of raw Illumina paired end sequence data was generated, cleaned, trimmed and mapped against reference sequence databases for bacteria and antimicrobial resistance genes. An average of 106,839 (0.06%) reads were assigned to resistance genes with genes encoding resistance to tetracycline, macrolide and beta-lactam resistance genes as the most abundant in all samples. We found significantly higher abundance and diversity of genes encoding antimicrobial resistance, including critical important resistance (e.g. bla CTX-M ) carried on airplanes from South Asia compared to North America. Presence of Salmonella enterica and norovirus were also detected in higher amounts from South Asia, whereas Clostridium difficile was most abundant in samples from North America. Our study provides a first step towards a potential novel strategy for global surveillance enabling simultaneous detection of multiple human health threatening genetic elements, infectious agents and resistance genes.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Human populations worldwide are increasingly confronted with infectious diseases and antimicrobial resistance spreading faster and appearing more frequently .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Knowledge regarding their occurrence and worldwide transmission is important to control outbreaks and prevent epidemics .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we performed shotgun sequencing of toilet waste from 18 international airplanes arriving in Copenhagen ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "Denmark , from nine cities in three world regions .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "An average of 18.6 Gb ( 14.8 to 25.7 Gb ) of raw Illumina paired end sequence data was generated ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "cleaned , trimmed and mapped against reference sequence databases for bacteria and antimicrobial resistance genes .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "An average of 106,839 ( 0.06 % ) reads were assigned to resistance genes with genes encoding resistance to tetracycline ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "macrolide and beta-lactam resistance genes as the most abundant in all samples .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We found significantly higher abundance and diversity of genes encoding antimicrobial resistance ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including critical important resistance ( e.g. bla CTX-M ) carried on airplanes from South Asia compared to North America .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Presence of Salmonella enterica and norovirus were also detected in higher amounts from South Asia ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "whereas Clostridium difficile was most abundant in samples from North America .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our study provides a first step towards a potential novel strategy for global surveillance enabling simultaneous detection of multiple human health threatening genetic elements ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "infectious agents and resistance genes .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Globally, infectious diseases are the cause of about 22% of all human deaths 1 . Due to increasing population density, increasing use of antimicrobial agents, disruption of wildlife habitats, and an increase in global travel and trade this number has been estimated to increase in coming years 2,3 . Rapid global surveillance systems for early detection of worldwide spread of zoonotic and human pathogens would enable outbreak control and epidemic prevention 4,5 . In addition to the direct severe consequences for human health, infectious diseases may cause an increased financial burden on health systems and may imply restriction on travel, trade, etc. Global spread of antimicrobial resistance in bacterial pathogens is another major threat against human health, yet we don\u0027t know much about how these genes travel and spread worldwide 6 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Globally , infectious diseases are the cause of about 22 % of all human deaths 1 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Due to increasing population density ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "increasing use of antimicrobial agents ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "disruption of wildlife habitats , and an increase in global travel and trade this number has been estimated to increase in coming years 2,3 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Rapid global surveillance systems for early detection of worldwide spread of zoonotic and human pathogens would enable outbreak control and epidemic prevention 4,5 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition to the direct severe consequences for human health ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "infectious diseases may cause an increased financial burden on health systems and may imply restriction on travel , trade , etc. .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Global spread of antimicrobial resistance in bacterial pathogens is another major threat against human health ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "yet we do n\u0027t know much about how these genes travel and spread worldwide 6 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Current international disease surveillance system is mainly based on reports made by doctors after treatment of infected patients 7 . It has been attempted to establish regional and global networks, for the",
+      "sentences": [
+        [
+          {
+            "segment_text": "Current international disease surveillance system is mainly based on reports made by doctors after treatment of infected patients 7 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It has been attempted to establish regional and global networks , for the",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "15",
+    "segment_num": "25",
+    "token_num": "401"
+  }
+}

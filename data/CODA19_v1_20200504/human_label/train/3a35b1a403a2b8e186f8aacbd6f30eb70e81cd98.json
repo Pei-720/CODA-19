@@ -1,0 +1,77 @@
+{
+  "paper_id": "3a35b1a403a2b8e186f8aacbd6f30eb70e81cd98",
+  "metadata": {
+    "title": "SYNCRIP (synaptotagmin-binding, cytoplasmic RNA-interacting protein) is a host factor involved in hepatitis C virus RNA replication",
+    "coda_data_split": "train",
+    "coda_paper_id": 4738,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Hepatitis C virus (HCV) RNA replication requires viral nonstructural proteins as well as cellular factors. Recently, a cellular protein, synaptotagmin-binding, cytoplasmic RNA-interacting protein (SYNCRIP), also known as NSAP1, was found to bind HCV RNA and enhance HCV IRES-dependent translation. We investigate whether this protein is also involved in the HCV RNA replication. We found that SYNCRIP was associated with detergent-resistant membrane fractions and colocalized with newly-synthesized HCV RNA. Knock-down of SYNCRIP by siRNA significantly decreased the amount of HCV RNA in the cells containing a subgenomic replicon or a full-length viral RNA. Lastly, an in vitro replication assay after immunodepletion of SYNCRIP showed that SYNCRIP was directly involved in HCV RNA replication. These findings indicate that SYNCRIP has dual functions, participating in both RNA replication and translation in HCV life cycle.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Hepatitis C virus ( HCV ) RNA replication requires viral nonstructural proteins as well as cellular factors .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recently , a cellular protein ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "synaptotagmin-binding , cytoplasmic RNA-interacting protein ( SYNCRIP ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "also known as NSAP1 , was found to bind HCV RNA and enhance HCV IRES-dependent translation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We investigate whether this protein is also involved in the HCV RNA replication .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We found that SYNCRIP was associated with detergent-resistant membrane fractions and colocalized with newly-synthesized HCV RNA .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Knock-down of SYNCRIP by siRNA significantly decreased the amount of HCV RNA in the cells containing a subgenomic replicon or a full-length viral RNA .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Lastly , an in vitro replication assay after immunodepletion of SYNCRIP showed that SYNCRIP was directly involved in HCV RNA replication .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These findings indicate that SYNCRIP has dual functions ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "participating in both RNA replication and translation in HCV life cycle .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "10",
+    "token_num": "149"
+  }
+}

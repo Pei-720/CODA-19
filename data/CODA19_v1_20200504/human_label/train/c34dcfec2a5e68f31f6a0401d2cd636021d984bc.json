@@ -1,0 +1,70 @@
+{
+  "paper_id": "c34dcfec2a5e68f31f6a0401d2cd636021d984bc",
+  "metadata": {
+    "title": "Article R110",
+    "coda_data_split": "train",
+    "coda_paper_id": 6491,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Genome Biology 2006, 7:R110 comment reviews reports deposited research refereed research interactions information",
+      "sentences": [
+        [
+          {
+            "segment_text": "Genome Biology 2006 , 7 : R110 comment reviews reports deposited research refereed research interactions information",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Abstract Protein microarrays provide a versatile method for the analysis of many protein biochemical activities. Existing DNA microarray analytical methods do not translate to protein microarrays due to differences between the technologies. Here we report a new approach, ProCAT, which corrects for background bias and spatial artifacts, identifies significant signals, filters nonspecific spots, and normalizes the resulting signal to protein abundance. ProCAT provides a powerful and flexible new approach for analyzing many types of protein microarrays.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Abstract Protein microarrays provide a versatile method for the analysis of many protein biochemical activities .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Existing DNA microarray analytical methods do not translate to protein microarrays due to differences between the technologies .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we report a new approach ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "ProCAT , which corrects for background bias and spatial artifacts ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "identifies significant signals , filters nonspecific spots ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and normalizes the resulting signal to protein abundance .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "ProCAT provides a powerful and flexible new approach for analyzing many types of protein microarrays .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "5",
+    "segment_num": "8",
+    "token_num": "101"
+  }
+}

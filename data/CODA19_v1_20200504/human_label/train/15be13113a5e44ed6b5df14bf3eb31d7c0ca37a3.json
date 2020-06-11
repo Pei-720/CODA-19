@@ -1,0 +1,91 @@
+{
+  "paper_id": "15be13113a5e44ed6b5df14bf3eb31d7c0ca37a3",
+  "metadata": {
+    "title": "Remote sensing of multiple vital signs using a CMOS camera-equipped infrared thermography system and its clinical application in rapidly screening patients with suspected infectious diseases",
+    "coda_data_split": "train",
+    "coda_paper_id": 8109,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Infrared thermography (IRT) is used to screen febrile passengers at international airports, but it suffers from low sensitivity. This study explored the application of a combined visible and thermal image processing approach that uses a CMOS camera equipped with IRT to remotely sense multiple vital signs and screen patients with suspected infectious diseases. Methods: An IRT system that produced visible and thermal images was used for image acquisition. The subjects\u0027 respiration rates were measured by monitoring temperature changes around the nasal areas on thermal images; facial skin temperatures were measured simultaneously. Facial blood circulation causes tiny color changes in visible facial images that enable the determination of the heart rate. A logistic regression discriminant function predicted the likelihood of infection within 10 s, based on the measured vital signs. Sixteen patients with an influenza-like illness and 22 control subjects participated in a clinical test at a clinic in Fukushima, Japan. Results: The vital-sign-based IRT screening system had a sensitivity of 87.5% and a negative predictive value of 91.7%; these values are higher than those of conventional fever-based screening approaches. Conclusions: Multiple vital-sign-based screening efficiently detected patients with suspected infectious diseases. It offers a promising alternative to conventional fever-based screening.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Infrared thermography ( IRT ) is used to screen febrile passengers at international airports ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but it suffers from low sensitivity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study explored the application of a combined visible and thermal image processing approach that uses a CMOS camera equipped with IRT to remotely sense multiple vital signs and screen patients with suspected infectious diseases .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Methods : An IRT system that produced visible and thermal images was used for image acquisition .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The subjects \u0027 respiration rates were measured by monitoring temperature changes around the nasal areas on thermal images ; facial skin temperatures were measured simultaneously .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Facial blood circulation causes tiny color changes in visible facial images that enable the determination of the heart rate .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A logistic regression discriminant function predicted the likelihood of infection within 10 s ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "based on the measured vital signs .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Sixteen patients with an influenza-like illness and 22 control subjects participated in a clinical test at a clinic in Fukushima , Japan .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results : The vital-sign-based IRT screening system had a sensitivity of 87.5 % and a negative predictive value of 91.7 % ; these values are higher than those of conventional fever-based screening approaches .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Conclusions : Multiple vital-sign-based screening efficiently detected patients with suspected infectious diseases .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It offers a promising alternative to conventional fever-based screening .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "10",
+    "segment_num": "12",
+    "token_num": "224"
+  }
+}

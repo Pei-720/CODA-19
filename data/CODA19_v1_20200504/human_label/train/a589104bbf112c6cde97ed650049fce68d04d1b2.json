@@ -1,0 +1,61 @@
+{
+  "paper_id": "a589104bbf112c6cde97ed650049fce68d04d1b2",
+  "metadata": {
+    "title": "Gateway cloning is compatible with protein secretion from Pichia pastoris",
+    "coda_data_split": "train",
+    "coda_paper_id": 7484,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Secretion of a recombinant protein from the yeast Pichia pastoris requires the presence of a signal peptide at the amino terminus. Maintaining the full amino acid sequence of the signal peptide is thought to be important for proper signal processing and protein secretion. We show that at least for one protein, a synthetic human interferon, the presence of a Gateway recombination site within the signal peptide is fully compatible with high levels of protein secretion. The amino termini of the secreted interferon proteins cloned with Gateway and cloned with restriction enzymes and ligase are identical, and the proteins were highly active in biological assays. Compatibility with Gateway cloning simpliWes construction of plasmids directing secretion of recombinant proteins from P. pastoris.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Secretion of a recombinant protein from the yeast Pichia pastoris requires the presence of a signal peptide at the amino terminus .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Maintaining the full amino acid sequence of the signal peptide is thought to be important for proper signal processing and protein secretion .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We show that at least for one protein ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a synthetic human interferon , the presence of a Gateway recombination site within the signal peptide is fully compatible with high levels of protein secretion .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The amino termini of the secreted interferon proteins cloned with Gateway and cloned with restriction enzymes and ligase are identical ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the proteins were highly active in biological assays .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Compatibility with Gateway cloning simpliWes construction of plasmids directing secretion of recombinant proteins from P. pastoris .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "7",
+    "token_num": "128"
+  }
+}

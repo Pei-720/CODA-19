@@ -1,0 +1,237 @@
+{
+  "paper_id": "9cab4a22cd4bba56a4f3a8fb9040bb96a8ea48a9",
+  "metadata": {
+    "title": "Pre-B acute lymphoblastic leukemia expresses cell surface nucleolin as a 9-O-acetylated sialoglycoprotein OPEN",
+    "coda_data_split": "train",
+    "coda_paper_id": 5420,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Precursor B acute lymphoblastic leukemias (pre-B ALLs) abnormally express a specific glycan structure, 9-O-acetylated sialic acid (9-O-Ac-Sia), on their cell surface, but glycoproteins that carry this modification have not been identified. Using three different lectins that specifically recognize this structure, we establish that nucleolin (NCL), a protein implicated in cancer, contains 9-O-Ac-Sia. Surprisingly, antibodies against the glycolipid 9-O-Ac-Sia GD3 also detected 9-O-Ac-Sia NCL. NCL is present on the surface of pre-B ALL cells as a sialoglycoprotein that is partly 9-O-acetylated and conversely, 9-O-Ac-Sia-containing structures other than NCL are present on these cells as well. Interestingly, NCL and the 9-O-Ac-Sia signal had less co-localization on normal pre-B cells. We also investigated regulation of NCL on the cell surface and found that sialidase treatment increased the percentage of cells positive for cell surface NCL, suggesting that sialylation of NCL promotes internalization. Treatment of pre-B ALL cells with the chemotherapy drug vincristine also increased the percentage of cells with surface NCL and correlated with increased 9-O-Ac-Sia expression. All tested leukemia cells including primary samples expressed NCL, suggesting it as a possible therapeutic target. We confirmed this by showing inhibition of cell proliferation in some pre-B ALLs by exposure to a NCLspecific aptamer AS1411.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Precursor B acute lymphoblastic leukemias ( pre-B ALLs ) abnormally express a specific glycan structure ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "9-O-acetylated sialic acid ( 9-O-Ac-Sia ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "on their cell surface , but glycoproteins that carry this modification have not been identified .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using three different lectins that specifically recognize this structure ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we establish that nucleolin ( NCL ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a protein implicated in cancer , contains 9-O-Ac-Sia .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Surprisingly , antibodies against the glycolipid 9-O-Ac-Sia GD3 also detected 9-O-Ac-Sia NCL .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "NCL is present on the surface of pre-B ALL cells as a sialoglycoprotein that is partly 9-O-acetylated and conversely ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "9-O-Ac-Sia-containing structures other than NCL are present on these cells as well .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Interestingly , NCL and the 9-O-Ac-Sia signal had less co-localization on normal pre-B cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also investigated regulation of NCL on the cell surface and found that sialidase treatment increased the percentage of cells positive for cell surface NCL ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "suggesting that sialylation of NCL promotes internalization .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Treatment of pre-B ALL cells with the chemotherapy drug vincristine also increased the percentage of cells with surface NCL and correlated with increased 9-O-Ac-Sia expression .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "All tested leukemia cells including primary samples expressed NCL ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "suggesting it as a possible therapeutic target .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We confirmed this by showing inhibition of cell proliferation in some pre-B ALLs by exposure to a NCLspecific aptamer AS1411 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Precursor B-cell acute lymphoblastic leukemia (pre-B ALL) is the most prevalent malignancy of childhood 1 . Cell surface structures that selectively identify leukemia cells could be used for diagnosis or perhaps even treatment, and therefore previous studies reporting increased expression of a very specific glycan structure on pre-B ALL cells, consisting of sialic acid modified by 9-O-acetylation, are of significant interest in this context 2,3 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Precursor B-cell acute lymphoblastic leukemia ( pre-B ALL ) is the most prevalent malignancy of childhood 1 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Cell surface structures that selectively identify leukemia cells could be used for diagnosis or perhaps even treatment ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and therefore previous studies reporting increased expression of a very specific glycan structure on pre-B ALL cells ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "consisting of sialic acid modified by 9-O-acetylation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "are of significant interest in this context 2,3 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Sialic acids (Sias) belong to a family of 9-carbon carboxylated monosaccharides that most frequently are found as the terminal residues of glycoconjugates, which include glycoproteins and glycolipids. Sias are often highly expressed in cancer 4,5 , and, moreover, changes in sialylation promote cancer progression 6 . Sialic acids can carry further modifications, of which O-acetylation is the most common, and preferentially occurs at the hydroxyl group of carbon C9, yielding 9-O-Ac-Sia 7 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Sialic acids ( Sias ) belong to a family of 9-carbon carboxylated monosaccharides that most frequently are found as the terminal residues of glycoconjugates ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which include glycoproteins and glycolipids .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Sias are often highly expressed in cancer 4,5 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and , moreover , changes in sialylation promote cancer progression 6 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Sialic acids can carry further modifications ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "of which O-acetylation is the most common ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and preferentially occurs at the hydroxyl group of carbon C9 , yielding 9-O-Ac-Sia 7 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Sialic acids further modified by O-acetylation are expressed in a tissue and cell-specific manner on glycoproteins or glycolipids on normal cells, and those modified Sias can act as selective receptors for entry of some viruses 8 . However, abnormal expression of sialic acid-containing glycoconjugates and O-acetylated derivatives has also been noted to correlate with tumorigenesis. For example, the ganglioside GD2 is a tumor-specific marker for neuroblastoma, and antibodies against it are currently part of maintenance therapy for this pediatric malignancy 9 . Interestingly, the 9-O-acetylated form of GD2 may be a more specific treatment target than GD2 10 . The ganglioside GD3 and its 9-O-acetylated form (9-O-Ac-GD3, also called CD60b) are sialylated glycolipids expressed in glioblastomas 11 and melanomas 12 . In GD3 (Sia-α2,8-Sia-α2,3-Gal-β1,4-Glc-β1,1′-Cer), the terminal Sia is α2,8-linked and the O-acetylation only occurs on the terminal Sia residue.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Sialic acids further modified by O-acetylation are expressed in a tissue and cell-specific manner on glycoproteins or glycolipids on normal cells ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and those modified Sias can act as selective receptors for entry of some viruses 8 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , abnormal expression of sialic acid-containing glycoconjugates and O-acetylated derivatives has also been noted to correlate with tumorigenesis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "For example , the ganglioside GD2 is a tumor-specific marker for neuroblastoma ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and antibodies against it are currently part of maintenance therapy for this pediatric malignancy 9 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Interestingly , the 9-O-acetylated form of GD2 may be a more specific treatment target than GD2 10 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The ganglioside GD3 and its 9-O-acetylated form ( 9-O-Ac-GD3 , also called CD60b ) are sialylated glycolipids expressed in glioblastomas 11 and melanomas 12 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In GD3 ( Sia-α2 ,8-Sia-α2 ,3-Gal-β1 ,4-Glc-β1 ,1 ′ - Cer ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the terminal Sia is α2,8-linked and the O-acetylation only occurs on the terminal Sia residue .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Published: xx xx xxxx OPEN www.nature.com/scientificreports/",
+      "sentences": [
+        [
+          {
+            "segment_text": "Published : xx xx xxxx OPEN www.nature.com/scientificreports /",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "21",
+    "segment_num": "38",
+    "token_num": "546"
+  }
+}

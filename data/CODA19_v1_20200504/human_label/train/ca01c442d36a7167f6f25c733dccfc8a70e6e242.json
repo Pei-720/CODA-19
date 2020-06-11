@@ -1,0 +1,317 @@
+{
+  "paper_id": "ca01c442d36a7167f6f25c733dccfc8a70e6e242",
+  "metadata": {
+    "title": "Autophagy during viral infection -a double-edged sword",
+    "coda_data_split": "train",
+    "coda_paper_id": 5540,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Autophagy is an evolutionarily conserved degradative process that is required to maintain host health and facilitates the capture and clearance of invading pathogens by the immune system 1,2 . Eukaryotic cells deliver dangerous and unwanted cytoplasmic material to lysosomes for degradation via three major routes: microautophagy, chaperone-mediated autophagy (CMA) and macroautophagy 3 . During microautophagy, invaginations of the lysosomal membrane directly take up cytoplasmic material 4 or the material directly enters multivesicular bodies (MVBs) of late endosomes 5 . During CMA, a cytoplasmic chaperone mediates lysosomal-associated membrane protein 2A (LAMP2A)-dependent uptake of unfolded proteins 6 . Macroautophagy involves a specialized double-membrane vesicle (DMV) known as the autophagosome (Box 1). Macroautophagy is the best-characterized form of autophagy, and we will hereafter refer to it simply as autophagy.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Autophagy is an evolutionarily conserved degradative process that is required to maintain host health and facilitates the capture and clearance of invading pathogens by the immune system 1,2 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Eukaryotic cells deliver dangerous and unwanted cytoplasmic material to lysosomes for degradation via three major routes : microautophagy ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "chaperone-mediated autophagy ( CMA ) and macroautophagy 3 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "During microautophagy , invaginations of the lysosomal membrane directly take up cytoplasmic material 4 or the material directly enters multivesicular bodies ( MVBs ) of late endosomes 5 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "During CMA , a cytoplasmic chaperone mediates lysosomal-associated membrane protein 2A ( LAMP2A ) - dependent uptake of unfolded proteins 6 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Macroautophagy involves a specialized double-membrane vesicle ( DMV ) known as the autophagosome ( Box 1 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Macroautophagy is the best-characterized form of autophagy ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and we will hereafter refer to it simply as autophagy .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Autophagy begins with the sequestration of cytoplasmic proteins and damaged organelles into a cup-shaped double-membrane termed the isolation membrane (or phagophore), which is derived from various cellular compartments 7 . The immature isolation membrane grows to envelop the engulfed contents, thus forming an autophagosome, which subsequently fuses with the lysosome to form autolysosomes. At this stage, the contents undergo degradation to enable their recycling upon nutrient depletion 8 . Acidification is a key regulatory step in autophagosome maturation and requires the activity of vacuolar ATPases.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Autophagy begins with the sequestration of cytoplasmic proteins and damaged organelles into a cup-shaped double-membrane termed the isolation membrane ( or phagophore ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which is derived from various cellular compartments 7 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The immature isolation membrane grows to envelop the engulfed contents ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "thus forming an autophagosome , which subsequently fuses with the lysosome to form autolysosomes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "At this stage , the contents undergo degradation to enable their recycling upon nutrient depletion 8 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Acidification is a key regulatory step in autophagosome maturation and requires the activity of vacuolar ATPases .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Autophagy is involved in various physiological processes, including starvation, cell differentiation and development, and degradation of aberrant structures, which ultimately maintains cellular homeostasis 9 . Moreover, autophagy is part of host stress responses such as the unfolded protein response (UPR) 10 . Given that viral infection and replication cause cell stress, autophagy is a frequent by-product of infection. However, autophagy during viral infection is not merely a passive process. As clearance of cytoplasmic components is a major function of autophagy, the innate immune system activates autophagy to degrade and dispose of invading viruses 11 . Furthermore, at later stages of infection, autophagy facilitates antigen processing and thereby the induction of adaptive immune responses 12,13 . There is a form of selective autophagy, xenophagy, that specifically recognizes intracellular microorganisms and targets them to autophagosomes for degradation 14 . Despite the seemingly hazardous conditions in autophagosomes for viruses, some viruses convert the autophagosome to their home for replication. The autophagosome provides a membrane-bound, protected environment to generate their progeny, and viruses can use autophagy-generated metabolites and energy for replication. Another type of autophagy, termed lipophagy, is a degradation pathway for lipid droplets in cells, and viruses can also hijack this process 15 . Lipid droplets are an ideal platform for virion assembly, and viruses can directly activate lipophagy to maintain the high level of ATP required for viral replication. In summary, current evidence suggests that viruses have evolved diverse strategies to either combat or utilize autophagy to promote their own life cycle. In this Review, we provide an overview of the function of autophagy as an antiviral defence mechanism and then focus on how viruses subvert and Multivesicular bodies (MVBs). A specialized subset of endosomes that contain membrane-bound intraluminal vesicles.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Autophagy is involved in various physiological processes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including starvation , cell differentiation and development ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and degradation of aberrant structures ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which ultimately maintains cellular homeostasis 9 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , autophagy is part of host stress responses such as the unfolded protein response ( UPR ) 10 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Given that viral infection and replication cause cell stress ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "autophagy is a frequent by-product of infection .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , autophagy during viral infection is not merely a passive process .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As clearance of cytoplasmic components is a major function of autophagy ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the innate immune system activates autophagy to degrade and dispose of invading viruses 11 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , at later stages of infection ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "autophagy facilitates antigen processing and thereby the induction of adaptive immune responses 12,13 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "There is a form of selective autophagy ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "xenophagy , that specifically recognizes intracellular microorganisms and targets them to autophagosomes for degradation 14 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Despite the seemingly hazardous conditions in autophagosomes for viruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "some viruses convert the autophagosome to their home for replication .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The autophagosome provides a membrane-bound ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "protected environment to generate their progeny ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and viruses can use autophagy-generated metabolites and energy for replication .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Another type of autophagy , termed lipophagy ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "is a degradation pathway for lipid droplets in cells ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and viruses can also hijack this process 15 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Lipid droplets are an ideal platform for virion assembly ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and viruses can directly activate lipophagy to maintain the high level of ATP required for viral replication .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In summary , current evidence suggests that viruses have evolved diverse strategies to either combat or utilize autophagy to promote their own life cycle .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this Review , we provide an overview of the function of autophagy as an antiviral defence mechanism and then focus on how viruses subvert and Multivesicular bodies ( MVBs ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A specialized subset of endosomes that contain membrane-bound intraluminal vesicles .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Unfolded protein response (UPR). A cellular stress response activated in response to an accumulation of unfolded or aggregated proteins in the endoplasmic reticulum.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Unfolded protein response ( UPR ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A cellular stress response activated in response to an accumulation of unfolded or aggregated proteins in the endoplasmic reticulum .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Abstract | Autophagy is a powerful tool that host cells use to defend against viral infection. Double-membrane vesicles, termed autophagosomes, deliver trapped viral cargo to the lysosome for degradation. Specifically , autophagy initiates an innate immune response by cooperating with pattern recognition receptor signalling to induce interferon production. It also selectively degrades immune components associated with viral particles. Following degradation, autophagy coordinates adaptive immunity by delivering virus-derived antigens for presentation to T lymphocytes. However, in an ongoing evolutionary arms race, viruses have acquired the potent ability to hijack and subvert autophagy for their benefit. In this Review , we focus on the key regulatory steps during viral infection in which autophagy is involved and discuss the specific molecular mechanisms that diverse viruses use to repurpose autophagy for their life cycle and pathogenesis.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Abstract | Autophagy is a powerful tool that host cells use to defend against viral infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Double-membrane vesicles , termed autophagosomes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "deliver trapped viral cargo to the lysosome for degradation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Specifically , autophagy initiates an innate immune response by cooperating with pattern recognition receptor signalling to induce interferon production .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It also selectively degrades immune components associated with viral particles .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Following degradation , autophagy coordinates adaptive immunity by delivering virus-derived antigens for presentation to T lymphocytes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , in an ongoing evolutionary arms race ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "viruses have acquired the potent ability to hijack and subvert autophagy for their benefit .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this Review , we focus on the key regulatory steps during viral infection in which autophagy is involved and discuss the specific molecular mechanisms that diverse viruses use to repurpose autophagy for their life cycle and pathogenesis .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "33",
+    "segment_num": "52",
+    "token_num": "730"
+  }
+}

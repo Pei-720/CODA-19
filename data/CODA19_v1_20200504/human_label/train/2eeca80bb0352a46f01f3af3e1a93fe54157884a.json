@@ -1,0 +1,61 @@
+{
+  "paper_id": "2eeca80bb0352a46f01f3af3e1a93fe54157884a",
+  "metadata": {
+    "title": "Dynamic airflow simulation within an isolation room",
+    "coda_data_split": "train",
+    "coda_paper_id": 6345,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "In many hospitals, isolation rooms are used to contain patients who are highly infectious, and the spread of air and bacteria within the isolation room is closely relates to room air distribution. This article uses the computational fluid dynamics (CFD) method to investigate the effects of a moving person and the opening and closing of a sliding door on room air distribution, including velocity, pressure and contaminant fields. Dynamic meshes are employed to simulate the movement of the walking person and sliding door. According to numerical results, the impact of those moving objects on room air distribution is addressed in this study. r",
+      "sentences": [
+        [
+          {
+            "segment_text": "In many hospitals , isolation rooms are used to contain patients who are highly infectious ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and the spread of air and bacteria within the isolation room is closely relates to room air distribution .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This article uses the computational fluid dynamics ( CFD ) method to investigate the effects of a moving person and the opening and closing of a sliding door on room air distribution ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "including velocity , pressure and contaminant fields .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Dynamic meshes are employed to simulate the movement of the walking person and sliding door .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "According to numerical results , the impact of those moving objects on room air distribution is addressed in this study .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "r",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "7",
+    "token_num": "114"
+  }
+}

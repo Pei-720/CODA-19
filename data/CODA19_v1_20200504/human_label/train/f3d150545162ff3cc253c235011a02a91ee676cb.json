@@ -1,0 +1,162 @@
+{
+  "paper_id": "f3d150545162ff3cc253c235011a02a91ee676cb",
+  "metadata": {
+    "title": "Diagnostic accuracy of C-reactive protein and procalcitonin in suspected community-acquired pneumonia adults visiting emergency department and having a systematic thoracic CT scan",
+    "coda_data_split": "train",
+    "coda_paper_id": 5766,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Introduction: Community-acquired pneumonia (CAP) requires prompt treatment, but its diagnosis is complex. Improvement of bacterial CAP diagnosis by biomarkers has been evaluated using chest X-ray infiltrate as the CAP gold standard, producing conflicting results. We analyzed the diagnostic accuracy of biomarkers in suspected CAP adults visiting emergency departments for whom CAP diagnosis was established by an adjudication committee which founded its judgment on a systematic multidetector thoracic CT scan.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Introduction : Community-acquired pneumonia ( CAP ) requires prompt treatment ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but its diagnosis is complex .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Improvement of bacterial CAP diagnosis by biomarkers has been evaluated using chest X-ray infiltrate as the CAP gold standard , producing conflicting results .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We analyzed the diagnostic accuracy of biomarkers in suspected CAP adults visiting emergency departments for whom CAP diagnosis was established by an adjudication committee which founded its judgment on a systematic multidetector thoracic CT scan .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Methods: In an ancillary study of a multi-center prospective study evaluating the impact of systematic thoracic CT scan on CAP diagnosis, sensitivity and specificity of C-reactive protein (CRP) and procalcitonin (PCT) were evaluated. Systematic nasopharyngeal multiplex respiratory virus PCR was performed at inclusion. An adjudication committee classified CAP diagnostic probability on a 4-level Likert scale, based on all available data. Results: Two hundred patients with suspected CAP were analyzed. The adjudication committee classified 98 patients (49.0 %) as definite CAP, 8 (4.0 %) as probable, 23 (11.5 %) as possible and excluded in 71 (35.5 %, including 29 patients with pulmonary infiltrates on chest X-ray). Among patients with radiological pulmonary infiltrate, 23 % were finally classified as excluded. Viruses were identified by PCR in 29 % of patients classified as definite. Area under the curve was 0.787 [95 % confidence interval (95 % CI), 0.717 to 0.857] for CRP and 0.655 (95 % CI, 0.570 to 0.739) for PCT to detect definite CAP. CRP threshold at 50 mg/L resulted in a positive predictive value of 0.76 and a negative predictive value of 0.75. No PCT cut-off resulted in satisfactory positive or negative predictive values. CRP and PCT accuracy was not improved by exclusion of the 25 (25.5 %) definite viral CAP cases. Conclusions: For patients with suspected CAP visiting emergency departments, diagnostic accuracy of CRP and PCT are insufficient to confirm the CAP diagnosis established using a gold standard that includes thoracic CT scan. Diagnostic accuracy of these biomarkers is also insufficient to distinguish bacterial CAP from viral CAP. Trial registration: ClinicalTrials.gov registry NCT01574066 (February 7, 2012) ",
+      "sentences": [
+        [
+          {
+            "segment_text": "Methods : In an ancillary study of a multi-center prospective study evaluating the impact of systematic thoracic CT scan on CAP diagnosis ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "sensitivity and specificity of C-reactive protein ( CRP ) and procalcitonin ( PCT ) were evaluated .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Systematic nasopharyngeal multiplex respiratory virus PCR was performed at inclusion .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "An adjudication committee classified CAP diagnostic probability on a 4-level Likert scale ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "based on all available data .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results : Two hundred patients with suspected CAP were analyzed .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The adjudication committee classified 98 patients ( 49.0 % ) as definite CAP ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "8 ( 4.0 % ) as probable ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "23 ( 11.5 % ) as possible and excluded in 71 ( 35.5 % , including 29 patients with pulmonary infiltrates on chest X-ray ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Among patients with radiological pulmonary infiltrate ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "23 % were finally classified as excluded .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Viruses were identified by PCR in 29 % of patients classified as definite .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Area under the curve was 0.787 ( 95 % confidence interval ( 95 % CI ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "0.717 to 0.857 ) for CRP and 0.655 ( 95 % CI , 0.570 to 0.739 ) for PCT to detect definite CAP .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "CRP threshold at 50 mg/L resulted in a positive predictive value of 0.76 and a negative predictive value of 0.75 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "No PCT cut-off resulted in satisfactory positive or negative predictive values .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "CRP and PCT accuracy was not improved by exclusion of the 25 ( 25.5 % ) definite viral CAP cases .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Conclusions : For patients with suspected CAP visiting emergency departments ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "diagnostic accuracy of CRP and PCT are insufficient to confirm the CAP diagnosis established using a gold standard that includes thoracic CT scan .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Diagnostic accuracy of these biomarkers is also insufficient to distinguish bacterial CAP from viral CAP .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Trial registration : ClinicalTrials.gov registry NCT01574066 ( February 7 , 2012 )",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "17",
+    "segment_num": "25",
+    "token_num": "393"
+  }
+}

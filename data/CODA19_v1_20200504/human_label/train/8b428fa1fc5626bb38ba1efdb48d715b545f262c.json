@@ -1,0 +1,73 @@
+{
+  "paper_id": "8b428fa1fc5626bb38ba1efdb48d715b545f262c",
+  "metadata": {
+    "title": "Evolution and Variation of the SARS-CoV Genome",
+    "coda_data_split": "train",
+    "coda_paper_id": 7616,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Knowledge of the evolution of pathogens is of great medical and biological significance to the prevention, diagnosis, and therapy of infectious diseases. In order to understand the origin and evolution of the SARS-CoV (severe acute respiratory syndrome-associated coronavirus), we collected complete genome sequences of all viruses available in GenBank, and made comparative analyses with the SARS-CoV. Genomic signature analysis demonstrates that the coronaviruses all take the TGTT as their richest tetranucleotide except the SARS-CoV. A detailed analysis of the forty-two complete SARS-CoV genome sequences revealed the existence of two distinct genotypes, and showed that these isolates could be classified into four groups. Our manual analysis of the BLASTN results demonstrates that the HE (hemagglutinin-esterase) gene exists in the SARS-CoV, and many mutations made it unfamiliar to us.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Knowledge of the evolution of pathogens is of great medical and biological significance to the prevention ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "diagnosis , and therapy of infectious diseases .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In order to understand the origin and evolution of the SARS-CoV ( severe acute respiratory syndrome-associated coronavirus ) ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "we collected complete genome sequences of all viruses available in GenBank ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and made comparative analyses with the SARS-CoV .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Genomic signature analysis demonstrates that the coronaviruses all take the TGTT as their richest tetranucleotide except the SARS-CoV .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A detailed analysis of the forty-two complete SARS-CoV genome sequences revealed the existence of two distinct genotypes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and showed that these isolates could be classified into four groups .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our manual analysis of the BLASTN results demonstrates that the HE ( hemagglutinin-esterase ) gene exists in the SARS-CoV ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and many mutations made it unfamiliar to us .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "10",
+    "token_num": "142"
+  }
+}

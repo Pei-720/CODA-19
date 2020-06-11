@@ -1,0 +1,89 @@
+{
+  "paper_id": "c52ae1786fb5afb844f446fac316bd14ba7cd5ba",
+  "metadata": {
+    "title": "Estimating false-negative detection rate of SARS-CoV-2 by RT-PCR",
+    "coda_data_split": "test",
+    "coda_paper_id": 500,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Reverse transcription-polymerase chain reaction (RT-PCR) assays are used to test patients and key workers for infection with the causative SARS-CoV-2 virus. RT-PCR tests are highly specific and the probability of false positives is low, but false negatives can occur if the sample contains insufficient quantities of the virus to be successfully amplified and detected. The amount of virus in a swab is likely to vary between patients, sample location (nasal, throat or sputum) and through time as infection progresses. Here, we analyse publicly available data from patients who received multiple RT-PCR tests and were identified as SARS-CoV-2 positive at least once. We identify that the probability of a positive test decreases with time after symptom onset, with throat samples less likely to yield a positive result relative to nasal samples. Empirically derived distributions of the time between symptom onset and hospitalisation allowed us to comment on the likely false negative rates in cohorts of patients who present for testing at different clinical stages. We further estimate the expected numbers of false negative tests in a group of tested individuals and show how this is affected by the timing of the tests. Finally, we assessed the robustness of these estimates of false negative rates to the probability of false positive tests. This work has implications both for the identification of infected patients and for the discharge of convalescing patients who are potentially still infectious.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Reverse transcription-polymerase chain reaction ( RT-PCR ) assays are used to test patients and key workers for infection with the causative SARS-CoV-2 virus .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "RT-PCR tests are highly specific and the probability of false positives is low ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but false negatives can occur if the sample contains insufficient quantities of the virus to be successfully amplified and detected .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The amount of virus in a swab is likely to vary between patients ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "sample location ( nasal , throat or sputum ) and through time as infection progresses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we analyse publicly available data from patients who received multiple RT-PCR tests and were identified as SARS-CoV-2 positive at least once .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We identify that the probability of a positive test decreases with time after symptom onset ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with throat samples less likely to yield a positive result relative to nasal samples .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Empirically derived distributions of the time between symptom onset and hospitalisation allowed us to comment on the likely false negative rates in cohorts of patients who present for testing at different clinical stages .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We further estimate the expected numbers of false negative tests in a group of tested individuals and show how this is affected by the timing of the tests .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , we assessed the robustness of these estimates of false negative rates to the probability of false positive tests .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This work has implications both for the identification of infected patients and for the discharge of convalescing patients who are potentially still infectious .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "9",
+    "segment_num": "12",
+    "token_num": "252"
+  }
+}

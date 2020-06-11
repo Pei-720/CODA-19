@@ -1,0 +1,81 @@
+{
+  "paper_id": "6f8ed3b3dbd4b4a00cec2c86091fc85ff2b92d9f",
+  "metadata": {
+    "title": "The p22 RNA silencing suppressor of the crinivirus Tomato chlorosis virus preferentially binds long dsRNAs preventing them from cleavage",
+    "coda_data_split": "train",
+    "coda_paper_id": 3835,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Viruses encode silencing suppressor proteins to counteract RNA silencing. Because dsRNA plays a key role in silencing, a general silencing suppressor strategy is dsRNA binding. The p22 suppressor of the plant virus Tomato chlorosis virus (ToCV; genus Crinivirus, family Closteroviridae) has been described as having one of the longest lasting local suppressor activities. However, the mechanism of action of p22 has not been characterized. Here, we show that ToCV p22 binds long dsRNAs in vitro, thus interfering with their processing into small RNAs (sRNAs) by an RNase III-type Dicer homolog enzyme. Additionally, we have studied whether a putative zinc finger motif found in p22 has a role in dsRNA binding and suppressor function. The efficient ability of p22 to suppress RNA silencing, triggered by hairpin transcripts transiently expressed in planta, supports the relationship between its ability to bind dsRNA in vitro and its ability to inhibit RNA silencing in vivo.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Viruses encode silencing suppressor proteins to counteract RNA silencing .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Because dsRNA plays a key role in silencing ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a general silencing suppressor strategy is dsRNA binding .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The p22 suppressor of the plant virus Tomato chlorosis virus ( ToCV ; genus Crinivirus , family Closteroviridae ) has been described as having one of the longest lasting local suppressor activities .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , the mechanism of action of p22 has not been characterized .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we show that ToCV p22 binds long dsRNAs in vitro ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "thus interfering with their processing into small RNAs ( sRNAs ) by an RNase III-type Dicer homolog enzyme .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Additionally , we have studied whether a putative zinc finger motif found in p22 has a role in dsRNA binding and suppressor function .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The efficient ability of p22 to suppress RNA silencing ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "triggered by hairpin transcripts transiently expressed in planta ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "supports the relationship between its ability to bind dsRNA in vitro and its ability to inhibit RNA silencing in vivo .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "11",
+    "token_num": "170"
+  }
+}

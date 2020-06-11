@@ -1,0 +1,81 @@
+{
+  "paper_id": "a46461d35067bed17057cda849bf940daf74550d",
+  "metadata": {
+    "title": "Computational analysis of interactomes: Current and future perspectives for bioinformatics approaches to model the host-pathogen interaction space",
+    "coda_data_split": "train",
+    "coda_paper_id": 5351,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Bacterial and viral pathogens affect their eukaryotic host partly by interacting with proteins of the host cell. Hence, to investigate infection from a systems\u0027 perspective we need to construct complete and accurate host-pathogen protein-protein interaction networks. Because of the paucity of available data and the cost associated with experimental approaches, any construction and analysis of such a network in the near future has to rely on computational predictions. Specifically, this challenge consists of a number of sub-problems: First, prediction of possible pathogen interactors (e.g. effector proteins) is necessary for bacteria and protozoa. Second, the prospective host binding partners have to be determined and finally, the impact on the host cell analyzed. This review gives an overview of current bioinformatics approaches to obtain and understand host-pathogen interactions. As an application example of the methods covered, we predict host-pathogen interactions of Salmonella and discuss the value of these predictions as a prospective for further research.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Bacterial and viral pathogens affect their eukaryotic host partly by interacting with proteins of the host cell .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hence , to investigate infection from a systems \u0027 perspective we need to construct complete and accurate host-pathogen protein-protein interaction networks .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Because of the paucity of available data and the cost associated with experimental approaches ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "any construction and analysis of such a network in the near future has to rely on computational predictions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Specifically , this challenge consists of a number of sub-problems : First ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "prediction of possible pathogen interactors ( e.g. effector proteins ) is necessary for bacteria and protozoa .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Second , the prospective host binding partners have to be determined and finally ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the impact on the host cell analyzed .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This review gives an overview of current bioinformatics approaches to obtain and understand host-pathogen interactions .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "As an application example of the methods covered ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "we predict host-pathogen interactions of Salmonella and discuss the value of these predictions as a prospective for further research .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "11",
+    "token_num": "171"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "paper_id": "32750ffbdd4f7ab6fc7fb722c7aa043feff1378f",
+  "metadata": {
+    "title": "A Likelihood-based Index of Protein-Protein Binding Affinities with Application to Influenza HA Escape from Antibodies",
+    "coda_data_split": "train",
+    "coda_paper_id": 6486,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "In many biological systems, proteins interact with other organic molecules to produce indispensable functions, in which molecular recognition phenomena are essential. Proteins have kept or gained their functions during molecular evolution. Their functions seem to be flexible, and a few amino acid substitutions sometimes cause drastic changes in function. In order to monitor and predict such drastic changes in the early stages in target populations, we need to identify patterns of structural changes during molecular evolution causing decreases or increases in the binding affinity of protein complexes. In previous work, we developed a likelihood-based index to quantify the degree to which a sequence fits a given structure. This index was named the sequence-structure fitness (SSF) and is calculated empirically based on amino acid preferences and pairwise interactions in the structural environment present in template structures. In the present work, we used the SSF to develop an index to measure the binding affinity of protein-protein complexes defined as the log likelihood ratio, contrasting the fitness of the sequences to the structure of the complex and that of the uncomplexed proteins. We applied the developed index to the complexes formed between influenza A hemagglutinin (HA) and four antibodies. The antibody-antigen binding region of HA is under strong selection pressure by the host immune system. Hence, examination of the long-term adaptation of HA to the four antibodies could reveal the strategy of the molecular evolution of HA. Two antibodies cover the HA receptor-binding region, while the other two bind away from the receptor-binding region. By focusing on branches with a significant decline in binding ability, we could detect key amino acid replacements and investigate the mechanism via conditional probabilities. The contrast between the adaptations to the two types of antibodies suggests that the virus adapts to the immune system at the cost of structural change.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In many biological systems , proteins interact with other organic molecules to produce indispensable functions ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "in which molecular recognition phenomena are essential .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Proteins have kept or gained their functions during molecular evolution .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Their functions seem to be flexible ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and a few amino acid substitutions sometimes cause drastic changes in function .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In order to monitor and predict such drastic changes in the early stages in target populations ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we need to identify patterns of structural changes during molecular evolution causing decreases or increases in the binding affinity of protein complexes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In previous work , we developed a likelihood-based index to quantify the degree to which a sequence fits a given structure .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This index was named the sequence-structure fitness ( SSF ) and is calculated empirically based on amino acid preferences and pairwise interactions in the structural environment present in template structures .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the present work , we used the SSF to develop an index to measure the binding affinity of protein-protein complexes defined as the log likelihood ratio ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "contrasting the fitness of the sequences to the structure of the complex and that of the uncomplexed proteins .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We applied the developed index to the complexes formed between influenza A hemagglutinin ( HA ) and four antibodies .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The antibody-antigen binding region of HA is under strong selection pressure by the host immune system .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hence , examination of the long-term adaptation of HA to the four antibodies could reveal the strategy of the molecular evolution of HA .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Two antibodies cover the HA receptor-binding region ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while the other two bind away from the receptor-binding region .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "By focusing on branches with a significant decline in binding ability ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we could detect key amino acid replacements and investigate the mechanism via conditional probabilities .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The contrast between the adaptations to the two types of antibodies suggests that the virus adapts to the immune system at the cost of structural change .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "13",
+    "segment_num": "19",
+    "token_num": "329"
+  }
+}

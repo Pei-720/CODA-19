@@ -1,0 +1,43 @@
+{
+  "paper_id": "325c22d779f60b92dc7eeeb30fad97bee8ef1660",
+  "metadata": {
+    "title": "A New Conjugate for the ELISA Quantitation of Porcine IgA",
+    "coda_data_split": "train",
+    "coda_paper_id": 6909,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The preparation of a new soluble immune complex conjugate (anti-lgA-IgA-peroxidase), suitable for use in the ELISA technique is described. This conjugate requires pure lgA and specific anti-lgA, but the enzyme (peroxidase) was easily conjugated to the IgA.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The preparation of a new soluble immune complex conjugate ( anti-lgA-IgA-peroxidase ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "suitable for use in the ELISA technique is described .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This conjugate requires pure lgA and specific anti-lgA ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but the enzyme ( peroxidase ) was easily conjugated to the IgA .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "2",
+    "segment_num": "4",
+    "token_num": "45"
+  }
+}

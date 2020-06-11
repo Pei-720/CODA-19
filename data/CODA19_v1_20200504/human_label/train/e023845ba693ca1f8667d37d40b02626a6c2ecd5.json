@@ -1,0 +1,133 @@
+{
+  "paper_id": "e023845ba693ca1f8667d37d40b02626a6c2ecd5",
+  "metadata": {
+    "title": "On the Use of Human Mobility Proxies for Modeling Epidemics",
+    "coda_data_split": "train",
+    "coda_paper_id": 8778,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Human mobility is a key component of large-scale spatial-transmission models of infectious diseases. Correctly modeling and quantifying human mobility is critical for improving epidemic control, but may be hindered by data incompleteness or unavailability. Here we explore the opportunity of using proxies for individual mobility to describe commuting flows and predict the diffusion of an influenza-like-illness epidemic. We consider three European countries and the corresponding commuting networks at different resolution scales, obtained from (i) official census surveys, (ii) proxy mobility data extracted from mobile phone call records, and (iii) the radiation model calibrated with census data. Metapopulation models defined on these countries and integrating the different mobility layers are compared in terms of epidemic observables. We show that commuting networks from mobile phone data capture the empirical commuting patterns well, accounting for more than 87% of the total fluxes. The distributions of commuting fluxes per link from mobile phones and census sources are similar and highly correlated, however a systematic overestimation of commuting traffic in the mobile phone data is observed. This leads to epidemics that spread faster than on census commuting networks, once the mobile phone commuting network is considered in the epidemic model, however preserving to a high degree the order of infection of newly affected locations. Proxies\u0027 calibration affects the arrival times\u0027 agreement across different models, and the observed topological and traffic discrepancies among mobility sources alter the resulting epidemic invasion patterns. Results also suggest that proxies perform differently in approximating commuting patterns for disease spread at different resolution scales, with the radiation model showing higher accuracy than mobile phone data when the seed is central in the network, the opposite being observed for peripheral locations. Proxies should therefore be chosen in light of the desired accuracy for the epidemic situation under study.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Human mobility is a key component of large-scale spatial-transmission models of infectious diseases .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Correctly modeling and quantifying human mobility is critical for improving epidemic control ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but may be hindered by data incompleteness or unavailability .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we explore the opportunity of using proxies for individual mobility to describe commuting flows and predict the diffusion of an influenza-like-illness epidemic .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We consider three European countries and the corresponding commuting networks at different resolution scales ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "obtained from ( i ) official census surveys ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "( ii ) proxy mobility data extracted from mobile phone call records ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and ( iii ) the radiation model calibrated with census data .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Metapopulation models defined on these countries and integrating the different mobility layers are compared in terms of epidemic observables .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We show that commuting networks from mobile phone data capture the empirical commuting patterns well ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "accounting for more than 87 % of the total fluxes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The distributions of commuting fluxes per link from mobile phones and census sources are similar and highly correlated ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "however a systematic overestimation of commuting traffic in the mobile phone data is observed .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This leads to epidemics that spread faster than on census commuting networks ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "once the mobile phone commuting network is considered in the epidemic model ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "however preserving to a high degree the order of infection of newly affected locations .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Proxies \u0027 calibration affects the arrival times \u0027 agreement across different models ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the observed topological and traffic discrepancies among mobility sources alter the resulting epidemic invasion patterns .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results also suggest that proxies perform differently in approximating commuting patterns for disease spread at different resolution scales ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with the radiation model showing higher accuracy than mobile phone data when the seed is central in the network ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the opposite being observed for peripheral locations .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Proxies should therefore be chosen in light of the desired accuracy for the epidemic situation under study .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "11",
+    "segment_num": "22",
+    "token_num": "327"
+  }
+}

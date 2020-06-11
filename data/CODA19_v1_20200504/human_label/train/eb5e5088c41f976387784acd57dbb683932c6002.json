@@ -1,0 +1,182 @@
+{
+  "paper_id": "eb5e5088c41f976387784acd57dbb683932c6002",
+  "metadata": {
+    "title": "The RZZ complex integrates spindle checkpoint maintenance with dynamic expansion of unattached kinetochores",
+    "coda_data_split": "train",
+    "coda_paper_id": 4736,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The Mad1-Mad2 heterodimer is the catalytic hub of the spindle assembly checkpoint (SAC), which controls mitosis through assembly of a multi-subunit anaphase inhibitor, the mitotic checkpoint complex (MCC) [1, 2] . Mad1-Mad2 first catalyzes MCC assembly at interphase nuclear pores [3] , then migrates to kinetochores at nuclear envelope breakdown (NEBD) and resumes MCC assembly until bipolar spindle attachment is complete [1, 2] . There is significant debate about the factor(s) involved in targeting Mad1-Mad2 to kinetochores in higher eukaryotes [4] [5] [6] [7] [8] [9] . Through gene editing and livecell imaging, we found that the human Rod-Zw10-Zwilch (RZZ) complex is dispensable for cell viability and initial recruitment of Mad1-Mad2 to kinetochores at NEBD, but then becomes necessary to tether Mad1-Mad2 at kinetochores and sustain SAC arrest in cells challenged with spindle poisons. We also show that RZZ forms the mesh-like fibrous corona, a structural expansion of the outer kinetochore important for timely chromosome congression [10-13] once Mps1 phosphorylates the N-terminus of Rod.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The Mad1-Mad2 heterodimer is the catalytic hub of the spindle assembly checkpoint ( SAC ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which controls mitosis through assembly of a multi-subunit anaphase inhibitor ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the mitotic checkpoint complex ( MCC ) ( 1 , 2 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Mad1-Mad2 first catalyzes MCC assembly at interphase nuclear pores ( 3 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "then migrates to kinetochores at nuclear envelope breakdown ( NEBD ) and resumes MCC assembly until bipolar spindle attachment is complete ( 1 , 2 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "There is significant debate about the factor ( s ) involved in targeting Mad1-Mad2 to kinetochores in higher eukaryotes ( 4 ) ( 5 ) ( 6 ) ( 7 ) ( 8 ) ( 9 ) .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Through gene editing and livecell imaging ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we found that the human Rod-Zw10-Zwilch ( RZZ ) complex is dispensable for cell viability and initial recruitment of Mad1-Mad2 to kinetochores at NEBD ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but then becomes necessary to tether Mad1-Mad2 at kinetochores and sustain SAC arrest in cells challenged with spindle poisons .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also show that RZZ forms the mesh-like fibrous corona ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a structural expansion of the outer kinetochore important for timely chromosome congression ( 10-13 ) once Mps1 phosphorylates the N-terminus of Rod .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Artificially tethering Mad1-Mad2 to kinetochores enabled long-term mitotic arrest in the absence of RZZ. Conversely, blocking early RZZ-independent recruitment of Mad1-Mad2 eliminated the transient SAC response in RZZ-null cells. We conclude that RZZ drives structural changes in the outer kinetochore that facilitate chromosome biorientation and chronic SAC transduction, a key determinant of cytotoxicity during antimitotic drug therapy [14-16]. All rights reserved. No reuse allowed without permission.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Artificially tethering Mad1-Mad2 to kinetochores enabled long-term mitotic arrest in the absence of RZZ .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Conversely , blocking early RZZ-independent recruitment of Mad1-Mad2 eliminated the transient SAC response in RZZ-null cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We conclude that RZZ drives structural changes in the outer kinetochore that facilitate chromosome biorientation and chronic SAC transduction ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a key determinant of cytotoxicity during antimitotic drug therapy ( 14-16 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "All rights reserved .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "No reuse allowed without permission .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Recent studies have reached different conclusions about the specific roles and relative importance of Bub1 and the RZZ complex in targeting Mad1-Mad2 to kinetochores and transducing SAC arrest [4] [5] [6] [7] [8] . To interrogate RZZ function with maximum penetrance, we used AAV (adeno-associated virus)-and CRISPR-mediated gene editing to target the KNTC1 (Rod) locus in HCT116 cells, a diploid colorectal cell line ( Fig. S1A-C) . The resulting KNTC1 HF/-(hypomorph-flox) cells expressed Rod at ~20% of the wildtype level ( Fig. 1A -B and S1D) and exited mitosis prematurely when microtubule polymerization (nocodazole, 99 ± 6 min s.e.m.) or Eg5-dependent spindle bipolarity (S-trityl-L-cysteine (STLC), 193 ± 9 min s.e.m.) were inhibited, whereas wildtype cells never exited mitosis during the 16-hour timelapse (Fig. 1A-B) . To determine if complete loss of the RZZ complex is compatible with clonogenic survival, KNTC1 HF/cells were transduced with an adenovirus expressing Cre recombinase (AdCre) and subjected to limiting dilution.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Recent studies have reached different conclusions about the specific roles and relative importance of Bub1 and the RZZ complex in targeting Mad1-Mad2 to kinetochores and transducing SAC arrest ( 4 ) ( 5 ) ( 6 ) ( 7 ) ( 8 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "To interrogate RZZ function with maximum penetrance ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we used AAV ( adeno-associated virus ) - and CRISPR-mediated gene editing to target the KNTC1 ( Rod ) locus in HCT116 cells ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a diploid colorectal cell line ( Fig .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "S1A-C ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The resulting KNTC1 HF / - ( hypomorph-flox ) cells expressed Rod at ~ 20 % of the wildtype level ( Fig. 1A - B and S1D ) and exited mitosis prematurely when microtubule polymerization ( nocodazole , 99 ± 6 min s.e.m. ) or Eg5-dependent spindle bipolarity ( S-trityl-L-cysteine ( STLC ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "193 ± 9 min s.e.m. ) were inhibited ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "whereas wildtype cells never exited mitosis during the 16-hour timelapse ( Fig. 1A-B ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "To determine if complete loss of the RZZ complex is compatible with clonogenic survival ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "KNTC1 HF/cells were transduced with an adenovirus expressing Cre recombinase ( AdCre ) and subjected to limiting dilution .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "16",
+    "segment_num": "28",
+    "token_num": "479"
+  }
+}

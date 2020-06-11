@@ -1,0 +1,71 @@
+{
+  "paper_id": "abc25b132b99ecba2d9f81806d2c211037ba1bba",
+  "metadata": {
+    "title": "Structural maturation of rubella virus in the Golgi complex",
+    "coda_data_split": "train",
+    "coda_paper_id": 9211,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Rubella virus is a small enveloped virus that assembles in association with Golgi membranes. Freeze-substitution electron microscopy of rubella virus-infected cells revealed a previously unrecognized virion polymorphism inside the Golgi stacks: homogeneously dense particles without a defined core coexisting with less dense, mature virions that contained assembled cores. The homogeneous particles appear to be a precursor form during the virion morphogenesis process as the forms with mature morphology were the only ones detected inside secretory vesicles and on the exterior of cells. In mature virions potential remnants of C protein membrane insertion were visualized as dense strips connecting the envelope with the internal core. In infected cells Golgi stacks were frequently seen close to cytopathic vacuoles, structures identified as the sites for viral RNA replication, along with the rough endoplasmic reticulum and mitochondria. These associations could facilitate the transfer of viral genomes from the cytopathic vacuoles to the areas of rubella assembly in Golgi membranes.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Rubella virus is a small enveloped virus that assembles in association with Golgi membranes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Freeze-substitution electron microscopy of rubella virus-infected cells revealed a previously unrecognized virion polymorphism inside the Golgi stacks : homogeneously dense particles without a defined core coexisting with less dense ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "mature virions that contained assembled cores .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The homogeneous particles appear to be a precursor form during the virion morphogenesis process as the forms with mature morphology were the only ones detected inside secretory vesicles and on the exterior of cells .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In mature virions potential remnants of C protein membrane insertion were visualized as dense strips connecting the envelope with the internal core .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In infected cells Golgi stacks were frequently seen close to cytopathic vacuoles ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "structures identified as the sites for viral RNA replication ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "along with the rough endoplasmic reticulum and mitochondria .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These associations could facilitate the transfer of viral genomes from the cytopathic vacuoles to the areas of rubella assembly in Golgi membranes .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "9",
+    "token_num": "165"
+  }
+}

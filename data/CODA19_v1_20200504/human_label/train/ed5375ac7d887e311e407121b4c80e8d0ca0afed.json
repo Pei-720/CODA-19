@@ -1,0 +1,85 @@
+{
+  "paper_id": "ed5375ac7d887e311e407121b4c80e8d0ca0afed",
+  "metadata": {
+    "title": "Sequence analysis The RNA shapes studio",
+    "coda_data_split": "train",
+    "coda_paper_id": 9424,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Motivation: Abstract shape analysis, first proposed in 2004, allows one to extract several relevant structures from the folding space of an RNA sequence, preferable to focusing in a single structure of minimal free energy. We report recent extensions to this approach. Results: We have rebuilt the original RNASHAPES as a repository of components that allows us to integrate several established tools for RNA structure analysis: RNASHAPES, RNAALISHAPES and PKNOTSRG, including its recent extension PKISS. As a spin-off, we obtain heretofore unavailable functionality: e. g. with PKISS, we can now perform abstract shape analysis for structures holding pseudoknots up to the complexity of kissing hairpin motifs. The new tool PALIKISS can predict kissing hairpin motifs from aligned sequences. Along with the integration, the functionality of the tools was also extended in manifold ways. Availability and implementation: As before, the tool is available on the Bielefeld Bioinformatics server at",
+      "sentences": [
+        [
+          {
+            "segment_text": "Motivation : Abstract shape analysis ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "first proposed in 2004 , allows one to extract several relevant structures from the folding space of an RNA sequence ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "preferable to focusing in a single structure of minimal free energy .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We report recent extensions to this approach .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results : We have rebuilt the original RNASHAPES as a repository of components that allows us to integrate several established tools for RNA structure analysis : RNASHAPES ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "RNAALISHAPES and PKNOTSRG , including its recent extension PKISS .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "As a spin-off , we obtain heretofore unavailable functionality : e. g. with PKISS ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we can now perform abstract shape analysis for structures holding pseudoknots up to the complexity of kissing hairpin motifs .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The new tool PALIKISS can predict kissing hairpin motifs from aligned sequences .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Along with the integration , the functionality of the tools was also extended in manifold ways .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Availability and implementation : As before ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the tool is available on the Bielefeld Bioinformatics server at",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "12",
+    "token_num": "167"
+  }
+}

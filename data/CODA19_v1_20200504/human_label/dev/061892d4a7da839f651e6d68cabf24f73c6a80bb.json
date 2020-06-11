@@ -1,0 +1,115 @@
+{
+  "paper_id": "061892d4a7da839f651e6d68cabf24f73c6a80bb",
+  "metadata": {
+    "title": "State-of-the-art methods for inverse design of an enclosed environment",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1392,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The conventional design of enclosed environments uses a trial-and-error approach that is time consuming and may not meet the design objective. Inverse design concept uses the desired enclosed environment as the design objective and inversely determines the systems required to achieve the objective. This paper discusses a number of backward and forward methods for inverse design. Backward methods, such as the quasi-reversibility method, pseudo-reversibility method, and regularized inverse matrix method, can be used to identify contaminant sources in an enclosed environment. However, these methods cannot be used to inversely design a desired indoor environment. Forward methods, such as the CFD-based adjoint method, CFD-based genetic algorithm method, and proper orthogonal decomposition method, show the promise in the inverse design of airflow and heat transfer in an enclosed environment. The CFD-based adjoint method is accurate and can handle many design parameters without increasing computing costs, but the method may find a locally optimal design that could meet the design objective with constrains. The CFD-based genetic algorithm method, on the other hand, can provide the global optimal design that can meet the design objective without constraints, but the computing cost can increase dramatically with the number of design parameters. The proper orthogonal decomposition method is a reduced-order method that can significantly lower computing costs, but at the expense of reduced accuracy. This paper also discusses the possibility to reduce the computing costs of CFD-based design methods.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The conventional design of enclosed environments uses a trial-and-error approach that is time consuming and may not meet the design objective .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Inverse design concept uses the desired enclosed environment as the design objective and inversely determines the systems required to achieve the objective .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This paper discusses a number of backward and forward methods for inverse design .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Backward methods , such as the quasi-reversibility method ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "pseudo-reversibility method , and regularized inverse matrix method ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "can be used to identify contaminant sources in an enclosed environment .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , these methods can not be used to inversely design a desired indoor environment .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Forward methods , such as the CFD-based adjoint method ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "CFD-based genetic algorithm method , and proper orthogonal decomposition method ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "show the promise in the inverse design of airflow and heat transfer in an enclosed environment .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The CFD-based adjoint method is accurate and can handle many design parameters without increasing computing costs ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but the method may find a locally optimal design that could meet the design objective with constrains .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The CFD-based genetic algorithm method ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "on the other hand , can provide the global optimal design that can meet the design objective without constraints ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but the computing cost can increase dramatically with the number of design parameters .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The proper orthogonal decomposition method is a reduced-order method that can significantly lower computing costs ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but at the expense of reduced accuracy .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This paper also discusses the possibility to reduce the computing costs of CFD-based design methods .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "10",
+    "segment_num": "18",
+    "token_num": "258"
+  }
+}

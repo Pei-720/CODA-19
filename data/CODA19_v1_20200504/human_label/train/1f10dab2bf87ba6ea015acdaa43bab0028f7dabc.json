@@ -1,0 +1,61 @@
+{
+  "paper_id": "1f10dab2bf87ba6ea015acdaa43bab0028f7dabc",
+  "metadata": {
+    "title": "Structural Biology and Crystallization Communications Large-scale purification and crystallization of the endoribonuclease XendoU: troubleshooting with His-tagged proteins",
+    "coda_data_split": "train",
+    "coda_paper_id": 6078,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "XendoU is the first endoribonuclease described in higher eukaryotes as being involved in the endonucleolytic processing of intron-encoded small nucleolar RNAs. It is conserved among eukaryotes and its viral homologue is essential in SARS replication and transcription. The large-scale purification and crystallization of recombinant XendoU are reported. The tendency of the recombinant enzyme to aggregate could be reversed upon the addition of chelating agents (EDTA, imidazole): aggregation is a potential drawback when purifying and crystallizing His-tagged proteins, which are widely used, especially in highthroughput structural studies. Purified monodisperse XendoU crystallized in two different space groups: trigonal P3 1 21, diffracting to low resolution, and monoclinic C2, diffracting to higher resolution.",
+      "sentences": [
+        [
+          {
+            "segment_text": "XendoU is the first endoribonuclease described in higher eukaryotes as being involved in the endonucleolytic processing of intron-encoded small nucleolar RNAs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is conserved among eukaryotes and its viral homologue is essential in SARS replication and transcription .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The large-scale purification and crystallization of recombinant XendoU are reported .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The tendency of the recombinant enzyme to aggregate could be reversed upon the addition of chelating agents ( EDTA , imidazole ) : aggregation is a potential drawback when purifying and crystallizing His-tagged proteins ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which are widely used , especially in highthroughput structural studies .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Purified monodisperse XendoU crystallized in two different space groups : trigonal P3 1 21 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "diffracting to low resolution , and monoclinic C2 , diffracting to higher resolution .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "7",
+    "token_num": "125"
+  }
+}

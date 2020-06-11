@@ -1,0 +1,178 @@
+{
+  "paper_id": "53db274f4427f9f421959b5d0e6b5dc47c58612a",
+  "metadata": {
+    "title": "Type I IFN Signaling Is Dispensable during Secondary Viral Infection",
+    "coda_data_split": "train",
+    "coda_paper_id": 2960,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Innate immune responses in general, and type I interferons (T1IFNs) in particular, play an important and often essential role during primary viral infections, by directly combatting the virus and by maximizing the primary adaptive immune response. Several studies have suggested that T1IFNs also contribute very substantially to the secondary (recall) response; they are thought (i) to be required to drive the early attrition of memory T cells, (ii) to support the subsequent expansion of surviving virus-specific memory cells, and (iii) to assist in the suppression and clearance of the infectious agent. However, many of these observations were predicated upon models in which T1IFN signaling was interrupted prior to a primary immune response, raising the possibility that the resulting memory cells might be intrinsically abnormal. We have directly addressed this by using an inducible-Cre model system in which the host remains genetically-intact during the primary response to infection, and in which T1IFN signaling can be effectively ablated prior to secondary viral challenge. We report that, in stark contrast to primary infection, T1IFN signaling is not required during the recall response. IFNαβR-deficient memory CD8 + and CD4 + memory T cells undergo attrition and expansion with kinetics that are indistinguishable from those of receptor-sufficient cells. Moreover, even in the absence of functional T1IFN signaling, the host\u0027s immune capacity to rapidly suppress, and then to eradicate, a secondary infection remains intact. Thus, this study shows that T1IFN signaling is dispensable during the recall response to a virus infection. Moreover, two broader implications may be drawn. First, a T cell\u0027s requirement for a cytokine is highly dependent on the cell\u0027s maturation / differentiation status. Consequently, second, these data underscore the importance of evaluating a gene\u0027s impact by modulating its expression or function in a temporally-controllable manner.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Innate immune responses in general ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and type I interferons ( T1IFNs ) in particular ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "play an important and often essential role during primary viral infections ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "by directly combatting the virus and by maximizing the primary adaptive immune response .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Several studies have suggested that T1IFNs also contribute very substantially to the secondary ( recall ) response ; they are thought ( i ) to be required to drive the early attrition of memory T cells ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "( ii ) to support the subsequent expansion of surviving virus-specific memory cells ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and ( iii ) to assist in the suppression and clearance of the infectious agent .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , many of these observations were predicated upon models in which T1IFN signaling was interrupted prior to a primary immune response ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "raising the possibility that the resulting memory cells might be intrinsically abnormal .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We have directly addressed this by using an inducible-Cre model system in which the host remains genetically-intact during the primary response to infection ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and in which T1IFN signaling can be effectively ablated prior to secondary viral challenge .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We report that , in stark contrast to primary infection ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "T1IFN signaling is not required during the recall response .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "IFNαβR-deficient memory CD8 + and CD4 + memory T cells undergo attrition and expansion with kinetics that are indistinguishable from those of receptor-sufficient cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , even in the absence of functional T1IFN signaling ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the host \u0027s immune capacity to rapidly suppress ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and then to eradicate , a secondary infection remains intact .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , this study shows that T1IFN signaling is dispensable during the recall response to a virus infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , two broader implications may be drawn .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "First , a T cell \u0027s requirement for a cytokine is highly dependent on the cell \u0027s maturation / differentiation status .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Consequently , second , these data underscore the importance of evaluating a gene \u0027s impact by modulating its expression or function in a temporally-controllable manner .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "PLOS Pathogens | initial immune responses, and by extension any memory cells subsequently generated, in the absence of these cytokines are potentially defective. Here we have employed an inducible-deletion model, wherein normal responses to primary infections proceed unhindered, and only after the successful establishment of long-term memory T cells is the common receptor for T1IFNs, IFNαβR, deleted. We demonstrate that, unlike during primary infection, both the recall immune response and control of virus is independent of functional T1IFN signaling. Importantly, our results highlight a need to re-evaluate the critical and requisite determinants of a successful recall response in a temporally-controlled manner.",
+      "sentences": [
+        [
+          {
+            "segment_text": "PLOS Pathogens | initial immune responses ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and by extension any memory cells subsequently generated ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "in the absence of these cytokines are potentially defective .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we have employed an inducible-deletion model ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "wherein normal responses to primary infections proceed unhindered ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and only after the successful establishment of long-term memory T cells is the common receptor for T1IFNs , IFNαβR , deleted .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We demonstrate that , unlike during primary infection ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "both the recall immune response and control of virus is independent of functional T1IFN signaling .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Importantly , our results highlight a need to re-evaluate the critical and requisite determinants of a successful recall response in a temporally-controlled manner .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "15",
+    "segment_num": "30",
+    "token_num": "451"
+  }
+}

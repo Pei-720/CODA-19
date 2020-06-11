@@ -1,0 +1,71 @@
+{
+  "paper_id": "c42a617a00afe6a36bde0a8e3638e0f55bfee4f7",
+  "metadata": {
+    "title": "Prediction of COVID-19 Spreading Profiles in South Korea, Italy and Iran by Data-Driven Coding",
+    "coda_data_split": "test",
+    "coda_paper_id": 380,
+    "coda_has_expert_labels": true,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "This work applies a data-driven coding method for prediction of the COVID-19 spreading profile in any given population that shows an initial phase of epidemic progression. Based on the historical data collected for COVID-19 spreading in 367 cities in China and the set of parameters of the augmented Susceptible-Exposed-Infected-Removed (SEIR) model obtained for each city, a set of profile codes representing a variety of transmission mechanisms and contact topologies is formed. By comparing the data of an early outbreak of a given population with the complete set of historical profiles, the best fit profiles are selected and the corresponding sets of profile codes are used for prediction of the future progression of the epidemic in that population. Application of the method to the data collected for South Korea, Italy and Iran shows that peaks of infection cases are expected to occur before the end of March 2020, and that the percentage of population infected in each city will be less than 0.01%, 0.05% and 0.02%, for South Korea, Italy and Iran, respectively.",
+      "sentences": [
+        [
+          {
+            "segment_text": "This work applies a data-driven coding method for prediction of the COVID-19 spreading profile in any given population that shows an initial phase of epidemic progression .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Based on the historical data collected for COVID-19 spreading in 367 cities in China and the set of parameters of the augmented Susceptible-Exposed-Infected-Removed ( SEIR ) model obtained for each city ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "a set of profile codes representing a variety of transmission mechanisms and contact topologies is formed .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "By comparing the data of an early outbreak of a given population with the complete set of historical profiles ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the best fit profiles are selected and the corresponding sets of profile codes are used for prediction of the future progression of the epidemic in that population .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Application of the method to the data collected for South Korea ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Italy and Iran shows that peaks of infection cases are expected to occur before the end of March 2020 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and that the percentage of population infected in each city will be less than 0.01 % ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "0.05 % and 0.02 % ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "for South Korea , Italy and Iran , respectively .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "4",
+    "segment_num": "10",
+    "token_num": "189"
+  }
+}

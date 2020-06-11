@@ -1,0 +1,83 @@
+{
+  "paper_id": "af0886d18c5d5e485a94bbd8f52da69ff089db8e",
+  "metadata": {
+    "title": "Degenerate primer design to clone the human repertoire of immunoglobulin heavy chain variable regions",
+    "coda_data_split": "train",
+    "coda_paper_id": 7857,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Amplifying the variable (Fv or V) regions of immunoglobulins (Ig) has become a challenge in cloning antibody genes for phage display, a technique used to study protein-protein, protein-peptide, and protein-DNA interactions using bacteriophages to connect proteins with the genetic information that encodes them. Key parameters affecting the amplification of full antibody repertoires includes the availability of primers that can amplify as many V genes as possible; however the strategy used to design these primers and programs used to make the necessary alignments have not been well studied and clearly detailed in the literature. Here, we present a set of primers computationally designed by iCODEHOP based on a database of human germline Ig sequences. We used reverse transcription polymerase chain reaction (RT-PCR) protocols that would recognize the V H genes from human peripheral blood mononuclear cells. We identified the most highly conserved region in framework 1 and framework 4 of the Ig cDNA, and designed a set of degenerated 5 0 primers. The V H genes were successfully amplified by RT-PCR. This new primer has facilitated the creation of more diverse V H libraries than has been previously possible. Moreover, iCODEHOP improved the primer design efficiency and was found useful both for cloning unknown genes in gene families and for building V H gene libraries.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Amplifying the variable ( Fv or V ) regions of immunoglobulins ( Ig ) has become a challenge in cloning antibody genes for phage display ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a technique used to study protein-protein ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "protein-peptide , and protein-DNA interactions using bacteriophages to connect proteins with the genetic information that encodes them .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Key parameters affecting the amplification of full antibody repertoires includes the availability of primers that can amplify as many V genes as possible ; however the strategy used to design these primers and programs used to make the necessary alignments have not been well studied and clearly detailed in the literature .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we present a set of primers computationally designed by iCODEHOP based on a database of human germline Ig sequences .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We used reverse transcription polymerase chain reaction ( RT-PCR ) protocols that would recognize the V H genes from human peripheral blood mononuclear cells .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We identified the most highly conserved region in framework 1 and framework 4 of the Ig cDNA ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and designed a set of degenerated 5 0 primers .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The V H genes were successfully amplified by RT-PCR .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This new primer has facilitated the creation of more diverse V H libraries than has been previously possible .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , iCODEHOP improved the primer design efficiency and was found useful both for cloning unknown genes in gene families and for building V H gene libraries .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "11",
+    "token_num": "235"
+  }
+}

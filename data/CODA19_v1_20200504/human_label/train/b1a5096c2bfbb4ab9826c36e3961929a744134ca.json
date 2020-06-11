@@ -1,0 +1,294 @@
+{
+  "paper_id": "b1a5096c2bfbb4ab9826c36e3961929a744134ca",
+  "metadata": {
+    "title": "Inferring generation-interval distributions from contact-tracing 2 data",
+    "coda_data_split": "train",
+    "coda_paper_id": 2535,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Generation intervals, defined as the time between when an individual is infected and when 14 that individual infects another person, link two key quantities that describe an epidemic: 15 the reproductive number, R, and the rate of exponential growth, r. Generation intervals 16 are often measured through contact tracing by identifying who infected whom. We study 17 how observed intervals differ from \"intrinsic\" intervals that could be estimated by tracing 18 individual-level infectiousness, and identify both spatial and temporal effects, including cen-19 soring (due to observation time), and the effects of susceptible depletion at various spatial 20 scales. Early in an epidemic, we expect the variation in the observed generation intervals to 21 be mainly driven by the censoring and the population structure near the source of disease 22 spread; therefore, we predict that correcting observed intervals for the effect of temporal 23 censoring but not for spatial effects will provide a spatially informed \"effective\" generation-24 interval distribution, which will correctly link r and R. We develop and test statistical 25 methods for temporal corrections of generation intervals, and confirm our prediction using 26 individual-based simulations on an empirical network.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Generation intervals , defined as the time between when an individual is infected and when 14 that individual infects another person ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "link two key quantities that describe an epidemic : 15 the reproductive number ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "R , and the rate of exponential growth ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "r. Generation intervals 16 are often measured through contact tracing by identifying who infected whom .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We study 17 how observed intervals differ from `` intrinsic \u0027\u0027 intervals that could be estimated by tracing 18 individual-level infectiousness ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and identify both spatial and temporal effects ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "including cen-19 soring ( due to observation time ) ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and the effects of susceptible depletion at various spatial 20 scales .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Early in an epidemic , we expect the variation in the observed generation intervals to 21 be mainly driven by the censoring and the population structure near the source of disease 22 spread ; therefore ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we predict that correcting observed intervals for the effect of temporal 23 censoring but not for spatial effects will provide a spatially informed `` effective \u0027\u0027 generation-24 interval distribution ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which will correctly link r and R .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We develop and test statistical 25 methods for temporal corrections of generation intervals ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and confirm our prediction using 26 individual-based simulations on an empirical network .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "An epidemic can be characterized by the exponential growth rate, r, and the reproductive 32 number, R. The reproductive number, defined as the average number of secondary cases 33 arising from a primary case, is of particular interest as it provides information about the 34 final size of an epidemic (1; 2). However, estimating the reproductive number directly from 35 disease natural history requires detailed knowledge which is not often available, particularly 36 early in an outbreak (3). Instead, the reproductive number can be indirectly estimated from 37 the exponential growth rate, which can be estimated from incidence data (4; 5; 6; 7; 8).",
+      "sentences": [
+        [
+          {
+            "segment_text": "An epidemic can be characterized by the exponential growth rate ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "r , and the reproductive 32 number , R .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The reproductive number , defined as the average number of secondary cases 33 arising from a primary case ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "is of particular interest as it provides information about the 34 final size of an epidemic ( 1 ; 2 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , estimating the reproductive number directly from 35 disease natural history requires detailed knowledge which is not often available ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "particularly 36 early in an outbreak ( 3 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Instead , the reproductive number can be indirectly estimated from 37 the exponential growth rate ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which can be estimated from incidence data ( 4 ; 5 ; 6 ; 7 ; 8 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "These two quantities are linked by generation-interval distributions (9; 10; 11; 12; 13). 39 A generation interval is defined as the time between when a person becomes infected and 40 when that person infects another person (10). Due to individual variation in infection time, 41 the observed generation-interval distribution can change depending on when and how it is 42 measured (10; 14; 15; 16). There are important distinctions to be made when estimating 43 generation intervals: intrinsic generation intervals measure the infectiousness of an infected 44 individual, while observed generation intervals refer to the time between actual infection 45 events. 46 While the intrinsic generation-interval distribution is often assumed to be fixed, the 47 shape of the observed generation-interval distribution depends on when and how intervals 48 are measured (14; 15; 17; 16; 18). When an epidemic is growing exponentially, as often occurs 49 near the beginning of an outbreak, the number of newly infected individuals will be large 50 relative to the number infected earlier on. A susceptible individual is thus relatively more 51 likely to be infected by a newly infected individual. Thus, \"backward\" generation intervals 52",
+      "sentences": [
+        [
+          {
+            "segment_text": "These two quantities are linked by generation-interval distributions ( 9 ; 10 ; 11 ; 12 ; 13 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "39 A generation interval is defined as the time between when a person becomes infected and 40 when that person infects another person ( 10 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Due to individual variation in infection time ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "41 the observed generation-interval distribution can change depending on when and how it is 42 measured ( 10 ; 14 ; 15 ; 16 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "There are important distinctions to be made when estimating 43 generation intervals : intrinsic generation intervals measure the infectiousness of an infected 44 individual ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while observed generation intervals refer to the time between actual infection 45 events .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "46 While the intrinsic generation-interval distribution is often assumed to be fixed ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the 47 shape of the observed generation-interval distribution depends on when and how intervals 48 are measured ( 14 ; 15 ; 17 ; 16 ; 18 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "When an epidemic is growing exponentially ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as often occurs 49 near the beginning of an outbreak ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the number of newly infected individuals will be large 50 relative to the number infected earlier on .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A susceptible individual is thus relatively more 51 likely to be infected by a newly infected individual .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , `` backward \u0027\u0027 generation intervals 52",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "(which look at a cohort of individuals, and ask when their infectors were infected) will be 53 shorter on average than intrinsic generation intervals -the converse is true when an epidemic 54 is subsiding (15; 16; 18).",
+      "sentences": [
+        [
+          {
+            "segment_text": "( which look at a cohort of individuals , and ask when their infectors were infected ) will be 53 shorter on average than intrinsic generation intervals - the converse is true when an epidemic 54 is subsiding ( 15 ; 16 ; 18 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In practice, generation intervals are often measured by aggregating available information 56 from contact tracing. While an epidemic is ongoing, these measurements are \"censored\": we 57 don\u0027t know what happens after the observation time. These censored intervals are similar 58 to backward intervals: there is a bias towards observing shorter intervals, which are more 59 likely to have concluded by the observation time.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In practice , generation intervals are often measured by aggregating available information 56 from contact tracing .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "While an epidemic is ongoing ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "these measurements are `` censored \u0027\u0027 : we 57 do n\u0027t know what happens after the observation time .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These censored intervals are similar 58 to backward intervals : there is a bias towards observing shorter intervals ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which are more 59 likely to have concluded by the observation time .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Realized generation intervals are also affected by spatial structure. In a population 61 that does not mix homogeneously, susceptibility will tend to decrease more quickly in the 62 neighbourhood of infected individuals than in the general population. This means that 63 contacts made late in an individual\u0027s infection are more likely to be ineffective due to contacts 64 that were made earlier (because the contactee may have been infected already) As a result, 65 realized generation intervals will have shorter mean than the intrinsic generation-interval 66 distribution. This perspective allows us to reinterpret the finding of (19) that, given an 67 intrinsic generation interval and an observed growth rate, the reproductive number on various 68 network structures is always smaller on a network than would be predicted from homogeneous 69 mixing. These observations allow us to make the following prediction: removing the time-70 censoring bias from observed generation intervals will yield a spatially corrected \"effective\" 71 distribution that contains information about the population structure and will allow us to 72 2",
+      "sentences": [
+        [
+          {
+            "segment_text": "Realized generation intervals are also affected by spatial structure .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In a population 61 that does not mix homogeneously ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "susceptibility will tend to decrease more quickly in the 62 neighbourhood of infected individuals than in the general population .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This means that 63 contacts made late in an individual \u0027s infection are more likely to be ineffective due to contacts 64 that were made earlier ( because the contactee may have been infected already ) As a result ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "65 realized generation intervals will have shorter mean than the intrinsic generation-interval 66 distribution .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This perspective allows us to reinterpret the finding of ( 19 ) that ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "given an 67 intrinsic generation interval and an observed growth rate ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the reproductive number on various 68 network structures is always smaller on a network than would be predicted from homogeneous 69 mixing .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These observations allow us to make the following prediction : removing the time-70 censoring bias from observed generation intervals will yield a spatially corrected `` effective \u0027\u0027 71 distribution that contains information about the population structure and will allow us to 72 2",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "6",
+    "sentence_num": "25",
+    "segment_num": "49",
+    "token_num": "873"
+  }
+}

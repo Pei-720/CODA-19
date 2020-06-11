@@ -1,0 +1,265 @@
+{
+  "paper_id": "28aa8a08db150a020cca3eaed6755178c0fbc5c4",
+  "metadata": {
+    "title": "Agent-based modeling of host-pathogen systems: The successes and challenges",
+    "coda_data_split": "test",
+    "coda_paper_id": 721,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Agent-based models have been employed to describe numerous processes in immunology. Simulations based on these types of models have been used to enhance our understanding of immunology and disease pathology. We review various agent-based models relevant to host-pathogen systems and discuss their contributions to our understanding of biological processes. We then point out some limitations and challenges of agent-based models and encourage efforts towards reproducibility and model validation.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Agent-based models have been employed to describe numerous processes in immunology .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Simulations based on these types of models have been used to enhance our understanding of immunology and disease pathology .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We review various agent-based models relevant to host-pathogen systems and discuss their contributions to our understanding of biological processes .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We then point out some limitations and challenges of agent-based models and encourage efforts towards reproducibility and model validation .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Ordinary differential equation (ODE) models are often used as a starting point to describe host-pathogen systems. One of the advantages of using ODEs is that a lot is known about their behavior. ODE models are simple and elegant and require fewer parameters than their spatial counterparts (e.g., agent-based models or partial differential equations). This is an important consideration when experimental data is obtained from a well-mixed compartment, such as blood, or from a homogenate of a tissue, such as the spleen or lymph node, where spatial information is lacking. For example, in a recent model of influenza infection in humans, Baccam et al. [5] used an ODE model not because the body is well-mixed but due to the fact that the data being analyzed was the amount of virus in nasal wash. When sufficiently simple, ODEs have the added benefit of being analytically tractable, and techniques such as bifurcation theory can be used to predict, for example, parameter values that switch a system from pathogen clearance to a chronically infected state. There are, however, limitations to using ODE models. These models assume that the populations (dependent variables) are homogeneous and uniformly distributed over the simulation space for all time. This is an assumption that may not be realistic, and that may significantly influence the resulting dynamics. To examine the effects of the assumption of spatial homogeneity, there is a growing body of research probing the effects of spatial distribution on systems in ecology [32, 33, 107] , epidemiology [45, 63] , and immunology [10, 41, 64, 97] . One option to address this limitation is to use partial differential equations (PDEs), which capture changes in both time and space, but, in general, as these equations get more complicated, and consequently more computationally challenging, the advantages to using PDE models wane. For both ODE and PDE models, one must also consider that solutions to these equations only provide an average or mean field description of the system behavior with little or no information about the possible deviations from this aggregated behavior. An alternative to differential equation models are agent-based models (ABMs). ABMs are stochastic models used to describe populations of interacting agents, such as insects and people, using simple rules that dictate their behaviors. These models were originally introduced by John von Neumann and Stanislaw Ulam under the name of \u0027\u0027cellular spaces\" as a possible idealization of biological systems. They sought to show that biological processes such as the reproduction and evolution of organized forms could be modeled by simple cells following local rules [46] . A well known feature of ABMs is their ability to generate surprisingly complex and emergent behavior from very simple rules, including periodic behaviors or intricate spatial and temporal patterns [106] . Agent actions are asynchronous, that is, they do not evolve at constant time steps. Instead, agents respond dynamically and independently to changing environmental or discrete event cues. Consequently, nonlinearities and time-delays are not difficult to treat empirically since they can be incorporated into the agent\u0027s rules or they may even emerge naturally as a consequence of the system\u0027s collective dynamics. Another advantage to ABMs is that their computational structure is inherently parallel and therefore can be implemented on parallel computers very efficiently.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Ordinary differential equation ( ODE ) models are often used as a starting point to describe host-pathogen systems .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "One of the advantages of using ODEs is that a lot is known about their behavior .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "ODE models are simple and elegant and require fewer parameters than their spatial counterparts ( e.g. , agent-based models or partial differential equations ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This is an important consideration when experimental data is obtained from a well-mixed compartment ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as blood , or from a homogenate of a tissue ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as the spleen or lymph node ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "where spatial information is lacking .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "For example , in a recent model of influenza infection in humans ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "Baccam et al. ( 5 ) used an ODE model not because the body is well-mixed but due to the fact that the data being analyzed was the amount of virus in nasal wash .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "When sufficiently simple , ODEs have the added benefit of being analytically tractable ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and techniques such as bifurcation theory can be used to predict ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "for example , parameter values that switch a system from pathogen clearance to a chronically infected state .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "There are , however , limitations to using ODE models .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These models assume that the populations ( dependent variables ) are homogeneous and uniformly distributed over the simulation space for all time .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This is an assumption that may not be realistic ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and that may significantly influence the resulting dynamics .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To examine the effects of the assumption of spatial homogeneity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "there is a growing body of research probing the effects of spatial distribution on systems in ecology ( 32 , 33 , 107 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "epidemiology ( 45 , 63 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and immunology ( 10 , 41 , 64 , 97 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "One option to address this limitation is to use partial differential equations ( PDEs ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which capture changes in both time and space ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but , in general , as these equations get more complicated ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and consequently more computationally challenging ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the advantages to using PDE models wane .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "For both ODE and PDE models ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "one must also consider that solutions to these equations only provide an average or mean field description of the system behavior with little or no information about the possible deviations from this aggregated behavior .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "An alternative to differential equation models are agent-based models ( ABMs ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "ABMs are stochastic models used to describe populations of interacting agents ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as insects and people ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "using simple rules that dictate their behaviors .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These models were originally introduced by John von Neumann and Stanislaw Ulam under the name of `` cellular spaces \u0027\u0027 as a possible idealization of biological systems .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "They sought to show that biological processes such as the reproduction and evolution of organized forms could be modeled by simple cells following local rules ( 46 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A well known feature of ABMs is their ability to generate surprisingly complex and emergent behavior from very simple rules ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including periodic behaviors or intricate spatial and temporal patterns ( 106 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Agent actions are asynchronous , that is ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "they do not evolve at constant time steps .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Instead , agents respond dynamically and independently to changing environmental or discrete event cues .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Consequently , nonlinearities and time-delays are not difficult to treat empirically since they can be incorporated into the agent \u0027s rules or they may even emerge naturally as a consequence of the system \u0027s collective dynamics .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Another advantage to ABMs is that their computational structure is inherently parallel and therefore can be implemented on parallel computers very efficiently .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In this article, we review a variety of agent-based modeling approaches and their contributions to our understanding of host-pathogen interactions and disease dynamics.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this article , we review a variety of agent-based modeling approaches and their contributions to our understanding of host-pathogen interactions and disease dynamics .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "26",
+    "segment_num": "45",
+    "token_num": "714"
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "paper_id": "532dc582abd41e833303742ca40976db63fe6fc1",
+  "metadata": {
+    "title": "Classification: Biological Sciences Minor: Microbial Biology Site specific target binding controls RNA cleavage efficiency by the Kaposi\u0027s sarcoma-associated herpesvirus endonuclease SOX",
+    "coda_data_split": "train",
+    "coda_paper_id": 2038,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "During lytic replication of Kaposi\u0027s sarcoma-associated herpesvirus (KSHV), the gene expression landscape of a cell is remodeled to evade the immune response and create an environment favorable to viral replication. A major driver of these gene expression changes is a virally encoded, messenger RNA (mRNA)-specific endonuclease termed SOX. SOX cleaves the majority of cytoplasmic mRNAs, but does so at specific internal sites loosely defined by a degenerate sequence motif. If and how RNA sequence directs SOX targeting remained unknown. To address these questions, we used recombinant, highly purified SOX endonuclease in a series of biochemical assays to reconstitute the cleavage reaction in vitro and gain significant insight into the biochemical mechanism of both SOX target recognition and endonucleolytic cleavage. Using this system, we determined that cut site specificity is preserved with purified SOX and a validated target RNA and thus does not require additional cellular cofactors. Furthermore, we showed that . CC-BY-NC-ND 4.0 International license is made available under a The copyright holder for this preprint (which was not peer-reviewed) is the author/funder. It . https://doi.org/10.1101/320929 doi: bioRxiv preprint SOX displays robust, sequence-specific RNA binding to residues proximal to the cleavage site, which must be presented in a particular structural context. The strength of SOX binding dictates cleavage efficiency, providing an explanation for the breadth of target RNA susceptibility observed in cells.",
+      "sentences": [
+        [
+          {
+            "segment_text": "During lytic replication of Kaposi \u0027s sarcoma-associated herpesvirus ( KSHV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the gene expression landscape of a cell is remodeled to evade the immune response and create an environment favorable to viral replication .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A major driver of these gene expression changes is a virally encoded ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "messenger RNA ( mRNA ) - specific endonuclease termed SOX .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "SOX cleaves the majority of cytoplasmic mRNAs ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but does so at specific internal sites loosely defined by a degenerate sequence motif .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "If and how RNA sequence directs SOX targeting remained unknown .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To address these questions , we used recombinant ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "highly purified SOX endonuclease in a series of biochemical assays to reconstitute the cleavage reaction in vitro and gain significant insight into the biochemical mechanism of both SOX target recognition and endonucleolytic cleavage .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using this system , we determined that cut site specificity is preserved with purified SOX and a validated target RNA and thus does not require additional cellular cofactors .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , we showed that .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "CC-BY-NC-ND 4.0 International license is made available under a The copyright holder for this preprint ( which was not peer-reviewed ) is the author/funder .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "https://doi.org/10.1101/320929 doi : bioRxiv preprint SOX displays robust ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "sequence-specific RNA binding to residues proximal to the cleavage site ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which must be presented in a particular structural context .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The strength of SOX binding dictates cleavage efficiency ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "providing an explanation for the breadth of target RNA susceptibility observed in cells .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Kaposi\u0027s sarcoma-associated herpesvirus (KSHV) is an oncogenic human virus that causes Kaposi\u0027s sarcoma, primary effusion lymphoma, and multicentric Castleman disease. During viral replication, KSHV expresses an enzyme called SOX that cuts and inactivates the majority of cellular messenger RNAs, preventing their translation into proteins. Some mRNAs are efficiently cleaved by SOX, while others are poorly cleaved, but the mechanistic basis underlying this selectivity has remained largely unknown.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Kaposi \u0027s sarcoma-associated herpesvirus ( KSHV ) is an oncogenic human virus that causes Kaposi \u0027s sarcoma ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "primary effusion lymphoma , and multicentric Castleman disease .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "During viral replication , KSHV expresses an enzyme called SOX that cuts and inactivates the majority of cellular messenger RNAs ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "preventing their translation into proteins .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Some mRNAs are efficiently cleaved by SOX ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while others are poorly cleaved ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but the mechanistic basis underlying this selectivity has remained largely unknown .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Here, we reveal that the efficiency of RNA cleavage is heavily impacted by RNA sequences proximal to the cleavage site, which serve as a SOX binding platform. This helps explain both the range of RNA cleavage efficiency observed in SOX-expressing cells as well as the sequence specificity underlying SOX targeting.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Here , we reveal that the efficiency of RNA cleavage is heavily impacted by RNA sequences proximal to the cleavage site ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which serve as a SOX binding platform .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This helps explain both the range of RNA cleavage efficiency observed in SOX-expressing cells as well as the sequence specificity underlying SOX targeting .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "16",
+    "segment_num": "28",
+    "token_num": "385"
+  }
+}

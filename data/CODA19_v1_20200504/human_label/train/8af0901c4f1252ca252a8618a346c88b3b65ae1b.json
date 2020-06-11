@@ -1,0 +1,101 @@
+{
+  "paper_id": "8af0901c4f1252ca252a8618a346c88b3b65ae1b",
+  "metadata": {
+    "title": "Potential Geographic Distribution of the Novel Avian- Origin Influenza A (H7N9) Virus",
+    "coda_data_split": "train",
+    "coda_paper_id": 3885,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: In late March 2013, a new avian-origin influenza virus emerged in eastern China. This H7N9 subtype virus has since infected 240 people and killed 60, and has awakened global concern as a potential pandemic threat. Ecological niche modeling has seen increasing applications as a useful tool in mapping geographic potential and risk of disease transmission.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : In late March 2013 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a new avian-origin influenza virus emerged in eastern China .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This H7N9 subtype virus has since infected 240 people and killed 60 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and has awakened global concern as a potential pandemic threat .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Ecological niche modeling has seen increasing applications as a useful tool in mapping geographic potential and risk of disease transmission .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Methodology/Principals: We developed two datasets based on seasonal variation in Normalized Difference Vegetation Index (NDVI) from the MODIS sensor to characterize environmental dimensions of H7N9 virus. One-third of welldocumented cases was used to test robustness of models calibrated based on the remaining two-thirds, and model significance was tested using partial ROC approaches. A final niche model was calibrated using all records available.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Methodology/Principals : We developed two datasets based on seasonal variation in Normalized Difference Vegetation Index ( NDVI ) from the MODIS sensor to characterize environmental dimensions of H7N9 virus .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "One-third of welldocumented cases was used to test robustness of models calibrated based on the remaining two-thirds ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and model significance was tested using partial ROC approaches .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A final niche model was calibrated using all records available .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Conclusions/Significance: Central-eastern China appears to represent an area of high risk for H7N9 spread, but suitable areas were distributed more spottily in the north and only along the coast in the south; highly suitable areas also were identified in western Taiwan. Areas identified as presenting high risk for H7N9 spread tend to present consistent NDVI values through the year, whereas unsuitable areas show greater seasonal variation.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Conclusions/Significance : Central-eastern China appears to represent an area of high risk for H7N9 spread ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but suitable areas were distributed more spottily in the north and only along the coast in the south ; highly suitable areas also were identified in western Taiwan .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Areas identified as presenting high risk for H7N9 spread tend to present consistent NDVI values through the year ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "whereas unsuitable areas show greater seasonal variation .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "8",
+    "segment_num": "13",
+    "token_num": "203"
+  }
+}

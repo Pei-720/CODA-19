@@ -1,0 +1,169 @@
+{
+  "paper_id": "702157bbe24c5eca7ab92f90cd717c3e56aa6ccf",
+  "metadata": {
+    "title": "Supplementary Information for Building ventilation as an effective disease intervention strategy in a dense indoor contact network in an ideal city",
+    "coda_data_split": "train",
+    "coda_paper_id": 10302,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "An actual indoor contact network can be affected by many factors such as the age, gender, occupation, personal habits, social status, geographical location, while many of these factors may correlate with each other. Hence, it is impossible to mathematically describe, accurately and completely, a real social contact network. To create a representative synthetic contact network and to simulate a possible infectious disease outbreak based on the network, we adopt a few simplifications.",
+      "sentences": [
+        [
+          {
+            "segment_text": "An actual indoor contact network can be affected by many factors such as the age ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "gender , occupation , personal habits ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "social status , geographical location ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "while many of these factors may correlate with each other .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hence , it is impossible to mathematically describe ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "accurately and completely , a real social contact network .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To create a representative synthetic contact network and to simulate a possible infectious disease outbreak based on the network ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "we adopt a few simplifications .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We separated population and indoor environments into representative groups and assumed that individuals in the same group share similar location visiting behaviors, and all of the indoor environments in the same group share similar characteristics such as the number of occupants, occupant density, and ventilation rate. Internal variations within each group can be simulated by assuming the possible distributions for different parameters.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We separated population and indoor environments into representative groups and assumed that individuals in the same group share similar location visiting behaviors ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and all of the indoor environments in the same group share similar characteristics such as the number of occupants ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "occupant density , and ventilation rate .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Internal variations within each group can be simulated by assuming the possible distributions for different parameters .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Visiting time The complex patterns of individuals arriving at and leaving a location are not considered. We simplified the scenario by dividing each indoor environment into different sub-visiting locations that represent different time durations for visiting each indoor environment. Thus, several locations may represent the same indoor environment at a different time. Therefore this approach differentiates individuals who visit the same indoor environment at different times. We also assumed that individuals who choose to visit a location (an indoor environment for a fixed duration) come at the same time and leave at the same time. Hence, the visiting time of all possible visitors to a given location is the same.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Visiting time The complex patterns of individuals arriving at and leaving a location are not considered .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We simplified the scenario by dividing each indoor environment into different sub-visiting locations that represent different time durations for visiting each indoor environment .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , several locations may represent the same indoor environment at a different time .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore this approach differentiates individuals who visit the same indoor environment at different times .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also assumed that individuals who choose to visit a location ( an indoor environment for a fixed duration ) come at the same time and leave at the same time .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hence , the visiting time of all possible visitors to a given location is the same .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We assumed that all of the individuals in a population group have the same location visiting schedule on weekdays. During a normal weekday, an individual may visit several locations in different location groups with a fixed order.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We assumed that all of the individuals in a population group have the same location visiting schedule on weekdays .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "During a normal weekday , an individual may visit several locations in different location groups with a fixed order .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "To simulate the variations in an individual\u0027s daily choices, we assumed that for each step of an individual\u0027s schedule, he or she has a collection of favorite locations. Random contact is not considered in this model.",
+      "sentences": [
+        [
+          {
+            "segment_text": "To simulate the variations in an individual \u0027s daily choices ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we assumed that for each step of an individual \u0027s schedule ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "he or she has a collection of favorite locations .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Random contact is not considered in this model .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "15",
+    "segment_num": "24",
+    "token_num": "354"
+  }
+}

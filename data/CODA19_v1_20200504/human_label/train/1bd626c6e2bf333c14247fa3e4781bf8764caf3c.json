@@ -1,0 +1,165 @@
+{
+  "paper_id": "1bd626c6e2bf333c14247fa3e4781bf8764caf3c",
+  "metadata": {
+    "title": "Forecasting Ultra-early Intensive Care Strain from COVID-19 in England",
+    "coda_data_split": "train",
+    "coda_paper_id": 3453,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The COVID-19 pandemic has led to unprecedented strain on intensive care unit (ICU) admission in parts of the world. Strategies to create surge ICU capacity require complex local and national service reconfiguration and reduction or cancellation of elective activity. These measures have an inevitable lag-time before additional capacity comes on-line. An accurate short-range forecast would be helpful in guiding such di cult, costly, and ethically challenging decisions.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The COVID-19 pandemic has led to unprecedented strain on intensive care unit ( ICU ) admission in parts of the world .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Strategies to create surge ICU capacity require complex local and national service reconfiguration and reduction or cancellation of elective activity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These measures have an inevitable lag-time before additional capacity comes on-line .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "An accurate short-range forecast would be helpful in guiding such di cult ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "costly , and ethically challenging decisions .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "At the time this work began, cases in England were starting to increase. If this represents a true spread in disease then ICU demand could increase rapidly. Here we present a short-range forecast based on published real-time COVID-19 case data from the seven National Health Service (NHS) commissioning regions in England (East of England, London, Midlands, North East and Yorkshire, North West, South East and South West). We use a Monte Carlo approach to model the likely impact of current diagnoses on regional ICU capacity over a 14-day horizon under the assumption that the increase in cases represents the start of an exponential growth in infections.",
+      "sentences": [
+        [
+          {
+            "segment_text": "At the time this work began ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "cases in England were starting to increase .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "If this represents a true spread in disease then ICU demand could increase rapidly .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we present a short-range forecast based on published real-time COVID-19 case data from the seven National Health Service ( NHS ) commissioning regions in England ( East of England , London , Midlands , North East and Yorkshire , North West , South East and South West ) .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We use a Monte Carlo approach to model the likely impact of current diagnoses on regional ICU capacity over a 14-day horizon under the assumption that the increase in cases represents the start of an exponential growth in infections .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Our model is designed to be parsimonious and based on available epidemiological data from the literature at the moment.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Our model is designed to be parsimonious and based on available epidemiological data from the literature at the moment .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "On the basis of the modelling assumptions made, ICU occupancy is likely to increase dramatically in the days following the time of modelling. If the current exponential growth continues, case numbers will be comparable to current ICU bed numbers within weeks. Despite variable growth in absolute patients, all commissioning regions are forecast to be heavily burdened under the assumptions used.",
+      "sentences": [
+        [
+          {
+            "segment_text": "On the basis of the modelling assumptions made ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "ICU occupancy is likely to increase dramatically in the days following the time of modelling .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "If the current exponential growth continues ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "case numbers will be comparable to current ICU bed numbers within weeks .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Despite variable growth in absolute patients ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "all commissioning regions are forecast to be heavily burdened under the assumptions used .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Whilst, like any forecast model, there remain uncertainties both in terms of model specification and robust epidemiological data in this early prospective phase, it would seem that surge capacity will be required in the very near future. Our findings should be interpreted with caution, but we hope that our model will help policy decision makers with their preparations. The uncertainties in the data highlight the urgent need for ongoing real-time surveillance to allow forecasts to be constantly updated using high quality local patient-facing data as it emerges.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Whilst , like any forecast model ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "there remain uncertainties both in terms of model specification and robust epidemiological data in this early prospective phase ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "it would seem that surge capacity will be required in the very near future .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our findings should be interpreted with caution ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but we hope that our model will help policy decision makers with their preparations .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The uncertainties in the data highlight the urgent need for ongoing real-time surveillance to allow forecasts to be constantly updated using high quality local patient-facing data as it emerges .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "15",
+    "segment_num": "23",
+    "token_num": "375"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "paper_id": "b1a8aaa839328820b23cfa0de1d6427ebc0fb2ef",
+  "metadata": {
+    "title": "Extraction-free COVID-19 (SARS-CoV-2) diagnosis by RT- PCR to increase capacity for national testing programmes during a pandemic",
+    "coda_data_split": "train",
+    "coda_paper_id": 2213,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Severe Acute Respiratory Syndrome coronavirus 2 (SARS-CoV-2) causes Coronavirus disease 2019 (COVID-19), a respiratory tract infection. The standard molecular diagnostic test is a multistep process involving viral RNA extraction and real-time quantitative reverse transcriptase PCR (qRT-PCR). Laboratories across the globe face constraints on equipment and reagents during the COVID-19 pandemic. We have developed a simplified qRT-PCR assay that removes the need for an RNA extraction process and can be run on a real-time thermal cycler. The assay uses custom primers and probes, and maintains diagnostic sensitivity within 98.0% compared to the assay run on a high-throughput, random-access automated platform, the Panther Fusion (Hologic). This assay can be used to increase capacity for",
+      "sentences": [
+        [
+          {
+            "segment_text": "Severe Acute Respiratory Syndrome coronavirus 2 ( SARS-CoV-2 ) causes Coronavirus disease 2019 ( COVID-19 ) , a respiratory tract infection .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The standard molecular diagnostic test is a multistep process involving viral RNA extraction and real-time quantitative reverse transcriptase PCR ( qRT-PCR ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Laboratories across the globe face constraints on equipment and reagents during the COVID-19 pandemic .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We have developed a simplified qRT-PCR assay that removes the need for an RNA extraction process and can be run on a real-time thermal cycler .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The assay uses custom primers and probes ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and maintains diagnostic sensitivity within 98.0 % compared to the assay run on a high-throughput ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "random-access automated platform , the Panther Fusion ( Hologic ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This assay can be used to increase capacity for",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "8",
+    "token_num": "130"
+  }
+}

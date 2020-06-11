@@ -1,0 +1,205 @@
+{
+  "paper_id": "d408854267a5f3330fab52531265d9a38a91e60f",
+  "metadata": {
+    "title": "Feline Infectious Peritonitis as a Systemic Inflammatory Disease: Contribution of Liver and Heart to the Pathogenesis",
+    "coda_data_split": "train",
+    "coda_paper_id": 2443,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Feline infectious peritonitis (FIP) is a fatal immune-mediated disease of cats, induced by feline coronavirus (FCoV). A combination of as yet poorly understood host and viral factors combine to cause a minority of FCoV-infected cats to develop FIP. Clinicopathological features include fever, vasculitis, and serositis, with or without effusions; all of which indicate a pro-inflammatory state with cytokine release. As a result, primary immune organs, as well as circulating leukocytes, have thus far been of most interest in previous studies to determine the likely sources of these cytokines. Results have suggested that these tissues alone may not be sufficient to induce the observed inflammation. The current study therefore focussed on the liver and heart, organs with a demonstrated ability to produce cytokines and therefore with huge potential to exacerbate inflammatory processes. The IL-12:IL-10 ratio, a marker of the immune system\u0027s inflammatory balance, was skewed towards the pro-inflammatory IL-12 in the liver of cats with FIP. Both organs were found to upregulate mRNA expression of the inflammatory triad of cytokines IL-1β, IL-6, and TNF-α in FIP. This amplifying step may be one of the missing links in the pathogenesis of this enigmatic disease.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Feline infectious peritonitis ( FIP ) is a fatal immune-mediated disease of cats ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "induced by feline coronavirus ( FCoV ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A combination of as yet poorly understood host and viral factors combine to cause a minority of FCoV-infected cats to develop FIP .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Clinicopathological features include fever , vasculitis ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and serositis , with or without effusions ; all of which indicate a pro-inflammatory state with cytokine release .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As a result , primary immune organs ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as well as circulating leukocytes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "have thus far been of most interest in previous studies to determine the likely sources of these cytokines .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results have suggested that these tissues alone may not be sufficient to induce the observed inflammation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The current study therefore focussed on the liver and heart ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "organs with a demonstrated ability to produce cytokines and therefore with huge potential to exacerbate inflammatory processes .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The IL-12 : IL-10 ratio ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "a marker of the immune system \u0027s inflammatory balance ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "was skewed towards the pro-inflammatory IL-12 in the liver of cats with FIP .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Both organs were found to upregulate mRNA expression of the inflammatory triad of cytokines IL-1β ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "IL-6 , and TNF-α in FIP .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This amplifying step may be one of the missing links in the pathogenesis of this enigmatic disease .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "2 of 17 distribution of organ lesions. The development of FIP lesions is triggered by activated, virus infected monocytes. In the presence of a generalised activation of venous endothelial cells, these monocytes induce the granulomatous phlebitis that is considered to be the first and hallmark lesion and can occur in a range of organs [4] . Endothelial cell activation, together with other systemic changes such as fever, indicates excessive systemic cytokine release though the precise sources remain unclear [4] [5] [6] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "2 of 17 distribution of organ lesions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The development of FIP lesions is triggered by activated , virus infected monocytes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the presence of a generalised activation of venous endothelial cells ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "these monocytes induce the granulomatous phlebitis that is considered to be the first and hallmark lesion and can occur in a range of organs ( 4 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Endothelial cell activation , together with other systemic changes such as fever ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "indicates excessive systemic cytokine release though the precise sources remain unclear ( 4 ) ( 5 ) ( 6 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Pro-inflammatory cytokines are the main mediators of the innate immune response, allowing communication between and priming of the various components of the innate immune system, e.g., activation of leukocytes and endothelial cells (reviewed by [6, 7] ). In cats, interleukin (IL)-1β, IL-6, and tumour necrosis factor (TNF)-α are the main mediators of the acute phase inflammatory response [8] and cats with FIP exhibit clear clinical and histological evidence of overt inflammatory processes. Despite this, there are conflicting results on the presence and systemic levels of these cytokines in FIP. Early studies found high IL-1 and IL-6 activity in sera, ascitic fluid, and the supernatant of cultured peritoneal exudate cells of cats with FIP [9,10]. However, IL-6 mRNA levels in peripheral blood mononuclear cells (PBMC) were found to be unaltered, only mildly increased, or variable in FIP [11] [12] [13] , whilst IL-10 and IL-12 transcription was markedly depressed [11] .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Pro-inflammatory cytokines are the main mediators of the innate immune response ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "allowing communication between and priming of the various components of the innate immune system ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "e.g. , activation of leukocytes and endothelial cells ( reviewed by ( 6 , 7 ) ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In cats , interleukin ( IL ) -1 β ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "IL-6 , and tumour necrosis factor ( TNF ) - α are the main mediators of the acute phase inflammatory response ( 8 ) and cats with FIP exhibit clear clinical and histological evidence of overt inflammatory processes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Despite this , there are conflicting results on the presence and systemic levels of these cytokines in FIP .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Early studies found high IL-1 and IL-6 activity in sera ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "ascitic fluid , and the supernatant of cultured peritoneal exudate cells of cats with FIP ( 9,10 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , IL-6 mRNA levels in peripheral blood mononuclear cells ( PBMC ) were found to be unaltered ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "only mildly increased , or variable in FIP ( 11 ) ( 12 ) ( 13 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "whilst IL-10 and IL-12 transcription was markedly depressed ( 11 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "18",
+    "segment_num": "34",
+    "token_num": "509"
+  }
+}

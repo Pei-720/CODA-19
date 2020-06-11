@@ -1,0 +1,57 @@
+{
+  "paper_id": "fed39ba33ece570bf3f7e8879cf448bf93cd069e",
+  "metadata": {
+    "title": "Characterizing the dynamics underlying global spread of epidemics",
+    "coda_data_split": "train",
+    "coda_paper_id": 9428,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Over the past few decades, global metapopulation epidemic simulations built with worldwide air-transportation data have been the main tool for studying how epidemics spread from the origin to other parts of the world (e.g., for pandemic influenza, SARS, and Ebola). However, it remains unclear how disease epidemiology and the air-transportation network structure determine epidemic arrivals for different populations around the globe. Here, we fill this knowledge gap by developing and validating an analytical framework that requires only basic analytics from stochastic processes. We apply this framework retrospectively to the 2009 influenza pandemic and 2014 Ebola epidemic to show that key epidemic parameters could be robustly estimated in real-time from public data on local and global spread at very low computational cost. Our framework not only elucidates the dynamics underlying global spread of epidemics but also advances our capability in nowcasting and forecasting epidemics.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Over the past few decades ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "global metapopulation epidemic simulations built with worldwide air-transportation data have been the main tool for studying how epidemics spread from the origin to other parts of the world ( e.g. , for pandemic influenza , SARS , and Ebola ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , it remains unclear how disease epidemiology and the air-transportation network structure determine epidemic arrivals for different populations around the globe .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we fill this knowledge gap by developing and validating an analytical framework that requires only basic analytics from stochastic processes .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We apply this framework retrospectively to the 2009 influenza pandemic and 2014 Ebola epidemic to show that key epidemic parameters could be robustly estimated in real-time from public data on local and global spread at very low computational cost .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our framework not only elucidates the dynamics underlying global spread of epidemics but also advances our capability in nowcasting and forecasting epidemics .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "6",
+    "token_num": "156"
+  }
+}

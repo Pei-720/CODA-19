@@ -1,0 +1,75 @@
+{
+  "paper_id": "9b2ee0cdb3b92a377acec0e84a63090005b6b7ed",
+  "metadata": {
+    "title": "Identification of Protein Interaction Partners in Mammalian Cells Using SILAC-immunoprecipitation Quantitative Proteomics",
+    "coda_data_split": "train",
+    "coda_paper_id": 3305,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Quantitative proteomics combined with immuno-affinity purification, SILAC immunoprecipitation, represent a powerful means for the discovery of novel protein:protein interactions. By allowing the accurate relative quantification of protein abundance in both control and test samples, true interactions may be easily distinguished from experimental contaminants. Low affinity interactions can be preserved through the use of less-stringent buffer conditions and remain readily identifiable. This protocol discusses the labeling of tissue culture cells with stable isotope labeled amino acids, transfection and immunoprecipitation of an affinity tagged protein of interest, followed by the preparation for submission to a mass spectrometry facility. This protocol then discusses how to analyze and interpret the data returned from the mass spectrometer in order to identify cellular partners interacting with a protein of interest. As an example this technique is applied to identify proteins binding to the eukaryotic translation initiation factors: eIF4AI and eIF4AII.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Quantitative proteomics combined with immuno-affinity purification ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "SILAC immunoprecipitation , represent a powerful means for the discovery of novel protein : protein interactions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "By allowing the accurate relative quantification of protein abundance in both control and test samples ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "true interactions may be easily distinguished from experimental contaminants .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Low affinity interactions can be preserved through the use of less-stringent buffer conditions and remain readily identifiable .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This protocol discusses the labeling of tissue culture cells with stable isotope labeled amino acids ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "transfection and immunoprecipitation of an affinity tagged protein of interest ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "followed by the preparation for submission to a mass spectrometry facility .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "This protocol then discusses how to analyze and interpret the data returned from the mass spectrometer in order to identify cellular partners interacting with a protein of interest .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "As an example this technique is applied to identify proteins binding to the eukaryotic translation initiation factors : eIF4AI and eIF4AII .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "10",
+    "token_num": "158"
+  }
+}

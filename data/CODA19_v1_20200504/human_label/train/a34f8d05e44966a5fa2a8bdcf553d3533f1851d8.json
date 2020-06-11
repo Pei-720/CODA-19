@@ -1,0 +1,147 @@
+{
+  "paper_id": "a34f8d05e44966a5fa2a8bdcf553d3533f1851d8",
+  "metadata": {
+    "title": "Supplementary Figures",
+    "coda_data_split": "train",
+    "coda_paper_id": 6164,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Cut-off Cut-off Supplementary Figure 1 | Setting cut-off to identify links and hidden source. (a) Coarse-grained distribution of element values ln(1 − λ i )a ij times −1 in the reconstructed vector X of all nodes in a Newman-Watts small-world network (NW), where bin accumulation is implemented for the original distribution. The peak centered at zero corresponds to null connections and the other corresponds to actual links. A cut-off value can be set within the gap between the two peaks. (b) The values of ln(1 − λ i )a ij times -1 in the reconstructed vector X for Erdös-Rényi random networks (ER), Watts-Strogatz small-world networks (WS), NW and Barabási-Albert scale-free networks (BA), where green and yellow points correspond to existent links and null connections, respectively. All the networks share the same cut-off value of about 0.13. (c) Coarse-grained distribution of the structural variance σ in the NW network, where bin accumulation is exercised on the original distribution. The largest peak centered close zero corresponds to nodes of indirect neighbors of the hidden source and the large positive values of σ are associated with the immediate neighbors of the hidden source. A cut-off can be set within the largest gap. (d) The variance σ * i of element values in the reconstructed vector x of all nodes in the presence of a hidden source for ER, WS, NW and BA networks, where green and yellow points correspond to immediate neighbors and indirect neighbors of the hidden source, respectively. All the networks share the same cut-off values of about σ * i \u003d 0.9. The network size in a,b is 200 and in c,d is 50, Θ \u003d 0.25, ∆ \u003d 0.45, λ i and δ i are uniformly distributed in the ranges (0.2, 0.4) and (0.4, 0.6), respectively. SIS dynamics are used for the illustration. Panels a and c correspond to Fig. 2a with nt \u003d 0.4 and Fig. 5 in the main text, respectively.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Cut-off Cut-off Supplementary Figure 1 | Setting cut-off to identify links and hidden source .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "( a ) Coarse-grained distribution of element values ln ( 1 − λ i ) a ij times − 1 in the reconstructed vector X of all nodes in a Newman-Watts small-world network ( NW ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "where bin accumulation is implemented for the original distribution .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The peak centered at zero corresponds to null connections and the other corresponds to actual links .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A cut-off value can be set within the gap between the two peaks .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "( b ) The values of ln ( 1 − λ i ) a ij times -1 in the reconstructed vector X for Erdös-Rényi random networks ( ER ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Watts-Strogatz small-world networks ( WS ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "NW and Barabási-Albert scale-free networks ( BA ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "where green and yellow points correspond to existent links and null connections , respectively .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "All the networks share the same cut-off value of about 0.13 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "( c ) Coarse-grained distribution of the structural variance σ in the NW network ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "where bin accumulation is exercised on the original distribution .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The largest peak centered close zero corresponds to nodes of indirect neighbors of the hidden source and the large positive values of σ are associated with the immediate neighbors of the hidden source .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A cut-off can be set within the largest gap .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( d ) The variance σ * i of element values in the reconstructed vector x of all nodes in the presence of a hidden source for ER ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "WS , NW and BA networks ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "where green and yellow points correspond to immediate neighbors and indirect neighbors of the hidden source , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "All the networks share the same cut-off values of about σ * i \u003d 0.9 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The network size in a ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "b is 200 and in c ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "d is 50 , Θ \u003d 0.25 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "∆ \u003d 0.45 , λ i and δ i are uniformly distributed in the ranges ( 0.2 , 0.4 ) and ( 0.4 , 0.6 ) , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "SIS dynamics are used for the illustration .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Panels a and c correspond to Fig. 2a with nt \u003d 0.4 and Fig. 5 in the main text , respectively .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "14",
+    "segment_num": "24",
+    "token_num": "386"
+  }
+}

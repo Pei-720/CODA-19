@@ -1,0 +1,156 @@
+{
+  "paper_id": "5b13e81ee4495ff3eccaeea21f955ebc5e5cbde1",
+  "metadata": {
+    "title": "Using autoregressive integrated moving average (ARIMA) models to predict and monitor the number of beds occupied during a SARS outbreak in a tertiary hospital in Singapore",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1954,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "The main objective of this study is to apply autoregressive integrated moving average (ARIMA) models to make real-time predictions on the number of beds occupied in Tan Tock Seng Hospital, during the recent SARS outbreak.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The main objective of this study is to apply autoregressive integrated moving average ( ARIMA ) models to make real-time predictions on the number of beds occupied in Tan Tock Seng Hospital ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "during the recent SARS outbreak .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Methods: This is a retrospective study design. Hospital admission and occupancy data for isolation beds was collected from Tan Tock Seng hospital for the period 14 th March 2003 to 31 st May 2003. The main outcome measure was daily number of isolation beds occupied by SARS patients. Among the covariates considered were daily number of people screened, daily number of people admitted (including observation, suspect and probable cases) and days from the most recent significant event discovery. We utilized the following strategy for the analysis. Firstly, we split the outbreak data into two. Data from 14 th March to 21 st April 2003 was used for model development. We used structural ARIMA models in an attempt to model the number of beds occupied. Estimation is via the maximum likelihood method using the Kalman filter. For the ARIMA model parameters, we considered the simplest parsimonious lowest order model.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Methods : This is a retrospective study design .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Hospital admission and occupancy data for isolation beds was collected from Tan Tock Seng hospital for the period 14 th March 2003 to 31 st May 2003 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The main outcome measure was daily number of isolation beds occupied by SARS patients .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Among the covariates considered were daily number of people screened ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "daily number of people admitted ( including observation , suspect and probable cases ) and days from the most recent significant event discovery .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We utilized the following strategy for the analysis .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Firstly , we split the outbreak data into two .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Data from 14 th March to 21 st April 2003 was used for model development .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We used structural ARIMA models in an attempt to model the number of beds occupied .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Estimation is via the maximum likelihood method using the Kalman filter .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "For the ARIMA model parameters ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we considered the simplest parsimonious lowest order model .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We found that the ARIMA (1,0,3) model was able to describe and predict the number of beds occupied during the SARS outbreak well. The mean absolute percentage error (MAPE) for the training set and validation set were 5.7% and 8.6% respectively, which we found was reasonable for use in the hospital setting. Furthermore, the model also provided three-day forecasts of the number of beds required. Total number of admissions and probable cases admitted on the previous day were also found to be independent prognostic factors of bed occupancy.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We found that the ARIMA ( 1,0,3 ) model was able to describe and predict the number of beds occupied during the SARS outbreak well .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The mean absolute percentage error ( MAPE ) for the training set and validation set were 5.7 % and 8.6 % respectively ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which we found was reasonable for use in the hospital setting .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , the model also provided three-day forecasts of the number of beds required .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Total number of admissions and probable cases admitted on the previous day were also found to be independent prognostic factors of bed occupancy .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Conclusion: ARIMA models provide useful tools for administrators and clinicians in planning for real-time bed capacity during an outbreak of an infectious disease such as SARS. The model could well be used in planning for bed-capacity during outbreaks of other infectious diseases as well.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Conclusion : ARIMA models provide useful tools for administrators and clinicians in planning for real-time bed capacity during an outbreak of an infectious disease such as SARS .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The model could well be used in planning for bed-capacity during outbreaks of other infectious diseases as well .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "17",
+    "segment_num": "21",
+    "token_num": "351"
+  }
+}

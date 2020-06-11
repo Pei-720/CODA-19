@@ -1,0 +1,53 @@
+{
+  "paper_id": "1eb44665543150a4a6b5f2ae166823a07ff52d29",
+  "metadata": {
+    "title": "The impacts of simultaneous disease intervention decisions on epidemic outcomes",
+    "coda_data_split": "train",
+    "coda_paper_id": 5242,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "We create an agent based network model that simulates an epidemic. We combine population decisions for vaccination and non-pharmaceutical interventions. Vaccination mitigates epidemic final size effectively for high transmission rates. Non-pharmaceutical interventions compensate for delays in vaccine availability. Non-pharmaceutical interventions can lower vaccine uptake and reduce epidemic size.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We create an agent based network model that simulates an epidemic .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We combine population decisions for vaccination and non-pharmaceutical interventions .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Vaccination mitigates epidemic final size effectively for high transmission rates .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Non-pharmaceutical interventions compensate for delays in vaccine availability .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Non-pharmaceutical interventions can lower vaccine uptake and reduce epidemic size .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "5",
+    "token_num": "53"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "paper_id": "4128102a9f8fe15b8698d0390d88f69016e8804e",
+  "metadata": {
+    "title": "Identification of the site of translational frameshifting required for production of the transposase encoded by insertion sequence IS 1",
+    "coda_data_split": "train",
+    "coda_paper_id": 8550,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Previous genetic analyses indicated that translational frameshifting in the -1 direction occurs within the run of six adenines in the sequence 5\u0027-TTAAAAAACTC-3\u0027 at nucleotide positions 305-315 in IS 1, where the two out-of-phase reading frames insA and B\u0027-insB overlap, to produce transposase with a polypeptide segment Leu-Lys-Lys-Leu at residues 84-87. IS/ mutants with a i bp insertion, which encode mutant transposases with an amino acid substitution within the polypeptide segment at residues 84-87, did not efficiently mediate cointegration, except for an IS 1 mutant which encodes a mutant transposase with a Leu-Arg-Lys-Leu segment instead of Leu-Lys-Lys-Leu. An IS 1 mutant with the DNA segment 5\u0027-CTTAAAAACTC-3\u0027 at positions 305-315 carrying the termination codon TAA in the B\u0027-insB reading frame could still mediate cointegration, indicating that codon AAA for Lys corresponding to second, third and fourth positions in the run of adenines is the site of frameshifting. The fi-galactosidase activity specified by several IS 1 -lacZ fusion plasmids, in which B\u0027-insB is in-frame with lacZ, showed that the region 292-377 is sufficient for frameshifting. The protein produced by frameshifting from the IS 1-lacZ plasmid in fact contained the polypeptide segment Leu-Lys -Lys -Leu encoded by the DNA segment 5\u0027-TTAAAAAACTC-3\u0027, indicating that -1 frameshifting does occur within the run of adenines.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Previous genetic analyses indicated that translational frameshifting in the -1 direction occurs within the run of six adenines in the sequence 5 \u0027 - TTAAAAAACTC-3 \u0027 at nucleotide positions 305-315 in IS 1 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "where the two out-of-phase reading frames insA and B \u0027 - insB overlap ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "to produce transposase with a polypeptide segment Leu-Lys-Lys-Leu at residues 84-87 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "IS / mutants with a i bp insertion ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which encode mutant transposases with an amino acid substitution within the polypeptide segment at residues 84-87 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "did not efficiently mediate cointegration ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "except for an IS 1 mutant which encodes a mutant transposase with a Leu-Arg-Lys-Leu segment instead of Leu-Lys-Lys-Leu .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "An IS 1 mutant with the DNA segment 5 \u0027 - CTTAAAAACTC-3 \u0027 at positions 305-315 carrying the termination codon TAA in the B \u0027 - insB reading frame could still mediate cointegration ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "indicating that codon AAA for Lys corresponding to second ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "third and fourth positions in the run of adenines is the site of frameshifting .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The fi-galactosidase activity specified by several IS 1 - lacZ fusion plasmids ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "in which B \u0027 - insB is in-frame with lacZ ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "showed that the region 292-377 is sufficient for frameshifting .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The protein produced by frameshifting from the IS 1-lacZ plasmid in fact contained the polypeptide segment Leu-Lys - Lys - Leu encoded by the DNA segment 5 \u0027 - TTAAAAAACTC-3 \u0027 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "indicating that -1 frameshifting does occur within the run of adenines .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "15",
+    "token_num": "248"
+  }
+}

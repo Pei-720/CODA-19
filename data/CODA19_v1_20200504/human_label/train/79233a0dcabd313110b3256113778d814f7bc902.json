@@ -1,0 +1,83 @@
+{
+  "paper_id": "79233a0dcabd313110b3256113778d814f7bc902",
+  "metadata": {
+    "title": "An unfolded protein-induced conformational switch activates mammalian IRE1",
+    "coda_data_split": "train",
+    "coda_paper_id": 10033,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "The unfolded protein response (UPR) adjusts the cell\u0027s protein folding capacity in the endoplasmic reticulum (ER) according to need. IRE1 is the most conserved UPR sensor in eukaryotic cells. It has remained controversial, however, whether mammalian and yeast IRE1 use a common mechanism for ER stress sensing. Here, we show that similar to yeast, human IRE1a\u0027s ER-lumenal domain (hIRE1a LD) binds peptides with a characteristic amino acid bias. Peptides and unfolded proteins bind to hIRE1a LD\u0027s MHC-like groove and induce allosteric changes that lead to its oligomerization. Mutation of a hydrophobic patch at the oligomerization interface decoupled peptide binding to hIRE1a LD from its oligomerization, yet retained peptide-induced allosteric coupling within the domain. Importantly, impairing oligomerization of hIRE1a LD abolished IRE1\u0027s activity in living cells. Our results provide evidence for a unifying mechanism of IRE1 activation that relies on unfolded protein binding-induced oligomerization.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The unfolded protein response ( UPR ) adjusts the cell \u0027s protein folding capacity in the endoplasmic reticulum ( ER ) according to need .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "IRE1 is the most conserved UPR sensor in eukaryotic cells .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It has remained controversial , however ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "whether mammalian and yeast IRE1 use a common mechanism for ER stress sensing .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we show that similar to yeast ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "human IRE1a \u0027s ER-lumenal domain ( hIRE1a LD ) binds peptides with a characteristic amino acid bias .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Peptides and unfolded proteins bind to hIRE1a LD \u0027s MHC-like groove and induce allosteric changes that lead to its oligomerization .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Mutation of a hydrophobic patch at the oligomerization interface decoupled peptide binding to hIRE1a LD from its oligomerization ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "yet retained peptide-induced allosteric coupling within the domain .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Importantly , impairing oligomerization of hIRE1a LD abolished IRE1 \u0027s activity in living cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our results provide evidence for a unifying mechanism of IRE1 activation that relies on unfolded protein binding-induced oligomerization .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "11",
+    "token_num": "167"
+  }
+}

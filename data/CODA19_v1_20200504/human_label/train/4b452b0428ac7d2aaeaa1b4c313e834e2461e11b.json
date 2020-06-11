@@ -1,0 +1,79 @@
+{
+  "paper_id": "4b452b0428ac7d2aaeaa1b4c313e834e2461e11b",
+  "metadata": {
+    "title": "Function-Based Mutation-Resistant Synthetic Signaling Device Activated by HIV-1 Proteolysis",
+    "coda_data_split": "train",
+    "coda_paper_id": 10093,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The high mutation rate of the human immunodeficiency virus type 1 (HIV-1) virus is a major problem since it evades the function of antibodies and chemical inhibitors. Here, we demonstrate a viral detection strategy based on synthetic biology principles to detect a specific viral function rather than a particular viral protein. The resistance caused by mutations can be circumvented since the mutations that cause the loss of function also incapacitate the virus. Many pathogens encode proteases that are essential for their replication and that have a defined substrate specificity. A genetically encoded sensor composed of a fused membrane anchor, viral protease target site, and an orthogonal transcriptional activator was engineered into a human cell line. The HIV-1 protease released the transcriptional activator from the membrane, thereby inducing transcription of the selected genes. The device was still strongly activated by clinically relevant protease mutants that are resistant to protease inhibitors. In the future, a similar principle could be applied to detect also other pathogens and functions.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The high mutation rate of the human immunodeficiency virus type 1 ( HIV-1 ) virus is a major problem since it evades the function of antibodies and chemical inhibitors .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we demonstrate a viral detection strategy based on synthetic biology principles to detect a specific viral function rather than a particular viral protein .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The resistance caused by mutations can be circumvented since the mutations that cause the loss of function also incapacitate the virus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Many pathogens encode proteases that are essential for their replication and that have a defined substrate specificity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A genetically encoded sensor composed of a fused membrane anchor ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "viral protease target site , and an orthogonal transcriptional activator was engineered into a human cell line .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The HIV-1 protease released the transcriptional activator from the membrane ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "thereby inducing transcription of the selected genes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The device was still strongly activated by clinically relevant protease mutants that are resistant to protease inhibitors .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the future , a similar principle could be applied to detect also other pathogens and functions .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "10",
+    "token_num": "180"
+  }
+}

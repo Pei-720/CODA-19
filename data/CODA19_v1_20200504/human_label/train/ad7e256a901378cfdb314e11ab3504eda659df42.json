@@ -1,0 +1,61 @@
+{
+  "paper_id": "ad7e256a901378cfdb314e11ab3504eda659df42",
+  "metadata": {
+    "title": "Comprehensive viral oligonucleotide probe design using conserved protein regions",
+    "coda_data_split": "train",
+    "coda_paper_id": 9712,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Oligonucleotide microarrays have been applied to microbial surveillance and discovery where highly multiplexed assays are required to address a wide range of genetic targets. Although printing density continues to increase, the design of comprehensive microbial probe sets remains a daunting challenge, particularly in virology where rapid sequence evolution and database expansion confound static solutions. Here, we present a strategy for probe design based on protein sequences that is responsive to the unique problems posed in virus detection and discovery. The method uses the Protein Families database (Pfam) and motif finding algorithms to identify oligonucleotide probes in conserved amino acid regions and untranslated sequences. In silico testing using an experimentally derived thermodynamic model indicated near complete coverage of the viral sequence database.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Oligonucleotide microarrays have been applied to microbial surveillance and discovery where highly multiplexed assays are required to address a wide range of genetic targets .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although printing density continues to increase ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the design of comprehensive microbial probe sets remains a daunting challenge ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "particularly in virology where rapid sequence evolution and database expansion confound static solutions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we present a strategy for probe design based on protein sequences that is responsive to the unique problems posed in virus detection and discovery .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The method uses the Protein Families database ( Pfam ) and motif finding algorithms to identify oligonucleotide probes in conserved amino acid regions and untranslated sequences .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In silico testing using an experimentally derived thermodynamic model indicated near complete coverage of the viral sequence database .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "7",
+    "token_num": "131"
+  }
+}

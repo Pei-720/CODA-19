@@ -1,0 +1,128 @@
+{
+  "paper_id": "6ed77e5ebba3c0f0b10c6e0af3e8df28b57335e6",
+  "metadata": {
+    "title": "Automated degenerate PCR primer design for high-throughput sequencing improves efficiency of viral sequencing",
+    "coda_data_split": "train",
+    "coda_paper_id": 6522,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: In a high-throughput environment, to PCR amplify and sequence a large set of viral isolates from populations that are potentially heterogeneous and continuously evolving, the use of degenerate PCR primers is an important strategy. Degenerate primers allow for the PCR amplification of a wider range of viral isolates with only one set of pre-mixed primers, thus increasing amplification success rates and minimizing the necessity for genome finishing activities. To successfully select a large set of degenerate PCR primers necessary to tile across an entire viral genome and maximize their success, this process is best performed computationally. Results: We have developed a fully automated degenerate PCR primer design system that plays a key role in the J. Craig Venter Institute\u0027s (JCVI) high-throughput viral sequencing pipeline. A consensus viral genome, or a set of consensus segment sequences in the case of a segmented virus, is specified using IUPAC ambiguity codes in the consensus template sequence to represent the allelic diversity of the target population. PCR primer pairs are then selected computationally to produce a minimal amplicon set capable of tiling across the full length of the specified target region. As part of the tiling process, primer pairs are computationally screened to meet the criteria for successful PCR with one of two described amplification protocols. The actual sequencing success rates for designed primers for measles virus, mumps virus, human parainfluenza virus 1 and 3, human respiratory syncytial virus A and B and human metapneumovirus are described, where \u003e90% of designed primer pairs were able to consistently successfully amplify \u003e75% of the isolates.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : In a high-throughput environment ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "to PCR amplify and sequence a large set of viral isolates from populations that are potentially heterogeneous and continuously evolving ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the use of degenerate PCR primers is an important strategy .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Degenerate primers allow for the PCR amplification of a wider range of viral isolates with only one set of pre-mixed primers ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "thus increasing amplification success rates and minimizing the necessity for genome finishing activities .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To successfully select a large set of degenerate PCR primers necessary to tile across an entire viral genome and maximize their success ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "this process is best performed computationally .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results : We have developed a fully automated degenerate PCR primer design system that plays a key role in the J. Craig Venter Institute \u0027s ( JCVI ) high-throughput viral sequencing pipeline .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A consensus viral genome , or a set of consensus segment sequences in the case of a segmented virus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "is specified using IUPAC ambiguity codes in the consensus template sequence to represent the allelic diversity of the target population .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "PCR primer pairs are then selected computationally to produce a minimal amplicon set capable of tiling across the full length of the specified target region .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "As part of the tiling process ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "primer pairs are computationally screened to meet the criteria for successful PCR with one of two described amplification protocols .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The actual sequencing success rates for designed primers for measles virus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "mumps virus , human parainfluenza virus 1 and 3 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "human respiratory syncytial virus A and B and human metapneumovirus are described ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "where \u003e 90 % of designed primer pairs were able to consistently successfully amplify \u003e 75 % of the isolates .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Conclusions: Augmenting our previously developed and published JCVI Primer Design Pipeline, we achieved similarly high sequencing success rates with only minor software modifications. The recommended methodology for the construction of the consensus sequence that encapsulates the allelic variation of the targeted population and is a key step prior to designing degenerate primers is also formally described.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Conclusions : Augmenting our previously developed and published JCVI Primer Design Pipeline ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we achieved similarly high sequencing success rates with only minor software modifications .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The recommended methodology for the construction of the consensus sequence that encapsulates the allelic variation of the targeted population and is a key step prior to designing degenerate primers is also formally described .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "10",
+    "segment_num": "20",
+    "token_num": "348"
+  }
+}

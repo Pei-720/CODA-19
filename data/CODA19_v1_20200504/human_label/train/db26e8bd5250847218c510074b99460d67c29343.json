@@ -1,0 +1,66 @@
+{
+  "paper_id": "db26e8bd5250847218c510074b99460d67c29343",
+  "metadata": {
+    "title": "Title: Failed detection of the full-length genome of SARS-CoV-2 by ultra-deep sequencing from the recovered and discharged patients retested viral PCR positive Authors",
+    "coda_data_split": "train",
+    "coda_paper_id": 7231,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Over 10 percent of recovered and discharged patients retested positive for SARS-CoV-2, raising a public health concern whether they could be potential origins of infection. In this study, we found that detectable viral genome in discharged patients might only mean the presence of viral fragments, and could hardly form an infection origin for its extremely low concentration.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Over 10 percent of recovered and discharged patients retested positive for SARS-CoV-2 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "raising a public health concern whether they could be potential origins of infection .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we found that detectable viral genome in discharged patients might only mean the presence of viral fragments ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and could hardly form an infection origin for its extremely low concentration .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "All rights reserved. No reuse allowed without permission. the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "All rights reserved .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "No reuse allowed without permission .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "the author/funder , who has granted medRxiv a license to display the preprint in perpetuity .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "5",
+    "segment_num": "7",
+    "token_num": "88"
+  }
+}

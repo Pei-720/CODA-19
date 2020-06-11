@@ -1,0 +1,67 @@
+{
+  "paper_id": "5d4f050d00f8ef2988d9ac2b19e38c9e6d2ce8a1",
+  "metadata": {
+    "title": "Emerging infectious diseases",
+    "coda_data_split": "train",
+    "coda_paper_id": 4620,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The spectrum of human pathogens and the infectious diseases they cause is continuously changing through evolution and changes in the way human populations interact with their environment and each other. New human pathogens most often emerge from an animal reservoir, emphasizing the central role that non-human reservoirs play in human infectious diseases. Pathogens may also re-emerge with new characteristics, such as multidrug-resistance, or in different places, such as West Nile virus in the USA in 1999, to cause new epidemics. Most human pathogens have a history of evolution in which they first emerge and cause epidemics, become unstably adapted, re-emerge periodically, and eventually become endemic with the potential for future outbreaks.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The spectrum of human pathogens and the infectious diseases they cause is continuously changing through evolution and changes in the way human populations interact with their environment and each other .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "New human pathogens most often emerge from an animal reservoir ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "emphasizing the central role that non-human reservoirs play in human infectious diseases .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Pathogens may also re-emerge with new characteristics ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as multidrug-resistance , or in different places ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as West Nile virus in the USA in 1999 , to cause new epidemics .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Most human pathogens have a history of evolution in which they first emerge and cause epidemics ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "become unstably adapted , re-emerge periodically ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and eventually become endemic with the potential for future outbreaks .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "4",
+    "segment_num": "9",
+    "token_num": "123"
+  }
+}

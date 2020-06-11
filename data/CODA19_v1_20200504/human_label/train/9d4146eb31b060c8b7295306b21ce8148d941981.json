@@ -1,0 +1,57 @@
+{
+  "paper_id": "9d4146eb31b060c8b7295306b21ce8148d941981",
+  "metadata": {
+    "title": "Real-time biomedical knowledge synthesis of the exponentially growing world wide web using unsupervised neural networks",
+    "coda_data_split": "train",
+    "coda_paper_id": 2860,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Decoding disease mechanisms for addressing unmet clinical need demands the rapid assimilation of the exponentially growing biomedical knowledge. These are either inherently unstructured and non-conducive to current computing paradigms or siloed into structured databases requiring specialized bioinformatics. Despite the recent renaissance in unsupervised neural networks for deciphering unstructured natural languages and the availability of numerous bioinformatics resources, a holistic platform for real-time synthesis of the scientific literature and seamless triangulation with deep omic insights and real-world evidence has not been advanced. Here, we introduce the nferX platform that makes the highly unstructured biomedical knowledge computable and supports the seamless visual triangulation with statistical inference from diverse structured databases. The nferX platform will accelerate and amplify the research potential of subject-matter experts as well as non-experts across the life science ecosystem (https://academia.nferx.com/).",
+      "sentences": [
+        [
+          {
+            "segment_text": "Decoding disease mechanisms for addressing unmet clinical need demands the rapid assimilation of the exponentially growing biomedical knowledge .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These are either inherently unstructured and non-conducive to current computing paradigms or siloed into structured databases requiring specialized bioinformatics .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Despite the recent renaissance in unsupervised neural networks for deciphering unstructured natural languages and the availability of numerous bioinformatics resources ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "a holistic platform for real-time synthesis of the scientific literature and seamless triangulation with deep omic insights and real-world evidence has not been advanced .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we introduce the nferX platform that makes the highly unstructured biomedical knowledge computable and supports the seamless visual triangulation with statistical inference from diverse structured databases .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The nferX platform will accelerate and amplify the research potential of subject-matter experts as well as non-experts across the life science ecosystem ( https://academia.nferx.com/ ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "6",
+    "token_num": "140"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "paper_id": "dce2c9d835e3ebbee3ff4e6868d5755ddec76b71",
+  "metadata": {
+    "title": "BMC Genomics Microarray-based identification of antigenic variants of foot-and-mouth disease virus: a bioinformatics quality assessment",
+    "coda_data_split": "train",
+    "coda_paper_id": 6062,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "The evolution of viral quasispecies can influence viral pathogenesis and the response to antiviral treatments. Mutant clouds in infected organisms represent the first stage in the genetic and antigenic diversification of RNA viruses, such as foot and mouth disease virus (FMDV), an important animal pathogen. Antigenic variants of FMDV have been classically diagnosed by immunological or RT-PCR-based methods. DNA microarrays are becoming increasingly useful for the analysis of gene expression and single nucleotide polymorphisms (SNPs). Recently, a FMDV microarray was described to detect simultaneously the seven FMDV serotypes. These results encourage the development of new oligonucleotide microarrays to probe the fine genetic and antigenic composition of FMDV for diagnosis, vaccine design, and to gain insight into the molecular epidemiology of this pathogen.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The evolution of viral quasispecies can influence viral pathogenesis and the response to antiviral treatments .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Mutant clouds in infected organisms represent the first stage in the genetic and antigenic diversification of RNA viruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as foot and mouth disease virus ( FMDV ) , an important animal pathogen .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Antigenic variants of FMDV have been classically diagnosed by immunological or RT-PCR-based methods .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "DNA microarrays are becoming increasingly useful for the analysis of gene expression and single nucleotide polymorphisms ( SNPs ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recently , a FMDV microarray was described to detect simultaneously the seven FMDV serotypes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These results encourage the development of new oligonucleotide microarrays to probe the fine genetic and antigenic composition of FMDV for diagnosis ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "vaccine design , and to gain insight into the molecular epidemiology of this pathogen .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "A FMDV microarray was designed and optimized to detect SNPs at a major antigenic site of the virus. A screening of point mutants of the genomic region encoding antigenic site A of FMDV C-S8c1 was achieved. The hybridization pattern of a mutant includes specific positive and negative signals as well as crosshybridization signals, which are of different intensity depending on the thermodynamic stability of each probe-target pair. Moreover, an array bioinformatic classification method was developed to evaluate the hybridization signals. This statistical analysis shows that the procedure allows a very accurate classification per variant genome.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A FMDV microarray was designed and optimized to detect SNPs at a major antigenic site of the virus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A screening of point mutants of the genomic region encoding antigenic site A of FMDV C-S8c1 was achieved .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The hybridization pattern of a mutant includes specific positive and negative signals as well as crosshybridization signals ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which are of different intensity depending on the thermodynamic stability of each probe-target pair .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , an array bioinformatic classification method was developed to evaluate the hybridization signals .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This statistical analysis shows that the procedure allows a very accurate classification per variant genome .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "A specific approach based on a microarray platform aimed at distinguishing point mutants within an important determinant of antigenicity and host cell tropism, namely the G-H loop of capsid protein VP1, was developed. The procedure is of general applicability as a test for specificity and discriminatory power of microarray-based diagnostic procedures using multiple oligonucleotide probes.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A specific approach based on a microarray platform aimed at distinguishing point mutants within an important determinant of antigenicity and host cell tropism ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "namely the G-H loop of capsid protein VP1 , was developed .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The procedure is of general applicability as a test for specificity and discriminatory power of microarray-based diagnostic procedures using multiple oligonucleotide probes .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "13",
+    "segment_num": "17",
+    "token_num": "298"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "paper_id": "056610b4981cee0efc485ed3f978f541fbe55f54",
+  "metadata": {
+    "title": "Acute respiratory distress syndrome",
+    "coda_data_split": "train",
+    "coda_paper_id": 9847,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Acute respiratory distress syndrome presents as hypoxia and bilateral pulmonary infi ltrates on chest imaging in the absence of heart failure suffi cient to account for this clinical state. Management is largely supportive, and is focused on protective mechanical ventilation and the avoidance of fl uid overload. Patients with severe hypoxaemia can be managed with early short-term use of neuromuscular blockade, prone position ventilation, or extracorporeal membrane oxygenation. The use of inhaled nitric oxide is rarely indicated and both β 2 agonists and late corticosteroids should be avoided. M ortality remains at approximately 30%.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Acute respiratory distress syndrome presents as hypoxia and bilateral pulmonary infi ltrates on chest imaging in the absence of heart failure suffi cient to account for this clinical state .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Management is largely supportive , and is focused on protective mechanical ventilation and the avoidance of fl uid overload .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Patients with severe hypoxaemia can be managed with early short-term use of neuromuscular blockade ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "prone position ventilation , or extracorporeal membrane oxygenation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The use of inhaled nitric oxide is rarely indicated and both β 2 agonists and late corticosteroids should be avoided .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "M ortality remains at approximately 30 % .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "6",
+    "token_num": "103"
+  }
+}

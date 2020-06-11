@@ -1,0 +1,79 @@
+{
+  "paper_id": "e08e2eb5f880501219c8007f2c9d3fca8c050612",
+  "metadata": {
+    "title": "Cytoplasmic tail of coronavirus spike protein has intracellular targeting signals",
+    "coda_data_split": "train",
+    "coda_paper_id": 4579,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Intracellular trafficking and localization studies of spike protein from SARS and OC43 showed that SARS spike protein is localized in the ER or ERGIC compartment and OC43 spike protein is predominantly localized in the lysosome. Differential localization can be explained by signal sequence. The sequence alignment using Clustal W shows that the signal sequence present at the cytoplasmic tail plays an important role in spike protein localization. A unique GYQEL motif is identified at the cytoplasmic terminal of OC43 spike protein which helps in localization in the lysosome, and a novel KLHYT motif is identified in the cytoplasmic tail of SARS spike protein which helps in ER or ERGIC localization. This study sheds some light on the role of cytoplasmic tail of spike protein in cell-to-cell fusion, coronavirus host cell fusion and subsequent pathogenicity. [Sadasivan J, Singh M and Sarma JD 2017 Cytoplasmic tail of coronavirus spike protein has intracellular targeting signals. J. Biosci. 42 231-244]",
+      "sentences": [
+        [
+          {
+            "segment_text": "Intracellular trafficking and localization studies of spike protein from SARS and OC43 showed that SARS spike protein is localized in the ER or ERGIC compartment and OC43 spike protein is predominantly localized in the lysosome .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Differential localization can be explained by signal sequence .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The sequence alignment using Clustal W shows that the signal sequence present at the cytoplasmic tail plays an important role in spike protein localization .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A unique GYQEL motif is identified at the cytoplasmic terminal of OC43 spike protein which helps in localization in the lysosome ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and a novel KLHYT motif is identified in the cytoplasmic tail of SARS spike protein which helps in ER or ERGIC localization .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study sheds some light on the role of cytoplasmic tail of spike protein in cell-to-cell fusion ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "coronavirus host cell fusion and subsequent pathogenicity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "( Sadasivan J , Singh M and Sarma JD 2017 Cytoplasmic tail of coronavirus spike protein has intracellular targeting signals .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "J. Biosci .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "42 231-244 )",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "10",
+    "token_num": "167"
+  }
+}

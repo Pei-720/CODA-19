@@ -1,0 +1,159 @@
+{
+  "paper_id": "364cead576f72be17ef8bf8da931dfdca2aed5c6",
+  "metadata": {
+    "title": "Genes involved in HSCR Identifying key genes associated with Hirschsprung\u0027s disease based on bioinformatics analysis of RNA-sequencing data",
+    "coda_data_split": "train",
+    "coda_paper_id": 4845,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Hirschsprung\u0027s disease (HSCR) is a type of megacolon induced by defi ciency or dysfunction of ganglion cells in the distal intestine and is associated with developmental disorders of the enteric nervous system. To explore the mechanisms of HSCR, we analyzed the RNAsequencing data of the expansion and the narrow segments of colon tissues separated from children with HSCR.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Hirschsprung \u0027s disease ( HSCR ) is a type of megacolon induced by defi ciency or dysfunction of ganglion cells in the distal intestine and is associated with developmental disorders of the enteric nervous system .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To explore the mechanisms of HSCR ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we analyzed the RNAsequencing data of the expansion and the narrow segments of colon tissues separated from children with HSCR .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Methods: RNA-sequencing of the expansion segments and the narrow segments of colon tissues isolated from children with HSCR was performed. After differentially expressed genes (DEGs) were identified using the edgeR package in R, functional and pathway enrichment analyses of DEGs were carried out using DAVID software. To further screen the key genes, protein-protein interaction (PPI) network and module analyses were conducted separately using Cytoscape software.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Methods : RNA-sequencing of the expansion segments and the narrow segments of colon tissues isolated from children with HSCR was performed .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "After differentially expressed genes ( DEGs ) were identified using the edgeR package in R ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "functional and pathway enrichment analyses of DEGs were carried out using DAVID software .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "To further screen the key genes ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "protein-protein interaction ( PPI ) network and module analyses were conducted separately using Cytoscape software .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results: A total of 117 DEGs were identified in the expansion segment samples, including 47 up-regulated and 70 down-regulated genes. Functional enrichment analysis suggested that FOS and DUSP1 were implicated in response to endogenous stimulus. In the PPI network analysis, FOS (degree\u003d20), EGR1 (degree\u003d16), ATF3 (degree\u003d9), NOS1 (degree\u003d8), CCL5 (degree\u003d8), DUSP1 (degree\u003d7), CXCL3 (degree\u003d6), VIP (degree\u003d6), FOSB (degree\u003d5), and NOS2 (degree\u003d4) had higher degrees, which could interact with other genes. In addition, two significant modules (module 1 and module 2) were identifi ed from the PPI network. Conclusion: Several genes (including FOS, EGR1, ATF3, NOS1, CCL5, DUSP1, CXCL3, VIP, FOSB, and NOS2) might be involved in the development of HSCR through their effect on the nervous system. World J Pediatr 2017;13(3):267-273",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results : A total of 117 DEGs were identified in the expansion segment samples ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including 47 up-regulated and 70 down-regulated genes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Functional enrichment analysis suggested that FOS and DUSP1 were implicated in response to endogenous stimulus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In the PPI network analysis ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "FOS ( degree \u003d 20 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "EGR1 ( degree \u003d 16 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "ATF3 ( degree \u003d 9 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "NOS1 ( degree \u003d 8 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "CCL5 ( degree \u003d 8 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "DUSP1 ( degree \u003d 7 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "CXCL3 ( degree \u003d 6 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "VIP ( degree \u003d 6 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "FOSB ( degree \u003d 5 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and NOS2 ( degree \u003d 4 ) had higher degrees ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which could interact with other genes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , two significant modules ( module 1 and module 2 ) were identifi ed from the PPI network .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Conclusion : Several genes ( including FOS , EGR1 , ATF3 , NOS1 , CCL5 , DUSP1 , CXCL3 , VIP , FOSB , and NOS2 ) might be involved in the development of HSCR through their effect on the nervous system .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "World J Pediatr 2017 ; 13 ( 3 ) : 267-273",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "11",
+    "segment_num": "26",
+    "token_num": "342"
+  }
+}

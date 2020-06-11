@@ -1,0 +1,255 @@
+{
+  "paper_id": "d55ee40e7898b693872356e1661f658732984bae",
+  "metadata": {
+    "title": "A novel quantitative PCR mediated by high-fidelity DNA polymerase OPEN",
+    "coda_data_split": "train",
+    "coda_paper_id": 2961,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "The biggest challenge for accurate diagnosis of viral infectious disease is the high genetic variability of involved viruses, which affects amplification efficiency and results in low sensitivity and narrow spectrum. Here, we developed a new simple qPCR mediated by high-fidelity (HF) DNA polymerase. The new method utilizes an HFman probe and one primer. Fluorescent signal was generated from the 3′-5′ hydrolysis of HFman probe by HF DNA polymerase before elongation initiation. Mismatches between probe/primer and template have less influence on the amplification efficiency of the new method. The new qPCR exhibited higher sensitivity and better adaptability to sequence variable templates than the conventional TaqMan probe based-qPCR in quantification of HIV-1 viral load. Further comparison with COBAS TaqMan HIV-1 Test (v2.0) showed a good correlation coefficient (R 2 \u003d 0.79) between both methods in quantification of HIV-1 viral load among 21 clinical samples. The characteristics of tolerance to variable templates and one probe-one primer system imply that the probe/primer design for the new method will be easier and more flexible than the conventional method for highly heterogeneous viruses. Therefore, the HF DNA polymerase-mediated qPCR method is a simple, sensitive and promising approach for the development of diagnostics for viral infectious diseases.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The biggest challenge for accurate diagnosis of viral infectious disease is the high genetic variability of involved viruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which affects amplification efficiency and results in low sensitivity and narrow spectrum .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we developed a new simple qPCR mediated by high-fidelity ( HF ) DNA polymerase .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The new method utilizes an HFman probe and one primer .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Fluorescent signal was generated from the 3 ′ -5 ′ hydrolysis of HFman probe by HF DNA polymerase before elongation initiation .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Mismatches between probe/primer and template have less influence on the amplification efficiency of the new method .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The new qPCR exhibited higher sensitivity and better adaptability to sequence variable templates than the conventional TaqMan probe based-qPCR in quantification of HIV-1 viral load .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Further comparison with COBAS TaqMan HIV-1 Test ( v2 .0 ) showed a good correlation coefficient ( R 2 \u003d 0.79 ) between both methods in quantification of HIV-1 viral load among 21 clinical samples .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The characteristics of tolerance to variable templates and one probe-one primer system imply that the probe/primer design for the new method will be easier and more flexible than the conventional method for highly heterogeneous viruses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , the HF DNA polymerase-mediated qPCR method is a simple ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "sensitive and promising approach for the development of diagnostics for viral infectious diseases .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Real-time quantitative PCR (qPCR) was developed in early 1990s for the detection and quantification of nucleic acids 1 , which is widely used in almost all fields of biomedical research, agriculture, food and environment sciences 2-5 . Although some new methods such as isothermal amplification methods, loop mediated isothermal amplification (LAMP) 6, 7 , rolling circle amplification (RCA) 8, 9 , recombinase polymerase amplification (RPA) 10 and specific high-sensitivity enzymatic reporter unlocking (SHERLOCK) 11 had been developed in recent years, qPCR is still considered to be the most robust technology in clinical diagnostic assays, especially for infectious diseases 12-14 . RT-qPCR is usually accomplished by using either double-stranded DNA-binding dyes (e.g. SYBR green I 15 and SYTO9 16, 17 or fluorescence-based probes 18 . The dsDNA-binding dyes are cheaper than reagents used in the probe-based methods; however, their non-specific binding to dsDNA may result in false positive results, and inaccurate quantification 19 , and thus limits their use in qPCR for qualification of gene expression and molecular diagnosis. There are three main types of fluorescence-based probes in qPCR, including hydrolysis probes (often called as TaqMan probes) 20 , hybridization probes 21, 22 , and molecular beacons 23 . Some other types of probes, such as scorpion primers 24 , light upon extension (LUX) primers 25 and Amplifluor primers 26 were also developed for qPCR. Among these new probe types, the TaqMan probes were the most widely used for the detection and quantification of nucleic acids, and often developed into commercial kits for clinical diagnosis. Molecular beacons were more often used in the detection of single nucleotide polymorphisms (SNP) 27, 28 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Real-time quantitative PCR ( qPCR ) was developed in early 1990s for the detection and quantification of nucleic acids 1 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which is widely used in almost all fields of biomedical research ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "agriculture , food and environment sciences 2-5 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although some new methods such as isothermal amplification methods ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "loop mediated isothermal amplification ( LAMP ) 6 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "7 , rolling circle amplification ( RCA ) 8 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "9 , recombinase polymerase amplification ( RPA ) 10 and specific high-sensitivity enzymatic reporter unlocking ( SHERLOCK ) 11 had been developed in recent years ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "qPCR is still considered to be the most robust technology in clinical diagnostic assays ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "especially for infectious diseases 12-14 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "RT-qPCR is usually accomplished by using either double-stranded DNA-binding dyes ( e.g. SYBR green I 15 and SYTO9 16 , 17 or fluorescence-based probes 18 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The dsDNA-binding dyes are cheaper than reagents used in the probe-based methods ; however ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "their non-specific binding to dsDNA may result in false positive results ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and inaccurate quantification 19 , and thus limits their use in qPCR for qualification of gene expression and molecular diagnosis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "There are three main types of fluorescence-based probes in qPCR ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including hydrolysis probes ( often called as TaqMan probes ) 20 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "hybridization probes 21 , 22 , and molecular beacons 23 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Some other types of probes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as scorpion primers 24 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "light upon extension ( LUX ) primers 25 and Amplifluor primers 26 were also developed for qPCR .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Among these new probe types ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the TaqMan probes were the most widely used for the detection and quantification of nucleic acids ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and often developed into commercial kits for clinical diagnosis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Molecular beacons were more often used in the detection of single nucleotide polymorphisms ( SNP ) 27 , 28 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The detection and quantification of pathogens requires high sensitivity, specificity and reproducibility 29 . For qPCR, high sensitivity and specificity depend on the well-designed primers and probe that all bind to the highly conserved genomic regions of target pathogens. If the primers or probe bind to non-conserved genomic (e.i. highly variable) regions, amplification efficiency will be greatly reduced, which is a major reason for low detection sensitivity and specificity for some viruses 29, 30 . Currently, emerging and reemerging infectious diseases are a serious threat to global public health. More than 70% of emerging and reemerging infectious diseases are caused by viruses, and vast majority of human viruses (especially RNA viruses) have higher mutation rates than bacteria, fungi and other pathogens (e.g. mycoplasma and chlamydia). Because of high genetic variability, some viruses",
+      "sentences": [
+        [
+          {
+            "segment_text": "The detection and quantification of pathogens requires high sensitivity , specificity and reproducibility 29 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "For qPCR , high sensitivity and specificity depend on the well-designed primers and probe that all bind to the highly conserved genomic regions of target pathogens .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "If the primers or probe bind to non-conserved genomic ( e.i. highly variable ) regions ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "amplification efficiency will be greatly reduced ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which is a major reason for low detection sensitivity and specificity for some viruses 29 , 30 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Currently , emerging and reemerging infectious diseases are a serious threat to global public health .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "More than 70 % of emerging and reemerging infectious diseases are caused by viruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and vast majority of human viruses ( especially RNA viruses ) have higher mutation rates than bacteria ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "fungi and other pathogens ( e.g. mycoplasma and chlamydia ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Because of high genetic variability , some viruses",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "23",
+    "segment_num": "44",
+    "token_num": "682"
+  }
+}

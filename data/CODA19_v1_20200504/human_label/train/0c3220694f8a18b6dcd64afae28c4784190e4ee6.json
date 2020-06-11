@@ -1,0 +1,83 @@
+{
+  "paper_id": "0c3220694f8a18b6dcd64afae28c4784190e4ee6",
+  "metadata": {
+    "title": "A molecular beacon, bead-based assay for the detection of nucleic acids by flow cytometry",
+    "coda_data_split": "train",
+    "coda_paper_id": 9650,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Molecular beacons are dual-labelled probes that are typically used in real-time PCR assays, but have also been conjugated with solid matrices for use in microarrays or biosensors. We have developed a fluid array system using microsphere-conjugated molecular beacons and the flow cytometer for the specific, multiplexed detection of unlabelled nucleic acids in solution. For this array system, molecular beacons were conjugated with microspheres using a biotin-streptavidin linkage. A bridged conjugation method using streptavidin increased the signal-tonoise ratio, allowing for further discrimination of target quantitation. Using beads of different sizes and molecular beacons in two fluorophore colours, synthetic nucleic acid control sequences were specifically detected for three respiratory pathogens, including the SARS coronavirus in proof-of-concept experiments. Considering that routine flow cytometers are able to detect up to four fluorescent channels, this novel assay may allow for the specific multiplex detection of a nucleic acid panel in a single tube.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Molecular beacons are dual-labelled probes that are typically used in real-time PCR assays ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but have also been conjugated with solid matrices for use in microarrays or biosensors .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We have developed a fluid array system using microsphere-conjugated molecular beacons and the flow cytometer for the specific ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "multiplexed detection of unlabelled nucleic acids in solution .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "For this array system , molecular beacons were conjugated with microspheres using a biotin-streptavidin linkage .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A bridged conjugation method using streptavidin increased the signal-tonoise ratio ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "allowing for further discrimination of target quantitation .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using beads of different sizes and molecular beacons in two fluorophore colours ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "synthetic nucleic acid control sequences were specifically detected for three respiratory pathogens ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including the SARS coronavirus in proof-of-concept experiments .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Considering that routine flow cytometers are able to detect up to four fluorescent channels ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "this novel assay may allow for the specific multiplex detection of a nucleic acid panel in a single tube .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "12",
+    "token_num": "161"
+  }
+}

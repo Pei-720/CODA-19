@@ -1,0 +1,157 @@
+{
+  "paper_id": "a81eea07a9ea0dfffb6ee266358ed09b287df94c",
+  "metadata": {
+    "title": "Herd level estimation of probability of disease freedom applied on the Norwegian control program for bovine respiratory syncytial virus and bovine coronavirus",
+    "coda_data_split": "train",
+    "coda_paper_id": 10213,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "A national control program against bovine respiratory syncytial virus (BRSV) and bovine coronavirus (BCV) was launched in Norway in 2016. A key strategy in the program is to test for presence of antibodies and protect testnegative herds from infection. Because these viruses are endemic, the rate of re-introduction can be high, and a disease-free status will become more uncertain as time from testing elapses. The aim of this study was to estimate the probability of freedom (PostPFree) from BRSV and BCV antibodies over time by use of bulk tank milk (BTM) antibody-testing, geographic information and animal movement data, and to validate the herd-level estimates against subsequent BTM testing.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A national control program against bovine respiratory syncytial virus ( BRSV ) and bovine coronavirus ( BCV ) was launched in Norway in 2016 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A key strategy in the program is to test for presence of antibodies and protect testnegative herds from infection .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Because these viruses are endemic ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the rate of re-introduction can be high ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and a disease-free status will become more uncertain as time from testing elapses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The aim of this study was to estimate the probability of freedom ( PostPFree ) from BRSV and BCV antibodies over time by use of bulk tank milk ( BTM ) antibody-testing ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "geographic information and animal movement data ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and to validate the herd-level estimates against subsequent BTM testing .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "BTM samples were collected from 1148 study herds in West Norway in 2013 and 2016, and these were analyzed for BRSV and BCV antibodies. PostPFree was calculated for herds that were negative in 2013/2014, and updated periodically with new probabilities every three months. Input variables were test sensitivity, the probability of introduction through animal purchase and local transmission. Probability of introduction through animal purchase was calculated by using real animal movement data and herd prevalence in the region of the source herd. The PostPFree from the final three months in 2015 was compared to BTM test results from March 2016 using a Wilcoxon Rank Sum Test.",
+      "sentences": [
+        [
+          {
+            "segment_text": "BTM samples were collected from 1148 study herds in West Norway in 2013 and 2016 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and these were analyzed for BRSV and BCV antibodies .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "PostPFree was calculated for herds that were negative in 2013/2014 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and updated periodically with new probabilities every three months .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Input variables were test sensitivity ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the probability of introduction through animal purchase and local transmission .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Probability of introduction through animal purchase was calculated by using real animal movement data and herd prevalence in the region of the source herd .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The PostPFree from the final three months in 2015 was compared to BTM test results from March 2016 using a Wilcoxon Rank Sum Test .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The probability of freedom was generally high for test-negative herds immediately after testing, reflecting the high sensitivity of the tests. It did however, decrease with time since testing, and was greatly affected by purchase of livestock. When comparing the median PostPFree for the final three months to the test results in 2016, it was significantly lower (p \u003c 0.01) for test positive herds. Furthermore, there was a large difference in the proportion of test positive herds between the first and fourth quartile of PostPFree. The results show that PostPFree provides a better estimate of herd-level BTM status for both BRSV and BCV than what can be achieved by relying solely on the previous test-result.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The probability of freedom was generally high for test-negative herds immediately after testing ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "reflecting the high sensitivity of the tests .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It did however , decrease with time since testing ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and was greatly affected by purchase of livestock .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "When comparing the median PostPFree for the final three months to the test results in 2016 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "it was significantly lower ( p \u003c 0.01 ) for test positive herds .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , there was a large difference in the proportion of test positive herds between the first and fourth quartile of PostPFree .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results show that PostPFree provides a better estimate of herd-level BTM status for both BRSV and BCV than what can be achieved by relying solely on the previous test-result .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "14",
+    "segment_num": "24",
+    "token_num": "364"
+  }
+}

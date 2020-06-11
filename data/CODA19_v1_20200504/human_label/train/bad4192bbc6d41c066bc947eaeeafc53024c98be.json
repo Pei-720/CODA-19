@@ -1,0 +1,78 @@
+{
+  "paper_id": "bad4192bbc6d41c066bc947eaeeafc53024c98be",
+  "metadata": {
+    "title": "Evidence for RNA editing in the transcriptome of 2019 Novel Coronavirus",
+    "coda_data_split": "train",
+    "coda_paper_id": 5152,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The 2019-nCoV outbreak has become a global health risk. Editing by host deaminases is an innate restriction process to counter viruses, and it is not yet known whether it operates against 15 coronaviruses. Here we analyze RNA sequences from bronchoalveolar lavage fluids derived from two Wuhan patients. We identify nucleotide changes that may be signatures of RNA editing:",
+      "sentences": [
+        [
+          {
+            "segment_text": "The 2019-nCoV outbreak has become a global health risk .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Editing by host deaminases is an innate restriction process to counter viruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and it is not yet known whether it operates against 15 coronaviruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we analyze RNA sequences from bronchoalveolar lavage fluids derived from two Wuhan patients .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We identify nucleotide changes that may be signatures of RNA editing :",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Adenosine-to-Inosine changes from ADAR deaminases and Cytosine-to-Uracil changes from APOBEC ones. A mutational analysis of genomes from different strains of human-hosted Coronaviridae reveals patterns similar to the RNA editing pattern observed in the 2019-nCoV 20 transcriptomes. Our results suggest that both APOBECs and ADARs are involved in Coronavirus genome editing, a process that may shape the fate of both virus and patient.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Adenosine-to-Inosine changes from ADAR deaminases and Cytosine-to-Uracil changes from APOBEC ones .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A mutational analysis of genomes from different strains of human-hosted Coronaviridae reveals patterns similar to the RNA editing pattern observed in the 2019-nCoV 20 transcriptomes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our results suggest that both APOBECs and ADARs are involved in Coronavirus genome editing ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a process that may shape the fate of both virus and patient .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "7",
+    "segment_num": "9",
+    "token_num": "129"
+  }
+}

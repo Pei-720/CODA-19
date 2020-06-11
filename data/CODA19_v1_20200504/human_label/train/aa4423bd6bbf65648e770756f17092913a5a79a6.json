@@ -1,0 +1,62 @@
+{
+  "paper_id": "aa4423bd6bbf65648e770756f17092913a5a79a6",
+  "metadata": {
+    "title": "Title: An alternative workflow for molecular detection of SARS-CoV-2 -escape from the NA",
+    "coda_data_split": "train",
+    "coda_paper_id": 5744,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "The World Health Organisation has declared a pandemic caused by the newly discovered SARS-CoV-2.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The World Health Organisation has declared a pandemic caused by the newly discovered SARS-CoV-2 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Due to growing demand for reagents used for SARS-CoV-2 RNA extraction for subsequent molecular diagnostics, there is a worldwide risk of kit-and/or reagent-shortages for extraction. With a detection sensitivity of 97.4% (95% CI\u003d86.2-99.9%), we describe a simple, fast, alternative workflow for molecular detection of SARS-CoV-2, where samples are simply heat-processed for 5 minutes at 98˚C prior to the RT-qPCR reaction.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Due to growing demand for reagents used for SARS-CoV-2 RNA extraction for subsequent molecular diagnostics ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "there is a worldwide risk of kit-and/or reagent-shortages for extraction .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "With a detection sensitivity of 97.4 % ( 95 % CI \u003d 86.2-99.9 % ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we describe a simple , fast ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "alternative workflow for molecular detection of SARS-CoV-2 ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "where samples are simply heat-processed for 5 minutes at 98 ˚C prior to the RT-qPCR reaction .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "3",
+    "segment_num": "7",
+    "token_num": "90"
+  }
+}

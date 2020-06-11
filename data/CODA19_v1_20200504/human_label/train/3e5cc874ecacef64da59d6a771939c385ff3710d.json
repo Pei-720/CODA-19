@@ -1,0 +1,65 @@
+{
+  "paper_id": "3e5cc874ecacef64da59d6a771939c385ff3710d",
+  "metadata": {
+    "title": "Numerical investigation of gaseous pollutant cross-transmission for single-sided natural ventilation driven by buoyancy and wind",
+    "coda_data_split": "train",
+    "coda_paper_id": 3958,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Single-sided natural ventilation was numerically investigated to determine the impact of buoyancy and wind on the cross-transmission of pollution by considering six window types commonly found in multistory buildings. The goal of this study was to predict the gaseous pollutant transmission using computational fluid dynamics based on the Reynolds-averaged Navier-Stokes equations and baseline k-ω turbulence equations. The results indicated that ventilation rates generally increased with increasing wind speeds if the effects of buoyancy and wind were not suppressed; however, the re-entry ratio representing the proportion of expelled air re-entering other floors and the corresponding risk of infection decreased. If the source of the virus was on a central floor, the risk of infection was the highest on the floors closest to the source. Different window types were also considered for determining their effectiveness in controlling cross-transmission and infection risk, depending on the source location and driving force (e.g., buoyancy and wind).",
+      "sentences": [
+        [
+          {
+            "segment_text": "Single-sided natural ventilation was numerically investigated to determine the impact of buoyancy and wind on the cross-transmission of pollution by considering six window types commonly found in multistory buildings .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The goal of this study was to predict the gaseous pollutant transmission using computational fluid dynamics based on the Reynolds-averaged Navier-Stokes equations and baseline k-ω turbulence equations .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results indicated that ventilation rates generally increased with increasing wind speeds if the effects of buoyancy and wind were not suppressed ; however ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the re-entry ratio representing the proportion of expelled air re-entering other floors and the corresponding risk of infection decreased .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "If the source of the virus was on a central floor ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the risk of infection was the highest on the floors closest to the source .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Different window types were also considered for determining their effectiveness in controlling cross-transmission and infection risk ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "depending on the source location and driving force ( e.g. , buoyancy and wind ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "8",
+    "token_num": "163"
+  }
+}

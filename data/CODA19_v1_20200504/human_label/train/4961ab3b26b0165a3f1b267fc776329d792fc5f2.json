@@ -1,0 +1,196 @@
+{
+  "paper_id": "4961ab3b26b0165a3f1b267fc776329d792fc5f2",
+  "metadata": {
+    "title": "Comparison of distance measures in spatial analytical modeling for health service planning",
+    "coda_data_split": "train",
+    "coda_paper_id": 9187,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Several methodological approaches have been used to estimate distance in health service research. In this study, focusing on cardiac catheterization services, Euclidean, Manhattan, and the less widely known Minkowski distance metrics are used to estimate distances from patient residence to hospital. Distance metrics typically produce less accurate estimates than actual measurements, but each metric provides a single model of travel over a given network. Therefore, distance metrics, unlike actual measurements, can be directly used in spatial analytical modeling. Euclidean distance is most often used, but unlikely the most appropriate metric. Minkowski distance is a more promising method. Distances estimated with each metric are contrasted with road distance and travel time measurements, and an optimized Minkowski distance is implemented in spatial analytical modeling.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Several methodological approaches have been used to estimate distance in health service research .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , focusing on cardiac catheterization services ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Euclidean , Manhattan , and the less widely known Minkowski distance metrics are used to estimate distances from patient residence to hospital .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Distance metrics typically produce less accurate estimates than actual measurements ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but each metric provides a single model of travel over a given network .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , distance metrics , unlike actual measurements ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "can be directly used in spatial analytical modeling .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Euclidean distance is most often used ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but unlikely the most appropriate metric .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Minkowski distance is a more promising method .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Distances estimated with each metric are contrasted with road distance and travel time measurements ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and an optimized Minkowski distance is implemented in spatial analytical modeling .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Methods: Road distance and travel time are calculated from the postal code of residence of each patient undergoing cardiac catheterization to the pertinent hospital. The Minkowski metric is optimized, to approximate travel time and road distance, respectively. Distance estimates and distance measurements are then compared using descriptive statistics and visual mapping methods. The optimized Minkowski metric is implemented, via the spatial weight matrix, in a spatial regression model identifying socioeconomic factors significantly associated with cardiac catheterization.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Methods : Road distance and travel time are calculated from the postal code of residence of each patient undergoing cardiac catheterization to the pertinent hospital .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The Minkowski metric is optimized ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "to approximate travel time and road distance , respectively .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Distance estimates and distance measurements are then compared using descriptive statistics and visual mapping methods .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The optimized Minkowski metric is implemented ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "via the spatial weight matrix ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "in a spatial regression model identifying socioeconomic factors significantly associated with cardiac catheterization .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The Minkowski coefficient that best approximates road distance is 1.54; 1.31 best approximates travel time. The latter is also a good predictor of road distance, thus providing the best single model of travel from patient\u0027s residence to hospital. The Euclidean metric and the optimal Minkowski metric are alternatively implemented in the regression model, and the results compared. The Minkowski method produces more reliable results than the traditional Euclidean metric.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The Minkowski coefficient that best approximates road distance is 1.54 ; 1.31 best approximates travel time .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The latter is also a good predictor of road distance ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "thus providing the best single model of travel from patient \u0027s residence to hospital .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The Euclidean metric and the optimal Minkowski metric are alternatively implemented in the regression model , and the results compared .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The Minkowski method produces more reliable results than the traditional Euclidean metric .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Conclusion: Road distance and travel time measurements are the most accurate estimates, but cannot be directly implemented in spatial analytical modeling. Euclidean distance tends to underestimate road distance and travel time; Manhattan distance tends to overestimate both. The optimized Minkowski distance partially overcomes their shortcomings; it provides a single model of travel over the network. The method is flexible, suitable for analytical modeling, and more accurate than the traditional metrics; its use ultimately increases the reliability of spatial analytical models.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Conclusion : Road distance and travel time measurements are the most accurate estimates ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but can not be directly implemented in spatial analytical modeling .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Euclidean distance tends to underestimate road distance and travel time ; Manhattan distance tends to overestimate both .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The optimized Minkowski distance partially overcomes their shortcomings ; it provides a single model of travel over the network .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The method is flexible , suitable for analytical modeling ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and more accurate than the traditional metrics ; its use ultimately increases the reliability of spatial analytical models .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "19",
+    "segment_num": "30",
+    "token_num": "395"
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "paper_id": "2106f8105f3cb30bf479fdcb6d78e4891a204080",
+  "metadata": {
+    "title": "Crystal structures of a bacterial dipeptidyl peptidase IV reveal a novel substrate recognition mechanism distinct from that of mammalian orthologues",
+    "coda_data_split": "train",
+    "coda_paper_id": 10532,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Pro or Ala at the P1 position. The substrate recognition mechanism has been fully elucidated for mammalian DPP IV by crystal structure analyses but not for bacterial orthologues. Here, we report the crystal structures of a bacterial DPP IV (PmDAP IV) in its free form and in complexes with two kinds of dipeptides as well as with a non-peptidyl inhibitor at 1.90 to 2.47 Å resolution. Acyl-enzyme intermediates were observed for the dipeptide complexes of PmDAP IV, whereas tetrahedral intermediates were reported for the oligopeptide complexes of mammalian DPP IVs. This variation reflects the different structural environments of the active site Arg residues, which are involved in the recognition of a substrate carbonyl group, of mammalian and bacterial enzymes. A phylogenetic analysis revealed that PmDAP IV is a closer relative of dipeptidyl peptidases 8 and 9 (DPP8 and DPP9, DPP IV-family enzymes) than DPP IV. These results provide new insights into the substrate recognition mechanism of bacterial DAP IVs and may assist in the development of selective inhibitors for DAP IVs from pathogenic asaccharolytic bacteria, which utilise proteins or peptides as an energy source.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Pro or Ala at the P1 position .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The substrate recognition mechanism has been fully elucidated for mammalian DPP IV by crystal structure analyses but not for bacterial orthologues .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we report the crystal structures of a bacterial DPP IV ( PmDAP IV ) in its free form and in complexes with two kinds of dipeptides as well as with a non-peptidyl inhibitor at 1.90 to 2.47 Å resolution .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Acyl-enzyme intermediates were observed for the dipeptide complexes of PmDAP IV ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "whereas tetrahedral intermediates were reported for the oligopeptide complexes of mammalian DPP IVs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This variation reflects the different structural environments of the active site Arg residues ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which are involved in the recognition of a substrate carbonyl group ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "of mammalian and bacterial enzymes .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "A phylogenetic analysis revealed that PmDAP IV is a closer relative of dipeptidyl peptidases 8 and 9 ( DPP8 and DPP9 , DPP IV-family enzymes ) than DPP IV .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These results provide new insights into the substrate recognition mechanism of bacterial DAP IVs and may assist in the development of selective inhibitors for DAP IVs from pathogenic asaccharolytic bacteria ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which utilise proteins or peptides as an energy source .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Peptidases catalyse the hydrolysis of peptide bonds. These enzymes are widely distributed in nature and are involved in a wide variety of biological functions 1 . Peptidases can be grouped according to the pattern of proteolysis as either endo-or exo-peptidases. Exopeptidases catalyse the removal of amino acids (or short peptides) from the end of a polypeptide chain, whereas endopeptidases cleave a peptide bond between nonterminal amino acids. According to International Union of Biochemistry and Molecular Biology (IUBMB) nomenclature, exopeptidases are divided into aminopeptidases, dipeptidases, dipeptidyl-peptidases, tripeptidyl-peptidases, carboxypeptidases and omega peptidases.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Peptidases catalyse the hydrolysis of peptide bonds .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These enzymes are widely distributed in nature and are involved in a wide variety of biological functions 1 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Peptidases can be grouped according to the pattern of proteolysis as either endo-or exo-peptidases .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Exopeptidases catalyse the removal of amino acids ( or short peptides ) from the end of a polypeptide chain ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "whereas endopeptidases cleave a peptide bond between nonterminal amino acids .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "According to International Union of Biochemistry and Molecular Biology ( IUBMB ) nomenclature ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "exopeptidases are divided into aminopeptidases ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "dipeptidases , dipeptidyl-peptidases , tripeptidyl-peptidases , carboxypeptidases and omega peptidases .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Dipeptidyl peptidase IV (DPP IV or DPP4, EC 3.4.14.5) is a homodimeric serine peptidase, each subunit consisting of approximately 700 amino acids, and is classified into the clan SC family S9 in the MEROPS data base 2 . This enzyme preferentially cleaves substrate peptides with Pro or Ala at the penultimate position of peptides [NH 2 -P2-P1Published: xx xx xxxx OPEN www.nature.com/scientificreports/ 2 Scientific REPORTS | (2018) 8:2714 |",
+      "sentences": [
+        [
+          {
+            "segment_text": "Dipeptidyl peptidase IV ( DPP IV or DPP4 , EC 3.4.14.5 ) is a homodimeric serine peptidase ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "each subunit consisting of approximately 700 amino acids ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and is classified into the clan SC family S9 in the MEROPS data base 2 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This enzyme preferentially cleaves substrate peptides with Pro or Ala at the penultimate position of peptides ( NH 2 - P2-P1Published : xx xx xxxx OPEN www.nature.com/scientificreports/ 2 Scientific REPORTS | ( 2018 ) 8:2714 |",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "14",
+    "segment_num": "23",
+    "token_num": "384"
+  }
+}

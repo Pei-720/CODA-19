@@ -1,0 +1,190 @@
+{
+  "paper_id": "89444dffc7f46f0f52709e43550ddb363a720340",
+  "metadata": {
+    "title": "Analysis of chikungunya virus proteins reveals that non-structural proteins nsP2 and nsP3 exhibit RNA interference (RNAi) suppressor activity OPEN",
+    "coda_data_split": "train",
+    "coda_paper_id": 5047,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "The present study was undertaken to evaluate chikungunya virus (CHIKV) proteins for RNAi suppressor activity. We systematically analyzed all nine CHIKV proteins for RNAi suppressor activity using Sf21 RNAi sensor cell line based assay. Two non-structural proteins, namely, nsP2 and nsP3 were found to exhibit RNAi suppressor activity. We further validated the findings in natural hosts, namely in Aedes and in mammalian cell lines and further through EMSA and Agrobacterium infiltration in GFP silenced transgenic tobacco plants. Domains responsible for maximum RNAi suppressor activity were also identified within these proteins. RNA binding motifs in these domains were identified and their participation in RNAi suppression evaluated using site directed mutagenesis. Sequence alignment of these motifs across all species of known alphaviruses revealed conservation of these motifs emphasizing on a similar role of action in other species of alphaviruses as well. Further validation of RNAi suppressor activity of these proteins awaits establishment of specific virus infection models.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The present study was undertaken to evaluate chikungunya virus ( CHIKV ) proteins for RNAi suppressor activity .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We systematically analyzed all nine CHIKV proteins for RNAi suppressor activity using Sf21 RNAi sensor cell line based assay .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Two non-structural proteins , namely ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "nsP2 and nsP3 were found to exhibit RNAi suppressor activity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We further validated the findings in natural hosts ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "namely in Aedes and in mammalian cell lines and further through EMSA and Agrobacterium infiltration in GFP silenced transgenic tobacco plants .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Domains responsible for maximum RNAi suppressor activity were also identified within these proteins .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "RNA binding motifs in these domains were identified and their participation in RNAi suppression evaluated using site directed mutagenesis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Sequence alignment of these motifs across all species of known alphaviruses revealed conservation of these motifs emphasizing on a similar role of action in other species of alphaviruses as well .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Further validation of RNAi suppressor activity of these proteins awaits establishment of specific virus infection models .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "RNA interference (RNAi) is a conserved evolutionary mechanism designed to impart an antiviral defence system across organisms ranging from plants, fungi, arthropods and nematodes 1-4 . The phenomenon, triggered by the production of double stranded RNA (dsRNA) by the pathogen upon infection, leads to the activation of the RNA interference silencing complex (RISC) by loading of dsRNA/siRNA into the complex ultimately leading to cleavage of the viral RNA 5,6,7 . Several components of RISC participate in the cleavage, most important being ribonuclease III Dicer (DCR) and Argonaute protein (AGO). Dicer acts on dsRNA to generate small RNA (sRNA) that are loaded into the AGO, resulting in cleavage 8,9 ; however, some RNAi pathways are independent of Dicer and other components like RNA-dependent RNA polymerase (RdRP) produce short RNA transcripts that directly bind to AGO 10 . Similarly, much is now known about the Piwi pathway that is specifically active in the germline 11 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "RNA interference ( RNAi ) is a conserved evolutionary mechanism designed to impart an antiviral defence system across organisms ranging from plants ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "fungi , arthropods and nematodes 1-4 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The phenomenon , triggered by the production of double stranded RNA ( dsRNA ) by the pathogen upon infection ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "leads to the activation of the RNA interference silencing complex ( RISC ) by loading of dsRNA/siRNA into the complex ultimately leading to cleavage of the viral RNA 5,6,7 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Several components of RISC participate in the cleavage ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "most important being ribonuclease III Dicer ( DCR ) and Argonaute protein ( AGO ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Dicer acts on dsRNA to generate small RNA ( sRNA ) that are loaded into the AGO ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "resulting in cleavage 8,9 ; however ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "some RNAi pathways are independent of Dicer and other components like RNA-dependent RNA polymerase ( RdRP ) produce short RNA transcripts that directly bind to AGO 10 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Similarly , much is now known about the Piwi pathway that is specifically active in the germline 11 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In response to RNAi in plants and insects, viruses infecting these systems utilise some of their own proteins/sequence elements that counteract the antiviral RNAi pathway 12 . These viral suppressors of RNAi (VSRs) act through different mechanisms, either by binding to long dsRNA and protecting them from Dicer 7,13 or short RNAs 14 or through multi-mode mechanisms 15,16 . Recently it has been shown that some viruses encode host-specific VSRs due to co-evolution of the virus and the host, emphasising on the importance of analysing suppressor activity in relevant host 17 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "In response to RNAi in plants and insects ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "viruses infecting these systems utilise some of their own proteins/sequence elements that counteract the antiviral RNAi pathway 12 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These viral suppressors of RNAi ( VSRs ) act through different mechanisms ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "either by binding to long dsRNA and protecting them from Dicer 7,13 or short RNAs 14 or through multi-mode mechanisms 15,16 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recently it has been shown that some viruses encode host-specific VSRs due to co-evolution of the virus and the host ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "emphasising on the importance of analysing suppressor activity in relevant host 17 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Amongst medically important pathogenic viruses, arboviruses form an important subset of viruses due to the complexity of their host preferences 18 . These viruses, mainly constituted by genera flavivirus and alphavirus,",
+      "sentences": [
+        [
+          {
+            "segment_text": "Amongst medically important pathogenic viruses ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "arboviruses form an important subset of viruses due to the complexity of their host preferences 18 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These viruses , mainly constituted by genera flavivirus and alphavirus ,",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "18",
+    "segment_num": "29",
+    "token_num": "476"
+  }
+}

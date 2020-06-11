@@ -1,0 +1,107 @@
+{
+  "paper_id": "024d0bef5417a110fb52607e85ec80eb4d7d92a3",
+  "metadata": {
+    "title": "Nucleocapsid protein-dependent assembly of the RNA packaging signal of Middle East respiratory syndrome coronavirus",
+    "coda_data_split": "train",
+    "coda_paper_id": 4014,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Middle East respiratory syndrome coronavirus (MERS-CoV) consists of a positive-sense, single-stranded RNA genome and four structural proteins: the spike, envelope, membrane, and nucleocapsid protein. The assembly of the viral genome into virus particles involves viral structural proteins and is believed to be mediated through recognition of specific sequences and RNA structures of the viral genome.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Middle East respiratory syndrome coronavirus ( MERS-CoV ) consists of a positive-sense ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "single-stranded RNA genome and four structural proteins : the spike ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "envelope , membrane , and nucleocapsid protein .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The assembly of the viral genome into virus particles involves viral structural proteins and is believed to be mediated through recognition of specific sequences and RNA structures of the viral genome .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Methods and Results: A culture system for the production of MERS coronavirus-like particles (MERS VLPs) was determined and established by electron microscopy and the detection of coexpressed viral structural proteins. Using the VLP system, a 258-nucleotide RNA fragment, which spans nucleotides 19,712 to 19,969 of the MERS-CoV genome (designated PS258(19712-19969) ME ), was identified to function as a packaging signal. Assembly of the RNA packaging signal into MERS VLPs is dependent on the viral nucleocapsid protein. In addition, a 45-nucleotide stable stem-loop substructure of the PS258(19712-19969) ME interacted with both the N-terminal domain and the Cterminal domain of the viral nucleocapsid protein. Furthermore, a functional SARS-CoV RNA packaging signal failed to assemble into the MERS VLPs, which indicated virus-specific assembly of the RNA genome.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Methods and Results : A culture system for the production of MERS coronavirus-like particles ( MERS VLPs ) was determined and established by electron microscopy and the detection of coexpressed viral structural proteins .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using the VLP system , a 258-nucleotide RNA fragment ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which spans nucleotides 19,712 to 19,969 of the MERS-CoV genome ( designated PS258 ( 19712-19969 ) ME ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "was identified to function as a packaging signal .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Assembly of the RNA packaging signal into MERS VLPs is dependent on the viral nucleocapsid protein .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , a 45-nucleotide stable stem-loop substructure of the PS258 ( 19712-19969 ) ME interacted with both the N-terminal domain and the Cterminal domain of the viral nucleocapsid protein .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , a functional SARS-CoV RNA packaging signal failed to assemble into the MERS VLPs ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which indicated virus-specific assembly of the RNA genome .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Conclusions: A MERS-oV RNA packaging signal was identified by the detection of GFP expression following an incubation of MERS VLPs carrying the heterologous mRNA GFP-PS258(19712-19969) ME with virus permissive Huh7 cells. The MERS VLP system could help us in understanding virus infection and morphogenesis.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Conclusions : A MERS-oV RNA packaging signal was identified by the detection of GFP expression following an incubation of MERS VLPs carrying the heterologous mRNA GFP-PS258 ( 19712-19969 ) ME with virus permissive Huh7 cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The MERS VLP system could help us in understanding virus infection and morphogenesis .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "9",
+    "segment_num": "14",
+    "token_num": "261"
+  }
+}

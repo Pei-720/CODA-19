@@ -1,0 +1,81 @@
+{
+  "paper_id": "c2c9ef242bfe57dc9b4703ca80d24cf724bc264c",
+  "metadata": {
+    "title": "Pseudotyped Vesicular Stomatitis Virus for Analysis of Virus Entry Mediated by SARS Coronavirus Spike Proteins",
+    "coda_data_split": "train",
+    "coda_paper_id": 2323,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Severe acute respiratory syndrome (SARS) coronavirus (CoV) contains a spike (S) protein that binds to a receptor molecule (angiotensin-converting enzyme 2; ACE2), induces membrane fusion, and serves as a neutralizing epitope. To study the functions of the S protein, we describe here the generation of SARS-CoV S protein-bearing vesicular stomatitis virus (VSV) pseudotype using a VSV⌬G*/GFP system in which the G gene is replaced by the green fluorescent protein (GFP) gene (VSV-SARS-CoV-St19/GFP). Partial deletion of the cytoplasmic domain of SARS-CoV S protein (SARS-CoV-St19) allowed efficient incorporation into the VSV particle that enabled the generation of a high titer of pseudotype virus. Neutralization assay with anti-SARS-CoV antibody revealed that VSV-SARS-St19/GFP pseudotype infection is mediated by SARS-CoV S protein. The VSV⌬G*/SEAP system, which secretes alkaline phosphatase instead of GFP, was also generated as a VSV pseudotype having SARS-CoV S protein (VSV-SARS-CoV-St19/SEAP). This system enabled high-throughput analysis of SARS-CoV S protein-mediated cell entry by measuring alkaline phosphatase activity. Thus, VSV pseudotyped with SARS-CoV S protein is useful for developing a rapid detection system for neutralizing antibody specific for SARS-CoV infection as well as studying the S-mediated cell entry of SARS-CoV.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Severe acute respiratory syndrome ( SARS ) coronavirus ( CoV ) contains a spike ( S ) protein that binds to a receptor molecule ( angiotensin-converting enzyme 2 ; ACE2 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "induces membrane fusion , and serves as a neutralizing epitope .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To study the functions of the S protein ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "we describe here the generation of SARS-CoV S protein-bearing vesicular stomatitis virus ( VSV ) pseudotype using a VSV ⌬ G * / GFP system in which the G gene is replaced by the green fluorescent protein ( GFP ) gene ( VSV-SARS-CoV-St19 / GFP ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Partial deletion of the cytoplasmic domain of SARS-CoV S protein ( SARS-CoV-St19 ) allowed efficient incorporation into the VSV particle that enabled the generation of a high titer of pseudotype virus .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Neutralization assay with anti-SARS-CoV antibody revealed that VSV-SARS-St19 / GFP pseudotype infection is mediated by SARS-CoV S protein .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The VSV ⌬ G * / SEAP system ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which secretes alkaline phosphatase instead of GFP ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "was also generated as a VSV pseudotype having SARS-CoV S protein ( VSV-SARS-CoV-St19 / SEAP ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This system enabled high-throughput analysis of SARS-CoV S protein-mediated cell entry by measuring alkaline phosphatase activity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , VSV pseudotyped with SARS-CoV S protein is useful for developing a rapid detection system for neutralizing antibody specific for SARS-CoV infection as well as studying the S-mediated cell entry of SARS-CoV .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "11",
+    "token_num": "235"
+  }
+}

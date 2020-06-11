@@ -1,0 +1,127 @@
+{
+  "paper_id": "fda076d8d8b2fb52990e3db1982e4af2ff0fb08e",
+  "metadata": {
+    "title": "Computational vaccinology approach: Designing an efficient multi-epitope peptide vaccine against Cryptococcus neoformans var. grubii\u0027s heat shock 70KDa protein",
+    "coda_data_split": "train",
+    "coda_paper_id": 10248,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Introduction: Cryptococcosis is a ubiquitous opportunistic fungal disease caused by Cryptococcus neoformans var. grubii. It has high global morbidity and mortality among HIV patients and none-HIV carriers with 99% and 95% respectively. Furthermore, the increasing prevalence of undesired toxicity profile of antifungal, multi-drug resistant organism, and the scarcity of FDA authorized vaccines, where the hallmark in the present days. This study was undertaken to design a reliable multi-epitope peptide vaccine against highly conserved immunodominant heat shock 70KDa protein of Cryptococcus neoformans var. grubii that covers a considerable digit of the world population through implementing computational vaccinology approach.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Introduction : Cryptococcosis is a ubiquitous opportunistic fungal disease caused by Cryptococcus neoformans var .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "grubii .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It has high global morbidity and mortality among HIV patients and none-HIV carriers with 99 % and 95 % respectively .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , the increasing prevalence of undesired toxicity profile of antifungal ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "multi-drug resistant organism , and the scarcity of FDA authorized vaccines ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "where the hallmark in the present days .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study was undertaken to design a reliable multi-epitope peptide vaccine against highly conserved immunodominant heat shock 70KDa protein of Cryptococcus neoformans var .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "grubii that covers a considerable digit of the world population through implementing computational vaccinology approach .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Materials and Methods: A total of 38 Sequences of Cryptococcus neoformans var. grubii\u0027s heat shock 70KDa protein were retrieved from NCBI protein database. Different prediction tools were used to analyze the aforementioned protein at Immune Epitope Database (IEDB) to discriminate the most promising Tcell and B-cell epitopes. Then the proposed epitopes were subjected to Population coverage analysis tool to compute global population\u0027s coverage. Finally, the projected epitopes were ranked based on their scores and binding modes through using Moe 2007 program.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Materials and Methods : A total of 38 Sequences of Cryptococcus neoformans var .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "grubii \u0027s heat shock 70KDa protein were retrieved from NCBI protein database .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Different prediction tools were used to analyze the aforementioned protein at Immune Epitope Database ( IEDB ) to discriminate the most promising Tcell and B-cell epitopes .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Then the proposed epitopes were subjected to Population coverage analysis tool to compute global population \u0027s coverage .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , the projected epitopes were ranked based on their scores and binding modes through using Moe 2007 program .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Keywords: Multi-epitope peptide vaccine, Computational vaccinology, Cryptococcus neoformans var. grubii, Cryptococcosis, in silico vaccine, Heat shock 70KDa protein (Hsp70).",
+      "sentences": [
+        [
+          {
+            "segment_text": "Keywords : Multi-epitope peptide vaccine ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "Computational vaccinology , Cryptococcus neoformans var .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "grubii , Cryptococcosis , in silico vaccine ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "Heat shock 70KDa protein ( Hsp70 ) .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "13",
+    "segment_num": "17",
+    "token_num": "231"
+  }
+}

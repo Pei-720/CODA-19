@@ -1,0 +1,367 @@
+{
+  "paper_id": "89d2e3da9d28446b9b8209cad5107c7a0dd85d83",
+  "metadata": {
+    "title": "Antiviral Mechanisms of Human Defensins",
+    "coda_data_split": "train",
+    "coda_paper_id": 6424,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Defensins are an effector component of the innate immune system with broad antimicrobial activity. Humans express two types of defensins, -and -defensins, which have antiviral activity against both enveloped and non-enveloped viruses. The diversity of defensin-sensitive viral species reflects a multitude of antiviral mechanisms. These include direct defensin targeting of viral envelopes, glycoproteins, and capsids in addition to inhibition of viral fusion and post-entry neutralization. Binding and modulation of host cell surface receptors and disruption of intracellular signaling by defensins can also inhibit viral replication. In addition, defensins can function as chemokines to augment and alter adaptive immune responses, revealing an indirect antiviral mechanism. Nonetheless, many questions regarding the antiviral activities of defensins remain. Although significant mechanistic data is known for -defensins, molecular details fordefensin inhibition are mostly lacking. Importantly, the role of defensin antiviral activity in vivo has not been addressed due to the lack of a complete defensin knockout model. Overall, the antiviral activity of defensins is well established as are the variety of mechanisms by which defensins achieve this inhibition; however, additional research is needed to fully understand the role of defensins in viral pathogenesis. simplex virus 1 (HSV-1) was one of the defining criteria in the identification and purification of the -defensins human neutrophil peptide 1 (HNP1), HNP2, and HNP3 from human neutrophils 3 . In this review, we will summarize the known activities of -anddefensins against viruses, and we refer the reader to additional recent reviews on this topic for further insight 4; 5; 6; 7 . Our focus will be primarily on human defensins, and we have organized our discussion by mechanism ( Figure 1 ) to emphasize commonalities in the antiviral activities of defensins against diverse viral families.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Defensins are an effector component of the innate immune system with broad antimicrobial activity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Humans express two types of defensins ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "- and - defensins , which have antiviral activity against both enveloped and non-enveloped viruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The diversity of defensin-sensitive viral species reflects a multitude of antiviral mechanisms .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These include direct defensin targeting of viral envelopes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "glycoproteins , and capsids in addition to inhibition of viral fusion and post-entry neutralization .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Binding and modulation of host cell surface receptors and disruption of intracellular signaling by defensins can also inhibit viral replication .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , defensins can function as chemokines to augment and alter adaptive immune responses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "revealing an indirect antiviral mechanism .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Nonetheless , many questions regarding the antiviral activities of defensins remain .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although significant mechanistic data is known for - defensins ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "molecular details fordefensin inhibition are mostly lacking .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Importantly , the role of defensin antiviral activity in vivo has not been addressed due to the lack of a complete defensin knockout model .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Overall , the antiviral activity of defensins is well established as are the variety of mechanisms by which defensins achieve this inhibition ; however ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "additional research is needed to fully understand the role of defensins in viral pathogenesis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "simplex virus 1 ( HSV-1 ) was one of the defining criteria in the identification and purification of the - defensins human neutrophil peptide 1 ( HNP1 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "HNP2 , and HNP3 from human neutrophils 3 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this review , we will summarize the known activities of - anddefensins against viruses ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and we refer the reader to additional recent reviews on this topic for further insight 4 ; 5 ; 6 ; 7 .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our focus will be primarily on human defensins ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and we have organized our discussion by mechanism ( Figure 1 ) to emphasize commonalities in the antiviral activities of defensins against diverse viral families .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The structure, evolution, and tissue distribution of defensins have been summarized in a number of recent reviews 4; 8; 9; 10; 11; 12; 13 . Briefly, defensins are small (~29-42 amino acid) cationic, amphipathic peptides with a predominantly -sheet structure stabilized by 3 disulfide bonds. They can be broadly classified on the basis of structure and disulfide bond organization into three groups: -, -, and -defensins. As humans lack -defensins, they will not be discussed in detail; however, their antiviral properties have been recently reviewed 8; 14 . Humans express six -defensins and up to 31 -defensins 15 . The -defensins can be further subdivided into myeloid (HNP1-4) and enteric [human defensin (HD) 5 and 6] peptides on the basis of both expression patterns and genetic organization 11 . All of thedefensins have been shown to multimerize into at least dimers either in solution or in crystal structures 16; 17; 18; 19 . HNP1-4 are predominantly expressed by neutrophils but can also be found in or expressed by monocyte/macrophages, natural killer (NK) cells, some T cells, B cells, and immature dendritic cells (DCs) 11; 13 . HD5 and HD6 are expressed by specialized epithelial Paneth cells of the small intestine 20; 21 . HD5 is also expressed by epithelial cells in the male and female genitourinary tract 22; 23; 24; 25 . Human -defensins (HBDs) are more widely expressed by epithelial cells in skin and at mucosal surfaces in contact with the environment 26 . Like the -defensins, some -defensins (e.g., HBD3) exist in oligomeric forms, while others, such as HBD1 and HBD2, are monomeric 27 . They are also expressed by monocytes, macrophages, and certain DCs, and a subset of -defensins are only expressed in the male reproductive tract 26; 28 . Although there are commonalities in expression patterns of defensins in humans and other species, one important difference relevant for experimental models of infectious disease is that mice lack myeloiddefensins 29; 30 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "The structure , evolution , and tissue distribution of defensins have been summarized in a number of recent reviews 4 ; 8 ; 9 ; 10 ; 11 ; 12 ; 13 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Briefly , defensins are small ( ~ 29-42 amino acid ) cationic ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "amphipathic peptides with a predominantly - sheet structure stabilized by 3 disulfide bonds .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "They can be broadly classified on the basis of structure and disulfide bond organization into three groups : - ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "- , and - defensins .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "As humans lack - defensins ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "they will not be discussed in detail ; however ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "their antiviral properties have been recently reviewed 8 ; 14 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Humans express six - defensins and up to 31 - defensins 15 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The - defensins can be further subdivided into myeloid ( HNP1-4 ) and enteric ( human defensin ( HD ) 5 and 6 ) peptides on the basis of both expression patterns and genetic organization 11 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "All of thedefensins have been shown to multimerize into at least dimers either in solution or in crystal structures 16 ; 17 ; 18 ; 19 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "HNP1-4 are predominantly expressed by neutrophils but can also be found in or expressed by monocyte/macrophages ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "natural killer ( NK ) cells ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "some T cells , B cells ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and immature dendritic cells ( DCs ) 11 ; 13 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "HD5 and HD6 are expressed by specialized epithelial Paneth cells of the small intestine 20 ; 21 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "HD5 is also expressed by epithelial cells in the male and female genitourinary tract 22 ; 23 ; 24 ; 25 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Human - defensins ( HBDs ) are more widely expressed by epithelial cells in skin and at mucosal surfaces in contact with the environment 26 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Like the - defensins , some - defensins ( e.g. , HBD3 ) exist in oligomeric forms ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while others , such as HBD1 and HBD2 , are monomeric 27 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "They are also expressed by monocytes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "macrophages , and certain DCs ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and a subset of - defensins are only expressed in the male reproductive tract 26 ; 28 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although there are commonalities in expression patterns of defensins in humans and other species ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "one important difference relevant for experimental models of infectious disease is that mice lack myeloiddefensins 29 ; 30 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Quantification of physiologic defensin concentrations in vivo is complex, as defensins are present at high local concentrations within specific cell types or upon release from cells into confined anatomical niches (e.g., crypts of the small intestine) but can become diluted in extracellular fluids. For the myeloid -defensins, Daher et al. estimated ~3 mM (10 mg/ml) HNPs in neutrophils, with even higher local concentrations in the azurophilic granules in which they are stored 1 . For the enteric -defensins, Ayabe et al. estimated concentrations of ≥3.5 mM (15-100 mg/ml) in the crypt lumen, the site of Paneth cell degranulation 31 . These concentrations are likely similar in the human small intestine, where HD5 expression exceeds that of HD6 by 6-fold 32 . In healthy patients, epithelial lining fluid of the lung contains 31-79 nM HNP1-3, nasal fluid contains ~2.7 M HNP1-3, saliva contains 0.3-3 M HNP1-3, and vaginal secretions contain ~1.5 M HNPs and 0.3-14 M HD5 23; 33; 34; 35; 36; 37; 38 . For the -defensins, 5-10 nM HBD2 has been measured in nasal fluid 37; 39 . However, in certain disease states defensin levels can be highly elevated. For example, 57 M to 2.4 mM concentrations of HNP1 have been found in epithelial lining fluid of cystic fibrosis patients 36 . Overall, the concentrations of defensins present in vivo are generally within the range that is needed for direct antiviral activity by -defensins and generally below the concentrations required for direct antiviral activity by -defensins. Wilson et al. ",
+      "sentences": [
+        [
+          {
+            "segment_text": "Quantification of physiologic defensin concentrations in vivo is complex ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as defensins are present at high local concentrations within specific cell types or upon release from cells into confined anatomical niches ( e.g. , crypts of the small intestine ) but can become diluted in extracellular fluids .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "For the myeloid - defensins ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Daher et al. estimated ~ 3 mM ( 10 mg/ml ) HNPs in neutrophils ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with even higher local concentrations in the azurophilic granules in which they are stored 1 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "For the enteric - defensins ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Ayabe et al. estimated concentrations of ≥ 3.5 mM ( 15-100 mg/ml ) in the crypt lumen ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the site of Paneth cell degranulation 31 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These concentrations are likely similar in the human small intestine ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "where HD5 expression exceeds that of HD6 by 6-fold 32 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In healthy patients , epithelial lining fluid of the lung contains 31-79 nM HNP1-3 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "nasal fluid contains ~ 2.7 M HNP1-3 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "saliva contains 0.3-3 M HNP1-3 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and vaginal secretions contain ~ 1.5 M HNPs and 0.3-14 M HD5 23 ; 33 ; 34 ; 35 ; 36 ; 37 ; 38 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "For the - defensins , 5-10 nM HBD2 has been measured in nasal fluid 37 ; 39 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , in certain disease states defensin levels can be highly elevated .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "For example , 57 M to 2.4 mM concentrations of HNP1 have been found in epithelial lining fluid of cystic fibrosis patients 36 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Overall , the concentrations of defensins present in vivo are generally within the range that is needed for direct antiviral activity by - defensins and generally below the concentrations required for direct antiviral activity by - defensins .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Wilson et al. .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "37",
+    "segment_num": "65",
+    "token_num": "1010"
+  }
+}

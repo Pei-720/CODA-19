@@ -1,0 +1,137 @@
+{
+  "paper_id": "2ffc83b88bc84615273e97d8109e5439ce4dce60",
+  "metadata": {
+    "title": "Adaptive Estimation for Epidemic Renewal and Phylogenetic Skyline Models",
+    "coda_data_split": "train",
+    "coda_paper_id": 5006,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Estimating temporal changes in a target population from phylogenetic or count data is an important problem in ecology and epidemiology. Reliable estimates can provide key insights into the climatic and biological drivers influencing the diversity or structure of that population and evidence hypotheses concerning its future growth or decline. In infectious disease applications, the individuals infected across an epidemic form the target population. The renewal model estimates the effective reproduction number, R, of the epidemic from counts of its observed cases. The skyline model infers the effective population size, N, underlying a phylogeny of sequences sampled from that epidemic. Practically, R measures ongoing epidemic growth while N informs on historical caseload. While both models solve distinct problems, the reliability of their estimates depends on p-dimensional piecewise-constant functions. If p is misspecified, the model might underfit significant changes or overfit noise and promote a spurious understanding of the epidemic, which might misguide intervention policies or misinform forecasts. Surprisingly, no transparent yet principled approach for optimising p exists. Usually, p is heuristically set, or obscurely controlled via complex algorithms. We present a computable and interpretable p-selection method based on the minimum description length (MDL) formalism of information theory. Unlike many standard model selection techniques, MDL accounts for the additional statistical complexity induced by how parameters interact. As a result, our method optimises p so that R and N estimates properly adapt to the available data. It also outperforms comparable Akaike and Bayesian information criteria on several classification problems. Our approach requires some knowledge of the parameter space and exposes the similarities between renewal and skyline models.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Estimating temporal changes in a target population from phylogenetic or count data is an important problem in ecology and epidemiology .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Reliable estimates can provide key insights into the climatic and biological drivers influencing the diversity or structure of that population and evidence hypotheses concerning its future growth or decline .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In infectious disease applications , the individuals infected across an epidemic form the target population .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The renewal model estimates the effective reproduction number ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "R , of the epidemic from counts of its observed cases .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The skyline model infers the effective population size ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "N , underlying a phylogeny of sequences sampled from that epidemic .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Practically , R measures ongoing epidemic growth while N informs on historical caseload .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "While both models solve distinct problems ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the reliability of their estimates depends on p-dimensional piecewise-constant functions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "If p is misspecified , the model might underfit significant changes or overfit noise and promote a spurious understanding of the epidemic ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which might misguide intervention policies or misinform forecasts .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Surprisingly , no transparent yet principled approach for optimising p exists .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Usually , p is heuristically set ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "or obscurely controlled via complex algorithms .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We present a computable and interpretable p-selection method based on the minimum description length ( MDL ) formalism of information theory .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Unlike many standard model selection techniques ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "MDL accounts for the additional statistical complexity induced by how parameters interact .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "As a result , our method optimises p so that R and N estimates properly adapt to the available data .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It also outperforms comparable Akaike and Bayesian information criteria on several classification problems .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our approach requires some knowledge of the parameter space and exposes the similarities between renewal and skyline models .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "15",
+    "segment_num": "21",
+    "token_num": "295"
+  }
+}

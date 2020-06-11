@@ -1,0 +1,156 @@
+{
+  "paper_id": "9c57f276217c4e3f85b0980157c337e847bca2b6",
+  "metadata": {
+    "title": "Clinical Infectious Diseases Pulmonary Metagenomic Sequencing Suggests Missed Infections in Immunocompromised Children",
+    "coda_data_split": "train",
+    "coda_paper_id": 2721,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Background. Despite improved diagnostics, pulmonary pathogens in immunocompromised children frequently evade detection, leading to significant mortality. Therefore, we aimed to develop a highly sensitive metagenomic next-generation sequencing (mNGS) assay capable of evaluating the pulmonary microbiome and identifying diverse pathogens in the lungs of immunocompromised children.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Despite improved diagnostics , pulmonary pathogens in immunocompromised children frequently evade detection , leading to significant mortality .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , we aimed to develop a highly sensitive metagenomic next-generation sequencing ( mNGS ) assay capable of evaluating the pulmonary microbiome and identifying diverse pathogens in the lungs of immunocompromised children .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Methods. We collected 41 lower respiratory specimens from 34 immunocompromised children undergoing evaluation for pulmonary disease at 3 children\u0027s hospitals from 2014-2016. Samples underwent mechanical homogenization, parallel RNA/DNA extraction, and metagenomic sequencing. Sequencing reads were aligned to the National Center for Biotechnology Information nucleotide reference database to determine taxonomic identities. Statistical outliers were determined based on abundance within each sample and relative to other samples in the cohort.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Methods .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We collected 41 lower respiratory specimens from 34 immunocompromised children undergoing evaluation for pulmonary disease at 3 children \u0027s hospitals from 2014-2016 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Samples underwent mechanical homogenization , parallel RNA/DNA extraction , and metagenomic sequencing .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Sequencing reads were aligned to the National Center for Biotechnology Information nucleotide reference database to determine taxonomic identities .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Statistical outliers were determined based on abundance within each sample and relative to other samples in the cohort .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results. We identified a rich cross-domain pulmonary microbiome that contained bacteria, fungi, RNA viruses, and DNA viruses in each patient. Potentially pathogenic bacteria were ubiquitous among samples but could be distinguished as possible causes of disease by parsing for outlier organisms. Samples with bacterial outliers had significantly depressed alpha-diversity (median, 0.61; interquartile range [IQR], 0.33-0.72 vs median, 0.96; IQR, 0.94-0.96; P \u003c .001). Potential pathogens were detected in half of samples previously negative by clinical diagnostics, demonstrating increased sensitivity for missed pulmonary pathogens (P \u003c .001).",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We identified a rich cross-domain pulmonary microbiome that contained bacteria ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "fungi , RNA viruses , and DNA viruses in each patient .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Potentially pathogenic bacteria were ubiquitous among samples but could be distinguished as possible causes of disease by parsing for outlier organisms .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Samples with bacterial outliers had significantly depressed alpha-diversity ( median , 0.61 ; interquartile range ( IQR ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "0.33-0.72 vs median , 0.96 ; IQR ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "0.94-0.96 ; P \u003c .001 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Potential pathogens were detected in half of samples previously negative by clinical diagnostics ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "demonstrating increased sensitivity for missed pulmonary pathogens ( P \u003c .001 ) .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Conclusions. An optimized mNGS assay for pulmonary microbes demonstrates significant inoculation of the lower airways of immunocompromised children with diverse bacteria, fungi, and viruses. Potential pathogens can be identified based on absolute and relative abundance. Ongoing investigation is needed to determine the pathogenic significance of outlier microbes in the lungs of immunocompromised children with pulmonary disease.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Conclusions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "An optimized mNGS assay for pulmonary microbes demonstrates significant inoculation of the lower airways of immunocompromised children with diverse bacteria , fungi , and viruses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Potential pathogens can be identified based on absolute and relative abundance .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Ongoing investigation is needed to determine the pathogenic significance of outlier microbes in the lungs of immunocompromised children with pulmonary disease .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "17",
+    "segment_num": "21",
+    "token_num": "299"
+  }
+}

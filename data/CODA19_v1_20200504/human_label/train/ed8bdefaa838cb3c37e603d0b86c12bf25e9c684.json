@@ -1,0 +1,47 @@
+{
+  "paper_id": "ed8bdefaa838cb3c37e603d0b86c12bf25e9c684",
+  "metadata": {
+    "title": "Epidemiology",
+    "coda_data_split": "train",
+    "coda_paper_id": 9218,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The common cold is the result of an upper respiratory tract infection causing an acute syndrome characterised by a combination of non-specific symptoms, including sore throat, cough, fever, rhinorrhoea, malaise, headache, and myalgia. Respiratory viruses, alone or in combination, are the most common cause.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The common cold is the result of an upper respiratory tract infection causing an acute syndrome characterised by a combination of non-specific symptoms ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including sore throat , cough ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "fever , rhinorrhoea , malaise , headache , and myalgia .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Respiratory viruses , alone or in combination ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "are the most common cause .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "2",
+    "segment_num": "5",
+    "token_num": "55"
+  }
+}

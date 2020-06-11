@@ -1,0 +1,93 @@
+{
+  "paper_id": "15c19f46707c28aed4ae8bdea50b835555a5e9e0",
+  "metadata": {
+    "title": "A diagnostic reasoning and optimal treatment model for bacterial infections with fuzzy information",
+    "coda_data_split": "train",
+    "coda_paper_id": 7515,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "This study proposes an optimization model for optimal treatment of bacterial infections. Using an influence diagram as the knowledge and decision model, we can conduct two kinds of reasoning simultaneously: diagnostic reasoning and treatment planning. The input information of the reasoning system are conditional probability distributions of the network model, the costs of the candidate antibiotic treatments, the expected effects of the treatments, and extra constraints regarding belief propagation. Since the prevalence of the pathogens and infections are determined by many site-by-site factors, which are not compliant with conventional approaches for approximate reasoning, we introduce fuzzy information. The output results of the reasoning model are the likelihood of a bacterial infection, the most likely pathogen(s), the suggestion of optimal treatment, the gain of life expectancy for the patient related to the optimal treatment, the probability of coverage associated with the antibiotic treatment, and the cost-effect analysis of the treatment prescribed.",
+      "sentences": [
+        [
+          {
+            "segment_text": "This study proposes an optimization model for optimal treatment of bacterial infections .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using an influence diagram as the knowledge and decision model ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we can conduct two kinds of reasoning simultaneously : diagnostic reasoning and treatment planning .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The input information of the reasoning system are conditional probability distributions of the network model ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the costs of the candidate antibiotic treatments ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the expected effects of the treatments ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and extra constraints regarding belief propagation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Since the prevalence of the pathogens and infections are determined by many site-by-site factors ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which are not compliant with conventional approaches for approximate reasoning , we introduce fuzzy information .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The output results of the reasoning model are the likelihood of a bacterial infection ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the most likely pathogen ( s ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the suggestion of optimal treatment ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the gain of life expectancy for the patient related to the optimal treatment ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the probability of coverage associated with the antibiotic treatment ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the cost-effect analysis of the treatment prescribed .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "15",
+    "token_num": "170"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "paper_id": "798a5016be0c05f728460661deff95d394346513",
+  "metadata": {
+    "title": "Slow-Binding Inhibition of Tyrosinase by Ecklonia cava Phlorotannins",
+    "coda_data_split": "train",
+    "coda_paper_id": 9854,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Tyrosinase inhibitors improve skin whitening by inhibiting the formation of melanin precursors in the skin. The inhibitory activity of seven phlorotannins (Ecklonia cava was tested against tyrosinase, which converts tyrosine into dihydroxyphenylalanine. Compounds 3 and 5 had IC 50 values of 7.0 ± 0.2 and 8.8 ± 0.1 µM, respectively, in competitive mode, with K i values of 8.2 ± 1.1 and 5.8 ± 0.8 µM. Both compounds showed the characteristics of slow-binding inhibitors over the time course of the enzyme reaction. Compound 3 had a single-step binding mechanism and compound 5 a two-step-binding mechanism. With stable AutoDock scores of −6.59 and −6.68 kcal/mol, respectively, compounds 3 and 5 both interacted with His85 and Asn260 at the active site.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Tyrosinase inhibitors improve skin whitening by inhibiting the formation of melanin precursors in the skin .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The inhibitory activity of seven phlorotannins ( Ecklonia cava was tested against tyrosinase , which converts tyrosine into dihydroxyphenylalanine .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Compounds 3 and 5 had IC 50 values of 7.0 ± 0.2 and 8.8 ± 0.1 µM ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "respectively , in competitive mode ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with K i values of 8.2 ± 1.1 and 5.8 ± 0.8 µM .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Both compounds showed the characteristics of slow-binding inhibitors over the time course of the enzyme reaction .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Compound 3 had a single-step binding mechanism and compound 5 a two-step-binding mechanism .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "With stable AutoDock scores of − 6.59 and − 6.68 kcal/mol ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "respectively , compounds 3 and 5 both interacted with His85 and Asn260 at the active site .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "9",
+    "token_num": "134"
+  }
+}

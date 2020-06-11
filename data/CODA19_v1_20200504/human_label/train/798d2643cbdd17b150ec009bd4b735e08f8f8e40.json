@@ -1,0 +1,203 @@
+{
+  "paper_id": "798d2643cbdd17b150ec009bd4b735e08f8f8e40",
+  "metadata": {
+    "title": "Structure-Based Mutations in the Herpes Simplex Virus 1 Glycoprotein B Ectodomain Arm Impart a Slow-Entry Phenotype",
+    "coda_data_split": "train",
+    "coda_paper_id": 3275,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Glycoprotein B (gB) is the conserved herpesvirus fusion protein, and it is required for the entry of herpesviruses. The structure of the postfusion conformation of gB has been solved for several herpesviruses; however, the gB prefusion crystal structure and the details of how the protein refolds from a prefusion to a postfusion form to mediate fusion have not been determined. Using structure-based mutagenesis, we previously reported that three mutations (I671A, H681A, and F683A) in the C-terminal arm of the gB ectodomain greatly reduced cell-cell fusion. This fusion deficit could be rescued by the addition of a hyperfusogenic mutation, suggesting that the gB triple mutant was not misfolded. Using a bacterial artificial chromosome (BAC), we constructed two independent herpes simplex virus 1 mutant strains (gB 3A) carrying the three arm mutations. The gB 3A viruses have 200-fold smaller plaques than the wild-type virus and demonstrate remarkably delayed entry into cells. Single-step and multistep growth curves show that gB 3A viruses have delayed replication kinetics. Interestingly, incubation at 40°C promoted the entry of the gB 3A viruses. We propose that the gB 3A viruses\u0027 entry deficit is due to a loss of interactions between residues in the gB C-terminal arm and the coiled-coil core of gB. The results suggest that the triple alanine mutation may destabilize the postfusion gB conformation and/or stabilize the prefusion gB conformation and that exposure to elevated temperatures can overcome the defect in gB 3A viruses. IMPORTANCE Because of its complexity, the mechanism of herpesvirus entry into cells is not well understood. Our study investigated one of the most important unanswered questions about herpesvirus entry; i.e., how does the herpesvirus fusion protein gB mediate membrane fusion? gB is an essential protein that is conserved in all herpesviruses and is thought to undergo a conformational change to provide the energy to fuse the viral and cellular membranes. Using our understanding of the structure of gB, we designed mutations in the gB \"arm\" region that we predicted would impede gB function. We introduced these mutations into herpes simplex virus 1 by using a bacterial artificial chromosome, and the mutant virus exhibited a drastically delayed rate of entry. This entry defect was rescued by incubation at elevated temperatures, supporting a hypothesis that the engineered mutations altered the energetics of gB refolding. This study supports our hypothesis that an interaction between the gB arm and the core of gB is critical for gB refolding and the execution of membrane fusion, thus providing key details about the function of gB in herpesvirus-mediated fusion and subsequent virus entry. H erpes simplex virus 1 (HSV-1) entry into cells and virus-induced cell-cell fusion require the coordinated action of viral entry glycoprotein D (gD), gH, gL, and gB. The binding of gD to one of several host receptors results in a conformational change Citation Fan Q, Kopp SJ, Connolly SA, Longnecker R. 2017. Structure-based mutations in the herpes simplex virus 1 glycoprotein B ectodomain arm impart a slow-entry phenotype. mBio 8:e00614-17. https://doi.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Glycoprotein B ( gB ) is the conserved herpesvirus fusion protein ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and it is required for the entry of herpesviruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The structure of the postfusion conformation of gB has been solved for several herpesviruses ; however ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the gB prefusion crystal structure and the details of how the protein refolds from a prefusion to a postfusion form to mediate fusion have not been determined .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using structure-based mutagenesis , we previously reported that three mutations ( I671A , H681A , and F683A ) in the C-terminal arm of the gB ectodomain greatly reduced cell-cell fusion .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This fusion deficit could be rescued by the addition of a hyperfusogenic mutation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "suggesting that the gB triple mutant was not misfolded .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using a bacterial artificial chromosome ( BAC ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we constructed two independent herpes simplex virus 1 mutant strains ( gB 3A ) carrying the three arm mutations .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The gB 3A viruses have 200-fold smaller plaques than the wild-type virus and demonstrate remarkably delayed entry into cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Single-step and multistep growth curves show that gB 3A viruses have delayed replication kinetics .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Interestingly , incubation at 40 °C promoted the entry of the gB 3A viruses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We propose that the gB 3A viruses \u0027 entry deficit is due to a loss of interactions between residues in the gB C-terminal arm and the coiled-coil core of gB .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results suggest that the triple alanine mutation may destabilize the postfusion gB conformation and/or stabilize the prefusion gB conformation and that exposure to elevated temperatures can overcome the defect in gB 3A viruses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "IMPORTANCE Because of its complexity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the mechanism of herpesvirus entry into cells is not well understood .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our study investigated one of the most important unanswered questions about herpesvirus entry ; i.e. ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "how does the herpesvirus fusion protein gB mediate membrane fusion ?",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "gB is an essential protein that is conserved in all herpesviruses and is thought to undergo a conformational change to provide the energy to fuse the viral and cellular membranes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using our understanding of the structure of gB ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we designed mutations in the gB `` arm \u0027\u0027 region that we predicted would impede gB function .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We introduced these mutations into herpes simplex virus 1 by using a bacterial artificial chromosome ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and the mutant virus exhibited a drastically delayed rate of entry .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This entry defect was rescued by incubation at elevated temperatures ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "supporting a hypothesis that the engineered mutations altered the energetics of gB refolding .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study supports our hypothesis that an interaction between the gB arm and the core of gB is critical for gB refolding and the execution of membrane fusion ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "thus providing key details about the function of gB in herpesvirus-mediated fusion and subsequent virus entry .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "H erpes simplex virus 1 ( HSV-1 ) entry into cells and virus-induced cell-cell fusion require the coordinated action of viral entry glycoprotein D ( gD ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "gH , gL , and gB .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The binding of gD to one of several host receptors results in a conformational change Citation Fan Q ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Kopp SJ , Connolly SA , Longnecker R. 2017 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Structure-based mutations in the herpes simplex virus 1 glycoprotein B ectodomain arm impart a slow-entry phenotype .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "mBio 8 : e00614-17 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "https://doi .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "22",
+    "segment_num": "34",
+    "token_num": "557"
+  }
+}

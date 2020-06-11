@@ -1,0 +1,294 @@
+{
+  "paper_id": "435b58b1b6b499274125be7c1b8d903fe6368959",
+  "metadata": {
+    "title": "An approach to and web-based tool for infectious disease outbreak intervention analysis OPEN",
+    "coda_data_split": "train",
+    "coda_paper_id": 5713,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Infectious diseases are a leading cause of death globally. Decisions surrounding how to control an infectious disease outbreak currently rely on a subjective process involving surveillance and expert opinion. However, there are many situations where neither may be available. Modeling can fill gaps in the decision making process by using available data to provide quantitative estimates of outbreak trajectories. Effective reduction of the spread of infectious diseases can be achieved through collaboration between the modeling community and public health policy community. However, such collaboration is rare, resulting in a lack of models that meet the needs of the public health community.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Infectious diseases are a leading cause of death globally .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Decisions surrounding how to control an infectious disease outbreak currently rely on a subjective process involving surveillance and expert opinion .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , there are many situations where neither may be available .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Modeling can fill gaps in the decision making process by using available data to provide quantitative estimates of outbreak trajectories .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Effective reduction of the spread of infectious diseases can be achieved through collaboration between the modeling community and public health policy community .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , such collaboration is rare ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "resulting in a lack of models that meet the needs of the public health community .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Here we show a Susceptible-Infectious-Recovered (SIR) model modified to include control measures that allows parameter ranges, rather than parameter point estimates, and includes a web user interface for broad adoption. We apply the model to three diseases, measles, norovirus and influenza, to show the feasibility of its use and describe a research agenda to further promote interactions between decision makers and the modeling community.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Here we show a Susceptible-Infectious-Recovered ( SIR ) model modified to include control measures that allows parameter ranges ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "rather than parameter point estimates ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and includes a web user interface for broad adoption .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We apply the model to three diseases ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "measles , norovirus and influenza ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "to show the feasibility of its use and describe a research agenda to further promote interactions between decision makers and the modeling community .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Despite substantial public health improvements in the last century, infectious diseases remain one of the leading causes of both morbidity and mortality 1,2 . When confronted with an infectious disease outbreak, public health officials typically work to control the outbreak by performing assessments, analyzing surveillance data, identifying resources and interacting with subject mater experts 2-4 . Control measures are then implemented based on the cumulative information collected. These approaches rely heavily on good surveillance systems, access to experts, and good intuition about which control measures to use. As such, they are largely subjective, time consuming, and the infrastructure required is often not present in high disease burden areas.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Despite substantial public health improvements in the last century ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "infectious diseases remain one of the leading causes of both morbidity and mortality 1,2 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "When confronted with an infectious disease outbreak ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "public health officials typically work to control the outbreak by performing assessments ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "analyzing surveillance data , identifying resources and interacting with subject mater experts 2-4 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Control measures are then implemented based on the cumulative information collected .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These approaches rely heavily on good surveillance systems ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "access to experts , and good intuition about which control measures to use .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "As such , they are largely subjective ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "time consuming , and the infrastructure required is often not present in high disease burden areas .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Modeling is an attractive supplemental method because of the ability to estimate an outbreak\u0027s trajectory and the effects of possible control measures in a timely manner. Compartmental models are historically common; they divide individuals into categories based on their disease status. The most common variant is the SIR model, named after the categories used-\"susceptible\", \"infectious\" and \"recovered\". Models of this nature have small computational requirements, and are thus commonly used as first pass attempts to characterize outbreaks or infections quickly 5 . For example, after the sudden emergence of Severe Acute Respiratory Syndrome (SARS) in the early 2000s, researchers used modeling to characterize the virus\u0027 epidemiology. Several used compartmental models with control measures like quarantine or isolation in various settings (e.g., hospitals or cities) to describe effects of possible interventions 6-9 . Similar work exists for essentially all well known infectious diseases. For example, Mandal et al. provide a review of models used for malaria 10 and Bauch et al. explore model use with respect to SARS and other emerging infectious diseases 6 . Methods among these groups are often similar, but tend to focus on specific diseases and locations of interest.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Modeling is an attractive supplemental method because of the ability to estimate an outbreak \u0027s trajectory and the effects of possible control measures in a timely manner .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Compartmental models are historically common ; they divide individuals into categories based on their disease status .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The most common variant is the SIR model ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "named after the categories used - `` susceptible \u0027\u0027 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "`` infectious \u0027\u0027 and `` recovered \u0027\u0027 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Models of this nature have small computational requirements ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and are thus commonly used as first pass attempts to characterize outbreaks or infections quickly 5 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "For example , after the sudden emergence of Severe Acute Respiratory Syndrome ( SARS ) in the early 2000s ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "researchers used modeling to characterize the virus \u0027 epidemiology .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Several used compartmental models with control measures like quarantine or isolation in various settings ( e.g. , hospitals or cities ) to describe effects of possible interventions 6-9 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Similar work exists for essentially all well known infectious diseases .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "For example , Mandal et al. provide a review of models used for malaria 10 and Bauch et al. explore model use with respect to SARS and other emerging infectious diseases 6 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Methods among these groups are often similar ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "but tend to focus on specific diseases and locations of interest .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In contrast, agent-based models use a bottom-up approach where the agents (these are often people) interact with particular rules to simulate outbreaks 11 . This allows simulations at high resolutions, but requires large amounts of data to parameterize the models, as well as substantial computational power. It is thought that they may reflect real world scenarios more accurately, but the lack of available epidemiological data necessitates assumptions that are difficult or impossible to test 11 . These models further require computational resources inaccessible to an average health department.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In contrast , agent-based models use a bottom-up approach where the agents ( these are often people ) interact with particular rules to simulate outbreaks 11 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This allows simulations at high resolutions ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but requires large amounts of data to parameterize the models ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as well as substantial computational power .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is thought that they may reflect real world scenarios more accurately ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but the lack of available epidemiological data necessitates assumptions that are difficult or impossible to test 11 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These models further require computational resources inaccessible to an average health department .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Both agent-based and compartmental models exhibit additional features that are problematic to wide-spread model adoption. The first is the focus on particular disease-location pairs. This emphasis precludes application to",
+      "sentences": [
+        [
+          {
+            "segment_text": "Both agent-based and compartmental models exhibit additional features that are problematic to wide-spread model adoption .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The first is the focus on particular disease-location pairs .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This emphasis precludes application to",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "6",
+    "sentence_num": "29",
+    "segment_num": "47",
+    "token_num": "651"
+  }
+}

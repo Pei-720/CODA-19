@@ -1,0 +1,87 @@
+{
+  "paper_id": "8cff063c436820e2c85479244dcf7b5f123d4446",
+  "metadata": {
+    "title": "A Novel Approach to Clustering Genome Sequences Using Inter-nucleotide Covariance",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1445,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Classification of DNA sequences is an important issue in the bioinformatics study, yet most existing methods for phylogenetic analysis including Multiple Sequence Alignment (MSA) are time-consuming and computationally expensive. The alignment-free methods are popular nowadays, whereas the manual intervention in those methods usually decreases the accuracy. Also, the interactions among nucleotides are neglected in most methods. Here we propose a new Accumulated Natural Vector (ANV) method which represents each DNA sequence by a point in R 18 . By calculating the Accumulated Indicator Functions of nucleotides, we can further find an Accumulated Natural Vector for each sequence. This new Accumulated Natural Vector not only can capture the distribution of each nucleotide, but also provide the covariance among nucleotides. Thus global comparison of DNA sequences or genomes can be done easily in R 18 . The tests of ANV of datasets of different sizes and types have proved the accuracy and time-efficiency of the new proposed ANV method.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Classification of DNA sequences is an important issue in the bioinformatics study ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "yet most existing methods for phylogenetic analysis including Multiple Sequence Alignment ( MSA ) are time-consuming and computationally expensive .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The alignment-free methods are popular nowadays ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "whereas the manual intervention in those methods usually decreases the accuracy .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Also , the interactions among nucleotides are neglected in most methods .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we propose a new Accumulated Natural Vector ( ANV ) method which represents each DNA sequence by a point in R 18 .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "By calculating the Accumulated Indicator Functions of nucleotides ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we can further find an Accumulated Natural Vector for each sequence .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This new Accumulated Natural Vector not only can capture the distribution of each nucleotide ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but also provide the covariance among nucleotides .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus global comparison of DNA sequences or genomes can be done easily in R 18 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The tests of ANV of datasets of different sizes and types have proved the accuracy and time-efficiency of the new proposed ANV method .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "12",
+    "token_num": "172"
+  }
+}

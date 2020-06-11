@@ -1,0 +1,115 @@
+{
+  "paper_id": "b43c0006285d8b8135a8c632176b183d3451455c",
+  "metadata": {
+    "title": "Open Peer Review identification of vaccine targets for 2019-nCoV In silico [version 1; peer review: 2 approved] , The Francis Crick v1",
+    "coda_data_split": "train",
+    "coda_paper_id": 4144,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "The newly identified coronavirus known as 2019-nCoV has Background: posed a serious global health threat. According to the latest report (18-February-2020), it has infected more than 72,000 people globally and led to deaths of more than 1,016 people in China.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The newly identified coronavirus known as 2019-nCoV has Background : posed a serious global health threat .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "According to the latest report ( 18-February-2020 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "it has infected more than 72,000 people globally and led to deaths of more than 1,016 people in China .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The 2019 novel coronavirus proteome was aligned to a curated Methods: database of viral immunogenic peptides. The immunogenicity of detected peptides and their binding potential to HLA alleles was predicted by immunogenicity predictive models and NetMHCpan 4.0.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The 2019 novel coronavirus proteome was aligned to a curated Methods : database of viral immunogenic peptides .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The immunogenicity of detected peptides and their binding potential to HLA alleles was predicted by immunogenicity predictive models and NetMHCpan 4.0 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We report identification of a comprehensive list of Results:",
+      "sentences": [
+        [
+          {
+            "segment_text": "We report identification of a comprehensive list of Results :",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "in silico immunogenic peptides that can be used as potential targets for 2019 novel coronavirus (2019-nCoV) vaccine development. First, we found 28 nCoV peptides identical to Severe acute respiratory syndrome-related coronavirus (SARS CoV) that have previously been characterized immunogenic by T cell assays. Second, we identified 48 nCoV peptides having a high degree of similarity with immunogenic peptides deposited in The Immune Epitope Database (IEDB). Lastly, we conducted a de novo search of 2019-nCoV 9-mer peptides that i) bind to common HLA alleles in Chinese and European population and ii) have T Cell Receptor (TCR) recognition potential by positional weight matrices and a recently developed immunogenicity algorithm, iPred, and identified in total 63 peptides with a high immunogenicity potential.",
+      "sentences": [
+        [
+          {
+            "segment_text": "in silico immunogenic peptides that can be used as potential targets for 2019 novel coronavirus ( 2019-nCoV ) vaccine development .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "First , we found 28 nCoV peptides identical to Severe acute respiratory syndrome-related coronavirus ( SARS CoV ) that have previously been characterized immunogenic by T cell assays .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Second , we identified 48 nCoV peptides having a high degree of similarity with immunogenic peptides deposited in The Immune Epitope Database ( IEDB ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Lastly , we conducted a de novo search of 2019-nCoV 9-mer peptides that i ) bind to common HLA alleles in Chinese and European population and ii ) have T Cell Receptor ( TCR ) recognition potential by positional weight matrices and a recently developed immunogenicity algorithm ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "iPred , and identified in total 63 peptides with a high immunogenicity potential .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Given the limited time and resources to develop vaccine and Conclusions: treatments for 2019-nCoV, our work provides a shortlist of candidates for experimental validation and thus can accelerate development pipeline.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Given the limited time and resources to develop vaccine and Conclusions : treatments for 2019-nCoV ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "our work provides a shortlist of candidates for experimental validation and thus can accelerate development pipeline .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "10",
+    "segment_num": "13",
+    "token_num": "267"
+  }
+}

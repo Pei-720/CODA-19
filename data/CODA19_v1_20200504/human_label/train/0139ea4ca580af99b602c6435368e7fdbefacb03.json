@@ -1,0 +1,150 @@
+{
+  "paper_id": "0139ea4ca580af99b602c6435368e7fdbefacb03",
+  "metadata": {
+    "title": "A Combined Evidence Approach to Prioritize Nipah Virus Inhibitors",
+    "coda_data_split": "train",
+    "coda_paper_id": 5950,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Nipah Virus (NiV) came into limelight recently due to an outbreak in Kerala, India. NiV causes severe disease and death in people with over 75% case fatality rate. It is a public health concern and has the potential to become a global pandemic. Lack of treatment has forced the containment methods to be restricted to isolation and surveillance. WHO\u0027s \u0027R\u0026D Blueprint list of priority diseases\u0027 (2018) indicates that there is an urgent need for accelerated research \u0026 development for addressing NiV.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Nipah Virus ( NiV ) came into limelight recently due to an outbreak in Kerala , India .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "NiV causes severe disease and death in people with over 75 % case fatality rate .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is a public health concern and has the potential to become a global pandemic .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Lack of treatment has forced the containment methods to be restricted to isolation and surveillance .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "WHO \u0027s ` R\u0026D Blueprint list of priority diseases \u0027 ( 2018 ) indicates that there is an urgent need for accelerated research \u0026 development for addressing NiV .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In the quest for druglike NiV inhibitors (NVIs) a thorough literature search followed by systematic data curation was conducted. Rigorous data analysis was done with curated NVIs for prioritizing druglike compounds. For the same, more than 1800 descriptors of NVIs were computed and comparative analysis was performed with the FDA approved small molecules and antivirals. These compounds were further evaluated through PAINS filter to study their toxicity profile. Simultaneously, compounds were also prioritized based on the robustness of the assays through which they were identified.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In the quest for druglike NiV inhibitors ( NVIs ) a thorough literature search followed by systematic data curation was conducted .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Rigorous data analysis was done with curated NVIs for prioritizing druglike compounds .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "For the same , more than 1800 descriptors of NVIs were computed and comparative analysis was performed with the FDA approved small molecules and antivirals .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "These compounds were further evaluated through PAINS filter to study their toxicity profile .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Simultaneously , compounds were also prioritized based on the robustness of the assays through which they were identified .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Our efforts lead to the creation of a well-curated structured knowledgebase of 182 NVIs with 98 small molecule inhibitors. The reported IC50/EC50 values for some of these inhibitors are in the nanomolar range -as low as 0.47 nM. In order to prioritize these inhibitors, we performed several tests and applied filters to identify drug-like non-toxic compounds. Of 98, a few compounds passed DruLito \u0026 PAINS filters exhibiting drug-like properties and were also prioritized in an independent screen based only the assay robustness. The NVIs have diverse structural features and offer a wide spectrum of ways in which they can be developed further as druglike molecules.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Our efforts lead to the creation of a well-curated structured knowledgebase of 182 NVIs with 98 small molecule inhibitors .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The reported IC50/EC50 values for some of these inhibitors are in the nanomolar range - as low as 0.47 nM .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In order to prioritize these inhibitors ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we performed several tests and applied filters to identify drug-like non-toxic compounds .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Of 98 , a few compounds passed DruLito \u0026 PAINS filters exhibiting drug-like properties and were also prioritized in an independent screen based only the assay robustness .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The NVIs have diverse structural features and offer a wide spectrum of ways in which they can be developed further as druglike molecules .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We report a knowledgebase for furthering the development of NVIs. The platform has a diverse set of 98 NVIs of which a few have been prioritized based on a combined evidence strategy. The platform has the provision to submit new inhibitors as and when reported by the community for further enhancement of NiV inhibitor landscape.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We report a knowledgebase for furthering the development of NVIs .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The platform has a diverse set of 98 NVIs of which a few have been prioritized based on a combined evidence strategy .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The platform has the provision to submit new inhibitors as and when reported by the community for further enhancement of NiV inhibitor landscape .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "18",
+    "segment_num": "19",
+    "token_num": "360"
+  }
+}

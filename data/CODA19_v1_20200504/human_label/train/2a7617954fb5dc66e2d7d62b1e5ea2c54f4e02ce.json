@@ -1,0 +1,159 @@
+{
+  "paper_id": "2a7617954fb5dc66e2d7d62b1e5ea2c54f4e02ce",
+  "metadata": {
+    "title": "Modulation of airway epithelial cell functions by Pidotimod: NF-kB cytoplasmatic expression and its nuclear translocation are associated with an increased TLR-2 expression",
+    "coda_data_split": "train",
+    "coda_paper_id": 5646,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Recurrent respiratory infections are one of the most important causes of morbidity in childhood. When immune functions are still largely immature, the airway epithelium plays a primary defensive role since, besides providing a physical barrier, it is also involved in the innate and the adaptive immune responses. A study was therefore designed to evaluate in vitro whether pidotimod, a synthetic dipeptide able to stimulate the inflammatory and immune effector cells, could activate bronchial epithelial cell functions involved in response to infections.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Recurrent respiratory infections are one of the most important causes of morbidity in childhood .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "When immune functions are still largely immature ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the airway epithelium plays a primary defensive role since ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "besides providing a physical barrier ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "it is also involved in the innate and the adaptive immune responses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A study was therefore designed to evaluate in vitro whether pidotimod ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "a synthetic dipeptide able to stimulate the inflammatory and immune effector cells ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "could activate bronchial epithelial cell functions involved in response to infections .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Methods: BEAS-2B cell line (human bronchial epithelial cells infected with a replication-defective Adenovirus 12-SV40 virus hybrid) were cultured in the presence of pidotimod, with or without tumor necrosis factor (TNF)-α or zymosan to assess: a) intercellular adhesion molecule (ICAM)-1 expression, by flow cytometry; b) toll-like receptor (TLR)-2 expression and production, by immunofluorescence flow cytometry and western blotting; d) interleukin (IL)-8 release, by enzyme-linked immunosorbent assay (ELISA); e) activated extracellular-signal-regulated kinase (ERK1/2) phosphorylation and nuclear factor-kappa B (NF-kB) activation, by western blotting.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Methods : BEAS-2B cell line ( human bronchial epithelial cells infected with a replication-defective Adenovirus 12-SV40 virus hybrid ) were cultured in the presence of pidotimod ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "with or without tumor necrosis factor ( TNF ) - α or zymosan to assess : a ) intercellular adhesion molecule ( ICAM ) -1 expression ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "by flow cytometry ; b ) toll-like receptor ( TLR ) -2 expression and production ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "by immunofluorescence flow cytometry and western blotting ; d ) interleukin ( IL ) -8 release ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "by enzyme-linked immunosorbent assay ( ELISA ) ; e ) activated extracellular-signal-regulated kinase ( ERK1/2 ) phosphorylation and nuclear factor-kappa B ( NF-kB ) activation , by western blotting .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The constitutive expression of ICAM-1 and IL-8 release were significant up-regulated by TNF-α (ICAM-1) and by TNF-α and zymosan (IL-8), but not by pidotimod. In contrast, an increased TLR-2 expression was found after exposure to pidotimod 10 and 100 μg/ml (p \u003c 0.05) and to the association pidotimod 100 μg/ml + TNF-α (p \u003c 0.05). Western blot analysis substantiated that the constitutive TLR-2 expression was significantly increased after exposure to all the stimuli. Finally, while a remarkable inhibition of TNF-α -induced ERK1/2 phosphorylation was observed in the presence of pidotimod, both TNF-α and pidotimod were effective in inducing NF-kB protein expression in the cytoplasm and its nuclear translocation. Conclusion: Through different effects on ERK1/2 and NF-kB, pidotimod was able to increase the expression of TLR-2 proteins, surface molecules involved in the initiation of the innate response to infectious stimuli. The lack of effect on ICAM-1 expression, the receptor for rhinovirus, and on IL-8 release, the potent chemotactic factor for neutrophils (that are already present in sites of infection), may represent protective functions. If confirmed in vivo, these activities may, at least in part, clarify the mechanism of action of this molecule at airway level.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The constitutive expression of ICAM-1 and IL-8 release were significant up-regulated by TNF-α ( ICAM-1 ) and by TNF-α and zymosan ( IL-8 ) , but not by pidotimod .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In contrast , an increased TLR-2 expression was found after exposure to pidotimod 10 and 100 μg/ml ( p \u003c 0.05 ) and to the association pidotimod 100 μg/ml + TNF-α ( p \u003c 0.05 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Western blot analysis substantiated that the constitutive TLR-2 expression was significantly increased after exposure to all the stimuli .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , while a remarkable inhibition of TNF-α - induced ERK1/2 phosphorylation was observed in the presence of pidotimod ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "both TNF-α and pidotimod were effective in inducing NF-kB protein expression in the cytoplasm and its nuclear translocation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Conclusion : Through different effects on ERK1/2 and NF-kB ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "pidotimod was able to increase the expression of TLR-2 proteins ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "surface molecules involved in the initiation of the innate response to infectious stimuli .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The lack of effect on ICAM-1 expression ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the receptor for rhinovirus , and on IL-8 release ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the potent chemotactic factor for neutrophils ( that are already present in sites of infection ) , may represent protective functions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "If confirmed in vivo , these activities may ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "at least in part , clarify the mechanism of action of this molecule at airway level .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "11",
+    "segment_num": "26",
+    "token_num": "434"
+  }
+}

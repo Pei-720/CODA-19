@@ -1,0 +1,85 @@
+{
+  "paper_id": "b623be043f394772508b1bdb70a7167f40e0df9a",
+  "metadata": {
+    "title": "Superinfection Exclusion of Vaccinia Virus in Virus-Infected Cell Cultures",
+    "coda_data_split": "train",
+    "coda_paper_id": 7998,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "BSC 40 cells do not permit the replication of superinfecting vaccinia virus. The extent of superinfecting virus propagation depends on the time of superinfection; there is 90% exclusion by 4 hr after the initial infection, and more than 99% by 6 hr. When superinfection is attempted at 6 hr after infection, the superinfecting virus is incapable of carrying out DNA replication or early gene transcription, demonstrating that an early event in the virus life cycle is inhibited. The rate of adsorption of the superinfecting virus is unaltered which shows that exclusion is affected at a point between adsorption and early gene transcription.",
+      "sentences": [
+        [
+          {
+            "segment_text": "BSC 40 cells do not permit the replication of superinfecting vaccinia virus .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The extent of superinfecting virus propagation depends on the time of superinfection ; there is 90 % exclusion by 4 hr after the initial infection ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and more than 99 % by 6 hr .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "When superinfection is attempted at 6 hr after infection ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the superinfecting virus is incapable of carrying out DNA replication or early gene transcription ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "demonstrating that an early event in the virus life cycle is inhibited .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The rate of adsorption of the superinfecting virus is unaltered which shows that exclusion is affected at a point between adsorption and early gene transcription .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In order to exclude superinfection, the primary infecting virus does not require replication of its DNA or expression of its late genes but it must express one or more early genes.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In order to exclude superinfection ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the primary infecting virus does not require replication of its DNA or expression of its late genes but it must express one or more early genes .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Press, Inc.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Press , Inc. .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "6",
+    "segment_num": "10",
+    "token_num": "149"
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "paper_id": "0234207cba8165f1e1852b92ae0fa0d9e2f870fb",
+  "metadata": {
+    "title": "Disease dynamics in a stochastic network game: a little empathy goes a long way in averting outbreaks",
+    "coda_data_split": "train",
+    "coda_paper_id": 3901,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Individuals change their behavior during an epidemic in response to whether they and/or those they interact with are healthy or sick. Healthy individuals may utilize protective measures to avoid contracting a disease. Sick individuals may utilize preemptive measures to avoid spreading a disease. Yet, in practice both protective and preemptive changes in behavior come with costs. This paper proposes a stochastic network disease game model that captures the self-interests of individuals during the spread of a susceptible-infected-susceptible disease. In this model, individuals strategically modify their behavior based on current disease conditions. These reactions influence disease spread. We show that there is a critical level of concern, i.e., empathy, by the sick individuals above which disease is eradicated rapidly. Furthermore, we find that risk averse behavior by the healthy individuals cannot eradicate the disease without the preemptive measures of the sick individuals. Empathy is more effective than risk-aversion because when infectious individuals change behavior, they reduce all of their potential infections, whereas when healthy individuals change behavior, they reduce only a small portion of potential infections. This imbalance in the role played by the response of the infected versus the susceptible individuals on disease eradication affords critical policy insights.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Individuals change their behavior during an epidemic in response to whether they and/or those they interact with are healthy or sick .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Healthy individuals may utilize protective measures to avoid contracting a disease .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Sick individuals may utilize preemptive measures to avoid spreading a disease .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Yet , in practice both protective and preemptive changes in behavior come with costs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This paper proposes a stochastic network disease game model that captures the self-interests of individuals during the spread of a susceptible-infected-susceptible disease .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this model , individuals strategically modify their behavior based on current disease conditions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "These reactions influence disease spread .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We show that there is a critical level of concern ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "i.e. , empathy , by the sick individuals above which disease is eradicated rapidly .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , we find that risk averse behavior by the healthy individuals can not eradicate the disease without the preemptive measures of the sick individuals .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Empathy is more effective than risk-aversion because when infectious individuals change behavior ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "they reduce all of their potential infections ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "whereas when healthy individuals change behavior ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "they reduce only a small portion of potential infections .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This imbalance in the role played by the response of the infected versus the susceptible individuals on disease eradication affords critical policy insights .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Infectious diseases change social interaction patterns. During the Ebola outbreak, many studies pointed to changes in social customs playing a critical role in impeding disease spread, e.g., a switch to safe burial methods from traditional ceremonial burials 1 . Similar behavioral responses played important roles in modifying disease spread in other pandemics, e.g., wearing protective masks during the SARS pandemic 2-4 , decrease in unprotected sex when STD is at high levels 5,6 or covering one\u0027s own cough and staying at home if sick during a flu pandemic 7-9 . These responses to disease prevalence can, in turn, preempt disease spread by the infected to the susceptible individuals in the population.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Infectious diseases change social interaction patterns .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "During the Ebola outbreak , many studies pointed to changes in social customs playing a critical role in impeding disease spread ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "e.g. , a switch to safe burial methods from traditional ceremonial burials 1 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Similar behavioral responses played important roles in modifying disease spread in other pandemics ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "e.g. , wearing protective masks during the SARS pandemic 2-4 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "decrease in unprotected sex when STD is at high levels 5,6 or covering one \u0027s own cough and staying at home if sick during a flu pandemic 7-9 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These responses to disease prevalence can ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "in turn , preempt disease spread by the infected to the susceptible individuals in the population .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In many infectious diseases infected and susceptible individuals have to be in close proximity for disease transmission. Accordingly, there has been a surge in interest on disease spread models in which a contact network determines the subset of individuals that can be infected by an infected individual 10-15 . These studies continue to be influential in relating network structural properties to outbreak thresholds and in revealing the limits to inferences made by models that assume homogeneous mixing.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In many infectious diseases infected and susceptible individuals have to be in close proximity for disease transmission .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Accordingly , there has been a surge in interest on disease spread models in which a contact network determines the subset of individuals that can be infected by an infected individual 10-15 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These studies continue to be influential in relating network structural properties to outbreak thresholds and in revealing the limits to inferences made by models that assume homogeneous mixing .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Beyond network structure, the rate at which individuals meet with their contacts depends on the individual preemptive measures taken during the course of a disease 16 . Consequently, a number of dynamic models have been developed to assess the effects individual preemptive measures have on infectious disease spread over networks [17] [18] [19] [20] . These models couple behavior and disease dynamics. That is, the state of the disease and the contact network determine the preemptive measures of the individuals which then affect the disease spread. Preemptive measures in these models, which are in the form of social distancing or rewiring of transmissive links, are assumed to be results of simple heuristics that approximate the decision-making of healthy individuals.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Beyond network structure , the rate at which individuals meet with their contacts depends on the individual preemptive measures taken during the course of a disease 16 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Consequently , a number of dynamic models have been developed to assess the effects individual preemptive measures have on infectious disease spread over networks ( 17 ) ( 18 ) ( 19 ) ( 20 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These models couple behavior and disease dynamics .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "That is , the state of the disease and the contact network determine the preemptive measures of the individuals which then affect the disease spread .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Preemptive measures in these models ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which are in the form of social distancing or rewiring of transmissive links ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "are assumed to be results of simple heuristics that approximate the decision-making of healthy individuals .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "23",
+    "segment_num": "33",
+    "token_num": "555"
+  }
+}

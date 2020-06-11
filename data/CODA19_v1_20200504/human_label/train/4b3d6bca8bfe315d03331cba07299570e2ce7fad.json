@@ -1,0 +1,308 @@
+{
+  "paper_id": "4b3d6bca8bfe315d03331cba07299570e2ce7fad",
+  "metadata": {
+    "title": "At the crossroads of autophagy and infection: Noncanonical roles for ATG proteins in viral replication",
+    "coda_data_split": "train",
+    "coda_paper_id": 6154,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Macroautophagy (autophagy) involves the formation of a double-membrane organelle called the autophagosome, which sequesters cytoplasmic components that are degraded upon its fusion with the lysosome (Stolz et al., 2014; Kaur and Debnath, 2015) . Studies in yeast have identified \u003e30 autophagy-related (ATG) proteins, many of which have identified mammalian orthologues. The canonical process of autophagy begins with initiation at the phagophore assembly site, mediated by the UNC51-like kinase (ULK) complex, which is composed of the ATG proteins ULK1/2, ATG13, FIP200, and ATG101. The ULK complex supports the activation of a class III phosphatidylinositol 3-kinase complex consisting of Beclin 1 (ATG6), ATG14, and VPS34 to produce phosphatidylinositol triphosphate, which serves as the initial membrane mark recognized by early autophagic effector proteins. Phagophore membrane expansion is mediated by the two ubiquitin-like conjugation systems involving multiple ATG proteins that ultimately lead to the lipidation of microtubule-associated protein 1 light chain 3 (LC3), the mammalian orthologue of ATG8. LC3 is recognized by autophagy cargo receptors that promote the selective capture and engulfment of proteins, organelles, or microbes. The closed autophagosome is then trafficked to and fuses with the lysosome to degrade its cargo (Stolz et al., 2014; Kaur and Debnath, 2015) . ATG proteins traditionally have been studied for their roles in autophagosome formation and maturation, but we have recently begun to appreciate that they may have pleiotropic roles beyond autophagy (Bestebroer et al., 2013) . In this issue, through a comprehensive functional screen for ATG proteins in the control of viral replication, Mauthe et al. highlight the importance of the nontraditional functions of ATG proteins in the host viral response.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Macroautophagy ( autophagy ) involves the formation of a double-membrane organelle called the autophagosome ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which sequesters cytoplasmic components that are degraded upon its fusion with the lysosome ( Stolz et al. , 2014 ; Kaur and Debnath , 2015 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Studies in yeast have identified \u003e 30 autophagy-related ( ATG ) proteins ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "many of which have identified mammalian orthologues .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The canonical process of autophagy begins with initiation at the phagophore assembly site ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "mediated by the UNC51-like kinase ( ULK ) complex ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which is composed of the ATG proteins ULK1/2 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "ATG13 , FIP200 , and ATG101 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The ULK complex supports the activation of a class III phosphatidylinositol 3-kinase complex consisting of Beclin 1 ( ATG6 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "ATG14 , and VPS34 to produce phosphatidylinositol triphosphate ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which serves as the initial membrane mark recognized by early autophagic effector proteins .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Phagophore membrane expansion is mediated by the two ubiquitin-like conjugation systems involving multiple ATG proteins that ultimately lead to the lipidation of microtubule-associated protein 1 light chain 3 ( LC3 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the mammalian orthologue of ATG8 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "LC3 is recognized by autophagy cargo receptors that promote the selective capture and engulfment of proteins , organelles , or microbes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The closed autophagosome is then trafficked to and fuses with the lysosome to degrade its cargo ( Stolz et al. , 2014 ; Kaur and Debnath , 2015 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "ATG proteins traditionally have been studied for their roles in autophagosome formation and maturation ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but we have recently begun to appreciate that they may have pleiotropic roles beyond autophagy ( Bestebroer et al. , 2013 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this issue , through a comprehensive functional screen for ATG proteins in the control of viral replication ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "Mauthe et al. highlight the importance of the nontraditional functions of ATG proteins in the host viral response .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In a tour-de-force study examining multiple models of viral infection, Mauthe et al. (2016) interrogated the individual roles of ATG proteins in the replication of herpes simplex virus type 1, mouse hepatitis virus (MHV), vaccinia virus (VaV), semliki forest virus, encephalomyocarditis virus, and influenza A virus. The authors generated a curated siRNA library to target all ATG proteins individually as well as functionally redundant groups concurrently to evaluate how they promote the replication of these six viruses in two model cell lines (HeLa and U2OS). Indeed, their screen reveals that unconventional functions of ATG proteins are widespread; overall, 16 out of the 44 tested ATG proteins (36%) appear to have unconventional functions. Rarely does knockdown of individual ATG genes result in concordant effects on viral replication, arguing against a general role for autophagy. Moreover, the authors fail to identify any single ATG protein that regulates viral replication in all of the tested viruses; rather, specific ATG genes influenced the replication of each virus. Remarkably, most of the ATG proteins show a beneficial role for VaV replication in U2OS cells yet negatively impact VaV replication in HeLa cells. Overall, the effect of ATG loss of function on viral replication is exquisitely ATG specific, virus specific, and cell line specific.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In a tour-de-force study examining multiple models of viral infection ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "Mauthe et al. ( 2016 ) interrogated the individual roles of ATG proteins in the replication of herpes simplex virus type 1 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "mouse hepatitis virus ( MHV ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "vaccinia virus ( VaV ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "semliki forest virus , encephalomyocarditis virus , and influenza A virus .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The authors generated a curated siRNA library to target all ATG proteins individually as well as functionally redundant groups concurrently to evaluate how they promote the replication of these six viruses in two model cell lines ( HeLa and U2OS ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Indeed , their screen reveals that unconventional functions of ATG proteins are widespread ; overall ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "16 out of the 44 tested ATG proteins ( 36 % ) appear to have unconventional functions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Rarely does knockdown of individual ATG genes result in concordant effects on viral replication ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "arguing against a general role for autophagy .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , the authors fail to identify any single ATG protein that regulates viral replication in all of the tested viruses ; rather ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "specific ATG genes influenced the replication of each virus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Remarkably , most of the ATG proteins show a beneficial role for VaV replication in U2OS cells yet negatively impact VaV replication in HeLa cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Overall , the effect of ATG loss of function on viral replication is exquisitely ATG specific ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "virus specific , and cell line specific .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "To demonstrate functions of ATG proteins independent of autophagy, the authors scrutinized ATG13 and FIP200, two ULK complex proteins that initiate formation of the autophagosome, and found that these proteins exert effects on viral replication distinct from the effects of other ULK complex components. Mauthe et al. (2016) demonstrate that depletion of ATG13 and FIP200 reduces the replication of two picornaviruses, encephalomyocarditis virus and coxsackievirus (CV) B3, whereas the other ULK complex components promote their replication. Furthermore, a principal upstream regulator of ULK complex activity, mammalian target of rapamycin complex 1, showed no changes in activity during infection or knockdown of the ULK complex components. Altogether, this evidence indicates that ATG13 and FIP200 act independently of the ULK complex to modify picornaviral replication outside the context of autophagy.",
+      "sentences": [
+        [
+          {
+            "segment_text": "To demonstrate functions of ATG proteins independent of autophagy ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "the authors scrutinized ATG13 and FIP200 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "two ULK complex proteins that initiate formation of the autophagosome ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and found that these proteins exert effects on viral replication distinct from the effects of other ULK complex components .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Mauthe et al. ( 2016 ) demonstrate that depletion of ATG13 and FIP200 reduces the replication of two picornaviruses ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "encephalomyocarditis virus and coxsackievirus ( CV ) B3 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "whereas the other ULK complex components promote their replication .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , a principal upstream regulator of ULK complex activity ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "mammalian target of rapamycin complex 1 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "showed no changes in activity during infection or knockdown of the ULK complex components .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Altogether , this evidence indicates that ATG13 and FIP200 act independently of the ULK complex to modify picornaviral replication outside the context of autophagy .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Although the precise mechanism of this unconventional function of ATG13 and FIP200 remains to be elucidated, Mauthe et al. (2016) uncovered that these proteins control viral replication as opposed to viral entry or viral translation. However, ATG13 and FIP200 do not interact with any CV proteins or affect the morphology of CV replication structures, suggesting Autophagy-related (ATG) proteins have increasingly demonstrated functions other than cellular self-eating. In this issue, Mauthe et al. (2016. J. Cell Biol. http ://dx .doi .org /10 .1083 /jcb .201602046) conduct an unbiased RNA interference screen of the ATG proteome to reveal numerous noncanonical roles for ATG proteins during viral infection.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Although the precise mechanism of this unconventional function of ATG13 and FIP200 remains to be elucidated ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "Mauthe et al. ( 2016 ) uncovered that these proteins control viral replication as opposed to viral entry or viral translation .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , ATG13 and FIP200 do not interact with any CV proteins or affect the morphology of CV replication structures ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "suggesting Autophagy-related ( ATG ) proteins have increasingly demonstrated functions other than cellular self-eating .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this issue , Mauthe et al. ( 2016 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "J. Cell Biol .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "http : / / dx .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "doi .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "org / 10 .1083 / jcb .201602046 ) conduct an unbiased RNA interference screen of the ATG proteome to reveal numerous noncanonical roles for ATG proteins during viral infection .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "27",
+    "segment_num": "54",
+    "token_num": "828"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "paper_id": "0c3ceccabeff0296e424a649fe5931a1671f9905",
+  "metadata": {
+    "title": "A host gene expression approach for identifying triggers of asthma exacerbations",
+    "coda_data_split": "test",
+    "coda_paper_id": 358,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Asthma exacerbations often occur due to infectious triggers, but determining whether infection is present and whether it is bacterial or viral remains clinically challenging. A diagnostic strategy that clarifies these uncertainties could enable personalized asthma treatment and mitigate antibiotic overuse.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Asthma exacerbations often occur due to infectious triggers ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but determining whether infection is present and whether it is bacterial or viral remains clinically challenging .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A diagnostic strategy that clarifies these uncertainties could enable personalized asthma treatment and mitigate antibiotic overuse .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "To explore the performance of validated peripheral blood gene expression signatures in discriminating bacterial, viral, and noninfectious triggers in subjects with asthma exacerbations.",
+      "sentences": [
+        [
+          {
+            "segment_text": "To explore the performance of validated peripheral blood gene expression signatures in discriminating bacterial ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "viral , and noninfectious triggers in subjects with asthma exacerbations .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Subjects with suspected asthma exacerbations of various etiologies were retrospectively selected for peripheral blood gene expression analysis from a pool of subjects previously enrolled in emergency departments with acute respiratory illness. RT-PCR quantified 87 gene targets, selected from microarray-based studies, followed by logistic regression modeling to define bacterial, viral, or noninfectious class. The model-predicted class was compared to clinical adjudication and procalcitonin.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Subjects with suspected asthma exacerbations of various etiologies were retrospectively selected for peripheral blood gene expression analysis from a pool of subjects previously enrolled in emergency departments with acute respiratory illness .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "RT-PCR quantified 87 gene targets ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "selected from microarray-based studies , followed by logistic regression modeling to define bacterial ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "viral , or noninfectious class .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The model-predicted class was compared to clinical adjudication and procalcitonin .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Of 46 subjects enrolled, 7 were clinically adjudicated as bacterial, 18 as viral, and 21 as noninfectious. Model prediction was congruent with clinical adjudication in 15/18 viral and 13/21 noninfectious cases, but only 1/7 bacterial cases. None of the adjudicated bacterial cases had confirmatory microbiology; the precise etiology in this group was uncertain. Procalcitonin classified only one subject in the cohort as bacterial. 47.8% of subjects received antibiotics.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Of 46 subjects enrolled , 7 were clinically adjudicated as bacterial ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "18 as viral , and 21 as noninfectious .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Model prediction was congruent with clinical adjudication in 15/18 viral and 13/21 noninfectious cases ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "but only 1/7 bacterial cases .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "None of the adjudicated bacterial cases had confirmatory microbiology ; the precise etiology in this group was uncertain .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Procalcitonin classified only one subject in the cohort as bacterial .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "47.8 % of subjects received antibiotics .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "11",
+    "segment_num": "17",
+    "token_num": "217"
+  }
+}

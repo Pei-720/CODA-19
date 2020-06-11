@@ -1,0 +1,390 @@
+{
+  "paper_id": "ddefea974fdb2730133e762ece41335b3d3cb94d",
+  "metadata": {
+    "title": "Global dynamics of a general vector-borne disease model with two",
+    "coda_data_split": "train",
+    "coda_paper_id": 10839,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "1 transmission routes 2 Sk Shahid Nadim a , Indrajit Ghosh 1a , Joydev Chattopadhyay a 3 Abstract 5",
+      "sentences": [
+        [
+          {
+            "segment_text": "1 transmission routes 2 Sk Shahid Nadim a ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "Indrajit Ghosh 1a , Joydev Chattopadhyay a 3 Abstract 5",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In this paper, we study the dynamics of a vector-borne disease model with two transmission paths: direct transmission through contact and indirect transmission through vector. The direct transmission is considered to be a non-monotone incidence function to describe the psychological effect of some severe diseases among the population when the number of infected hosts is large and/or the disease possesses high case fatality rate. The system has a disease-free equilibrium which is locally asymptomatically stable when the basic reproduction number (R 0 ) is less than unity and may have up to four endemic equilibria. Analytical expression representing the epidemic growth rate is obtained for the system. Sensitivity of the two transmission pathways were compared with respect to the epidemic growth rate. We numerically find that the direct transmission coefficient is more sensitive than the indirect transmission coefficient with respect to R 0 and the epidemic growth rate. Local stability of endemic equilibria is studied. Further, the global asymptotic stability of the endemic equilibrium is proved using Li and Muldowney geometric approach. The explicit condition for which the system undergoes backward bifurcation is obtained. The basic model also exhibits the hysteresis phenomenon which implies diseases will persist even when R 0 \u003c 1 although the system undergoes a forward bifurcation and this phenomenon is rarely observed in disease models. Consequently, our analysis suggests that the diseases with multiple transmission routes exhibit bi-stable dynamics. However, efficient application of temporary control in bi-stable regions will curb the disease to lower endemicity. In addition, increase in transmission heterogeneity will increase the chance of disease eradication. 7 12 directly by person-to-person contact and indirectly through a vector. Understanding the transmission 13 dynamics of such diseases is of utmost interest. Mathematical models of epidemic diseases have been 14 very insightful in uncovering epidemiology and transmission patterns of the diseases. It is very important 15 to understand such epidemic patterns for better public health interventions and control of outbreaks. 16 Another important objective of these models is to inform public health organizations about the effect of 17 control policies on a certain population. However, hosts behaviour and psychological factors are some-18 times the main drivers of further transmission of the disease. For example, the epidemic outbreak of 19 severe acute respiratory syndrome (SARS) (3; 4) had such psychological effects and individual protection 20 1 doi: bioRxiv preprint 32 However, the dynamics of an epidemic model with two transmission routes where the direct trans-33 mission incorporates psychological effect has not been studied so far. The ongoing MERS-CoV epidemic 34 and zika virus epidemic are examples of diseases with two routes of transmission having psychological 35 effects. The psychosocial implication on the disease outbreak is more dangerous than any other phys-36 ical effect. West Nile Virus outbreak in the US is a good example for the onset of psychogenic illness 37 (10) and may generate mistrust towards national or health authorities. For example, the mild effects 38 of Zika virus, there is a correlation between psychosis with fetus microcephaly where pregnant women 39",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this paper , we study the dynamics of a vector-borne disease model with two transmission paths : direct transmission through contact and indirect transmission through vector .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The direct transmission is considered to be a non-monotone incidence function to describe the psychological effect of some severe diseases among the population when the number of infected hosts is large and/or the disease possesses high case fatality rate .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The system has a disease-free equilibrium which is locally asymptomatically stable when the basic reproduction number ( R 0 ) is less than unity and may have up to four endemic equilibria .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Analytical expression representing the epidemic growth rate is obtained for the system .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Sensitivity of the two transmission pathways were compared with respect to the epidemic growth rate .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We numerically find that the direct transmission coefficient is more sensitive than the indirect transmission coefficient with respect to R 0 and the epidemic growth rate .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Local stability of endemic equilibria is studied .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Further , the global asymptotic stability of the endemic equilibrium is proved using Li and Muldowney geometric approach .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The explicit condition for which the system undergoes backward bifurcation is obtained .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The basic model also exhibits the hysteresis phenomenon which implies diseases will persist even when R 0 \u003c 1 although the system undergoes a forward bifurcation and this phenomenon is rarely observed in disease models .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Consequently , our analysis suggests that the diseases with multiple transmission routes exhibit bi-stable dynamics .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , efficient application of temporary control in bi-stable regions will curb the disease to lower endemicity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , increase in transmission heterogeneity will increase the chance of disease eradication .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "7 12 directly by person-to-person contact and indirectly through a vector .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Understanding the transmission 13 dynamics of such diseases is of utmost interest .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Mathematical models of epidemic diseases have been 14 very insightful in uncovering epidemiology and transmission patterns of the diseases .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is very important 15 to understand such epidemic patterns for better public health interventions and control of outbreaks .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "16 Another important objective of these models is to inform public health organizations about the effect of 17 control policies on a certain population .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , hosts behaviour and psychological factors are some-18 times the main drivers of further transmission of the disease .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "For example , the epidemic outbreak of 19 severe acute respiratory syndrome ( SARS ) ( 3 ; 4 ) had such psychological effects and individual protection 20 1 doi : bioRxiv preprint 32 However ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the dynamics of an epidemic model with two transmission routes where the direct trans-33 mission incorporates psychological effect has not been studied so far .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The ongoing MERS-CoV epidemic 34 and zika virus epidemic are examples of diseases with two routes of transmission having psychological 35 effects .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The psychosocial implication on the disease outbreak is more dangerous than any other phys-36 ical effect .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "West Nile Virus outbreak in the US is a good example for the onset of psychogenic illness 37 ( 10 ) and may generate mistrust towards national or health authorities .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "For example , the mild effects 38 of Zika virus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "there is a correlation between psychosis with fetus microcephaly where pregnant women 39",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "and their relatives are highly sensitive group. Therefore, there is a negative correlation between the 40 psychological effect and disease prevalence and hence we consider non-monotone incidence function i.e 41 p \u003c q to describe the direct transmission between hosts in our study. This type of function can be used 42 to interpret the \"psychological effects\" (11). We use the incidence rate g(I)S \u003d βIS 1+αI 2 where βI repre-43 sent the force of infection of the diseases, 1 1+αI 2 represent the psychological effect from the behavioral 44 changes of susceptible population when the number of infected populations increases. Our goal is to 45 develop a simple mathematical model that capture a range of disease dynamics with multiple mode of 46 transmissions. Moreover, we would like to perform a detailed stability and bifurcation analysis of the 47 proposed model. By using analytical methods we intend to uncover the dynamical properties of the 48 diseases with two routes of transmission.",
+      "sentences": [
+        [
+          {
+            "segment_text": "and their relatives are highly sensitive group .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Therefore , there is a negative correlation between the 40 psychological effect and disease prevalence and hence we consider non-monotone incidence function i.e 41 p \u003c q to describe the direct transmission between hosts in our study .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This type of function can be used 42 to interpret the `` psychological effects \u0027\u0027 ( 11 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We use the incidence rate g ( I ) S \u003d βIS 1 + αI 2 where βI repre-43 sent the force of infection of the diseases ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "1 1 + αI 2 represent the psychological effect from the behavioral 44 changes of susceptible population when the number of infected populations increases .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our goal is to 45 develop a simple mathematical model that capture a range of disease dynamics with multiple mode of 46 transmissions .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , we would like to perform a detailed stability and bifurcation analysis of the 47 proposed model .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "By using analytical methods we intend to uncover the dynamical properties of the 48 diseases with two routes of transmission .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The rest of the paper is organized as follows: Section 2 consist of the model formulation and the 50 basic assumptions. In Section 3, preliminary mathematical analysis of the proposed model is carried out.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The rest of the paper is organized as follows : Section 2 consist of the model formulation and the 50 basic assumptions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In Section 3 , preliminary mathematical analysis of the proposed model is carried out .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Section 4 is devoted to the global stability of the endemic equilibrium using geometric approach while 52 in Section 5 backward bifurcation and forward bifurcation with hysteresis effect is presented. In Section 53 6 we investigate some numerical scenarios such as effect of temporary control on bistable dynamics, 54 effect of the strength of psychological fear and impact of heterogeneity in indirect transmission. Finally, 55 discussion and conclusion is presented in Section 7. 56 2. Model formulation 57 We consider two population groups as host and vector population. Time-dependent state variables 58 are taken to describe the compartments of the two populations. Let at time t, N h (t) represents total 59 host population and N v (t) represents total vector population. We consider a \u0027SIR\u0027 type model for the 60 host population and a \u0027SI\u0027 type model for the vectors. The host population is subdivided into three 61 mutually disjoint classes: susceptible, S h ; infected, I h ; recovered, R h . Thus, at any time t, the size of 62 the host population is given by N h \u003d S h + I h + R h . The vector population consist of two classes namely, 63 susceptible vectors, S v ; and infected vectors, I v . With this division, the size of the vector population 64 2 . CC-BY 4.0 The basic reproduction number, R 0 , is the number of secondary infections which one infected indi-102 vidual would produce in a entirely susceptible population. The disease free equilibrium (DFE) of the 103 system is given by Y 0 \u003d ( Π h µ h , 0, 0, Πv µv , 0). There are two infected compartments in the model (2.1), I h 104",
+      "sentences": [
+        [
+          {
+            "segment_text": "Section 4 is devoted to the global stability of the endemic equilibrium using geometric approach while 52 in Section 5 backward bifurcation and forward bifurcation with hysteresis effect is presented .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In Section 53 6 we investigate some numerical scenarios such as effect of temporary control on bistable dynamics ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "54 effect of the strength of psychological fear and impact of heterogeneity in indirect transmission .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , 55 discussion and conclusion is presented in Section 7 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "56 2 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Model formulation 57 We consider two population groups as host and vector population .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Time-dependent state variables 58 are taken to describe the compartments of the two populations .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Let at time t , N h ( t ) represents total 59 host population and N v ( t ) represents total vector population .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We consider a ` SIR \u0027 type model for the 60 host population and a ` SI \u0027 type model for the vectors .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The host population is subdivided into three 61 mutually disjoint classes : susceptible ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "S h ; infected , I h ; recovered , R h .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , at any time t ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the size of 62 the host population is given by N h \u003d S h + I h + R h .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The vector population consist of two classes namely ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "63 susceptible vectors , S v ; and infected vectors , I v .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "With this division , the size of the vector population 64 2 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "CC-BY 4.0 The basic reproduction number ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "R 0 , is the number of secondary infections which one infected indi-102 vidual would produce in a entirely susceptible population .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The disease free equilibrium ( DFE ) of the 103 system is given by Y 0 \u003d ( Π h µ h , 0 , 0 , Πv µv , 0 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "There are two infected compartments in the model ( 2.1 ) , I h 104",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "and I v . R 0 can be derived from the jacobian matrix of the system (2.1) calculated at Y 0 together with 105 the assumption of local asymptotic stability of Y 0 and is given by",
+      "sentences": [
+        [
+          {
+            "segment_text": "and I v .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "R 0 can be derived from the jacobian matrix of the system ( 2.1 ) calculated at Y 0 together with 105 the assumption of local asymptotic stability of Y 0 and is given by",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "6",
+    "sentence_num": "51",
+    "segment_num": "60",
+    "token_num": "1155"
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "paper_id": "a3e891f9198498d2b2a11a03784a44d190d04fff",
+  "metadata": {
+    "title": "Estimation with Right-Censored Observations Under A Semi- Markov Model",
+    "coda_data_split": "train",
+    "coda_paper_id": 4118,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The semi-Markov process often provides a better framework than the classical Markov process for the analysis of events with multiple states. The purpose of this paper is twofold. First, we show that in the presence of right censoring, when the right end-point of the support of the censoring time is strictly less than the right end-point of the support of the semi-Markov kernel, the transition probability of the semi-Markov process is nonidentifiable, and the estimators proposed in the literature are inconsistent in general. We derive the set of all attainable values for the transition probability based on the censored data, and we propose a nonparametric inference procedure for the transition probability using this set. Second, the conventional approach to constructing confidence bands is not applicable for the semi-Markov kernel and the sojourn time distribution. We propose new perturbation resampling methods to construct these confidence bands. Different weights and transformations are explored in the construction. We use simulation to examine our proposals and illustrate them with hospitalization data from a recent cancer survivor study.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The semi-Markov process often provides a better framework than the classical Markov process for the analysis of events with multiple states .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The purpose of this paper is twofold .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "First , we show that in the presence of right censoring ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "when the right end-point of the support of the censoring time is strictly less than the right end-point of the support of the semi-Markov kernel ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "the transition probability of the semi-Markov process is nonidentifiable ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and the estimators proposed in the literature are inconsistent in general .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We derive the set of all attainable values for the transition probability based on the censored data ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and we propose a nonparametric inference procedure for the transition probability using this set .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Second , the conventional approach to constructing confidence bands is not applicable for the semi-Markov kernel and the sojourn time distribution .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We propose new perturbation resampling methods to construct these confidence bands .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Different weights and transformations are explored in the construction .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We use simulation to examine our proposals and illustrate them with hospitalization data from a recent cancer survivor study .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Multi-state stochastic processes provide a convenient framework for the analysis of event history data (Andersen et al., 1993; Commenges, 1999; Andersen and Keiding, 2002) . The semi-Markov model is a generalization of the classical homogeneous Markov model. It is preferred in many practical applications because it accommodates the dependence of transitions between states on the state durations (Andersen, Esbjerg, and Sorensen, 2000; Kang and Lagakos, 2007) .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Multi-state stochastic processes provide a convenient framework for the analysis of event history data ( Andersen et al. , 1993 ; Commenges , 1999 ; Andersen and Keiding , 2002 ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The semi-Markov model is a generalization of the classical homogeneous Markov model .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is preferred in many practical applications because it accommodates the dependence of transitions between states on the state durations ( Andersen , Esbjerg , and Sorensen , 2000 ; Kang and Lagakos , 2007 ) .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Suppose {S(t):t ≥ 0} is a finite-state stochastic process with state space ℰ \u003d {1,…, r}. Denote its sequence of consecutive states by {J m :m \u003d 0, 1, 2,…}, and let the corresponding transition times be {T m :m \u003d 0, 1,…}. Without loss of generality, we assume T 0 \u003d 0. Let X m \u003d T m − T m−1 be the sojourn time of the mth transition. Then {S(t):t ≥ 0} is a homogeneous",
+      "sentences": [
+        [
+          {
+            "segment_text": "Suppose ( S ( t ) : t ≥ 0 ) is a finite-state stochastic process with state space ℰ \u003d ( 1 , ... , r ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Denote its sequence of consecutive states by ( J m : m \u003d 0 , 1 , 2 , ... ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and let the corresponding transition times be ( T m : m \u003d 0 , 1 , ... ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Without loss of generality , we assume T 0 \u003d 0 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Let X m \u003d T m − T m − 1 be the sojourn time of the mth transition .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Then ( S ( t ) : t ≥ 0 ) is a homogeneous",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "16",
+    "segment_num": "21",
+    "token_num": "386"
+  }
+}

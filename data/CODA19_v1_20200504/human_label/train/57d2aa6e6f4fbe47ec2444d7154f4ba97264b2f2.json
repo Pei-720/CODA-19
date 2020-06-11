@@ -1,0 +1,65 @@
+{
+  "paper_id": "57d2aa6e6f4fbe47ec2444d7154f4ba97264b2f2",
+  "metadata": {
+    "title": "Temperature Sensing Using Red Fluorescent Protein",
+    "coda_data_split": "train",
+    "coda_paper_id": 3876,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Genetically encoded fluorescent proteins are extensively utilized for labeling and imaging proteins, organelles, cell tissues, and whole organisms. In this study, we explored the feasibility of mRFP1 and its variants for measuring intracellular temperature. A linear relationship was observed between the temperature and fluorescence intensity of mRFP1 and its variants. Temperature sensitivities of E. coli expressing mRFP1, mRFP-P63A and mRFP-P63A[(4R)-FP] were -1.27%, -1.26% and -0.77%/°C, respectively. Finally, we demonstrated the potentiality of mRFP1 and its variants as an in vivo temperature sensor.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Genetically encoded fluorescent proteins are extensively utilized for labeling and imaging proteins ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "organelles , cell tissues , and whole organisms .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we explored the feasibility of mRFP1 and its variants for measuring intracellular temperature .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "A linear relationship was observed between the temperature and fluorescence intensity of mRFP1 and its variants .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Temperature sensitivities of E. coli expressing mRFP1 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "mRFP-P63A and mRFP-P63A ( ( 4R ) - FP ) were -1.27 % ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "-1.26 % and -0.77 % / °C , respectively .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , we demonstrated the potentiality of mRFP1 and its variants as an in vivo temperature sensor .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "8",
+    "token_num": "107"
+  }
+}

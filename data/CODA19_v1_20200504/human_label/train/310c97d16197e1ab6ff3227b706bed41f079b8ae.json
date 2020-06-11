@@ -1,0 +1,247 @@
+{
+  "paper_id": "310c97d16197e1ab6ff3227b706bed41f079b8ae",
+  "metadata": {
+    "title": "CD206 + tumor-associated macrophages promote proliferation and invasion in oral squamous cell carcinoma via eGf production",
+    "coda_data_split": "train",
+    "coda_paper_id": 2696,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "However, the role of these tAM subsets in oral squamous cell carcinoma (oScc) remains unclear. Here we investigated the expression and function of tAM subsets in oScc, especially in cancer cell proliferation. Biopsy sample from 44 patients with OSCC were examined for the expression of TAM markers and eGf by immunohistochemistry. eGf production of tAM subsets isolated from oScc patients was assessed by flow cytometry. We also examined the effect of conditioned medium from TAM subsets on the proliferation of OSCC cells. CD163 + cells were detected diffusely all over the tumor and connective tissue area, while CD204 + and CD206 + cells were mainly detected in/around the tumors. Flow cytometric analysis found that CD206 + TAMs strongly produced EGF compared with CD163 + and CD204 + tAMs. cell proliferation and invasion of oScc cells cultured with conditioned medium of CD206 + TAMs were strongly enhanced and inhibited by anti-EGFR. The number of CD206 + tAMs positively correlated with worse clinical prognosis. Our results revealed differences in localization and EGF production among these TAM subsets. CD206 + tAMs might play a critical role in the proliferation of oScc via eGf production.",
+      "sentences": [
+        [
+          {
+            "segment_text": "However , the role of these tAM subsets in oral squamous cell carcinoma ( oScc ) remains unclear .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we investigated the expression and function of tAM subsets in oScc ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "especially in cancer cell proliferation .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Biopsy sample from 44 patients with OSCC were examined for the expression of TAM markers and eGf by immunohistochemistry .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "eGf production of tAM subsets isolated from oScc patients was assessed by flow cytometry .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also examined the effect of conditioned medium from TAM subsets on the proliferation of OSCC cells .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "CD163 + cells were detected diffusely all over the tumor and connective tissue area ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while CD204 + and CD206 + cells were mainly detected in/around the tumors .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Flow cytometric analysis found that CD206 + TAMs strongly produced EGF compared with CD163 + and CD204 + tAMs .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "cell proliferation and invasion of oScc cells cultured with conditioned medium of CD206 + TAMs were strongly enhanced and inhibited by anti-EGFR .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The number of CD206 + tAMs positively correlated with worse clinical prognosis .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our results revealed differences in localization and EGF production among these TAM subsets .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "CD206 + tAMs might play a critical role in the proliferation of oScc via eGf production .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Oral squamous cell carcinoma (OSCC) is a tumor of the oral cavity epithelial in origin that affects more than 400,000 people per year worldwide. The mortality rate has not been improved over decades, and the 5 year survival rate is under 70% 1 . Tumor microenvironments comprise cancer cells and various normal cells including immune, inflammatory, and stromal cells 2-4 . Several studies indicated that M2 macrophages infiltrate into the tumor microenvironment and promote tumor immunosuppression, cancer progression, angiogenesis, invasion and metastasis. This phenotype of macrophage called tumor-associated macrophage 5-7 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "Oral squamous cell carcinoma ( OSCC ) is a tumor of the oral cavity epithelial in origin that affects more than 400,000 people per year worldwide .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The mortality rate has not been improved over decades ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and the 5 year survival rate is under 70 % 1 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Tumor microenvironments comprise cancer cells and various normal cells including immune ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "inflammatory , and stromal cells 2-4 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Several studies indicated that M2 macrophages infiltrate into the tumor microenvironment and promote tumor immunosuppression ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "cancer progression , angiogenesis , invasion and metastasis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This phenotype of macrophage called tumor-associated macrophage 5-7 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "CD163-, CD204-, and CD206-positive macrophages are significantly associated with poor prognosis, pTNM staging and lymph node metastasis in lung cancer 8-10 , and thus CD163, CD204, and CD206 are considered as useful markers for activation of TAMs. CD163 is a hemoglobin scavenger receptor that is specifically expressed in the monocyte-macrophage system. Recently, it has been found that soluble CD163 also may be a potential diagnostic parameter for monitoring the activity of macrophage in inflammatory diseases 11 . CD204 is a Class A scavenger receptor that is involved in the pathogenesis of atherosclerosis and the pattern recognition of pathogen www.nature.com/scientificreports www.nature.com/scientificreports/ infection 12 . CD206 is a macrophage mannose receptor 1 that is strongly expressed in prostate adenocarcinoma, and the number of CD206-positive TAM was correlated with poor prognosis of the disease 13 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "CD163 - , CD204 - ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and CD206-positive macrophages are significantly associated with poor prognosis ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "pTNM staging and lymph node metastasis in lung cancer 8-10 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and thus CD163 , CD204 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and CD206 are considered as useful markers for activation of TAMs .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "CD163 is a hemoglobin scavenger receptor that is specifically expressed in the monocyte-macrophage system .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recently , it has been found that soluble CD163 also may be a potential diagnostic parameter for monitoring the activity of macrophage in inflammatory diseases 11 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "CD204 is a Class A scavenger receptor that is involved in the pathogenesis of atherosclerosis and the pattern recognition of pathogen www.nature.com/scientificreports www.nature.com/scientificreports/ infection 12 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "CD206 is a macrophage mannose receptor 1 that is strongly expressed in prostate adenocarcinoma ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and the number of CD206-positive TAM was correlated with poor prognosis of the disease 13 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "TAMs secrete extensive amounts of proangiogenic growth factors including epidermal growth factor (EGF) are considered as the most potent source of EGF in tumor microenvironment 14, 15 . EGF acts as a chemotactic factor in the tumor microenvironment and promotes the motility and invasion of tumor cells, consequently accelerating metastasis 16, 17 . EGF was also shown to promote cancer cell proliferation in cultured breast cancer cells 18 .",
+      "sentences": [
+        [
+          {
+            "segment_text": "TAMs secrete extensive amounts of proangiogenic growth factors including epidermal growth factor ( EGF ) are considered as the most potent source of EGF in tumor microenvironment 14 , 15 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "EGF acts as a chemotactic factor in the tumor microenvironment and promotes the motility and invasion of tumor cells ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "consequently accelerating metastasis 16 , 17 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "EGF was also shown to promote cancer cell proliferation in cultured breast cancer cells 18 .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In this study, we investigated the expressions of CD163 + , CD204 + , and CD206 + TAMs in OSCC and their association with clinical outcomes. We also examined the levels of EGF production by each TAM subset and the effects of the proliferation of OSCC cells.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this study , we investigated the expressions of CD163 + ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "CD204 + , and CD206 + TAMs in OSCC and their association with clinical outcomes .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also examined the levels of EGF production by each TAM subset and the effects of the proliferation of OSCC cells .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "26",
+    "segment_num": "38",
+    "token_num": "577"
+  }
+}

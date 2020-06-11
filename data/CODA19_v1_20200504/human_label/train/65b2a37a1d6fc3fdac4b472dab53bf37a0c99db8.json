@@ -1,0 +1,85 @@
+{
+  "paper_id": "65b2a37a1d6fc3fdac4b472dab53bf37a0c99db8",
+  "metadata": {
+    "title": "Identification of a Mimotope Peptide Bound to the SARS-CoV Spike Protein Specific Monoclonal Antibody 2C5 with Phage-displayed Peptide Library",
+    "coda_data_split": "train",
+    "coda_paper_id": 7586,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "This article aims to identify the epitope corresponding to SARS-CoV spike protein specific neutralizing monoclonal antibody (MAb) 2C5. The antibody was used as the target and three rounds of bio-panning were conducted with a phage-displayed peptide library. After the third panning, 20 phage-plaque clones were randomly picked and analyzed for the binding ability with the MAb 2C5 by ELISA. The displayed sequence analysis demonstrated that among the 20 phage clones, eight clones displayed the same seven-peptide TPEQQFT. All these eight phage-clones showed strongest binding activity with 2C5 in the phage ELISA analysis.",
+      "sentences": [
+        [
+          {
+            "segment_text": "This article aims to identify the epitope corresponding to SARS-CoV spike protein specific neutralizing monoclonal antibody ( MAb ) 2C5 .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The antibody was used as the target and three rounds of bio-panning were conducted with a phage-displayed peptide library .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "After the third panning , 20 phage-plaque clones were randomly picked and analyzed for the binding ability with the MAb 2C5 by ELISA .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The displayed sequence analysis demonstrated that among the 20 phage clones ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "eight clones displayed the same seven-peptide TPEQQFT .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "All these eight phage-clones showed strongest binding activity with 2C5 in the phage ELISA analysis .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Furthermore, phages displaying peptide TPEQQFT could specifically inhibit the binding of MAb 2C5 with SARS-CoV spike protein.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Furthermore , phages displaying peptide TPEQQFT could specifically inhibit the binding of MAb 2C5 with SARS-CoV spike protein .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The results demonstrated that TPEQQFT is a mimic epitope peptide containing neutralizing MAb 2C5. This study may provide information for further structural and functional analyses of spike protein and vaccine development for severe acute respiratory syndrome.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The results demonstrated that TPEQQFT is a mimic epitope peptide containing neutralizing MAb 2C5 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study may provide information for further structural and functional analyses of spike protein and vaccine development for severe acute respiratory syndrome .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "8",
+    "segment_num": "9",
+    "token_num": "158"
+  }
+}

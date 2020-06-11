@@ -1,0 +1,84 @@
+{
+  "paper_id": "5d05c05e4c39296c7c4282c82f9f33929418bf86",
+  "metadata": {
+    "title": "Topological data analysis to model the shape of immune responses during co-infections",
+    "coda_data_split": "train",
+    "coda_paper_id": 7849,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Co-infections by multiple pathogens have important implications in many aspects of health, epidemiology and evolution. However, how to disentangle the non-linear dynamics of the immune response when two infections take place at the same time is largely unexplored. Using data sets of the immune response during influenza-pneumococcal coinfection in mice, we employ here topological data analysis to simplify and visualise high dimensional data sets.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Co-infections by multiple pathogens have important implications in many aspects of health , epidemiology and evolution .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , how to disentangle the non-linear dynamics of the immune response when two infections take place at the same time is largely unexplored .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using data sets of the immune response during influenza-pneumococcal coinfection in mice ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we employ here topological data analysis to simplify and visualise high dimensional data sets .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We identified persistent shapes of the simplicial complexes of the data in the three infection scenarios: single viral infection, single bacterial infection, and co-infection. The immune response was found to be distinct for each of the infection scenarios and we uncovered that the immune response during the co-infection has three phases and two transition points. During the first phase, its dynamics is inherited from its response to the primary (viral) infection. The immune response has an early shift (few hours post coinfection) and then modulates its response to react against the secondary (bacterial) infection. Between 18 and 26 h post co-infection the nature of the immune response changes again and does no longer resembles either of the single infection scenarios.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We identified persistent shapes of the simplicial complexes of the data in the three infection scenarios : single viral infection ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "single bacterial infection , and co-infection .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The immune response was found to be distinct for each of the infection scenarios and we uncovered that the immune response during the co-infection has three phases and two transition points .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "During the first phase , its dynamics is inherited from its response to the primary ( viral ) infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The immune response has an early shift ( few hours post coinfection ) and then modulates its response to react against the secondary ( bacterial ) infection .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Between 18 and 26 h post co-infection the nature of the immune response changes again and does no longer resembles either of the single infection scenarios .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "8",
+    "segment_num": "10",
+    "token_num": "205"
+  }
+}

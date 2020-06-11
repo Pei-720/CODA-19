@@ -1,0 +1,111 @@
+{
+  "paper_id": "4fb4cc5ef64acc5906187263078847a1f198fefd",
+  "metadata": {
+    "title": "Web-based forecasting system for the airborne spread of livestock infectious disease using computational fluid dynamics",
+    "coda_data_split": "train",
+    "coda_paper_id": 9337,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Foot-and-mouth disease GIS OpenFOAM Livestock infectious diseases, such as foot-and-mouth disease (FMD), cause substantial economic damage to livestock farms and their related industries. Among various causes of disease spread, airborne dispersion has previously been considered to be an important factor that could not be controlled by preventive measures to stop the spread of disease that focus on direct and indirect contact. Forecasting and predicting airborne virus spread are important to make time for developing strategies and to minimise the damage of the disease. To predict the airborne spread of the disease a modelling approach is important since field experiments using sensors are ineffective because of the rarefied concentrations of virus in the air. The simulation of airborne spread during past outbreaks required improvement both for farmers and for policy decision makers. In this study a free license computational fluid dynamics (CFD) code was used to simulate airborne virus spread.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Foot-and-mouth disease GIS OpenFOAM Livestock infectious diseases ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as foot-and-mouth disease ( FMD ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "cause substantial economic damage to livestock farms and their related industries .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Among various causes of disease spread ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "airborne dispersion has previously been considered to be an important factor that could not be controlled by preventive measures to stop the spread of disease that focus on direct and indirect contact .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Forecasting and predicting airborne virus spread are important to make time for developing strategies and to minimise the damage of the disease .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To predict the airborne spread of the disease a modelling approach is important since field experiments using sensors are ineffective because of the rarefied concentrations of virus in the air .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The simulation of airborne spread during past outbreaks required improvement both for farmers and for policy decision makers .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study a free license computational fluid dynamics ( CFD ) code was used to simulate airborne virus spread .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Forecasting data from the Korea Meteorological Administration (KMA) was directly connected in the developed model for real-time forecasting for 48 h in three-hourly intervals.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Forecasting data from the Korea Meteorological Administration ( KMA ) was directly connected in the developed model for real-time forecasting for 48 h in three-hourly intervals .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "To reduce computation time, scalar transport for airborne virus spread was simulated based on a database for the CFD computed airflow in the investigated area using representative wind conditions. The simulation results, and the weather data were then used to make a database for a web-based forecasting system that could be accessible to users. ScienceDirect jo urnal homepage: www .e lsev ie r.com/ locate/issn/153 75110 b i o s y s t e m s e n g i n e e r i n g 1 2 9 ( 2 0 1 5 ) 1 6 9 e1 8 4 http://dx.",
+      "sentences": [
+        [
+          {
+            "segment_text": "To reduce computation time , scalar transport for airborne virus spread was simulated based on a database for the CFD computed airflow in the investigated area using representative wind conditions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The simulation results , and the weather data were then used to make a database for a web-based forecasting system that could be accessible to users .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "ScienceDirect jo urnal homepage : www .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "e lsev ie r.com / locate/issn/153 75110 b i o s y s t e m s e n g i n e e r i n g 1 2 9 ( 2 0 1 5 ) 1 6 9 e1 8 4 http://dx .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "11",
+    "segment_num": "14",
+    "token_num": "299"
+  }
+}

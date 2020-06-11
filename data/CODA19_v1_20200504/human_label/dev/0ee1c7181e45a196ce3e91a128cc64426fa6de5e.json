@@ -1,0 +1,158 @@
+{
+  "paper_id": "0ee1c7181e45a196ce3e91a128cc64426fa6de5e",
+  "metadata": {
+    "title": "XRN1 Is a Species-SpecificVirus Restriction Factor in Yeasts",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1202,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "In eukaryotes, the degradation of cellular mRNAs is accomplished by Xrn1 and the cytoplasmic exosome. Because viral RNAs often lack canonical caps or poly-A tails, they can also be vulnerable to degradation by these host exonucleases. Yeast lack sophisticated mechanisms of innate and adaptive immunity, but do use RNA degradation as an antiviral defense mechanism. We find a highly refined, species-specific relationship between Xrn1p and the \"L-A\" totiviruses of different Saccharomyces yeast species. We show that the gene XRN1 has evolved rapidly under positive natural selection in Saccharomyces yeast, resulting in high levels of Xrn1p protein sequence divergence from one yeast species to the next. We also show that these sequence differences translate to differential interactions with the L-A virus, where Xrn1p from S. cerevisiae is most efficient at controlling the L-A virus that chronically infects S. cerevisiae, and Xrn1p from S. kudriavzevii is most efficient at controlling the L-A-like virus that we have discovered within S. kudriavzevii. All Xrn1p orthologs are equivalent in their interaction with another virus-like parasite, the Ty1 retrotransposon. Thus, Xrn1p appears to co-evolve with totiviruses to maintain its potent antiviral activity and limit viral propagation in Saccharomyces yeasts. We demonstrate that Xrn1p physically interacts with the Gag protein encoded by the L-A virus, suggesting a host-virus interaction that is more complicated than just Xrn1p-mediated nucleolytic digestion of viral RNAs.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In eukaryotes , the degradation of cellular mRNAs is accomplished by Xrn1 and the cytoplasmic exosome .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Because viral RNAs often lack canonical caps or poly-A tails ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "they can also be vulnerable to degradation by these host exonucleases .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Yeast lack sophisticated mechanisms of innate and adaptive immunity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but do use RNA degradation as an antiviral defense mechanism .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We find a highly refined ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "species-specific relationship between Xrn1p and the `` L-A \u0027\u0027 totiviruses of different Saccharomyces yeast species .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We show that the gene XRN1 has evolved rapidly under positive natural selection in Saccharomyces yeast ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "resulting in high levels of Xrn1p protein sequence divergence from one yeast species to the next .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also show that these sequence differences translate to differential interactions with the L-A virus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "where Xrn1p from S. cerevisiae is most efficient at controlling the L-A virus that chronically infects S. cerevisiae ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and Xrn1p from S. kudriavzevii is most efficient at controlling the L-A-like virus that we have discovered within S. kudriavzevii .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "All Xrn1p orthologs are equivalent in their interaction with another virus-like parasite , the Ty1 retrotransposon .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Thus , Xrn1p appears to co-evolve with totiviruses to maintain its potent antiviral activity and limit viral propagation in Saccharomyces yeasts .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We demonstrate that Xrn1p physically interacts with the Gag protein encoded by the L-A virus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "suggesting a host-virus interaction that is more complicated than just Xrn1p-mediated nucleolytic digestion of viral RNAs .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Like other eukaryotes, Saccharomyces cerevisiae is chronically infected with viruses. It is fascinating to consider how S. cerevisiae deals with viral infection, because yeast have limited mechanisms of immunity. Our paper focuses on Xrn1p, an enzyme that is important for the destruction of irregular cellular RNAs in all eukaryotic cells. Xrn1p also degrades viral RNAs, owing to the fact that viral RNAs share biochemical characteristics with aberrant cellular mRNAs. Xrn1p was previously known to efficiently control the replication of a S. cerevisiae virus called \"L-A. \" We find that two different L-A viruses of Saccharomyces yeasts are best controlled by the Xrn1p from their own host species compared to the PLOS Pathogens |",
+      "sentences": [
+        [
+          {
+            "segment_text": "Like other eukaryotes , Saccharomyces cerevisiae is chronically infected with viruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "It is fascinating to consider how S. cerevisiae deals with viral infection ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "because yeast have limited mechanisms of immunity .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our paper focuses on Xrn1p ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "an enzyme that is important for the destruction of irregular cellular RNAs in all eukaryotic cells .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Xrn1p also degrades viral RNAs ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "owing to the fact that viral RNAs share biochemical characteristics with aberrant cellular mRNAs .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Xrn1p was previously known to efficiently control the replication of a S. cerevisiae virus called `` L-A . \u0027\u0027",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We find that two different L-A viruses of Saccharomyces yeasts are best controlled by the Xrn1p from their own host species compared to the PLOS Pathogens |",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "15",
+    "segment_num": "25",
+    "token_num": "368"
+  }
+}

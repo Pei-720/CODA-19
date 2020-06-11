@@ -1,0 +1,94 @@
+{
+  "paper_id": "20ad63c451320613d188d79179a9a65949da50f7",
+  "metadata": {
+    "title": "Structural basis of RNA recognition by the SARS-CoV-2 nucleocapsid phosphoprotein",
+    "coda_data_split": "train",
+    "coda_paper_id": 5105,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the causative agent of the Coronavirus disease 2019 (COVID-19) which is currently negatively affecting the population and disrupting the global economy. SARS-CoV-2 belongs to the +RNA virus family that utilize single-stranded positive-sense RNA molecules as genomes. SARS-CoV-2, like other coronaviruses, has an unusually large genome for a +RNA virus that encodes four structural proteinsthe matrix (M), small envelope (E), spike (S) and nucleocapsid phosphoprotein (N) -and sixteen nonstructural proteins (nsp1-16) that together ensure replication of the virus in the host cell. The nucleocapsid phosphoprotein N is essential for linking the viral genome to the viral membrane. Its N-terminal RNA binding domain (N-NTD) captures the RNA genome while the Cterminal domain anchors the ribonucleoprotein complex to the viral membrane via its interaction with the M protein.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Severe acute respiratory syndrome coronavirus 2 ( SARS-CoV-2 ) is the causative agent of the Coronavirus disease 2019 ( COVID-19 ) which is currently negatively affecting the population and disrupting the global economy .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "SARS-CoV-2 belongs to the + RNA virus family that utilize single-stranded positive-sense RNA molecules as genomes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "SARS-CoV-2 , like other coronaviruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "has an unusually large genome for a + RNA virus that encodes four structural proteinsthe matrix ( M ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "small envelope ( E ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "spike ( S ) and nucleocapsid phosphoprotein ( N ) - and sixteen nonstructural proteins ( nsp1-16 ) that together ensure replication of the virus in the host cell .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The nucleocapsid phosphoprotein N is essential for linking the viral genome to the viral membrane .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Its N-terminal RNA binding domain ( N-NTD ) captures the RNA genome while the Cterminal domain anchors the ribonucleoprotein complex to the viral membrane via its interaction with the M protein .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Here, we characterized the structure of the N-NTD and its interaction with RNA using NMR spectroscopy. We observed a positively charged canyon on the surface of the N-NTD lined with arginine residues suggesting a putative RNA binding site. Next, we performed an NMR titration experiment using an RNA duplex. The observed changes in positions of signals in the N-NTD NMR spectra allowed us to construct a model of the N-NTD in complex with RNA.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Here , we characterized the structure of the N-NTD and its interaction with RNA using NMR spectroscopy .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We observed a positively charged canyon on the surface of the N-NTD lined with arginine residues suggesting a putative RNA binding site .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Next , we performed an NMR titration experiment using an RNA duplex .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The observed changes in positions of signals in the N-NTD NMR spectra allowed us to construct a model of the N-NTD in complex with RNA .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "9",
+    "segment_num": "12",
+    "token_num": "241"
+  }
+}

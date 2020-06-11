@@ -1,0 +1,78 @@
+{
+  "paper_id": "7adf41d2120f3398e13817367c2120ebac6b99b6",
+  "metadata": {
+    "title": "Predicting the epidemic trend of COVID-19 in China and across the world using the machine learning approach",
+    "coda_data_split": "train",
+    "coda_paper_id": 9145,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: Although the COVID-19 has been well controlled in China, it is rapidly spreading outside China that may lead to catastrophic results globally without implementation of necessary mitigation measures. Because the COVID-19 outbreak has made comprehensive and profound impacts on the world, an accurate prediction of its epidemic trend is significant. Although many studies have predicted the COVID-19 epidemic trend, most of these studies have used the early stage data and focused on the China cases.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Although the COVID-19 has been well controlled in China ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "it is rapidly spreading outside China that may lead to catastrophic results globally without implementation of necessary mitigation measures .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Because the COVID-19 outbreak has made comprehensive and profound impacts on the world ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "an accurate prediction of its epidemic trend is significant .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although many studies have predicted the COVID-19 epidemic trend ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "most of these studies have used the early stage data and focused on the China cases .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We predicted the COVID-19 epidemic trend in China and across the world using the machine learning approach. We first built the models for predicting the daily numbers of cumulative confirmed cases (CCCs), new cases (NCs), and death cases (DCs) of COVID-19 in China based on the data from",
+      "sentences": [
+        [
+          {
+            "segment_text": "We predicted the COVID-19 epidemic trend in China and across the world using the machine learning approach .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We first built the models for predicting the daily numbers of cumulative confirmed cases ( CCCs ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "new cases ( NCs ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and death cases ( DCs ) of COVID-19 in China based on the data from",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "5",
+    "segment_num": "10",
+    "token_num": "140"
+  }
+}

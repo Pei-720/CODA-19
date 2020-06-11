@@ -1,0 +1,213 @@
+{
+  "paper_id": "8e9605de5913710c88b1107fd65dcc26ab372805",
+  "metadata": {
+    "title": "comparison of respiratory pathogen yields from nasopharyngeal/oropharyngeal swabs and sputum specimens collected from hospitalized adults in rural Western Kenya",
+    "coda_data_split": "train",
+    "coda_paper_id": 7286,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Molecular diagnostic methods are becoming increasingly available for assessment of acute lower respiratory illnesses (ALRi). However, nasopharyngeal/oropharyngeal (np/op) swabs may not accurately reflect etiologic agents from the lower respiratory tract where sputum specimens are considered as a more representative sample. the pathogen yields from np/op against sputum specimens have not been extensively explored, especially in tropical countries. We compared pathogen yields from np/op swabs and sputum specimens from patients ≥18 years hospitalized with ALRI in rural Western Kenya. Specimens were tested for 30 pathogens using TaqMan Array Cards (TAC) and results compared using McNemar\u0027s test. The agreement for pathogen detection between NP/OP and sputum specimens ranged between 85-100%. More viruses were detected from np/op specimens whereas Klebsiella pneumoniae and Mycobacterium tuberculosis were more common in sputum specimens. there was no clear advantage in using sputum over np/op specimens to detect pathogens of ALRi in adults using tAc in the context of this tropical setting.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Molecular diagnostic methods are becoming increasingly available for assessment of acute lower respiratory illnesses ( ALRi ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , nasopharyngeal/oropharyngeal ( np/op ) swabs may not accurately reflect etiologic agents from the lower respiratory tract where sputum specimens are considered as a more representative sample .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "the pathogen yields from np/op against sputum specimens have not been extensively explored , especially in tropical countries .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We compared pathogen yields from np/op swabs and sputum specimens from patients ≥ 18 years hospitalized with ALRI in rural Western Kenya .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Specimens were tested for 30 pathogens using TaqMan Array Cards ( TAC ) and results compared using McNemar \u0027s test .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The agreement for pathogen detection between NP/OP and sputum specimens ranged between 85-100 % .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "More viruses were detected from np/op specimens whereas Klebsiella pneumoniae and Mycobacterium tuberculosis were more common in sputum specimens .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "there was no clear advantage in using sputum over np/op specimens to detect pathogens of ALRi in adults using tAc in the context of this tropical setting .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Acute lower respiratory illnesses (ALRI) are associated with substantial morbidity and mortality in sub-Saharan Africa 1 . Understanding etiology of respiratory illnesses in resource-limited countries may support clinicians with patient management and provide a framework for decision makers when prioritizing public health interventions. Recently, with availability of multi-pathogen molecular diagnostic methods, and increasing recognition of viruses in cases of ALRI, the use of nasopharyngeal (NP) and oropharyngeal (OP) swab specimens to identify pathogens associated with ALRI has increased 2-4 . However, NP/OP swabs may not accurately reflect etiologic agents from the lower respiratory tract 5 . Sputum specimens, on the other hand, have been considered a more representative sample of the lower respiratory tract 5 , but have not been extensively explored, especially in tropical countries.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Acute lower respiratory illnesses ( ALRI ) are associated with substantial morbidity and mortality in sub-Saharan Africa 1 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Understanding etiology of respiratory illnesses in resource-limited countries may support clinicians with patient management and provide a framework for decision makers when prioritizing public health interventions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recently , with availability of multi-pathogen molecular diagnostic methods ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and increasing recognition of viruses in cases of ALRI ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the use of nasopharyngeal ( NP ) and oropharyngeal ( OP ) swab specimens to identify pathogens associated with ALRI has increased 2-4 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , NP/OP swabs may not accurately reflect etiologic agents from the lower respiratory tract 5 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Sputum specimens , on the other hand ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "have been considered a more representative sample of the lower respiratory tract 5 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but have not been extensively explored , especially in tropical countries .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "A multisite study in the United States compared pathogen yield between NP/OP and sputum specimens and argued for the use of high-quality sputum specimens for greater pathogen yield 6 . In contrast, another multisite study in low-middle income countries, observed that the pathogen yield from NP/OP and sputum specimens were similar 2 . Given the paucity of data and the difference in observations in these two recent studies, and that most data from tropical countries were derived from paediatric populations, we aimed to investigate adults living in a tropical, low-income setting. Here we describe the performance of NP/OP swabs against sputum specimens for detecting respiratory pathogens among adult patients hospitalized with ALRI using the TaqMan Array Card (TAC).",
+      "sentences": [
+        [
+          {
+            "segment_text": "A multisite study in the United States compared pathogen yield between NP/OP and sputum specimens and argued for the use of high-quality sputum specimens for greater pathogen yield 6 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In contrast , another multisite study in low-middle income countries ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "observed that the pathogen yield from NP/OP and sputum specimens were similar 2 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Given the paucity of data and the difference in observations in these two recent studies ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and that most data from tropical countries were derived from paediatric populations ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "we aimed to investigate adults living in a tropical , low-income setting .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here we describe the performance of NP/OP swabs against sputum specimens for detecting respiratory pathogens among adult patients hospitalized with ALRI using the TaqMan Array Card ( TAC ) .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "www.nature.com/scientificreports www.nature.com/scientificreports/ specimen for tuberculosis testing. Moreover, as used by Thea et al. 2 , we considered \u003c10 squamous epithelial cells per low-power field to determine specimen quality and observed that RNP C T values were similar for NP/OP and sputum specimens, giving us confidence that results from sputum specimens were credible.",
+      "sentences": [
+        [
+          {
+            "segment_text": "www.nature.com/scientificreports www.nature.com/scientificreports/ specimen for tuberculosis testing .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , as used by Thea et al. 2 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we considered \u003c 10 squamous epithelial cells per low-power field to determine specimen quality and observed that RNP C T values were similar for NP/OP and sputum specimens ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "giving us confidence that results from sputum specimens were credible .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In conclusion, our findings suggest that there is no clear advantage in using sputum specimens over NP/OP swabs to investigate the etiology of ALRI using molecular diagnostics. Interpretation of multi-pathogen molecular laboratory tests, however, needs further investigation, especially in tropical settings where co-detections seem very common.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In conclusion , our findings suggest that there is no clear advantage in using sputum specimens over NP/OP swabs to investigate the etiology of ALRI using molecular diagnostics .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Interpretation of multi-pathogen molecular laboratory tests ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "however , needs further investigation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "especially in tropical settings where co-detections seem very common .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "21",
+    "segment_num": "32",
+    "token_num": "550"
+  }
+}

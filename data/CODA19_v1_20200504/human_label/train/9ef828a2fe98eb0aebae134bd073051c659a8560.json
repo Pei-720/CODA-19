@@ -1,0 +1,67 @@
+{
+  "paper_id": "9ef828a2fe98eb0aebae134bd073051c659a8560",
+  "metadata": {
+    "title": "siVirus: web-based antiviral siRNA design software for highly divergent viral sequences",
+    "coda_data_split": "train",
+    "coda_paper_id": 6777,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "siVirus (http://siVirus.RNAi.jp/) is a web-based online software system that provides efficient short interfering RNA (siRNA) design for antiviral RNA interference (RNAi). siVirus searches for functional, off-target minimized siRNAs targeting highly conserved regions of divergent viral sequences. These siRNAs are expected to resist viral mutational escape, since their highly conserved targets likely contain structurally/functionally constrained elements. siVirus will be a useful tool for designing optimal siRNAs targeting highly divergent pathogens, including human immunodeficiency virus (HIV), hepatitis C virus (HCV), influenza virus and SARS coronavirus, all of which pose enormous threats to global human health.",
+      "sentences": [
+        [
+          {
+            "segment_text": "siVirus ( http://siVirus.RNAi.jp/ ) is a web-based online software system that provides efficient short interfering RNA ( siRNA ) design for antiviral RNA interference ( RNAi ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "siVirus searches for functional , off-target minimized siRNAs targeting highly conserved regions of divergent viral sequences .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These siRNAs are expected to resist viral mutational escape ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "since their highly conserved targets likely contain structurally/functionally constrained elements .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "siVirus will be a useful tool for designing optimal siRNAs targeting highly divergent pathogens ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including human immunodeficiency virus ( HIV ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "hepatitis C virus ( HCV ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "influenza virus and SARS coronavirus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "all of which pose enormous threats to global human health .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "4",
+    "segment_num": "9",
+    "token_num": "113"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "paper_id": "a3dcd6b3f0551e607d0235616109ab8d506f81a2",
+  "metadata": {
+    "title": "Title: Analyzing Vaccine Trials in Epidemics with Mild and Asymptomatic Infection",
+    "coda_data_split": "train",
+    "coda_paper_id": 3757,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "word count: 200 Text word count: 2304 . CC-BY-ND 4.0 International license is made available under a ABSTRACT Vaccine efficacy against susceptibility to infection (VES), regardless of symptoms, is an important endpoint of vaccine trials for pathogens with a high proportion of asymptomatic",
+      "sentences": [
+        [
+          {
+            "segment_text": "word count : 200 Text word count : 2304 .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "CC-BY-ND 4.0 International license is made available under a ABSTRACT Vaccine efficacy against susceptibility to infection ( VES ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "regardless of symptoms , is an important endpoint of vaccine trials for pathogens with a high proportion of asymptomatic",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "infection, as such infections may contribute to onward transmission and outcomes such as Congenital Zika Syndrome. However, estimating VES is resource-intensive. We aim to identify methods to accurately estimate VES when limited information is available and resources are constrained. We model an individually randomized vaccine trial by generating a network of individuals and simulating an epidemic. The disease natural history follows a Susceptible, Exposed, Infectious and Symptomatic or Infectious and Asymptomatic, Recovered model. We then use seven approaches to estimate VES, and we also estimate vaccine efficacy against progression to symptoms (VEP). A corrected relative risk and an interval censored Cox model accurately estimate VES and only require serologic testing of participants once, while a Cox model using only symptomatic infections returns biased estimates. Only acquiring serological endpoints in a 10% sample and imputing the remaining infection statuses yields unbiased VES estimates across values of R0 and accurate estimates of VEP for higher values. Identifying resource-preserving methods for accurately estimating VES is important in designing trials for diseases with a high proportion of asymptomatic infection.",
+      "sentences": [
+        [
+          {
+            "segment_text": "infection , as such infections may contribute to onward transmission and outcomes such as Congenital Zika Syndrome .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , estimating VES is resource-intensive .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We aim to identify methods to accurately estimate VES when limited information is available and resources are constrained .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We model an individually randomized vaccine trial by generating a network of individuals and simulating an epidemic .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The disease natural history follows a Susceptible ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "Exposed , Infectious and Symptomatic or Infectious and Asymptomatic , Recovered model .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We then use seven approaches to estimate VES ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and we also estimate vaccine efficacy against progression to symptoms ( VEP ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A corrected relative risk and an interval censored Cox model accurately estimate VES and only require serologic testing of participants once ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while a Cox model using only symptomatic infections returns biased estimates .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Only acquiring serological endpoints in a 10 % sample and imputing the remaining infection statuses yields unbiased VES estimates across values of R0 and accurate estimates of VEP for higher values .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Identifying resource-preserving methods for accurately estimating VES is important in designing trials for diseases with a high proportion of asymptomatic infection .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "11",
+    "segment_num": "15",
+    "token_num": "243"
+  }
+}

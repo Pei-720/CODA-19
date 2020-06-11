@@ -1,0 +1,67 @@
+{
+  "paper_id": "444bf5fa32b194dccaa78fc04d31c64212ad1674",
+  "metadata": {
+    "title": "Title: CryoDRGN: Reconstruction of heterogeneous structures from cryo-electron micrographs using neural networks CryoDRGN reveals dynamic continuous motions in the pre-catalytic spliceosome",
+    "coda_data_split": "train",
+    "coda_paper_id": 9802,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Cryo-EM single-particle analysis has proven powerful in determining the structures of rigid macromolecules. However, many protein complexes are flexible and can change conformation and composition as a result of functionally-associated dynamics. Such dynamics are poorly captured by current analysis methods. Here, we present cryoDRGN, an algorithm that for the first time 42 eukaryotic ribosome, the assembling bacterial ribosome, and the pre-catalytic spliceosome 43 complex. In these machines, we discover new conformational states and observe dynamic 44 molecular motions. CryoDRGN is distributed as an open-source tool 22 that can be easily integrated 45 in existing pipelines and is freely available at cryodrgn.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Cryo-EM single-particle analysis has proven powerful in determining the structures of rigid macromolecules .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , many protein complexes are flexible and can change conformation and composition as a result of functionally-associated dynamics .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Such dynamics are poorly captured by current analysis methods .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we present cryoDRGN ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "an algorithm that for the first time 42 eukaryotic ribosome ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the assembling bacterial ribosome , and the pre-catalytic spliceosome 43 complex .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In these machines , we discover new conformational states and observe dynamic 44 molecular motions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "CryoDRGN is distributed as an open-source tool 22 that can be easily integrated 45 in existing pipelines and is freely available at cryodrgn .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "8",
+    "token_num": "113"
+  }
+}

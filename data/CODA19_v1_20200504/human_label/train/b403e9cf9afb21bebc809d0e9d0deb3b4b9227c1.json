@@ -1,0 +1,195 @@
+{
+  "paper_id": "b403e9cf9afb21bebc809d0e9d0deb3b4b9227c1",
+  "metadata": {
+    "title": "Multiplex Molecular Detection of Respiratory Pathogens in Children With Asthma Exacerbation",
+    "coda_data_split": "train",
+    "coda_paper_id": 7195,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "A sthma is the most common chronic respiratory disorder in childhood, affecting about 10% of local children. 1 Asthma exacerbation resulting in hospitalization accounts for a major fraction of the total cost of asthma care in society. 2 Prospective epidemio-logic studies show that up to 80% of childhood asthma exacerbations are associated with viral upper respiratory tract infections (RTIs). 3 Among respiratory viruses, human rhinovirus (HRV) infection preceded as many as 50% of asthma exacerbations in children. 4 Infl uenza viruses also accounted for substantial morbidity (eg, up to 200 annual outpatient visits per 1,000 children) in children with asthma and other chronic medical conditions. 5 Respiratory syncytial virus (RSV) is another major pathogen causing asthma exacerbation. 4",
+      "sentences": [
+        [
+          {
+            "segment_text": "A sthma is the most common chronic respiratory disorder in childhood ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "affecting about 10 % of local children .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "1 Asthma exacerbation resulting in hospitalization accounts for a major fraction of the total cost of asthma care in society .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "2 Prospective epidemio-logic studies show that up to 80 % of childhood asthma exacerbations are associated with viral upper respiratory tract infections ( RTIs ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "3 Among respiratory viruses , human rhinovirus ( HRV ) infection preceded as many as 50 % of asthma exacerbations in children .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "4 Infl uenza viruses also accounted for substantial morbidity ( eg , up to 200 annual outpatient visits per 1,000 children ) in children with asthma and other chronic medical conditions .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "5 Respiratory syncytial virus ( RSV ) is another major pathogen causing asthma exacerbation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "4",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Background: Up to 80% of asthma exacerbations in white children are associated with viral upper respiratory infections. The relative importance of different respiratory pathogens and relevant microbiological data in Asian children are unclear. This study elucidated the epidemiology of respiratory infections in Hong Kong children with asthma exacerbation. Methods: A total of 209 children aged 3-18 years with asthma exacerbations and 77 controls with stable asthma were recruited. The severity of asthma exacerbations was assessed according to Global Initiative for Asthma guideline, and subjects aged 6 years or older performed exhaled nitric oxide and spirometric measurements. Nested multiplex polymerase chain reaction was used to detect 20 different respiratory pathogens. Results: Respiratory pathogens were detected in 105 (51.0%) subjects. The presence of any respiratory pathogen was associated with asthma exacerbation (odds ratio [OR], 2.77; 95% CI, 1.51-5.11; P , .001). Specifi cally, human rhinovirus (HRV) infection was more common among children with asthma exacerbation (OR, 2.38; 95% CI, 1.09-5.32; P 5 .018). All other pathogens or coinfections were not associated with asthmatic attacks. None of these respiratory infections was associated with the severity of asthma exacerbation ( P . .15 for all). During peak HRV season in the winter of 2007 to 2008, this virus was detected in 46.4% of children with asthma exacerbations. Conclusions: Respiratory viral infections are commonly found in children with asthma exacerbation, with HRV being the most important pathogen in our patients. Respiratory viral infection is a triggering factor for asthma exacerbation but does not correlate with its severity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : Up to 80 % of asthma exacerbations in white children are associated with viral upper respiratory infections .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The relative importance of different respiratory pathogens and relevant microbiological data in Asian children are unclear .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This study elucidated the epidemiology of respiratory infections in Hong Kong children with asthma exacerbation .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Methods : A total of 209 children aged 3-18 years with asthma exacerbations and 77 controls with stable asthma were recruited .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The severity of asthma exacerbations was assessed according to Global Initiative for Asthma guideline ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and subjects aged 6 years or older performed exhaled nitric oxide and spirometric measurements .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Nested multiplex polymerase chain reaction was used to detect 20 different respiratory pathogens .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results : Respiratory pathogens were detected in 105 ( 51.0 % ) subjects .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The presence of any respiratory pathogen was associated with asthma exacerbation ( odds ratio ( OR ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "2.77 ; 95 % CI ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "1.51-5.11 ; P , .001 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Specifi cally , human rhinovirus ( HRV ) infection was more common among children with asthma exacerbation ( OR , 2.38 ; 95 % CI , 1.09-5.32 ; P 5 .018 ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "All other pathogens or coinfections were not associated with asthmatic attacks .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "None of these respiratory infections was associated with the severity of asthma exacerbation ( P .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": ".15 for all ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "During peak HRV season in the winter of 2007 to 2008 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "this virus was detected in 46.4 % of children with asthma exacerbations .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Conclusions : Respiratory viral infections are commonly found in children with asthma exacerbation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "with HRV being the most important pathogen in our patients .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Respiratory viral infection is a triggering factor for asthma exacerbation but does not correlate with its severity .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Abbreviations: FeNO 5 fractional exhaled nitric oxide concentration; HBoV 5 human bocavirus; HCoV 5 human coronavirus; HMPV 5 human metapneumovirus; HRV 5 human rhinovirus; ICS 5 inhaled corticosteroid; NPA 5 nasopharyngeal aspirate; OR 5 odds ratio; PCR 5 polymerase chain reaction; RSV 5 respiratory syncytial virus; RTI 5 respiratory tract infection",
+      "sentences": [
+        [
+          {
+            "segment_text": "Abbreviations : FeNO 5 fractional exhaled nitric oxide concentration ; HBoV 5 human bocavirus ; HCoV 5 human coronavirus ; HMPV 5 human metapneumovirus ; HRV 5 human rhinovirus ; ICS 5 inhaled corticosteroid ; NPA 5 nasopharyngeal aspirate ; OR 5 odds ratio ; PCR 5 polymerase chain reaction ; RSV 5 respiratory syncytial virus ; RTI 5 respiratory tract infection",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "23",
+    "segment_num": "29",
+    "token_num": "498"
+  }
+}

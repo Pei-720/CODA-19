@@ -1,0 +1,148 @@
+{
+  "paper_id": "4b56993a4d0f091e70ef5dec2e5a61c3043f752e",
+  "metadata": {
+    "title": "DeepTracer: Predicting Backbone Atomic Structure from High Resolution Cryo-EM Den- sity Maps of Protein Complexes XXXXXXX Received on XXXXX; revised on XXXXX; accepted on XXXXX",
+    "coda_data_split": "train",
+    "coda_paper_id": 10886,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Motivation: Accurately determining the atomic structure of proteins represents a fundamental problem in the field of structural bioinformatics. A solution would be significant as protein structure information could be utilized in the medical field, e.g. in the development of vaccines for new viruses. This paper focuses on predicting the protein structure based on 3D images of the proteins captured through cryogenic electron microscopes (cryo-EM). A fully automated computationally efficient protein structure prediction method would be particularly beneficial in the field of cryo-EM as the technology allows researchers to photograph multiple large protein complexes in a single study, which means that a fast prediction method could allow for a high throughput of derived protein structures. We present a deep learning approach, DeepTracer, for predicting locations of the backbone atoms, secondary structure elements, and the amino acid types. In order to connect the predicted amino acids into chains, we applied a modified traveling salesman algorithm. Results: We trained our deep learning model on experimental cryo-EM density maps and tested it on a set of 50 density maps. We found that our new approach predicted protein structures with an average RMSD value of 1.18 and a coverage of 87.5%. Furthermore, we detected secondary structure information for 87.2% of amino acids correctly. We also showed preliminarily that 25.2% of amino acid types could be predicted directly from the 3D cryo-EM density map, considering 20 different types in total. Finally, we noted that the prediction runtime of DeepTracer is significantly improved compared to other methods. It predicts a large protein complex structure of more than 30,000 amino acids in only 2 hours. Availability: The repository of this project will be published.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Motivation : Accurately determining the atomic structure of proteins represents a fundamental problem in the field of structural bioinformatics .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A solution would be significant as protein structure information could be utilized in the medical field ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "e.g. in the development of vaccines for new viruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This paper focuses on predicting the protein structure based on 3D images of the proteins captured through cryogenic electron microscopes ( cryo-EM ) .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "A fully automated computationally efficient protein structure prediction method would be particularly beneficial in the field of cryo-EM as the technology allows researchers to photograph multiple large protein complexes in a single study ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which means that a fast prediction method could allow for a high throughput of derived protein structures .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We present a deep learning approach ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "DeepTracer , for predicting locations of the backbone atoms ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "secondary structure elements , and the amino acid types .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In order to connect the predicted amino acids into chains ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we applied a modified traveling salesman algorithm .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Results : We trained our deep learning model on experimental cryo-EM density maps and tested it on a set of 50 density maps .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We found that our new approach predicted protein structures with an average RMSD value of 1.18 and a coverage of 87.5 % .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , we detected secondary structure information for 87.2 % of amino acids correctly .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also showed preliminarily that 25.2 % of amino acid types could be predicted directly from the 3D cryo-EM density map ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "considering 20 different types in total .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Finally , we noted that the prediction runtime of DeepTracer is significantly improved compared to other methods .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It predicts a large protein complex structure of more than 30,000 amino acids in only 2 hours .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Availability : The repository of this project will be published .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "There are two main approaches to predict protein structures: homology modeling and de novo structure prediction. They differ in such that homology modeling requires structural knowledge about a homologous protein for its prediction while de novo methods do not. This limits the",
+      "sentences": [
+        [
+          {
+            "segment_text": "There are two main approaches to predict protein structures : homology modeling and de novo structure prediction .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "They differ in such that homology modeling requires structural knowledge about a homologous protein for its prediction while de novo methods do not .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This limits the",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "16",
+    "segment_num": "22",
+    "token_num": "352"
+  }
+}

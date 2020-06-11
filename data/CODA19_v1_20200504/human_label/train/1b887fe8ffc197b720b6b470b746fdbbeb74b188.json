@@ -1,0 +1,73 @@
+{
+  "paper_id": "1b887fe8ffc197b720b6b470b746fdbbeb74b188",
+  "metadata": {
+    "title": "Active learning strategies with COMBINE analysis: new tricks for an old dog",
+    "coda_data_split": "train",
+    "coda_paper_id": 8278,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The COMBINE method was designed to study congeneric series of compounds including structural information of ligandprotein complexes. Although very successful, the method has not received the same level of attention than other alternatives to study Quantitative Structure Active Relationships (QSAR) mainly because lack of ways to measure the uncertainty of the predictions and the need for large datasets. Active learning, a semi-supervised learning approach that makes use of uncertainty to enhance models\u0027 performance while reducing the size of the training sets, has been used in this work to address both problems. We propose two estimators of uncertainty: the pool of regressors and the distance to the training set. The performance of the methods has been evaluated by testing the resulting active learning workflows in 3 diverse datasets: HIV-1 protease inhibitors, Taxol-derivatives and BRD4 inhibitors. The proposed strategies were successful in 80% of the cases for the taxol-derivatives and BRD4 inhibitors, while outperformed random selection in the case of the HIV-1 protease inhibitors time-split. Our results suggest that AL-COMBINE might be an effective way of producing consistently superior QSAR models with a limited number of samples.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The COMBINE method was designed to study congeneric series of compounds including structural information of ligandprotein complexes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although very successful , the method has not received the same level of attention than other alternatives to study Quantitative Structure Active Relationships ( QSAR ) mainly because lack of ways to measure the uncertainty of the predictions and the need for large datasets .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Active learning , a semi-supervised learning approach that makes use of uncertainty to enhance models \u0027 performance while reducing the size of the training sets ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "has been used in this work to address both problems .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We propose two estimators of uncertainty : the pool of regressors and the distance to the training set .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The performance of the methods has been evaluated by testing the resulting active learning workflows in 3 diverse datasets : HIV-1 protease inhibitors , Taxol-derivatives and BRD4 inhibitors .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The proposed strategies were successful in 80 % of the cases for the taxol-derivatives and BRD4 inhibitors ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while outperformed random selection in the case of the HIV-1 protease inhibitors time-split .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our results suggest that AL-COMBINE might be an effective way of producing consistently superior QSAR models with a limited number of samples .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "9",
+    "token_num": "203"
+  }
+}

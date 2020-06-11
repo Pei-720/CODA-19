@@ -1,0 +1,99 @@
+{
+  "paper_id": "6973170d4c8d9576b0e3bfd8391e907d779ee355",
+  "metadata": {
+    "title": "RPI-Pred: predicting ncRNA-protein interaction using sequence and structural information",
+    "coda_data_split": "train",
+    "coda_paper_id": 9238,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "RNA-protein complexes are essential in mediating important fundamental cellular processes, such as transport and localization. In particular, ncRNAprotein interactions play an important role in posttranscriptional gene regulation like mRNA localization, mRNA stabilization, poly-adenylation, splicing and translation. The experimental methods to solve RNA-protein interaction prediction problem remain expensive and time-consuming. Here, we present the RPI-Pred (RNA-protein interaction predictor), a new support-vector machine-based method, to predict protein-RNA interaction pairs, based on both the sequences and structures. The results show that RPI-Pred can correctly predict RNA-protein interaction pairs with ∼94% prediction accuracy when using sequence and experimentally determined protein and RNA structures, and with ∼83% when using sequences and predicted protein and RNA structures. Further, our proposed method RPI-Pred was superior to other existing ones by predicting more experimentally validated ncRNA-protein interaction pairs from different organisms. Motivated by the improved performance of RPI-Pred, we further applied our method for reliable construction of ncRNA-protein interaction networks. The RPI-Pred is publicly available at: http://ctsb.is.wfubmc.edu/projects/rpi-pred.",
+      "sentences": [
+        [
+          {
+            "segment_text": "RNA-protein complexes are essential in mediating important fundamental cellular processes ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "such as transport and localization .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In particular , ncRNAprotein interactions play an important role in posttranscriptional gene regulation like mRNA localization ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "mRNA stabilization , poly-adenylation , splicing and translation .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The experimental methods to solve RNA-protein interaction prediction problem remain expensive and time-consuming .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we present the RPI-Pred ( RNA-protein interaction predictor ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "a new support-vector machine-based method ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "to predict protein-RNA interaction pairs ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "based on both the sequences and structures .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results show that RPI-Pred can correctly predict RNA-protein interaction pairs with ∼ 94 % prediction accuracy when using sequence and experimentally determined protein and RNA structures ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and with ∼ 83 % when using sequences and predicted protein and RNA structures .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Further , our proposed method RPI-Pred was superior to other existing ones by predicting more experimentally validated ncRNA-protein interaction pairs from different organisms .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Motivated by the improved performance of RPI-Pred ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we further applied our method for reliable construction of ncRNA-protein interaction networks .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The RPI-Pred is publicly available at : http://ctsb.is.wfubmc.edu/projects/rpi-pred .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "8",
+    "segment_num": "15",
+    "token_num": "186"
+  }
+}

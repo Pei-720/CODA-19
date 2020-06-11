@@ -1,0 +1,69 @@
+{
+  "paper_id": "e35999b486d9f21bbcf325b4d734ce3ccacb22ac",
+  "metadata": {
+    "title": "Next-generation sequencing library preparation method for identification of RNA viruses on the Ion Torrent Sequencing Platform",
+    "coda_data_split": "train",
+    "coda_paper_id": 10238,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Next generation sequencing (NGS) is a powerful tool for the characterization, discovery, and molecular identification of RNA viruses. There were multiple NGS library preparation methods published for strand-specific RNA-seq, but some methods are not suitable for identifying and characterizing RNA viruses. In this study, we report a NGS library preparation method to identify RNA viruses using the Ion Torrent PGM platform. The NGS sequencing adapters were directly inserted into the sequencing library through reverse transcription and polymerase chain reaction, without fragmentation and ligation of nucleic acids. The results show that this method is simple to perform, able to identify multiple species of RNA viruses in clinical samples.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Next generation sequencing ( NGS ) is a powerful tool for the characterization ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "discovery , and molecular identification of RNA viruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "There were multiple NGS library preparation methods published for strand-specific RNA-seq ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but some methods are not suitable for identifying and characterizing RNA viruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we report a NGS library preparation method to identify RNA viruses using the Ion Torrent PGM platform .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "The NGS sequencing adapters were directly inserted into the sequencing library through reverse transcription and polymerase chain reaction ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "without fragmentation and ligation of nucleic acids .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The results show that this method is simple to perform ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "able to identify multiple species of RNA viruses in clinical samples .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "5",
+    "segment_num": "9",
+    "token_num": "120"
+  }
+}

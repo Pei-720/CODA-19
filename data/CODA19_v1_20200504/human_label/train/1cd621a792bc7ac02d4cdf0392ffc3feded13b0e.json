@@ -1,0 +1,223 @@
+{
+  "paper_id": "1cd621a792bc7ac02d4cdf0392ffc3feded13b0e",
+  "metadata": {
+    "title": "CORONAVIRUS VIRULENCE GENES WITH MAIN FOCUS ON SARS-CoV ENVELOPE GENE NIH Public Access NIH-PA Author Manuscript",
+    "coda_data_split": "train",
+    "coda_paper_id": 9898,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "Coronavirus (CoV) infection is usually detected by cellular sensors, which trigger the activation of the innate immune system. Nevertheless, CoVs have evolved viral proteins that target different signaling pathways to counteract innate immune responses. Some CoV proteins act as antagonists of interferon (IFN) by inhibiting IFN production or signaling, aspects that are briefly addressed in this review. After CoV infection, potent cytokines relevant in controlling virus infections and priming adaptive immune responses are also generated. However, an uncontrolled induction of these proinflammatory cytokines can lead to pathogenesis and disease severity as described for SARS-CoV and MERS-CoV. The cellular pathways mediated by interferon regulatory factor (IRF)-3 and 7, activating transcription factor (ATF)-2/jun, activator protein (AP)-1, nuclear factor kappa-light-chain-enhancer of activated B cells (NF-κB), and nuclear factor of activated T cells (NF-AT), are the main drivers of the inflammatory response triggered after viral infections, with NF-κB pathway the most frequently activated. Key CoV proteins involved in the regulation of these pathways and the proinflammatory immune response are revisited in this manuscript.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Coronavirus ( CoV ) infection is usually detected by cellular sensors ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which trigger the activation of the innate immune system .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Nevertheless , CoVs have evolved viral proteins that target different signaling pathways to counteract innate immune responses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Some CoV proteins act as antagonists of interferon ( IFN ) by inhibiting IFN production or signaling ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "aspects that are briefly addressed in this review .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "After CoV infection , potent cytokines relevant in controlling virus infections and priming adaptive immune responses are also generated .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , an uncontrolled induction of these proinflammatory cytokines can lead to pathogenesis and disease severity as described for SARS-CoV and MERS-CoV .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The cellular pathways mediated by interferon regulatory factor ( IRF ) -3 and 7 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "activating transcription factor ( ATF ) -2 / jun ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "activator protein ( AP ) -1 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "nuclear factor kappa-light-chain-enhancer of activated B cells ( NF-κB ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and nuclear factor of activated T cells ( NF-AT ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "are the main drivers of the inflammatory response triggered after viral infections ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "with NF-κB pathway the most frequently activated .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Key CoV proteins involved in the regulation of these pathways and the proinflammatory immune response are revisited in this manuscript .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "It has been shown that the envelope (E) protein plays a variable role in CoV morphogenesis, depending on the CoV genus, being absolutely essential in some cases (genus α CoVs such as TGEV, and genus β CoVs such as MERS-CoV), but not in others (genus β CoVs such as MHV or SARS-CoV). A comprehensive accumulation of data has shown that the relatively small E protein elicits a strong influence on the interaction of SARS-CoV with the host. In fact, after infection with viruses in which this protein has been deleted, increased cellular stress and unfolded protein responses, apoptosis, and augmented host immune responses were observed. In contrast, the presence of E protein activated a pathogenic inflammatory response that may cause death in animal models and in humans.",
+      "sentences": [
+        [
+          {
+            "segment_text": "It has been shown that the envelope ( E ) protein plays a variable role in CoV morphogenesis ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "depending on the CoV genus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "being absolutely essential in some cases ( genus α CoVs such as TGEV , and genus β CoVs such as MERS-CoV ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but not in others ( genus β CoVs such as MHV or SARS-CoV ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "A comprehensive accumulation of data has shown that the relatively small E protein elicits a strong influence on the interaction of SARS-CoV with the host .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In fact , after infection with viruses in which this protein has been deleted ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "increased cellular stress and unfolded protein responses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "apoptosis , and augmented host immune responses were observed .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In contrast , the presence of E protein activated a pathogenic inflammatory response that may cause death in animal models and in humans .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The modification or deletion of different motifs within E protein, including the transmembrane domain that harbors an ion channel activity, small sequences within the middle region of the carboxy-terminus of E protein, and its most carboxy-terminal end, which contains a PDZ domainbinding motif (PBM) is sufficient to attenuate the virus. Interestingly, a comprehensive collection of SARS-CoVs in which these motifs have been modified elicited full and long-term protection even in old mice, making those deletion mutants promising vaccine candidates. These data indicate that despite its small size, E protein drastically influences the replication of CoVs and their pathogenicity. Although E protein is not essential for CoV genome replication or subgenomic mRNA synthesis, it affects virus morphogenesis, budding, assembly, intracellular trafficking, and virulence. In fact, E protein is responsible in a significant proportion of the inflammasome activation and the associated inflammation elicited by SARS-CoV in the lung parenchyma. This exacerbated inflammation causes edema accumulation leading to acute respiratory distress syndrome (ARDS) and, frequently, to the death of infected animal models or human patients.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The modification or deletion of different motifs within E protein ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "including the transmembrane domain that harbors an ion channel activity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "small sequences within the middle region of the carboxy-terminus of E protein ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and its most carboxy-terminal end ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which contains a PDZ domainbinding motif ( PBM ) is sufficient to attenuate the virus .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Interestingly , a comprehensive collection of SARS-CoVs in which these motifs have been modified elicited full and long-term protection even in old mice ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "making those deletion mutants promising vaccine candidates .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These data indicate that despite its small size ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "E protein drastically influences the replication of CoVs and their pathogenicity .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although E protein is not essential for CoV genome replication or subgenomic mRNA synthesis ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "it affects virus morphogenesis , budding ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "assembly , intracellular trafficking , and virulence .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In fact , E protein is responsible in a significant proportion of the inflammasome activation and the associated inflammation elicited by SARS-CoV in the lung parenchyma .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This exacerbated inflammation causes edema accumulation leading to acute respiratory distress syndrome ( ARDS ) and ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "frequently , to the death of infected animal models or human patients .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "17",
+    "segment_num": "39",
+    "token_num": "549"
+  }
+}

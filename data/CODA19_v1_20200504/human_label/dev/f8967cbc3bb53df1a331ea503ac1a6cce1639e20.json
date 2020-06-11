@@ -1,0 +1,84 @@
+{
+  "paper_id": "f8967cbc3bb53df1a331ea503ac1a6cce1639e20",
+  "metadata": {
+    "title": "Cleavage of spike protein of SARS coronavirus by protease factor Xa is associated with viral infectivity",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1779,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "The spike (S) protein of SARS coronavirus (SARS-CoV) has been known to recognize and bind to host receptors, whose conformational changes then facilitate fusion between the viral envelope and host cell membrane, leading to viral entry into target cells. However, other functions of SARS-CoV S protein such as proteolytic cleavage and its implications to viral infection are incompletely understood.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The spike ( S ) protein of SARS coronavirus ( SARS-CoV ) has been known to recognize and bind to host receptors ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "whose conformational changes then facilitate fusion between the viral envelope and host cell membrane ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "leading to viral entry into target cells .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , other functions of SARS-CoV S protein such as proteolytic cleavage and its implications to viral infection are incompletely understood .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "In this study, we demonstrated that the infection of SARS-CoV and a pseudovirus bearing the S protein of SARS-CoV was inhibited by a protease inhibitor Ben-HCl. Also, the protease Factor Xa, a target of Ben-HCl abundantly expressed in infected cells, was able to cleave the recombinant and pseudoviral S protein into S1 and S2 subunits, and the cleavage was inhibited by Ben-HCl. Furthermore, this cleavage correlated with the infectivity of the pseudovirus. Taken together, our study suggests a plausible mechanism by which SARS-CoV cleaves its S protein to facilitate viral infection.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In this study , we demonstrated that the infection of SARS-CoV and a pseudovirus bearing the S protein of SARS-CoV was inhibited by a protease inhibitor Ben-HCl .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Also , the protease Factor Xa ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "a target of Ben-HCl abundantly expressed in infected cells ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "was able to cleave the recombinant and pseudoviral S protein into S1 and S2 subunits ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and the cleavage was inhibited by Ben-HCl .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Furthermore , this cleavage correlated with the infectivity of the pseudovirus .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Taken together , our study suggests a plausible mechanism by which SARS-CoV cleaves its S protein to facilitate viral infection .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "6",
+    "segment_num": "11",
+    "token_num": "170"
+  }
+}

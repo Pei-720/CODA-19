@@ -1,0 +1,205 @@
+{
+  "paper_id": "2f56502b1b23bd52dcf3e700ff370667fac055ee",
+  "metadata": {
+    "title": "Full-Genome Deep Sequencing and Phylogenetic Analysis of Novel Human Betacoronavirus",
+    "coda_data_split": "train",
+    "coda_paper_id": 4608,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "A novel betacoronavirus associated with lethal respiratory and renal complications was recently identified in patients from several countries in the Middle East. We report the deep genome sequencing of the virus directly from a patient\u0027s sputum sample. Our high-throughput sequencing yielded a substantial depth of genome sequence assembly and showed the minority viral variants in the specimen. Detailed phylogenetic analysis of the virus genome (England/ Qatar/2012) revealed its close relationship to European bat coronaviruses circulating among the bat species of the Vespertilionidae family. Molecular clock analysis showed that the 2 human infections of this betacoronavirus in June 2012 (EMC/2012) and September 2012 (England/Qatar/2012) share a common virus ancestor most likely considerably before early 2012, suggesting the human diversity is the result of multiple zoonotic events.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A novel betacoronavirus associated with lethal respiratory and renal complications was recently identified in patients from several countries in the Middle East .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We report the deep genome sequencing of the virus directly from a patient \u0027s sputum sample .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our high-throughput sequencing yielded a substantial depth of genome sequence assembly and showed the minority viral variants in the specimen .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Detailed phylogenetic analysis of the virus genome ( England / Qatar/2012 ) revealed its close relationship to European bat coronaviruses circulating among the bat species of the Vespertilionidae family .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Molecular clock analysis showed that the 2 human infections of this betacoronavirus in June 2012 ( EMC/2012 ) and September 2012 ( England/Qatar/2012 ) share a common virus ancestor most likely considerably before early 2012 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "suggesting the human diversity is the result of multiple zoonotic events .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "T he ability of coronaviruses (CoVs) to infect multiple species and to rapidly change through recombination presents a continuing human health threat. The epidemic of severe acute respiratory syndrome (SARS) during 2003-2004 during which a CoV transmitted from bats to civet cats and then to humans demonstrated this potential (reviewed in [1, 2] ). Recently, a novel human betacoronavirus (betaCoV) was found to be associated with at least 13 human infections, 7 of which were fatal (3-7). One of the viruses, EMC/2012, has been sequenced, and its sequence similarity to several bat CoVs suggested an animal origin, but a definitive bat species of origin has not yet been identified (3). Additional genome sequences from this virus are needed to aid diagnostics, monitor population dynamics, identify the animal source, and characterize mechanisms of pathogenesis. The large size (30,000 nt) and high variability of CoV RNA genomes present a challenge for sequencing.",
+      "sentences": [
+        [
+          {
+            "segment_text": "T he ability of coronaviruses ( CoVs ) to infect multiple species and to rapidly change through recombination presents a continuing human health threat .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The epidemic of severe acute respiratory syndrome ( SARS ) during 2003-2004 during which a CoV transmitted from bats to civet cats and then to humans demonstrated this potential ( reviewed in ( 1 , 2 ) ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Recently , a novel human betacoronavirus ( betaCoV ) was found to be associated with at least 13 human infections ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "7 of which were fatal ( 3-7 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "One of the viruses , EMC/2012 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "has been sequenced , and its sequence similarity to several bat CoVs suggested an animal origin ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but a definitive bat species of origin has not yet been identified ( 3 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Additional genome sequences from this virus are needed to aid diagnostics ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "monitor population dynamics , identify the animal source ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and characterize mechanisms of pathogenesis .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The large size ( 30,000 nt ) and high variability of CoV RNA genomes present a challenge for sequencing .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We describe a strategy for rapidly designing the primers necessary for reverse transcription and cDNA amplification of such diverse RNA viruses and report the full-genome determination of the novel CoV directly from patient sputum using next-generation short-read sequencing. Full genomes from 2 epidemiologically unlinked novel CoV infections separated in time by \u003e2 months were analyzed to gain clues to 2 major questions: what are the precursors of the virus, and how long has the virus been circulating in its current form?",
+      "sentences": [
+        [
+          {
+            "segment_text": "We describe a strategy for rapidly designing the primers necessary for reverse transcription and cDNA amplification of such diverse RNA viruses and report the full-genome determination of the novel CoV directly from patient sputum using next-generation short-read sequencing .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Full genomes from 2 epidemiologically unlinked novel CoV infections separated in time by \u003e 2 months were analyzed to gain clues to 2 major questions : what are the precursors of the virus ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and how long has the virus been circulating in its current form ?",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Materials and Methods",
+      "sentences": [
+        [
+          {
+            "segment_text": "Materials and Methods",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Fifteen betaCoV full genomes with the closest homology to EMC/2012 (GenBank accession no. JX869059) were analyzed to identify all possible primer-like sequences (melting temperature 58°C-60°C, guanine plus cytosine content 35%-60%) yielding 357,198 potential primers. The 30-kb JX869059 CoV genome was divided into fifteen 2.5-kb overlapping amplicons, and the 2 highest frequency sequences mapping in the 5′ and 3′ 250 bp of each amplicon were selected. Reverse complements of the 3′ mapping sequences were prepared, resulting in a set of 60 primers for the 15 amplicons (4 primers/amplicon). Three additional primers were added for the extreme termini of the genome. The algorithm also prepared a virtual PCR map of the predicted binding and amplicon size for the primer set on CoV genomes. A map of the primer mapping positions",
+      "sentences": [
+        [
+          {
+            "segment_text": "Fifteen betaCoV full genomes with the closest homology to EMC/2012 ( GenBank accession no .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "JX869059 ) were analyzed to identify all possible primer-like sequences ( melting temperature 58 °C -60 °C , guanine plus cytosine content 35 % -60 % ) yielding 357,198 potential primers .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The 30-kb JX869059 CoV genome was divided into fifteen 2.5-kb overlapping amplicons ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and the 2 highest frequency sequences mapping in the 5 ′ and 3 ′ 250 bp of each amplicon were selected .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Reverse complements of the 3 ′ mapping sequences were prepared ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "resulting in a set of 60 primers for the 15 amplicons ( 4 primers/amplicon ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Three additional primers were added for the extreme termini of the genome .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The algorithm also prepared a virtual PCR map of the predicted binding and amplicon size for the primer set on CoV genomes .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "A map of the primer mapping positions",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "21",
+    "segment_num": "30",
+    "token_num": "561"
+  }
+}

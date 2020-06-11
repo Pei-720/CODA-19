@@ -1,0 +1,91 @@
+{
+  "paper_id": "413383034f00fe7c2c81688ac152dc102963d08b",
+  "metadata": {
+    "title": "Targeted next-generation sequencing for the detection of ciprofloxacin resistance markers using molecular inversion probes OPEN",
+    "coda_data_split": "train",
+    "coda_paper_id": 4352,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Antibiotic resistance (AR) is an epidemic of increasing magnitude requiring rapid identification and profiling for appropriate and timely therapeutic measures and containment strategies. In this context, ciprofloxacin is part of the first-line of countermeasures against numerous high consequence bacteria. Significant resistance can occur via single nucleotide polymorphisms (SNP) and deletions within ciprofloxacin targeted genes. Ideally, use of ciprofloxacin would be prefaced with AR determination to avoid overuse or misuse of the antibiotic. Here, we describe the development and evaluation of a panel of 44 single-stranded molecular inversion probes (MIPs) coupled to next-generation sequencing (NGS) for the detection of genetic variants known to confer ciprofloxacin resistance in Bacillus anthracis, Yersinia pestis, and Francisella tularensis. Sequencing results demonstrate MIPs capture and amplify targeted regions of interest at significant levels of coverage. Depending on the genetic variant, limits of detection (LOD) for high-throughput pooled sequencing ranged from approximately 300-1800 input genome copies. LODs increased 10-fold in the presence of contaminating human genome DNA. In addition, we show that MIPs can be used as an enrichment step with high resolution melt (HRM) real-time PCR which is a sensitive assay with a rapid time-to-answer. Overall, this technology is a multiplexable upfront enrichment applicable with multiple downstream molecular assays for the detection of targeted genetic regions.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Antibiotic resistance ( AR ) is an epidemic of increasing magnitude requiring rapid identification and profiling for appropriate and timely therapeutic measures and containment strategies .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this context , ciprofloxacin is part of the first-line of countermeasures against numerous high consequence bacteria .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Significant resistance can occur via single nucleotide polymorphisms ( SNP ) and deletions within ciprofloxacin targeted genes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Ideally , use of ciprofloxacin would be prefaced with AR determination to avoid overuse or misuse of the antibiotic .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we describe the development and evaluation of a panel of 44 single-stranded molecular inversion probes ( MIPs ) coupled to next-generation sequencing ( NGS ) for the detection of genetic variants known to confer ciprofloxacin resistance in Bacillus anthracis ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "Yersinia pestis , and Francisella tularensis .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Sequencing results demonstrate MIPs capture and amplify targeted regions of interest at significant levels of coverage .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Depending on the genetic variant ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "limits of detection ( LOD ) for high-throughput pooled sequencing ranged from approximately 300-1800 input genome copies .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "LODs increased 10-fold in the presence of contaminating human genome DNA .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In addition , we show that MIPs can be used as an enrichment step with high resolution melt ( HRM ) real-time PCR which is a sensitive assay with a rapid time-to-answer .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Overall , this technology is a multiplexable upfront enrichment applicable with multiple downstream molecular assays for the detection of targeted genetic regions .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "10",
+    "segment_num": "12",
+    "token_num": "240"
+  }
+}

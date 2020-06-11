@@ -1,0 +1,141 @@
+{
+  "paper_id": "e4d752fd72eb7b1089e4b820598b1f69f50bc636",
+  "metadata": {
+    "title": "Nowcasting by Bayesian Smoothing: A flexible, generalizable model for real-time epidemic tracking",
+    "coda_data_split": "test",
+    "coda_paper_id": 31,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Delays in case reporting are common to disease surveillance systems, making it difficult to track diseases in real-time. \"Nowcast\" approaches attempt to estimate the complete case counts for a given reporting date, using a time series of case reports that is known to be incomplete due to reporting delays. Modeling the reporting delay distribution is a common feature of nowcast approaches. However, many nowcast approaches ignore a crucial feature of infectious disease transmission-that future cases are intrinsically linked to past reported cases-and are optimized to a single application, which may limit generalizability. Here, we present a Bayesian approach, NobBS (Nowcasting by Bayesian Smoothing) capable of producing smooth and accurate nowcasts in multiple disease settings. We test NobBS on dengue in Puerto Rico and influenza-like illness (ILI) in the United States to examine performance and robustness across settings exhibiting a range of common reporting delay characteristics (from stable to timevarying), and compare this approach with a published nowcasting package. We show that introducing a temporal relationship between cases considerably improves performance when the reporting delay distribution is time-varying, and we identify trade-offs in the role of moving windows to accurately capture changes in the delay. We present software implementing this new approach (R package \"NobBS\") for widespread application.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Delays in case reporting are common to disease surveillance systems ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "making it difficult to track diseases in real-time .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "`` Nowcast \u0027\u0027 approaches attempt to estimate the complete case counts for a given reporting date ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "using a time series of case reports that is known to be incomplete due to reporting delays .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Modeling the reporting delay distribution is a common feature of nowcast approaches .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , many nowcast approaches ignore a crucial feature of infectious disease transmission-that future cases are intrinsically linked to past reported cases-and are optimized to a single application , which may limit generalizability .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we present a Bayesian approach ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "NobBS ( Nowcasting by Bayesian Smoothing ) capable of producing smooth and accurate nowcasts in multiple disease settings .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We test NobBS on dengue in Puerto Rico and influenza-like illness ( ILI ) in the United States to examine performance and robustness across settings exhibiting a range of common reporting delay characteristics ( from stable to timevarying ) ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and compare this approach with a published nowcasting package .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We show that introducing a temporal relationship between cases considerably improves performance when the reporting delay distribution is time-varying ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and we identify trade-offs in the role of moving windows to accurately capture changes in the delay .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We present software implementing this new approach ( R package `` NobBS \u0027\u0027 ) for widespread application .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Achieving accurate, real-time estimates of disease activity is challenged by delays in case reporting. However, approaches that seek to estimate cases in spite of reporting delays often do not consider the temporal relationship between cases during an outbreak, nor do they identify characteristics of robust approaches that generalize to a wide range of surveillance contexts with very different reporting delays. Here, we present a smooth Bayesian nowcasting approach that produces accurate estimates that capture the time evolution of the epidemic curve and outperform a previous approach in the literature. We assess the performance for two diseases to identify important features of the reporting delay distribution that contribute to the model\u0027s performance and robustness across surveillance settings.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Achieving accurate , real-time estimates of disease activity is challenged by delays in case reporting .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , approaches that seek to estimate cases in spite of reporting delays often do not consider the temporal relationship between cases during an outbreak ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "nor do they identify characteristics of robust approaches that generalize to a wide range of surveillance contexts with very different reporting delays .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we present a smooth Bayesian nowcasting approach that produces accurate estimates that capture the time evolution of the epidemic curve and outperform a previous approach in the literature .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We assess the performance for two diseases to identify important features of the reporting delay distribution that contribute to the model \u0027s performance and robustness across surveillance settings .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "All rights reserved. No reuse allowed without permission.",
+      "sentences": [
+        [
+          {
+            "segment_text": "All rights reserved .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "No reuse allowed without permission .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "14",
+    "segment_num": "20",
+    "token_num": "370"
+  }
+}

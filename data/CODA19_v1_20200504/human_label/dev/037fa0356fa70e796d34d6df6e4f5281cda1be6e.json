@@ -1,0 +1,108 @@
+{
+  "paper_id": "037fa0356fa70e796d34d6df6e4f5281cda1be6e",
+  "metadata": {
+    "title": "Quantifying the transmission potential of pandemic influenza",
+    "coda_data_split": "dev",
+    "coda_paper_id": 1103,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "This article reviews quantitative methods to estimate the basic reproduction number of pandemic influenza, a key threshold quantity to help determine the intensity of interventions required to control the disease. Although it is difficult to assess the transmission potential of a probable future pandemic, historical epidemiologic data is readily available from previous pandemics, and as a reference quantity for future pandemic planning, mathematical and statistical analyses of historical data are crucial. In particular, because many historical records tend to document only the temporal distribution of cases or deaths (i.e. epidemic curve), our review focuses on methods to maximize the utility of time-evolution data and to clarify the detailed mechanisms of the spread of influenza.",
+      "sentences": [
+        [
+          {
+            "segment_text": "This article reviews quantitative methods to estimate the basic reproduction number of pandemic influenza ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "a key threshold quantity to help determine the intensity of interventions required to control the disease .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although it is difficult to assess the transmission potential of a probable future pandemic ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "historical epidemiologic data is readily available from previous pandemics ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and as a reference quantity for future pandemic planning ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "mathematical and statistical analyses of historical data are crucial .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In particular , because many historical records tend to document only the temporal distribution of cases or deaths ( i.e. epidemic curve ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "our review focuses on methods to maximize the utility of time-evolution data and to clarify the detailed mechanisms of the spread of influenza .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "First, we highlight structured epidemic models and their parameter estimation method which can quantify the detailed disease dynamics including those we cannot observe directly. Duration-structured epidemic systems are subsequently presented, offering firm understanding of the definition of the basic and effective reproduction numbers. When the initial growth phase of an epidemic is investigated, the distribution of the generation time is key statistical information to appropriately estimate the transmission potential using the intrinsic growth rate. Applications of stochastic processes are also highlighted to estimate the transmission potential using similar data. Critically important characteristics of influenza data are subsequently summarized, followed by our conclusions to suggest potential future methodological improvements.",
+      "sentences": [
+        [
+          {
+            "segment_text": "First , we highlight structured epidemic models and their parameter estimation method which can quantify the detailed disease dynamics including those we can not observe directly .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Duration-structured epidemic systems are subsequently presented ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "offering firm understanding of the definition of the basic and effective reproduction numbers .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "When the initial growth phase of an epidemic is investigated ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "the distribution of the generation time is key statistical information to appropriately estimate the transmission potential using the intrinsic growth rate .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Applications of stochastic processes are also highlighted to estimate the transmission potential using similar data .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Critically important characteristics of influenza data are subsequently summarized ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "followed by our conclusions to suggest potential future methodological improvements .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "2",
+    "sentence_num": "8",
+    "segment_num": "16",
+    "token_num": "243"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "paper_id": "82c5b2de53f282294e5976e4d026750099ee693c",
+  "metadata": {
+    "title": "Real-time location and inpatient care systems based on passive RFID",
+    "coda_data_split": "train",
+    "coda_paper_id": 9768,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "a b s t r a c t RFID technology meets identification and tracking requirements in healthcare environments with potential to speed up and increase reliability of involved processes. Due to this, high expectations for this integration have emerged, but hospital and medical centers interested in adoption of RFID technology require prior knowledge on how to squeeze RFID capabilities, real expectations and current challenges. In this paper, we show our lab tested solutions in two specific healthcare scenarios. On the one hand, we analyze the case of a medical equipment tracking system for healthcare facilities enabling both real-time location and theft prevention. Worth-noting aspects such as possible EMI interferences, technology selection and management of RFID data from hospital information system are analyzed. Lab testing of system reliability based on passive UHF RFID is provided for this case. On the other hand, we analyze and provide a solution for care and control of patients in a hospital based on passive HF RFID with the result of a fully functional demonstrator. Our prototype squeezes RFID features in order to provide a backup data source from patient\u0027s wristband. It also provides an offline working mode aiming to increase application reliability under network fail down and therefore, improving patient\u0027s safety. Considerations regarding lessons learned and challenges faced are exposed.",
+      "sentences": [
+        [
+          {
+            "segment_text": "a b s t r a c t RFID technology meets identification and tracking requirements in healthcare environments with potential to speed up and increase reliability of involved processes .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Due to this , high expectations for this integration have emerged ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but hospital and medical centers interested in adoption of RFID technology require prior knowledge on how to squeeze RFID capabilities ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "real expectations and current challenges .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this paper , we show our lab tested solutions in two specific healthcare scenarios .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "On the one hand , we analyze the case of a medical equipment tracking system for healthcare facilities enabling both real-time location and theft prevention .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Worth-noting aspects such as possible EMI interferences ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "technology selection and management of RFID data from hospital information system are analyzed .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Lab testing of system reliability based on passive UHF RFID is provided for this case .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "On the other hand , we analyze and provide a solution for care and control of patients in a hospital based on passive HF RFID with the result of a fully functional demonstrator .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our prototype squeezes RFID features in order to provide a backup data source from patient \u0027s wristband .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "It also provides an offline working mode aiming to increase application reliability under network fail down and therefore , improving patient \u0027s safety .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Considerations regarding lessons learned and challenges faced are exposed .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "10",
+    "segment_num": "13",
+    "token_num": "235"
+  }
+}

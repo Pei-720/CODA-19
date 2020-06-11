@@ -1,0 +1,195 @@
+{
+  "paper_id": "e9e27abe482c8949d0edbd0bbd9702c1ce355dd8",
+  "metadata": {
+    "title": "Eco-epidemiological assessment of the COVID-19 epidemic in China",
+    "coda_data_split": "train",
+    "coda_paper_id": 2965,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: The outbreak of COVID-19 in China in early 2020 provides a rich data source for exploring the ecological determinants of this new infection, which may be of relevance elsewhere.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : The outbreak of COVID-19 in China in early 2020 provides a rich data source for exploring the ecological determinants of this new infection ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which may be of relevance elsewhere .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Objectives: Assessing the spread of the COVID-19 across China, in relation to associations between cases and ecological factors including population density, temperature, solar radiation and precipitation.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Objectives : Assessing the spread of the COVID-19 across China ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "in relation to associations between cases and ecological factors including population density ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "temperature , solar radiation and precipitation .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Methods: Open-access COVID-19 case data include 18,069 geo-located cases in China during January and February 2020, which were mapped onto a 0.25° latitude/longitude grid together with population and weather data (temperature, solar radiation and precipitation). Of 15,539 grid cells, 559 (3.6%) contained at least one case, and these were used to construct a Poisson regression model of cell-weeks. Weather parameters were taken for the preceding week given the established 5-7 day incubation period for COVID-19. The dependent variable in the Poisson model was incident cases per cell-week and exposure was cell population, allowing for clustering of cells over weeks, to give incidence rate ratios.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Methods : Open-access COVID-19 case data include 18,069 geo-located cases in China during January and February 2020 ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which were mapped onto a 0.25 ° latitude/longitude grid together with population and weather data ( temperature , solar radiation and precipitation ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Of 15,539 grid cells , 559 ( 3.6 % ) contained at least one case ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and these were used to construct a Poisson regression model of cell-weeks .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Weather parameters were taken for the preceding week given the established 5-7 day incubation period for COVID-19 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The dependent variable in the Poisson model was incident cases per cell-week and exposure was cell population ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "allowing for clustering of cells over weeks ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "to give incidence rate ratios .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Results: The overall COVID-19 incidence rate in cells with confirmed cases was 0.12 per 1,000. There was a single case in 113/559 (20.2%) of cells, while two grid cells recorded over 1,000 cases. Weekly means of maximum daily temperature varied from -28.0 to 30.1 °C, minimum daily temperature from -42.4 to 23.0 °C, maximum solar radiation from 0.04 to 2.74 MJm -2 and total precipitation from 0 to 72.6 mm. Adjusted incidence rate ratios suggested brighter, warmer and drier conditions were associated with lower incidence.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Results : The overall COVID-19 incidence rate in cells with confirmed cases was 0.12 per 1,000 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "There was a single case in 113/559 ( 20.2 % ) of cells ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "while two grid cells recorded over 1,000 cases .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Weekly means of maximum daily temperature varied from -28.0 to 30.1 °C ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "minimum daily temperature from -42.4 to 23.0 °C ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "maximum solar radiation from 0.04 to 2.74 MJm -2 and total precipitation from 0 to 72.6 mm .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Adjusted incidence rate ratios suggested brighter ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "warmer and drier conditions were associated with lower incidence .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Conclusion: Though not demonstrating cause and effect, there were appreciable associations between weather and COVID-19 incidence during the epidemic in China. This does not mean the pandemic will go away with summer weather but demonstrates the importance of using weather conditions in understanding and forecasting the spread of COVID-19.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Conclusion : Though not demonstrating cause and effect ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "there were appreciable associations between weather and COVID-19 incidence during the epidemic in China .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This does not mean the pandemic will go away with summer weather but demonstrates the importance of using weather conditions in understanding and forecasting the spread of COVID-19 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": ". CC-BY 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+      "sentences": [
+        [
+          {
+            "segment_text": ".",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "CC-BY 4.0 International license It is made available under a is the author/funder ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "who has granted medRxiv a license to display the preprint in perpetuity .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "(which was not peer-reviewed) The copyright holder for this preprint .",
+      "sentences": [
+        [
+          {
+            "segment_text": "( which was not peer-reviewed ) The copyright holder for this preprint .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "7",
+    "sentence_num": "15",
+    "segment_num": "28",
+    "token_num": "376"
+  }
+}

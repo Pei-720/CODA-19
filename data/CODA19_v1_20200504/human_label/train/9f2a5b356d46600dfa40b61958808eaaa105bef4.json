@@ -1,0 +1,201 @@
+{
+  "paper_id": "9f2a5b356d46600dfa40b61958808eaaa105bef4",
+  "metadata": {
+    "title": "Forecasting national and regional influenza- like illness for the USA",
+    "coda_data_split": "train",
+    "coda_paper_id": 9024,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Health planners use forecasts of key metrics associated with influenza-like illness (ILI); near-term weekly incidence, week of season onset, week of peak, and intensity of peak. Here, we describe our participation in a weekly prospective ILI forecasting challenge for the United States for the 2016-17 season and subsequent evaluation of our performance. We implemented a metapopulation model framework with 32 model variants. Variants differed from each other in their assumptions about: the force-of-infection (FOI); use of uninformative priors; the use of discounted historical data for not-yet-observed time points; and the treatment of regions as either independent or coupled. Individual model variants were chosen subjectively as the basis for our weekly forecasts; however, a subset of coupled models were only available part way through the season. Most frequently, during the 2016-17 season, we chose; FOI variants with both school vacations and humidity terms; uninformative priors; the inclusion of discounted historical data for not-yet-observed time points; and coupled regions (when available). Our near-term weekly forecasts substantially over-estimated incidence early in the season when coupled models were not available. However, our forecast accuracy improved in absolute terms and relative to other teams once coupled solutions were available. In retrospective analysis, we found that the 2016-17 season was not typical: on average, coupled models performed better when fit without historically augmented data. Also, we tested a simple ensemble model for the 2016-17 season and found that it underperformed our subjective choice for all forecast targets. In this study, we were able to improve accuracy during a prospective forecasting exercise by coupling dynamics between regions. Although reduction of forecast subjectivity should be a long-term goal, some degree of human intervention is likely to improve forecast accuracy in the mediumterm in parallel with the systematic consideration of more sophisticated ensemble approaches.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Health planners use forecasts of key metrics associated with influenza-like illness ( ILI ) ; near-term weekly incidence ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "week of season onset , week of peak , and intensity of peak .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Here , we describe our participation in a weekly prospective ILI forecasting challenge for the United States for the 2016-17 season and subsequent evaluation of our performance .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "We implemented a metapopulation model framework with 32 model variants .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Variants differed from each other in their assumptions about : the force-of-infection ( FOI ) ; use of uninformative priors ; the use of discounted historical data for not-yet-observed time points ; and the treatment of regions as either independent or coupled .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Individual model variants were chosen subjectively as the basis for our weekly forecasts ; however ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "a subset of coupled models were only available part way through the season .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Most frequently , during the 2016-17 season ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we chose ; FOI variants with both school vacations and humidity terms ; uninformative priors ; the inclusion of discounted historical data for not-yet-observed time points ; and coupled regions ( when available ) .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our near-term weekly forecasts substantially over-estimated incidence early in the season when coupled models were not available .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , our forecast accuracy improved in absolute terms and relative to other teams once coupled solutions were available .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In retrospective analysis , we found that the 2016-17 season was not typical : on average ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "coupled models performed better when fit without historically augmented data .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Also , we tested a simple ensemble model for the 2016-17 season and found that it underperformed our subjective choice for all forecast targets .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study , we were able to improve accuracy during a prospective forecasting exercise by coupling dynamics between regions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although reduction of forecast subjectivity should be a long-term goal ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "some degree of human intervention is likely to improve forecast accuracy in the mediumterm in parallel with the systematic consideration of more sophisticated ensemble approaches .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "It is estimated that there are between 3 and 5 million worldwide annual seasonal cases of severe influenza illness, and between 290 000 and 650 000 respiratory deaths. Influenzalike illness (ILI) describes a set of symptoms and is a practical way for health-care workers PLOS Computational Biology | https://doi.to easily estimate likely influenza cases. The Centers for Disease Control and Prevention (CDC) collects and disseminates ILI information, and has, for the last several years, run a forecasting challenge (the CDC Flu Challenge) for modelers to predict near-term weekly incidence, week of season onset, week of peak, and intensity of peak. We have developed a modeling framework that accounts for a range of mechanisms thought to be important for influenza transmission, such as climatic conditions, school vacations, and coupling between different regions. In this study we describe our forecast procedure for the 2016-17 season and highlight which features of our models resulted in better or worse forecasts. Most notably, we found that when the dynamics of different regions are coupled together, the forecast accuracy improves. We also found that the most accurate forecasts required some level of forecaster interaction, that is, the procedure could not be completely automated without a reduction in accuracy.",
+      "sentences": [
+        [
+          {
+            "segment_text": "It is estimated that there are between 3 and 5 million worldwide annual seasonal cases of severe influenza illness ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and between 290 000 and 650 000 respiratory deaths .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Influenzalike illness ( ILI ) describes a set of symptoms and is a practical way for health-care workers PLOS Computational Biology | https://doi.to easily estimate likely influenza cases .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The Centers for Disease Control and Prevention ( CDC ) collects and disseminates ILI information ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and has , for the last several years ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "run a forecasting challenge ( the CDC Flu Challenge ) for modelers to predict near-term weekly incidence ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "week of season onset , week of peak , and intensity of peak .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We have developed a modeling framework that accounts for a range of mechanisms thought to be important for influenza transmission ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "such as climatic conditions , school vacations ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "and coupling between different regions .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this study we describe our forecast procedure for the 2016-17 season and highlight which features of our models resulted in better or worse forecasts .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Most notably , we found that when the dynamics of different regions are coupled together , the forecast accuracy improves .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We also found that the most accurate forecasts required some level of forecaster interaction ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "that is , the procedure could not be completely automated without a reduction in accuracy .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Influenza forecasting PLOS Computational Biology | https://doi.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Influenza forecasting PLOS Computational Biology | https://doi .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "20",
+    "segment_num": "32",
+    "token_num": "574"
+  }
+}

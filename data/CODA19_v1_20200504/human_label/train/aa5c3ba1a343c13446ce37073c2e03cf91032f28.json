@@ -1,0 +1,117 @@
+{
+  "paper_id": "aa5c3ba1a343c13446ce37073c2e03cf91032f28",
+  "metadata": {
+    "title": "HIV-1 tolerates changes in A-count in a small segment of the pol gene",
+    "coda_data_split": "train",
+    "coda_paper_id": 5709,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Background: The HIV-1 RNA genome has a biased nucleotide composition with a surplus of As. Several hypotheses have been put forward to explain this striking phenomenon, but the A-count of the HIV-1 genome has thus far not been systematically manipulated. The reason for this reservation is the likelihood that known and unknown sequence motifs will be affected by such a massive mutational approach, thus resulting in replication-impaired virus mutants. We present the first attempt to increase and decrease the A-count in a relatively small polymerase (pol) gene segment of HIV-1 RNA.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Background : The HIV-1 RNA genome has a biased nucleotide composition with a surplus of As .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Several hypotheses have been put forward to explain this striking phenomenon ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but the A-count of the HIV-1 genome has thus far not been systematically manipulated .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The reason for this reservation is the likelihood that known and unknown sequence motifs will be affected by such a massive mutational approach ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "thus resulting in replication-impaired virus mutants .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We present the first attempt to increase and decrease the A-count in a relatively small polymerase ( pol ) gene segment of HIV-1 RNA .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "To minimize the mutational impact, a new mutational approach was developed that is inspired by natural sequence variation as present in HIV-1 isolates. This phylogeny-instructed mutagenesis allowed us to create replication-competent HIV-1 mutants with a significantly increased or decreased local A-count. The local A-count of the wild-type (wt) virus (40.2%) was further increased to 46.9% or reduced to 31.7 and 26.3%. These HIV-1 variants replicate efficiently in vitro, despite the fact that the pol changes cause a quite profound move in HIV-SIV sequence space.",
+      "sentences": [
+        [
+          {
+            "segment_text": "To minimize the mutational impact ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "a new mutational approach was developed that is inspired by natural sequence variation as present in HIV-1 isolates .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "This phylogeny-instructed mutagenesis allowed us to create replication-competent HIV-1 mutants with a significantly increased or decreased local A-count .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The local A-count of the wild-type ( wt ) virus ( 40.2 % ) was further increased to 46.9 % or reduced to 31.7 and 26.3 % .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "These HIV-1 variants replicate efficiently in vitro ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "despite the fact that the pol changes cause a quite profound move in HIV-SIV sequence space .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Extrapolating these results to the complete 9 kb RNA genome, we may cautiously suggest that the A-rich signature does not have to be maintained. This survey also provided clues that silent codon changes, in particular from G-to-A, determine the subtype-specific sequence signatures.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Extrapolating these results to the complete 9 kb RNA genome ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we may cautiously suggest that the A-rich signature does not have to be maintained .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "This survey also provided clues that silent codon changes ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "in particular from G-to-A , determine the subtype-specific sequence signatures .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "3",
+    "sentence_num": "10",
+    "segment_num": "16",
+    "token_num": "244"
+  }
+}

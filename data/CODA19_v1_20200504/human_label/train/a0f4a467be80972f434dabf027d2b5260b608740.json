@@ -1,0 +1,81 @@
+{
+  "paper_id": "a0f4a467be80972f434dabf027d2b5260b608740",
+  "metadata": {
+    "title": "Model for Vaccine Design by Prediction of B-Epitopes of IEDB Given Perturbations in Peptide Sequence, In Vivo Process, Experimental Techniques, and Source or Host Organisms",
+    "coda_data_split": "train",
+    "coda_paper_id": 2006,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "Perturbation methods add variation terms to a known experimental solution of one problem to approach a solution for a related problem without known exact solution. One problem of this type in immunology is the prediction of the possible action of epitope of one peptide after a perturbation or variation in the structure of a known peptide and/or other boundary conditions (host organism, biological process, and experimental assay). However, to the best of our knowledge, there are no reports of general-purpose perturbation models to solve this problem. In a recent work, we introduced a new quantitative structure-property relationship theory for the study of perturbations in complex biomolecular systems. In this work, we developed the first model able to classify more than 200,000 cases of perturbations with accuracy, sensitivity, and specificity \u003e90% both in training and validation series. The perturbations include structural changes in \u003e50000 peptides determined in experimental assays with boundary conditions involving \u003e500 source organisms, \u003e50 host organisms, \u003e10 biological process, and \u003e30 experimental techniques. The model may be useful for the prediction of new epitopes or the optimization of known peptides towards computational vaccine design.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Perturbation methods add variation terms to a known experimental solution of one problem to approach a solution for a related problem without known exact solution .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "One problem of this type in immunology is the prediction of the possible action of epitope of one peptide after a perturbation or variation in the structure of a known peptide and/or other boundary conditions ( host organism , biological process , and experimental assay ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , to the best of our knowledge ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "there are no reports of general-purpose perturbation models to solve this problem .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In a recent work , we introduced a new quantitative structure-property relationship theory for the study of perturbations in complex biomolecular systems .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "In this work , we developed the first model able to classify more than 200,000 cases of perturbations with accuracy ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "sensitivity , and specificity \u003e 90 % both in training and validation series .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The perturbations include structural changes in \u003e 50000 peptides determined in experimental assays with boundary conditions involving \u003e 500 source organisms ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "\u003e 50 host organisms , \u003e 10 biological process ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and \u003e 30 experimental techniques .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The model may be useful for the prediction of new epitopes or the optimization of known peptides towards computational vaccine design .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "11",
+    "token_num": "213"
+  }
+}

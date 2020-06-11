@@ -1,0 +1,71 @@
+{
+  "paper_id": "d5c18eec51362c8bdb6ea24805a3fae5f1fb846c",
+  "metadata": {
+    "title": "Optimal Time Delay in the Control of Epidemic",
+    "coda_data_split": "train",
+    "coda_paper_id": 9874,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "A mathematical model to address the efficiency of the isolation and quarantine strategies in the containment of epidemics is constructed based on the SIR model with time delay. The model is investigated with numerical simulation that demonstrates the importance of quick measure in identifying the infected and the subsequent quarantine of his/her neighbors. The model also provides a theoretical framework for the estimation of the cost involved in the containment of the epidemics. Based on a general estimate of the cost, we demonstrate the procedure for the calculation of the optimal set of parameters in our isolation and quarantine strategy through numerical simulation on a model social network. We find an important parameter π which is a combination of several general parameters for the SIR model so that when π \u003e 0, the isolation and quarantine strategy will fail to contain the outbreak. The procedure outlined provides some general guidance in the selection of strategies in the containment of real epidemics, where the balance between social cost and risk must be carefully handled.",
+      "sentences": [
+        [
+          {
+            "segment_text": "A mathematical model to address the efficiency of the isolation and quarantine strategies in the containment of epidemics is constructed based on the SIR model with time delay .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The model is investigated with numerical simulation that demonstrates the importance of quick measure in identifying the infected and the subsequent quarantine of his/her neighbors .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "The model also provides a theoretical framework for the estimation of the cost involved in the containment of the epidemics .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Based on a general estimate of the cost ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we demonstrate the procedure for the calculation of the optimal set of parameters in our isolation and quarantine strategy through numerical simulation on a model social network .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We find an important parameter π which is a combination of several general parameters for the SIR model so that when π \u003e 0 ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "the isolation and quarantine strategy will fail to contain the outbreak .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The procedure outlined provides some general guidance in the selection of strategies in the containment of real epidemics ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "where the balance between social cost and risk must be carefully handled .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "6",
+    "segment_num": "9",
+    "token_num": "182"
+  }
+}

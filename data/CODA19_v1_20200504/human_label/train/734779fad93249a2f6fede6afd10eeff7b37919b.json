@@ -1,0 +1,289 @@
+{
+  "paper_id": "734779fad93249a2f6fede6afd10eeff7b37919b",
+  "metadata": {
+    "title": "Projecting the transmission dynamics of SARS-CoV-2 through the post-pandemic period",
+    "coda_data_split": "train",
+    "coda_paper_id": 4897,
+    "coda_has_expert_labels": false,
+    "subset": "biorxiv_medrxiv"
+  },
+  "abstract": [
+    {
+      "original_text": "There is an urgent need to project how transmission of the novel betacoronavirus SARS-CoV-2 will unfold in coming years. These dynamics will depend on seasonality, the duration of immunity, and the strength of cross-immunity to/from the other human coronaviruses. Using data from the United States, we measured how these factors affect transmission of human betacoronaviruses HCoV-OC43 and HCoV-HKU1. We then built a mathematical model to simulate transmission of SARS-CoV-2 through the year 2025. We project that recurrent wintertime outbreaks of SARS-CoV-2 will probably occur after an initial pandemic wave. We summarize the full range of plausible transmission scenarios and identify key data still needed to distinguish between them, most importantly longitudinal serological studies to determine the duration of immunity to SARS-CoV-2.",
+      "sentences": [
+        [
+          {
+            "segment_text": "There is an urgent need to project how transmission of the novel betacoronavirus SARS-CoV-2 will unfold in coming years .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "These dynamics will depend on seasonality ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the duration of immunity , and the strength of cross-immunity to/from the other human coronaviruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using data from the United States ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "we measured how these factors affect transmission of human betacoronaviruses HCoV-OC43 and HCoV-HKU1 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We then built a mathematical model to simulate transmission of SARS-CoV-2 through the year 2025 .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We project that recurrent wintertime outbreaks of SARS-CoV-2 will probably occur after an initial pandemic wave .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We summarize the full range of plausible transmission scenarios and identify key data still needed to distinguish between them ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "most importantly longitudinal serological studies to determine the duration of immunity to SARS-CoV-2 .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Main text. The ongoing SARS-CoV-2 epidemic has caused nearly 80,000 detected cases of COVID-19 illness and claimed over 2,500 lives as of 24 Feb 2020 (1). With sustained transmission reported in China, Japan, Iran, Italy, and South Korea (1), the outbreak is on the verge of becoming a pandemic. The required intensity, duration, and urgency of public health responses will depend on how the initial pandemic wave unfolds and on the subsequent transmission dynamics of SARS-CoV-2. One possibility is that SARS-CoV-2 will follow its closest genetic relative, SARS-CoV, and be eradicated by intensive public health measures after causing a brief but intense epidemic (2). Increasingly, public health authorities consider this scenario unlikely (3). Alternatively, the transmission of SARS-CoV-2 could resemble that of pandemic influenza by circulating seasonally after causing an initial global wave of infection (4).",
+      "sentences": [
+        [
+          {
+            "segment_text": "Main text .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The ongoing SARS-CoV-2 epidemic has caused nearly 80,000 detected cases of COVID-19 illness and claimed over 2,500 lives as of 24 Feb 2020 ( 1 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "With sustained transmission reported in China ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "Japan , Iran , Italy ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and South Korea ( 1 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the outbreak is on the verge of becoming a pandemic .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The required intensity , duration ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and urgency of public health responses will depend on how the initial pandemic wave unfolds and on the subsequent transmission dynamics of SARS-CoV-2 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "One possibility is that SARS-CoV-2 will follow its closest genetic relative ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "SARS-CoV , and be eradicated by intensive public health measures after causing a brief but intense epidemic ( 2 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Increasingly , public health authorities consider this scenario unlikely ( 3 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Alternatively , the transmission of SARS-CoV-2 could resemble that of pandemic influenza by circulating seasonally after causing an initial global wave of infection ( 4 ) .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Such a scenario could reflect the previous emergence of known human coronaviruses from zoonotic origins e.g. human coronavirus (HCoV) OC43 (5). This paper identifies viral, environmental, and immunologic factors which in combination will determine which scenarios in fact play out, and identifies key data needed to distinguish between them.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Such a scenario could reflect the previous emergence of known human coronaviruses from zoonotic origins e.g. human coronavirus ( HCoV ) OC43 ( 5 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "This paper identifies viral , environmental ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and immunologic factors which in combination will determine which scenarios in fact play out ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "and identifies key data needed to distinguish between them .",
+            "crowd_label": "purpose"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The transmission dynamics of the SARS-CoV-2 epidemic will depend on factors including the degree of seasonal variation in transmission strength, the duration of immunity, and the degree of cross-immunity between SARS-CoV-2 and other coronaviruses. SARS-CoV-2 belongs to the betacoronavirus genus, which includes the SARS coronavirus, MERS coronavirus, and two other human coronaviruses, HCoV-OC43 and HCoV-HKU1. The SARS and MERS coronaviruses cause severe illness with case fatality rates of 9 and 36% respectively, but the transmission of both has remained limited (6). HCoV-OC43 and HCoV-HKU1 infections may be asymptomatic or associated with mild to moderate upper respiratory tract illness; these HCoVs are considered the second most common cause of the common cold (6). While investigations into the spectrum of illness caused by SARS-CoV-2 are ongoing, recent evidence indicates the majority of cases experience mild illness with more limited occurrence of severe lower respiratory infection (7). Current COVID-19 case fatality rates in China are estimated at 2.9% within Hubei province, and 0.4% outside (8), suggesting lower severity than SARS and MERS but higher severity than HCoV-OC43 and HCoV-HKU1. In terms of transmission, the ability of SARS-CoV-2 to cause widespread infection is more reflective of HCoV-OC43 and HCoV-HKU1 than of its more clinically severe relatives. HCoV-OC43 and HCoV-HKU1 cause annual wintertime outbreaks of respiratory illness in temperate regions (9, 10), suggesting that wintertime climate and host behaviors may facilitate transmission, as is true for influenza (11) (12) (13) . Immunity to HCoV-OC43 and HCoV-HKU1 appears to wane appreciably within one year (14), while SARS infection can induce longer-lasting immunity (15). The . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The transmission dynamics of the SARS-CoV-2 epidemic will depend on factors including the degree of seasonal variation in transmission strength ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "the duration of immunity , and the degree of cross-immunity between SARS-CoV-2 and other coronaviruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "SARS-CoV-2 belongs to the betacoronavirus genus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which includes the SARS coronavirus ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "MERS coronavirus , and two other human coronaviruses , HCoV-OC43 and HCoV-HKU1 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The SARS and MERS coronaviruses cause severe illness with case fatality rates of 9 and 36 % respectively ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "but the transmission of both has remained limited ( 6 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "HCoV-OC43 and HCoV-HKU1 infections may be asymptomatic or associated with mild to moderate upper respiratory tract illness ; these HCoVs are considered the second most common cause of the common cold ( 6 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "While investigations into the spectrum of illness caused by SARS-CoV-2 are ongoing ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "recent evidence indicates the majority of cases experience mild illness with more limited occurrence of severe lower respiratory infection ( 7 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Current COVID-19 case fatality rates in China are estimated at 2.9 % within Hubei province ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and 0.4 % outside ( 8 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "suggesting lower severity than SARS and MERS but higher severity than HCoV-OC43 and HCoV-HKU1 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "In terms of transmission , the ability of SARS-CoV-2 to cause widespread infection is more reflective of HCoV-OC43 and HCoV-HKU1 than of its more clinically severe relatives .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "HCoV-OC43 and HCoV-HKU1 cause annual wintertime outbreaks of respiratory illness in temperate regions ( 9 , 10 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "suggesting that wintertime climate and host behaviors may facilitate transmission ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "as is true for influenza ( 11 ) ( 12 ) ( 13 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Immunity to HCoV-OC43 and HCoV-HKU1 appears to wane appreciably within one year ( 14 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "while SARS infection can induce longer-lasting immunity ( 15 ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The .",
+            "crowd_label": "other"
+          }
+        ],
+        [
+          {
+            "segment_text": "CC-BY-NC-ND 4.0 International license It is made available under a author/funder ,",
+            "crowd_label": "other"
+          },
+          {
+            "segment_text": "who has granted medRxiv a license to display the preprint in perpetuity .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "is the (which was not peer-reviewed) The copyright holder for this preprint .",
+      "sentences": [
+        [
+          {
+            "segment_text": "is the ( which was not peer-reviewed ) The copyright holder for this preprint .",
+            "crowd_label": "other"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "27",
+    "segment_num": "48",
+    "token_num": "699"
+  }
+}

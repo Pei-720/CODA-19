@@ -1,0 +1,225 @@
+{
+  "paper_id": "bfc30febb21caaeca4b083ee15c7b36f94d8b3b4",
+  "metadata": {
+    "title": "Pandemic Infl uenza and Excess Intensive-Care Workload",
+    "coda_data_split": "train",
+    "coda_paper_id": 5313,
+    "coda_has_expert_labels": false,
+    "subset": "custom_license"
+  },
+  "abstract": [
+    {
+      "original_text": "In the Netherlands a major part of preparedness planning for an epidemic or pandemic consists of maintaining essential public services, e.g., by the police, fi re departments, army personnel, and healthcare workers. We provide estimates for peak demand for healthcare workers, factoring in healthcare worker absenteeism and using estimates from published epidemiologic models on the expected evolution of pandemic infl uenza in relation to the impact on peak surge capacity of healthcare facilities and intensive care units (ICUs). Using various published scenarios, we estimate their effect in increasing the availability of healthcare workers for duty during a pandemic. We show that even during the peak of the pandemic, all patients requiring hospital and ICU admission can be served, including those who have non-infl uenza-related conditions. For this rigorous task differentiation, clear hierarchical management, unambiguous communication, and discipline are essential and we recommend informing and training non-ICU healthcare workers for duties in the ICU. I n the Netherlands a major part of preparedness planning for an epidemic or pandemic, e.g., avian infl uenza A, consists of maintaining essential services provided by the police, fi re departments, army personnel, and healthcare workers (HCWs). Even if an effective vaccine against avian infl uenza (H5N1) would be available (1), preparation for a pandemic is still vital to maintain optimal care for acutecare patients and those with infl uenza-like illness (ILI). The preparation for excess workloads among HCWs becomes even more important with the emergence of highly pathogenic avian infl uenza strains.",
+      "sentences": [
+        [
+          {
+            "segment_text": "In the Netherlands a major part of preparedness planning for an epidemic or pandemic consists of maintaining essential public services ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "e.g. , by the police ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "fi re departments , army personnel , and healthcare workers .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We provide estimates for peak demand for healthcare workers ,",
+            "crowd_label": "purpose"
+          },
+          {
+            "segment_text": "factoring in healthcare worker absenteeism and using estimates from published epidemiologic models on the expected evolution of pandemic infl uenza in relation to the impact on peak surge capacity of healthcare facilities and intensive care units ( ICUs ) .",
+            "crowd_label": "purpose"
+          }
+        ],
+        [
+          {
+            "segment_text": "Using various published scenarios , we estimate their effect in increasing the availability of healthcare workers for duty during a pandemic .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We show that even during the peak of the pandemic ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "all patients requiring hospital and ICU admission can be served ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "including those who have non-infl uenza-related conditions .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "For this rigorous task differentiation ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "clear hierarchical management , unambiguous communication ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and discipline are essential and we recommend informing and training non-ICU healthcare workers for duties in the ICU .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "I n the Netherlands a major part of preparedness planning for an epidemic or pandemic ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "e.g. , avian infl uenza A ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "consists of maintaining essential services provided by the police ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "fi re departments , army personnel ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and healthcare workers ( HCWs ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Even if an effective vaccine against avian infl uenza ( H5N1 ) would be available ( 1 ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "preparation for a pandemic is still vital to maintain optimal care for acutecare patients and those with infl uenza-like illness ( ILI ) .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "The preparation for excess workloads among HCWs becomes even more important with the emergence of highly pathogenic avian infl uenza strains .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We present a model to show the impact of the increased demand in HCWs with the increase in the number of hospi-talized patients. We factor in the notion that the number of HCWs will be reduced because of increased absenteeism, which in turn affects the utilization of intensive-care beds and mechanical ventilation capacity. We present scenarios aiding in temporarily increasing the work force of HCWs in the intensive-care unit (ICU) environment using different additive strategies. Because the surge capacity of intensive-care resources is typically limited (2), we explore what training and preparation HCWs and managers at different levels will need to face the challenges posed by pandemic infl uenza.",
+      "sentences": [
+        [
+          {
+            "segment_text": "We present a model to show the impact of the increased demand in HCWs with the increase in the number of hospi-talized patients .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We factor in the notion that the number of HCWs will be reduced because of increased absenteeism ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "which in turn affects the utilization of intensive-care beds and mechanical ventilation capacity .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "We present scenarios aiding in temporarily increasing the work force of HCWs in the intensive-care unit ( ICU ) environment using different additive strategies .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Because the surge capacity of intensive-care resources is typically limited ( 2 ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "we explore what training and preparation HCWs and managers at different levels will need to face the challenges posed by pandemic infl uenza .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Methods",
+      "sentences": [
+        [
+          {
+            "segment_text": "Methods",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The University Medical Center Groningen (UMCG) is a tertiary-care university hospital covering ≈12% of the total Dutch population and ≈30% of the total surface area of the Netherlands. Under Dutch law, UMCG plays a dominant role in the region to organize and coordinate healthcare surge capacity during a catastrophe such as an avian infl uenza pandemic. With regional and municipal health authorities, general practitioners, and medical and managerial representatives of all 15 hospitals in the northern Netherlands region, training courses were organized for pandemic infl uenza. These courses emphasized the need for enhanced collaboration, sharing of information, and communication. Part of this training course was the development of an epidemiologic model to access the regional impact of a pandemic and the extent of possible preparations (3) at both managerial and medical domains.",
+      "sentences": [
+        [
+          {
+            "segment_text": "The University Medical Center Groningen ( UMCG ) is a tertiary-care university hospital covering ≈ 12 % of the total Dutch population and ≈ 30 % of the total surface area of the Netherlands .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Under Dutch law , UMCG plays a dominant role in the region to organize and coordinate healthcare surge capacity during a catastrophe such as an avian infl uenza pandemic .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "With regional and municipal health authorities ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "general practitioners , and medical and managerial representatives of all 15 hospitals in the northern Netherlands region ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "training courses were organized for pandemic infl uenza .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "These courses emphasized the need for enhanced collaboration ,",
+            "crowd_label": "method"
+          },
+          {
+            "segment_text": "sharing of information , and communication .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Part of this training course was the development of an epidemiologic model to access the regional impact of a pandemic and the extent of possible preparations ( 3 ) at both managerial and medical domains .",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "We used FluSurge 2.0 (4) and a computer model in an Excel (Microsoft, Redmond, WA, USA) fi le developed by one of the authors to calculate the impact of an infl uenza",
+      "sentences": [
+        [
+          {
+            "segment_text": "We used FluSurge 2.0 ( 4 ) and a computer model in an Excel ( Microsoft , Redmond , WA , USA ) fi le developed by one of the authors to calculate the impact of an infl uenza",
+            "crowd_label": "method"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "5",
+    "sentence_num": "19",
+    "segment_num": "36",
+    "token_num": "594"
+  }
+}

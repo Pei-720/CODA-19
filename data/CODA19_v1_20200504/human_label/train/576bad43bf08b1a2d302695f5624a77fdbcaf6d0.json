@@ -1,0 +1,204 @@
+{
+  "paper_id": "576bad43bf08b1a2d302695f5624a77fdbcaf6d0",
+  "metadata": {
+    "title": "Evolutionary Dynamics of MERS- CoV: Potential Recombination, Positive Selection and Transmission OPEN",
+    "coda_data_split": "train",
+    "coda_paper_id": 6483,
+    "coda_has_expert_labels": false,
+    "subset": "comm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "was first discovered in 2012. MERS-CoV can infect multiple host species and cause severe diseases in human. We conducted a series of phylogenetic and bioinformatic analyses to study the evolution dynamics of MERS-CoV among different host species with genomic data. Our analyses show: 1) 28 potential recombinant sequences were detected and they can be classified into seven potential recombinant types; 2) The spike (S) protein of MERS-CoV was under strong positive selection when",
+      "sentences": [
+        [
+          {
+            "segment_text": "was first discovered in 2012 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "MERS-CoV can infect multiple host species and cause severe diseases in human .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "We conducted a series of phylogenetic and bioinformatic analyses to study the evolution dynamics of MERS-CoV among different host species with genomic data .",
+            "crowd_label": "method"
+          }
+        ],
+        [
+          {
+            "segment_text": "Our analyses show : 1 ) 28 potential recombinant sequences were detected and they can be classified into seven potential recombinant types ; 2 ) The spike ( S ) protein of MERS-CoV was under strong positive selection when",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Middle East Respiratory Syndrome coronavirus (MERS-CoV) is a novel beta-coronavirus with high pathogenicity, which imposes a serious threat to human health 1 . Substantial evidence has showed that MERS-CoVs have existed in central and east Africa for decades 2,3 , and have many natural hosts including two species of bats (Neoromicia capensis and Vespertilio superans), dromedary camel (Camelus dromedarius), and European hedgehog (Erinaceus europaeus) 4-7 . Yet it seemed that human MERS-CoV first isolated in Saudi Arabian in 2012, and then spread among humans worldwide 8 . Studies of prototype human MERS-CoV also suggested that the tMRCA (the time of most recent common ancestor) of human MERS-CoV can be traced back to about 2011 9 . Because the genome sequence of bat MERS-CoV is highly identical to that of human MERS-CoV, it has been indicated that human MERS-CoV might have a bat origin 10 , while there is also some evidence of camel-to-human MERS-CoV transmission 11,12 . Together, these studies proposed that zoonotic event may play a nontrivial part in MERS-CoV evolution and transmission.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Middle East Respiratory Syndrome coronavirus ( MERS-CoV ) is a novel beta-coronavirus with high pathogenicity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "which imposes a serious threat to human health 1 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Substantial evidence has showed that MERS-CoVs have existed in central and east Africa for decades 2,3 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and have many natural hosts including two species of bats ( Neoromicia capensis and Vespertilio superans ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "dromedary camel ( Camelus dromedarius ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and European hedgehog ( Erinaceus europaeus ) 4-7 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Yet it seemed that human MERS-CoV first isolated in Saudi Arabian in 2012 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "and then spread among humans worldwide 8 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Studies of prototype human MERS-CoV also suggested that the tMRCA ( the time of most recent common ancestor ) of human MERS-CoV can be traced back to about 2011 9 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Because the genome sequence of bat MERS-CoV is highly identical to that of human MERS-CoV ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "it has been indicated that human MERS-CoV might have a bat origin 10 ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "while there is also some evidence of camel-to-human MERS-CoV transmission 11,12 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Together , these studies proposed that zoonotic event may play a nontrivial part in MERS-CoV evolution and transmission .",
+            "crowd_label": "background"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "Previous studies showed that recombination was common among the members of beta-coronavirus 13,14 . By joining the previously unlinked DNA, recombination event can create new viral strains which may be capable of infecting new hosts and evading host\u0027s immuno-responses. The phylogenetic analysis showed that there were two main MERS-CoV clades-clade A and B, and clade B can be further divided into five phylogenetic groups 15 . There is evidence that recombination event had happened between group III and group V 15 . However, whether there was potential recombination event happened between the other groups or among multiple phylogenetic groups remains unclear.",
+      "sentences": [
+        [
+          {
+            "segment_text": "Previous studies showed that recombination was common among the members of beta-coronavirus 13,14 .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "By joining the previously unlinked DNA ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "recombination event can create new viral strains which may be capable of infecting new hosts and evading host \u0027s immuno-responses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The phylogenetic analysis showed that there were two main MERS-CoV clades-clade A and B ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and clade B can be further divided into five phylogenetic groups 15 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "There is evidence that recombination event had happened between group III and group V 15 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "However , whether there was potential recombination event happened between the other groups or among multiple phylogenetic groups remains unclear .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    },
+    {
+      "original_text": "The genome of MERS-CoV is over 30,000 nucleotides (nt) in length, which contains seven predicted open reading frames (ORFs) and four structural genes-spike (S), envelope (E), membrane (M), and nucleocapsid (N) 16 (supplementary Fig. 1c ). The surface located spike (S) protein of beta-coronaviruses is one of the major determinants in their cross-species transmission because it mediates the virus-receptor recognition and thereby activates viral infection process 17 . Additionally, the receptor binding domain (RBD) on S protein\u0027s N-terminal is the key element for beta-coronavirus entering into host cells and the mutations in coronavirus\u0027s RBD affects its infection and cross-species capability 18, 19 . For example, the study of the spike protein from severe acute respiratory syndrome coronavirus (SARS-CoV), another beta-coronavirus with high pathogenicity, revealed four amino",
+      "sentences": [
+        [
+          {
+            "segment_text": "The genome of MERS-CoV is over 30,000 nucleotides ( nt ) in length ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "which contains seven predicted open reading frames ( ORFs ) and four structural genes-spike ( S ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "envelope ( E ) , membrane ( M ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "and nucleocapsid ( N ) 16 ( supplementary Fig. 1c ) .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "The surface located spike ( S ) protein of beta-coronaviruses is one of the major determinants in their cross-species transmission because it mediates the virus-receptor recognition and thereby activates viral infection process 17 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Additionally , the receptor binding domain ( RBD ) on S protein \u0027s N-terminal is the key element for beta-coronavirus entering into host cells and the mutations in coronavirus \u0027s RBD affects its infection and cross-species capability 18 , 19 .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "For example , the study of the spike protein from severe acute respiratory syndrome coronavirus ( SARS-CoV ) ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "another beta-coronavirus with high pathogenicity , revealed four amino",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "4",
+    "sentence_num": "19",
+    "segment_num": "32",
+    "token_num": "537"
+  }
+}

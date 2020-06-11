@@ -1,0 +1,93 @@
+{
+  "paper_id": "fca7adbc5fdaeba0fedd1201e496704b1a888556",
+  "metadata": {
+    "title": "MRPrimerV: a database of PCR primers for RNA virus detection",
+    "coda_data_split": "train",
+    "coda_paper_id": 8086,
+    "coda_has_expert_labels": false,
+    "subset": "noncomm_use_subset"
+  },
+  "abstract": [
+    {
+      "original_text": "To understand viral disease, detection and identification of these viruses are essential. Although PCR is widely used for rapid virus identification due to its low cost and high sensitivity and specificity, very few online database resources have compiled PCR primers for RNA viruses. To effectively detect viruses, the MRPrimerV database (http://MRPrimerV.com) contains 152 380 247 PCR primer pairs for detection of 1818 viruses, covering 7144 coding sequences (CDSs), representing 100% of the RNA viruses in the most up-to-date NCBI RefSeq database. Due to rigorous similarity testing against all human and viral sequences, every primer in MRPrimerV is highly target-specific. Because MR-PrimerV ranks CDSs by the penalty scores of their best primer, users need only use the first primer pair for a single-phase PCR or the first two primer pairs for two-phase PCR. Moreover, MRPrimerV provides the list of genome neighbors that can be detected using each primer pair, covering 22 192 variants of 532 RefSeq RNA viruses. We believe that the public availability of MRPrimerV will facilitate viral metagenomics studies aimed at evaluating the variability of viruses, as well as other scientific tasks.",
+      "sentences": [
+        [
+          {
+            "segment_text": "To understand viral disease , detection and identification of these viruses are essential .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Although PCR is widely used for rapid virus identification due to its low cost and high sensitivity and specificity ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "very few online database resources have compiled PCR primers for RNA viruses .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "To effectively detect viruses , the MRPrimerV database ( http://MRPrimerV.com ) contains 152 380 247 PCR primer pairs for detection of 1818 viruses ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "covering 7144 coding sequences ( CDSs ) ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "representing 100 % of the RNA viruses in the most up-to-date NCBI RefSeq database .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Due to rigorous similarity testing against all human and viral sequences ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "every primer in MRPrimerV is highly target-specific .",
+            "crowd_label": "background"
+          }
+        ],
+        [
+          {
+            "segment_text": "Because MR-PrimerV ranks CDSs by the penalty scores of their best primer ,",
+            "crowd_label": "background"
+          },
+          {
+            "segment_text": "users need only use the first primer pair for a single-phase PCR or the first two primer pairs for two-phase PCR .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "Moreover , MRPrimerV provides the list of genome neighbors that can be detected using each primer pair ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "covering 22 192 variants of 532 RefSeq RNA viruses .",
+            "crowd_label": "finding"
+          }
+        ],
+        [
+          {
+            "segment_text": "We believe that the public availability of MRPrimerV will facilitate viral metagenomics studies aimed at evaluating the variability of viruses ,",
+            "crowd_label": "finding"
+          },
+          {
+            "segment_text": "as well as other scientific tasks .",
+            "crowd_label": "finding"
+          }
+        ]
+      ]
+    }
+  ],
+  "abstract_stats": {
+    "paragraph_num": "1",
+    "sentence_num": "7",
+    "segment_num": "14",
+    "token_num": "203"
+  }
+}
