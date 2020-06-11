@@ -418,25 +418,26 @@ def evaluate(model, eval_data, device):
     total_acc = 0
     predict = []
     true_label = []
-    for count, (x_batch, y_batch) in enumerate(eval_data, 1):
-        x_batch = x_batch.to(device)
-        y_batch = y_batch.to(device)
-        y_pred = model(x_batch)
+    with torch.no_grad():
+        for count, (x_batch, y_batch) in enumerate(eval_data, 1):
+            x_batch = x_batch.to(device)
+            y_batch = y_batch.to(device)
+            y_pred = model(x_batch)
 
-        # compute loss
-        loss = F.cross_entropy(y_pred, y_batch)
-        total_loss += loss.item()
+            # compute loss
+            loss = F.cross_entropy(y_pred, y_batch)
+            total_loss += loss.item()
 
-        # compute accuracy
-        y_pred = torch.argmax(y_pred, dim=1)
-        correct_num = torch.sum(y_pred == y_batch).double()
-        total_acc += correct_num / y_pred.shape[0]
-        predict.append(y_pred.cpu().numpy())
-        true_label.append(y_batch.cpu().numpy())
+            # compute accuracy
+            y_pred = torch.argmax(y_pred, dim=1)
+            correct_num = torch.sum(y_pred == y_batch).double()
+            total_acc += correct_num / y_pred.shape[0]
+            predict.append(y_pred.cpu().numpy())
+            true_label.append(y_batch.cpu().numpy())
 
-        print("\x1b[2K\rEval [{:.2f}%] Loss: {:.5f} Acc: {:.5f}".format(
-            100.0*count/total_count, total_loss/count, total_acc/count), end="")
-    
+            print("\x1b[2K\rEval [{:.2f}%] Loss: {:.5f} Acc: {:.5f}".format(
+                100.0*count/total_count, total_loss/count, total_acc/count), end="")
+
     predict = np.hstack(predict)
     true_label = np.hstack(true_label)
     acc = accuracy_score(true_label, predict)
