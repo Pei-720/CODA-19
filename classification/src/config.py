@@ -1,7 +1,7 @@
 import os
 import platform
 
-root_dir = "C:/Users/HSIAO PEI TSEN/Downloads/CODA-19-master/CODA-19-master/"
+root_dir = "/content/CODA-19/"
 covid_data_dir = os.path.join(root_dir, "data/", "CODA19_v1_20200504/", "human_label/")
 
 model_dir = os.path.join(root_dir, "classification/", "model")
